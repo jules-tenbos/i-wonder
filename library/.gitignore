@@ -1,0 +1,15 @@
+# Generated catalog (rebuild with: python library/pipeline/process.py)
+catalog/lectures/
+catalog/podcasts/
+catalog/readings/
+catalog/plays/
+catalog/languages/
+catalog/other/
+
+# Search index + extractions
+research.db
+extractions/
+
+# Python
+pipeline/__pycache__/
+pipeline/logs/*.log
