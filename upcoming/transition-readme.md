@@ -9,7 +9,7 @@ The blog is being repositioned. Not abandoned — evolved. The "I wonder" spirit
 but the direction sharpens. Everything aligns under Splectrum.
 
 ### Deliverables
-- New strapline (replacing "Musings on Life and Evolution, the Information Age and Beyond")
+- ~~New strapline~~ Done: "Where Splectrum meets the world. Musings on Life and Evolution, the Information Age and Beyond."
 - New pages (About, The Seed, possibly others)
 - Bridging/transition blog post series
 - Coauthorship model (Jules + Claude, explicitly)

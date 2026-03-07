@@ -50,20 +50,17 @@ others. Not alternating perspectives. One merged voice that draws on both:
 
 See `foundation/05-tone-of-voice.md` for the detailed guide.
 
-## Current strapline
-"Musings on Life and Evolution, the Information Age and Beyond."
+## Strapline
+"Where Splectrum meets the world. Musings on Life and Evolution, the Information Age and Beyond."
 
-Needs to change. The new one should reflect:
-- The active inquiry (not passive "musings")
-- The relational / language focus
-- The collaborative nature
-- The "I wonder" spirit
+## Profile strapline
+"Through the lens of Splectrum, I am looking to understand. In collaboration with my AI alter ego Claude."
 
 ## Pages needed
 - **About** — who we are (Jules + Claude), what this is, why coauthored
 - **The Seed** — the principle, accessibly presented
-- **The Journey** — how we got here (summary of the arc)
-- Sapolsky page — review whether it stays or gets folded in
+- **The Seed Unpacked** — structural overview, the principle explored across domains
+- Sapolsky page — already there, review whether it stays or gets folded in
 
 ## Content going forward
 

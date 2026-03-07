@@ -13,7 +13,7 @@ from google.oauth2.credentials import Credentials
 from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
 
-REPO_ROOT = Path(__file__).resolve().parent.parent
+REPO_ROOT = Path(__file__).resolve().parent
 CREDENTIALS_FILE = REPO_ROOT / "credentials.json"
 TOKEN_FILE = REPO_ROOT / "token.json"
 BLOG_URL = "https://julestenbos.blogspot.com"
@@ -264,11 +264,9 @@ def cmd_sync(service, blog_id, _args):
     live = {p["title"].strip(): p for p in posts.get("items", [])}
 
     # Get repo posts (published — files with date prefix)
-    blog_dir = REPO_ROOT / "blog"
+    published_dir = REPO_ROOT / "published"
     repo_titles = {}
-    for md_file in sorted(blog_dir.glob("*.md")):
-        if md_file.name in ("README.md", "posting-guide.md"):
-            continue
+    for md_file in sorted(published_dir.glob("*.md")):
         text = md_file.read_text(encoding="utf-8")
         for line in text.split("\n"):
             stripped = line.strip()

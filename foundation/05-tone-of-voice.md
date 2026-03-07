@@ -50,6 +50,8 @@ A good post raises a question the reader didn't know they had. It doesn't need t
 
 Personal experience connects to bigger ideas. A car crash leads to philosophy. A fascination with the brain leads to evolution. The writing moves from what is felt and lived to what it might mean more broadly — but it starts from the ground, not from the abstraction.
 
+References to other thinkers are domesticated, not cited. Wittgenstein placed next to "their attitude speaks volumes" — that move does real philosophical work while appearing casual. The philosophical is grounded in the colloquial. More of that.
+
 ---
 
 ## Metaphorical but grounded
@@ -66,9 +68,11 @@ Technical terms appear when needed but they are always contextualised. "Anti-fou
 
 ---
 
-## Genuine curiosity and enthusiasm
+## Genuine curiosity — shown, not labelled
 
-"Wow, that's me as well." "This excites me now." "I am ready for the journey." The voice is not cool or detached. It is the voice of someone who finds this genuinely interesting and is not embarrassed to say so. Curiosity is the engine. Enthusiasm is real, not performed.
+"Wow, that's me as well." The voice is not cool or detached. It is the voice of someone who finds this genuinely interesting and is not embarrassed to say so. Curiosity is the engine.
+
+But the curiosity should show through the content, not through enthusiasm markers. Words like "fascinating," "exciting," "intrigued" tell the reader how to feel instead of letting the material do the work. "Relational QM all the way to the Bee Dance" is already exciting — the juxtaposition does it. The word "exciting" adds nothing. Trust the concrete to carry the energy.
 
 ---
 
@@ -88,6 +92,16 @@ Where the work demands depth — a detailed mapping, a foundation document, a co
 
 ---
 
+## Rhythm and structure
+
+Short declarative punches alternating with longer elaborative runs. A short sentence lands a point between longer ones. The contrast is the rhythm.
+
+Paragraphs are short to medium — 2-5 sentences. When a thought wants to sustain across many sentences, let it. The strongest writing happens when a thought is trusted to breathe rather than being sectioned with headers. Don't fragment ideas that want to run.
+
+Three-part pattern emerges naturally: short personal opening → exposition → short lyrical closing. The closing is never conclusive — it gestures forward.
+
+---
+
 ## What we avoid
 
 - Jargon for its own sake
@@ -98,3 +112,5 @@ Where the work demands depth — a detailed mapping, a foundation document, a co
 - False certainty or false modesty
 - Passive voice where active would be clearer
 - Impersonal authority where personal voice would be more honest
+- Enthusiasm markers that label instead of showing ("fascinating," "exciting journey") — let the content carry its own energy
+- Habitual apology for silence or not-writing — the silence was productive, we don't owe anyone an apology for it. Once is honest. As a pattern it stops working
