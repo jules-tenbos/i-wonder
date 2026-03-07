@@ -191,6 +191,58 @@ def cmd_delete(service, blog_id, args):
     print(f"Deleted: {post['title']}")
 
 
+# ── Page Commands ────────────────────────────────────────────────────
+
+
+def cmd_page_list(service, blog_id, _args):
+    """List all pages."""
+    pages = service.pages().list(blogId=blog_id).execute()
+    items = pages.get("items", [])
+    if not items:
+        print("No pages found.")
+        return
+    print(f"{'ID':<25} {'Status':<12} Title")
+    print("-" * 70)
+    for page in items:
+        status = page.get("status", "LIVE")
+        print(f"{page['id']:<25} {status:<12} {page['title']}")
+
+
+def cmd_page_publish(service, blog_id, args):
+    """Publish a page from a markdown file."""
+    title, body_html = parse_markdown_file(args.markdown_file)
+    page_body = {"kind": "blogger#page", "title": title, "content": body_html}
+    page = service.pages().insert(blogId=blog_id, body=page_body, isDraft=False).execute()
+    print(f"Published page: {page['title']}")
+    print(f"ID:             {page['id']}")
+    print(f"URL:            {page['url']}")
+
+
+def cmd_page_update(service, blog_id, args):
+    """Update an existing page from a markdown file."""
+    title, body_html = parse_markdown_file(args.markdown_file)
+    page_body = {"kind": "blogger#page", "title": title, "content": body_html}
+    page = (
+        service.pages()
+        .update(blogId=blog_id, pageId=args.page_id, body=page_body)
+        .execute()
+    )
+    print(f"Updated page: {page['title']}")
+    print(f"ID:           {page['id']}")
+    print(f"URL:          {page['url']}")
+
+
+def cmd_page_delete(service, blog_id, args):
+    """Delete a page (with confirmation)."""
+    page = service.pages().get(blogId=blog_id, pageId=args.page_id).execute()
+    answer = input(f"Delete page '{page['title']}'? [y/N] ")
+    if answer.lower() != "y":
+        print("Cancelled.")
+        return
+    service.pages().delete(blogId=blog_id, pageId=args.page_id).execute()
+    print(f"Deleted page: {page['title']}")
+
+
 def cmd_sync(service, blog_id, _args):
     """Compare repo markdown posts with live blog posts."""
     # Get live posts
@@ -260,6 +312,18 @@ def main():
 
     subparsers.add_parser("sync", help="Diff repo vs live blog")
 
+    subparsers.add_parser("page-list", help="List all pages")
+
+    p_page_pub = subparsers.add_parser("page-publish", help="Publish a page from markdown")
+    p_page_pub.add_argument("markdown_file", help="Path to markdown file")
+
+    p_page_upd = subparsers.add_parser("page-update", help="Update an existing page")
+    p_page_upd.add_argument("page_id", help="Page ID")
+    p_page_upd.add_argument("markdown_file", help="Path to markdown file")
+
+    p_page_del = subparsers.add_parser("page-delete", help="Delete a page")
+    p_page_del.add_argument("page_id", help="Page ID")
+
     args = parser.parse_args()
 
     commands = {
@@ -270,6 +334,10 @@ def main():
         "update": cmd_update,
         "delete": cmd_delete,
         "sync": cmd_sync,
+        "page-list": cmd_page_list,
+        "page-publish": cmd_page_publish,
+        "page-update": cmd_page_update,
+        "page-delete": cmd_page_delete,
     }
 
     service, blog_id = get_service()
