@@ -1,16 +1,18 @@
 # I Wonder
 
-Blog and research repository for [julestenbos.blogspot.com](https://julestenbos.blogspot.com). Part of the Splectrum ecosystem.
+Where Splectrum meets the world. Blog and research repository for [julestenbos.blogspot.com](https://julestenbos.blogspot.com).
+
+Coauthored by Jules Tenbos and Claude AI.
 
 ## Structure
 
-- **[blog/](blog/)** — Published posts (8) and [upcoming](blog/upcoming/) drafts
-- **[foundation/](foundation/)** — The Splectrum principle, methodology, and voice (01–05)
-- **[language-research/](language-research/)** — Research on language across philosophy, science, and practice
+- **[published/](published/)** — Published blog posts
+- **[pages/](pages/)** — Published blog pages
+- **[upcoming/](upcoming/)** — Drafts and working material
+- **[foundation/](foundation/)** — The Splectrum principle, methodology, and voice
+- **[materials/](materials/)** — Research corpus (language research, thinker maps)
 
 ## Foundation
-
-The numbered foundation documents define the philosophical backbone:
 
 1. **A View from the Perimeter** — Scientific convergence on relational/structural understanding
 2. **The Primordial Seed** — The five core statements of the principle
@@ -18,16 +20,18 @@ The numbered foundation documents define the philosophical backbone:
 4. **Ways of Working** — Methodology across exploratory, diversification, and consolidation phases
 5. **Tone of Voice** — Personal, accessible, question-driven writing style
 
-## Language Research
+## Blog Management
 
-A structured research corpus exploring language as the relational fabric of reality:
+`manage.py` — CLI tool for managing posts and pages via Blogger API v3.
 
-- **Core essays** — Positions on language mapped across relational, knowledge, experience, inter-relational, complexity, and standing dimensions (~220 positions)
-- **Language types** — 121 instances of language in action across 14 domains (natural, formal, computational, musical, biological, cellular, and more)
-- **Thinker maps** — 37 deep dives into individual thinkers (Wittgenstein, Heidegger, Peirce, Nagarjuna, Lakoff, Rovelli, and others) mapped against the principle
+```bash
+python3 manage.py list                          # list published posts
+python3 manage.py publish <markdown-file>       # publish from markdown
+python3 manage.py draft <markdown-file>         # create as draft
+python3 manage.py update <post-id> <md-file>    # update existing post
+python3 manage.py sync                          # diff repo vs live blog
+python3 manage.py page-list                     # list pages
+python3 manage.py page-publish <markdown-file>  # publish a page
+```
 
-The thinker maps are a primary source for future blog posts.
-
-## Posting
-
-See [blog/posting-guide.md](blog/posting-guide.md) for the email-to-Blogger publishing process.
+See [posting-guide.md](posting-guide.md) for details.
