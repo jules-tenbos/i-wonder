@@ -113,10 +113,18 @@ def parse_markdown_file(filepath):
         print("Error: No '# Title' found on first line.", file=sys.stderr)
         sys.exit(1)
 
+    # Check for Labels: line after title
+    labels = []
+    if body_start < len(lines):
+        next_line = lines[body_start].strip()
+        if next_line.lower().startswith("labels:"):
+            labels = [l.strip() for l in next_line[7:].split(",") if l.strip()]
+            body_start += 1
+
     body_md = "\n".join(lines[body_start:]).strip()
     body_html = markdown.markdown(body_md, extensions=["extra", "sane_lists"])
 
-    return title, body_html
+    return title, body_html, labels
 
 
 # ── Commands ─────────────────────────────────────────────────────────
@@ -149,8 +157,10 @@ def cmd_get(service, blog_id, args):
 
 def cmd_publish(service, blog_id, args):
     """Publish a post from a markdown file."""
-    title, body_html = parse_markdown_file(args.markdown_file)
+    title, body_html, labels = parse_markdown_file(args.markdown_file)
     post_body = {"kind": "blogger#post", "title": title, "content": body_html}
+    if labels:
+        post_body["labels"] = labels
     post = service.posts().insert(blogId=blog_id, body=post_body, isDraft=False).execute()
     print(f"Published: {post['title']}")
     print(f"ID:        {post['id']}")
@@ -159,8 +169,10 @@ def cmd_publish(service, blog_id, args):
 
 def cmd_draft(service, blog_id, args):
     """Create a draft from a markdown file."""
-    title, body_html = parse_markdown_file(args.markdown_file)
+    title, body_html, labels = parse_markdown_file(args.markdown_file)
     post_body = {"kind": "blogger#post", "title": title, "content": body_html}
+    if labels:
+        post_body["labels"] = labels
     post = service.posts().insert(blogId=blog_id, body=post_body, isDraft=True).execute()
     print(f"Draft created: {post['title']}")
     print(f"ID:            {post['id']}")
@@ -168,8 +180,10 @@ def cmd_draft(service, blog_id, args):
 
 def cmd_update(service, blog_id, args):
     """Update an existing post from a markdown file."""
-    title, body_html = parse_markdown_file(args.markdown_file)
+    title, body_html, labels = parse_markdown_file(args.markdown_file)
     post_body = {"kind": "blogger#post", "title": title, "content": body_html}
+    if labels:
+        post_body["labels"] = labels
     post = (
         service.posts()
         .update(blogId=blog_id, postId=args.post_id, body=post_body)
@@ -210,7 +224,7 @@ def cmd_page_list(service, blog_id, _args):
 
 def cmd_page_publish(service, blog_id, args):
     """Publish a page from a markdown file."""
-    title, body_html = parse_markdown_file(args.markdown_file)
+    title, body_html, _labels = parse_markdown_file(args.markdown_file)
     page_body = {"kind": "blogger#page", "title": title, "content": body_html}
     page = service.pages().insert(blogId=blog_id, body=page_body, isDraft=False).execute()
     print(f"Published page: {page['title']}")
@@ -220,7 +234,7 @@ def cmd_page_publish(service, blog_id, args):
 
 def cmd_page_update(service, blog_id, args):
     """Update an existing page from a markdown file."""
-    title, body_html = parse_markdown_file(args.markdown_file)
+    title, body_html, _labels = parse_markdown_file(args.markdown_file)
     page_body = {"kind": "blogger#page", "title": title, "content": body_html}
     page = (
         service.pages()
