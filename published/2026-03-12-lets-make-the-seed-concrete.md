@@ -1,37 +1,19 @@
 # Let's Make the Seed Concrete
 
-So Splectrum is born. So what you may ask. Should I be impressed? Are those five lines really so special? I happen to think so. So much is hidden in their apparent simplicity. I am not talking about subjects for discussion at high table, but about what is happening in everyone's daily life.
+<img src="https://images.unsplash.com/photo-1519671282429-b44660ead0a7?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Dinner party" style="float:left;margin:0 15px 10px 0;width:350px;" />
 
-There is only one thing I am asking you to do — think of language differently, as something you live rather than something you speak. And I am going to use something that is great at bringing people together — a dinner party.
+So Splectrum is born, the seed is there. So what you may ask. Should I be impressed? Are those five lines really so special? I happen to think so. So much is hidden in their apparent simplicity. I am not talking about subjects for discussion at high table, but about what is happening in everyone's daily life. Let's unpack a little.
 
-You learn to cook by handling ingredients, tasting, adjusting, burning things. Your cooking grows from what you've actually touched. Someone who has never cooked sees a tomato. You see texture, ripeness, a dozen possible dishes. That difference isn't intelligence — it's relation. Your language of cooking grew from what you related to.
+There is only one thing I am asking you to do — think of language differently, as something you live rather than something you speak. Let's try it out on something that is great at bringing people together — a dinner party.
 
-That's the first line of the seed: *what a language gives access to depends on what it relates to.* No relation, no access.
+Before we can sit down and eat there is some cooking to be done. It's all in its own language, the ingredients we need, how they have to be prepared, how they are joined together. All relational, a relational language that you live, experience as you are doing it. That's line 1 done.
 
-Now take two people eating the same dish. One grew up with it — grandmother's kitchen, childhood afternoons. The other tastes it for the first time. Same dish, different experience. Neither is wrong. Each experiences it through their own history, their own palate. Your experience is yours — not secret, but private. It comes through you.
+So we can now sit at the table and eat. The food I take, the way I eat it, the taste, texture, the appearance. What I experience is very personal, nobody has the experience the same way I do. It may be very similar, but not the same. It's yours, privately yours.
 
-That's the second line: *a subject experiences reality through language.* There is always a you and a not-you. Being nowhere is not an option.
+We do love to talk about food, share experiences and opinions, get more knowledgeable in the process. It's part of our culture, it's a shared language, it is a reality that we share and makes us feel we belong together. But think about it, can you think of anything outside that 'living language' that creates it? Everything we experience and share has to come to us through our senses (never mind you believe in a sixth sense or not). I can't imagine any other way, can you?
 
-But you don't stay private. The family around the dinner table — one finds it too salty, another thinks the garlic is stronger than usual. Through conversation, something emerges that no single person had alone. A shared picture of the meal. Not the truth — what survives the overlap.
+You probably didn't notice, but we covered the second, third and fourth line: The living languages is where we have our personal experiences, where we share with others about what is — reality. And without effort languages spring up everywhere, all tied into each other. Are you not trying it on, you may say. Don't make a fuss and put it into one language. And in a sense we do, it is all expressed in the same natural language. But as an experience, what gets done where and how each one is different. Cooking in the kitchen, often on one's own. Eating happens together, at the table. We just take it for granted. Such a complexity of interwoven interactions, and we don't blink an eye.
 
-That's the third line: *subjects share knowledge.* And notice — without the private experience there is nothing to share. Without the sharing there is no knowledge. You need both.
+And we are only talking about one dinner party. One small evening. Now think about everything else we do — working, playing, raising children, making music, building things, arguing, falling in love. Each with its own languages, its own web of relations. The complexity is endless and it keeps growing.
 
-Now widen it. A meal sits at the intersection of many languages. Growing food, cooking it, eating it, studying its chemistry, understanding its economics. The farmer knows something about the tomato that the chemist doesn't. The chemist knows something the farmer doesn't. Neither is more real. And they're not sealed off — the farmer's knowledge informs the chef, the chef's demands shape what the farmer grows.
-
-That's the fourth line: *languages are inter-relational with equal standing.* No one language gets to declare itself the real one.
-
-And the web keeps growing. Every new recipe, every fusion of traditions, every new technique opens more possibilities. A hundred years ago "umami" wasn't in the Western food vocabulary. Now it shapes how millions think about flavour. Not by design — by relating.
-
-That's the fifth line: *together they form a web of growing complexity.* Relating produces new relations. The web cannot help but grow.
-
-Walk through these five and something becomes visible. If every subject has its own experience — privacy. If knowledge requires sharing — convergence. If languages have equal standing — no hierarchy. Then dismissing someone's experience cuts off a perspective the overlap needs. Declaring one language superior shrinks the web.
-
-The seed doesn't prescribe an ethics. But it surfaces the ground from which ethics grows.
-
-I wonder where that leads.
-
----
-
-*Raw flow notes:*
-
-For the first line talk about cooking a recipe, for the second line the experience of eating it (taste, sight, texture, ...), for the third line sharing it with guests at the dinner table, the reality of the dinner. How cooking, eating, sharing all have their own 'languages' but are at the same time tightly interrelated (line 4). And we are only talking about cooking for a dinner party - look at all the rest we do (line 5 web of complexity). Those are the 5 lines speaking, about one little happening amidst all the rest. The start of unpacking the seed. It will take us to so many places, highbrow and lowbrow. Our next stop unpacking will be Wittgenstein's language games ...
+That is what fascinates and really excites me: the simplicity of the seed versus the complexity it represents. Never mind what happens in this world, these five lines run through it all. No way around it. All good and well me saying this, but is there actually support for this way of thinking? Let's find out — that is what unpacking is about. What do these five lines lead to, and is it supported by what other people think. And yes this will involve philosophers with their special vocabulary and ways of thinking, but also biologists, physicists, people in the arts, religion, all walks of life. Let's go on that journey — next stop a philosopher, Wittgenstein, and his language games.
