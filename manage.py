@@ -178,6 +178,26 @@ def cmd_draft(service, blog_id, args):
     print(f"ID:            {post['id']}")
 
 
+def cmd_schedule(service, blog_id, args):
+    """Schedule a post for future publication."""
+    title, body_html, labels = parse_markdown_file(args.markdown_file)
+    publish_date = args.datetime
+    if not publish_date.endswith("Z") and "+" not in publish_date:
+        publish_date += "+00:00"
+    post_body = {
+        "kind": "blogger#post",
+        "title": title,
+        "content": body_html,
+        "published": publish_date,
+    }
+    if labels:
+        post_body["labels"] = labels
+    post = service.posts().insert(blogId=blog_id, body=post_body, isDraft=True).execute()
+    print(f"Scheduled: {post['title']}")
+    print(f"ID:        {post['id']}")
+    print(f"Publish:   {publish_date}")
+
+
 def cmd_update(service, blog_id, args):
     """Update an existing post from a markdown file."""
     title, body_html, labels = parse_markdown_file(args.markdown_file)
@@ -315,6 +335,10 @@ def main():
     p_draft = subparsers.add_parser("draft", help="Create as draft")
     p_draft.add_argument("markdown_file", help="Path to markdown file")
 
+    p_sched = subparsers.add_parser("schedule", help="Schedule post for future date")
+    p_sched.add_argument("markdown_file", help="Path to markdown file")
+    p_sched.add_argument("datetime", help="Publish date (e.g. 2026-03-15T10:00:00)")
+
     p_update = subparsers.add_parser("update", help="Update existing post")
     p_update.add_argument("post_id", help="Post ID")
     p_update.add_argument("markdown_file", help="Path to markdown file")
@@ -343,6 +367,7 @@ def main():
         "get": cmd_get,
         "publish": cmd_publish,
         "draft": cmd_draft,
+        "schedule": cmd_schedule,
         "update": cmd_update,
         "delete": cmd_delete,
         "sync": cmd_sync,
