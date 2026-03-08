@@ -192,10 +192,11 @@ def cmd_schedule(service, blog_id, args):
     }
     if labels:
         post_body["labels"] = labels
-    post = service.posts().insert(blogId=blog_id, body=post_body, isDraft=True).execute()
+    post = service.posts().insert(blogId=blog_id, body=post_body, isDraft=False).execute()
     print(f"Scheduled: {post['title']}")
     print(f"ID:        {post['id']}")
     print(f"Publish:   {publish_date}")
+    print(f"Status:    {post.get('status', 'unknown')}")
 
 
 def cmd_update(service, blog_id, args):
@@ -279,9 +280,12 @@ def cmd_page_delete(service, blog_id, args):
 
 def cmd_sync(service, blog_id, _args):
     """Compare repo markdown posts with live blog posts."""
-    # Get live posts
-    posts = service.posts().list(blogId=blog_id, status="LIVE").execute()
-    live = {p["title"].strip(): p for p in posts.get("items", [])}
+    # Get live and scheduled posts
+    live = {}
+    for status in ("LIVE", "SCHEDULED"):
+        posts = service.posts().list(blogId=blog_id, status=status).execute()
+        for p in posts.get("items", []):
+            live[p["title"].strip()] = p
 
     # Get repo posts (published — files with date prefix)
     published_dir = REPO_ROOT / "published"
