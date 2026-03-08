@@ -4,6 +4,8 @@ Where Splectrum meets the world. Blog and research repository for [julestenbos.b
 
 Coauthored by Jules Tenbos and Claude AI.
 
+The blog is where ideas first get expressed publicly. The thinking and crystallisation happens in splectrum-explore — from there, output flows into the foundation (building) and into the blog (public voice).
+
 ## Structure
 
 - **[published/](published/)** — Published blog posts

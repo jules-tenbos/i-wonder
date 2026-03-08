@@ -7,6 +7,19 @@ transformation explored from multiple angles at once.
 
 ---
 
+## Schedule
+
+Five-day publishing interval.
+
+| Date | Post |
+|------|------|
+| Mar 7 | "Splectrum is Born" (published) |
+| Mar 12 | "Let's Make the Seed Concrete" |
+| Mar 17 | "Teaming Up With My Alter Ego" |
+| Mar 22 | "From Language to Form of Life" |
+
+---
+
 ## Priority Posts
 
 ### 1. "Let's Make the Seed Concrete"
@@ -116,6 +129,12 @@ is what gets created, not who creates it.
 
 ## Touchstones (as they come)
 
+- **The Web We Didn't Build** — Centralisation as the path of least
+  resistance. The web skipped locality, boundaries, neighbourhood — went
+  straight to global. The same pattern repeats with every new technology
+  (printing, radio, TV, web, AI): arrives as liberation, centralises within
+  a generation. Not conspiracy — convenience and naivety. P2P as the hard
+  path that doesn't skip the structure. Equal standing requires distribution.
 - **Same Fabric** — the convergence moment. Short post.
 - **Encounters with thinkers** — Rovelli, Merleau-Ponty, Peirce, and others
 - **Making it real** — when the software produces something genuinely useful

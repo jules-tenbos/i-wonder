@@ -24,15 +24,28 @@
 
 ## What the blog is for
 
-The blog is where Splectrum meets the reader. It's the accessible face of the
-inquiry. The foundation documents, the explorations, the software — those live
-in their own repos. The blog tells the story of the thinking as it happens.
+The blog is where ideas first get expressed publicly. The thinking and
+crystallisation happens in splectrum-explore. From there, output flows in
+two directions: into the foundation (where it adds to the main building)
+and into the blog (where it gets aired in public).
+
+    splectrum-explore (research/crystallise)
+                |                |
+                v                v
+         foundation          i-wonder
+        (building)        (public voice)
+
+If this goes places, a more substantial body of writing may follow. You
+can't do that cold. The blog is the warm-up, the testing ground, the place
+where ideas prove themselves in the open before they earn a more permanent
+form.
 
 It is:
-- The public voice of the Splectrum project
+- Where ideas first meet the world — the public voice of Splectrum
 - A record of the inquiry as it unfolds
-- An example of what it discusses (coauthored = principle in action)
+- An example of what it discusses (coauthored = seed in action)
 - Accessible to anyone curious, not just specialists
+- The warm-up for more substantial writing if the ideas hold
 
 It is not:
 - A technical blog about the software
