@@ -98,7 +98,7 @@ Short declarative punches alternating with longer elaborative runs. A short sent
 
 Paragraphs are short to medium — 2-5 sentences. When a thought wants to sustain across many sentences, let it. The strongest writing happens when a thought is trusted to breathe rather than being sectioned with headers. Don't fragment ideas that want to run.
 
-Three-part pattern emerges naturally: short personal opening → exposition → short lyrical closing. The closing is never conclusive — it gestures forward.
+Three-part pattern emerges naturally: short personal opening → exposition → short closing. The closing can gesture forward, but it doesn't have to — forcing it every time becomes formulaic. Often the content itself gestures forward without the closing needing to say so.
 
 ---
 
@@ -114,3 +114,14 @@ Three-part pattern emerges naturally: short personal opening → exposition → 
 - Impersonal authority where personal voice would be more honest
 - Enthusiasm markers that label instead of showing ("fascinating," "exciting journey") — let the content carry its own energy
 - Habitual apology for silence or not-writing — the silence was productive, we don't owe anyone an apology for it. Once is honest. As a pattern it stops working
+- Over-polishing internal notes — roughness and half-finished thoughts are fine in working material. Formulaic symmetry is an AI habit to watch for
+
+---
+
+## Way of working — voice
+
+Internally we use "we" — with context indicating which side (human or AI) when it matters. Publicly we use "I" — first person, one person thinking out loud.
+
+Tone of voice is a living document. We review it regularly against recent output — not mid-session, but after working sessions where significant writing or editing happened. The review is best done cold: a fresh session with only the tone guide and the writings, no memory of the conversations that produced them. This catches exactly the gaps that cause session transfer problems — things we've internalised but haven't written down.
+
+The cold review produces observations, not corrections. The judgement about what to update stays collaborative.

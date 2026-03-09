@@ -29,8 +29,7 @@ the seed through everyday examples — food, music, parenting, neighbours, a
 street over decades. Demonstrates that the seed is not describing something
 exotic but naming structures already present in ordinary life.
 
-Source material exists in `materials/thoughts/the-principle-in-plain-sight.md`
-— essentially blog-ready with editorial shaping.
+Published March 12.
 
 ### 2. "Teaming Up With My Alter Ego"
 
