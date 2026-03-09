@@ -251,3 +251,48 @@ biology.
 These don't need to be sequential or exhaustive. Each is an encounter
 with a thinker — recognition of overlap, honest about difference.
 The seed connects them, but the connection surfaces, not imposed.
+
+---
+
+## Unpacking significance
+
+The research for these posts didn't just find support for the seed —
+it showed the seed's own structure at work in the history of philosophy:
+
+- **The cul-de-sac is Wittgenstein's lived experience.** The Tractatus
+  hitting its own wall is statement 1 in action — a language reaching
+  the limits of what it relates to.
+
+- **The private, clarified.** Merleau-Ponty forced us to sharpen
+  statement 2. The private isn't disconnected — it's the end point of
+  sensory processing, the subject's side of relation. Private because
+  of the relating, not despite it.
+
+- **Equal standing has philosophical anchors.** Rorty: the analytical/
+  continental split is artificial. Winch: understanding another culture
+  means learning its language games, not imposing yours. Statement 4
+  isn't just ethical preference — it has structural backing.
+
+- **The convergence demonstrates the seed.** Two traditions (analytical,
+  continental), each with their own reach, arriving at shared territory
+  through interaction. That is statements 3 and 4 — subjects sharing
+  knowledge, languages inter-relational with equal standing.
+
+- **The influence landscape is statement 5.** Wittgenstein spawning
+  Austin, Cavell, Kuhn; Merleau-Ponty spawning Dreyfus, Varela; both
+  feeding into Rorty, Taylor, Derrida. Relating generating more to
+  relate to. The web of growing complexity, visible in the history.
+
+## Post-back requirement
+
+These insights need to flow back into the foundation. Specifically:
+
+- The sharpened understanding of the private (statement 2) should be
+  reflected in the seed's supporting material.
+- The philosophical anchors for equal standing (statement 4) should
+  be captured — Rorty and Winch as structural evidence, not just
+  ethical intuition.
+- The cul-de-sac connection to Wittgenstein strengthens that thought
+  piece — cross-reference.
+- The Wittgenstein-Rorty axis as the philosophical backbone of the
+  project should be acknowledged in the foundation or blog direction.
