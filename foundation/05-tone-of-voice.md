@@ -10,7 +10,7 @@ This document captures the personal voice — the human behind the project. The 
 
 First person. Present. Immediate. Not academic third person, not the royal "we" of detachment. "I stumbled across..." "What I most value are..." "I see myself at the start of a journey..." The voice is a person thinking, not an institution pronouncing.
 
-Internally we speak with more than one voice — "we" is the people doing the work together, not an impersonal authority. Externally — in the blog — we speak with one voice: first person, one person thinking out loud.
+Internally we speak with more than one voice — "we" is the people doing the work together, not an impersonal authority. In the blog posts we speak with one voice: first person, one person thinking out loud. On pages the register shifts — "we" becomes author and audience, walking through the material together (see Way of working — voice below).
 
 ---
 
@@ -122,7 +122,11 @@ Three-part pattern emerges naturally: short personal opening → exposition → 
 
 ## Way of working — voice
 
-Internally we use "we" — with context indicating which side (human or AI) when it matters. Publicly we use "I" — first person, one person thinking out loud.
+Three registers, one voice:
+
+- **Internal docs** — "we" means Jules and Claude working together. Context indicates which side when it matters.
+- **Blog posts** — "I" means one person thinking out loud. First person, personal, exploratory.
+- **Pages** — "we" means author and audience walking together. Not "I" reflecting, not the internal "we" of collaboration. The voice guides the reader through an overview, a shared journey. More assertive than the posts, less personal.
 
 Tone of voice is a living document. We review it regularly against recent output — not mid-session, but after working sessions where significant writing or editing happened. The review is best done cold: a fresh session with only the tone guide and the writings, no memory of the conversations that produced them. This catches exactly the gaps that cause session transfer problems — things we've internalised but haven't written down.
 
