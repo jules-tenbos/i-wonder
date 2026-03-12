@@ -36,6 +36,8 @@ This is not false modesty. It is the voice of someone who knows they are at the 
 
 Speculation is welcome. It is flagged as speculation. The difference between what we can claim and what we wonder about is always visible.
 
+The voice is observational, not evaluative. We describe what is there, not what it means for us. If something genuinely supports our position, that is visible without labelling it. Live by example, not by telling others what to do.
+
 ---
 
 ## Questions as drivers

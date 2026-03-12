@@ -6,9 +6,9 @@ How we approach inquiry, across phases.
 
 ## General approach
 
-We reason from within our bubble — the principle and what follows from it. We are not trying to prove right or wrong. We are trying to understand, to find support for our way of thinking, to test it through encounter with others.
+We reason from within our context — the principle and what follows from it. We are not trying to prove right or wrong. We are trying to understand, to find resonance, to see how things relate.
 
-We search for insight, not proof. Each encounter with a thinker, a tradition, a domain teaches us something — either about the fabric or about where the fabric is not. Both are valuable.
+We think relationally, not factually. We look for how things connect — across contexts, across traditions, across domains. The relation is the insight. See tone of thought (doc 06) for how this works in practice.
 
 We build through encounter. The principle is the seed; what it becomes depends on what it meets. We do not deduce from the principle in isolation. We take it into the world and see what resonates and what resists.
 
@@ -19,6 +19,10 @@ The process is iterative by design. We write, review, rewrite, review again. The
 Our claim is purely structural: language is relational, whatever its contents. We do not claim that our vocabulary gets reality right. We claim a structural pattern that is consistent across domains. Content varies by language. Structure does not.
 
 We are conservative with claims. The position is strong and there is no need to push. Where something is an ambition, we say so. Where something is an observation, we say so. Where we are not sure, we say that too. Overstating weakens what is genuinely there.
+
+We are observational, not evaluative. We observe what is there — in a thinker's work, in a domain, in an encounter — without attaching value statements. If something supports us, that will be visible without us labelling it. We live by example, not by telling others what to do.
+
+When engaging with other thinkers: understand their thinking context first — the room they're in, the assumptions, the interlocutors. Their moves make sense within that context. Then switch to our context and see what resonates. Not mapping, not comparing, not judging — relating.
 
 ---
 
