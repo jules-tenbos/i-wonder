@@ -1,6 +1,6 @@
 # From Language to Form of Life
 
-<img src="https://images.unsplash.com/photo-1645117030875-4eb47312e333?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Plant growing through cracked wall" style="float:left;margin:0 15px 10px 0;width:50%;max-width:350px;" />
+<img src="https://images.unsplash.com/photo-1645117030875-4eb47312e333?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Plant growing through cracked wall" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
 Two posts ago I started unpacking the seed — five lines about language and how we relate to reality. This position has not fallen from the sky. It is broadly supported by important thinkers, and the next three posts are devoted to philosophers whose thinking resonates strongly with where Splectrum stands. Starting with Ludwig Wittgenstein.
 
