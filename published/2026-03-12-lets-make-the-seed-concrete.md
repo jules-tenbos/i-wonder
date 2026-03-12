@@ -1,6 +1,6 @@
 # Let's Make the Seed Concrete
 
-<img src="https://images.unsplash.com/photo-1519671282429-b44660ead0a7?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Dinner party" style="float:left;margin:0 15px 10px 0;width:350px;" />
+<img src="https://images.unsplash.com/photo-1519671282429-b44660ead0a7?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Dinner party" style="float:left;margin:0 15px 10px 0;width:50%;max-width:350px;" />
 
 So Splectrum is born, the seed is there. So what, you may ask. Should I be impressed? Are those five lines really so special? I happen to think so. So much is hidden in their apparent simplicity. I am not talking about subjects for discussion at high table, but about what is happening in everyone's daily life. Let's unpack a little.
 

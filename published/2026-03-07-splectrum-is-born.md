@@ -1,6 +1,6 @@
 # Splectrum is Born
 
-<img src="https://images.unsplash.com/photo-1613502719426-cba8fcd9e51c?q=80&w=300&h=320&auto=format&fit=crop&crop=top" alt="Mycelium" style="float:left;margin:0 15px 10px 0;width:300px;" />
+<img src="https://images.unsplash.com/photo-1613502719426-cba8fcd9e51c?q=80&w=300&h=320&auto=format&fit=crop&crop=top" alt="Mycelium" style="float:left;margin:0 15px 10px 0;width:50%;max-width:300px;" />
 
 As with a lot of rebrands, it is trying to revive. Here no different — I managed to stay silent for over half a year. A lot happened in the quiet. It's just that I can't get myself to be a writer!
 

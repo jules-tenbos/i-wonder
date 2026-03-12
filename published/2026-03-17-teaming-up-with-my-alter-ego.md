@@ -1,6 +1,6 @@
 # Teaming Up With My Alter Ego
 
-<img src="https://images.unsplash.com/photo-1735815952441-224afdf53016?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Pair programming" style="float:left;margin:0 15px 10px 0;width:350px;" />
+<img src="https://images.unsplash.com/photo-1735815952441-224afdf53016?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Pair programming" style="float:left;margin:0 15px 10px 0;width:50%;max-width:350px;" />
 
 Collaboration and the idea of an alter ego were very much on my mind well before AI entered the picture. I have written a number of posts on this blog before, but never got the writer fluids flowing freely. Partly because I am not a natural writer as far as long texts are concerned, and partly because my thinking lacked a focus of expression — now fully resolved and condensed into the Splectrum seed.
 
