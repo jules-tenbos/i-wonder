@@ -1,63 +1,21 @@
 # Philosophy as Conversation
 
-[more to follow]
+<img src="https://images.unsplash.com/photo-1592211762325-eea5e40adbd4?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Shattered glass" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
----
+In my last post I talked about Wittgenstein's transition from language to form of life. A strong member of the analytical tradition opening the door to what were considered points of view more at home within the Continental tradition. However this never took the form of a public confrontation — his later works were disseminated in lectures but only properly published two years after his death. This allowed his turn to seep into the tradition quietly — colleagues absorbed the method, "meaning is use," while the radical core went untouched. The plurality of language games, language as form of life — that door stayed unlocked but unopened. A quiet refusal — perhaps the only way of dealing with what was perceived as dissidence in the ranks.
 
-## Notes
+It was Rorty who very publicly opened it and walked through.
 
-### Core arc
+Rorty was an analytical philosopher trained at Princeton, one of their best. His target was what he called the mirror — a picture of reality that had shaped Western philosophy since Descartes. The mind as a mirror of nature. Knowledge as accurate representation. The philosopher's job: to polish the mirror, to get the reflection right. But fifty years after the birth of quantum mechanics, this picture was more in the league of relics. Rorty said: there is no mirror.
 
-**The mirror — his central target.** Western philosophy since Descartes:
-the mind mirrors reality, the job is to polish the mirror. Rorty says:
-there is no mirror. Continues the "outside view" thread from the
-Wittgenstein post — same picture being dismantled, now explicitly.
+No language mirroring reality, but language as a contingent tool — a form of life. Many vocabularies, each shaped by history and purpose. "Our vocabularies have no more of a representational relation to an intrinsic nature of things than does the anteater's snout." Languages are made, not found. No vocabulary has a privileged relationship to reality. No meta-vocabulary exists from which to rank them.
 
-**Vocabularies as tools, not mirrors.** His replacement for the old
-picture. No vocabulary has a privileged relationship to reality. Each
-is a contingent tool for coping — "our vocabularies have no more of a
-representational relation to an intrinsic nature of things than does
-the anteater's snout." Languages are made, not found.
+What replaces the mirror? Conversation. Not discovering truth but keeping the dialogue going. Different vocabularies meeting obliquely — not requiring shared foundations, just willingness to listen, to redescribe, to be changed. Philosophy is not an arbiter standing above the conversation. It is one voice among many.
 
-**Conversation replaces epistemology.** The constructive alternative.
-Not discovering truth but keeping the conversation going. Vocabularies
-meet "obliquely" — they don't need shared foundations, just willingness
-to listen, redescribe, be changed.
+Rorty did not arrive at this alone. He drew heavily on Wittgenstein, part of the analytical tradition, but equally tapped into continental and pragmatist voices like Heidegger and Dewey. For him there was no border, just different vocabularies. This was seen as a serious provocation — he was a traitor to the analytical cause. He left Princeton, and moved on from philosophy to comparative literature at Stanford.
 
-**No ranking — equal standing.** "There is nothing beyond vocabularies
-which serves as a criterion of choice between them." No meta-vocabulary,
-no God's-eye view. Resonates directly with the seed's "equal standing
-in potential."
+His critics sensed something missing — that conversation between vocabularies requires more than just willingness. Rorty said no shared foundation, and left it at that. But the riposte could have been simpler: no shared foundation, perhaps, but all conversations operate within the structure of a conversation. What is shared is structural — relations and interrelations. However, that question was not put on the table.
 
-**He declared the split artificial.** Wittgenstein unlocked the door
-without knowing it. Rorty walked through deliberately and said the
-border was never real. Drew on Wittgenstein, Heidegger, and Dewey
-equally. Was called a traitor by the analytical tradition. Left
-Princeton. The professional price of crossing boundaries.
+But the dam was breached. The relational view of reality started to gain traction across different disciplines, albeit often still as minority views. This can be clearly illustrated by a discussion in physics: the story of relational quantum mechanics.
 
-### Lighter touches (one or two, not all)
-
-**The convergent critique.** Multiple critics press the same point:
-conversation between vocabularies requires something shared. Rorty's
-practice presupposes what his theory denies. This is where the seed
-becomes visible — it makes explicit what Rorty leaves implicit.
-
-**The experience question.** Rorty dropped experience entirely. The
-seed keeps both — experience as the private side, language as the
-shared side. Two aspects of the same relation.
-
-### Tone checkpoints
-
-- Alongside, not above — no "Rorty confirms the seed"
-- Observational, not evaluative — describe his moves, let the
-  resonance show itself
-- Not recruited for permission — encountered, not enlisted
-- From where I stand, this territory looks familiar
-- Brief and suggestive — open the door, don't furnish the room
-
-### Research
-
-Material in `materials/language-research/`:
-- `step-2-the-axis.md` (Rorty section)
-- `step-2-discussion.md` (Rorty section)
-- `research-rorty-vocabularies-conversation.md`
+Next up: let's go back in time a bit, to Merleau-Ponty who put the body back into the picture.
