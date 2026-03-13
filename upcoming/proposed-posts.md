@@ -10,7 +10,7 @@
 
 The outside view dismantled — told through both philosophy and science.
 
-- **The philosophical turn** — Kant to now. The arc from outside observer to participant, seen whole. Overview, not summary of individual encounters.
+- **From the Turn to the Present** — bridge post. The philosophical turn seen whole, from Kant through the encounters to now. Pivots to science. Not a summary of individual posts but what becomes visible when you see the full arc at once.
 - **Loss of the God's-eye perspective** — the science story. Classical mechanics → relativity → quantum mechanics. Each step breaking the previous picture of reality. Rich material, possibly more than one post.
 - **The crisis of the observer** — where the two threads meet. Science and philosophy arriving at the same impasse from different directions.
 - **The push-through** — RQM. From radical position to mainstream. The relational view as the water we now swim in.
