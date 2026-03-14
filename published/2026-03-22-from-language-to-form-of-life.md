@@ -23,3 +23,6 @@ What makes Wittgenstein's turn is where he started. He was firmly on the analyti
 From where I stand, the trajectory looks familiar. A language reaching its own limits. Something breaking open. The lived reality that was always underneath the formal structure. Wittgenstein made that journey from one picture to the other, from the inside.
 
 Next up: Rorty, who walked through that door and kept going.
+
+---
+<small>Photo: <a href="https://unsplash.com/@sayanhn">Sayan Hn</a> / Unsplash</small>

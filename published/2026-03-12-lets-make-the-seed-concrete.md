@@ -1,6 +1,6 @@
 # Let's Make the Seed Concrete
 
-<img src="https://images.unsplash.com/photo-1519671282429-b44660ead0a7?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Dinner party" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://images.unsplash.com/photo-1519671282429-b44660ead0a7?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Friends gathered around a dinner table" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
 So Splectrum is born, the seed is there. So what, you may ask. Should I be impressed? Are those five lines really so special? I happen to think so. So much is hidden in their apparent simplicity. I am not talking about subjects for discussion at high table, but about what is happening in everyone's daily life. Let's unpack a little.
 
@@ -17,3 +17,6 @@ Cooking the food, or eating it at the dinner table does not stand on its own. We
 Everyone has their own unique way they experience the world, how they relate to what is around them. Here it was just a dinner party. Think about everything else we do — working, playing, raising children, making music, arguing, falling in love.
 
 The simplicity of five lines — the seed — versus the complexity of what follows from it. Does that hold? Isn't there a way around it? All well and good me saying this, but is there actually support for this way of thinking? Let's find out — that is what unpacking is about. What do these five lines allow me to say, and is it supported by what other people think? And yes, this will involve philosophers with their special vocabulary and ways of thinking, but also biologists, physicists, people in the arts, religion, all walks of life. Let's go on that journey — next stop a philosopher, Wittgenstein, and his language games.
+
+---
+<small>Photo: <a href="https://unsplash.com/@kchance8">Kelsey Chance</a> / Unsplash</small>

@@ -19,3 +19,6 @@ His critics sensed something missing — that conversation between vocabularies 
 But the dam was breached. The relational view of reality started to gain traction across different disciplines, albeit often still as minority views. This can be clearly illustrated by a discussion in physics: the story of relational quantum mechanics.
 
 Next up: let's go back in time a bit, to Merleau-Ponty who put the body back into the picture.
+
+---
+<small>Photo: <a href="https://unsplash.com/@batuhan_dogan">Batuhan Doğan</a> / Unsplash</small>

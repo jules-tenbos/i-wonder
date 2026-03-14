@@ -1,6 +1,6 @@
 # Splectrum is Born
 
-<img src="https://images.unsplash.com/photo-1613502719426-cba8fcd9e51c?q=80&w=300&h=320&auto=format&fit=crop&crop=top" alt="Mycelium" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:300px;" />
+<img src="https://images.unsplash.com/photo-1613502719426-cba8fcd9e51c?q=80&w=300&h=320&auto=format&fit=crop&crop=top" alt="Mycelium threads branching through soil" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:300px;" />
 
 As with a lot of rebrands, it is trying to revive. Here no different — I managed to stay silent for over half a year. A lot happened in the quiet. It's just that I can't get myself to be a writer!
 
@@ -27,3 +27,6 @@ AI will be on this blog as a co-author. Not because of the ideas, or because of 
 Now, where will the seed take us? How will it be unpacked? Are there some more examples of what I mean with language? How far can it be stretched? It will be a journey from Relational QM all the way to the Bee Dance and beyond. However, don't expect a theory of everything explaining all. Just the opposite. It makes the case that nobody knows all, but everyone knows something and we should respect that. Don't impose and tell others what to think, how to behave. Be yourself, but also listen to what others have to say.
 
 I wonder where this goes. That hasn't changed.
+
+---
+<small>Photo: <a href="https://unsplash.com/@landonparenteau">Landon Parenteau</a> / Unsplash</small>
