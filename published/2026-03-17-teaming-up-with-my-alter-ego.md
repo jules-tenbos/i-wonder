@@ -1,6 +1,6 @@
 # Teaming Up With My Alter Ego
 
-<img src="https://images.unsplash.com/photo-1735815952441-224afdf53016?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Pair programming" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://images.unsplash.com/photo-1735815952441-224afdf53016?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Two people collaborating at a screen" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
 Collaboration and the idea of an alter ego were very much on my mind well before AI entered the picture. I have written a number of posts on this blog before, but never got the writer fluids flowing freely. Partly because I am not a natural writer as far as long texts are concerned, and partly because my thinking lacked a focus of expression — now fully resolved and condensed into the Splectrum seed.
 
@@ -13,3 +13,6 @@ On the engineering side the alter ego approach started as pair programming. Two 
 So how does that translate into shared authorship for my blog, or for my research and thinking for that matter? Here the output is different — it is a public voice. Not a piece of code that executes and does stuff. There is still only one author, a single entity, a combination of a head and a pair of hands, so to speak. I am also a person with a high vagal tone and I am emotionally closely involved in what I do — I really live it. That makes tone of voice very important to me. It needs to be right for my thinking to activate properly. So any division of labour between head and hands is only going to work when they speak the same language. How do we deal with the inner voice when we chat and discuss, and with the outer voice when it is put out there for you to read?
 
 I could decide to ignore co-authorship. The voice is mine and the ideas are mine — should I acknowledge that inner collaborator? I believe I should, not only to recognise the work done by my alter ego colleague but more importantly to draw attention to the future ahead. The hands-on collaborator gives me more space and time to do what I really want to do: think, analyse, research and get better at putting it on paper. Where the internet gave us the capability to easily search countless libraries of stuff, AI is giving me the capability to talk about it, to discuss and think. That, more than anything else, is what I with my alter ego want to achieve on this blog. And share it at the same time.
+
+---
+<small>Photo: <a href="https://unsplash.com/@mushvig95">Mushvig Niftaliyev</a> / Unsplash</small>
