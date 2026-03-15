@@ -12,9 +12,10 @@
 
 ## Territory: The Turn — science emphasis
 
-- **The Outside View Dismantled** — the science story. Classical mechanics → relativity → quantum mechanics. Each step breaking the previous picture of reality. Rich material, possibly more than one post. Philosophy peppered in where it illuminates.
-- **The crisis of the observer** — where the two threads meet. Science and philosophy arriving at the same impasse from different directions.
-- **The push-through** — RQM. From radical position to mainstream. The relational view as the water we now swim in.
+- **April 11 — How Science Became Relational** — the science parallel. From Aristotle through the Scientific Revolution (Descartes/Newton built the outside view) to its dismantling: relativity, quantum mechanics, the observer forced back in. The mind/body split as both liberation and the seed of its own undoing.
+- **April 16 — The Relational Reality of RQM** — RQM. From radical position to mainstream. Properties belong to interactions, not objects. The relational view as the water we now swim in.
+- **April 21 — In Search of the Simplest Language** — programming languages as languages; how stripped-down can a language get and still be a language? Opens the door to a wider scope without needing to assert it.
+- **April 26 — Language as a Form of Life and Beyond** — the bold post. Unpacking the Splectrum seed: language extended all the way into 'dead matter'. Not metaphor — structural claim. The philosophical and science turns converge here.
 
 ## Territory: Life
 

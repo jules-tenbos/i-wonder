@@ -17,6 +17,7 @@ The outside view dismantled, traced from Kant to the present:
 - Hegel — made that structuring historical and social
 - Husserl — turned to lived experience itself
 - Heidegger — placed understanding within the activity of living
+- Whitehead — process over substance, reality as events and relations, not fixed objects
 - Wittgenstein — meaning in use, language games, forms of life
 - Rorty — no mirror, vocabularies as tools, conversation replaces epistemology
 - Merleau-Ponty — the body back in the picture
