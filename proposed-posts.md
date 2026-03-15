@@ -24,6 +24,14 @@ The relational pattern in living systems. Biology, biosemiotics, cellular signal
 
 Interlaced as the work produces material. Mycelium, HAICC, the software expressing the same principle in code. Timing and topics depend on what emerges.
 
+## Territory: The Scope of Language
+
+After RQM establishes the relational, this cluster establishes what we mean by language — broader than the conventional view. The seed rests on both pillars; each needs its own groundwork.
+
+- **The scope of language** — the bold definition post. What counts as language in our view, and why.
+- Possible support posts: programming languages as languages; elementary/simple languages (how stripped-down can a language get and still be a language?).
+- Justification thread: languages demonstrably evolve from simple to complex. The question is: how simple? That opens the door to a wider scope without needing to assert it.
+
 ## Territory: Building from the Seed
 
 After the turn and RQM, the ground is established and the confidence earned. Splectrum starts building its own positions — epistemology, ontology, ethics — each a widening spiral from the seed. Not defending the principle against other positions but building from it. The language wings spread.

@@ -1,5 +1,7 @@
 # The Body as Medium
 
+<img src="https://images.unsplash.com/photo-1506869640319-fe1a24fd76dc?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Friends connecting over shared experience" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+
 The previous two posts traced a turn within the analytical tradition. Wittgenstein showed that language lives in use — in games, in forms of life. Rorty went further: no mirror, no privileged vocabulary, just conversation. Language was freed from representation. But the conversation stayed on the sharing side — what happens between language users. What about the users themselves? What is shared first needs to be experienced.
 
 This question takes us into different territory. The analytical tradition looked at language from the outside in — structure, logic, social practice. The continental tradition looked from the inside out — lived experience, perception, the body. Pragmatism cut across both — what works, goes. Three traditions, three angles on the same thing. Not arguing with each other so much as standing in different places.
@@ -23,3 +25,6 @@ In 1958, at a conference in Royaumont outside Paris, analytical and continental 
 Merleau-Ponty died three years later, in 1961 — before the full impact of the later Wittgenstein had reached the continent, and two decades before Rorty's mirror would shatter. The convergence he sensed at Royaumont would take a generation to become visible.
 
 Next up: we step back and look at the turn as a whole — from Kant to the present.
+
+---
+<small>Photo: <a href="https://unsplash.com/@iamchang">Chang Duong</a> / Unsplash</small>
