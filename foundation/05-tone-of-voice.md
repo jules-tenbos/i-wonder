@@ -18,7 +18,7 @@ Internally we speak with more than one voice — "we" is the people doing the wo
 
 The writing flows like talking to someone who is interested. Not stiff, not slangy. Contractions when natural, full forms when the weight is needed. Short sentences. Line breaks for rhythm. Sometimes a fragment for emphasis. Not everything needs to be a complete grammatical unit.
 
-The reader is a companion on the walk, not a student in a lecture hall.
+The register has range. Personal and Splectrum posts can be more animated — rhetorical questions directed at the reader, mild self-deprecation, exclamation marks used sparingly but genuinely. Philosopher and science posts pull back to a more measured, essayistic register. Both are within range. The reader is a companion on the walk, not a student in a lecture hall.
 
 ---
 
@@ -28,6 +28,8 @@ The reader is a companion on the walk, not a student in a lecture hall.
 
 This is not false modesty. It is the voice of someone who knows they are at the beginning of a long inquiry and is comfortable saying so. Uncertainty is stated, not hidden. What we don't know is as present as what we do.
 
+This register applies when advancing Splectrum's own positions. When narrating established philosophy or science, the voice can be direct and assured — the material has earned that confidence. The humility is in the framing (placing thinkers alongside, not ranking), not in sentence-level hedging.
+
 ---
 
 ## Speculative but flagged
@@ -35,6 +37,8 @@ This is not false modesty. It is the voice of someone who knows they are at the 
 "I believe..." "I think of..." "From where we stand..." Positions are stated as positions — personal, provisional, open to revision. Not as truth. Not as conclusions. The reader can see where we are standing and judge accordingly.
 
 Speculation is welcome. It is flagged as speculation. The difference between what we can claim and what we wonder about is always visible.
+
+Confidence is cumulative and earned. Early posts in a series lay groundwork; later posts can be more assertive because the material supports it. This is not a contradiction of honesty about limitations — it is the honest voice recognising when the ground is firm enough to stand on.
 
 The voice is observational, not evaluative. We describe what is there, not what it means for us. If something genuinely supports our position, that is visible without labelling it. Live by example, not by telling others what to do.
 
@@ -61,6 +65,8 @@ References to other thinkers are domesticated, not cited. Wittgenstein placed ne
 "The blue screen of death." "The olympic flame of life." "My poor central computer took a bit longer to find its mojo back." The metaphors are vivid, everyday, physical. They illuminate, they don't decorate. They make the abstract tangible.
 
 The fabric/cloth image. The seed. The plectrum. These are metaphors that carry structural meaning, not just colour.
+
+Some metaphors operate across posts as a structural spine. The door/turn metaphor in the philosopher series — Wittgenstein opens the door, Rorty walks through, Merleau-Ponty stands in a different place but recognises the same landscape — connects multiple posts into a single arc. This is deliberate narrative architecture.
 
 ---
 
@@ -117,6 +123,7 @@ Three-part pattern emerges naturally: short personal opening → exposition → 
 - Enthusiasm markers that label instead of showing ("fascinating," "exciting journey") — let the content carry its own energy
 - Habitual apology for silence or not-writing — the silence was productive, we don't owe anyone an apology for it. Once is honest. As a pattern it stops working
 - Over-polishing internal notes — roughness and half-finished thoughts are fine in working material. Formulaic symmetry is an AI habit to watch for
+- Academic citation apparatus — no footnotes, no inline references, no bibliography. Thinkers are named and contextualised in the text
 
 ---
 
@@ -125,7 +132,7 @@ Three-part pattern emerges naturally: short personal opening → exposition → 
 Three registers, one voice:
 
 - **Internal docs** — "we" means Jules and Claude working together. Context indicates which side when it matters.
-- **Blog posts** — "I" means one person thinking out loud. First person, personal, exploratory.
+- **Blog posts** — "I" means one person thinking out loud. First person, personal, exploratory. But the "I" adapts to subject matter: prominent in personal and Splectrum posts, receding in biographical and historical narrative where the material is in the foreground. The voice stays the same — what changes is whether the person or the subject leads.
 - **Pages** — "we" means author and audience walking together. Not "I" reflecting, not the internal "we" of collaboration. The voice guides the reader through an overview, a shared journey. More assertive than the posts, less personal.
 
 Tone of voice is a living document. We review it regularly against recent output — not mid-session, but after working sessions where significant writing or editing happened. The review is best done cold: a fresh session with only the tone guide and the writings, no memory of the conversations that produced them. This catches exactly the gaps that cause session transfer problems — things we've internalised but haven't written down.

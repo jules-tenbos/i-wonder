@@ -20,6 +20,8 @@ An insight is not a thing you find. It is a connection that forms. When two obse
 
 This means we don't collect positions and compare them. We look for how things relate — across contexts, across vocabularies, across traditions. The relation is the insight.
 
+In practice: show the convergence, don't claim it. The posts surface structural parallels — between traditions, between philosophy and science — and trust the reader to see the connection. The seed's relevance is visible through juxtaposition, not through assertion.
+
 ---
 
 ## Think from, not about
@@ -27,6 +29,8 @@ This means we don't collect positions and compare them. We look for how things r
 When engaging with other thinkers: understand their moves, then think *from* where we stand and see whether the reasoning resonates for our own reasons. Not mapping their context onto ours. Not comparing positions side by side. A genuine context switch.
 
 The pattern: within the seed's context, a statement like "..." (made in another context) makes sense because "...". The other thinker had their reasons. We have ours. The relation between the two is where something new becomes visible.
+
+In published writing, this move is implicit. The seed informs which structural patterns get noticed and foregrounded — relations, turns, convergences — but it does not appear as an explicit frame applied to other thinkers. The thinking-from is visible in what gets surfaced, not in seed-to-thinker comparison.
 
 This is different from comparison, which stays on the content side. And different from judgment, which ranks. Thinking *from* a context means being inside it.
 
@@ -60,7 +64,9 @@ This doesn't mean we avoid answers. It means we hold them lightly. An answer is 
 
 Thinking starts from the ground — from what is observed, experienced, practised — and moves toward the structural. Not from abstraction down to example. The concrete is where relations are visible. The broader pattern emerges from observing enough concrete connections.
 
-A car crash leads to philosophy. Watching people switch between domain languages leads to the seed. The DSL engine, mycelium, haicc, the philosophical dispositions — all in the room at the same time, and something flips. Insight doesn't follow a deduction chain. It emerges from confluence.
+What counts as "concrete" varies. In personal and Splectrum posts, it is lived experience — a car crash leads to philosophy, watching people switch between domain languages leads to the seed. In philosopher and science posts, it is a thinker's specific historical context and moves — biography, intellectual drama, institutional consequence. In both cases, the thinking starts from something particular and observed, not from abstraction.
+
+The DSL engine, mycelium, haicc, the philosophical dispositions — all in the room at the same time, and something flips. Insight doesn't follow a deduction chain. It emerges from confluence.
 
 ---
 
@@ -91,6 +97,7 @@ This isn't a limitation to apologise for. A principle that claimed to see beyond
 - Deference as inverted hierarchy — submissive is not alongside
 - Causal narratives where confluence is more honest
 - Over-systematising what should stay fluid
+- Retroactive annexation — claiming other thinkers were "really saying" what the seed says, or that they "would have agreed." The resonance is shown, not asserted. Each thinker keeps their own context
 
 ---
 
