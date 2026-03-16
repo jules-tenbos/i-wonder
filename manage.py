@@ -278,6 +278,55 @@ def cmd_page_delete(service, blog_id, args):
     print(f"Deleted page: {page['title']}")
 
 
+def cmd_sitemap(service, blog_id, _args):
+    """Generate sitemap-posts.xml and sitemap-pages.xml in docs/."""
+    docs_dir = REPO_ROOT / "docs"
+    docs_dir.mkdir(exist_ok=True)
+
+    def write_sitemap(filename, urls):
+        lines = ['<?xml version="1.0" encoding="UTF-8"?>']
+        lines.append('<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">')
+        for url, updated in urls:
+            lines.append("  <url>")
+            lines.append(f"    <loc>{url}</loc>")
+            if updated:
+                lines.append(f"    <lastmod>{updated[:10]}</lastmod>")
+            lines.append("  </url>")
+        lines.append("</urlset>")
+        path = docs_dir / filename
+        path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+        print(f"Written: {path} ({len(urls)} URLs)")
+
+    # Posts (live + scheduled)
+    post_urls = []
+    for status in ("LIVE", "SCHEDULED"):
+        posts = service.posts().list(blogId=blog_id, status=status).execute()
+        for p in posts.get("items", []):
+            post_urls.append((p["url"], p.get("updated")))
+    post_urls.sort(key=lambda x: x[1] or "", reverse=True)
+    write_sitemap("sitemap-posts.xml", post_urls)
+
+    # Pages
+    page_urls = []
+    pages = service.pages().list(blogId=blog_id).execute()
+    for p in pages.get("items", []):
+        page_urls.append((p["url"], p.get("updated")))
+    page_urls.sort(key=lambda x: x[1] or "", reverse=True)
+    write_sitemap("sitemap-pages.xml", page_urls)
+
+    # Sitemap index
+    lines = ['<?xml version="1.0" encoding="UTF-8"?>']
+    lines.append('<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">')
+    for name in ("sitemap-posts.xml", "sitemap-pages.xml"):
+        lines.append("  <sitemap>")
+        lines.append(f"    <loc>https://jules-tenbos.github.io/i-wonder/{name}</loc>")
+        lines.append("  </sitemap>")
+    lines.append("</sitemapindex>")
+    index_path = docs_dir / "sitemap.xml"
+    index_path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    print(f"Written: {index_path} (index)")
+
+
 def cmd_sync(service, blog_id, _args):
     """Compare repo markdown posts with live blog posts."""
     # Get live and scheduled posts
@@ -350,6 +399,7 @@ def main():
     p_delete = subparsers.add_parser("delete", help="Delete a post")
     p_delete.add_argument("post_id", help="Post ID")
 
+    subparsers.add_parser("sitemap", help="Generate sitemaps in docs/")
     subparsers.add_parser("sync", help="Diff repo vs live blog")
 
     subparsers.add_parser("page-list", help="List all pages")
@@ -374,6 +424,7 @@ def main():
         "schedule": cmd_schedule,
         "update": cmd_update,
         "delete": cmd_delete,
+        "sitemap": cmd_sitemap,
         "sync": cmd_sync,
         "page-list": cmd_page_list,
         "page-publish": cmd_page_publish,
