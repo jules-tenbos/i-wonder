@@ -1,214 +1,161 @@
-# How Science Became Relational
+# From Clockwork to Open Questions
 
 <img src="https://images.unsplash.com/photo-1641143215652-971a31701a89?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Light and physics" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
-[more to follow]
+## Storyline
 
----
-<small>Photo: <a href="https://unsplash.com/@grianghraf">Grianghraf</a> / Unsplash</small>
+**Part 1: Clockwork** — Descartes gives the vision (mechanistic world, language of mathematics). Newton gives it equations. Laplace takes it to its logical endpoint: total determinism. Spectacularly productive. Leibniz as an early contrasting voice — space and time are relational, not absolute — but without a workable theory, ignored.
+
+**Part 2: Electromagnetism** — Maxwell. The crowning achievement of classical physics, and the thing that breaks it. The field doesn't fit Newton's picture. The fixed speed of light will force a choice.
+
+**Part 3: Relativity** — Mach calls out the metaphysics. Einstein follows through. Special relativity: no absolute frame, space and time are relative. General relativity: gravity is geometry, spacetime shaped by what's in it. The outside view dismantled for space/time.
+
+**Part 4: Wave-particle duality and the road to QM** — Planck: energy is quantised. Einstein (photoelectric): light is also particles. De Broglie: particles are also waves. Duality makes the wave treatment of particles natural → Schrödinger's equation. Born: the wave is probability, not physical. Death of classical determinism. The equation is deterministic; what it describes is probabilistic.
+
+**Part 5: Successes and open questions** — QM works: the most empirically successful theory in history. But what does it mean? No consensus. "Shut up and calculate." Force unification: three forces within QM, gravity the outlier — QM and relativity don't play well together. Bell: separability fails, the questions are experimentally real. Wheeler: reality may be constituted through interaction. Each step makes reality stranger, and no explanation catches up. The post ends here — wide open for RQM.
 
 ---
 
 ## Notes
 
-### What this post does
+**Descartes — mechanistic world, language of mathematics**
 
-The science parallel to the philosophical turn. Twelve stepping stones. Each a clean shift in thinking. Not a history of physics — the structural pattern is the point.
+Galileo declared the book of nature "is written in the language of mathematics." Descartes gave this a systematic foundation. If matter is extension and extension is geometry, then mathematics is the only adequate language.
 
-### Key tension
+Before Descartes, explaining nature meant identifying purpose — stones fall because they seek their natural place. Descartes eliminated all of this. Matter is extension — length, breadth, depth, nothing more. The mind-body split freed science to treat the physical world as pure mechanism — no teleology, no hidden intentions, no souls in stones.
 
-The Cartesian split was a brilliant move — it freed science to work. But the price was built in: if mind is separate from matter, the observer is separate from the observed. That assumption holds until relativity and QM force the question.
+**Newton — classical mechanics**
 
-### Tone
-
-- The science story told as a turn, not as a history of physics
-- Philosophy peppered in where it illuminates — Descartes as hinge
-- Not technical — the structural pattern is the point
-
----
-
-## Stepping Stones
-
-### 1. Descartes — matter as mechanism (1644)
-
-Before Descartes, explaining nature meant identifying purpose — stones fall because they seek their natural place. Descartes eliminated all of this. Matter is extension — length, breadth, depth, nothing more. All properties reduce to geometry: size, shape, arrangement, motion. The mind-body split freed science to treat the physical world as pure mechanism — no teleology, no hidden intentions, no souls in stones.
-
-Galileo had declared the book of nature "is written in the language of mathematics." Descartes gave this a systematic foundation. If matter is extension and extension is geometry, then mathematics is the only adequate language.
-
-His specific physics was largely wrong — vortices, collision laws, denial of the vacuum. But the framework survived: matter as mechanism, explanation by contact and motion, nature as mathematical.
-
----
-
-### 2. Newton — the framework (1687)
-
-Newton took Descartes' vision and made it work. The Principia gave science its operating system for two centuries.
+Newton structured the outside view that Descartes started. Took his vision and made it work. The Principia gave science its operating system for two centuries.
 
 Absolute space: "in its own nature, without relation to anything external, remains always similar and immovable." Absolute time: "of itself, and from its own nature, flows equably without relation to anything external." Particles with definite positions and velocities. Forces acting between them. Laws that are deterministic, universal, the same everywhere and at every scale.
 
-The picture of the scientist: standing outside the system, describing what is there. Newton's equations contain no term for the observer. The God's-eye view in mathematical form.
+Laplace brought this to its logical endpoint (1814): an intellect that knows all positions and forces at one instant could calculate everything — past and future. The clockwork universe.
 
-Laplace brought this to its logical endpoint (1814): an intellect that knows all positions and forces at one instant could calculate everything — past and future. "For such an intellect nothing would be uncertain and the future just like the past could be present before its eyes."
+**Leibniz — the relational outlier**
 
-The framework was spectacularly productive. Planetary orbits, tides, comets, the discovery of Neptune (1846) predicted from gravitational calculations. The clockwork universe.
+Leibniz rejected absolute space entirely: "I hold space to be something merely relative, as time is; that I hold it to be an order of coexistences, as time is an order of successions." Space is not a container. It is the ordering of things that coexist. No things, no space.
 
----
+Newton won because his physics worked. Leibniz offered no equations. The relational view was scientifically inert. The thread runs: Leibniz (1716) → largely forgotten → Mach (1883) → Einstein (1915).
 
-### 3. Leibniz — the relational challenge (1715-16)
+**Maxwell — electromagnetism, the field**
 
-Leibniz rejected absolute space entirely. In the correspondence with Clarke (Newton's proxy), he offered a relational account:
+In Newton's world, forces act between particles across empty space. Faraday saw something different: lines of force filling the space between objects. Maxwell translated this into mathematics (1865), unifying electricity, magnetism, and light into a single framework — the electromagnetic field.
 
-"I hold space to be something merely relative, as time is; that I hold it to be an order of coexistences, as time is an order of successions."
+The field is an entity in its own right — everywhere at once, continuous, dynamic. The Newtonian framework has no room for such a thing. And Maxwell's equations predict a fixed speed of light — which will break Newton's mechanics.
 
-Space is not a container. It is the ordering of things that coexist. No things, no space.
+**Mach — metaphysics smuggled into physics**
 
-His argument: imagine God created the universe shifted five feet to the left. Everything in the same arrangement relative to everything else. No observation could distinguish the two. If they're indiscernible, they're identical. The shift is meaningless. If absolute position is meaningless, absolute space is meaningless.
+Mach subjected Newton's foundations to empiricist scrutiny. Absolute space is unobservable. No experiment can detect it. A concept that makes no observable difference is not a physical concept.
 
-Newton won because his physics worked. Leibniz offered no equations. The relational view was scientifically inert.
+Einstein studied Mach in his Bern reading group. The impact was profound.
 
-"During the next two hundred years, the arguments of Leibniz and others against assigning space an independent reality generated hardly an echo in the scientific community."
+**Branch one: Einstein — special and general relativity**
 
-The thread runs: Leibniz (1716) → largely forgotten → Mach (1883) → Einstein (1915).
+Maxwell's equations predict a constant speed of light. Newton's mechanics says velocities add. Something had to give.
 
----
+Special relativity (1905): no absolute simultaneity. Space and time intertwined into spacetime. The God's-eye view is gone — there is no absolute frame. There are only frames in relation to each other.
 
-### 4. Faraday / Maxwell — the field (1830s-1865)
+General relativity (1915): gravity is not a force, it is geometry. Spacetime is not a fixed stage — it is shaped by what's in it and shapes how that content moves. The container and the contents cannot be separated.
 
-Faraday, the blacksmith's son, barely competent in mathematics, saw something new. Sprinkle iron filings around a magnet: curved lines radiating from pole to pole. Others had noticed the patterns. Nobody had treated them as real.
+**Branch two: Quantum mechanics — the second front**
 
-Faraday called them lines of force. By 1852 he was convinced they were physically real:
+Electromagnetism opened two fronts against Newton's framework — one against absolute space (leading to relativity), one against continuous energy (leading to quantum mechanics).
 
-"I cannot conceive curved lines of force without the conditions of a physical existence in that immediate space."
+Planck (1900): energy comes in discrete packets — quanta. "The whole procedure was an act of despair." He spent years trying to undo it. He couldn't.
 
-In Newton's world, forces act between particles across empty space. Faraday's lines of force fill the space. The space between objects is not empty — it is occupied by something, and that something is doing the work.
+Physics rebuilt its foundations. Heisenberg's matrix mechanics (1925). Schrödinger's wave equation (1926). Born's interpretation: the wave function gives probabilities, not certainties. Heisenberg's uncertainty principle (1927): position and momentum cannot both be known precisely — not a limit of instruments, a feature of nature.
 
-Maxwell translated Faraday's intuition into mathematics. His equations (1865) unified electricity, magnetism, and light into a single framework. The electromagnetic field — continuous, pervading space, carrying energy, propagating at finite speed. Einstein later called it "the most important invention since Newton's time."
+Classical mechanics tells you what is there. Quantum mechanics tells you what you will find if you look. And it works — atomic spectra, chemical bonds, semiconductors, lasers, nuclear physics. The most empirically successful theory in history. Nothing it predicts has ever been wrong.
 
-The field is not a relationship between particles. It is an entity in its own right — everywhere at once, continuous, dynamic. The Newtonian framework has no room for such a thing.
+The theory works. What it means is another matter.
 
----
+What is the wave function? What happens when you measure? Why does measurement produce definite outcomes when the equations describe superpositions? Bohr and Heisenberg offered complementarity. Einstein rejected it. Bohm proposed hidden variables. Everett proposed branching worlds.
 
-### 5. Thermodynamics / Boltzmann — emergence and probability (1850-1877)
+No consensus emerged. None has emerged since. "Shut up and calculate." Generations of physicists trained to use the theory without asking what it means.
 
-Clausius formulated the laws of thermodynamics and coined entropy (1865):
+**Entanglement and Bell — the whole is not the sum of the parts**
 
-"The energy of the universe is constant. The entropy of the universe tends to a maximum."
+When two quantum systems interact and separate, they become correlated in a way that has no classical analogue. The joint system has a quantum state; the individual parts do not.
 
-The new concepts — temperature, pressure, entropy — have no place in the Newtonian framework. A single molecule does not have a temperature. Temperature is a property of a large collection of particles. Pressure emerges from vast numbers of collisions. Entropy describes something about the ensemble as a whole.
-
-These are emergent properties: real, measurable, causally effective — but existing only at the level of the system, not at the level of the parts. The reductionist programme says: describe the parts and you have described everything. Thermodynamics says: there are real properties that only exist at the level of the whole.
-
-Boltzmann gave entropy a statistical interpretation (1877). S = k log W. The second law is not a mechanical necessity — it is a statistical tendency, overwhelmingly likely but not absolutely certain. Probability enters fundamental physics, not as ignorance but as the natural description at the macro level.
-
-He faced fierce opposition. Mach and Ostwald rejected atoms entirely. Boltzmann hanged himself in 1906. Two years later, Perrin's experiments confirmed atoms beyond doubt.
-
----
-
-### 6. Mach — absolute space is unobservable (1883)
-
-Mach subjected Newton's foundations to empiricist scrutiny. His objection was simple: absolute space is unobservable. No experiment can detect it. A concept that makes no observable difference is not a physical concept. It is metaphysics smuggled into physics.
-
-His response to the bucket argument cut it at the root. Newton said the concavity of the water shows absolute rotation. Mach said: the water rotates relative to the fixed stars, not relative to absolute space.
-
-"Try to fix Newton's bucket and rotate the heaven of fixed stars and then prove the absence of centrifugal forces."
-
-The broader claim: inertia is not intrinsic to a body. It is a relation between the body and the rest of the universe. An isolated body in empty space — no distant stars, no other matter — would have no inertia.
-
-"When we say that a body preserves unchanged its direction and velocity in space, our assertion is nothing more or less than an abbreviated reference to the entire universe."
-
-Einstein studied Mach's Science of Mechanics in his Bern reading group. The impact was profound. Einstein later: "I believe even those who consider themselves opponents of Mach are hardly aware of how much of Mach's way of thinking they imbibed — so to speak, with their mother's milk."
-
-Mach was right about absolute space and wrong about atoms. The same empiricist knife cut both ways.
-
----
-
-### 7. Einstein — special relativity (1905)
-
-Maxwell's equations predict a constant speed of light. Newton's mechanics says velocities add. Both confirmed by experiment. Something had to give.
-
-Einstein took Maxwell at face value: what must be true about space and time if the speed of light really is constant for all observers?
-
-What breaks: no absolute simultaneity. Two events simultaneous for one observer are not simultaneous for another moving at a different velocity. Time dilation. Length contraction. Space and time intertwined into spacetime.
-
-Minkowski (1908): "Henceforth space by itself, and time by itself, are doomed to fade away into mere shadows, and only a kind of union of the two will preserve an independent reality."
-
-What "the observer's frame matters" means: not that reality is subjective. That measurements of space and time depend on the relation between observer and observed. What is invariant — what all observers agree on — is the spacetime interval. Space separately and time separately are frame-dependent. The four-dimensional distance is not.
-
-The God's-eye view — the view from absolute space, the view that sees things as they truly are — is gone. There is no absolute frame. There are only frames in relation to each other.
-
----
-
-### 8. Einstein — general relativity (1915)
-
-Newton's gravity acts instantaneously across any distance. Special relativity says nothing travels faster than light. Incompatible.
-
-The equivalence principle — "the happiest thought of my life": a person in free fall does not feel their own weight. Gravity and acceleration are locally indistinguishable. If so, gravity is not a force. It is geometry.
-
-Gravity is the curvature of spacetime. Wheeler's summary: "Matter tells spacetime how to curve; spacetime tells matter how to move."
-
-What breaks completely: spacetime is not a fixed stage. It is shaped by what's in it and shapes how that content moves. The container and the contents cannot be separated. The geometry of the universe is not given in advance — it emerges from the relationship between spacetime and what it contains.
-
-Eddington's 1919 eclipse expedition confirms Einstein's prediction. The Times: "Revolution in Science — New Theory of the Universe — Newton's Ideas Overthrown."
-
----
-
-### 9. Heisenberg — the uncertainty principle (1927)
-
-Position and momentum cannot both be known precisely at the same time. Not a limit of instruments — a feature of nature.
-
-"The 'path' comes into being only because we observe it."
-
-In Newton's framework, a particle always has a definite position and momentum. The scientist's job is to measure them. Measurement reveals what is already there.
-
-Heisenberg says: some of what we thought was "already there" is not there until we look. The properties of a particle are not all pre-existing. Some come into existence through the act of measurement.
-
----
-
-### 10. Bohr — complementarity (1927)
-
-A photon is neither a wave nor a particle. It behaves as a wave in one experimental arrangement and as a particle in another. These are not properties of the photon — they are properties of the experimental arrangement.
-
-"Evidence obtained under different experimental conditions cannot be comprehended within a single picture, but must be regarded as complementary."
-
-The measuring device is not a neutral tool that reveals what is there. It is part of the phenomenon:
-
-"The state of the measuring device and the state of the object cannot be separated from each other during a measurement but they form a dynamical whole."
-
-In classical physics, the apparatus is invisible — it reveals without participating. In Bohr's reading, the apparatus is part of what is being described. The boundary between system and measurement is drawn by the physicist, not given by nature.
-
----
-
-### 11. Entanglement / Bell / Aspect (1935-1982)
-
-When two quantum systems interact and separate, they can become correlated in a way that has no classical analogue. The joint system has a quantum state; the individual parts do not. The whole is not the sum of the parts.
-
-Schrödinger (1935): "The characteristic trait of quantum mechanics, the one that enforces its entire departure from classical lines of thought."
-
-Einstein called it "spooky action at a distance" and argued QM must be incomplete — there must be hidden variables determining outcomes in advance.
-
-Bell's theorem (1964) showed that any theory with local hidden variables must obey certain statistical inequalities. Quantum mechanics predicts violations.
-
-Aspect's experiments (1982) confirmed the violations — by 40 standard deviations. Loophole-free tests followed in 2015. Nobel Prize in 2022.
-
-What it establishes: at least one of locality or hidden variables must be false. Nature does not allow both. The assumption that the state of a composite system is determined by the states of its parts — separability — fails.
+Bell's theorem (1964): any theory with local hidden variables must obey certain inequalities. QM predicts violations. Aspect's experiments (1982) confirmed them. Nobel Prize 2022. At least one of locality or hidden variables must be false. Separability fails.
 
 Bell: "Correlations cry out for explanation."
 
+**The open question**
+
+Two branches, each spectacularly successful. Relativity describes gravity through the geometry of spacetime. QM describes the other three forces through probability and measurement. They don't play well together — gravity remains outside QM. The most successful theories in history, and we can't reconcile them or say what picture of reality they describe.
+
+That is where the conversation reopens.
+
 ---
 
-### 12. Wheeler — the participatory universe (1979-1989)
+## Extracted from research — wave-particle duality (for Part 4)
 
-John Archibald Wheeler — Manhattan Project, coined "black hole" and "wormhole," co-authored the standard textbook on general relativity, supervised Feynman. As mainstream as it gets.
+**Photoelectric effect (Einstein 1905):** Light shining on metal ejects electrons, but only above a threshold frequency — not intensity. Einstein: light itself comes in discrete packets (photons). Each photon carries energy E = hν. Nobel Prize for this, not for relativity. The committee was comfortable with the effect. They were not comfortable with what it implied.
 
-In his autobiography, Wheeler describes being successively in the grip of three ideas: "Everything Is Particles," then "Everything Is Fields," then "Everything Is Information."
+**De Broglie (1924):** If light (a wave) behaves as particles, could particles behave as waves? Every particle with momentum has an associated wavelength. The examining faculty at Paris were unsure what to make of it. They sent it to Einstein. Einstein: "a very great idea." Nobel Prize 1929. Confirmed experimentally by Davisson and Germer (1927) — electron diffraction.
 
-"It from bit" (1989):
+**The double-slit experiment:** Send particles one at a time through two slits. Without detection: interference pattern (wave). With detection at one slit: pattern vanishes (particle). The act of detection changes the outcome. Feynman: "a phenomenon which is impossible, absolutely impossible, to explain in any classical way, and which has in it the heart of quantum mechanics. In reality, it contains the only mystery."
 
-"Every it — every particle, every field of force, even the spacetime continuum itself — derives its function, its meaning, its very existence entirely — even if in some contexts indirectly — from the apparatus-elicited answers to yes or no questions, binary choices, bits."
+**Born's probability interpretation (1926):** Schrödinger thought the wave function was a real physical wave. Born said: no. |ψ|² gives the probability of finding the particle at a given location. The wave function is a probability amplitude, not a physical wave. Born initially wrote probability was proportional to ψ itself — corrected to |ψ|² in a footnote. One of the most consequential statements in physics, a footnote correction. Nobel Prize 1954 — twenty-eight years later.
 
-The participatory universe:
+What Born established: probability enters fundamental physics not as ignorance (we don't know where the molecules are) but as the theory's output. QM does not describe a definite world we're uncertain about. It describes a world in which outcomes are genuinely probabilistic. Classical physics never needed probability at the fundamental level. QM cannot do without it.
 
-"No phenomenon is a phenomenon until it is an observed phenomenon."
+---
 
-The delayed-choice experiment: the decision of how to measure a photon — as wave or particle — can be made after the photon has already passed through the apparatus. The measurement choice retroactively determines the character of what happened. The photon does not "decide" wave or particle in advance. What it is depends on the relation established by the measurement.
+## Extracted from research — the observer enters the system (for Part 5)
 
-Wheeler's 20 questions variant: a version of the game where there is no word at the start. The answers are made up as the game proceeds, constrained only by consistency with previous answers. "The word wasn't in the room when I came in." The point: reality is not sitting there waiting to be discovered. It is constituted through interaction.
+**The measurement problem:** Schrödinger equation: smooth, deterministic evolution. But measurement produces a definite outcome — the wave function appears to "collapse." Two rules, no explanation of when one yields to the other. What counts as a "measurement"? The theory does not say. The most successful framework in history cannot explain, from within its own formalism, why measurements produce definite outcomes.
+
+**Von Neumann's chain / Heisenberg cut (1932):** The division between "system" and "measuring apparatus" can be drawn at any point in the chain without changing predictions. Particle → detector → eye → brain → consciousness. The cut is necessary but nothing tells you where it belongs. The chain has no natural endpoint. The observer, in some form, must terminate it.
+
+**Bohr's complementarity (1927):** The apparatus is not a neutral tool. It is part of the phenomenon. "The state of the measuring device and the state of the object cannot be separated from each other during a measurement but they form a dynamical whole." The observer's choice of arrangement determines what manifests. Not subjectivism — contextuality.
+
+**Schrödinger's cat (1935):** If superposition applies universally, a cat in a box is alive and dead simultaneously. At what point does superposition end and a definite outcome begin? The atom? The Geiger counter? The vial? The cat? The Schrödinger equation provides no answer.
+
+**Wigner's friend (1961):** Wigner's friend measures a spin inside a lab — gets a definite result. Wigner outside treats the whole lab as quantum — the friend is in superposition. Two observers, different accounts of the same situation. Whose is correct? Directly prefigures RQM.
+
+**Frauchiger-Renner (2018):** "Quantum theory cannot consistently describe the use of itself." Three assumptions can't all hold: QM applies universally, measurements have single outcomes, reasoning is consistent across agents. Any interpretation must reject at least one. The observer question cannot be indefinitely deferred. "Shut up and calculate" works only as long as you don't apply QM to the agents doing the calculating.
+
+**Einstein to Pais:** "Do you really believe the moon is not there when nobody looks at it?" In classical physics, the world has definite properties and the observer reveals them. In QM, some properties come into being through measurement. The observer is not external to the physics. The observer is part of the physics.
+
+---
+
+## Extracted from research — the interpretive landscape (for Part 5 ending)
+
+**Each interpretation gives up something different:**
+
+| Interpretation | Preserves | Gives up |
+|---|---|---|
+| Copenhagen | Operational simplicity | Description between measurements |
+| De Broglie-Bohm | Realism, determinism | Locality |
+| Many-worlds | Unitarity, realism | Single outcomes |
+| GRW | Single outcomes, realism | Unitarity, energy conservation |
+| QBism | Locality, single outcomes | Observer-independent quantum states |
+| RQM | Locality, no collapse | Observer-independent facts |
+
+The choice is not between right and wrong predictions — all make the same predictions (except GRW). It is a choice between what you're willing to accept and what you're willing to give up. A philosophical disagreement conducted within physics.
+
+**Survey data:** Schlosshauer et al (2013): Copenhagen 42%, many-worlds 18%. Nature (2025): 1,100+ respondents, Copenhagen 36%, many-worlds 15%, only 24% believed their interpretation was actually correct. 75% thought QM would eventually be superseded. Nature editorial: "Physicists disagree wildly on what quantum mechanics says about reality."
+
+**The observer is the fault line:** Strip away the technical details and the disputes reduce to one question: what is the role of the observer? Is the observer outside the system? Inside the wave function? A physical system whose perspective is one among many? An agent whose experience is irreducible? Irrelevant? Every interpretation is, at bottom, an answer to this question. No answer has achieved consensus.
+
+---
+
+## Reserve notes — may be used depending on how the narrative develops
+
+**Wheeler — the participatory universe**
+
+Wheeler describes himself being successively in the grip of three ideas: "Everything Is Particles," then "Everything Is Fields," then "Everything Is Information."
+
+"It from bit" (1989): "Every it — every particle, every field of force, even the spacetime continuum itself — derives its function, its meaning, its very existence entirely — even if in some contexts indirectly — from the apparatus-elicited answers to yes or no questions, binary choices, bits."
+
+The participatory universe: "No phenomenon is a phenomenon until it is an observed phenomenon."
+
+The delayed-choice experiment: the measurement choice can be made after the photon has already passed through the apparatus. What the photon is depends on the relation established by the measurement.
+
+Wheeler's 20 questions variant: a version of the game where there is no word at the start. The answers are made up as the game proceeds, constrained only by consistency with previous answers. "The word wasn't in the room when I came in." Reality is not sitting there waiting to be discovered. It is constituted through interaction.
+
+---
+<small>Photo: <a href="https://unsplash.com/@grianghraf">Grianghraf</a> / Unsplash</small>
