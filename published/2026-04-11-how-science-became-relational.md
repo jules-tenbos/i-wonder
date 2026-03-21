@@ -2,67 +2,37 @@
 
 <img src="https://images.unsplash.com/photo-1641143215652-971a31701a89?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Light and physics" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
-## Storyline
+Where the turn in Western philosophy is attributed to Kant with Descartes firing the starting shot, the start of the scientific revolution is associated with Copernicus, who moved from an earth-centric to a sun-centric view. It can be argued that Descartes' contribution is at least as important — the mind-body split created a mechanistic world that was, in the words of Galileo, 'written in the language of mathematics.' No need for purpose or intent, no stones falling because they seek their natural place. The mind-body split freed science to treat the physical world as pure mechanism — no teleology, no hidden intentions, no souls in stones.
 
-**Part 1: Clockwork** — Descartes gives the vision (mechanistic world, language of mathematics). Newton gives it equations. Laplace takes it to its logical endpoint: total determinism. Spectacularly productive. Leibniz as an early contrasting voice — space and time are relational, not absolute — but without a workable theory, ignored.
+Newton gave this approach its mechanics — unifying celestial and earthly gravity, working with particles with definite positions and velocities, forces acting between them. Laws that are deterministic, universal, the same everywhere and at every scale. A worldview in absolute space with absolute time — a fully deterministic picture of reality.
 
-**Part 2: Electromagnetism** — Maxwell. The crowning achievement of classical physics, and the thing that breaks it. The field doesn't fit Newton's picture. The fixed speed of light will force a choice.
+There was the contrasting view of Leibniz, who rejected absolute space entirely. Space is not a container. It is the ordering of things that coexist. No things, no space. But without a mathematical theory, this relational view remained scientifically inert. It would take another 200 years for these tools to become available.
 
-**Part 3: Relativity** — Mach calls out the metaphysics. Einstein follows through. Special relativity: no absolute frame, space and time are relative. General relativity: gravity is geometry, spacetime shaped by what's in it. The outside view dismantled for space/time.
+In the meantime, classical mechanics grew into a rich mathematical framework. Euler, Lagrange, Fourier, Hamilton and many others extended Newton's toolbox over two centuries. The approach was spectacularly productive. Laplace brought the worldview to its logical endpoint — an intellect that knows all positions and forces at one instant could calculate everything, past and future. The clockwork universe.
 
-**Part 4: Wave-particle duality and the road to QM** — Planck: energy is quantised. Einstein (photoelectric): light is also particles. De Broglie: particles are also waves. Duality makes the wave treatment of particles natural → Schrödinger's equation. Born: the wave is probability, not physical. Death of classical determinism. The equation is deterministic; what it describes is probabilistic.
+The crowning achievement of this mathematical toolbox was Maxwell's electromagnetism. Where Newton had worked with particles and forces, Maxwell worked with fields and waves — unifying electricity, magnetism, and light into a single framework. A triumph of classical physics.
 
-**Part 5: Successes and open questions** — QM works: the most empirically successful theory in history. But what does it mean? No consensus. "Shut up and calculate." Force unification: three forces within QM, gravity the outlier — QM and relativity don't play well together. Bell: separability fails, the questions are experimentally real. Wheeler: reality may be constituted through interaction. Each step makes reality stranger, and no explanation catches up. The post ends here — wide open for RQM.
+Maxwell's equations predicted a fixed speed of light, the same for all observers. Waves without a medium, travelling at a speed nothing can change. This inspired Einstein — first special relativity, where space and time are coupled and localised, then general relativity, which treats gravity as geometry. Absolute spacetime had disappeared, tied to a local observer.
+
+But Maxwell's theory also had a shortcoming. The Rayleigh-Jeans radiation law, derived from Maxwell's equations, predicted that energy should increase without limit at high frequencies — the ultraviolet catastrophe. It doesn't. Planck found that the data only made sense if energy comes in discrete packets — quanta. The smooth, continuous world of classical physics had a grain.
+
+Einstein took it further with the photoelectric effect: light itself comes in quanta. And de Broglie turned it around — if waves behave as particles, particles also behave as waves. This duality made the wave treatment of particles natural, leading to Schrödinger's wave equation.
+
+But the wave nature brought a consequence nobody expected. Heisenberg showed that position and momentum cannot both be definite at the same time — not a limit of instruments, a feature of nature. A wave with a precise frequency is spread out over all space; a wave localised in space is a mixture of many frequencies. Once particles are waves, this trade-off is unavoidable. Some properties simply don't exist until measured.
+
+And the waves themselves turned out not to describe anything physical. Born's interpretation: the wave function gives probabilities, not certainties. Schrödinger thought he was describing a real wave; Born showed it was a probability amplitude. The equation is deterministic; what it describes is probabilistic. Classical mechanics tells you what is there. Quantum mechanics tells you what you will find if you look.
+
+The success of QM as a theory that works, with more than impressive results, created at the same time a big interpretative nightmare. For decades there has been no satisfactory worldview for QM, and debate has been marred by a tribal approach.
+
+And the strangeness didn't stay theoretical. Bell's theorem showed that quantum correlations violate any classical explanation — and Aspect's experiments confirmed it. Nobel Prize 2022. The questions about what QM means are not philosophical decoration. They are experimentally real. The whole is not the sum of the parts. Separability fails.
+
+The responses have been varied — and tribal. Bohr and Heisenberg offered complementarity: don't ask what happens between measurements. Bohm restored determinism through hidden variables, at the cost of locality. Everett proposed that all outcomes are real, in branching worlds. Wheeler went furthest: "No phenomenon is a phenomenon until it is an observed phenomenon" — a participatory universe. Each gives up something different. None has achieved consensus. For decades, the dominant culture said: the formalism works, don't ask what it means. "Shut up and calculate."
+
+The result is a duality that defines modern physics. On one side, spectacular success — atomic spectra, semiconductors, lasers, nuclear physics, three of the four fundamental forces unified within quantum field theory. On the other, an impasse — no agreed picture of reality, no resolution of the observer's role, and gravity still outside the quantum framework. The most productive theories in history, and no worldview to go with them.
 
 ---
 
-## Notes
 
-**Descartes — mechanistic world, language of mathematics**
-
-Galileo declared the book of nature "is written in the language of mathematics." Descartes gave this a systematic foundation. If matter is extension and extension is geometry, then mathematics is the only adequate language.
-
-Before Descartes, explaining nature meant identifying purpose — stones fall because they seek their natural place. Descartes eliminated all of this. Matter is extension — length, breadth, depth, nothing more. The mind-body split freed science to treat the physical world as pure mechanism — no teleology, no hidden intentions, no souls in stones.
-
-**Newton — classical mechanics**
-
-Newton structured the outside view that Descartes started. Took his vision and made it work. The Principia gave science its operating system for two centuries.
-
-Absolute space: "in its own nature, without relation to anything external, remains always similar and immovable." Absolute time: "of itself, and from its own nature, flows equably without relation to anything external." Particles with definite positions and velocities. Forces acting between them. Laws that are deterministic, universal, the same everywhere and at every scale.
-
-Laplace brought this to its logical endpoint (1814): an intellect that knows all positions and forces at one instant could calculate everything — past and future. The clockwork universe.
-
-**Leibniz — the relational outlier**
-
-Leibniz rejected absolute space entirely: "I hold space to be something merely relative, as time is; that I hold it to be an order of coexistences, as time is an order of successions." Space is not a container. It is the ordering of things that coexist. No things, no space.
-
-Newton won because his physics worked. Leibniz offered no equations. The relational view was scientifically inert. The thread runs: Leibniz (1716) → largely forgotten → Mach (1883) → Einstein (1915).
-
-**Maxwell — electromagnetism, the field**
-
-In Newton's world, forces act between particles across empty space. Faraday saw something different: lines of force filling the space between objects. Maxwell translated this into mathematics (1865), unifying electricity, magnetism, and light into a single framework — the electromagnetic field.
-
-The field is an entity in its own right — everywhere at once, continuous, dynamic. The Newtonian framework has no room for such a thing. And Maxwell's equations predict a fixed speed of light — which will break Newton's mechanics.
-
-**Mach — metaphysics smuggled into physics**
-
-Mach subjected Newton's foundations to empiricist scrutiny. Absolute space is unobservable. No experiment can detect it. A concept that makes no observable difference is not a physical concept.
-
-Einstein studied Mach in his Bern reading group. The impact was profound.
-
-**Branch one: Einstein — special and general relativity**
-
-Maxwell's equations predict a constant speed of light. Newton's mechanics says velocities add. Something had to give.
-
-Special relativity (1905): no absolute simultaneity. Space and time intertwined into spacetime. The God's-eye view is gone — there is no absolute frame. There are only frames in relation to each other.
-
-General relativity (1915): gravity is not a force, it is geometry. Spacetime is not a fixed stage — it is shaped by what's in it and shapes how that content moves. The container and the contents cannot be separated.
-
-**Branch two: Quantum mechanics — the second front**
-
-Electromagnetism opened two fronts against Newton's framework — one against absolute space (leading to relativity), one against continuous energy (leading to quantum mechanics).
-
-Planck (1900): energy comes in discrete packets — quanta. "The whole procedure was an act of despair." He spent years trying to undo it. He couldn't.
 
 Physics rebuilt its foundations. Heisenberg's matrix mechanics (1925). Schrödinger's wave equation (1926). Born's interpretation: the wave function gives probabilities, not certainties. Heisenberg's uncertainty principle (1927): position and momentum cannot both be known precisely — not a limit of instruments, a feature of nature.
 
