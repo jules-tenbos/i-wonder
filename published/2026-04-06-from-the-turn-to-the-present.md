@@ -24,6 +24,6 @@ Heidegger, Husserl's student, embedded the observer deeper into reality. We don'
 
 By this time the ground was prepared for Wittgenstein, Merleau-Ponty and Rorty — all chipping away at the same thing: the idea that we can stand outside reality and describe it as it is. The outside view, giving way to the relational.
 
-And philosophy was not alone. Physics was making the same move, independently. That's where we're going next.
+And philosophy was not alone. Physics was making the same move, independently. That will be for another time.
 
 <small>Photo: <a href="https://unsplash.com/@popovkin">Popovkin</a> / Unsplash</small>

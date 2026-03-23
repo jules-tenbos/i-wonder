@@ -1,8 +1,14 @@
-# In Search of the Simplest Language
+# Let's Talk Software Languages
 
 <img src="https://images.unsplash.com/photo-1627453999411-dd9c2604c109?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Letters" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
-[more to follow]
+In this post we ask the question: is there a simplest language? Can one expect languages to stack from simple to complex?
+
+Living in the era of computers there is a good place to ask this question: the stack of programming languages. Programming languages are simpler to reason within since they have strict internal logic, but otherwise are no different in essence. And there has already been enough evolution so that we are presented with a layered stack.
+
+The evolution of natural language is no different, but more difficult to appreciate since the 'content language' using the same underlying natural language isn't strictly versioned, and the natural lanuage carrier has its own coupled evolution. 
+
+
 
 ---
 <small>Photo: <a href="https://unsplash.com/@brett_jordan">Brett Jordan</a> / Unsplash</small>
