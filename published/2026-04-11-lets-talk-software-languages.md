@@ -1,6 +1,6 @@
 # Let's Talk Software Languages
 
-<img src="https://images.unsplash.com/photo-1627453999411-dd9c2604c109?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Letters" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://images.unsplash.com/photo-1625459201773-9b2386f53ca2?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Software code" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
 Natural languages are ambiguous by nature, context-dependent, evolving, full of implication and unspoken meaning. Software languages on the other hand are fully explicit. Every rule is written down, every translation is specified, every ambiguity is eliminated by design. A compiler either accepts a statement or rejects it — there's no "roughly what you mean." The difference between the two is in how much is explicit versus implicit. That's why software languages are a clean place to look for insight. The structure that's hidden in natural language is exposed in software. You can see it, verify it, prove it.
 
@@ -29,38 +29,29 @@ STA $10     ; Store result in memory (variable x)
 One-to-one mapping with the binary. Same instructions, different notation. Already more readable — the reader can follow the logic without decoding 0s and 1s.
 Three languages, one computation. Python, assembly, binary. Each a different language. Same result: 7.
 
-A computer is only as capable as its binary instruction set. Irrespective of what a computer is used for - complex documents, spreadsheets, images - all instructions are executed as binary codes. Why then those 'higher' languages?
+This isn't coincidence. In 1936, Alan Turing proved — mathematically — that computation is fundamentally about symbols and interaction between symbols. A tape, a read/write head, a set of rules: if you see this symbol, write that symbol, move, change state. Nothing else. No numbers, no logic, no meaning built in. The meaning emerges from the rules.
 
-Because they have a vocabulary and grammar - language game - that is more suitable to write the software needed to solve a problem. The language game influences the way we think, how we get and express insight.
+And the minimum is already universal. Turing showed that this simple setup can compute anything that can be computed — anything any computer ever built can do. The simplest level already has the full power. Binary, assembly, Python — all equivalent in capacity. The vocabulary changes. The power doesn't.
 
-Creating such languages is not an easy task. The first binary computers only had binary language - everything had to be written in the most basic instruction set.
+He also proved there are limits. Some computations never halt — anything circular runs forever. And no general procedure can determine in advance whether an arbitrary program will halt or not. The language is universal but not omnipotent.
+
+A computer is only as capable as its binary instruction set. Irrespective of what a computer is used for — complex documents, spreadsheets, images — all instructions are executed as binary codes. Why then those 'higher' languages?
+
+Because higher languages don't add power — they reduce complexity to simplicity. `x = 3 + 4` absorbs six bytes of binary instructions into five characters. The complexity doesn't disappear — it's handled by the compiler. The programmer sees simplicity. That's what higher languages do: they absorb the complexity of the level below into a vocabulary and grammar that lets you think in concepts that match the problem.
+
+Each language level is a different language game. The binary game: every bit matters, nothing is hidden. The assembly game: instructions with names, but still step by step. The Python game: think in concepts, the machine details are taken care of. Same computation, different game. The game determines what you see and what you don't — and shapes how you think.
+
+Getting here was not easy. The first binary computers only had binary language — everything had to be written in the most basic instruction set. The first assembler was 31 instructions written by hand in binary — David Wheeler, Cambridge, 1949. Those 31 words, loaded into the machine, allowed it to accept programs in a slightly more readable form. Every programming language since has been built on top of something that came before, all the way back to those 31 hand-written binary instructions. No language is self-founding — each one needed another language first. Now we have an ecosystem of languages, each with their own strengths and weaknesses, each with their own language game — but eventually all executed as binary code at processor level. AI is changing this landscape further — but that's for another time.
+
+Think of humans speaking different natural languages, doing different language games — but eventually all translated into the same type of muscle movement and bodily activity. The parallel is structural, not metaphorical. A stack of languages, each suited to its context, each absorbing complexity into its own vocabulary, all eventually becoming physical action.
+
+
 
 ---
-<small>Photo: <a href="https://unsplash.com/@brett_jordan">Brett Jordan</a> / Unsplash</small>
+<small>Photo: <a href="https://unsplash.com/@carlgonz">Carl Gonzalez</a> / Unsplash</small>
 
 ---
 
-## Notes
-
-### 2. Binary — already a language
-
-Start at the bottom. Two symbols: 0 and 1. Presence and absence. That's it.
-
-But it's already a language. Vocabulary (0, 1), grammar (position, sequence), meaning (absence/presence). Not meaningless data waiting for interpretation.
-
-Outside computers, the same pattern: Morse code — signal/no signal, with grammar (dot/dash, spacing). A light switch — on/off becomes language the moment you add time (one flash = yes, two = no, SOS). The carrier is binary; grammar makes it a language.
-
-### 3. Processor level — binary gets grammar
-
-Groups of bits become words: opcodes, registers, values. The processor "reads" these words. A language game between the programmer and the machine — vocabulary, rules, meaning. All still in binary, but structured.
-
-This is where the stacking starts. The sentences of binary (sequences of 0s and 1s) become the vocabulary of a new language (machine instructions). Same bits, but now with structure on top.
-
-### 4. Assembly — human-readable, one-to-one
-
-The same processor words, given human-readable names: MOV, ADD, JMP. One-to-one mapping with the processor language. Letters forming words — the reader sees the natural language parallel immediately.
-
-Already a different language: different rules of expression, different way of thinking about what you're doing. But informationally equivalent to the binary underneath.
 
 ### 5. Python — thinking changes
 

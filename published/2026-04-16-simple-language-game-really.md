@@ -1,5 +1,14 @@
 # A Simple Language Game, Really?
 
+<img src="https://images.unsplash.com/photo-1627453999411-dd9c2604c109?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Letters" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+
+[more to follow]
+
+---
+<small>Photo: <a href="https://unsplash.com/@brett_jordan">Brett Jordan</a> / Unsplash</small>
+
+---
+
 ## Notes
 
 ### What this post does
