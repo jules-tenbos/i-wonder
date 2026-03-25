@@ -2,13 +2,38 @@
 
 <img src="https://images.unsplash.com/photo-1627453999411-dd9c2604c109?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Letters" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
-In this post we ask the question: is there a simplest language? Can one expect languages to stack from simple to complex?
+Natural languages are ambiguous by nature, context-dependent, evolving, full of implication and unspoken meaning. Software languages on the other hand are fully explicit. Every rule is written down, every translation is specified, every ambiguity is eliminated by design. A compiler either accepts a statement or rejects it — there's no "roughly what you mean." The difference between the two is in how much is explicit versus implicit. That's why software languages are a clean place to look for insight. The structure that's hidden in natural language is exposed in software. You can see it, verify it, prove it.
 
-Living in the era of computers there is a good place to ask this question: the stack of programming languages. Programming languages are simpler to reason within since they have strict internal logic, but otherwise are no different in essence. And there has already been enough evolution so that we are presented with a layered stack.
+Software languages at the lower level are procedural by nature, sets of instructions that need to be executed in order.
 
-The evolution of natural language is no different, but more difficult to appreciate since the 'content language' using the same underlying natural language isn't strictly versioned, and the natural lanuage carrier has its own coupled evolution. 
+Consider a simple instruction: `x = 3 + 4` — calculate three plus four and assign it to variable x. No problem for us to understand the instruction. However, it's not in the form that a computer can understand and execute it.
+At the execution and storage level computers use the binary language, a language written with an alphabet containing only two symbols: 0 and 1. At the heart of a computer is a processor, a unit with a fixed instruction set to execute this binary language - these are the vocabulary and rules of the computer language game. 
 
+The simple instruction in binary language for a 6502 8-bit processor is:
 
+```
+10101001 00000011
+01101001 00000100
+10000101 00010000
+```
+
+Three instructions, six bytes. Each instruction is two bytes: an opcode (what to do) and an operand (with what). The result is 7, stored in memory.
+We can't really work easily with binary language, so binary language gets translated into an intermediate language, assembly, which gives human-readable names to the binary instructions:
+
+```
+LDA #$03    ; Load 3 into accumulator
+ADC #$04    ; Add 4 to accumulator
+STA $10     ; Store result in memory (variable x)
+```
+
+One-to-one mapping with the binary. Same instructions, different notation. Already more readable — the reader can follow the logic without decoding 0s and 1s.
+Three languages, one computation. Python, assembly, binary. Each a different language. Same result: 7.
+
+A computer is only as capable as its binary instruction set. Irrespective of what a computer is used for - complex documents, spreadsheets, images - all instructions are executed as binary codes. Why then those 'higher' languages?
+
+Because they have a vocabulary and grammar - language game - that is more suitable to write the software needed to solve a problem. The language game influences the way we think, how we get and express insight.
+
+Creating such languages is not an easy task. The first binary computers only had binary language - everything had to be written in the most basic instruction set.
 
 ---
 <small>Photo: <a href="https://unsplash.com/@brett_jordan">Brett Jordan</a> / Unsplash</small>
@@ -17,52 +42,55 @@ The evolution of natural language is no different, but more difficult to appreci
 
 ## Notes
 
-### What this post does
+### 2. Binary — already a language
 
-Searches for the simplest language. Uses programming languages as the concrete, provable example — they're fully documented, every rule explicit, every translation verifiable. The reader sees structural patterns in programming languages, then recognises them in their own natural language. The post earns structural vocabulary that later posts can build on.
+Start at the bottom. Two symbols: 0 and 1. Presence and absence. That's it.
 
-### What this post is NOT
+But it's already a language. Vocabulary (0, 1), grammar (position, sequence), meaning (absence/presence). Not meaningless data waiting for interpretation.
 
-- Not about the seed. Does not introduce or reference the principle
-- Not about "exotic" languages (physics, biology, cells, quantum). Stays within programming languages and natural language
-- Not a philosophical argument. Shows structure through a concrete, verifiable domain
+Outside computers, the same pattern: Morse code — signal/no signal, with grammar (dot/dash, spacing). A light switch — on/off becomes language the moment you add time (one flash = yes, two = no, SOS). The carrier is binary; grammar makes it a language.
 
-### The reader walks away with
+### 3. Processor level — binary gets grammar
 
-- **Language stacking** — languages built on languages, sentences of one becoming vocabulary of the next. Not hierarchy (simple to complex) but context switching — each language complete for its context
-- **The carrier is a language** — meaning at every level, no meaning-free bottom
-- **Compositionality** — the same mechanism at every level
-- **Bootstrapping** — no language is self-founding, every language needs another first. And the simplest language needs a far more complex language to explain it
-- **Equivalence** — different languages, same content, provably (if the program runs, the translation preserved the meaning)
-- **The simplest language is a myth** — simplicity is about vocabulary and grammar fitting a context, not about capacity. Binary has two symbols but can express anything Python expresses
+Groups of bits become words: opcodes, registers, values. The processor "reads" these words. A language game between the programmer and the machine — vocabulary, rules, meaning. All still in binary, but structured.
 
-### Arc
+This is where the stacking starts. The sentences of binary (sequences of 0s and 1s) become the vocabulary of a new language (machine instructions). Same bits, but now with structure on top.
 
-**1. The question.** What is the simplest language? Not the simplest human language — the simplest language, period. Programming languages offer a clean place to look.
+### 4. Assembly — human-readable, one-to-one
 
-**2. Binary as a language.** Two symbols: 0 and 1. Already a language — vocabulary (0, 1), grammar (position, sequence, endianness), meaning (absence/presence). Not meaningless data waiting for interpretation. The bottom is already a language.
+The same processor words, given human-readable names: MOV, ADD, JMP. One-to-one mapping with the processor language. Letters forming words — the reader sees the natural language parallel immediately.
 
-Grammar on top of a binary carrier: sequence (which bit first), grouping (8 bits = byte), frequency (clock speed), direction (endianness). Outside computers: Morse code — same binary carrier (signal/no signal), different grammar (dot/dash, spacing). A light switch — on/off becomes language the moment you add time (one flash = yes, two = no, SOS). The carrier is binary; grammar makes it a language. Stacking starts immediately.
+Already a different language: different rules of expression, different way of thinking about what you're doing. But informationally equivalent to the binary underneath.
 
-**3. The stacking.** Walk up the programming language stack. Binary → machine code → assembly → high-level (C) → very high-level (Python) → AI (natural language in, natural language out, computed in binary). At each step, the outputs of one language become the inputs of the next. Each a complete language in its own context, with its own vocabulary, grammar, and meaning.
+### 5. Python — thinking changes
 
-**4. What the stacking reveals.** Meaning at every level. Compositionality — same mechanism at every level. Bootstrapping — no language appears from nothing (Wheeler's 31 words of binary, 1949). Equivalence — same computation expressed at every level, provably (5! in binary, machine code, assembly, C, Python — same result).
+`x = 3 + 4`. The programmer isn't telling the machine what to do step by step. They're expressing an idea — "x is the sum of 3 and 4." The language shapes the thinking. In assembly you think in operations. In Python you think in concepts.
 
-**5. The pattern in natural language.** Letters → words → composite words → sentences → paragraphs → narratives. Same stacking, same compositionality. The programming language stack and natural language use the same structural mechanism. Not metaphor — same pattern.
+The Python programmer doesn't think about the binary underneath. Doesn't need to. But it's all there — every level active, every translation happening. The same content, expressed in a language that shapes a different kind of thinking.
 
-**6. Closing.** The search for the simplest language doesn't find a bottom — it finds language already there. Even binary is already a language with meaning. And it needs a far more complex language to explain it — the simple can't account for itself. Complex can be reduced to simple, but complex remains required to explain it.
+The surprise: Python isn't more powerful than binary. It's easier to think in. The vocabulary matches how humans reason — variables, functions, names. Binary matches how the machine operates. Same capacity, different fit. A language's power isn't in its vocabulary size — it's in how it fits the context.
 
-The "simplest language" is a myth. Every language is about the right vocabulary and grammar for the context it operates in. A language's capacity to express is independent of the size of its vocabulary. Language shapes thinking — a programmer thinks differently in Python than in assembly, not because one is smarter but because the language makes different things visible.
+### 5b. Entities, encapsulation, message passing
+
+At the Python level, another pattern becomes visible: object-oriented programming. Software is organised into entities (objects), each with its own internal state that others can't directly access (encapsulation). They communicate through message passing — one object sends a message, another receives it and acts. Alan Kay, who coined "object-oriented programming," said the big idea was messaging, not objects.
+
+This is a structural pattern: entities with internal state, a medium between them, messages that carry meaning, actions that follow. It holds at every level of the software stack — a processor instruction is a message to a register, a function call is a message between parts of a programme. The pattern is the same; the language changes.
+
+### 6. What the stacking reveals
+
+**Meaning at every level.** Binary already has meaning. Machine code has richer meaning. Each level adds expressiveness but doesn't add meaning to something that had none.
+
+**Equivalence.** The same computation at every level. If the program runs, the translation preserved the meaning. Different languages, same content — provably.
+
+**Bootstrapping.** No language appears from nothing. Someone had to write the first assembler in binary by hand (Wheeler, 31 words, 1949). Every language needed another language first. And the simplest language needs a far more complex language to explain it — the simple can't account for itself. Complex can be reduced to simple, but complex remains required to explain it.
+
+**Language shapes thinking.** A programmer thinks differently in Python than in assembly — not because one is smarter but because the vocabulary makes different things visible. The language you use determines what you can see.
+
+---
 
 ### Key sources
 
 - **Wheeler's 31 words** (1949) — bootstrapping story
 - **Shannon** — letter-level statistics carry information about the language
 - **Turing** — given a carrier and rules, you get universality
-- **The factorial example** — same computation at every level, concrete proof of equivalence
 
-### Tone
-
-Accessible, concrete, no philosophical prerequisites. First person (blog voice). The reader is intelligent but not necessarily technical — programming examples explained clearly enough that a non-programmer follows the structural point. The technical detail supports the insight; it's not the point itself.
-
-Curious, not assertive. "Here's what I found when I looked" rather than "language is X."
