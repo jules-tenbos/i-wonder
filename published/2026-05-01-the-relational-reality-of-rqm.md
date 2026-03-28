@@ -2,7 +2,28 @@
 
 <img src="https://images.unsplash.com/photo-1729119578993-21bcc7a04314?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Quantum" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
-[more to follow]
+Intro - science slow to move away from outside view in it vocabulary. Create less issues in special and general relativity because it deals with space-time fabric. Most striking in QM because of the participatory role of the observer.
+
+QM 'reality' views - short overview of pre-RQM qm interpretations and their unsatisfactory nature.
+The culture RWM was bor into
+
+Introduce RQM as a 'no-frills, no special treatment' simple common sense approach. Avoid introducing constraints for the sake of it.
+Intro to Rovelli (man of special interest - we may retunr to him in detail later)
+We pay special attention to it because of this very reason, as an opening gambit towards fruitfull debate.
+
+Contrast with other interpretataions.
+
+The quiet years.
+
+The ground shifts.
+
+The pressure.
+
+the crossroads (why this name)
+
+Where it stands
+
+Conclusion
 
 ---
 <small>Photo: <a href="https://unsplash.com/@whisperingshiba">Whispering Shiba</a> / Unsplash</small>
@@ -13,7 +34,42 @@
 
 ### What this post does
 
-RQM as the completion of the science turn. From radical position to live research programme. The narrative arc is: minority position → quiet survival → ground shifts → pressure → crossroads → live programme. The central story is not the technical debate alone — it's how this happened. What brought people in. What shifted.
+The previous post ended with the most successful theories in history and no worldview to go with them. This post picks up where that impasse comes from — the outside view that classical physics assumed, that relativity dented but didn't break, and that QM finally makes untenable.
+
+RQM is what happens when someone stops avoiding this. Not a new answer to the old question, but the acknowledgment that the question assumed an outside view that was never available. Observer as perspective. Properties as relational. Decoherence as how shared reality emerges — not assumed, produced.
+
+The post is about fruitful debate, not advocacy. RQM is minority by headcount but leading by productive engagement. The questions it raises are workable — and the pattern of what its critics demand (an arbiter, an outside guarantee) is itself revealing. The productive direction is understanding decoherence and how sharing works without an arbiter — not defending or attacking philosophical positions.
+
+Brief historical arc: Rovelli's background, the 1996 paper, the quiet years, the ground shifting, the current landscape. But the history serves the ideas, not the other way around.
+
+### Key framing
+
+**RQM's position:** Although RQM is a minority view by total headcount, it is at the top in terms of engagement and debate among people with a real interest in gaining verifiable insights into reality. Not marginal — leading by engagement among those doing the actual work. The post positions RQM honestly without overselling: not "RQM is right," not "RQM is winning," just: this is where the productive debate is happening.
+
+**The arbiter problem in the debate:** Much of the critical engagement with RQM is hampered by the (non-verifiable) assumption of an independent arbiter / outside view. The main criticisms almost all amount to "but there must be an arbiter somewhere":
+- Adlam: who guarantees different observers agree? (wants a guarantee)
+- Brukner: there must be something special about what counts as an observer (wants a criterion)
+- The solipsism charge: how do we know there's a shared world? (wants an absolute reality underneath)
+The demand for the arbiter reasserts itself even in the objections to the theory that removed it. The persistence of the absolute — showing up in the responses to the one interpretation that tried to let go of it completely.
+
+**Contrast with other interpretations:**
+- Many-Worlds: tries to remove the observer, can't escape it. Generates discussion but no empirical traction — unfalsifiable branching, the probability problem unsolved.
+- Copenhagen: the dominant default, but more a culture ("shut up and calculate") than an active research programme on reality
+- QBism: small dedicated group, interesting but observer as irreducible agent
+- Collapse theories: unique because experimentally testable
+- RQM: generates productive disagreement — specific technical problems (cross-perspective links, iteration, preferred basis, stable facts) that people can work on. That's what makes a live research programme.
+
+**Observer = perspective:** "Observer" in RQM just means the perspective from which the description is given. Any physical system. Not consciousness, not measurement apparatus. The confusion comes from the word carrying everyday baggage. RQM cuts through: observer is perspective. A perspective is always from somewhere, toward something. There's no perspective from nowhere.
+
+**Decoherence as the bridge:** Decoherence produces shared reality at the macroscopic level — quantum facts become "stable facts" whose relativity can be practically ignored. The classical world is the world of stable facts. But decoherence is the mechanism, not the cause of sharing. At the quantum level, sharing is more fragile, more contextual — but still relational. Shared reality isn't binary but a continuum: how many systems have interacted, how stable the facts have become.
+
+**Decoherence vs the arbiter — where the productive work is:** The arbiter debate asks what's missing (who guarantees agreement?). Decoherence asks what's actually happening (how does shared reality emerge?). One looks for something outside the physics. The other looks at the physics itself. Understanding decoherence — how it strengthens as systems grow, how it fades at the small scale, where quantum behaviour shows through — is the productive direction. The transition zone where decoherence breaks down is where the real questions about sharing without an arbiter live. The arbiter demand averts attention from this.
+
+**Theories as languages:** The way we set up measurements — the choice of entities, how we encapsulate them, what interactions we look for — is a language choice. Different setups are different languages for asking questions. RQM is consistent: no language-independent reality underneath the language-dependent measurements. The convergence between observers is all the objectivity there is.
+
+**Why QM is where the outside view breaks:** In classical mechanics, the outside view is invisible — built into the framework so completely nobody notices. In special relativity, it cracks — no absolute frame — but the invariant spacetime interval saves an absolute structure. The outside view retreats but survives in disguise. In general relativity, it retreats further — spacetime is dynamic — but the equations are still written from nowhere. In QM, it breaks. The observer can't be separated from the observed. Measurement changes the state. Entanglement means the parts don't determine the whole. The formalism forces the question: from whose perspective? For nearly a century, the response was to avoid it. RQM is what happens when you stop avoiding it.
+
+**The agency side-effect:** The slowness in acknowledging the outside view's fallacy — in both science and philosophy — isn't stupidity. It's how agents naturally think. We work with world models we think we can impose on reality. The agent models from outside — that's how agency works. Each model eventually conflicts with reality, and the conflict pushes progress. But the instinct each time is to build a better model from the same outside position. RQM is the moment where the conflict is no longer between model and reality — it's between the modelling stance itself and what the physics is showing. The physics says: you're in it. The resolution isn't to stop modelling — it's to model from within. Acknowledge the perspective. Include yourself in the description.
 
 ### Tone
 
@@ -21,6 +77,7 @@ RQM as the completion of the science turn. From radical position to live researc
 - More assertive than previous posts
 - The relational view is not a position we're defending, it's a position we're standing on
 - Observational, not advocating. We find this interesting because the relational direction is visible. We don't claim it proves anything about us.
+- The post is about fruitful debate, not partisan advocacy. No interpretation is dismissed. The pattern of what critics demand is itself revealing.
 
 ---
 

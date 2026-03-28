@@ -2,7 +2,7 @@
 
 <img src="https://images.unsplash.com/photo-1627453999411-dd9c2604c109?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Letters" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
-[more to follow]
+Let's delve into the nature of a language game, a simple one that could be expressed with one word: Slab. 
 
 ---
 <small>Photo: <a href="https://unsplash.com/@brett_jordan">Brett Jordan</a> / Unsplash</small>
@@ -25,51 +25,43 @@ The reader thinks "Slab!" is simple. The post peels back the layers until simple
 
 ## Storyline
 
-### 1. The game — could anything be simpler?
+### 1. Opening — one word, one game
 
-One word, one action. "Slab!" and the slab is passed. Or expanded: "Give me a stone, please." — "Here is a stone." Same exchange, different levels of explicitness. All equivalent — same content, same result.
+Builder and assistant, building a wall. "Slab!" — "Slab." One word each, one stone handed over. Could anything be simpler?
 
-### 2. Peeling back the layers — horizontal complexity
+### 2. Three versions — same exchange, different mix
 
-Multiple languages operating simultaneously in one moment:
+The single-word version: "Slab!" — "Slab." Sparse words, heavy body language. The builder's posture of expectation, the gesture toward where it's needed, eye contact, physical orientation, timing. The words are minimal; the body carries the rest.
 
-**The obvious:** a word spoken, a stone passed. The word carries meaning only because of the shared context — the building site, the relation between the two.
+The full-sentence version: "Give me a slab, please." — "Here is a slab." The words now carry what the body language carried before — intent, confirmation, politeness. The body language doesn't disappear but it becomes secondary.
 
-**The less obvious:** the spoken word is a language. But so is the body language — the gesture toward the pile, the posture of readiness. The spatial awareness — knowing where the slabs are. The social relation — who asks, who acts. The shared history — they've done this before, the word carries that history.
+Same exchange. Same content. Same result — a slab moves. But the balance between verbal and bodily language has shifted. In the first version, the body does most of the work. In the second, the words do. Neither is more complete — they're equivalent. What one doesn't say, the other does. The "simplest" version isn't actually simpler — it just loads more onto the body.
 
-**Below the word:** even "slab" is layered. Phonemes, the sound pattern the ear recognises, the concept it triggers, the motor response it activates. Languages operating simultaneously at every level.
+### 3. The rules — writing down the game
 
-**The abstraction test:** try to describe the whole event without abstraction. You can't. Even "two people" is an abstraction. "Passing" is an abstraction. Abstract thought isn't added on top — it was there from the start.
+Try to write down the rules. Vocabulary: one word — "Slab." Roles: builder requests, assistant delivers. Sequence: request, confirmation, handover. That's short.
 
-### 3. Entity, encapsulation, message passing — the software pattern in life
+But the full rules include everything unwritten: both must be in the same space, both must know what a slab is, both must be able to see and reach the slabs, the builder must signal attention, the assistant must be able to hear, the timing must be right — the builder says it when they need one, not randomly. The social relation — who asks, who acts.
 
-The builder and the assistant are entities. Each has internal state the other can't directly access — their experience, knowledge, fatigue, intent. That's encapsulation. They communicate through message passing — "Slab!" is a message. The message triggers action. The stone moves.
+The rules of the simplest language game require a far more complex language to describe than the game itself uses.
 
-Same structural pattern as object-oriented programming: entities with internal state, a medium between them, messages that carry meaning, actions that follow. Not because life imitates software — because it's the same structural phenomenon.
+### 4. The game and the instance
 
-### 4. The full abstract description — and equivalence
+The rules describe the game in general. Any actual instance is far richer. Two people building a wall on a hot afternoon — heavy slabs, wasps buzzing, fatigue building. The rules say nothing about heat, weight, insects, fatigue. But those are real, they shape the experience, they affect how the game is played.
 
-Describe the whole event abstractly: two entities with encapsulated internal state, a medium (air, sound, shared context), a message passed, meaning received, action taken, physical result.
+The rules capture the shared minimum — the part that's the same across all instances. The instance contains everything, including what no description can fully capture.
 
-This description and the physical event carry the same information. They're equivalent — different languages, same content. The software post showed equivalence between programming languages. This post shows equivalence between a lived event and its abstract description. That's a step further — from language-to-language equivalence to language-to-reality equivalence.
+### 5. Shared and personal
 
-### 5. Shared reality is partial
+The plain language game is shared — common knowledge, the overlap between the two participants. "Slab!" means pass a slab. Both know this. That's the shared reality.
 
-Each participant has their own full personal reality of the event. The builder's "Slab!" carries intent, expectation, authority. The assistant's hearing carries recognition, readiness, the ache in the back, the heat of the day.
+The richness of any instance is personal. My heat, my fatigue, the wasp near my hand. The builder's impatience. The assistant's aching back. Each has a full personal experience that extends far beyond what the game requires. The personal is always larger than the shared.
 
-The shared reality is the overlap — what both participants would agree on: slab requested, slab delivered. It's real, but it's partial. It depends on an agreed filter — what gets included, what gets left out. The full personal reality is always larger than the shared.
+Concepts are the filters that make the sharing possible. "Slab" extracts the minimum both participants need — a flat, heavy building element. Everything else — the specific weight, the colour, the chip on the corner — is filtered out. The concept keeps what's shared, drops what's personal. The language game itself is a filter — it extracts just enough from the fullness of experience to coordinate action. The wall gets built.
 
-The abstract description captures the shared part — the filter both would agree on. It doesn't capture the personal remainder. Equivalence is real but scoped. It holds within an agreed filter.
+### 6. Closing
 
-### 6. Concepts as filters
-
-"Slab" works as a concept because it extracts the minimum that both participants need: a flat, heavy building element. Everything else — the specific weight, the colour, the chip on the corner — is filtered out. The concept is the minimal shared extraction.
-
-A concept isn't a label attached to a thing. It's a context-dependent filter. A geologist's "slab" filters for different properties than a builder's. The concept is the agreement on what to keep and what to let go. Minimal, shared, functional.
-
-### 7. Closing
-
-The simplest language game is already a complex interplay of languages. "Simple" was never simple. And when you describe it abstractly, the description is equivalent to the event — within the scope of what's shared. Shared reality is the overlap. Personal reality is always larger. Concepts are the filters that make the sharing possible.
+Even the simplest language game carries layers the single word hides — body language, shared context, unwritten rules, the gap between general game and lived instance, and a personal experience that always exceeds what can be shared. Simple was never simple.
 
 ---
 
