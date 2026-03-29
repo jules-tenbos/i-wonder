@@ -9,6 +9,7 @@
 - First run opens browser for OAuth consent; subsequent runs reuse cached token
 - Blog ID auto-discovered from URL, cached in `token.json`
 - WSL2: uses `open_browser=False` — copy the URL manually
+- Google Search Console: when requesting indexing, use `?m=1` suffix on URLs (Blogger mobile redirect), otherwise redirect error
 
 ## Commands
 
