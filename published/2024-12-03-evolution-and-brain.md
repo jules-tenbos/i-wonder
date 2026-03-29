@@ -8,7 +8,7 @@ From the reptilian brain to the mammal brain and then the primate brain, brain d
 
 ## Key Insights from Nematode Research
 
-Nematodes from 500 million years ago have a simple nervous system with just 300 neurons, but already demonstrate complex behaviors. A University of Leeds study on C. elegans revealed fascinating neural characteristics:
+Nematodes from 500 million years ago have a simple nervous system with just 300 neurons, but already demonstrate complex behaviors. A University of Leeds study on [C. elegans](https://en.wikipedia.org/wiki/Caenorhabditis_elegans) revealed fascinating neural characteristics:
 
 - Neurons track behavior not only of the present moment but also the recent past
 - Neurons can flexibly remap their behavior encoding

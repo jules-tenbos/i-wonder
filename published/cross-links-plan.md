@@ -1,5 +1,26 @@
 # Cross-Links Plan
 
+## Linking guidelines (for all posts, current and future)
+
+### Internal links
+- Posts that reference other posts should link to them
+- Links added only when the target post is live
+- "Next up" and "previous post" references should be actual links
+- Standalone posts (no strings attached) — links only if a natural reference point exists
+
+### External links
+Three categories, all for the curious reader, woven into text, never academic:
+
+1. **People** — first mention of a philosopher/scientist in a post links to a biography (Wikipedia or SEP, whichever is more accessible)
+2. **Key works** — when mentioned by name, link to an accessible version (arXiv, publisher page, SEP)
+3. **Topics/theories** — important concepts the reader might want context on (e.g. language games, phenomenology, loop quantum gravity, decoherence, Bell's theorem) — link to accessible explanation (Wikipedia, SEP)
+
+No footnotes, no bibliography, no academic citation apparatus. The links are embedded in the text for readers who want to follow up. Readers who don't are not distracted.
+
+---
+
+## Current status
+
 Review all posts for internal links. Currently only one post (#7 From the Turn to the Present) has any links.
 
 ## URL reference
@@ -111,9 +132,95 @@ Add:
 - "the seed" in closing line → Splectrum is Born
 - Opening connects to the science post → From Clockwork to Open Questions
 
-## Priority
+---
 
-1. Posts 4, 5, 6 — "next up" / "previous post" references need links (reader navigation)
-2. Posts 11, 12 — link to each other (science pair)
-3. The seed post linked from posts that reference it
-4. Post 7 — add Merleau-Ponty link in closing (the other two are already linked)
+## Older posts (2022-2025)
+
+### How a Crash Put Me on Course (2022-01-12)
+
+Existing links: none
+
+Suggested:
+- "picked up my interest in philosophy again" → From the Turn to the Present (internal, wait until April 6)
+- "retraining my brain" → Wiring the Brain (internal, live)
+
+### Wiring the Brain (2022-01-16)
+
+Existing links: none
+
+Suggested:
+- "brain evolution is potentially decoupling from physical generation" → Evolution and the Brain (internal, live)
+
+### No Life Without Death (2022-02-20)
+
+Existing links: none
+
+Suggested:
+- "Death is essential for evolution" → Evolution and the Brain (internal, live)
+- "Life is a continuous process that started over 4 billion years ago" → Wikipedia: Abiogenesis (external)
+
+### Promises Made, Promises Broken (2024-11-24)
+
+Existing links: none
+
+Suggested:
+- "Philosophy and the brain" → Philosophy and the Brain (internal, live)
+- "Evolution and the brain" → Evolution and the Brain (internal, live)
+
+### Philosophy and the Brain (2024-11-28)
+
+Existing links: none
+
+Suggested:
+- "neuroscience" first mention → Wikipedia: Neuroscience (external)
+- "We are all only ever right to some extent" → Embracing Anti-Foundationalism (internal, live)
+
+### Evolution and the Brain (2024-12-03)
+
+Existing links: none
+
+Suggested:
+- "C. elegans" → Wikipedia: Caenorhabditis elegans (external)
+- "complex adaptive system" → Wikipedia: Complex adaptive system (external)
+
+### Am I a Libertarian? (2024-12-09)
+
+Existing links: none
+
+Suggested:
+- "cultural evolution working similarly to biological evolution" → Evolution and the Brain (internal, live)
+- "Web3" → Wikipedia: Web3 (external)
+
+### Embracing Anti-Foundationalism (2025-01-07)
+
+Existing links: YouTube link (Rovelli on TOE podcast)
+
+Suggested:
+- "Carlo Rovelli" → The Relational Reality of RQM (internal, wait until May 1)
+- "webs rather than foundations" → Splectrum is Born (internal, live)
+
+---
+
+## Progress
+
+### Done
+- Post 1 (Splectrum is Born): 2 external links added (language games, RQM)
+- Post 2 (Seed Concrete): 2 internal links added (Splectrum, Wittgenstein)
+- Post 3 (Alter Ego): 1 internal link added (Splectrum seed)
+- Post 4 (Wittgenstein): 2 internal links added (seed, Rorty closing)
+- Post 5 (Rorty): 1 internal link added (Wittgenstein opening)
+
+### Deferred — waiting for posts to go live
+- Post 5 closing → Merleau-Ponty (wait for April 1)
+- Post 6 opening → Wittgenstein + Rorty (wait for April 1)
+- Post 7 closing → Merleau-Ponty (wait for April 1)
+- Post 11 → bridge post (wait for April 26)
+- Post 12 → science post + seed (wait for May 1)
+- Crash post → bridge post (wait for April 6)
+- Anti-Foundationalism → RQM post (wait for May 1)
+
+### Priority
+1. Posts 4, 5, 6 — "next up" / "previous post" references need links (reader navigation) — partially done
+2. Posts 11, 12 — link to each other (science pair) — deferred
+3. The seed post linked from posts that reference it — done
+4. Post 7 — add Merleau-Ponty link in closing — deferred

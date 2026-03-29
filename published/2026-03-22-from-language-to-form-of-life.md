@@ -2,11 +2,11 @@
 
 <img src="https://images.unsplash.com/photo-1645117030875-4eb47312e333?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Plant growing through cracked wall" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
-Two posts ago I started [unpacking the seed](/2026/03/splectrum-is-born.html) — five lines about language and how we relate to reality. This view on language has not fallen from the sky. It finds broad support in philosophy and science and the next three posts are devoted to philosophers whose thinking resonates well with Splectrum's language approach. Starting with Ludwig Wittgenstein.
+Two posts ago I started [unpacking the seed](/2026/03/splectrum-is-born.html) — five lines about language and how we relate to reality. This view on language has not fallen from the sky. It finds broad support in philosophy and science and the next three posts are devoted to philosophers whose thinking resonates well with Splectrum's language approach. Starting with [Ludwig Wittgenstein](https://plato.stanford.edu/entries/wittgenstein/).
 
 There is a picture of reality that runs deep in Western thinking. Reality is out there, independent, fixed, waiting to be described. And it is the job of language to provide that description. The more precise the language, the closer we get to truth. This is all thought about from an outside viewpoint looking in.
 
-That's where Wittgenstein started. His Tractatus Logico-Philosophicus (1921) is the most rigorous version of that picture ever built. Language works by picturing reality. A meaningful proposition shares its logical form with what it describes. Names stand for objects. What doesn't fit — ethics, aesthetics, the mystical — must be passed over in silence. A logical straightjacket, beautifully tailored. Wittgenstein thought he had done all he could, and left philosophy behind.
+That's where Wittgenstein started. His [Tractatus Logico-Philosophicus](https://en.wikipedia.org/wiki/Tractatus_Logico-Philosophicus) (1921) is the most rigorous version of that picture ever built. Language works by picturing reality. A meaningful proposition shares its logical form with what it describes. Names stand for objects. What doesn't fit — ethics, aesthetics, the mystical — must be passed over in silence. A logical straightjacket, beautifully tailored. Wittgenstein thought he had done all he could, and left philosophy behind.
 
 Then it tore.
 

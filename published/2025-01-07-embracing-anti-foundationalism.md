@@ -7,7 +7,7 @@ I stumbled across anti-foundationalism and thought - wow, that's me as well. Don
 
 ## The Discovery
 
-I got alerted to anti-foundationalism listening to Carlo Rovelli on the TOE (Theory of Everything) podcast - one that I highly recommend. [Watch the episode here](https://www.youtube.com/watch?v=r_fUPbBNmBw) (particularly around 1h15m).
+I got alerted to anti-foundationalism listening to [Carlo Rovelli](https://plato.stanford.edu/entries/qm-relational/) on the TOE (Theory of Everything) podcast - one that I highly recommend. [Watch the episode here](https://www.youtube.com/watch?v=r_fUPbBNmBw) (particularly around 1h15m).
 
 I see myself at the start of a journey trying to understand and get into the philosophical way of talking about stuff. As I said before, there is a lot I don't know (yet) and I'm only waking up to position myself in a clear way.
 

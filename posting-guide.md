@@ -52,6 +52,29 @@ python3 manage.py page-delete <page-id>             # delete a page
 - Line breaks within a paragraph: use `<br>` explicitly
 - Trailing two-space trick does NOT work (spaces get stripped by tooling)
 
+## Links
+
+### General
+- Maximum 5 links per post (internal + external combined)
+- Link on first mention, not every mention
+- Not in the first sentence — let the reader settle in
+- Every link should add value — if the reader wouldn't learn anything useful by clicking, don't link
+
+### Internal links
+- Posts that reference other posts should link to them
+- Add links only when the target post is live
+- "Next up" / "previous post" references should be actual links
+- Standalone posts — links only if a natural reference point exists
+
+### External links
+Three categories, all for the curious reader, woven into text, never academic:
+
+1. **People** — first mention of a philosopher/scientist links to a biography (SEP preferred for philosophers if an entry exists, Wikipedia otherwise)
+2. **Key works** — when mentioned by name, link to accessible version (arXiv, publisher, SEP)
+3. **Topics/theories** — important concepts link to accessible explanation (Wikipedia, SEP)
+
+No footnotes, no bibliography, no academic citation apparatus.
+
 ## Dependencies
 
 `requirements.txt`: google-api-python-client, google-auth-oauthlib, markdown

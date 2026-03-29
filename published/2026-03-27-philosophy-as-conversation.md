@@ -4,7 +4,7 @@
 
 In my [last post](/2026/03/from-language-to-form-of-life.html) I talked about Wittgenstein's transition from language to form of life. A strong member of the analytical tradition opening the door to points of view considered more at home within the Continental tradition. However this never took the form of a public discussion as that part of his work was only published two years after his death. This allowed his turn to seep into the tradition quietly — colleagues absorbed the method, "meaning is use," while the radical core —language as a form of life —went untouched. The door was unlocked but stayed unopened.
 
-It was Rorty who very publicly opened it and walked through.
+It was [Rorty](https://plato.stanford.edu/entries/rorty/) who very publicly opened it and walked through.
 
 Rorty was an analytical philosopher trained at Princeton, one of their best. His target was what he called the mirror — a picture of reality that had shaped Western philosophy since Descartes. The mind as a mirror of nature. Language as a tool to provide a description. Knowledge as accurate representation. The philosopher's job: to polish the mirror, to get the reflection right. But fifty years after the birth of quantum mechanics, this picture was more in the league of relics. Rorty said: there is no mirror, there is no access to outside reality.
 
