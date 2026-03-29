@@ -6,15 +6,15 @@ Where the turn in Western philosophy is attributed to Kant with Descartes firing
 
 Newton gave this approach its mechanics — unifying celestial and earthly gravity, working with particles with definite positions and velocities, forces acting between them. Laws that are deterministic, universal, the same everywhere and at every scale. A worldview in absolute space with absolute time — a fully deterministic picture of reality.
 
-There was the contrasting view of Leibniz, who rejected absolute space entirely. Space is not a container. It is the ordering of things that coexist. No things, no space. But without a mathematical theory, this relational view remained scientifically inert. It would take another 200 years for these tools to become available.
+There was the contrasting view of Leibniz, who rejected absolute space entirely. Space is not a container, it is the ordering of things that coexist. No space without things. But without a mathematical theory, this relational view remained scientifically inert. It would take another 200 years for these tools to become available.
 
 In the meantime, classical mechanics grew into a rich mathematical framework. Euler, Lagrange, Fourier, Hamilton and many others extended Newton's toolbox over two centuries. The approach was spectacularly productive. Laplace brought the worldview to its logical endpoint — an intellect that knows all positions and forces at one instant could calculate everything, past and future. The clockwork universe.
 
 The crowning achievement of this mathematical toolbox was Maxwell's electromagnetism. Where Newton had worked with particles and forces, Maxwell worked with fields and waves — unifying electricity, magnetism, and light into a single framework. A triumph of classical physics.
 
-Maxwell's equations predicted a fixed speed of light, the same for all observers. Waves without a medium, travelling at a speed nothing can change. This inspired Einstein — first special relativity, where space and time are coupled and localised, then general relativity, which treats gravity as geometry. Absolute spacetime had disappeared, tied to a local observer.
+Maxwell's equations predicted a fixed speed of light, the same for all observers. Waves without a medium, travelling at constant speed. This inspired Einstein — first special relativity, where space and time are coupled and localised, then general relativity, which treats gravity as geometry. Absolute spacetime had disappeared, now ti was tied to a local observer.
 
-But Maxwell's theory also had a shortcoming. The Rayleigh-Jeans radiation law, derived from Maxwell's equations, predicted that energy should increase without limit at high frequencies — the ultraviolet catastrophe. It doesn't. Planck found that the data only made sense if energy comes in discrete packets — quanta. The smooth, continuous world of classical physics had a grain.
+But Maxwell's theory also exposed a shortcoming. The Rayleigh-Jeans radiation law, derived from Maxwell's equations, predicted that energy should increase without limit at high frequencies — the ultraviolet catastrophe. It doesn't. Planck found that the data only made sense if energy comes in discrete packets — quanta. The smooth, continuous world of classical physics had a grain.
 
 Einstein took it further with the photoelectric effect: light itself comes in quanta. And de Broglie turned it around — if waves behave as particles, particles also behave as waves. This duality made the wave treatment of particles natural, leading to Schrödinger's wave equation.
 
