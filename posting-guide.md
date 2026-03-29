@@ -75,6 +75,25 @@ Three categories, all for the curious reader, woven into text, never academic:
 
 No footnotes, no bibliography, no academic citation apparatus.
 
+## Content structure — posts and pages
+
+The blog builds two things simultaneously:
+
+- **Posts** — individual explorations. The journey, in chronological order. Each makes one or a few points and moves on.
+- **Pages** — the body of work. The accumulated understanding. Synthesis, not timeline.
+
+A reader arriving at a page sees the synthesis. A reader following posts sees the journey. Both paths work.
+
+### Page types
+- **Main pages** (sidebar) — compact overviews, updated with each new post. Link to territory pages.
+- **Territory pages** (hidden or offlink — discoverable through main pages or posts, not in sidebar) — fuller exposition for a post series. Summarise the arc, link back to individual posts. These are where the thinking lives.
+
+### How it works
+- Posts are moments. Pages are where the body of work accumulates.
+- Each post publication triggers a page update — synopsis when scheduled, full text with links when live.
+- Territory pages grow as post series develop. When a main page gets crowded, split exposition into a territory page and keep the main page compact.
+- Regular page updates support search engine freshness.
+
 ## Dependencies
 
 `requirements.txt`: google-api-python-client, google-auth-oauthlib, markdown
