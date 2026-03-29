@@ -2,7 +2,7 @@
 
 <img src="https://images.unsplash.com/photo-1645117030875-4eb47312e333?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Plant growing through cracked wall" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
-Two posts ago I started unpacking the seed — five lines about language and how we relate to reality. This view on language has not fallen from the sky. It finds broad support in philosophy and science and the next three posts are devoted to philosophers whose thinking resonates well with Splectrum's language approach. Starting with Ludwig Wittgenstein.
+Two posts ago I started [unpacking the seed](/2026/03/splectrum-is-born.html) — five lines about language and how we relate to reality. This view on language has not fallen from the sky. It finds broad support in philosophy and science and the next three posts are devoted to philosophers whose thinking resonates well with Splectrum's language approach. Starting with Ludwig Wittgenstein.
 
 There is a picture of reality that runs deep in Western thinking. Reality is out there, independent, fixed, waiting to be described. And it is the job of language to provide that description. The more precise the language, the closer we get to truth. This is all thought about from an outside viewpoint looking in.
 
@@ -22,7 +22,7 @@ He wasn't alone in making that turn. Physics was moving the same way — from th
 
 Wittgenstein embodies the turn, he existed on both sides. He started on the analytical side of philosophy — logic, formal structure, precision - thinking he had nailed it. However, he returned, revisited and made the turn unlocking the door onto an approach more akin to the continental tradition. And that was where he left it, but he made the point.
 
-Next up: Rorty, who walked through that door and kept going.
+Next up: [Rorty](/2026/03/philosophy-as-conversation.html), who walked through that door and kept going.
 
 ---
 <small>Photo: <a href="https://unsplash.com/@sayanhn">Sayan Hn</a> / Unsplash</small>

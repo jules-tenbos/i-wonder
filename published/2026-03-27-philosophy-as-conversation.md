@@ -2,7 +2,7 @@
 
 <img src="https://images.unsplash.com/photo-1592211762325-eea5e40adbd4?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Shattered glass" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
-In my last post I talked about Wittgenstein's transition from language to form of life. A strong member of the analytical tradition opening the door to points of view considered more at home within the Continental tradition. However this never took the form of a public discussion as that part of his work was only published two years after his death. This allowed his turn to seep into the tradition quietly — colleagues absorbed the method, "meaning is use," while the radical core —language as a form of life —went untouched. The door was unlocked but stayed unopened.
+In my [last post](/2026/03/from-language-to-form-of-life.html) I talked about Wittgenstein's transition from language to form of life. A strong member of the analytical tradition opening the door to points of view considered more at home within the Continental tradition. However this never took the form of a public discussion as that part of his work was only published two years after his death. This allowed his turn to seep into the tradition quietly — colleagues absorbed the method, "meaning is use," while the radical core —language as a form of life —went untouched. The door was unlocked but stayed unopened.
 
 It was Rorty who very publicly opened it and walked through.
 

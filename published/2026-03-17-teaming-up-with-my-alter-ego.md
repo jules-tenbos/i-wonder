@@ -2,7 +2,7 @@
 
 <img src="https://images.unsplash.com/photo-1735815952441-224afdf53016?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Two people collaborating at a screen" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
-The desire of writing a blog was very much on my mind well before AI entered the picture. I have written a number of posts on this blog before, but never got the writer fluids flowing freely. Partly because I am not a natural writer, and partly because my thinking lacked focus — now fully resolved and condensed into the Splectrum seed.
+The desire of writing a blog was very much on my mind well before AI entered the picture. I have written a number of posts on this blog before, but never got the writer fluids flowing freely. Partly because I am not a natural writer, and partly because my thinking lacked focus — now fully resolved and condensed into the [Splectrum seed](/2026/03/splectrum-is-born.html).
 
 My journey into AI is about one year old. As a software engineer it started with AI as a helping hand for writing code. But soon I got focused on a collaborative approach where solving problems through discussion became more important than the implementation. I am still very active pursuing collaborative ways of working on the engineering side — in fact that is where the name Splectrum arose — but in this post I want to concentrate on AI collaboration when researching, writing and thinking.
 
