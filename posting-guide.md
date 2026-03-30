@@ -36,10 +36,14 @@ python3 manage.py page-delete <page-id>             # delete a page
 
 ## Publishing Workflow
 
-1. Write/edit in `published/` (with date prefix) or `upcoming/`
-2. Schedule or publish via `manage.py`
-3. Update on Blogger as edits are made: `manage.py update <id> <file>`
-4. `manage.py sync` to verify everything matches (checks LIVE + SCHEDULED)
+See `blog-management.md` for full draft pipeline, categories, and scheduling strategy.
+
+1. Drafts arrive in `drafts/` by category (core, research, thinking, engineering, commentary)
+2. Drafts mature through: idea → storyline → accepted → draft → review-ready
+3. When review-ready and scheduled: move to `published/` with date prefix
+4. Schedule or publish via `manage.py`
+5. Update on Blogger as edits are made: `manage.py update <id> <file>`
+6. `manage.py sync` to verify everything matches (checks LIVE + SCHEDULED)
 
 ## Images
 

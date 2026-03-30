@@ -1,5 +1,7 @@
 # Splectrum and First Principles
 
+<img src="https://images.unsplash.com/photo-1736348877782-fa7ae2a9bd69?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="First principles" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+
 Splectrum as a research project was born two months ago. Over this period I have attempted to position the essence of the Splectrum seed within both the philosophical and scientific realm. This culminated last week with my post on relational quantum mechanics (RQM), a project I feel in spirit closely related to — albeit with a wider scope than just scientific. I was feeling my way, not always high in confidence: who are you that you dare to push the seed, these five principles to us as the entirety of your foundation to build on?
 
 The fact that my whole focus suddenly organised itself around some simple principles has been an odd event. The Splectrum name comes from a collaborative AI software engineering project and its contents from my years of interest in all things evolution — physical and mental — where I slowly drifted more and more into language as the expression of all these things. Then suddenly the seed fell into place and to my relief I noticed that this 'turn' was part of a natural evolution in thinking that has taken place over the last few hundred years. And this not only in philosophy, but likewise in science. I don't know if I succeeded but the posts of the last two months were an attempt to lift the curtain on this, while not overloading you with material that is difficult to read. 
@@ -25,7 +27,10 @@ Languages interrelate in ways that loop around — it is turtles the whole way d
 *P5 - Together they form a web of growing complexity.*
 Language is a living thing — in fertile ground it will grow and multiply. It will create uniformity and variety. And go through periods of rich harvests and famines. However, it doesn't deconstruct itself back to its primordial beginning. There is no way it completely loses its history.
 
-Seed principles with a bit more meat on the bone, just the beginning. 
+Seed principles with a bit more meat on the bone, just the beginning.
+
+---
+<small>Photo: <a href="https://unsplash.com/@funen99">Funen99</a> / Unsplash</small>
 
 ---
 
