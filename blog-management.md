@@ -14,24 +14,38 @@ Categories are modes of engagement, not topics. The same topic can appear in any
 | **Engineering** | Practical. How we work, tools, methods, AI collaboration. | Splectrum's practice | Tools, workflow, methodology |
 | **Commentary** | Reactions to current events, things read, things encountered. | Open, responsive | Anything timely |
 
-## Draft pipeline
+## Pipeline structure
 
 ```
-drafts/
-  core/           — substantial, from P1-P5
-  research/       — analysing other vocabularies
-  thinking/       — small bites, specific insights
-  engineering/    — practical, tools, methods
-  commentary/     — reactions, timely
+submissions/        — raw material arrives here, uncategorised
+drafts/             — accepted, categorised, being worked on
+  core/
+  research/
+  thinking/
+  engineering/
+  commentary/
+published/          — scheduled/live, date-prefixed
 ```
 
-### Draft lifecycle
+### Lifecycle
 
-1. **Idea** — a topic and category. A sentence or two.
-2. **Storyline** — enough structure to judge whether it works as a post. This is the submission.
-3. **Accepted** — the storyline works. Post is approved for writing.
-4. **Draft** — first full text written.
+1. **Submission** — raw material lands in `submissions/`. Doesn't need to adhere to post standards. Just the information, the insight, the material.
+2. **Intake** — review the submission. Accept or reject as blog-worthy.
+3. **Categorised** — if accepted, moved to `drafts/<category>/`. Post storyline laid out at this point.
+4. **Draft** — full text written, edited, image, links.
 5. **Review ready** — reviewed, cleaned, ready for scheduling.
+6. **Scheduled** — published to `published/` with date prefix and pushed to Blogger.
+
+### Source of truth
+
+**The draft is always the master.** `published/` is a snapshot generated from the draft.
+
+- Drafts stay forever — they don't get deleted when published
+- Editing always happens in `drafts/` — never in `published/` directly
+- Updates flow one way: `drafts/` → `published/` → Blogger
+- To update a live post: edit the draft, then republish
+
+This ensures one source of truth. The draft contains everything — notes, storyline, raw material, and the final text. Published is the clean output.
 
 Use frontmatter in draft files:
 
