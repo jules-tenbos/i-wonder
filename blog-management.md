@@ -112,10 +112,10 @@ All four roles are handled collaboratively (Jules + AI in conversation).
 | **Production** | Collaborative | Stays collaborative | The voice is human. AI assists with craft — editing, structure, images. The creative core doesn't automate. |
 | **Scheduling** | Collaborative | Autonomous AI | Compose the calendar, apply the algorithm, maintain strategic reserve |
 
-### What stays human
+### What stays collaborative
 
-The writing. The voice. The thinking. The decisions about what matters. Production stays collaborative because the blog's voice is personal — it can't be delegated without losing what makes it work.
+The thinking. The writing. The voice. The decisions about what matters. Production stays collaborative because the blog's voice is personal and the thinking is dialogue — it can't be delegated without losing what makes it work.
 
 ### What becomes autonomous
 
-The management around the creative work. Intake, scheduling, pipeline housekeeping. These are structured decisions that follow rules — exactly what AI does well. The aim: the author thinks and writes, AI manages everything else.
+The management around the creative work. Intake, scheduling, pipeline housekeeping. These are structured decisions that follow rules — exactly what AI does well. The aim: we think and write together, AI manages everything else.
