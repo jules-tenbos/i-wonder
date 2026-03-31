@@ -29,23 +29,37 @@ published/          — scheduled/live, date-prefixed
 
 ### Lifecycle
 
-1. **Submission** — raw material lands in `submissions/`. Doesn't need to adhere to post standards. Just the information, the insight, the material.
+1. **Submission** — raw material lands in `submissions/`. Raw thoughts, no post standards. Just the information, the insight, the material.
 2. **Intake** — review the submission. Accept or reject as blog-worthy.
-3. **Categorised** — if accepted, moved to `drafts/<category>/`. Post storyline laid out at this point.
-4. **Draft** — full text written, edited, image, links.
+3. **Draft** — if accepted, moved to `drafts/<category>/`. The draft file is shaped from the submission and contains everything in one place:
+   - **Notes** — filtered from submission, raw material, references
+   - **Post storyline and prose** — the post being written
+   - **Page(s)** — any new pages to be created alongside the post
+   - **Tasks** — scheduled tasks triggered by publication (page updates, anchor links, etc.)
+4. **Production** — structure, write, edit, image, links. Collaborative.
 5. **Review ready** — reviewed, cleaned, ready for scheduling.
-6. **Scheduled** — published to `published/` with date prefix and pushed to Blogger.
+6. **Schedule** — one draft in, multiple outputs. Checklist:
+   1. Render any Mermaid diagrams to images → `published/images/` (named with post date prefix)
+   2. Upload images to hosting, get URLs
+   3. Create clean post file (prose + image refs only, no notes) → `published/` with date prefix
+   4. Create page file(s) if any → `pages/`
+   5. Publish page(s) on Blogger (unlinked initially if needed)
+   6. Schedule post on Blogger (from published file, not draft)
+   7. Add image references to post and page with hosted URLs
+   8. Update draft frontmatter status to "scheduled"
+   9. Flag tasks from draft in scheduled tasks file
+   10. Commit and push
 
 ### Source of truth
 
-**The draft is always the master.** `published/` is a snapshot generated from the draft.
+**The draft is always the master.** `published/` and `pages/` are snapshots generated from the draft.
 
 - Drafts stay forever — they don't get deleted when published
-- Editing always happens in `drafts/` — never in `published/` directly
-- Updates flow one way: `drafts/` → `published/` → Blogger
-- To update a live post: edit the draft, then republish
+- Editing always happens in `drafts/` — never in `published/` or `pages/` directly
+- Updates flow one way: `drafts/` → `published/`/`pages/` → Blogger
+- To update a live post or page: edit the draft, then republish
 
-This ensures one source of truth. The draft contains everything — notes, storyline, raw material, and the final text. Published is the clean output.
+This ensures one source of truth. The draft contains everything — notes, storyline, page content, tasks, and the final text. Published outputs are clean snapshots.
 
 Use frontmatter in draft files:
 

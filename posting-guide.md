@@ -38,13 +38,15 @@ python3 manage.py page-delete <page-id>             # delete a page
 
 See `blog-management.md` for full draft pipeline, categories, and scheduling strategy.
 
-1. Submissions arrive in `submissions/` — raw material, uncategorised
-2. Accepted submissions move to `drafts/<category>/` with storyline
-3. Drafts mature through: storyline → draft → review-ready
-4. When review-ready and scheduled: publish to `published/` with date prefix
-5. Schedule or publish via `manage.py`
-6. **The draft is always the master.** To update a live post: edit the draft, then republish. Never edit in `published/` directly.
-7. `manage.py sync` to verify everything matches (checks LIVE + SCHEDULED)
+1. Submissions arrive in `submissions/` — raw thoughts, uncategorised
+2. Accepted submissions move to `drafts/<category>/` — one file containing: notes, post storyline/prose, page(s) content, tasks
+3. Drafts mature through: storyline → draft → review-ready (collaborative)
+4. On scheduling, the draft produces multiple outputs:
+   - Post → `published/` with date prefix → Blogger (scheduled)
+   - Page(s) → `pages/` → Blogger (published)
+   - Tasks → flagged in scheduled tasks
+5. **The draft is always the master.** To update a live post or page: edit the draft, then republish. Never edit in `published/` or `pages/` directly.
+6. `manage.py sync` to verify everything matches (checks LIVE + SCHEDULED)
 
 ## Images
 
