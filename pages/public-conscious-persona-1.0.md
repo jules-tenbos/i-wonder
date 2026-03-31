@@ -55,16 +55,73 @@ Categories are modes of engagement, not topics. The same topic can appear in any
 
 The draft is always the source of truth. Editing happens in `drafts/`, never in `published/` directly.
 
+## Source of truth
+
+The draft is always the master. `published/` and `pages/` are snapshots generated from the draft.
+
+- Drafts stay forever — they don't get deleted when published
+- Editing always happens in `drafts/` — never in `published/` or `pages/` directly
+- Updates flow one way: `drafts/` → `published/`/`pages/` → Blogger
+- To update a live post or page: edit the draft, then republish
+
+The draft file contains everything in one place: notes, post prose, page content, tasks, diagram code. On scheduling, it produces multiple outputs: post, page(s), images, tasks.
+
+## Draft frontmatter
+
+```markdown
+---
+title: Post title
+category: core | research | thinking | engineering | commentary
+topic: e.g. ethics, language, Russell, workflow
+status: storyline | draft | review-ready | scheduled
+---
+```
+
 ## Scheduling strategy
 
-At least one core post per month. Scheduling horizon expands with productivity:
+### Baseline
+
+At least one core post per month. That's the only rigid requirement.
+
+### Horizon
+
+Scheduling horizon expands with productivity:
 
 - 1 post/month → 1 month ahead
 - 2 posts/month → 2 months ahead
 - 4 posts/month → 4 months ahead
 - 6-8 posts/month → 4-6 months ahead
 
-Core posts form the strategic reserve — guaranteeing minimum rhythm when other sources slow down.
+### Preferred dates
+
+- 1st, 16th — core slots (priority)
+- 8th, 24th — other category slots
+- 4th, 12th, 20th, 28th — overflow when productive
+
+### Composition
+
+- **Variety vs depth** — alternate categories for variety, or cluster the same topic across categories for a deep dive
+- **Flavour balance** — not too many heavy core posts in a row. Engineering posts spaced out. Thinking posts as breathers.
+- **Topical bunching** — related posts close together when they build on each other
+- **Gap scheduling** — place a post where it makes sense given its neighbours
+
+### Strategic reserve
+
+Core posts are the reserve. When material is plentiful, hold core posts back rather than scheduling immediately. This guarantees the minimum rhythm (1 core/month) even if other sources slow down. Aim: 6-12 months of core posts available in the pipeline at steady state.
+
+## Scheduling checklist
+
+1. Render any Mermaid diagrams to images → `published/images/` (named with post date prefix)
+2. Upload images to hosting, get URLs
+3. Create clean post file (prose + image refs only, no notes) → `published/` with date prefix
+4. Create page file(s) if any → `pages/`
+5. Publish page(s) on Blogger (unlinked initially if needed)
+6. Schedule post on Blogger (from published file, not draft)
+7. Add image references to post and page with hosted URLs
+8. Update draft frontmatter status to "scheduled"
+9. Flag tasks from draft in scheduled tasks file
+10. Commit and push
+11. Verify: test all image URLs are accessible, check post and page(s) render correctly on Blogger
 
 ## Automation roadmap
 

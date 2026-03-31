@@ -36,7 +36,7 @@ python3 manage.py page-delete <page-id>             # delete a page
 
 ## Publishing Workflow
 
-See `blog-management.md` for full draft pipeline, categories, and scheduling strategy.
+See `pages/public-conscious-persona-1.0.md` for full pipeline, categories, scheduling strategy, and operational checklists.
 
 1. Submissions arrive in `submissions/` — raw thoughts, uncategorised
 2. Accepted submissions move to `drafts/<category>/` — one file containing: notes, post storyline/prose, page(s) content, tasks
