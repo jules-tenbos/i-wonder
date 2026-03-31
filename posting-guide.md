@@ -36,17 +36,7 @@ python3 manage.py page-delete <page-id>             # delete a page
 
 ## Publishing Workflow
 
-See `pages/public-conscious-persona-1.0.md` for full pipeline, categories, scheduling strategy, and operational checklists.
-
-1. Submissions arrive in `submissions/` — raw thoughts, uncategorised
-2. Accepted submissions move to `drafts/<category>/` — one file containing: notes, post storyline/prose, page(s) content, tasks
-3. Drafts mature through: storyline → draft → review-ready (collaborative)
-4. On scheduling, the draft produces multiple outputs:
-   - Post → `published/` with date prefix → Blogger (scheduled)
-   - Page(s) → `pages/` → Blogger (published)
-   - Tasks → flagged in scheduled tasks
-5. **The draft is always the master.** To update a live post or page: edit the draft, then republish. Never edit in `published/` or `pages/` directly.
-6. `manage.py sync` to verify everything matches (checks LIVE + SCHEDULED)
+Pipeline, categories, scheduling strategy, and operational checklists are in the [Public Conscious Persona spec](https://jules-tenbos.github.io/i-wonder/public-conscious-persona/current) (source: `docs/public-conscious-persona/current.md`).
 
 ## Images
 
@@ -82,25 +72,6 @@ Three categories, all for the curious reader, woven into text, never academic:
 3. **Topics/theories** — important concepts link to accessible explanation (Wikipedia, SEP)
 
 No footnotes, no bibliography, no academic citation apparatus.
-
-## Content structure — posts and pages
-
-The blog builds two things simultaneously:
-
-- **Posts** — individual explorations. The journey, in chronological order. Each makes one or a few points and moves on.
-- **Pages** — the body of work. The accumulated understanding. Synthesis, not timeline.
-
-A reader arriving at a page sees the synthesis. A reader following posts sees the journey. Both paths work.
-
-### Page types
-- **Main pages** (sidebar) — compact overviews, updated with each new post. Link to territory pages.
-- **Territory pages** (hidden or offlink — discoverable through main pages or posts, not in sidebar) — fuller exposition for a post series. Summarise the arc, link back to individual posts. These are where the thinking lives.
-
-### How it works
-- Posts are moments. Pages are where the body of work accumulates.
-- Each post publication triggers a page update — synopsis when scheduled, full text with links when live.
-- Territory pages grow as post series develop. When a main page gets crowded, split exposition into a territory page and keep the main page compact.
-- Regular page updates support search engine freshness.
 
 ## Dependencies
 

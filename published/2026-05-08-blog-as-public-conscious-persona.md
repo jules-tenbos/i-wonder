@@ -22,7 +22,7 @@ I don't want to occupy my time with managing this — there is software and auto
 
 <img src="https://raw.githubusercontent.com/jules-tenbos/i-wonder/main/published/images/2026-05-08-persona-flow-simple.png" alt="Pipeline flow diagram" style="max-width:100%;" />
 
-For the full technical detail of how the persona is wired, see the [Public Conscious Persona 1.0](/p/splectrum-public-conscious-persona-10.html) page.
+For the full technical detail of how the persona is wired, see the [Public Conscious Persona 1.0](https://jules-tenbos.github.io/i-wonder/public-conscious-persona/current) page.
 
 Welcome to Splectrum — Public Conscious Persona 1.0.
 

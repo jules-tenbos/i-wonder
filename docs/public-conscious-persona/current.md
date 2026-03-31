@@ -1,6 +1,6 @@
 # Splectrum — Public Conscious Persona 1.0
 
-This page describes how the blog operates as Splectrum's public conscious persona. The concept is introduced in [The Blog as Public Conscious Persona](/2026/05/the-blog-as-public-conscious-persona.html) — this page holds the technical detail.
+This page describes how the blog operates as Splectrum's public conscious persona. The concept is introduced in [The Blog as Public Conscious Persona](https://julestenbos.blogspot.com/2026/05/the-blog-as-public-conscious-persona.html) — this page holds the technical detail.
 
 ## The model
 
@@ -109,13 +109,25 @@ Scheduling horizon expands with productivity:
 
 Core posts are the reserve. When material is plentiful, hold core posts back rather than scheduling immediately. This guarantees the minimum rhythm (1 core/month) even if other sources slow down. Aim: 6-12 months of core posts available in the pipeline at steady state.
 
+## Content structure
+
+The persona publishes through three channels:
+
+- **Posts** (Blogger) — the conversation. Individual explorations in chronological order. The blog feed.
+- **Anchor pages** (Blogger, max 20) — sidebar navigation. Compact overviews linking to reference pages. Updated with each post publication.
+- **Reference pages** (GitHub Pages, unlimited) — the body of work. Specs, technical detail, territory summaries. Versioned. Discoverable through posts and anchor pages, opening in new tab.
+
+Posts are moments. Reference pages are where the thinking accumulates. Anchor pages are the navigation between them.
+
+Each post publication may trigger: anchor page update (synopsis when scheduled, full text with links when live), reference page creation or update, search engine indexing.
+
 ## Scheduling checklist
 
 1. Render any Mermaid diagrams to images → `published/images/` (named with post date prefix)
 2. Upload images to hosting, get URLs
 3. Create clean post file (prose + image refs only, no notes) → `published/` with date prefix
-4. Create page file(s) if any → `pages/`
-5. Publish page(s) on Blogger (unlinked initially if needed)
+4. Create reference page(s) if any → `docs/` with versioned folder structure
+5. Update anchor page(s) on Blogger if needed
 6. Schedule post on Blogger (from published file, not draft)
 7. Add image references to post and page with hosted URLs
 8. Update draft frontmatter status to "scheduled"
