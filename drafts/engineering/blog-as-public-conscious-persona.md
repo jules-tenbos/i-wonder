@@ -20,7 +20,7 @@ Once done the post goes through editing and finishing and is ready for schedulin
 
 I don't want to occupy my time with managing this — there is software and autonomous AI to do this for me so I can concentrate in an AI collaborative way on the creative process. Just like my body doing all the autonomous actions while I am consciously busy with my thoughts ...
 
-For the full technical detail of how the persona is wired, see the [Public Conscious Persona 1.0](https://jules-tenbos.github.io/i-wonder/public-conscious-persona/current) page.
+For the full technical detail of how the persona is wired, see the [Public Conscious Persona 1.0](https://jules-tenbos.github.io/i-wonder/engineering/personas/public-conscious-persona/current) page.
 
 Welcome to Splectrum — Public Conscious Persona 1.0.
 

@@ -1,6 +1,6 @@
-# Splectrum — Reference Pages
+# Splectrum — Reference Library
 
 Reference material for the [In Wonder](https://julestenbos.blogspot.com) blog.
 
-- [Public Conscious Persona](public-conscious-persona/current) — how the blog operates (current version)
-
+## Engineering
+- [Personas](engineering/personas/) — communication channels Splectrum operates through

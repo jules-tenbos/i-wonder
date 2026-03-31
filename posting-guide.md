@@ -36,7 +36,7 @@ python3 manage.py page-delete <page-id>             # delete a page
 
 ## Publishing Workflow
 
-Pipeline, categories, scheduling strategy, and operational checklists are in the [Public Conscious Persona spec](https://jules-tenbos.github.io/i-wonder/public-conscious-persona/current) (source: `docs/public-conscious-persona/current.md`).
+Pipeline, categories, scheduling strategy, and operational checklists are in the [Public Conscious Persona spec](https://jules-tenbos.github.io/i-wonder/engineering/personas/public-conscious-persona/current) (source: `docs/engineering/personas/public-conscious-persona/current.md`).
 
 ## Images
 
