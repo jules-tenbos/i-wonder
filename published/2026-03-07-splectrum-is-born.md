@@ -1,4 +1,5 @@
 # Splectrum is Born
+Labels: Splectrum
 
 <img src="https://images.unsplash.com/photo-1613502719426-cba8fcd9e51c?q=80&w=300&h=320&auto=format&fit=crop&crop=top" alt="Mycelium threads branching through soil" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:300px;" />
 

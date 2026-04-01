@@ -53,18 +53,18 @@ Categories are modes of engagement, not topics. The same topic can appear in any
 5. **Review ready** — reviewed, cleaned, ready for scheduling.
 6. **Scheduled** — published to `published/` with date prefix. Pushed to Blogger.
 
-The draft is always the source of truth. Editing happens in `drafts/`, never in `published/` directly.
-
 ## Source of truth
 
-The draft is always the master. `published/` and `pages/` are snapshots generated from the draft.
+On scheduling, the draft produces its outputs and is then deleted from `drafts/`. The published file becomes the master.
 
-- Drafts stay forever — they don't get deleted when published
-- Editing always happens in `drafts/` — never in `published/` or `pages/` directly
-- Updates flow one way: `drafts/` → `published/`/`pages/` → Blogger
-- To update a live post or page: edit the draft, then republish
+- `published/` is the master for posts
+- `docs/` is the master for reference pages (GitHub Pages)
+- `docs/vocabulary.md` is the master for terms
+- `drafts/` only ever contains active work — posts being prepared for scheduling
 
-The draft file contains everything in one place: notes, post prose, page content, tasks, diagram code. On scheduling, it produces multiple outputs: post, page(s), images, tasks.
+To update a live post: edit in `published/`, push to Blogger.
+
+The draft file serves as the workspace during production — containing notes, post prose, page content, tasks, diagram code. On scheduling, it produces: post, reference page(s), vocabulary updates, images. Then it's done.
 
 ## Draft frontmatter
 

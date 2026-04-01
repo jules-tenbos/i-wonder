@@ -1,4 +1,5 @@
 # The Blog as Public Conscious Persona
+Labels: Splectrum, engineering
 
 <img src="https://plus.unsplash.com/premium_photo-1748351930528-726e58f38c31?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Public conscious persona" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 

@@ -2,6 +2,8 @@
 
 **Tuesday, 3 December 2024**
 
+<img src="https://images.unsplash.com/flagged/photo-1552863473-6e5ffe5e052f?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Evolution" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+
 The brain is an organ with over 500 million years of evolution. It probably evolved through integration centers in nerve nets, the early brainless nervous system. 
 
 From the reptilian brain to the mammal brain and then the primate brain, brain development (evolutionary sense) is about adding on further capabilities, not replacing or rebuilding. So the human brain still uses mammalian and reptilian brain structures.
@@ -23,3 +25,6 @@ In recent millennia, cultural evolution has accelerated, potentially decoupling 
 ## Looking Forward
 
 This journey of understanding the brain and its evolution is a road of discovery, with no guarantee that we will find paradise. But I am ready for the journey, excited to explore how our understanding of neural evolution can inform our future development as a species.
+
+---
+<small>Photo: <a href="https://unsplash.com/@jplenio">Johannes Plenio</a> / Unsplash</small>

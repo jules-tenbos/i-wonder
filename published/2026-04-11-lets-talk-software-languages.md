@@ -1,4 +1,5 @@
 # Let's Talk Software Languages
+Labels: engineering, science
 
 <img src="https://images.unsplash.com/photo-1625459201773-9b2386f53ca2?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Software code" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 

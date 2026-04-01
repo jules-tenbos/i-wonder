@@ -1,4 +1,5 @@
 # Splectrum and First Principles
+Labels: Splectrum, philosophy
 
 <img src="https://images.unsplash.com/photo-1736348877782-fa7ae2a9bd69?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="First principles" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
