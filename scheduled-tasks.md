@@ -4,12 +4,12 @@ Tasks triggered by post publication. Updated as posts go live.
 
 ---
 
-## April 1 — The Body as Medium goes live
-- [ ] Add link: Rorty closing "Merleau-Ponty" → /2026/04/the-body-as-medium.html
-- [ ] Add link: Merleau-Ponty opening "Wittgenstein" → /2026/03/from-language-to-form-of-life.html
-- [ ] Add link: Merleau-Ponty opening "Rorty" → /2026/03/philosophy-as-conversation.html
-- [ ] Update Splectrum from Seed page
-- [ ] Draft tweet
+## April 1 — The Body as Medium goes live ✓
+- [x] Add link: Rorty closing "Merleau-Ponty" → /2026/04/the-body-as-medium.html
+- [x] Add link: Merleau-Ponty opening "Wittgenstein" (already done)
+- [x] Add link: Merleau-Ponty opening "Rorty" (already done)
+- [x] Update Splectrum from Seed page (already current — all philosopher links in place)
+- [x] Tweet: The body knows before the words arrive. Merleau-Ponty put the body back into philosophy — perception as active engagement, not passive reception. New post on the blog. julestenbos.blogspot.com/2026/04/the-body-as-medium.html #Philosophy #MerleauPonty #Splectrum
 
 ## April 6 — From the Turn to the Present goes live
 - [ ] Add link: bridge closing "Merleau-Ponty" → /2026/04/the-body-as-medium.html

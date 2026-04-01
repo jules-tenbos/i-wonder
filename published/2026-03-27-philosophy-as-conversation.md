@@ -19,7 +19,7 @@ His critics sensed something missing — that conversation between vocabularies 
 
 But the dam was breached. The relational view of reality gained more and more traction across different disciplines, albeit often still as minority views. And it was not only a discussion in philosophy. Similar discussions happened in physics, as will become clear in a future post on the subject of relational quantum mechanics.
 
-Next up: let's go back in time a bit, to Merleau-Ponty who put the body back into the picture.
+Next up: let's go back in time a bit, to [Merleau-Ponty](/2026/04/the-body-as-medium.html) who put the body back into the picture.
 
 ---
 <small>Photo: <a href="https://unsplash.com/@batuhan_dogan">Batuhan Doğan</a> / Unsplash</small>
