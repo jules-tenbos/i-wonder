@@ -3,7 +3,7 @@ Labels: Splectrum
 
 <img src="https://images.unsplash.com/photo-1613502719426-cba8fcd9e51c?q=80&w=300&h=320&auto=format&fit=crop&crop=top" alt="Mycelium threads branching through soil" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:300px;" />
 
-As with a lot of rebrands, it is trying to revive. Here no different — I managed to stay silent for over half a year. A lot happened in the quiet. It's just that I can't get myself to be a writer!
+As with a lot of rebrands, it is about trying to revive. Here no different — how did I manage to stay silent for over half a year again. A lot happened in the quiet. It's just that I can't get myself to become a writer!
 
 For the few posts I managed to put out, they touched on real points of interest and have a common baseline — a fascination with reality, what is around us, and how it evolves. The brain and how it wires itself through experience. Evolution adding layers, never replacing. Death as life's partner. The little I wrote is in stark contrast to the time I spent researching and thinking about it.
 
