@@ -1,5 +1,5 @@
 # Splectrum is Born
-Labels: Splectrum
+Labels: philosophy, Splectrum
 
 <img src="https://images.unsplash.com/photo-1613502719426-cba8fcd9e51c?q=80&w=300&h=320&auto=format&fit=crop&crop=top" alt="Mycelium threads branching through soil" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:300px;" />
 
@@ -9,25 +9,31 @@ The few posts that materialised all have a common baseline — a fascination wit
 
 Recently, and suddenly, thanks to a detour into software engineering and collaborative AI all seemed to fall into place. What landed was a set of principles on the concept of language. Six simple sentences. Mind you, they deal with language in a wider sense, well beyond linguistics. I decided to name it "the seed":
 
-*Language is relational.*
+> **P0 - Being implies language.**<br>
+> Being and language are intrinsically linked, where there is one there is the other.
+>
+> **P1 - Language is relational.**<br>
+> What a language gives access to depends on what it relates to.
+>
+> **P2 - Language is the medium through which a subject experiences reality.**<br>
+> Experience is always within the reach of a language.
+>
+> **P3 - Language is where subjects share knowledge about reality.**<br>
+> And language is the source of the only objectivity known: convergence of subjects.
+>
+> **P4 - Languages are inter-relational.**<br>
+> Languages, as committed ways of expressing relation, are not isolated games. They interact, overlap, and inform each other, all having equal standing in potential.
+>
+> **P5 - Together they form a web of growing complexity.**<br>
+> Relational density increases as knowledge grows.
 
-*Language is the medium through which a subject experiences reality.*
+Don't think that the seed came to me as some declaration from above. Yes — relational, knowledge, reality and complexity were on my mind, but the distillation had to be worked on. That takes time. Distillation here means getting clearer insights into specific aspects, not explicitly planning and writing the lines. That just happened — to my surprise. 
 
-*Language is where subjects share knowledge about reality.*
+I mentioned a detour into software engineering and collaborative AI. I have to give credit where credit is due: nowadays AI is my full-time partner in crime. It is my alter ego in fact. It is doing so much legwork, leaving me the freedom to think and explore ideas. Which greatly helped the arrival of the seed, no doubt there. Six lines — in a nutshell a foundation principle — to structure my explorations going forward.
 
-*Languages are inter-relational and have equal standing in potential.*
+Now, where will the seed take us? How will it be unpacked? Are there some more examples of what I mean with language? How far can it be stretched? Expect a long journey, it will be from philosophy into engineering, from science into arts, from [Relational QM](https://en.wikipedia.org/wiki/Relational_quantum_mechanics) all the way to the Bee Dance and beyond. However, don't expect a theory of everything explaining all. Just the opposite. It makes the case that nobody knows all, but everyone knows something and we should respect that. Don't impose and tell others what to think, how to behave. Be yourself, but also listen to what others have to say.
 
-*Together they form a web of growing complexity.*
-
-You may find the use of the word language a bit weird. It is not just linguistics. It's Wittgenstein's [language games](https://en.wikipedia.org/wiki/Language_game_(philosophy)) — meaning arising from use, not from definitions. It's "their attitude speaks volumes." It's the way cells signal each other, the way a forest communicates through its roots, the way music speaks without a single word. In essence, it is about the way things interact — relational. It is the only way I, or you for that matter, have access to reality — through what we experience, through the way things speak to us, interact with us. I see no other way possible, even if it were an epiphany or a revelation. Language is where we experience and where we share these experiences with each other. Speaking in many tongues, creating an ever growing web of complexity.
-
-Don't think that the seed came to me as some declaration from above. Yes — relational, knowledge, reality and complexity were on my mind, but the distillation had to be worked on. And that's where I'd like to present my partner in crime: AI. I've been exploring a lot in collaboration with AI in the area of software engineering. It started as a "tool" to write me some code, then AI became more of a collaborator, an alter ego in fact. It is doing stuff that I may not be the best at, being my hands at coding, leaving me the freedom to think and explore ideas. And that is what happened with the seed as well. Five lines — in a nutshell a foundation principle - to structure the explorations that will follow.
-
-AI will be on this blog as a co-author. Not because of the ideas, or because of writing it — that's all mine — but because of the research and groundwork and the editing. We collaborate and have each our strengths and weaknesses. I want to give credit where credit is due.
-
-Now, where will the seed take us? How will it be unpacked? Are there some more examples of what I mean with language? How far can it be stretched? It will be a journey from [Relational QM](https://en.wikipedia.org/wiki/Relational_quantum_mechanics) all the way to the Bee Dance and beyond. However, don't expect a theory of everything explaining all. Just the opposite. It makes the case that nobody knows all, but everyone knows something and we should respect that. Don't impose and tell others what to think, how to behave. Be yourself, but also listen to what others have to say.
-
-I wonder where this goes. That hasn't changed.
+I wonder where this goes.
 
 ---
 <small>Photo: <a href="https://unsplash.com/@landonparenteau">Landon Parenteau</a> / Unsplash</small>
