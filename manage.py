@@ -121,10 +121,18 @@ def parse_markdown_file(filepath):
             labels = [l.strip() for l in next_line[7:].split(",") if l.strip()]
             body_start += 1
 
+    # Check for Blogger-ID: line after labels
+    blogger_id = None
+    if body_start < len(lines):
+        next_line = lines[body_start].strip()
+        if next_line.lower().startswith("blogger-id:"):
+            blogger_id = next_line[11:].strip()
+            body_start += 1
+
     body_md = "\n".join(lines[body_start:]).strip()
     body_html = markdown.markdown(body_md, extensions=["extra", "sane_lists"])
 
-    return title, body_html, labels
+    return title, body_html, labels, blogger_id
 
 
 # ── Commands ─────────────────────────────────────────────────────────
@@ -157,7 +165,7 @@ def cmd_get(service, blog_id, args):
 
 def cmd_publish(service, blog_id, args):
     """Publish a post from a markdown file."""
-    title, body_html, labels = parse_markdown_file(args.markdown_file)
+    title, body_html, labels, _blogger_id = parse_markdown_file(args.markdown_file)
     post_body = {"kind": "blogger#post", "title": title, "content": body_html}
     if labels:
         post_body["labels"] = labels
@@ -169,7 +177,7 @@ def cmd_publish(service, blog_id, args):
 
 def cmd_draft(service, blog_id, args):
     """Create a draft from a markdown file."""
-    title, body_html, labels = parse_markdown_file(args.markdown_file)
+    title, body_html, labels, _blogger_id = parse_markdown_file(args.markdown_file)
     post_body = {"kind": "blogger#post", "title": title, "content": body_html}
     if labels:
         post_body["labels"] = labels
@@ -180,7 +188,7 @@ def cmd_draft(service, blog_id, args):
 
 def cmd_schedule(service, blog_id, args):
     """Schedule a post for future publication."""
-    title, body_html, labels = parse_markdown_file(args.markdown_file)
+    title, body_html, labels, _blogger_id = parse_markdown_file(args.markdown_file)
     publish_date = args.datetime
     if not publish_date.endswith("Z") and "+" not in publish_date:
         publish_date += "+00:00"
@@ -201,13 +209,17 @@ def cmd_schedule(service, blog_id, args):
 
 def cmd_update(service, blog_id, args):
     """Update an existing post from a markdown file."""
-    title, body_html, labels = parse_markdown_file(args.markdown_file)
+    title, body_html, labels, blogger_id = parse_markdown_file(args.markdown_file)
+    post_id = args.post_id or blogger_id
+    if not post_id:
+        print("Error: No post ID provided and no Blogger-ID in file.", file=sys.stderr)
+        sys.exit(1)
     post_body = {"kind": "blogger#post", "title": title, "content": body_html}
     if labels:
         post_body["labels"] = labels
     post = (
         service.posts()
-        .update(blogId=blog_id, postId=args.post_id, body=post_body)
+        .update(blogId=blog_id, postId=post_id, body=post_body)
         .execute()
     )
     print(f"Updated: {post['title']}")
@@ -245,7 +257,7 @@ def cmd_page_list(service, blog_id, _args):
 
 def cmd_page_publish(service, blog_id, args):
     """Publish a page from a markdown file."""
-    title, body_html, _labels = parse_markdown_file(args.markdown_file)
+    title, body_html, _labels, _blogger_id = parse_markdown_file(args.markdown_file)
     page_body = {"kind": "blogger#page", "title": title, "content": body_html}
     page = service.pages().insert(blogId=blog_id, body=page_body, isDraft=False).execute()
     print(f"Published page: {page['title']}")
@@ -255,7 +267,7 @@ def cmd_page_publish(service, blog_id, args):
 
 def cmd_page_update(service, blog_id, args):
     """Update an existing page from a markdown file."""
-    title, body_html, _labels = parse_markdown_file(args.markdown_file)
+    title, body_html, _labels, _blogger_id = parse_markdown_file(args.markdown_file)
     page_body = {"kind": "blogger#page", "title": title, "content": body_html}
     page = (
         service.pages()
@@ -344,8 +356,8 @@ def main():
     p_sched.add_argument("datetime", help="Publish date (e.g. 2026-03-15T10:00:00)")
 
     p_update = subparsers.add_parser("update", help="Update existing post")
-    p_update.add_argument("post_id", help="Post ID")
     p_update.add_argument("markdown_file", help="Path to markdown file")
+    p_update.add_argument("post_id", nargs="?", default=None, help="Post ID (optional if Blogger-ID in file)")
 
     p_delete = subparsers.add_parser("delete", help="Delete a post")
     p_delete.add_argument("post_id", help="Post ID")

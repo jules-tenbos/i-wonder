@@ -1,5 +1,6 @@
 # From Clockwork to Open Questions
 Labels: science
+Blogger-ID: 8854239958377647427
 
 <img src="https://images.unsplash.com/photo-1641143215652-971a31701a89?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Light and physics" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 

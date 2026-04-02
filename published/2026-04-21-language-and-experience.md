@@ -1,5 +1,6 @@
 # Language, Experience and Reality
 Labels: Splectrum, philosophy
+Blogger-ID: 333430066304797033
 
 <img src="https://plus.unsplash.com/premium_photo-1664367985945-98d683d96e78?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Campfire" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
