@@ -7,7 +7,7 @@ status: storyline
 
 # Splectrum Engineering
 
-In this post I am going to take a rather unusual step: Splectrum first principles applied to engineering! It involves another round of the five seed principles, but this time looking at them from an engineering point of view — software engineering to be precise. That opens the field of engineering in general because through software engineering access is obtained to AI and automation. The AI component is very important here, because it enables a fluidity of language which was not attainable before.
+In this post I am going to take a rather unusual step: Splectrum from first principles applied to engineering! It involves another round of the five seed principles, this time looking at them from an engineering point of view. Software engineering to be precise. The aim is to integrate the Splectrum philosophy as seamlessly as possible into AI enablement and engineering in general. The AI component is very important here, because it enables a fluidity of language which was not attainable before.
 
 And if you wonder why principles for what is in essence a philosophical project would be good as a foundation for engineering: if Splectrum claims that its principles apply broadly across the field of human experience then that should include engineering.
 
