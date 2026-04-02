@@ -1,4 +1,5 @@
 # Am I a Libertarian?
+Labels: philosophy, thought
 
 **Monday, 9 December 2024**
 

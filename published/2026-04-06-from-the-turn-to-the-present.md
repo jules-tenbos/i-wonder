@@ -1,9 +1,9 @@
 # From the Turn to the Present
-Labels: philosophy
+Labels: positioning, philosophy, western philosophy
 
 <img src="https://images.unsplash.com/photo-1658731041632-3a78727eaf7e?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Stepping stones" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
-In the previous posts I talked about the turn in language — from representing an absolute reality to something relational ([Wittgenstein](/2026/03/from-language-to-form-of-life.html), [Rorty](/2026/03/philosophy-as-conversation.html)). The [last post](/2026/04/the-body-as-medium.html) anchors the body as the 'frontline' participant in this relational activity. However, these were not isolated events but happened after a long evolution in thinking. In fact, this started at the beginning of modern philosophy and science about 500 years ago.
+In the [positioning series](/search/label/positioning) I talked about the turn in language — from representing an absolute reality to something relational ([Wittgenstein](https://plato.stanford.edu/entries/wittgenstein/), [Rorty](https://plato.stanford.edu/entries/rorty/)). [Merleau-Ponty](https://plato.stanford.edu/entries/merleau-ponty/) anchors the body as the 'frontline' participant in this relational activity. However, these were not isolated events but happened after a long evolution in thinking. In fact, this started at the beginning of modern philosophy and science about 500 years ago.
 
 Although the turn is associated with Kant, it was in fact Descartes that fired the first shot: he shifted the focus from a God who reveals truth to humans who through doubt enquire what can be known of reality. However, his approach ended up with the inevitable existence of God being the main justification, not very satisfactory since it implicitly gives the last word back to God. But the main transition was made: enquiry into the nature of reality had become 'personal' — even if it was still about holding up a mirror to a reality 'out there.' That mirror would persist for centuries.
 
@@ -25,6 +25,6 @@ Heidegger, Husserl's student, embedded the observer deeper into reality. We don'
 
 By this time the ground was prepared for Wittgenstein, Merleau-Ponty and Rorty — all chipping away at the same thing: the idea that we can stand outside reality and describe it as it is. The outside view, giving way to the relational.
 
-And philosophy was not alone. Physics was making the same move, independently. That will be for another time.
+And philosophy was not alone. Physics was making the same move, independently. That is also covered in the positioning series.
 
 <small>Photo: <a href="https://unsplash.com/@popovkin">Popovkin</a> / Unsplash</small>

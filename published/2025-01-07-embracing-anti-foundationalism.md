@@ -1,5 +1,5 @@
 # Embracing Anti-Foundationalism: Why I Reject the Single Foundation
-Labels: philosophy
+Labels: philosophy, comment
 
 I stumbled across anti-foundationalism and thought - wow, that's me as well. Don't be taken aback by the "anti" - something that has no place really in my dictionary. As often, it might not be the best choice of word for what it means. Foundations are important, but they're inevitably tied to a context. It is the single foundation that is the problem.
 

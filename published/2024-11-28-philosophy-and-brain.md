@@ -1,4 +1,5 @@
 # Philosophy and the Brain
+Labels: philosophy, thought
 
 **Thursday, 28 November 2024**
 
