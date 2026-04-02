@@ -2,6 +2,14 @@
 
 Tasks triggered by post publication. Updated as posts go live.
 
+## Standing tasks
+
+- [ ] Blogger anchor pages (About, Collaborative AI, Splectrum from Seed) should link to the reference library top level: https://jules-tenbos.github.io/i-wonder/ — helps search engines crawl the full extent
+
+- [ ] Add "The world of Splectrum" footer — consistent positioning on both platforms:
+  - **Blog (Blogger):** Add as HTML widget in footer or sidebar. One-time setup, appears on every post and page automatically. Layout → Add a Gadget → HTML/JavaScript. Content: `<p style="font-size:0.85em;"><em>The world of Splectrum. The conversation lives at <a href="https://julestenbos.blogspot.com">In Wonder</a>. The reference library at <a href="https://jules-tenbos.github.io/i-wonder/">Splectrum Reference</a>.</em></p>`
+  - **Reference library (GitHub Pages):** Add to a Jekyll include or manually to each page footer. Content: `*The world of Splectrum. The conversation lives at [In Wonder](https://julestenbos.blogspot.com). The reference library at [Splectrum Reference](https://jules-tenbos.github.io/i-wonder/).*`
+
 ---
 
 ## April 1 — The Body as Medium goes live ✓
