@@ -1,6 +1,6 @@
-# Splectrum — Reference Library
+# In Wonder - The World of Splectrum
 
-Reference material for the [In Wonder](https://julestenbos.blogspot.com) blog.
+The reference library for the world of Splectrum.
 
 - [The Splectrum Seed](seed) — foundation principles P0–P5
 - [Language](language/) — categories, properties, how languages relate
@@ -12,4 +12,4 @@ Reference material for the [In Wonder](https://julestenbos.blogspot.com) blog.
 
 ---
 
-*The world of Splectrum. The conversation lives at [In Wonder](https://julestenbos.blogspot.com). The reference library at [Splectrum Reference](https://jules-tenbos.github.io/i-wonder/).*
+*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

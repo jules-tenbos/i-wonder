@@ -1,4 +1,4 @@
-[Splectrum Reference](../) > Language
+[In Wonder - The World of Splectrum](../) > Language
 
 # Language
 
@@ -15,4 +15,4 @@ This area catalogues the categories as the exploration deepens.
 
 ---
 
-*The world of Splectrum. The conversation lives at [In Wonder](https://julestenbos.blogspot.com). The reference library at [Splectrum Reference](https://jules-tenbos.github.io/i-wonder/).*
+*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

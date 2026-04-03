@@ -26,7 +26,7 @@ Wittgenstein embodies the turn, he existed on both sides. He started on the anal
 
 Next up: Rorty, who walked through that door and kept going.
 
-<small>The <a href="https://jules-tenbos.github.io/i-wonder/positioning">reference library</a> has an overview of the positioning series.</small>
+<small>The <a href="https://jules-tenbos.github.io/in-wonder/positioning">reference library</a> has an overview of the positioning series.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@sayanhn">Sayan Hn</a> / Unsplash</small>

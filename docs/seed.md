@@ -1,4 +1,4 @@
-[Splectrum Reference](./) > The Splectrum Seed
+[In Wonder - The World of Splectrum](./) > The Splectrum Seed
 
 # The Splectrum Seed
 
@@ -64,4 +64,4 @@ In science, the same move: from Newton's clockwork to quantum mechanics, from th
 
 ---
 
-*The world of Splectrum. The conversation lives at [In Wonder](https://julestenbos.blogspot.com). The reference library at [Splectrum Reference](https://jules-tenbos.github.io/i-wonder/).*
+*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

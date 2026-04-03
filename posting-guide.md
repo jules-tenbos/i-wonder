@@ -38,7 +38,7 @@ python3 manage.py page-delete <page-id>             # delete a page
 
 ## Publishing Workflow
 
-Pipeline, categories, scheduling strategy, and operational checklists are in the [Public Conscious Persona spec](https://jules-tenbos.github.io/i-wonder/engineering/personas/public-conscious-persona/current) (source: `docs/engineering/personas/public-conscious-persona/current.md`).
+Pipeline, categories, scheduling strategy, and operational checklists are in the [Public Conscious Persona spec](https://jules-tenbos.github.io/in-wonder/engineering/personas/public-conscious-persona/current) (source: `docs/engineering/personas/public-conscious-persona/current.md`).
 
 ## Images
 
@@ -64,7 +64,7 @@ Not every post has all three. Max 3 labels.
 
 ## Reference Library
 
-The reference library lives in `docs/` and is served at `jules-tenbos.github.io/i-wonder/`. It is the primary — the blog promotes it, not the other way around.
+The reference library lives in `docs/` and is served at `jules-tenbos.github.io/in-wonder/`. It is the primary — the blog promotes it, not the other way around.
 
 ### Page template
 
@@ -85,7 +85,7 @@ Content...
 
 ---
 
-*The world of Splectrum. The conversation lives at [In Wonder](https://julestenbos.blogspot.com). The reference library at [Splectrum Reference](https://jules-tenbos.github.io/i-wonder/).*
+*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*
 ```
 
 - **Breadcrumb** at the top — relative links back to root. Root `index.md` has no breadcrumb.
@@ -97,7 +97,7 @@ Content...
 ### Linking from blog posts
 
 - Series label link: `/search/label/<series>` (Blogger label filter)
-- Reference library link: `https://jules-tenbos.github.io/i-wonder/<area>/`
+- Reference library link: `https://jules-tenbos.github.io/in-wonder/<area>/`
 - Post footer pattern: `<small>This post is part of the [series](/search/label/series). More in the <a href="url">area of the reference library</a>.</small>`
 
 ## Links

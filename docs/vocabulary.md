@@ -1,4 +1,4 @@
-[Splectrum Reference](./) > Vocabulary
+[In Wonder - The World of Splectrum](./) > Vocabulary
 
 # Splectrum Vocabulary
 
@@ -44,4 +44,4 @@ Terms as used within Splectrum. This vocabulary grows as the project develops.
 
 ---
 
-*The world of Splectrum. The conversation lives at [In Wonder](https://julestenbos.blogspot.com). The reference library at [Splectrum Reference](https://jules-tenbos.github.io/i-wonder/).*
+*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

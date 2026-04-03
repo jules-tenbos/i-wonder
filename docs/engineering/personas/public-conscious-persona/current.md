@@ -1,4 +1,4 @@
-[Splectrum Reference](../../../) > [Engineering](../../) > [Personas](../) > [Public Conscious Persona](./) > Current
+[In Wonder - The World of Splectrum](../../../) > [Engineering](../../) > [Personas](../) > [Public Conscious Persona](./) > Current
 
 # Splectrum — Public Conscious Persona 1.0
 
@@ -158,4 +158,4 @@ Each post publication may trigger: anchor page update (synopsis when scheduled, 
 
 ---
 
-*The world of Splectrum. The conversation lives at [In Wonder](https://julestenbos.blogspot.com). The reference library at [Splectrum Reference](https://jules-tenbos.github.io/i-wonder/).*
+*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*
