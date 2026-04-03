@@ -32,7 +32,7 @@ A [subject](vocabulary) — the view from inside an entity — accesses [reality
 
 Shared language creates shared understanding — knowledge — because interactions shape the vocabulary and the relational patterns. Objectivity is not a view from nowhere; it is what subjects converge on through [conversation](vocabulary). [Rorty](https://plato.stanford.edu/entries/rorty/) makes this case: philosophy is conversation, not mirror-holding.
 
-## P4 — Languages are inter-relational
+## P4 — Languages are inter-relational and have equal standing in potential
 
 > Languages, as committed ways of expressing relation, are not isolated games. They interact, overlap, and inform each other, all having equal standing in potential.
 
