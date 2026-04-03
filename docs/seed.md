@@ -20,8 +20,6 @@ P0 is the ground. P1–P5 describe what language does. P0 says language is there
 
 Language is not representation — it is relation. Meaning arises from use, not from definitions. This is [Wittgenstein](https://plato.stanford.edu/entries/wittgenstein/)'s language games and [Saussure](https://plato.stanford.edu/entries/saussure/)'s differential signs: the sign has no content in itself, only in relation to other signs in the system.
 
-**See also:** [Vocabulary](vocabulary)
-
 ## P2 — Language is the medium through which a subject experiences reality
 
 > Experience is always within the reach of a language.
@@ -45,14 +43,6 @@ No hierarchy of languages. Binary has the full power; Python has the clarity. Na
 > Relational density increases as knowledge grows.
 
 The complexity grows in expression, not in power — the full power was always there (P0). More languages, more perspectives, more ways of engaging what was always there. Evolution doesn't add capacity; it adds articulation.
-
----
-
-## Positioning
-
-The seed speaks from within a tradition that has been evolving for five hundred years — from Descartes' shift to personal enquiry, through Kant's turn to the subject, Hegel's historicity, to the language turn of the twentieth century. The trajectory is consistent: from representing an external reality to relating within it.
-
-In science, the same move: from Newton's clockwork to quantum mechanics, from the observer as neutral recorder to the observer as participant. [Relational quantum mechanics](https://plato.stanford.edu/entries/qm-relational/) takes this furthest — facts are relative to the observer, not absolute.
 
 ---
 

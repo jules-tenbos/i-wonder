@@ -6,6 +6,8 @@ Terms as used within Splectrum. This vocabulary grows as the project develops.
 
 ---
 
+**Being** — where there is being, there is language. An entity in motion — interacting, differentiating, relating — implies language at its surface.
+
 **Relational unit** — entities embedded in language. The basic structure of relation.
 
 **Entity** — a unit of encapsulated data. In linguistics, maps to a signifier/signified unit.
