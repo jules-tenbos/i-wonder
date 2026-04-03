@@ -2,6 +2,8 @@
 Labels: philosophy, thought
 Blogger-ID: 1942856520641127277
 
+<img src="https://images.unsplash.com/photo-1620028193494-671878b176b7?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Brain" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+
 **Thursday, 28 November 2024**
 
 This century is seeing an exponential increase in knowledge in scientific disciplines like neuroscience, behavioral biology, and artificial intelligence. This scientific understanding can guide our philosophical thoughts in profound ways.
@@ -31,3 +33,6 @@ By studying how the brain works, we can better understand:
 - What possibilities exist for expanding human understanding
 
 This scientific foundation doesn't diminish the wonder of consciousness or reduce philosophy to mere biology. Instead, it provides a more solid foundation for exploring the deepest questions about existence, meaning, and human nature.
+
+---
+<small>Photo: <a href="https://unsplash.com/@theblowup">the blowup</a> / Unsplash</small>

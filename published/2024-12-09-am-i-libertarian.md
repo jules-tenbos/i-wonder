@@ -2,6 +2,8 @@
 Labels: philosophy, thought
 Blogger-ID: 5016796974424544740
 
+<img src="https://images.unsplash.com/photo-1763079163086-fd758f86f831?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Liberty" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+
 **Monday, 9 December 2024**
 
 What I most value are personal freedoms. Freedom of thought, freedom of choice, freedom of association, freedom of speech. These are fundamental to who I am and how I see the world.
@@ -20,3 +22,6 @@ My philosophy emphasizes a balanced approach:
 The internet and virtual spaces could be ideal platforms for creating diverse, self-organizing communities where people can find others who share their values and preferred ways of living.
 
 The underlying principle is individual liberty balanced with mutual respect, allowing for diverse ways of organizing society while protecting fundamental human dignities.
+
+---
+<small>Photo: <a href="https://unsplash.com/@itsnath_jpeg">itsnath_jpeg</a> / Unsplash</small>
