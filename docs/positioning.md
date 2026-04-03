@@ -20,7 +20,7 @@ The positioning series places the [Splectrum seed](seed) within the broader evol
 
 **From clockwork to open questions.** Descartes' mind-body split freed science to treat the world as pure mechanism. Newton gave it deterministic mechanics in absolute space and time. Leibniz objected — space is relational, not a container — but lacked the mathematics. Laplace took the clockwork to its logical endpoint. Maxwell unified fields and waves; Einstein localised spacetime. Then quantum mechanics broke the picture: discrete energy, wave-particle duality, Heisenberg's uncertainty, Born's probabilities. The observer shifted from neutral recorder to participant. Bell's theorem made it experimentally real. The most productive theory in history, and no worldview to go with it.
 
-**Relational quantum mechanics.** [Rovelli](https://plato.stanford.edu/entries/qm-relational/)'s RQM takes the relational turn furthest in physics. Facts are relative to the observer, not absolute. No God's-eye view. Properties arise in interaction, not in isolation.
+**Relational quantum mechanics.** [Rovelli](https://plato.stanford.edu/entries/qm-relational/)'s RQM (1996) takes the relational turn furthest in physics. The observer is any physical system, not a privileged agent. Properties arise in interaction, not in isolation. Facts are relative to the systems that establish them. Decoherence provides the mechanism: where it is present, facts are shared and stable — the classical world we recognise. Where it is absent, properties remain entangled and local. Reality is relational all the way through. Not a philosophical position imposed on the physics — what the physics says when we stop insisting on an outside view.
 
 ---
 
