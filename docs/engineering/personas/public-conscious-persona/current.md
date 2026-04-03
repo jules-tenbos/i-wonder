@@ -1,3 +1,5 @@
+[Splectrum Reference](../../../) > [Engineering](../../) > [Personas](../) > [Public Conscious Persona](./) > Current
+
 # Splectrum — Public Conscious Persona 1.0
 
 This page describes how the blog operates as Splectrum's public conscious persona. The concept is introduced in [The Blog as Public Conscious Persona](https://julestenbos.blogspot.com/2026/05/the-blog-as-public-conscious-persona.html) — this page holds the technical detail.
@@ -145,3 +147,15 @@ Each post publication may trigger: anchor page update (synopsis when scheduled, 
 | **Scheduling** | Collaborative | Autonomous AI |
 
 *(This page grows as the persona evolves.)*
+
+---
+
+## Related
+
+- [Version 1.0](1.0) — initial release
+- [Public Conscious Persona](./) — overview
+- [The Splectrum Seed](../../../seed) — foundation principles
+
+---
+
+*The world of Splectrum. The conversation lives at [In Wonder](https://julestenbos.blogspot.com). The reference library at [Splectrum Reference](https://jules-tenbos.github.io/i-wonder/).*

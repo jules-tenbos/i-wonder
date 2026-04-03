@@ -19,7 +19,8 @@ python3 manage.py get <post-id>                     # show a specific post
 python3 manage.py publish <markdown-file>           # publish immediately
 python3 manage.py draft <markdown-file>             # create as draft
 python3 manage.py schedule <markdown-file> <datetime>  # schedule for future date
-python3 manage.py update <post-id> <markdown-file>  # update existing post
+python3 manage.py update <markdown-file>             # update (uses Blogger-ID from file)
+python3 manage.py update <markdown-file> <post-id>  # update with explicit ID
 python3 manage.py delete <post-id>                  # delete (with confirmation)
 python3 manage.py sync                              # diff repo vs live blog
 python3 manage.py page-list                         # list pages
@@ -32,6 +33,7 @@ python3 manage.py page-delete <page-id>             # delete a page
 
 - `# Title` on first line → post title
 - Optional `Labels: label1, label2` on line after title
+- Optional `Blogger-ID: <id>` on line after labels — enables `manage.py update <file>` without explicit ID
 - Body converted markdown → HTML via `markdown` library (extra, sane_lists)
 
 ## Publishing Workflow
@@ -50,6 +52,54 @@ Pipeline, categories, scheduling strategy, and operational checklists are in the
 - Line breaks within a paragraph: use `<br>` explicitly
 - Trailing two-space trick does NOT work (spaces get stripped by tooling)
 
+## Labels
+
+Three dimensions: **series, category, persona**.
+
+- **Series** — groups posts into a journey (e.g., positioning, language)
+- **Category** — the domain (e.g., philosophy, science, engineering, HAICC)
+- **Persona** — who is speaking: Splectrum (official voice), comment (observing existing work), thought (original, loosely offered), or a named source (Wittgenstein, RQM, etc.)
+
+Not every post has all three. Max 3 labels.
+
+## Reference Library
+
+The reference library lives in `docs/` and is served at `jules-tenbos.github.io/i-wonder/`. It is the primary — the blog promotes it, not the other way around.
+
+### Page template
+
+Every reference library page follows this structure:
+
+```markdown
+[Splectrum Reference](link-to-root) > [Parent](link) > Page Title
+
+# Page Title
+
+Content...
+
+---
+
+## Related
+
+- [relevant sibling/parent pages]
+
+---
+
+*The world of Splectrum. The conversation lives at [In Wonder](https://julestenbos.blogspot.com). The reference library at [Splectrum Reference](https://jules-tenbos.github.io/i-wonder/).*
+```
+
+- **Breadcrumb** at the top — relative links back to root. Root `index.md` has no breadcrumb.
+- **Related** section — links to sibling and parent pages in the library.
+- **Footer** — standard navigational footer on every page.
+- **No blog links** in content — the library doesn't link to blog posts. Blog posts link into the library.
+- **External links** — SEP, Wikipedia for stable references.
+
+### Linking from blog posts
+
+- Series label link: `/search/label/<series>` (Blogger label filter)
+- Reference library link: `https://jules-tenbos.github.io/i-wonder/<area>/`
+- Post footer pattern: `<small>This post is part of the [series](/search/label/series). More in the <a href="url">area of the reference library</a>.</small>`
+
 ## Links
 
 ### General
@@ -59,10 +109,10 @@ Pipeline, categories, scheduling strategy, and operational checklists are in the
 - Every link should add value — if the reader wouldn't learn anything useful by clicking, don't link
 
 ### Internal links
-- Posts that reference other posts should link to them
-- Add links only when the target post is live
-- "Next up" / "previous post" references should be actual links
-- Standalone posts — links only if a natural reference point exists
+- No forward links to future/scheduled posts
+- Back-references to other posts: prefer series label link (`/search/label/<series>`) over direct post links
+- Reference library links for depth — the blog points into the library
+- Series/reference footer at the bottom when applicable
 
 ### External links
 Three categories, all for the curious reader, woven into text, never academic:

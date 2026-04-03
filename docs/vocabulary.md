@@ -1,3 +1,5 @@
+[Splectrum Reference](./) > Vocabulary
+
 # Splectrum Vocabulary
 
 Terms as used within Splectrum. This vocabulary grows as the project develops.
@@ -31,3 +33,15 @@ Terms as used within Splectrum. This vocabulary grows as the project develops.
 **Mycelium** — the fabric of reality, where subject meets the data world.
 
 **Data world** — all the data the subject potentially can relate to.
+
+---
+
+## Related
+
+- [The Splectrum Seed](seed) — foundation principles P0-P5
+- [Positioning](positioning) — the philosophical and scientific trajectory
+- [Language](language/) — categories, properties, how languages relate
+
+---
+
+*The world of Splectrum. The conversation lives at [In Wonder](https://julestenbos.blogspot.com). The reference library at [Splectrum Reference](https://jules-tenbos.github.io/i-wonder/).*

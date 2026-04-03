@@ -1,5 +1,18 @@
+[Splectrum Reference](../) > Language
+
 # Language
 
 Splectrum recognises language wherever there is interaction. This extends far beyond human communication into all relational activity across reality. Languages come in many categories — each with its own vocabulary, grammar, strengths and weaknesses. None self-founding, each spawned from another. All inter-relational, all with equal standing in potential.
 
 This area catalogues the categories as the exploration deepens.
+
+---
+
+## Related
+
+- [The Splectrum Seed](../seed) — foundation principles P0-P5
+- [Vocabulary](../vocabulary) — Splectrum terms and definitions
+
+---
+
+*The world of Splectrum. The conversation lives at [In Wonder](https://julestenbos.blogspot.com). The reference library at [Splectrum Reference](https://jules-tenbos.github.io/i-wonder/).*

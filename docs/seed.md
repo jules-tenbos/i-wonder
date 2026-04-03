@@ -1,3 +1,5 @@
+[Splectrum Reference](./) > The Splectrum Seed
+
 # The Splectrum Seed
 
 The foundation of Splectrum. Six principles on the nature of language — where language extends well beyond linguistics to encompass all relational interaction between [entities](vocabulary).
@@ -57,6 +59,7 @@ In science, the same move: from Newton's clockwork to quantum mechanics, from th
 ## Related
 
 - [Vocabulary](vocabulary) — Splectrum terms and definitions
+- [Positioning](positioning) — the philosophical and scientific trajectory
 - [Public Conscious Persona](engineering/personas/public-conscious-persona/current) — engineering spec for the blog
 
 ---

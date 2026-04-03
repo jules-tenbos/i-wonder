@@ -9,3 +9,7 @@ Reference material for the [In Wonder](https://julestenbos.blogspot.com) blog.
 
 ## Engineering
 - [Personas](engineering/personas/) — engineering specs for Splectrum's interaction surfaces
+
+---
+
+*The world of Splectrum. The conversation lives at [In Wonder](https://julestenbos.blogspot.com). The reference library at [Splectrum Reference](https://jules-tenbos.github.io/i-wonder/).*

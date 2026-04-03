@@ -1,3 +1,5 @@
+[Splectrum Reference](./) > Positioning
+
 # Positioning
 
 The positioning series places the [Splectrum seed](seed) within the broader evolution of philosophical and scientific thinking. The trajectory is consistent: from representing an external reality to relating within it.
