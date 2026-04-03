@@ -8,11 +8,4 @@ How Splectrum builds things.
 
 ---
 
-## Related
-
-- [The Splectrum Seed](../seed) — foundation principles P0-P5
-- [Vocabulary](../vocabulary) — Splectrum terms and definitions
-
----
-
 *© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

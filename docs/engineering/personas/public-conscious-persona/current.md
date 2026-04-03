@@ -150,12 +150,4 @@ Each post publication may trigger: anchor page update (synopsis when scheduled, 
 
 ---
 
-## Related
-
-- [Version 1.0](1.0) — initial release
-- [Public Conscious Persona](./) — overview
-- [The Splectrum Seed](../../../seed) — foundation principles
-
----
-
 *© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

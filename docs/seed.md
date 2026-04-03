@@ -56,12 +56,4 @@ In science, the same move: from Newton's clockwork to quantum mechanics, from th
 
 ---
 
-## Related
-
-- [Vocabulary](vocabulary) — Splectrum terms and definitions
-- [Positioning](positioning) — the philosophical and scientific trajectory
-- [Public Conscious Persona](engineering/personas/public-conscious-persona/current) — engineering spec for the blog
-
----
-
 *© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

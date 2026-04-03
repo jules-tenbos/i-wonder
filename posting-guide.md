@@ -71,7 +71,7 @@ The reference library lives in `docs/` and is served at `jules-tenbos.github.io/
 Every reference library page follows this structure:
 
 ```markdown
-[Splectrum Reference](link-to-root) > [Parent](link) > Page Title
+[In Wonder - The World of Splectrum](link-to-root) > [Parent](link) > Page Title
 
 # Page Title
 
@@ -79,17 +79,10 @@ Content...
 
 ---
 
-## Related
-
-- [relevant sibling/parent pages]
-
----
-
 *© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*
 ```
 
 - **Breadcrumb** at the top — relative links back to root. Root `index.md` has no breadcrumb.
-- **Related** section — links to sibling and parent pages in the library.
 - **Footer** — standard navigational footer on every page.
 - **No blog links** in content — the library doesn't link to blog posts. Blog posts link into the library.
 - **External links** — SEP, Wikipedia for stable references.

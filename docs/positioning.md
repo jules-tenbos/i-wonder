@@ -24,11 +24,4 @@ The positioning series places the [Splectrum seed](seed) within the broader evol
 
 ---
 
-## Related
-
-- [The Splectrum Seed](seed) — the foundation principles
-- [Vocabulary](vocabulary) — Splectrum terms and definitions
-
----
-
 *© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

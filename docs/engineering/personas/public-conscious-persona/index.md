@@ -9,12 +9,4 @@ How the [In Wonder](https://julestenbos.blogspot.com) blog operates as Splectrum
 
 ---
 
-## Related
-
-- [Personas](../) — all Splectrum personas
-- [Engineering](../../) — how Splectrum builds things
-- [The Splectrum Seed](../../../seed) — foundation principles P0-P5
-
----
-
 *© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*
