@@ -18,18 +18,13 @@ This page describes how the blog operates as Splectrum's public conscious person
 submissions/        — raw material arrives here, uncategorised
                       (surfaced from other repos via Mycelium)
         ↓
-    intake          — evaluate, accept or reject
+    intake          — evaluate, accept or reject. Submission deleted.
         ↓
-drafts/             — accepted, categorised, being worked on
-  core/             — substantial Splectrum, building from P1-P5
-  research/         — analysing other vocabularies, from Splectrum's position
-  thinking/         — small bites, specific insights, mixed
-  engineering/      — practical, tools, methods, Splectrum's practice
-  commentary/       — reactions, timely, open
+drafts/             — accepted, being worked on (flat folder, category in frontmatter)
         ↓
     production      — structure, write, edit, image, links (collaborative)
         ↓
-    scheduling      — compose the blog storyline (autonomous)
+    scheduling      — compose the blog storyline (autonomous). Draft deleted.
         ↓
 published/          — date-prefixed, pushed to Blogger
 ```
@@ -48,21 +43,21 @@ Categories are modes of engagement, not topics. The same topic can appear in any
 
 ## Draft lifecycle
 
-1. **Submission** — raw material in `submissions/`. No post standards required.
-2. **Intake** — accept or reject. If accepted, categorise.
-3. **Categorised** — moved to `drafts/<category>/`. Post storyline laid out.
-4. **Draft** — full text written, edited, image, links.
-5. **Review ready** — reviewed, cleaned, ready for scheduling.
-6. **Scheduled** — published to `published/` with date prefix. Pushed to Blogger.
+1. **Submission** — raw material in `submissions/`. Committed to git on arrival (checkpoint).
+2. **Intake** — accept or reject. Submission deleted from `submissions/` (git has the archive).
+3. **Draft** — accepted material moved to `drafts/` with frontmatter (category, topic, status). Post storyline laid out, full text written, edited, image, links.
+4. **Review ready** — reviewed, cleaned, ready for scheduling.
+5. **Scheduled** — published to `published/` with date prefix. Draft deleted from `drafts/`. Pushed to Blogger.
 
 ## Source of truth
 
-On scheduling, the draft produces its outputs and is then deleted from `drafts/`. The published file becomes the master.
+Each stage deletes on transition — git history is the archive.
 
+- `submissions/` — deleted on intake
+- `drafts/` — deleted on scheduling
 - `published/` is the master for posts
 - `docs/` is the master for reference pages (GitHub Pages)
 - `docs/vocabulary.md` is the master for terms
-- `drafts/` only ever contains active work — posts being prepared for scheduling
 
 To update a live post: edit in `published/`, push to Blogger.
 
@@ -132,7 +127,7 @@ Each post publication may trigger: anchor page update (synopsis when scheduled, 
 5. Update anchor page(s) on Blogger if needed
 6. Schedule post on Blogger (from published file, not draft)
 7. Add image references to post and page with hosted URLs
-8. Update draft frontmatter status to "scheduled"
+8. Delete draft from `drafts/`
 9. Flag tasks from draft in scheduled tasks file
 10. Commit and push
 11. Verify: test all image URLs are accessible, check post and page(s) render correctly on Blogger
