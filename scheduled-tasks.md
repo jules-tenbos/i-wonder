@@ -43,6 +43,7 @@ Tasks triggered by post publication. Updated as posts go live.
 - [ ] Draft tweet
 
 ## May 6 — Splectrum and First Principles goes live
+- [ ] **Second edit round needed** — storyline has evolved. P0 depth (life gradient, co-primordial), P4 carrier language / Mycelium connection, intro arc (engineering-philosophy convergence), stronger closing. See `materials/p0-language-life-and-the-vacuum.md` for conversation insights.
 - [ ] Draft tweet
 
 ## May 8 — The Blog as Public Conscious Persona goes live
