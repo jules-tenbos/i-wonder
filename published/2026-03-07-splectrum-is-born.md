@@ -1,5 +1,5 @@
 # Splectrum is Born
-Labels: philosophy, Splectrum
+Labels: seed, philosophy, Splectrum
 Blogger-ID: 4839368145119364386
 
 <img src="https://images.unsplash.com/photo-1613502719426-cba8fcd9e51c?q=80&w=300&h=320&auto=format&fit=crop&crop=top" alt="Mycelium threads branching through soil" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:300px;" />
@@ -35,6 +35,8 @@ I mentioned a detour into software engineering and collaborative AI. I have to g
 Now, where will the seed take us? How will it be unpacked? Are there some more examples of what I mean with language? How far can it be stretched? Expect a long journey, it will be from philosophy into engineering, from science into arts, from [Relational QM](https://en.wikipedia.org/wiki/Relational_quantum_mechanics) all the way to the Bee Dance and beyond. However, don't expect a theory of everything explaining all. Just the opposite. It makes the case that nobody knows all, but everyone knows something and we should respect that. Don't impose and tell others what to think, how to behave. Be yourself, but also listen to what others have to say.
 
 I wonder where this goes.
+
+<small>This post is part of the [seed series](/search/label/seed). More on the seed in the <a href="https://jules-tenbos.github.io/in-wonder/seed">seed area of the reference library</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@landonparenteau">Landon Parenteau</a> / Unsplash</small>
