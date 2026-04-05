@@ -61,6 +61,28 @@ These belong to the HAICC layer — natural language concepts that become engine
 
 These are not technical metaphors. They are the design vocabulary for a world where AI implements and humans direct through natural language.
 
+### Work structure — conscious and unconscious
+
+The HAICC work structure maps to human cognitive architecture:
+
+- **Conscious — interactive collaboration.** Human and AI thinking together. Meaning is being created. This is where the real intellectual work happens.
+- **Conscious — top-level AI autonomous.** Purposeful, directed AI work that doesn't need the human in the loop for every move. Still conscious — in focus, serving the purpose.
+- **Unconscious — AI autonomous.** Infrastructure. Scheduling, indexing, maintenance, agent-based processing. Supports without being in focus. Likely agent AI going forward.
+
+The boundary between conscious and unconscious is not fixed. A process starts as interactive collaboration, gets refined through use, and migrates to autonomous. Like learning to drive — conscious becomes unconscious through practice. The word for this is **plasticity** — the ability to rewire, to let function migrate, to adapt structure through use. Plasticity is what makes the architecture alive rather than designed.
+
+### Repos as brain areas
+
+Each independent function gets its own repo — like brain areas with their own specialisation. Currently three:
+
+- **Blog (i-wonder)** — public conscious persona
+- **Explore (splectrum-explore)** — research
+- **Engineering (spl repos)** — building
+
+No central command or orchestration across repos. Mycelium does the linking — making information available between areas without imposing direction. P4: equal standing, autonomy within domain.
+
+The structure differentiates as work evolves. New concerns emerge, new repos form. This can happen organically (needs arise through practice) or be informed by brain architecture as a model. Either way, bottom-up — the web grows through interaction density (P5).
+
 ### The cross-disciplinary reach
 
 HAICC enables something genuinely new: cross-disciplinary vocabulary entering engineering. In a single conversation you move between Heidegger and repository structure, between phenomenology and protocols, between qualia and blog management. The interaction medium is natural language — so any domain's vocabulary is available as design material.
