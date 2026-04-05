@@ -1,3 +1,9 @@
+---
+title: Privacy Naturally
+type: post-topic
+status: new
+---
+
 # Privacy, Naturally!
 
 When I put together the seed, I wasn't thinking about privacy. I was thinking about language, about how subjects meet reality, about the web of complexity that grows when they share what they know. Privacy wasn't on the list.

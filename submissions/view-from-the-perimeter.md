@@ -1,3 +1,9 @@
+---
+title: A View from the Perimeter
+type: substantial
+status: new
+---
+
 # A View from the Perimeter
 
 A commentary on the principle, made from outside looking in. A historical look with hindsight, not always PC.

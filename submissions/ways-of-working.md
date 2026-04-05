@@ -1,3 +1,9 @@
+---
+title: Ways of Working
+type: substantial
+status: new
+---
+
 # Ways of Working
 
 How we approach inquiry, across phases.

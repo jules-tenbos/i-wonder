@@ -1,3 +1,9 @@
+---
+title: "HAICC \u2014 Thinking Notes"
+type: substantial
+status: in-progress
+---
+
 # HAICC — Thinking Notes
 
 First serious systematic document on HAICC. Likely multiple posts. Needs evaluation session to determine post structure.

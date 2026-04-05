@@ -1,3 +1,9 @@
+---
+title: Brain vs Body
+type: substantial
+status: in-progress
+---
+
 # Brain vs Body
 
 Substantial submission. Footprint not yet defined.

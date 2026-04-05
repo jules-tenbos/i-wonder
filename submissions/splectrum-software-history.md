@@ -1,3 +1,9 @@
+---
+title: SPlectrum Software History
+type: substantial
+status: in-progress
+---
+
 # SPlectrum Software History — From Solo Struggle to Seed
 
 The evolution of the SPlectrum software project through six iterations. Not a failure

@@ -1,3 +1,9 @@
+---
+title: "What Is Life \u2014 Splectrum Perspective"
+type: series
+status: in-progress
+---
+
 # What Is Life — Splectrum Perspective
 
 Series submission. Needs Sara Imari Walker's work as outside context.

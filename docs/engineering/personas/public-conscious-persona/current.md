@@ -18,7 +18,9 @@ This page describes how the blog operates as Splectrum's public conscious person
 submissions/        — raw material arrives here, uncategorised
                       (surfaced from other repos via Mycelium)
         ↓
-    intake          — evaluate, accept or reject. Submission deleted.
+    conscious       — analyse, discuss, decide destination
+    thought           ↓ research / postpone → splectrum-explore
+    handling          ↓ draft-ready → drafts/
         ↓
 drafts/             — accepted, being worked on (flat folder, category in frontmatter)
         ↓
@@ -41,11 +43,39 @@ Categories are modes of engagement, not topics. The same topic can appear in any
 | **Engineering** | Practical. How we work, tools, methods. | Splectrum's practice |
 | **Commentary** | Reactions to current events, things encountered. | Open, responsive |
 
-## Draft lifecycle
+## Conscious thought handling
+
+Submissions are conscious thoughts — raw material that has surfaced. Before becoming a draft, each submission goes through active thinking work:
+
+1. **Analysis** — read the submission, understand what's in it.
+2. **Discussion** — work through the content. Refine, split, restructure, enrich.
+3. **Decision on destination**:
+   - **Splectrum explore** — needs research, or postpone for later.
+   - **Draft** — ready for writing (post and/or reference library update).
+   - **Rejected** — deleted. Git has the archive.
+
+Submissions stay in `submissions/` during this process. Their frontmatter tracks status. A submission may be split into multiple submissions, restructured, or absorbed into another. The thinking is the work — this is not triage, it is the intellectual processing layer.
+
+In future this may move to its own repo. For now it lives within the public conscious persona.
+
+## Submission frontmatter
+
+```markdown
+---
+title: Submission title
+type: post-topic | series | substantial
+status: new | in-progress | research | draft-ready
+---
+```
+
+- **type**: `post-topic` (single post), `series` (multiple posts), `substantial` (footprint not yet defined)
+- **status**: `new` (just arrived), `in-progress` (being worked through), `research` (needs outside context, may go to splectrum-explore), `draft-ready` (ready to move to drafts/)
+
+## Lifecycle
 
 1. **Submission** — raw material in `submissions/`. Committed to git on arrival (checkpoint).
-2. **Intake** — accept or reject. Submission deleted from `submissions/` (git has the archive).
-3. **Draft** — accepted material moved to `drafts/` with frontmatter (category, topic, status). Post storyline laid out, full text written, edited, image, links.
+2. **Conscious thought handling** — analyse, discuss, decide destination. Submission updated in place.
+3. **Draft** — accepted material moved to `drafts/` with frontmatter (category, topic, status). Submission deleted. Post storyline laid out, full text written, edited, image, links.
 4. **Review ready** — reviewed, cleaned, ready for scheduling.
 5. **Scheduled** — published to `published/` with date prefix. Draft deleted from `drafts/`. Pushed to Blogger.
 
@@ -53,7 +83,7 @@ Categories are modes of engagement, not topics. The same topic can appear in any
 
 Each stage deletes on transition — git history is the archive.
 
-- `submissions/` — deleted on intake
+- `submissions/` — deleted when moved to draft, research, or rejected
 - `drafts/` — deleted on scheduling
 - `published/` is the master for posts
 - `docs/` is the master for reference pages (GitHub Pages)
@@ -137,7 +167,7 @@ Each post publication may trigger: anchor page update (synopsis when scheduled, 
 | Role | Current | Target |
 |------|---------|--------|
 | **Submission** | Manual | Mycelium — seamless cross-repo referencing |
-| **Intake** | Collaborative | Autonomous AI |
+| **Conscious thought** | Collaborative | Collaborative — thinking is the work |
 | **Production** | Collaborative | Stays collaborative — we think and write together |
 | **Scheduling** | Collaborative | Autonomous AI |
 

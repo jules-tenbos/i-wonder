@@ -1,3 +1,9 @@
+---
+title: Life Wrapping Non-Life
+type: post-topic
+status: in-progress
+---
+
 # Life Wrapping Non-Life
 
 Post topic submission.

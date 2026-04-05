@@ -1,3 +1,9 @@
+---
+title: Peer to Peer
+type: post-topic
+status: new
+---
+
 # Peer to Peer, As It Should Be
 
 In the previous post I argued that privacy isn't a policy — it's a structural fact. The second principle of the seed tells us that every subject meets reality through its own medium. That medium is inherently private. It's where you think, process, become. And I argued that what's gone wrong isn't sharing itself, but pathological P3 — sharing that has been centralised, decontextualised, and made permanent to the point where it invades and erodes the very space a subject needs to function.

@@ -1,3 +1,9 @@
+---
+title: "The Vacuum Through Splectrum\u2019s Eyes"
+type: post-topic
+status: in-progress
+---
+
 # The Vacuum Through Splectrum's Eyes
 
 Post topic submission.

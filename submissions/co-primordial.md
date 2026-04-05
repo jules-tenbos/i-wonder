@@ -1,3 +1,9 @@
+---
+title: "Co-Primordial \u2014 Being and Language"
+type: post-topic
+status: in-progress
+---
+
 # Co-Primordial — Being and Language
 
 Post topic submission.
