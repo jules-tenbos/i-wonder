@@ -58,6 +58,18 @@ The three pillars weren't designed by studying software patterns. They were dedu
 
 Each pillar opens a conversation. Mycelium — the fabric, how information is structured. HAICC — how the human-AI team works, conscious and subconscious. Splectrum engineering — how protocols and operations express the relational.
 
+### Structural properties from the principles
+
+Properties that emanate from the seed and must be honoured in the engineering:
+
+- **Context and language are mutually constitutive.** You can't have one without the other. Every context has language, every language creates context. Engineering consequence: context and its language are inseparable design units.
+- **Designing in a context creates a reality.** The act of engineering is itself a P2 act — the representation IS a reality for the subjects within it. The engineering doesn't model reality. It creates one.
+- **The carrier language should be natural language.** If seamless translation between philosophy and engineering is the goal, the carrier must be the most fluid medium available. With AI, that is natural language. This is what removes language lock-in (P4) and makes horizontal interrelation practical.
+- **Ambiguity is a feature, not a defect.** Derrida's insight: the boundary is never perfectly sealed — and that is generativity, not failure. In engineering terms: rigid formal languages close down possibility. Natural language keeps the system open at the fringes, adaptable, alive. The fringes are where new meaning enters.
+- **The honesty criterion.** The engineering must faithfully represent the philosophical framework. A technically functional system that misrepresents the relational, plural, experiential nature of language introduces friction at every boundary. Honest engineering = low friction between virtual and physical.
+- **Context and perimeter are structurally real.** Treating the boundary as an afterthought violates P0. Systems that respect the boundary — context around data units, metadata expressing the relations — are building with P0 whether they name it or not.
+- **The recursive step.** Languages are beings too. Components of languages are beings. The set is self-referential. Engineering consequence: the same structural patterns apply at every level — entities, protocols, subjects, the system itself.
+
 ### Tone notes
 
 - Engineering post but with philosophical depth
