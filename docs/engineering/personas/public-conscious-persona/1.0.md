@@ -65,11 +65,13 @@ In future this may move to its own repo. For now it lives within the public cons
 title: Submission title
 type: post-topic | series | substantial
 status: new | in-progress | research | draft-ready
+destinations: seed, positioning, language, reality, engineering
 ---
 ```
 
 - **type**: `post-topic` (single post), `series` (multiple posts), `substantial` (footprint not yet defined)
 - **status**: `new` (just arrived), `in-progress` (being worked through), `research` (needs outside context, may go to splectrum-explore), `draft-ready` (ready to move to drafts/)
+- **destinations**: reference library areas where the material lands. Each destination may spawn a series of posts. Optional — omit for single-destination submissions where the area is obvious.
 
 ## Lifecycle
 

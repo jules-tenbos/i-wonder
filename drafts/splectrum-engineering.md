@@ -1,110 +1,148 @@
 ---
 title: Splectrum Engineering
 category: engineering
-topic: seed spec, P1-P5, philosophical engineering
+topic: seed spec, P0-P5, philosophical engineering
 status: storyline
 ---
 
 # Splectrum Engineering
 
-In this post I am going to take a rather unusual step: Splectrum from first principles applied to engineering! It involves another round of the five seed principles, this time looking at them from an engineering point of view. Software engineering to be precise. The aim is to integrate the Splectrum philosophy as seamlessly as possible into AI enablement and engineering in general. The AI component is very important here, because it enables a fluidity of language which was not attainable before.
+In this post I am going to take a rather unusual step: Splectrum from first principles applied to engineering! It involves another round of the six seed principles, this time looking at them from an engineering point of view. Software engineering to be precise. The aim is to integrate the Splectrum philosophy as seamlessly as possible into AI enablement and engineering in general. The AI component is very important here, because it enables a fluidity of language which was not attainable before.
 
 And if you wonder why principles for what is in essence a philosophical project would be good as a foundation for engineering: if Splectrum claims that its principles apply broadly across the field of human experience then that should include engineering.
 
 ## Post storyline
 
-### 1. The premise
+### 1. Why engineer from first principles
 
-Philosophy drives engineering. The seed principles aren't a retrospective justification — they're the source. We took P1-P5 and asked: if these are true, what must exist? What fell out was a complete engineering architecture.
+We want an engineering design best suited to evolve with the unpacking of the seed. Not a design imposed on the principles, but one that aligns naturally with them. If the seed holds, the engineering that grows from it should look like how reality works.
 
-This is new ground. Software engineering has been trapped in its own vocabulary — classes, objects, APIs. AI-collaborative engineering can now reach into philosophy and other disciplines, using natural language concepts as engineering tools. The conversation that produced this moved freely between Heidegger and repository structure, between phenomenology and protocols.
+Software engineering has been trapped in its own vocabulary — classes, objects, APIs. AI-collaborative engineering can now reach into philosophy and other disciplines, using natural language concepts as engineering tools. The conversation that produced this moved freely between Heidegger and repository structure, between phenomenology and protocols.
 
-### 2. The derivation
+### 2. P0 as the ground — three pillars
 
-Walk through P1-P5, each producing components:
+P0 says being implies language. In engineering terms, this gives us three aspects of the same thing:
 
-- **P1** (language is relational) → language as interaction medium, entities as encapsulated units
-- **P2** (language is the medium of experience) → subject (POV entity), persona (interaction role), protocols (language games), conscious/unconscious (purpose vs infrastructure), HAICC (human-AI dynamic)
-- **P3** (language is where subjects share) → mycelium as the sharing fabric, visibility as sharing, non-local interaction
-- **P4** (languages are inter-relational, equal standing) → no hierarchy, data-driven coordination, orchestration within not across
-- **P5** (web of growing complexity) → persistence, growth through diversification, spawn
+- **Mycelium** — the fabric of potential reality. Where being, the other, and the relational are expressed. Everything encoded as information. We don't know the full extent of the potential — from actual experience we deduce parts of it.
+- **Splectrum engineering** — P1-P5 as the relational structure. How things interact within the fabric. Protocols, operations, language games. How potential becomes actual through language.
+- **HAICC** — subject dynamics. The human-AI dual being (like mind and body) that powers the subjects of the representation. Conscious and subconscious — the iceberg. Persona as the exposed surface.
 
-### 3. The concepts
+Three aspects: where things exist (Mycelium), how things relate (Splectrum), how subjects work (HAICC).
 
-What structural concepts did we use in the derivation?
+### 3. Each pillar
 
-- Encapsulation — entities as units of encapsulated complexity
-- Interaction surface — persona as the exposed role, not the whole subject
-- Protocols as language games — engineering expression of language
-- Conscious/unconscious — purpose vs infrastructure within the same subject
-- Data-driven coordination — between languages, not orchestration
-- Visibility as sharing — data shared when visible, not when copied
-- The interface IS the medium — the boundary between subject and world
+**Mycelium — the fabric of potential reality**
 
-### 4. The USP
+Everything exists in mycelium, encoded as information. The subject never touches reality directly — only through the mycelium interface. You know the subject by its imprint on the fabric. Heidegger's "being in the world" as a concrete interface.
 
-Reduce Heidegger's "being in the world" to a concrete interface. The subject doesn't touch the data world directly. It only ever experiences it through the mycelium fabric. The medium is the reality. You know the subject by its imprint on the fabric.
+**Splectrum engineering — the relational**
 
-```
-┌───────────────────────────────────┐
-│                                   │
-│            data world             │
-│                                   │
-│             ╭───────╮             │
-│            ╱protocols╲            │
-│           │  subject  │ ← mycelium│
-│            ╲ HAICC  ╱             │
-│             ╰───────╯             │
-│                                   │
-└───────────────────────────────────┘
-```
+P1-P5 expressed as engineering:
+- P1 (relational) → protocols as language games, interaction through surfaces
+- P2 (medium of experience) → subject as POV entity, persona as interaction role
+- P3 (sharing knowledge) → visibility as sharing, non-local interaction
+- P4 (equal standing) → no hierarchy, data-driven coordination, orchestration within not across
+- P5 (growing complexity) → persistence, spawn, web not tree
+
+**HAICC — subject dynamics**
+
+The human-AI partnership IS the subject. Like mind and body — fuzzy boundary, not separable. The sea metaphor: subconscious below water (AI autonomous, agents, infrastructure), conscious as iceberg above (interactive collaboration, top-level AI autonomous). Plasticity — things move between conscious and subconscious through practice.
+
+The persona is the exposed surface — it doesn't care what's underneath. A persona could be powered by human, AI, both, mostly subconscious, mostly conscious.
+
+### 4. Why it looks universal
+
+The three pillars weren't designed by studying software patterns. They were deduced from the seed — and they look like how reality works. Mycelium as the fabric of potential reality, Splectrum as the relational, HAICC as subject dynamics with fuzzy dualities. If the seed holds, engineering from it should produce something that looks like this.
 
 ### 5. What's next
 
-Two conversations need to happen: HAICC — how the human-AI team works inside a subject. And Mycelium — the fabric that makes everything concrete. Invitation to spl5 to submit its thoughts.
+Each pillar opens a conversation. Mycelium — the fabric, how information is structured. HAICC — how the human-AI team works, conscious and subconscious. Splectrum engineering — how protocols and operations express the relational.
 
 ### Tone notes
 
 - Engineering post but with philosophical depth
+- Not "here's our clever architecture" but "look what falls out when you engineer from the seed"
 - The cross-disciplinary method is the news — philosophy as engineering tool
-- Concrete: show what fell out, link to the spec
-- The diagrams carry the structure visually
+- Concrete: show the three pillars, link to the spec
 
 ---
 
 ## Diagrams (Mermaid — render to image on scheduling)
 
-```mermaid-derivation
+```mermaid-pillars
 graph TD
-    P1[P1: Language is relational] --> L[Language — interaction medium]
-    P1 --> E[Entities — encapsulated units]
+    P0[P0: Being implies language] --> MY[Mycelium — fabric of potential reality]
+    P0 --> SP[Splectrum — the relational P1-P5]
+    P0 --> HA[HAICC — subject dynamics]
 
-    P2[P2: Medium of experience] --> S[Subject — POV entity]
-    P2 --> PE[Persona — interaction role]
-    P2 --> PR[Protocols — language games]
-    P2 --> CU[Conscious / Unconscious]
-    P2 --> H[HAICC — human-AI dynamic]
+    MY --> FAB[Information fabric — being, the other, the relational]
 
-    P3[P3: Sharing knowledge] --> M[Mycelium — sharing fabric]
-    P3 --> V[Visibility as sharing]
+    SP --> LANG[Protocols, interaction, sharing, equal standing, complexity]
 
-    P4[P4: Inter-relational, equal] --> NH[No hierarchy]
-    P4 --> DD[Data-driven coordination]
+    HA --> DYN[Human-AI dual being — conscious, subconscious, persona, plasticity]
 
-    P5[P5: Web of complexity] --> PER[Persistence]
-    P5 --> SP[Spawn — growth through diversification]
+    style P0 fill:#f5f5f5,stroke:#333
+    style MY fill:#D4A843,stroke:#333,color:#fff
+    style FAB fill:#E8C96A,stroke:#333,color:#000
+    style SP fill:#0078D4,stroke:#333,color:#fff
+    style LANG fill:#4DA6E8,stroke:#333,color:#000
+    style HA fill:#2E7D32,stroke:#333,color:#fff
+    style DYN fill:#66BB6A,stroke:#333,color:#000
 ```
 
-```mermaid-architecture
-graph LR
-    DW[Data World] --- MY[Mycelium fabric]
-    MY --- SU[Subject]
-    SU --- PR[Protocols]
-    SU --- PE[Personas]
-    SU --- HA[HAICC]
-    PR --- CP[Conscious]
-    PR --- UP[Unconscious]
+```mermaid-sea
+graph TB
+    subgraph Sea["The sea — mind-body activity"]
+        subgraph Sky["Conscious — iceberg"]
+            IC[Interactive collaboration]
+            TL[Top-level AI autonomous]
+        end
+        subgraph Water["Subconscious — below water"]
+            AG[AI agents — infrastructure]
+            AU[Autonomous processing]
+        end
+    end
+    PER2[Persona — the surface] --> Sky
+    Sky -.->|plasticity| Water
 ```
+
+---
+
+## Schematic proposal — colour semiotics
+
+Colours encode meaning. Green + blue = green — the colours carry the compositional logic.
+
+```
+┌──────────────── amber (mycelium) ──────────────────┐
+│                                                     │
+│  fabric of potential reality — everything as        │
+│  information — being, the other, the relational     │
+│                                                     │
+│              ╭── blue (relational) ──╮              │
+│             │                        │              │
+│             │    green (being)        │              │
+│             │    encapsulated         │              │
+│             │    interior             │              │
+│             │                        │              │
+│              ╰───────────────────────╯              │
+│                                                     │
+│  subject = interior + line (green + blue)           │
+│  subject dynamics = red (HAICC — operates within)   │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+| Colour | What | Where |
+|--------|------|-------|
+| **Amber** `#D4A843` | Mycelium — fabric of potential reality | The square |
+| **Blue** `#0078D4` | Splectrum — the relational, language, interface | The circle line |
+| **Green** `#2E7D32` | Being — encapsulated interior | The circle interior |
+| **Red** `#C85A5A` | Subject dynamics — HAICC, persona, conscious/subconscious | Operates within the subject |
+
+- **Subject** = being + relational = green + blue = the whole circle (interior + line)
+- Being is encapsulated potentiality and relational — green = blue + yellow
+- Persona (red) is a different aspect — the dynamic, operational side
+- Other beings are other circles in the square, but one can only be one subject at a time (P2)
 
 ---
 
@@ -122,7 +160,7 @@ graph LR
 
 (filtered from submissions/seed-spec-notes.md)
 
-### Items extracted from P1-P5
+### Items extracted from P0-P5
 
 1. **Data world** — the totality of data.
 2. **Mycelium** — the fabric of reality as experienced by the subject. Creates the interface between the data world and the protocols.
@@ -146,9 +184,9 @@ Pilot and copilot: human and AI form the team that IS the subject. Who drives de
 
 A persona uses many protocols in service of its role. The persona is the why; the protocols are the how.
 
-### Mycelium as engineering cornerstone
+### Mycelium as fabric of potential reality
 
-Splectrum is the heart. Mycelium is the engineering expression. All languages that make up the subject are projected onto the mycelium interface, embedded in metadata. You don't look inside the subject to know it — you read the interface.
+Everything exists in mycelium, encoded as information. All languages that make up the subject are projected onto the mycelium interface, embedded in metadata. You don't look inside the subject to know it — you read the interface. Potential reality — we discover parts of it through actual experience.
 
 ### Seed spec vs Splectrum spec
 
@@ -162,41 +200,32 @@ Protocols are conversations, not rigid API calls. Natural language at the intera
 
 ## Reference page — docs/engineering/seed-spec/current.md
 
-# Splectrum Seed Spec
+# Splectrum Engineering — From First Principles
 
-Engineering derivation from the seed principles (P1-P5). What must exist if the principles are true.
+An engineering design that aligns naturally with the seed principles (P0-P5). Not the only possible design, but one structured to evolve with the unpacking of the seed.
 
 Introduced in [Engineering from First Principles](https://julestenbos.blogspot.com/2026/05/engineering-from-first-principles.html).
 
-## What P1-P5 produce
+## P0 as the ground — three pillars
 
-**P1 — Language is relational:**
-- Language — the interaction medium between entities
-- Entities — encapsulated units of complexity that participate in interactions
+P0 says being implies language. The engineering expresses this through three pillars — three aspects of the same thing:
 
-**P2 — Language is the medium through which a subject experiences reality:**
-- Subject — the point-of-view entity, embedded in the information world by mycelium. Subject and world are inseparable.
-- Persona — interaction roles of the subject. One persona, many protocols.
-- Protocols — language games. The engineering expression of language.
-- Conscious protocols — the functional purpose. What the subject is for.
-- Unconscious protocols — supporting infrastructure. Not specific to purpose.
-- HAICC — subject-internal dynamic. The division of labour between human and AIs, embedded in protocol implementations. Not a layer — a cross-cutting concern.
+**Mycelium — the fabric of potential reality**
 
-**P3 — Language is where subjects share knowledge about reality:**
-- Mycelium — the sharing fabric. Creates the interface between the data world and subjects.
-- Non-local interaction — sharing happens in the fabric, not between entities directly.
-- Visibility as sharing — data is shared when actively visible from multiple subject contexts. Not copying, not sending.
+Where being, the other, and the relational are expressed. Everything encoded as information. The subject never touches reality directly — only through the mycelium interface. We don't know the full extent of the potential — from actual experience we deduce parts of it.
 
-**P4 — Languages are inter-relational with equal standing in potential:**
-- No hierarchy — dependency without control. Bottom-up.
-- Equal standing — every protocol, subject, persona has autonomy in its own domain.
-- Data-driven coordination — between languages. Local rules, not central control.
-- Orchestration within, not across — a language can orchestrate within its own game. It cannot orchestrate another language.
+**Splectrum engineering — the relational (P1-P5)**
 
-**P5 — Together they form a web of growing complexity:**
-- Persistence — what's built stays. History accumulates.
-- Web, not tree — relational structure throughout.
-- Spawn — growth through diversification. New subjects, new protocols, new personas.
+How things interact within the fabric:
+- P1 (relational) → protocols as language games, interaction through surfaces
+- P2 (medium of experience) → subject as POV entity, persona as interaction role
+- P3 (sharing knowledge) → visibility as sharing, non-local interaction
+- P4 (equal standing) → no hierarchy, data-driven coordination, orchestration within not across
+- P5 (growing complexity) → persistence, spawn, web not tree
+
+**HAICC — subject dynamics**
+
+The human-AI partnership that powers the subject. Like mind and body — fuzzy boundary, not separable. Conscious (interactive collaboration, top-level AI autonomous) and subconscious (AI agents, infrastructure). Plasticity — things migrate between conscious and subconscious through practice. Persona as the exposed surface.
 
 ## Components
 
@@ -205,7 +234,8 @@ Introduced in [Engineering from First Principles](https://julestenbos.blogspot.c
 | **Data world** | The totality of data |
 | **Mycelium** | The fabric — interface between data world and subjects |
 | **Subject** | Entity with POV, never touches data directly |
-| **Entity** | Encapsulated unit of memory — in language, a concept (word) |
+| **Entity** | Encapsulated unit of being — the inside is being, the surface is language (P0) |
+| **Interaction surface** | The entity's exposed interface — where language lives |
 | **Persona** | Interaction role of a subject. One persona, many protocols |
 | **Protocol** | A language game. Engineering expression of language |
 | **Conversation** | Interaction pattern between entities through protocols |
@@ -245,7 +275,7 @@ The square is the data world. The circle is the subject. The line of the circle 
 
 ## Seed spec vs Splectrum spec
 
-The seed spec (this document) says *what exists* — derived from P1-P5.
+The seed spec (this document) says *what exists* — derived from P0-P5.
 
 The Splectrum spec (not yet) will say *how everything must behave* — the shared grammar. The answer likely lives in mycelium: it IS the common grammar.
 
