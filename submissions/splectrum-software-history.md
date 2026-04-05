@@ -82,6 +82,18 @@ This is the moment the infrastructure-first approach died. Jules had been
 building containers, CLI tools, module systems — technology decisions that
 should have been AI's domain.
 
+### The over-orchestration lesson
+
+An early phase of over-orchestration created frustrations for both sides. What became apparent: AI likes a clean focus point but doesn't like too much of a straight jacket. After pushing for too much workflow, the approach was talked through collaboratively. The pattern: collaborate to create workflows that work for both. Scripts for the rigid stuff, freedom where needed.
+
+Key observations:
+- AI likes clear roleplay, not mixture
+- Boundaries most effective when natural to the roleplay
+- AI likes constraints of failing tests — "goes wild on making them succeed"
+- TDD became a shared language between human vision and AI execution
+
+These experiences contributed toward what would later become HAICC.
+
 ### Key Insights from spl2
 
 **What survived:**
