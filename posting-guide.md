@@ -46,6 +46,20 @@ Pipeline, categories, scheduling strategy, and operational checklists are in the
 - Float left styling: `style="float:left;margin:0 15px 10px 0;width:350px;"`
 - Place `<img>` tag directly in markdown — passes through to HTML
 
+### Comment template
+
+All comment posts use the same image and credit:
+
+```markdown
+<img src="https://images.unsplash.com/photo-1421789665209-c9b2a435e3dc?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Comment" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+```
+
+Credit footer:
+```markdown
+---
+<small>Photo: <a href="https://unsplash.com/@whale">Matthew Smith</a> / Unsplash</small>
+```
+
 ## Line Breaks
 
 - Paragraph breaks: empty line between paragraphs (standard markdown)
