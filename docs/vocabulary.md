@@ -26,7 +26,7 @@ Terms as used within Splectrum. This vocabulary grows as the project develops.
 
 **Unconscious protocols** — supporting infrastructure protocols within a subject. Not specific to the purpose but specific to the internal nature of subjects generally.
 
-**HAICC** — Human-AI Collaborative Creation. The subject-internal dynamic — the division of labour between human and AIs, embedded in protocol implementations. Not a layer — a cross-cutting concern.
+**HAICC** — Human-AI Creative Collaboration. The subject-internal dynamic — the division of labour between human and AIs, embedded in protocol implementations. Not a layer — a cross-cutting concern.
 
 **Spawn** — growth through transformation. Something new transformed out of what already is.
 
@@ -35,6 +35,8 @@ Terms as used within Splectrum. This vocabulary grows as the project develops.
 **Mycelium** — the fabric of reality, where subject meets the data world.
 
 **Data world** — all the data the subject potentially can relate to.
+
+**Decentralised cognition** — the expansion and distribution of cognitive capacity through AI partnership. Not one central intelligence but cognition spread across human and AI agents, collaborative, peer-to-peer. The applied consequence of HAICC at scale.
 
 ---
 

@@ -8,11 +8,12 @@ The foundation of Splectrum. Six principles on the nature of language — where 
 
 ## P0 — Being implies language
 
-> Being and language are intrinsically linked — where there is one, there is the other.
+> Being and language are intrinsically linked — they come together.<br/>
+Being (Heidegger style), as in Being and not-Being (Fichte), with language as medium of expression of difference.
 
-Every [entity](vocabulary) exposes an interaction surface. That surface is language. The encapsulated inside determines what the surface expresses, but being is more than its surface — the inside is not fully captured by what appears at the interface.
+In Splectrum vocabulary [entity](vocabulary) within the (data) world.
 
-P0 is the ground. P1–P5 describe what language does. P0 says language is there in the first place, necessarily, wherever there is being.
+P0 is creational. P1–P5 describe properties shared by all languages.
 
 ## P1 — Language is relational
 
@@ -24,13 +25,13 @@ Language is not representation — it is relation. Meaning arises from use, not 
 
 > Experience is always within the reach of a language.
 
-A [subject](vocabulary) — the view from inside an entity — accesses [reality](vocabulary) only through its interaction surface. No outside view, no perspective from nowhere. What you experience is what is. [Merleau-Ponty](https://plato.stanford.edu/entries/merleau-ponty/) puts the body as the frontline participant; [Husserl](https://plato.stanford.edu/entries/husserl/) examines the structures of experience from the inside.
+A [subject](vocabulary) — entity that is the reference point for the expression of the relational — experiences [reality](vocabulary) through its interaction surface. No outside view, no perspective from nowhere. What you experience is what is. [Merleau-Ponty](https://plato.stanford.edu/entries/merleau-ponty/) puts the body as the frontline participant; [Husserl](https://plato.stanford.edu/entries/husserl/) examines the structures of experience from the inside.
 
 ## P3 — Language is where subjects share knowledge about reality
 
-> Language is the source of the only objectivity known: convergence of subjects.
+> Language is the carrier of exchange of experience, shared reality is the part of experience that is common to all participating subject, the measure of objectivity, convergence between subjects.
 
-Shared language creates shared understanding — knowledge — because interactions shape the vocabulary and the relational patterns. Objectivity is not a view from nowhere; it is what subjects converge on through [conversation](vocabulary). [Rorty](https://plato.stanford.edu/entries/rorty/) makes this case: philosophy is conversation, not mirror-holding.
+Shared reality creates shared understanding — knowledge — because interactions shape the vocabulary and the relational patterns. Objectivity is not a view from nowhere; it is what subjects converge on through [conversation](vocabulary). [Rorty](https://plato.stanford.edu/entries/rorty/) makes this case: philosophy is conversation, not mirror-holding.
 
 ## P4 — Languages are inter-relational and have equal standing in potential
 
