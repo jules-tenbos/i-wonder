@@ -6,19 +6,7 @@ Tasks triggered by post publication. Updated as posts go live.
 
 - [ ] Blogger anchor pages (About, Collaborative AI, Splectrum from Seed) should link to the reference library top level: https://jules-tenbos.github.io/in-wonder/ — helps search engines crawl the full extent
 
-- [x] ~~Add "The world of Splectrum" footer~~ — done
-
 ---
-
-## April 1 — The Body as Medium goes live ✓
-- [x] Add link: Rorty closing "Merleau-Ponty" → /2026/04/the-body-as-medium.html
-- [x] Add link: Merleau-Ponty opening "Wittgenstein" (already done)
-- [x] Add link: Merleau-Ponty opening "Rorty" (already done)
-- [x] Update Splectrum from Seed page (already current — all philosopher links in place)
-- [x] Tweet: The body knows before the words arrive. Merleau-Ponty put the body back into philosophy — perception as active engagement, not passive reception. New post on the blog. julestenbos.blogspot.com/2026/04/the-body-as-medium.html #Philosophy #MerleauPonty #Splectrum
-
-## April 6 — From the Turn to the Present goes live
-- [ ] Tweet: From Descartes to Heidegger in one arc — how philosophy spent 500 years dismantling the outside view. The relational was coming long before anyone named it. julestenbos.blogspot.com/2026/04/from-turn-to-present.html #Philosophy #Kant #Heidegger #Husserl #PhilosophyOfLanguage
 
 ## April 11 — Let's Talk Software Languages goes live
 - [ ] Tweet: Three languages, one computation. Binary, assembly, Python — all yielding 7. What software languages reveal about how languages relate, encapsulate, and evolve. julestenbos.blogspot.com/2026/04/lets-talk-software-languages.html #Programming #Language #Turing #Splectrum
