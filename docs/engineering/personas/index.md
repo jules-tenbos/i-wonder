@@ -5,6 +5,7 @@
 Communication channels Splectrum operates through. Each persona has its own language game — vocabulary, rules, participants.
 
 - [Public Conscious Persona](public-conscious-persona/) — the blog as Splectrum's public voice
+- [Splectrum Thinking Persona](splectrum-thinking-persona/) — discussion persona for research based exchange of ideas
 
 ---
 
