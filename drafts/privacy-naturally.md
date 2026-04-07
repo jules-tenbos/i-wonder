@@ -1,10 +1,12 @@
 ---
-title: Privacy Naturally
-type: post-topic
-status: new
+title: "Privacy, Naturally!"
+category: society
+topic: privacy, P2, P3, architecture
+status: storyline
 ---
 
 # Privacy, Naturally!
+Labels: thought, society
 
 When I put together the seed, I wasn't thinking about privacy. I was thinking about language, about how subjects meet reality, about the web of complexity that grows when they share what they know. Privacy wasn't on the list.
 
@@ -34,10 +36,22 @@ We've ended up treating privacy as a policy problem. Regulation, consent forms, 
 
 The answer, I think, is architectural. When you centralise the infrastructure of sharing, pathology is inevitable. The incentives demand it. The few who control the bridges will always find ways to extract more, store more, decontextualise more — because that's where the value is for them, not for you.
 
-Which makes me wonder. What if the architecture itself could be different? What if sharing could be returned to its natural form — relational, subject to subject, without the middleman? What if P3 could work the way it was always meant to?
+Which makes me wonder. What if the architecture itself could be different? What if sharing could be returned to its natural form — relational, subject to subject, without the middleman?
 
-I think it can. More on that next time.
+I think it can.
+
+## Post storyline
+
+### Tone notes
+
+- Thought post — personal, reflective, standalone
+- Seed referenced lightly, not positioned deeply
+- The three pathologies (centralisation, decontextualisation, persistence) are the core argument
+- Closing is open, not a tease for a specific follow-up
 
 ---
 
-*This is the second post exploring the Splectrum seed. The first — [Splectrum is Born](https://julestenbos.blogspot.com/2026/03/splectrum-is-born.html) — introduces the five principles. Next up: what peer-to-peer has to do with all of this.*
+## Tasks on scheduling
+
+- [ ] Image selection
+- [ ] Draft tweet
