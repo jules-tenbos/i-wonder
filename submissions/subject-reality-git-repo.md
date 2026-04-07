@@ -37,6 +37,22 @@ The data embedding of the referential side and the processing side means that a 
 
 At the point of clone: same input streams, same experience. The divergence comes later — through use, through different encounters, through the evolutionary process. Different data state changes trigger different processes, different convergence patterns emerge. The two realities drift apart naturally. Closer to cell division than anything else — identical at the split, divergent through life.
 
+## The boundary as identity
+
+The git repository is the boundary. It constitutes the subject reality as a distinct entity with its own identity, history, and integrity. Within the boundary, data is structured but not ontological — the folder tree and context notes define functional scope.
+
+## Point of view
+
+The working directory sets the point of view (POV). POV determines what you can see and how you identify it. Resources are relative to POV — you can only see what is in front of you. Paths go forward, never backward above POV.
+
+The subject never touches the data world directly. It only knows the interface — how it interacts with the data world through its protocols from its POV.
+
+## References bring remote into view
+
+When a resource is behind POV but access is required, cascading references bring it into view. A reference creates a local identity for a remote resource. References are read-only — modification uses copy-on-write to the local context. Read wide, write local.
+
+The graph of references defines the reachable set from any POV. No reference, no access — structure determines visibility, not permissions.
+
 ## Git's limits and where mycelium bridges
 
 Git is snapshot-based — commit, store, done. It has no concept of continuous flow. For intense streaming data, high-frequency state changes, or high-volume operational data, git is ill suited. It also lacks query capability, indexes, and real-time triggering.
