@@ -46,13 +46,19 @@ And: brain without body — what does that mean for subject position, for experi
 
 ## Part 2 — Applied (HAICC engineering)
 
-### The division of labour
+### HAICC as process fabric
 
-The starting point for HAICC is the division of design:
+HAICC is the cognition fabric — the third pillar alongside mycelium (data fabric) and splectrum (language fabric). All three follow the same architectural pattern: define once, reference everywhere, compose into subject-specific realities. All three are implemented on mycelium as substrate — process definitions, like language constructs and data, are expressed as data state in the fabric.
+
+HAICC process definitions are fully qualified — requirements, expectations, inputs, outputs, quality criteria. The process is complete in itself. It doesn't specify who does it. The division of labour comes at runtime, based on the capabilities of the available players — human, interactive AI, autonomous AI agent. The process states what needs to happen. Capability matching determines who does it.
+
+### The division of design
+
+The starting point for collaboration is a division of design:
 - **Human captains the logical** — what, why, meaning, intent, direction
 - **AI captains the physical** — how, implementation, technology, execution
 
-This is not a hierarchy. It's a division of labour based on strength. The human brings meaning and judgment. AI brings implementation speed and rigour. Pilot and copilot — either can drive depending on the activity.
+This is not a hierarchy. It's capability matching in practice. The human brings meaning and judgment. AI brings implementation speed and rigour. Pilot and copilot — either can drive depending on the activity.
 
 ### Natural language as design language
 
