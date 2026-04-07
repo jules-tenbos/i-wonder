@@ -37,11 +37,19 @@ The data embedding of the referential side and the processing side means that a 
 
 At the point of clone: same input streams, same experience. The divergence comes later — through use, through different encounters, through the evolutionary process. Different data state changes trigger different processes, different convergence patterns emerge. The two realities drift apart naturally. Closer to cell division than anything else — identical at the split, divergent through life.
 
-## Open questions
+## Git's limits and where mycelium bridges
 
-- Is git still the best option operationally at scale? Maybe not always.
-- Is a git repo a good container to wrap into a peer-to-peer dynamic?
-- What are the limits of git as the foundation for data-state-driven process activation?
+Git is snapshot-based — commit, store, done. It has no concept of continuous flow. For intense streaming data, high-frequency state changes, or high-volume operational data, git is ill suited. It also lacks query capability, indexes, and real-time triggering.
+
+But git isn't asked to be a database. It's asked to be a container for a fabric.
+
+Git at the lowest level: file storage, structural container, historicity backbone. When structured access demand is high — queries, streaming, throughput — that lives at a higher context level in an appropriate repository structure, not in git itself.
+
+The git repo holds the mycelium fabric scene — the referential structure, the cross-references, the embedded process definitions — but the actual data can be remote. The fabric describes what's there, where it is, how it relates. The data itself can live elsewhere. The scene is local, the resources can be anywhere. Mycelium's referential layer doesn't care where the data physically lives. It cares about the relations.
+
+This resolves the scalability question. Git holds the structure, the references, the embedded process definitions, the historicity. Remote sources hold the heavy data, the streaming feeds, the high-volume operational state. Mycelium bridges both.
+
+Worth noting: the industry is already feeling the need for git semantics on operational data. Dolt (a SQL database with fork, clone, branch, merge) and lakeFS (git-like version control for data lakes) are attempts in that direction.
 
 ## Sequencing
 
