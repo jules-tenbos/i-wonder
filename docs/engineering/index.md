@@ -5,6 +5,7 @@
 How Splectrum builds things.
 
 - [Personas](personas/) — the communication channels Splectrum operates through
+- [Process Models](process-models) — decentralised evolutionary process models, neuroscience inspiration
 
 ---
 
