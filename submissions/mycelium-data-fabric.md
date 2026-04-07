@@ -13,15 +13,9 @@ Substantial submission. Introductory engineering post on mycelium — what it is
 
 ## What Mycelium Is
 
-Mycelium is the fabric from which realities are created. It creates repo constructions that model subject reality. It weaves data and process together.
-
-The dynamic of a subject consists of an algorithmically driven process triggering based on data state.
+Mycelium is a data fabric used to create process-colocated data structures — it weaves data and process together. These structures are placed within a git repo which contains and manages the repository structure and optionally its operation. Within Splectrum the base-level repositories are called subject realities (conforming P2). They have a partial view of available data. The totality of data is never a physical repository, only a logical repository. Mycelium repositories are dynamic and self-contained at the base level with local embedding of processes.
 
 ## The Fabric
-
-The mycelium is a data fabric into which data and process are woven through a Common Data Model (CDM). The CDM structures data using a file/folder tree with cascading context notes. Each node carries metadata covering structure requirements, process requirements, and search. Context notes cascade downward with local override, scoping what can happen at each level.
-
-### The Primitive
 
 The fabric is built from one primitive:
 
@@ -29,9 +23,15 @@ The fabric is built from one primitive:
 **Context** = bounded area that contains records.
 Records can themselves be contexts.
 
-Keys are meaningful only within their containing context. Content is opaque — the model does not interpret it. Everything else is layered above.
+Content is opaque — the fabric does not interpret it. Keys are local to the context where the process is instantiated. Schema contracts — the specific structure of data — are a concern of the embedded process layer, not the fabric. The fabric uses a Common Data Model (CDM) for data; specific schema contracts sit between the embedded process and the data structure it operates on.
 
 Proven sufficient across 18 projects. No extensions required.
+
+The mycelium fabric is concerned with:
+- How data and process are mixed — colocation, embedding
+- Data navigation — XPath-style base layer
+- Data referencing — cascading references, read wide write local
+- Data layering — cascading context notes with local override
 
 ### Operations
 
@@ -51,76 +51,62 @@ Compound operations compose from primitives. The operation set is minimal and co
 
 ## The Boundary
 
-The repository — a git repository — is the boundary. It constitutes the subject reality as a distinct entity with its own identity, history, and integrity. Within the boundary, data is structured but not ontological — the folder tree and context notes define functional scope.
+The repository — a git repository — is a hard boundary. It constitutes the subject reality as a distinct entity with its own identity, history, and integrity. There is no hidden data — data is part of the subject reality if it exists in the mycelium data fabric within the git repo. Data that is referenced in from outside is localised in terms of access keys. There is no notion of accessing remote data. From the subject's perspective, everything is local. Mycelium does data WYSIWYG — what you see is what you get, nothing behind it.
 
 ## Subject Realities
 
-There is no data world sitting somewhere as a single system. The data world is a logical totality — the sum of everything across the fabric. What actually exists is always mycelium fabric expressed as reality bubbles.
+There is no data world sitting somewhere as a single system. The data world is a logical totality — the sum of everything across the fabric. What actually exists is always mycelium fabric expressed as subject realities within git repos.
 
-Each bubble is a scoped, working implementation. The whole emerges from partial couplings between bubbles — shared reality is produced by interaction, not discovered behind it.
+Each subject reality is a scoped, working implementation. The whole emerges from partial couplings between realities — shared reality is produced by interaction, not discovered behind it.
 
-## Immutability as Base Layer
+## Record Types
 
-Immutability is the default. Two immutable patterns operate at the base:
+Base-layer mycelium has only two types of records:
 
-- **Atomic immutable records** — a complete fact, arrives whole, stays whole.
-- **Data change records** — a fact about a change, what moved from what to what.
+- **Immutable** — settled, permanent, referenceable. A complete fact that arrives whole and stays whole.
+- **Dirty** — in-flight, part of an open transaction, can change. Becomes immutable when the transaction closes.
 
-Both are simply records from the fabric's perspective. The distinction in meaning lives in the CDM context notes.
+Mutable structures — tables, indexes, document libraries — are created by mycelium-native process that reads immutable data change records and maintains projections. This is process layer embedded in mycelium, not an external concern. Projections exist for practical work but are never the source of truth. They can be discarded and rebuilt from the immutable records.
 
-Mutable structures — tables, indexes, document libraries — are projections computed from the immutable base. They exist for practical work but are never the source of truth. They can be discarded and rebuilt from the immutable records.
+Mycelium defines a small set of native record schemas — fabric schemas — for its own operations: data change records, reference records, transaction records. These are mycelium's own language, needed for fabric-level functionality. Application schemas are a concern of the embedded process layer — the fabric stays opaque at the content level except for its own native types.
 
-This is a stronger commitment than event sourcing or lakehouse formats. Mycelium does not have an immutable component; it is an immutable foundation with mutable projections.
+Higher-level mycelium contexts define further structure (tables, indexes, data access interfaces) built on top of the base layer. These are not base-layer concerns.
 
 ## Transaction Lifecycle
 
-Data in progress is mutable and dirty. When a transaction closes, the same data, in the same structures, becomes immutable — a clean record in the fabric, referenceable by the whole mycelium.
+Open state before consensus, settled state after. Dirty records serve as working space during a transaction and become immutable at its close. The consensus mechanism is pluggable — a simple local commit or a full blockchain protocol.
 
-Open state before consensus, settled state after. The same mutable structures serve as working space during a transaction and become permanent record at its close. The consensus mechanism is pluggable — a simple local commit or a full blockchain protocol.
+## Security Model
 
-## Public Deployment
+Mycelium runs by design in a trusted environment. The hard security boundary sits around the trusted environment and is responsible for security. Standard subject realities within the trusted environment do not have their own hard security boundary.
 
-Subject realities can be encapsulated in reinforced bubbles and floated into public hostile environments. The bubbles interact peer-to-peer. The underlying data remains in the trusted fabric. The bubble is a disposable projection — if compromised, the trusted fabric is unaffected.
-
-Trust-model-agnostic: trusted by default, hardened at boundaries. Blockchain is an optional consensus mechanism at boundaries, not a structural dependency.
+Deployment in a public environment — outside the trusted boundary, not peer-to-peer — uses subject realities with hard security boundaries. These are reinforced bubbles: the underlying data remains in the trusted fabric, the bubble is a disposable projection. Blockchain is an optional consensus mechanism at the hard boundary, not a structural dependency.
 
 ---
 
-## Behavioral Principles
+## Mycelium Context
 
-**Structure is behavior.** No flags, no configuration. A context with a bin has soft delete. A flat context skips interior traversal. What you build is how it behaves. What you don't build doesn't exist as a possibility. This is an architecture of absence — desirable properties emerge from what is not present rather than from what is policed.
-
-**Nearest distance.** Definitions reside closest to their realization. Inner overrides outer.
+A fabric node with embedded metadata is a mycelium context — the reference point for the embedded metadata artefacts (processes, schema definitions, etc). Contexts cascade: inner context overrides outer. Definitions reside closest to their realisation.
 
 **Data-triggered processing.** Data state drives progression. Presence/absence determines what happens next. Stateless steps, data as checkpoint.
 
-## Context Layer
+### Notes — implementation detail
 
-The context layer sits between the logical interface and the data:
+**Structure is behavior.** No flags, no configuration. A context with a bin has soft delete. A flat context skips interior traversal. What you build is how it behaves. What you don't build doesn't exist as a possibility. Architecture of absence — desirable properties emerge from what is not present rather than from what is policed.
 
-**Traversal** — walk the path from root to target. At each segment, check for context definitions (metadata). Merge into accumulator. Nearest distance wins — inner context overrides outer.
+**Traversal** — walk the path from root to target. At each segment, check for context definitions (metadata). Merge into accumulator. Nearest distance wins.
 
 **Flat contexts** — a context marked flat treats its interior as content, not sub-contexts. Traversal hops over physical structure to the resource directly.
 
-**Metadata-driven behavior** — mutability, changelog mode, and enforcement are driven by metadata accumulated during traversal. No flags, no configuration. Structure is behavior.
+**Metadata-driven behavior** — mutability, changelog mode, and enforcement are driven by metadata accumulated during traversal.
 
-## Point of View
+### Notes — point of view
 
-The working directory sets the point of view (POV). POV determines what you can see and how you identify it.
+The working directory sets the point of view (POV). POV determines what you can see and how you identify it. Resources are relative to POV — paths go forward, never backward above POV. Functionality (protocol operations) is root-relative — all registered operations available regardless of where you stand.
 
-**Resources** are relative to POV. You can only see what is in front of you. Paths go forward, never backward above POV.
+### Notes — references
 
-**Functionality** — protocol operations — is root-relative. Regardless of where you stand, all registered operations are available.
-
-The subject never touches the data world directly. It only knows the interface — how it interacts with the data world through its protocols from its POV.
-
-## References
-
-When a resource is behind POV but access is required, cascading references bring it into view. A reference creates a local identity for a remote resource.
-
-References are read-only. Modification uses copy-on-write to the local context. Read wide, write local.
-
-The graph of references defines the reachable set from any POV. No reference, no access — structure determines visibility, not permissions.
+References bring remote resources into view by creating a local identity. Read-only — modification uses copy-on-write to the local context. Read wide, write local. The graph of references defines the reachable set from any POV. No reference, no access — structure determines visibility, not permissions.
 
 ## Interaction Modes
 
