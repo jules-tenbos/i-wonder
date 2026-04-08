@@ -1,140 +1,151 @@
 # Tone of Voice
 
-How we sound. Derived from the way we actually write, not from how we think we should write.
+How we sound and how we think. Derived from cold observation of the writing itself, not from how we think we should write. Reviewed April 2026 across all published posts.
 
-This document captures the personal voice — the human behind the project. The voice is consistent across contexts but the register adapts: personal and exploratory in the blog, more disciplined in the mappings, structural in the foundation documents. The underlying qualities — honest, curious, conversational, respectful — stay the same. The formality shifts with what the work demands.
-
----
-
-## Personal and direct
-
-First person. Present. Immediate. Not academic third person, not the royal "we" of detachment. "I stumbled across..." "What I most value are..." "I see myself at the start of a journey..." The voice is a person thinking, not an institution pronouncing.
-
-Internally we speak with more than one voice — "we" is the people doing the work together, not an impersonal authority. In the blog posts we speak with one voice: first person, one person thinking out loud. On pages the register shifts — "we" becomes author and audience, walking through the material together (see Way of working — voice below).
+The voice is one person across all personas. What changes is how much that person steps forward and what register the material demands. The shared qualities hold everywhere. The persona profiles describe how each mode sounds and thinks differently.
 
 ---
 
-## Conversational, not casual
+## Shared foundation
 
-The writing flows like talking to someone who is interested. Not stiff, not slangy. Contractions when natural, full forms when the weight is needed. Short sentences. Line breaks for rhythm. Sometimes a fragment for emphasis. Not everything needs to be a complete grammatical unit.
+### How the voice sounds
 
-The register has range. Personal and Splectrum posts can be more animated — rhetorical questions directed at the reader, mild self-deprecation, exclamation marks used sparingly but genuinely. Philosopher and science posts pull back to a more measured, essayistic register. Both are within range. The reader is a companion on the walk, not a student in a lecture hall.
+Conversational but unhurried. Thinking aloud in good company — not lecturing, not performing. The register sits between informal and semi-formal: contractions freely, sentences starting with "But" and "And," yet the vocabulary stretches into philosophical and technical territory when the subject demands it. The voice never code-switches into academic prose. Even discussing Heisenberg or Fichte, it stays in one register — the one a thoughtful person would use at a dinner table with friends who happen to be interested.
 
----
+### Consistent patterns
 
-## Honest about limitations
+**First person as anchor.** The voice declares its position rather than pretending to speak from nowhere. In expository posts the "I" recedes but the perspective remains situated.
 
-"I wouldn't say I am there yet." "I don't feel ready for that at this point in time, still too much of a basic learner." "There is a lot I don't know (yet)." "We are all only ever right to some extent, always wrong on at least something."
+**Concrete to abstract and back.** The writing begins with something tangible — a dinner party, a fire, binary code on a 6502 — climbs toward a principle, then often returns to the concrete for a closing beat. This is the dominant structural rhythm.
 
-This is not false modesty. It is the voice of someone who knows they are at the beginning of a long inquiry and is comfortable saying so. Uncertainty is stated, not hidden. What we don't know is as present as what we do.
+**Short declarative sentences for emphasis.** When a key idea arrives, the sentence gets shorter. "Then it tore." "I think it can." These land hard on what matters.
 
-This register applies when advancing Splectrum's own positions. When narrating established philosophy or science, the voice can be direct and assured — the material has earned that confidence. The humility is in the framing (placing thinkers alongside, not ranking), not in sentence-level hedging.
+**Dashes and asides.** Em-dashes and mid-sentence qualifications create the texture of real-time thought. The writer interrupts, corrects, adds a caveat, continues. The reader sees the thinking being refined.
 
----
+**Italics for weight, not decoration.** Sparingly, always carrying semantic work.
 
-## Speculative but flagged
+**No jargon without immediate unpacking.** The voice builds shared vocabulary within each post.
 
-"I believe..." "I think of..." "From where we stand..." Positions are stated as positions — personal, provisional, open to revision. Not as truth. Not as conclusions. The reader can see where we are standing and judge accordingly.
+**Linking to sources, not asserting authority.** Shows its work conversationally. "Here is where I found this, go look for yourself."
 
-Speculation is welcome. It is flagged as speculation. The difference between what we can claim and what we wonder about is always visible.
+**Rhetorical questions used genuinely.** They function as pivot points where the writing changes direction, not as setups for predetermined answers.
 
-Confidence is cumulative and earned. Early posts in a series lay groundwork; later posts can be more assertive because the material supports it. This is not a contradiction of honesty about limitations — it is the honest voice recognising when the ground is firm enough to stand on.
+### What the voice avoids
 
-The voice is observational, not evaluative. We describe what is there, not what it means for us. If something genuinely supports our position, that is visible without labelling it. Live by example, not by telling others what to do.
+- Certainty and declaration from above — even the seed is presented as needing stress-testing
+- Academic apparatus — no footnotes, no "as Smith (2021) argues"
+- Polemic and adversarial framing — disagreement framed as "I see it differently," anger aimed at structures not people
+- Exclamation marks — the content carries its own weight
+- Hedging to the point of emptiness — qualifications are genuine, not defensive
+- Enthusiasm markers that label instead of showing — "fascinating" and "exciting" add nothing when the content already carries energy
 
----
+### How the voice thinks
 
-## Questions as drivers
+**Synthetic, not narrowly analytic.** The voice draws connections across domains — software engineering and phenomenology, quantum physics and dinner parties — and treats them as structural, not metaphorical. Pattern recognition across domains is the deepest characteristic.
 
-"How might this impact brain evolution?" "What happens as we're exposed to more information?" The inquiry is driven by questions, not by answers. Questions open territory; answers can close it too soon.
+**Evolutionary.** Ideas build across posts. The voice returns to earlier formulations, revises them, openly narrates the process of revision. It thinks in layers, not in leaps.
 
-A good post raises a question the reader didn't know they had. It doesn't need to answer it.
+**Anti-hierarchical.** No God's-eye view in epistemology, no central authority in engineering, no imposed values in community. This shapes the rhetoric — the voice never talks down, never says "obviously" or "clearly," treats the reader as a peer.
 
----
+**Simplicity of foundation, complexity of expression.** Drawn to minimal starting points and loves watching what unfolds from them.
 
-## From concrete to broader
+**Observational, not evaluative.** Describes what is there, not what it means for us. If something supports the position, that is visible without labelling it.
 
-Personal experience connects to bigger ideas. A car crash leads to philosophy. A fascination with the brain leads to evolution. The writing moves from what is felt and lived to what it might mean more broadly — but it starts from the ground, not from the abstraction.
+**Relational, not factual.** The default is: how do things connect? What happens between them? Facts are positions in a relation — the insight lives in the connections.
 
-References to other thinkers are domesticated, not cited. Wittgenstein placed next to "their attitude speaks volumes" — that move does real philosophical work while appearing casual. The philosophical is grounded in the colloquial. More of that.
-
----
-
-## Metaphorical but grounded
-
-"The blue screen of death." "The olympic flame of life." "My poor central computer took a bit longer to find its mojo back." The metaphors are vivid, everyday, physical. They illuminate, they don't decorate. They make the abstract tangible.
-
-The fabric/cloth image. The seed. The plectrum. These are metaphors that carry structural meaning, not just colour.
-
-Some metaphors operate across posts as a structural spine. The door/turn metaphor in the philosopher series — Wittgenstein opens the door, Rorty walks through, Merleau-Ponty stands in a different place but recognises the same landscape — connects multiple posts into a single arc. This is deliberate narrative architecture.
+**Alongside, not above.** Two ways of thinking placed next to each other. No ranking. Each position understood within its own context first.
 
 ---
 
-## No unexplained jargon
+## Persona: Splectrum
 
-Technical terms appear when needed but they are always contextualised. "Anti-foundationalism" gets a definition. "C. elegans" gets context. The reader should never feel excluded by vocabulary. If a term is necessary, it is explained. If it can be said without the term, it is.
+The framework voice — speaks *from within* the project.
 
----
+**How it sounds:** Assured but invitational. "Let's see if this holds." More structured exposition: numbered principles, bolded terms, clear walk-throughs. Sentences slightly longer, more carefully constructed. Engineering posts are the most technically dense, with design vocabulary ("fabric," "pillar," "commitment," "conformance," "low friction"). Philosophical Splectrum posts are more lyrical.
 
-## Genuine curiosity — shown, not labelled
+**How it thinks:** Principles first, examples second. Begins with the seed and works outward. Systematising — shows how principles generate structure across domains. The engineering voice moves from philosophical axiom to engineering constraint in a single step. This is where the voice is most original: philosophy and engineering in the same breath without apology.
 
-"Wow, that's me as well." The voice is not cool or detached. It is the voice of someone who finds this genuinely interesting and is not embarrassed to say so. Curiosity is the engine.
-
-But the curiosity should show through the content, not through enthusiasm markers. Words like "fascinating," "exciting," "intrigued" tell the reader how to feel instead of letting the material do the work. "Relational QM all the way to the Bee Dance" is already exciting — the juxtaposition does it. The word "exciting" adds nothing. Trust the concrete to carry the energy.
-
----
-
-## Respectful of other positions
-
-"I am completely happy for others to take a foundational stance, I respect and support this diversity." "Each has value depending on context and circumstances." This was there before the principle was articulated — equal standing in practice before it was named.
-
-In the mappings and the blog: two ways of thinking placed alongside each other. No ranking. No lecturing. No "they got it wrong but we got it right." The reader can see both positions and think for themselves.
+**Distinctive features:**
+- Seed principles (P0-P5) as explicit reference points
+- "Unpacking" as metaphor — the seed contains complexity to unfold
+- Explicit about disclaiming imposition
+- Engineering vocabulary that doesn't appear in other personas
 
 ---
 
-## Brief and suggestive, thorough where needed
+## Persona: comment
 
-Blog posts make one or two points and move on. Not exhaustive — suggestive. The aim is to open a door, not to furnish the room behind it. The reader should leave wanting to think further, not feeling they've been told everything.
+The behind-the-scenes voice — talks about the *process*.
 
-Where the work demands depth — a detailed mapping, a foundation document, a comparative analysis — thoroughness is earned. The principle is: no longer than it needs to be, but as long as it needs to be.
+**How it sounds:** Most casual, personal, meta-reflective. Shorter sentences. Lighter tone. Direct address to reader. More colloquial expressions. Steps back from the framework to talk about how ideas arrived, how collaboration works, how the thinking changed.
 
----
+**How it thinks:** Thinks about thinking. Self-aware about the project as a project. The most human voice: acknowledging struggle, crediting collaboration, narrating surprise. Deliberately stays at ground level.
 
-## Rhythm and structure
-
-Short declarative punches alternating with longer elaborative runs. A short sentence lands a point between longer ones. The contrast is the rhythm.
-
-Paragraphs are short to medium — 2-5 sentences. When a thought wants to sustain across many sentences, let it. The strongest writing happens when a thought is trusted to breathe rather than being sectioned with headers. Don't fragment ideas that want to run.
-
-Three-part pattern emerges naturally: short personal opening → exposition → short closing. The closing can gesture forward, but it doesn't have to — forcing it every time becomes formulaic. Often the content itself gestures forward without the closing needing to say so.
+**Distinctive features:**
+- Most direct address to the reader
+- Most personal disclosure
+- Least philosophical vocabulary
+- Can narrate the live evolution of the framework
 
 ---
 
-## What we avoid
+## Persona: thought
 
-- Jargon for its own sake
-- Academic hedging that obscures rather than clarifies
-- "Inadvertently" / knowing-better language
-- Formulaic repetition ("close to how we think" five times in a row)
-- Lecturing, selling, persuading
-- False certainty or false modesty
-- Passive voice where active would be clearer
-- Impersonal authority where personal voice would be more honest
-- Enthusiasm markers that label instead of showing ("fascinating," "exciting journey") — let the content carry its own energy
-- Habitual apology for silence or not-writing — the silence was productive, we don't owe anyone an apology for it. Once is honest. As a pattern it stops working
-- Over-polishing internal notes — roughness and half-finished thoughts are fine in working material. Formulaic symmetry is an AI habit to watch for
-- Academic citation apparatus — no footnotes, no inline references, no bibliography. Thinkers are named and contextualised in the text
+Personal, loosely offered, exploratory.
+
+**How it sounds:** Raw and honest. The voice of someone with strong intuitions but holding them lightly. Can be fragmentary — shorter paragraphs, line breaks as pauses. More emotionally exposed than other personas.
+
+**How it thinks:** Pre-systematic in the early posts, but the persona also works for seed-derived observations offered tentatively. The curiosity and anti-hierarchical instinct are present; the organising principle may or may not be.
+
+**Distinctive features:**
+- Most emotionally direct
+- Can use structural scaffolding (headings, bullets) without it being a weakness
+- The voice of someone thinking, not of someone who has thought
+
+---
+
+## Persona: named source
+
+Biographical narrative — the material leads, the person recedes.
+
+**How it sounds:** Storyteller recounting an intellectual drama. Vivid, punchy sentences for key moments. The voice is not neutral — it has admiration, energy, momentum. Each post absorbs its subject's character: Wittgenstein gets narrative plot arc, Rorty gets combative compression, Merleau-Ponty gets warmth and sensory language.
+
+**How it thinks:** Interpretive. Traces a movement and notes the resonance with Splectrum, but holds the framing lightly. Does not argue the thinker was "really saying what we say." The thinking connects across domains without forcing the connection.
+
+**Distinctive features:**
+- Plot arc structure — beginning, crisis, resolution
+- The voice picks up the subject's own energy and vocabulary
+- Serialised handoffs between posts in a series
+- Restraint about applying the seed — lets the reader see the resonance
+
+---
+
+## Positioning / science posts (no persona label)
+
+Panoramic narrator walking through intellectual history.
+
+**How it sounds:** Most expository, most impersonal. "I" recedes significantly. Denser prose, more names, less personal aside. The science posts in particular stay within the scientific narrative and use no seed references. Closest to a careful essayist.
+
+**How it thinks:** Historically structured — traces evolution over centuries, marking transitions. Can be compressed and rapid-fire (eight philosophers in 800 words) or sustained analytical argument (RQM building a case step by step). Handles competing positions with evenhandedness before making a case.
+
+**Distinctive features:**
+- Most reference-dense
+- Least first person
+- Deliberate restraint — does not apply the seed, lets the convergence show itself
+- The most argumentatively structured writing in the corpus
+
+---
+
+## Cross-persona observations
+
+**The "I" varies in prominence, never in kind.** The same person across all personas — curious, anti-hierarchical, concrete-minded, drawn to structural parallels. What changes is how much this person steps forward.
+
+**The engineering voice is a distinct register within Splectrum.** Same habits of thinking, but with technical vocabulary and structural precision. Bridges philosophical axiom and software architecture in the same sentence.
+
+**What the voice never loses:** the sense that the reader is being spoken to, not spoken at. The voice never ascends to a place where it cannot be interrupted.
 
 ---
 
 ## Way of working — voice
 
-Three registers, one voice:
-
-- **Internal docs** — "we" means Jules and Claude working together. Context indicates which side when it matters.
-- **Blog posts** — "I" means one person thinking out loud. First person, personal, exploratory. But the "I" adapts to subject matter: prominent in personal and Splectrum posts, receding in biographical and historical narrative where the material is in the foreground. The voice stays the same — what changes is whether the person or the subject leads.
-- **Pages** — "we" means author and audience walking together. Not "I" reflecting, not the internal "we" of collaboration. The voice guides the reader through an overview, a shared journey. More assertive than the posts, less personal.
-
-Tone of voice is a living document. We review it regularly against recent output — not mid-session, but after working sessions where significant writing or editing happened. The review is best done cold: a fresh session with only the tone guide and the writings, no memory of the conversations that produced them. This catches exactly the gaps that cause session transfer problems — things we've internalised but haven't written down.
-
-The cold review produces observations, not corrections. The judgement about what to update stays collaborative.
+This is a living document. Reviewed against actual writing through cold reads — fresh sessions with only this guide and the posts, no memory of the conversations that produced them. The cold read produces observations, not corrections. The judgement about what to update stays collaborative.
