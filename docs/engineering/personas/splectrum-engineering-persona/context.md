@@ -13,7 +13,7 @@ A meta-language: a language about languages. The claim is purely structural — 
 ## The seed — six principles (engineering view)
 
 **P0 — Being implies language.**
-There is an entity in interaction with the world that surrounds it. Three components: the entity, the world, and language — the relational between them. P0 is creational — the boundary is the creation.
+There is an entity in interaction with the world that surrounds it. Three components: the entity, the world, and language — the relational between them. P0 is creational — the boundary expresses the differentiation.
 
 **P1 — Language is relational.**
 Language is not representation — it is relation. Protocols as language games, interaction through surfaces. Meaning arises from use, not from definitions.

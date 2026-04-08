@@ -1,13 +1,6 @@
----
-title: Splectrum Engineering — Commitments
-series: seed
-category: engineering
-persona: Splectrum
-status: draft
----
-
 # Splectrum Engineering — Commitments
 Labels: seed, engineering, Splectrum
+Blogger-ID: 4901175070134612543
 
 <img src="https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Design commitments" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
@@ -29,7 +22,7 @@ And it is self-testing. You don't need an external judge. You feel the friction 
 
 ## What falls out of P0
 
-P0 says being implies language. Being comes into existence through the act of differentiation — the boundary is the creation. Three commitments fall directly from this.
+P0 says being implies language. Being comes into existence through the act of differentiation — the boundary expresses the differentiation. Three commitments fall directly from this.
 
 **Boundary is structurally real.** Context and perimeter are not afterthoughts. Treating the boundary as decoration violates P0. Every system that respects the boundary — context around data units, metadata expressing relations — is building with P0 whether it names it or not. In mycelium, this is the git repository as hard boundary, the subject reality as distinct entity. The boundary is not a security layer added later. It is constitutive.
 
@@ -43,9 +36,9 @@ P0 says being implies language. Being comes into existence through the act of di
 
 P2 says language is the medium through which a subject experiences reality. Two commitments.
 
-**Designing creates reality.** The representation IS a reality for the subjects within it. The engineering does not model reality — it creates one. This applies to every design act at every level. A mycelium subject reality is not a simulation of something real. It is real — to the subjects that access it through the fabric.
+**Designing creates reality.** Reality is the dynamic of the data state of being. The engineering does not model reality — it creates one. This applies to every design act at every level. A mycelium subject reality is not a simulation of something real. It is real — to the subject instances that access it through the fabric.
 
-**The subject accesses reality only through the fabric.** Never touches the data world directly. Known by its imprint on the fabric, not by looking inside. This is P2 as architecture. The mycelium interface is not a convenience layer — it is constitutive. What the subject experiences is what is. No hidden stuff behind the interface.
+**The subject experiences reality only through the local data fabric.** Never touches the data world directly. Known by its imprint on the fabric, not by looking inside. This is P2 as architecture. The mycelium interface is not a convenience layer — it is constitutive. There is full visibility of what the subject experiences. No hidden stuff behind the interface.
 
 ---
 
@@ -53,13 +46,13 @@ P2 says language is the medium through which a subject experiences reality. Two 
 
 P3 says language is where subjects share knowledge about reality. One commitment.
 
-**Visibility is sharing.** No separate sharing mechanism. What you can see is what is shared. Convergence is objectivity. Shared reality is produced by interaction, not discovered behind it. In mycelium, the reference graph determines the reachable set. No reference, no access. Structure determines visibility, not permissions. There is no hidden data accessible through special privilege — only data that is or is not in your reachable set.
+**Visibility is sharing.** No separate sharing mechanism. What you can see is what is (potentially) shared. Convergence is shared reality, objectivity. Shared reality is produced by subject interaction mediated by the data fabric, not discovered behind it and not conversational. In mycelium, the reference graph determines the reachable set. No reference, no access. Structure determines visibility, not permissions. There is no hidden data accessible through special privilege — only data that is or is not in your reachable set.
 
 ---
 
 ## What falls out of P4
 
-P4 says languages are inter-relational and have equal standing in potential. This is where the architecture gets its shape.
+P4 says languages are inter-relational and have equal standing in potential. This is where the architecture gets its shape. These commitments are very much guided by the nature of humans and AI. 
 
 **Decentralisation is constitutive.** Not an afterthought, not an option. Mycelium decentralised at data — no central database, no single source of truth. HAICC decentralised at cognition — human and AI agents as collaborative peers, no central controller. Splectrum the relational structure that makes both coherent without central authority. Equal standing all the way through. If you need a central authority to make it work, you have violated P4.
 
@@ -73,7 +66,7 @@ P4 says languages are inter-relational and have equal standing in potential. Thi
 
 P5 says together they form a web of growing complexity. One commitment.
 
-**Complexity grows in expression, not in power.** Web not tree. Spawn not design. The full power was always there (P0). More languages, more connections, more ways of engaging what was always there. Growth through diversification, not centralisation. In engineering terms: more nodes, not redesigned patterns. Scaling is natural when the base pattern is right. If scaling requires redesign, the base pattern was wrong.
+**Complexity grows in expression, not in power.** Growth is driven by historicity, quality is driven by selective abstraction. Web not tree. Spawn not design. The full power was always there (P0). More languages, more connections, more ways of engaging what was always there. Growth through diversification, not centralisation. In engineering terms: more nodes, not redesigned patterns. Scaling is natural when the base pattern is right. If scaling requires redesign, the base pattern was wrong.
 
 ---
 
@@ -87,21 +80,17 @@ The three pillars are not just an organisational convenience. They carry a divis
 
 **Conscious and subconscious with plasticity.** Conscious is what is in focus — the work at hand. Subconscious is what supports it — the additional activity needed to achieve the conscious task. AI and human are present in both layers. The persona is the continuous identity across both.
 
-Why this split? Because learning must be compatible with the design. Plasticity — the ability to learn — is a capability starting conscious, attended, deliberate. Through practice it moves subconscious, running without attention. That movement IS learning. If learning required a different mechanism from running, you would have friction — two patterns for what is a continuum. The conscious/subconscious design makes learning architecturally native. Not a separate concern. Not a training framework bolted on. The design is compatible with learning by construction.
+**Evolutionary process model.** Process capabilities dormant in the fabric until data state change wakes them. What works reinforces, what doesn't fades. No orchestration — the data state is the relay. Orchestration if it appears is emergent.
 
-**Evolutionary process model.** Scan, diversify, evolve. Process capabilities dormant in the fabric until data state change wakes them. What works reinforces, what doesn't fades. No orchestration — the data state is the relay. The appearance of orchestration is itself an emergent reality.
-
-This is the operating pattern of the subconscious — how the unattended supporting activity self-organises. And it is the pattern through which learning consolidates. A capability practiced enough to run without attention enters the subconscious layer, where it joins the evolutionary flow. The neuroscience grounding — Neural Darwinism, Global Workspace Theory, predictive processing — is not metaphor. It is structural correspondence. The same pattern, in a different medium.
+The neuroscience grounding — Neural Darwinism, Global Workspace Theory, predictive processing — is not metaphor. It is structural correspondence. The same pattern, in a different medium.
 
 ---
 
 ## The commitments
 
-Design commitments, each falling from the framework. Not designed — discovered. Not imposed — emergent. The philosophy generates its own engineering constraints, and those constraints feel natural because they are the same structure expressed in another language.
+Design commitments, each falling from the framework through its interaction with the overall engineering goal. Not designed — discovered. Not imposed — emergent. Ready to be stress tested through use by cascading the design downwards. Confirmation through low friction reality.
 
-The test for every design below this level: does it conform to these commitments with low friction? If yes, the engineering is honest. If not, either the design or the commitment needs examination. The honesty criterion applies to itself.
-
-These commitments are maintained as an engineering reference alongside the top-level design. They grow as the engineering develops. But they don't change lightly — they are tied to the framework. To change a commitment, you must show either that it misreads the framework, or that the framework itself needs revision. Both are legitimate. Neither is casual.
+These commitments are maintained as an engineering reference alongside the top-level design. They may evolve as the engineering develops. But only to improve alignment of the engineering to the framework.
 
 ---
 
@@ -111,24 +100,3 @@ These commitments are maintained as an engineering reference alongside the top-l
 
 ---
 <small>Photo: <a href="https://unsplash.com/@christopher__burns">Christopher Burns</a> / Unsplash</small>
-
----
-
-# Notes
-
-## Storyline
-
-Post narrative is complete — prose above is from the collaborative session with Claude colleague.
-
-## Reference pages
-
-Already integrated:
-- `docs/engineering/top-level-design.md` — created
-- `docs/engineering/design-commitments.md` — created
-
-## Tasks on scheduling
-
-- [ ] Reconcile commitment count (14 in post vs 16 in reference)
-- [ ] Final image selection
-- [ ] Schedule on Blogger
-- [ ] Delete draft

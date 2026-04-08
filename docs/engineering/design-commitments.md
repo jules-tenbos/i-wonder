@@ -30,7 +30,7 @@ P0, P1: no context without language, no language without context. Every context 
 
 ## Designing Creates Reality
 
-P2: the representation IS a reality for the subjects within it. The engineering does not model reality — it creates one. This applies to every design act at every level.
+P2: reality is the dynamic of the data state of being. The engineering does not model reality — it creates one. This applies to every design act at every level.
 
 ## Natural Language as Carrier
 
@@ -46,7 +46,7 @@ P4: the relationship between philosophy and engineering is relational, not repre
 
 ## Boundary Is Structurally Real
 
-P0: being comes into existence through the act of differentiation — the boundary is the creation. Context and perimeter are structurally real. Treating the boundary as an afterthought violates P0.
+P0: being comes into existence through the act of differentiation — the boundary expresses the differentiation. Context and perimeter are structurally real. Treating the boundary as an afterthought violates P0.
 
 ## Recursive Self-Similarity
 
@@ -54,15 +54,15 @@ Languages are beings. Components of languages are beings. The set is self-refere
 
 ## Complexity Grows in Expression, Not in Power
 
-P5: web not tree. Spawn not design. The full power was always there. More languages, more connections, more ways of engaging what was always there. Growth through diversification, not centralisation.
+P5: growth is driven by historicity, quality is driven by selective abstraction. Web not tree. Spawn not design. The full power was always there. More languages, more connections, more ways of engaging what was always there. Growth through diversification, not centralisation.
 
-## The Subject Accesses Reality Only Through the Fabric
+## The Subject Experiences Reality Only Through the Local Data Fabric
 
-P2: the subject never touches the data world directly — only through the mycelium interface. What you experience is what is. Known by its imprint on the fabric, not by looking inside.
+P2: the subject never touches the data world directly — only through the local mycelium interface. There is full visibility of what the subject experiences. No hidden stuff behind the interface. Known by its imprint on the fabric, not by looking inside.
 
 ## Visibility Is Sharing
 
-P3: no separate sharing mechanism. What you can see is what is shared. Convergence is objectivity. Shared reality is produced by interaction, not discovered behind it.
+P3: no separate sharing mechanism. What you can see is what is (potentially) shared. Convergence is shared reality, objectivity. Shared reality is produced by subject interaction mediated by the data fabric, not discovered behind it and not conversational.
 
 ## Splectrum Supplies Languages, HAICC Supplies Process Flow
 
@@ -76,15 +76,15 @@ HAICC: the persona declares required capabilities. These are tested against avai
 
 HAICC: conscious is what is in focus — the work at hand. Subconscious is what supports it — the additional activity needed to achieve the conscious task. AI and human are present in both layers. The persona is the continuous identity across both.
 
-Plasticity is the ability to learn. A capability starts conscious — attended, deliberate. Through practice it moves subconscious — running without attention. The movement IS learning. Learning is architecturally native, not a separate concern.
-
 ## Evolutionary Process Model
 
-HAICC: scan, diversify, evolve. Process capabilities are dormant in the fabric until data state change wakes them. What works reinforces, what doesn't fades. No orchestration — the data state is the relay. The appearance of orchestration is itself an emergent reality. This is the operating pattern of the subconscious, and the pattern through which learning consolidates.
+HAICC: process capabilities dormant in the fabric until data state change wakes them. What works reinforces, what doesn't fades. No orchestration — the data state is the relay. Orchestration if it appears is emergent.
+
+The neuroscience grounding — Neural Darwinism, Global Workspace Theory, predictive processing — is not metaphor. It is structural correspondence. The same pattern, in a different medium.
 
 ---
 
-*These commitments are the philosophical framework in engineering language. Each design below this level must conform to them. The test is always: low friction with the framework.*
+*Design commitments, each falling from the framework through its interaction with the overall engineering goal. Not designed — discovered. Not imposed — emergent. Ready to be stress tested through use by cascading the design downwards. Confirmation through low friction reality. These commitments may evolve as the engineering develops. But only to improve alignment of the engineering to the framework.*
 
 ---
 

@@ -16,7 +16,7 @@ This page presents the seed twice: first as philosophical framework, then as eng
 
 Being is always already disclosed in the world (Heidegger). Being comes into existence through the act of differentiation — there is no being without not-being ([Fichte](https://plato.stanford.edu/entries/johann-fichte/)). Where there is being there is a world, and the relational between them is language.
 
-P0 is creational — the boundary is the creation. P1–P5 describe properties shared by all languages.
+P0 is creational — the boundary expresses the differentiation. P1–P5 describe properties shared by all languages.
 
 ### P1 — Language is relational
 

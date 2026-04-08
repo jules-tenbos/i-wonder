@@ -15,7 +15,7 @@ A meta-language: a language about languages. The claim is purely structural — 
 ## The seed — six principles
 
 **P0 — Being implies language.**
-Being is always already disclosed in the world (Heidegger). Being comes into existence through the act of differentiation — there is no being without not-being (Fichte). Where there is being there is a world, and the relational between them is language. P0 is creational — the boundary is the creation.
+Being is always already disclosed in the world (Heidegger). Being comes into existence through the act of differentiation — there is no being without not-being (Fichte). Where there is being there is a world, and the relational between them is language. P0 is creational — the boundary expresses the differentiation.
 
 **P1 — Language is relational.**
 Language is not representation — it is relation. Meaning arises from use, not from definitions. What a language gives access to depends on what it relates to.

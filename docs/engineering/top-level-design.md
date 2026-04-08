@@ -77,14 +77,14 @@ The full set of commitments is maintained in [Design Commitments](design-commitm
 - Three-pillar unity — aspects of the same thing, not independent systems
 - Decentralisation is constitutive — P4 all the way through
 - Context and language are mutually constitutive — inseparable design units
-- Designing creates reality — the representation IS a reality
+- Designing creates reality — reality is the dynamic of the data state of being
 - Natural language as carrier — splectrum supplies, HAICC flows, AI enables
 - Ambiguity is generative — openness at the fringes
 - The honesty criterion — relational, low friction, conformance not perfection
-- Boundary is structurally real — the boundary is the creation
+- Boundary is structurally real — the boundary expresses the differentiation
 - Recursive self-similarity — same patterns at every level
 - Complexity grows in expression, not in power — web not tree
-- The subject accesses reality only through the fabric
+- The subject experiences reality only through the local data fabric
 - Visibility is sharing — no separate mechanism
 - Splectrum supplies languages, HAICC supplies process flow
 - Persona-driven role assignment with optimisation toward AI autonomy
