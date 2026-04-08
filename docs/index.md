@@ -7,8 +7,7 @@ The reference library for the world of Splectrum.
 - [Reality](reality/) — metaphysics, epistemology, ontology, ethics
 - [Positioning](positioning) — the philosophical and scientific trajectory
 - [Vocabulary](vocabulary) — Splectrum terms and definitions
-## Engineering
-- [Personas](engineering/personas/) — engineering specs for Splectrum's interaction surfaces
+- [Engineering](engineering/) — how Splectrum builds things
 
 ---
 

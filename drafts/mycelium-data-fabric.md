@@ -32,7 +32,7 @@ Labels: mycelium, engineering, Splectrum
 
 ### 2. Top layer design
 - Mycelium repo: a data tree structure in a distributed version control system wrapper
-- Tree structure for categorisation, version control for historicity, cloning, merging — core storage element
+- Tree structure for categorisation, version control for **historicity**, cloning, merging — core storage element
 - A tree of data nodes. A node becomes a context when metadata nodes are added to it
 - Metadata nodes are for process and other encapsulation — separate design, not covered here
 - Git repo as the hard boundary — distinct entity with identity, history, integrity
@@ -74,7 +74,7 @@ Mycelium is the data fabric — the engineering foundation from which the other 
 
 ## Design
 
-A mycelium repository is a data tree structure in a distributed version control system wrapper. The tree structure provides categorisation. The version control wrapper provides historicity, cloning, and merging. Together they form the core storage element.
+A mycelium repository is a data tree structure in a distributed version control system wrapper. The tree structure provides categorisation. The version control wrapper provides **historicity**, cloning, and merging. Together they form the core storage element.
 
 The tree is made of data nodes. A node becomes a context when metadata nodes are added to it. Metadata nodes handle process embedding and other encapsulation — they have their own design, described separately.
 

@@ -1,12 +1,12 @@
 ---
-title: Splectrum Engineering — Design Commitments
+title: Splectrum Engineering — Commitments
 series: seed
 category: engineering
 persona: Splectrum
 status: draft
 ---
 
-# Splectrum Engineering — Design Commitments
+# Splectrum Engineering — Commitments
 Labels: seed, engineering, Splectrum
 
 <img src="https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Design commitments" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />

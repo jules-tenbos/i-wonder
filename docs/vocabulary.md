@@ -42,6 +42,8 @@ Terms as used within Splectrum. This vocabulary grows as the project develops.
 
 **Data world** — all the data the subject potentially can relate to.
 
+**Historicity** — the accumulation of interaction over time. Entities carry their history — they are their history. Historicity drives the growth of complexity (P5): each interaction leaves a trace that becomes context for the next. In engineering, historicity maps to data state — immutable records, version control, the accumulated state that defines an entity.
+
 **Decentralised cognition** — the expansion and distribution of cognitive capacity through AI partnership. Not one central intelligence but cognition spread across human and AI agents, collaborative, peer-to-peer. The applied consequence of HAICC at scale.
 
 ---
