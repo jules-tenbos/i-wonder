@@ -1,20 +1,16 @@
----
-title: "Privacy, Naturally!"
-category: society
-topic: privacy, P2, P3, architecture
-status: storyline
----
-
 # Privacy, Naturally!
-Labels: thought, society
+Labels: seed, philosophy, Splectrum
+Blogger-ID: 7824578478222009861
 
-When I put together the seed, I wasn't thinking about privacy. I was thinking about language, about how subjects meet reality, about the web of complexity that grows when they share what they know. Privacy wasn't on the list.
+<img src="https://images.unsplash.com/photo-1595666944516-bbb485958fb5?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Privacy" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
-And then I read the second principle again:
+When I put together the seed, I wasn't thinking about privacy. I was thinking about language, about how subjects experience reality, about the web of complexity that grows when they share what they know. Privacy wasn't on the list.
+
+But reading the second principle:
 
 *Language is the medium through which a subject experiences reality.*
 
-There it is. Hiding in plain sight. If every subject meets reality through its own medium, then experience is inherently first-person. Nobody else is inside that medium with you. Your thinking, your processing, your becoming — that happens in a space that is, by its very nature, yours. Privacy isn't a right that needs to be granted. It's not a regulation. It's certainly not a cookie banner. It's a structural fact. It's already there. Naturally.
+There it is. Hiding in plain sight. If every subject experiences reality through its own medium, then experience is inherently first-person. Nobody else is inside that medium with you. Your thinking, your processing, your becoming — that happens in a space that is, by its very nature, yours. Privacy isn't a right that needs to be granted. It's not a regulation. It's certainly not a cookie banner. It's a structural fact. It's already there. Naturally.
 
 And it goes deeper than secrets or things you'd rather keep hidden. It's about the freedom to think. To sit with half-formed ideas. To change your mind quietly, without an audience. To be uncertain. That space — that private medium — is where a subject does its most essential work. Without it, you don't just lose privacy. You lose the capacity to *be*.
 
@@ -40,18 +36,7 @@ Which makes me wonder. What if the architecture itself could be different? What 
 
 I think it can.
 
-## Post storyline
-
-### Tone notes
-
-- Thought post — personal, reflective, standalone
-- Seed referenced lightly, not positioned deeply
-- The three pathologies (centralisation, decontextualisation, persistence) are the core argument
-- Closing is open, not a tease for a specific follow-up
+<small>This post is part of the [seed series](/search/label/seed). More on Splectrum in the <a href="https://jules-tenbos.github.io/in-wonder/">reference library</a>.</small>
 
 ---
-
-## Tasks on scheduling
-
-- [ ] Image selection
-- [ ] Draft tweet
+<small>Photo: <a href="https://unsplash.com/@jdent">Jason Dent</a> / Unsplash</small>
