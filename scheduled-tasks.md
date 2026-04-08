@@ -35,6 +35,16 @@ Tasks triggered by post publication. Updated as posts go live.
 ## May 10 — And Then There Were Six goes live
 - [ ] Tweet: P0 wasn't part of the original seed. It emerged while unpacking the principles — and turned out to be the foundation. julestenbos.blogspot.com/2026/05/and-then-there-were-six.html #Splectrum #Philosophy #Fichte #Heidegger
 
-## May 12 — Splectrum Engineering from First Principles goes live
-- [ ] Draft in progress: `drafts/splectrum-engineering.md`
+## May 12 — Splectrum Engineering goes live
+- [ ] Draft tweet
+
+## May 14 — Privacy, Naturally! goes live
+- [ ] Draft tweet
+
+## May 16 — Splectrum Engineering — Commitments goes live
+- [ ] Draft tweet
+
+## May 24 — Mycelium — The Data Fabric goes live
+- [ ] Draft in progress: `drafts/mycelium-data-fabric.md` — storyline agreed, narrative needed
+- [ ] Reference pages: `docs/engineering/mycelium/index.md`, `docs/engineering/mycelium/core.md`
 - [ ] Draft tweet
