@@ -4,8 +4,10 @@
 
 How Splectrum builds things.
 
-- [Personas](personas/) — the communication channels Splectrum operates through
+- [Top Level Design](top-level-design) — three pillars, how they weave, design commitments, document map
+- [Design Commitments](design-commitments) — philosophical structure as engineering constraints
 - [Process Models](process-models) — decentralised evolutionary process models, neuroscience inspiration
+- [Personas](personas/) — the communication channels Splectrum operates through
 
 ---
 

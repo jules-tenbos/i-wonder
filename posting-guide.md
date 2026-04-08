@@ -40,6 +40,90 @@ python3 manage.py page-delete <page-id>             # delete a page
 
 Pipeline, categories, scheduling strategy, and operational checklists are in the [Public Conscious Persona spec](https://jules-tenbos.github.io/in-wonder/engineering/personas/public-conscious-persona/current) (source: `docs/engineering/personas/public-conscious-persona/current.md`).
 
+## Production — Way of Working
+
+### Conscious thought handling
+
+Collaborative. Submissions go through analysis, discussion, and decision before becoming drafts. The submission's frontmatter tracks status: `new → in-progress → draft-ready`.
+
+### Draft template
+
+The draft file is the single workspace. The post section is extractable as-is on scheduling.
+
+```markdown
+---
+title: Post title
+series: e.g. mycelium, language
+category: e.g. engineering, philosophy
+persona: e.g. Splectrum, comment, thought
+status: storyline | draft | review-ready
+---
+
+# Post Title
+Labels: label1, label2, label3
+
+<img src="IMAGE_URL" alt="ALT" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+
+[post content]
+
+<small>This post is part of the [series name](/search/label/series). More in the <a href="https://jules-tenbos.github.io/in-wonder/area/">area of the reference library</a>.</small>
+
+---
+<small>Photo: <a href="https://unsplash.com/@photographer">Name</a> / Unsplash</small>
+
+---
+
+# Notes
+
+## Storyline
+
+### 1. Section
+- point
+- point
+
+---
+
+## Reference page — docs/path/to/page.md
+
+[page content ready to copy]
+
+---
+
+## Vocabulary updates
+
+- **Term** — definition
+
+---
+
+## Tasks on scheduling
+
+- [ ] task
+```
+
+### Collaborative flow
+
+1. **Scope** — discuss what the draft produces: post, reference pages, vocabulary updates
+2. **Storyline** — Claude proposes storyline items (points, not prose). Jules steers, adds, corrects. Iterative until agreed
+3. **Reference pages** — Claude organises reference page content in the draft, drawing from storyline and submission
+4. **Narrative** — Jules writes the flowing text from the storyline
+5. **Improve** — Claude improves on the narrative
+6. **Edit cycles** — collaborative until review-ready
+7. **Production tasks** — image selection, links, final review
+
+### On scheduling
+
+The draft produces its outputs and is then deleted:
+
+1. Create/update reference pages in `docs/`
+2. Update `docs/vocabulary.md`
+3. Update reference library index pages
+4. Render diagrams to images if any
+5. Create clean post file in `published/` (prose + image refs only, no notes)
+6. Schedule on Blogger
+7. Delete draft from `drafts/`
+8. Delete submission from `submissions/` (if not already deleted)
+9. Commit and push
+
 ## Images
 
 - Use Unsplash URLs with size/crop parameters (e.g. `w=350&h=230&fit=crop&crop=center`)

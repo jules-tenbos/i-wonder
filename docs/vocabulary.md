@@ -14,7 +14,7 @@ Terms as used within Splectrum. This vocabulary grows as the project develops.
 
 **Subject** — the embodiment of a reality of the data world. The point-of-view entity of a relational unit. Not necessarily human — any entity that participates relationally.
 
-**Persona** — a subject role implemented using protocols, a set of interaction behaviours. A subject may have multiple personas.
+**Persona** — continuous identity across conscious and subconscious. Declares required capabilities, tested against available capabilities — human and AI — to determine work division. A subject may have multiple personas.
 
 **Protocol** — the engineering artefact of a language game.
 
@@ -22,17 +22,23 @@ Terms as used within Splectrum. This vocabulary grows as the project develops.
 
 **Thought** — a packet of data or information. Can be conscious or unconscious. Often maps to a document or resource.
 
-**Conscious protocols** — the functional purpose protocols of a subject. What the subject is for.
+**Conscious protocols** — what is in focus. The work at hand. AI and human both present.
 
-**Unconscious protocols** — supporting infrastructure protocols within a subject. Not specific to the purpose but specific to the internal nature of subjects generally.
+**Unconscious protocols** — what supports the conscious task. The additional activity needed to achieve it. AI and human both present.
 
-**HAICC** — Human-AI Creative Collaboration. The subject-internal dynamic — the division of labour between human and AIs, embedded in protocol implementations. Not a layer — a cross-cutting concern.
+**HAICC** — Human-AI Creative Collaboration. The subject-internal dynamic — process flow, learning, persona-driven work division. Not a layer — a cross-cutting concern. Pilot and copilot. Optimisation direction: toward AI autonomy.
+
+**Plasticity** — the ability to learn. Capabilities move from conscious to subconscious through practice. The movement is learning.
 
 **Spawn** — growth through transformation. Something new transformed out of what already is.
 
 **Reality** — the interface between a subject and the data world.
 
-**Mycelium** — the fabric of reality, where subject meets the data world.
+**Mycelium** — the data fabric. Where things exist. The substrate through which a subject accesses the data world. Structure, records, contexts, metadata, traversal. The engineering cornerstone.
+
+**Splectrum** — the language fabric. What languages are available and how they relate. Meaning. Supplies the languages — protocol libraries, schemas, meaning structures. The relational structure that governs how decentralised data and decentralised cognition interact.
+
+**Interaction surface** — the entity's exposed interface. Where language lives. The surface through which a subject is known — by its imprint on the fabric, not by looking inside.
 
 **Data world** — all the data the subject potentially can relate to.
 

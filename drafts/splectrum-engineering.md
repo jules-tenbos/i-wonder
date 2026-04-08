@@ -44,11 +44,11 @@ I propose a three-pillar design: **mycelium — splectrum — HAICC**<br/>
 
 ***Mycelium*** is the fabric to express the world in data. A novel data repository design with bidirectional cross-referencing, modelling entity-world structures and their associated subject realities. Entities exist as disclosed beings, not static records — their data state, language and relations are embedded in the fabric itself. Mycelium allows the data entities to be expressed into the multitude of subject-world folds from a single underlying repository.
 
-***Splectrum*** is the language fabric — a language and meaning engineering solution with the properties described in P1–P5 baked in. Relational (P1): protocols as language games, interaction through surfaces. Experiential (P2): meaning anchored to the subject's point of view. Shared (P3): visibility as sharing, convergence as objectivity. Equal standing (P4): no imposed hierarchy between languages. Growing (P5): complexity through diversification, not centralisation. Splectrum is the structured glue between the other two fabrics, expressed as a fabric itself — the relational structure woven through decentralised data and decentralised cognition, governing how they interact.
+***Splectrum*** is the language fabric — a language and meaning engineering solution with the properties described in P1–P5 baked in. Relational (P1): protocols as language games, interaction through surfaces. Experiential (P2): meaning anchored to the subject's point of view. Shared (P3): visibility as sharing, convergence as objectivity. Equal standing (P4): no imposed hierarchy between languages. Growing (P5): complexity through diversification, not centralisation. Splectrum supplies the languages — it defines what languages are available and how they relate. A fabric in its own right, not glue between the other two. The relational structure that governs how decentralised data and decentralised cognition interact without needing a central authority.
 
-***HAICC*** is the cognition fabric — how cognition gets distributed, expressed, and coordinated while maintaining genuine human partnership. The starting point is a division of design: the human captains the logical — what, why, meaning, intent, direction — while AI captains the physical — how, implementation, technology, execution. Not a hierarchy but a division of labour based on strength. Pilot and copilot — either can drive depending on the activity.
+***HAICC*** is the cognition fabric — how process flows through languages while maintaining genuine human partnership. The persona declares required capabilities. These are tested against what is available — human and AI. The conformance determines work division, with an optimisation direction toward AI autonomy. The human retains what AI capability does not yet cover. Conscious is what is in focus — the work at hand. Subconscious is what supports it. AI and human are present in both. Pilot and copilot — either can drive depending on the activity. Through practice, capabilities move from conscious to subconscious. That movement is learning — architecturally native, not a separate concern.
 
-What has this first-principles approach yielded? A unified approach to the three main components of any system — state, meaning, and cognition — expressed as three fabrics. Mycelium as the data fabric: visible state, no hidden stuff. Splectrum as the language fabric: structured meaning we can reason about. HAICC as the cognition fabric: explicit agent and actor recognition.
+What has this first-principles approach yielded? A unified approach to the three main components of any system — state, meaning, and cognition — expressed as three fabrics. Mycelium as the data fabric: visible state, no hidden stuff. Splectrum as the language fabric: structured meaning we can reason about. HAICC as the cognition fabric: process flow, learning, and persona-driven work division.
 
 Decentralisation is an upfront property, not an afterthought. Mycelium is decentralised at the data level — entities as disclosed beings in a peer-to-peer fabric, no central database, no single source of truth. HAICC is decentralised at the cognition level — human and AI agents as collaborative peers, no central controller. And Splectrum as the language fabric is what makes both decentralisations coherent — the relational structure that governs how decentralised data and decentralised cognition interact without needing a central authority. P4 — equal standing — all the way through.
 
@@ -95,9 +95,9 @@ P1-P5 expressed as engineering:
 
 **HAICC — subject dynamics**
 
-The human-AI partnership IS the subject. Like mind and body — fuzzy boundary, not separable. The sea metaphor: subconscious below water (AI autonomous, agents, infrastructure), conscious as iceberg above (interactive collaboration, top-level AI autonomous). Plasticity — things move between conscious and subconscious through practice.
+The human-AI partnership IS the subject. Like mind and body — fuzzy boundary, not separable. The sea metaphor: conscious as iceberg above — the work at hand. Subconscious below water — everything that supports it. AI and human are present in both layers. Plasticity — capabilities move between conscious and subconscious through practice. That movement is learning.
 
-The persona is the exposed surface — it doesn't care what's underneath. A persona could be powered by human, AI, both, mostly subconscious, mostly conscious.
+The persona is the continuous identity across both layers. It declares required capabilities, tested against what is available. The conformance determines work division. Optimisation direction: toward AI autonomy.
 
 ### 4. Why it looks universal
 
@@ -154,17 +154,16 @@ graph TD
 ```mermaid-sea
 graph TB
     subgraph Sea["The sea — mind-body activity"]
-        subgraph Sky["Conscious — iceberg"]
-            IC[Interactive collaboration]
-            TL[Top-level AI autonomous]
+        subgraph Sky["Conscious — the work at hand"]
+            FO[In focus — human and AI]
         end
-        subgraph Water["Subconscious — below water"]
-            AG[AI agents — infrastructure]
-            AU[Autonomous processing]
+        subgraph Water["Subconscious — what supports it"]
+            SU[Supporting activity — human and AI]
         end
     end
-    PER2[Persona — the surface] --> Sky
-    Sky -.->|plasticity| Water
+    PER2[Persona — continuous identity] --> Sky
+    PER2 --> Water
+    Sky -.->|plasticity = learning| Water
 ```
 
 ---
@@ -227,23 +226,23 @@ Colours encode meaning. Green + blue = green — the colours carry the compositi
 2. **Mycelium** — the fabric of reality as experienced by the subject. Creates the interface between the data world and the protocols.
 3. **Subject** — entity with POV, a git-backed repo. Never touches data directly — only knows the interface.
 4. **Entity** — encapsulated unit of historicity. It carries its history — it IS its history.
-5. **Persona** — interaction role of a subject. One persona, many protocols.
+5. **Persona** — continuous identity across conscious and subconscious. Declares required capabilities, drives role assignment.
 6. **Protocol** — a language game. The engineering expression of language.
 7. **Conversation** — the interaction pattern between entities through protocols.
 8. **Thought** — a packet of data/information. Can be conscious or unconscious.
-9. **HAICC** — subject-internal dynamic. Division of labour between human and AIs.
-10. **Conscious/unconscious** — purpose protocols vs infrastructure protocols.
+9. **HAICC** — subject-internal dynamic. Process flow, learning, persona-driven work division.
+10. **Conscious/unconscious** — what is in focus vs what supports it. AI and human in both.
 11. **Spawn** — growth through diversification.
 
 ### Subject internals
 
-Three layers: conscious protocols (purpose), unconscious protocols (infrastructure), HAICC (cross-cutting dynamic — the division of labour between human and AIs).
+Three layers: conscious (what is in focus), unconscious (what supports it), HAICC (cross-cutting dynamic — process flow, learning, persona-driven work division). AI and human present in both conscious and subconscious.
 
-Pilot and copilot: human and AI form the team that IS the subject. Who drives depends on the activity — meaning work: human drives; implementation: AI drives.
+Pilot and copilot: human and AI form the team that IS the subject. Who drives depends on the activity. Optimisation direction: toward AI autonomy.
 
-### Persona: one role, many protocols
+### Persona: continuous identity, capability conformance
 
-A persona uses many protocols in service of its role. The persona is the why; the protocols are the how.
+A persona declares required capabilities. These are tested against available capabilities — human and AI. The conformance determines work division. The persona is the why; the protocols are the how.
 
 ### Mycelium as fabric of potential reality
 
@@ -286,7 +285,7 @@ How things interact within the fabric:
 
 **HAICC — subject dynamics**
 
-The human-AI partnership that powers the subject. Like mind and body — fuzzy boundary, not separable. Conscious (interactive collaboration, top-level AI autonomous) and subconscious (AI agents, infrastructure). Plasticity — things migrate between conscious and subconscious through practice. Persona as the exposed surface.
+The human-AI partnership that powers the subject. Like mind and body — fuzzy boundary, not separable. Conscious is what is in focus — the work at hand. Subconscious is what supports it. AI and human present in both layers. Plasticity — capabilities move from conscious to subconscious through practice. That movement is learning. Persona as the continuous identity across both, driving role assignment with optimisation toward AI autonomy.
 
 ## Components
 
@@ -297,22 +296,22 @@ The human-AI partnership that powers the subject. Like mind and body — fuzzy b
 | **Subject** | Entity with POV, never touches data directly |
 | **Entity** | Encapsulated unit of being — the inside is being, the surface is language (P0) |
 | **Interaction surface** | The entity's exposed interface — where language lives |
-| **Persona** | Interaction role of a subject. One persona, many protocols |
+| **Persona** | Continuous identity across conscious and subconscious. Declares required capabilities, drives role assignment |
 | **Protocol** | A language game. Engineering expression of language |
 | **Conversation** | Interaction pattern between entities through protocols |
 | **Thought** | A packet of data/information. Conscious or unconscious |
-| **HAICC** | Subject-internal: human-AI division of labour |
-| **Conscious/Unconscious** | Purpose protocols vs infrastructure protocols |
+| **HAICC** | Subject-internal: process flow, learning, persona-driven work division |
+| **Conscious/Unconscious** | What is in focus vs what supports it. AI and human in both |
 | **Spawn** | Growth through diversification |
 
 ## Subject internals
 
 Inside a subject, three layers:
-1. **Conscious protocols** — the functional purpose. What the repo is for.
-2. **Unconscious protocols** — supporting infrastructure. Git, test, tidy, protocol resolution.
-3. **HAICC** — the dynamic woven across both. Division of labour between human and AIs. Not a layer — a cross-cutting concern.
+1. **Conscious protocols** — what is in focus. The work at hand.
+2. **Unconscious protocols** — what supports it. The additional activity needed to achieve the conscious task.
+3. **HAICC** — the dynamic woven across both. Process flow, learning, persona-driven work division. Not a layer — a cross-cutting concern.
 
-Pilot and copilot: human and AI form the team that IS the subject. Who drives depends on the activity.
+Pilot and copilot: human and AI form the team that IS the subject. AI and human present in both conscious and subconscious. Who drives depends on the activity. Optimisation direction: toward AI autonomy.
 
 ## Mycelium as engineering cornerstone
 
@@ -354,11 +353,15 @@ The Splectrum spec (not yet) will say *how everything must behave* — the share
 
 **Thought** — a packet of data or information. Can be conscious or unconscious. Often maps to a document or resource.
 
-**Conscious protocols** — the functional purpose protocols of a subject. What the subject is for. Specific to this subject.
+**Conscious protocols** — what is in focus. The work at hand. AI and human both present.
 
-**Unconscious protocols** — supporting infrastructure protocols within a subject. Not specific to the purpose but specific to the internal nature of subjects generally.
+**Unconscious protocols** — what supports the conscious task. The additional activity needed to achieve it. AI and human both present.
 
-**HAICC** — Human-AI Creative Collaboration. The subject-internal dynamic — the division of labour between human and AIs, embedded in protocol implementations. Not a layer — a cross-cutting concern. Pilot and copilot.
+**HAICC** — Human-AI Creative Collaboration. The subject-internal dynamic — process flow, learning, persona-driven work division. Not a layer — a cross-cutting concern. Pilot and copilot. Optimisation direction: toward AI autonomy.
+
+**Persona** — continuous identity across conscious and subconscious. Declares required capabilities, tested against available capabilities to determine work division.
+
+**Plasticity** — the ability to learn. Capabilities move from conscious to subconscious through practice. The movement is learning.
 
 **Spawn** — growth through diversification. New subjects, new protocols, new personas. A consequence of P5. New carries its history.
 

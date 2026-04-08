@@ -31,17 +31,13 @@ drafts/             — accepted, being worked on (flat folder, category in fron
 published/          — date-prefixed, pushed to Blogger
 ```
 
-## Categories
+## Labels
 
-Categories are modes of engagement, not topics. The same topic can appear in any category.
+Three dimensions: **series**, **category**, **persona**. Not every post has all three. Max 3 labels. New values can be added as the project evolves.
 
-| Category | What it is | Voice |
-|----------|-----------|-------|
-| **Core** | Substantial Splectrum. Building from P1-P5. | Splectrum speaking |
-| **Research** | Analysing other vocabularies/traditions. | Observing from Splectrum's position |
-| **Thinking** | Small bites. A specific insight, question, connection. | Mix — Splectrum or external or both |
-| **Engineering** | Practical. How we work, tools, methods. | Splectrum's practice |
-| **Commentary** | Reactions to current events, things encountered. | Open, responsive |
+- **Series** — groups posts into a journey. Current: positioning, language, seed, reality
+- **Category** — the domain. Current: philosophy, science, engineering, HAICC
+- **Persona** — who is speaking. Current: Splectrum, comment, thought, or a named source (Wittgenstein, Rorty, Merleau-Ponty)
 
 ## Conscious thought handling
 
@@ -77,9 +73,9 @@ destinations: seed, positioning, language, reality, engineering
 
 1. **Submission** — raw material in `submissions/`. Committed to git on arrival (checkpoint).
 2. **Conscious thought handling** — analyse, discuss, decide destination. Submission updated in place.
-3. **Draft** — accepted material moved to `drafts/` with frontmatter (category, topic, status). Submission deleted. Post storyline laid out, full text written, edited, image, links.
+3. **Draft — production** — accepted material moved to `drafts/`. The draft is a collaborative workspace. Production moves through: scope (what the draft produces), storyline (structure in points), narrative (flowing text), editing, and final production tasks (image, links). Human writes the narrative, AI proposes and improves.
 4. **Review ready** — reviewed, cleaned, ready for scheduling.
-5. **Scheduled** — published to `published/` with date prefix. Draft deleted from `drafts/`. Pushed to Blogger.
+5. **Scheduled** — the draft produces its outputs: post to `published/`, reference pages to `docs/`, vocabulary updates. Draft deleted. Pushed to Blogger.
 
 ## Source of truth
 
@@ -100,11 +96,14 @@ The draft file serves as the workspace during production — containing notes, p
 ```markdown
 ---
 title: Post title
-category: core | research | thinking | engineering | commentary
-topic: e.g. ethics, language, Russell, workflow
-status: storyline | draft | review-ready | scheduled
+series: e.g. language, positioning
+category: e.g. philosophy, science, engineering
+persona: e.g. Splectrum, comment, thought
+status: storyline | draft | review-ready
 ---
 ```
+
+Labels use three dimensions — series, category, persona — aligned with the blog label system. Not every draft has all three. New values can be added as the project evolves.
 
 ## Scheduling strategy
 
