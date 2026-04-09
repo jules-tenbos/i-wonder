@@ -14,6 +14,8 @@ Equal standing has ethical consequences — for how we think about other forms o
 
 This area explores how Splectrum addresses these questions as the conversation deepens.
 
+- [Research Directions](research-directions) — formal research emerging from the perimeter view
+
 ---
 
 *© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

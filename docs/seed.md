@@ -48,6 +48,14 @@ No hierarchy of languages. Binary has the full power; Python has the clarity. Na
 
 The complexity grows in expression, not in power — the full power was always there (P0). More languages, more perspectives, more ways of engaging what was always there. Evolution doesn't add capacity; it adds articulation.
 
+### Mathematical convergence
+
+[Category theory](language/category-theory) — the mathematics of relation — arrives at the same structural conclusions through a different language. P0 and P1 together establish the conditions that category theory formalises: differentiation (P0) given relational character (P1) is categorical territory. Category theory's central result, the [Yoneda Lemma](https://en.wikipedia.org/wiki/Yoneda_lemma), expresses what P2 expresses: the totality of an object's relationships is a complete characterisation. What we can know lives in the relational. Two languages, the same conclusion.
+
+### Creation and discovery
+
+P5 says the full power was always there. P2 says our access is always partial. Together: what we experience as creation conforms to the discovery of relational paths that were available but unwalked. The newness is real — for the subject, for the web of shared reality — while the relational power is not new. Each evolutionary transition conforms to this pattern: the conditions were already present, discovered when interaction density crossed a threshold.
+
 ---
 
 ## The Engineering View
