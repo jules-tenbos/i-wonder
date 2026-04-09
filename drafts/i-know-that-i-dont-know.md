@@ -1,4 +1,15 @@
+---
+title: I Know That I Don't Know
+series:
+category: philosophy
+persona: thought
+status: draft
+---
+
 # I Know That I Don't Know
+Labels: philosophy, thought
+
+<img src="IMAGE_URL" alt="ALT" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
 Socrates, on being told by the Oracle at Delphi that he was the wisest of all, went to check. He questioned the politicians, the poets, the craftsmen — the ones who were supposed to know. He found that each believed they knew things they actually didn't. His conclusion was modest and precise: he was wiser only in this — he didn't think he knew what he didn't know.
 
@@ -45,3 +56,17 @@ That is the song of "I know" played to its conclusion. A life spent transmitting
 The alternative is not ignorance. It is appetite — directed toward something without predetermining what it is. "I wonder" is the phrase that lives between knowing and not knowing. It is open, but not empty. It is oriented, but not teleological. It is the posture in which reality has room to speak.
 
 And it is quiet. That is how you recognise it.
+
+---
+<small>Photo: credit / Unsplash</small>
+
+---
+
+# Notes
+
+## Tasks on scheduling
+
+- [ ] Image selection
+- [ ] Schedule on Blogger
+- [ ] Delete draft
+- [ ] Delete submission (i-know-that-i-dont-know.md)

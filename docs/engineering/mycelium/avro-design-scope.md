@@ -187,6 +187,8 @@ AVRO RPC is not a transport mechanism but the process boundary enforcement mecha
 
 ### 12. Implementation Platform
 
+**Enterprise landscape.** AVRO as serialization is rock solid across the industry. The Kafka ecosystem has made it the standard for schema-driven data exchange, with wide language support across JVM, Python, C/C++/C#, PHP, Ruby, Rust, JavaScript. AVRO RPC is a different story — the industry has largely moved to gRPC, driven by HTTP/2 streaming requirements. But mycelium's primary interaction mode is data state propagation, not streaming. The RPC need is surgical: schema-routed invocation at specific moments. AVRO RPC's native design — transport-independent framing, pluggable transport, schema handshake — fits the mycelium use pattern more precisely than gRPC. What the industry doesn't need (transport pluggability for local-first deployment) is exactly what mycelium does need.
+
 avsc — the pure JavaScript AVRO implementation — is the implementation platform.
 
 **Why avsc.** Full Avro specification coverage in pure JavaScript. Serialization, schema evolution, protocol definition, RPC with transport pluggability (in-memory, TCP, HTTP), middleware chain, IDL support, browser-capable distributions. Single library, ~51kB full distribution. No framework dependencies.
