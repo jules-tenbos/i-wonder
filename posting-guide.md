@@ -117,12 +117,13 @@ The draft produces its outputs and is then deleted:
 1. Create/update reference pages in `docs/`
 2. Update `docs/vocabulary.md`
 3. Update reference library index pages
-4. Render diagrams to images if any
-5. Create clean post file in `published/` (prose + image refs only, no notes)
-6. Schedule on Blogger
-7. Delete draft from `drafts/`
-8. Delete submission from `submissions/` (if not already deleted)
-9. Commit and push
+4. Update `docs/sitemap.xml` if new pages were added
+5. Render diagrams to images if any
+6. Create clean post file in `published/` (prose + image refs only, no notes)
+7. Schedule on Blogger
+8. Delete draft from `drafts/`
+9. Delete submission from `submissions/` (if not already deleted)
+10. Commit and push
 
 ## Images
 
