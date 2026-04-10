@@ -16,6 +16,12 @@ P0: being implies language yields three inseparable aspects — mycelium (state)
 - **Splectrum** — what languages are available and how they relate. Meaning.
 - **HAICC** — how process flows through those languages. Cognition in motion.
 
+## The Design Lives in the Logical Space
+
+The architecture describes how a Splectrum system must look — not how it must be physically built. Mycelium is the physical carrier. Splectrum is the logical meaning. HAICC is the activation that resolves one into the other. Physical implementations are free to use whatever technology fits, as long as they are compatible with the logical design. Compatibility, not literal translation.
+
+Physical implementation is JIT — it goes only as far as capability requires. Where there is no need, there is no implementation — architecture of absence at the physical level. Large parts of the logical design may have no physical counterpart because the capability hasn't been called for yet. The gap is not a deficit. It is the natural state of a design that materialises through use.
+
 ## Decentralisation Is Constitutive
 
 P4: equal standing all the way through. Decentralisation is not an afterthought — it is constitutive.

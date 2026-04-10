@@ -72,24 +72,7 @@ The three pillars are not independent systems. They meet at defined boundary poi
 
 The design commitments govern all engineering below this level. They are the philosophical framework in engineering language. Each design must conform to them. The quality test is low friction with the framework.
 
-The full set of commitments is maintained in [Design Commitments](design-commitments). They include:
-
-- Three-pillar unity — aspects of the same thing, not independent systems
-- Decentralisation is constitutive — P4 all the way through
-- Context and language are mutually constitutive — inseparable design units
-- Designing creates reality — reality is the dynamic of the data state of being
-- Natural language as carrier — splectrum supplies, HAICC flows, AI enables
-- Ambiguity is generative — openness at the fringes
-- The honesty criterion — relational, low friction, conformance not perfection
-- Boundary is structurally real — the boundary expresses the differentiation
-- Recursive self-similarity — same patterns at every level
-- Complexity grows in expression, not in power — web not tree
-- The subject experiences reality only through the local data fabric
-- Visibility is sharing — no separate mechanism
-- Splectrum supplies languages, HAICC supplies process flow
-- Persona-driven role assignment with optimisation toward AI autonomy
-- Conscious and subconscious with plasticity — learning is architecturally native
-- Evolutionary process model — the subconscious operating pattern
+The full set of commitments is maintained in [Design Commitments](design-commitments).
 
 ## Document Map
 

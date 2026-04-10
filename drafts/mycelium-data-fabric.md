@@ -11,7 +11,12 @@ Labels: mycelium, engineering, Splectrum
 
 <img src="https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Mycelium data fabric" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
-[post content]
+This post is the first of the mycelium series which the [splectrum engineering post]() describes as one of the pillar of a Splectrum system. I call it the main pillar: it provides the fabric structure for data, and is the base fabric for the splectrum (language and meaning) and haiic (human AI collaboration) pillars. 
+
+A process-colocated data fabric built from one primitive (record in context), where structure is behaviour. No configuration, no flags — what you build is how it behaves, what you don't build can't happen. Data with colocated processes is stored in a tree structure and wrapped into individual repositories - *subject realities*. The repositories are wrapped in a distributed version control system (git). Data 'lives' where it is created and is referenced for consumption elsewhere. Consuming repo may or may not have local copies, however their data state for the consumed data is not authoritative.
+
+Its elementary data structure - base layer - is an immutable keyvalue record, with opaque bytes in the value property. Other properties, as mutability and structured data are implemented in separate protocol layers on top of the base layer. However the design does not say that the data in physiacl form has to adhere to the paradigm, but that the data must be transformable - compatible - with the paradigm. This will run through the whole splectrum design story. The
+ everything is local to the subject, and the source of truth is always immutable records. Mutable structures are projections you can throw away and rebuild.
 
 <small>This post is part of the [mycelium series](/search/label/mycelium). More on mycelium in the <a href="https://jules-tenbos.github.io/in-wonder/engineering/mycelium/">mycelium area of the reference library</a>.</small>
 
@@ -22,10 +27,6 @@ Labels: mycelium, engineering, Splectrum
 
 # Notes
 
-## Storyline
-
-### 1. Opening
-- Thread from splectrum engineering post (May 16) — three pillars introduced there
 - All three pillars are fabric implementations: reality (data), language, process (persona)
 - The design: visible data state, processes operating on state, meaningful languages connecting them
 - Mycelium is the base — the engineering foundation, fabric for data state repositories

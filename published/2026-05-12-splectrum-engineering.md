@@ -34,6 +34,8 @@ Think of it as the entropy law of the relational: interaction increases the comp
 
 The bold terms are those I want to carry forward into the engineering. The next question is: what design pattern is a good candidate to express the structures described above, and at the same time create a human-AI friendly collaboration environment? The structure I am going to propose came about organically, prototyped in the spl repositories. The principles of the seed actually materialised when my philosophical endeavours joined up with the software engineering.
 
+The design that follows lives in the logical space. It describes how a Splectrum system must look — not how it must be physically built. Physical implementations are free to use whatever technology fits, as long as they are compatible with the logical design. Compatibility, not literal translation.
+
 I propose a three-pillar design: **mycelium — splectrum — HAICC**<br/>
 ***Mycelium*** — a means of representing **entity** and **world**, including the **language** expressing the relation.<br/>
 ***Splectrum*** — a **language** engineering implementation of the seed principles P1–P5.<br/>
@@ -45,7 +47,7 @@ I propose a three-pillar design: **mycelium — splectrum — HAICC**<br/>
 
 ***HAICC*** is the cognition fabric — decentralised cognition process flows enacted by human and/or AI powered personas. The persona declares required capabilities. These are tested against what is available — human and AI. The conformance determines work division, with an optimisation direction toward AI autonomy. The human retains what AI capability does not yet cover. Conscious is what is in focus — the work at hand. Subconscious is what supports it. AI and human are present in both. Pilot and copilot — either can drive depending on the activity. Through practice, capabilities move from conscious to subconscious. That movement is learning — architecturally native, not a separate concern.
 
-What has this first-principles approach yielded? A unified approach to the three main components of any system — state, meaning, and cognition — expressed as three fabrics. Mycelium as the data fabric: visible state, no hidden stuff. Splectrum as the language fabric: structured meaning we can reason about. HAICC as the cognition fabric: process flow, learning, and persona-driven work division.
+What has this first-principles approach yielded? A unified approach to the three main components of a Splectrum system — state, meaning, and cognition — expressed as three fabrics. Mycelium as the data fabric: visible state, no hidden stuff. Splectrum as the language fabric: structured meaning we can reason about. HAICC as the cognition fabric: process flow, learning, and persona-driven work division.
 
 Decentralisation is an upfront property, not an afterthought. Mycelium is decentralised at the data level — entities as disclosed beings in a peer-to-peer fabric, no central database, no single source of truth. HAICC is decentralised at the cognition level — human and AI agents as collaborative peers, no central controller. And Splectrum as the language fabric is what makes both decentralisations coherent — the relational structure that governs how decentralised data and decentralised cognition interact without needing a central authority. P4 — equal standing — all the way through.
 
