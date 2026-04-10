@@ -103,6 +103,9 @@ The major transitions arrive roughly an order of magnitude faster than the last:
 - ~5,000 years ago — writing, civilisation
 - ~500 years ago — print, scientific revolution
 - ~50 years ago — electronic exchange, computation
+- ~5 years ago — artificial intelligence
+
+This leads to the false feeling that things only go faster, but that is not the case. We interact more, it is the clock that is ticker faster.
 
 Each interval roughly a tenth of the previous one. The curve compresses. Not by accident — each transition produces the conditions for the next one to happen faster.
 

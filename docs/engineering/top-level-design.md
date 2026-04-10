@@ -16,9 +16,9 @@ If the seed holds, the engineering that grows from it should look like how reali
 
 P0 — being implies language — yields three inseparable aspects. These become the three pillars of the engineering: state, meaning, and cognition. Three fabrics, not three layers. Aspects of the same thing.
 
-### Mycelium — Where Things Exist
+### Mycelium — Data and Data Change
 
-The data fabric. The substrate. Structure, records, contexts, metadata, traversal. Everything encoded as information. The subject never touches the data world directly — only through the mycelium interface.
+The physical layer. Data and data change — carrier, substrate, structure, transitions. Records, contexts, metadata, traversal, and the processes that transform data state. Everything encoded as information. The subject never touches the data world directly — only through the mycelium interface.
 
 Mycelium is decentralised at the data level. No central database, no single source of truth. Subject realities within git repositories. What actually exists is always mycelium fabric expressed as subject realities. The totality of data is only a logical totality — the sum of everything across the fabric.
 
@@ -26,9 +26,9 @@ Mycelium hosts both languages (splectrum) and process (HAICC) as facts in its me
 
 Constitutive dependencies: git (identity, history, boundary) and AVRO (schema, conformance, protocol, interface).
 
-### Splectrum — What Languages Are Available and How They Relate
+### Splectrum — Language, Concept and Meaning
 
-The language fabric. Meaning. Splectrum supplies the languages — protocol libraries, schemas, meaning structures. A fabric in its own right, not glue between the other two.
+The logical layer. Meaning languages, concept vocabularies, the mapping surface between them. Splectrum supplies the languages — protocol libraries, schemas, meaning structures. A fabric in its own right, not glue between the other two.
 
 The relational structure that governs how decentralised data and decentralised cognition interact without needing a central authority. P4 — equal standing — expressed as architecture.
 
@@ -42,9 +42,9 @@ P1–P5 as engineering:
 
 Natural language as the carrier language. AI makes this operational. Ambiguity at the fringes is generative — where new meaning enters.
 
-### HAICC — How Process Flows Through Those Languages
+### HAICC — Activity, Structured Process, Models
 
-The cognition fabric. Human-AI Creative Collaboration. How process flows through languages while maintaining genuine human partnership.
+The activation layer. Activity, structured process flows, and process models — the cognition that resolves logical against physical, operating through languages while maintaining genuine human partnership.
 
 The persona is the operational unit. It declares required capabilities. These are tested against available capabilities — human and AI. The conformance determines work division. Optimisation direction: toward AI autonomy. The human retains what AI capability does not yet cover.
 
@@ -88,8 +88,11 @@ The full set of commitments is maintained in [Design Commitments](design-commitm
 
 | Document | What it covers |
 |----------|---------------|
-| **[Mycelium Fabric](mycelium/)** | The static architecture. Records, contexts, metadata, traversal, the boundary |
-| **Mycelium Process** | The dynamic layers. Trigger model, process layer, core API, protocol libraries |
+| **[Mycelium](mycelium/)** | The data fabric. Design, boundary, subject reality, constitutive dependencies |
+| **[Fabric](mycelium/fabric)** | The base data structure. Records, contexts, navigation, data APIs |
+| **[Subject Reality](mycelium/subject-reality)** | The git repo as living subject. Boundary, POV, references, self-contained from birth |
+| **[AVRO Design Scope](mycelium/avro-design-scope)** | Constitutive dependency. Schema, conformance, protocol, interface |
+| **[Git Design Scope](mycelium/git-design-scope)** | Constitutive dependency. Historicity, identity, boundary, decentralised exchange |
 
 ### Open
 

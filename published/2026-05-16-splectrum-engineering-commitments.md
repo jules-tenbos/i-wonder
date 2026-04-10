@@ -20,6 +20,14 @@ And it is self-testing. You don't need an external judge. You feel the friction 
 
 ---
 
+## The design lives in the logical space
+
+The architecture describes how a Splectrum system must look — not how it must be physically built. Mycelium is the physical carrier. Splectrum is the logical meaning. HAICC is the activation that resolves one into the other. Physical implementations are free to use whatever technology fits, as long as they are compatible with the logical design. Compatibility, not literal translation.
+
+Physical implementation is JIT — it goes only as far as capability requires. Where there is no need, there is no implementation. Large parts of the logical design may have no physical counterpart because the capability hasn't been called for yet. The gap is not a deficit. It is the natural state of a design that materialises through use. This is not MVP with a roadmap — MVP presumes a known target and plans the path toward it. JIT implementation doesn't presume what's needed next. The logical design is complete. The physical emerges when need arises.
+
+---
+
 ## What falls out of P0
 
 P0 says being implies language. Being comes into existence through the act of differentiation — the boundary expresses the differentiation. Three commitments fall directly from this.
