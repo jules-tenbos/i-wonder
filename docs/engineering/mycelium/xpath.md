@@ -63,6 +63,10 @@ The metadata dimension maps directly to protocol visibility: datauri sees data t
 | put | key-values | key-values |
 | remove | keys | key-values |
 
+## Serialization
+
+Operations are bulk — arrays of key-value records. Serialization uses AVRO containers. Every get returns a container. Every put accepts a container.
+
 ## Design Principles
 
 - **Protocol as context** — "get, in the context of datauri." The context shapes the behaviour.

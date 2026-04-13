@@ -15,6 +15,8 @@ Constitutive dependencies: git (identity, history, boundary) and AVRO (schema, c
 - [Layers](layers) — layered data access, read modes, synchronisation, safe mode
 - [Protocol](protocol) — meaning context for operations, resolution envelope
 - [Subject Reality](subject-reality) — the git repo as living subject: boundary, POV, references, self-contained from birth
+- [Mutability](mutability) — the interrogative protocol: regime discovery, replication characteristics
+- [Mutable](mutable) — the operational protocol: living surfaces from immutable queues
 - [AVRO Design Scope](avro-design-scope) — constitutive dependency alongside git: schema, conformance, type system, resolution
 - [Git Design Scope](git-design-scope) — constitutive dependency alongside AVRO: historicity, identity, boundary, decentralised exchange
 
