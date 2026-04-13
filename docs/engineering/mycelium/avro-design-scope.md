@@ -50,6 +50,42 @@ This is architecturally active:
 
 The carrier/meaning discovery is itself an instance of simplification by discovery. The namespace was always present in AVRO. The carrier/meaning distinction was always present in the architecture. They are the same thing read through the Splectrum lens. Nothing was added. Something was discovered.
 
+## Type System and Resolution
+
+### Physical and Logical Types
+
+Physical types carry data structure — the data schema says what's there. Logical types declare functional capability — what can be done with it. The physical carries. The logical activates. AVRO carries both dimensions simultaneously on the same type definition. A single schema identifier IS both concept (physical structure) and protocol operation (logical capability). Not two separate things — one definition with two dimensions, both always present.
+
+"Put it there" — put is an operation (logical type). "What is put?" — put is data (physical type). Same AVRO identifier, both dimensions coexist. Self-description is built in: every operation is both invokable and queryable.
+
+### Type Resolution on Axes
+
+Physical types resolve within data scope — forward-looking from process POV into self and descendants. Logical types resolve on the ancestor axis — from process POV up to subject reality root. The carrier/meaning split expressed as axis selection.
+
+A logical type is discovered on the ancestor axis. What it produces is a physical schema that lands in the data scope.
+
+### Protocol and Concept
+
+Protocol is the meaning context for operations. Concept is the meaning context for data schemas. Both under mycelium — `spl.mycelium.protocol` and `spl.mycelium.concept`. Same carrier/meaning pattern, same "readable as" mechanism. Protocol flavours generic operations (get, put, remove). Concept flavours generic data structures (table, record, list). A table in natural language, a table in prehistoric times, in Victorian times — different schema flavours, all readable as a natural language table.
+
+### Versioning as Resolution
+
+Versioning is metadata, not name. Traditional rigid compatibility modes are replaced. Compatibility becomes: does a functional implementation exist that can read this data? Not a policy — a discovery.
+
+Resolution modes:
+- **Latest** — highest version, input must conform to latest schema.
+- **Adaptive** — highest version whose reader schema can read the provided input. The data determines which implementation handles it.
+
+Header metadata annotates the handler identified — full traceability.
+
+Degradation as two-stage resolution:
+1. **Same logical type** — is there a version that can read this input?
+2. **Alternative logical type** — if not, which alternative logical type handles this? Exception processing of any kind.
+
+Compatibility extended to states of deficiency. Exception handling becomes orthogonal — just more logical types available for resolution. No try-catch chains. Scalable and easy to set up.
+
+Explicit version request tests only that version. Failure goes to exception mode — no fallback chain. Max version as context metadata constrains the adaptive range without hiding what's available.
+
 ## Design Areas
 
 ### 1. Schemas in Fabric Metadata

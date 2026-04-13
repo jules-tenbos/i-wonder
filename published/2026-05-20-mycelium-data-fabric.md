@@ -26,9 +26,37 @@ As with the whole Splectrum design, the fabric describes how data must look — 
 
 Processes live in the fabric alongside the data — embedded in context metadata, dormant until a data state change wakes them. No orchestration. The data state is the relay. Schema is the contract between a record and the process that operates on it — a process concern, not a fabric concern. The process declares what it needs through its reader schema. The data either conforms or it doesn't.
 
-Properties such as structured data access, mutability, and referencing are implemented in separate protocol layers on top of the base. The data API at the base level uses XPath syntax for addressing and querying — I am going to do a separate post on the base layer data APIs. These protocol layers are where the fabric grows in capability without changing the base. The base stays minimal, universal, unchanged. Everything above it is articulation.
+Properties such as structured data access, mutability, and referencing are implemented in separate protocol layers on top of the base. The data protocols at the base level use XPath syntax for addressing and querying — I am going to do a separate post on the base layer data protocols. These protocol layers are where the fabric grows in capability without changing the base. The base stays minimal, universal, unchanged. Everything above it is articulation.
 
 <small>This post is part of the [mycelium series](/search/label/mycelium). More on mycelium in the <a href="https://jules-tenbos.github.io/in-wonder/engineering/mycelium/">mycelium area of the reference library</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@chiara_01">chiara_01</a> / Unsplash</small>
+
+<!-- CHANGE NOTES (ref lib update 2026-04-13)
+
+Fabric ref page rewritten — scoped to static structure only:
+
+ON FABRIC PAGE:
+- The primitive (record + context)
+- The metadata dimension (underscore prefix, cascading subtrees, portability)
+- Records (immutable/dirty, projections)
+- Mycelium context (structure is behaviour, metadata embedding of higher-level elements)
+- Point of view, references, addressing (context for how fabric fits the bigger picture)
+- Layering (mention — detail on future mycelium.fabric.layering page/post)
+
+MOVED OUT to new pages:
+- Message shape and fabric schemas → schema page
+- 6 data protocols (3 opaque + 3 schema-aware) → xpath page
+- Traversal mechanics → xpath page
+- Flat contexts → xpath page (query result shape)
+- Layers detail (read modes, synchronisation, safe mode, replication) → layering page
+- Interaction modes (data state propagation) → layering page
+- Node self-containment → meaning layer
+- Security model, "what fabric does not do" → removed from fabric scope
+
+POST IMPACT:
+- Post says "I am going to do a separate post on the base layer data APIs" — still valid, now 6 contexts not 3
+- Fabric basics in post (primitive, structure is behaviour, immutability, projections) still accurate
+- Metadata dimension, metadata embedding, references are new ref lib depth not in post
+-->

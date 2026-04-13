@@ -99,9 +99,22 @@ Two dependencies. Git for boundary, AVRO for articulation. Together with the fab
 - Library on need — architecture of absence applied to the dependency graph. What you don't import doesn't exist as a dependency
 - The architecture meets implementation with zero gap. Prototyping against the real mechanism from day one
 
-### 8. Close
+### 8. Type system — physical and logical on one identifier
+- AVRO carries both dimensions simultaneously. A single schema identifier IS both concept (physical structure) and protocol operation (logical capability). Not two readings — one definition with two dimensions
+- "Put it there" — put is operation (logical). "What is put?" — put is data (physical). Same identifier, both always present
+- Physical types resolve in data scope (forward-looking). Logical types resolve on ancestor axis (upward). Carrier/meaning split expressed as axis selection
+- Protocol is meaning context for operations. Concept is meaning context for data schemas. Both under mycelium, same "readable as" mechanism
+
+### 9. Versioning as resolution
+- Rigid compatibility replaced. Compatibility becomes: does a functional implementation exist that can read this data?
+- Adaptive resolution: highest version whose reader schema can read the input. The data determines which implementation handles it
+- Two-stage degradation: same logical type first, then alternative logical type (exception handling). Exception handling is orthogonal — just more logical types available
+- Explicit version request tests only that version. Failure goes to exception mode
+- Max version as context metadata constrains adaptive range. Versioning is advisory, not a gate
+
+### 10. Close
 - Two external dependencies: git for boundary, AVRO for articulation. Together with the fabric primitives, that is the full substrate
-- The discoveries — carrier/meaning, RPC as boundary, three-level opacity, dynamic namespace — were not designed. They were found when the architecture met the specification
+- The discoveries — carrier/meaning, RPC as boundary, three-level opacity, dynamic namespace, type system, versioning as resolution — were not designed. They were found when the architecture met the specification
 - Simplification by discovery. The goal was not to add AVRO to mycelium but to discover how much of mycelium was already AVRO
 
 ---

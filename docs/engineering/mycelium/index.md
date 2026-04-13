@@ -10,9 +10,12 @@ The git repository is the hard boundary — a distinct entity with its own ident
 
 Constitutive dependencies: git (identity, history, boundary) and AVRO (schema, conformance, protocol, interface).
 
-- [Fabric](fabric) — the base data structure: immutable key-value records, path addressing, XPath querying, data APIs
+- [Fabric](fabric) — the static substrate: records, contexts, metadata dimension
+- [XPath](xpath) — addressing, traversal, data protocols
+- [Layers](layers) — layered data access, read modes, synchronisation, safe mode
+- [Protocol](protocol) — meaning context for operations, resolution envelope
 - [Subject Reality](subject-reality) — the git repo as living subject: boundary, POV, references, self-contained from birth
-- [AVRO Design Scope](avro-design-scope) — constitutive dependency alongside git: schema, conformance, protocol, interface
+- [AVRO Design Scope](avro-design-scope) — constitutive dependency alongside git: schema, conformance, type system, resolution
 - [Git Design Scope](git-design-scope) — constitutive dependency alongside AVRO: historicity, identity, boundary, decentralised exchange
 
 ---

@@ -2,48 +2,86 @@
 
 # Mycelium Fabric
 
-The base data structure of the mycelium fabric. Structure is behaviour — what you build is how it behaves, what you don't build can't happen. Architecture of absence. No configuration, no flags.
+The static architecture of the mycelium data fabric — what it is made of and how its structure determines behaviour.
+
+Mycelium is a data fabric. It weaves data and process together into process-colocated data structures — structures where the process that operates on data lives alongside the data itself. These structures exist as [git-constituted subject realities](./subject-reality.md) — where [git](./git-design-scope.md) provides the boundary, the memory, and the exchange.
+
+Each subject reality has a partial view of available data. The totality of data is never a physical repository — it is only a logical totality, the sum of everything across the fabric. What actually exists is always fabric expressed as subject realities within git repos.
+
+## The Primitive
+
+The fabric is built from one primitive:
+
+**Record** — a key mapped to content. Content is opaque bytes. The fabric does not interpret it.
+
+**Context** — a bounded area that contains records. Records can themselves be contexts.
+
+This is the entire structural vocabulary. Everything else — behaviour, visibility, process, schema awareness — emerges from how these two elements are arranged and what metadata accompanies them.
+
+## The Metadata Dimension
+
+The single underscore prefix is a structural primitive of the identifier grammar. It opens a metadata subtree — a parallel namespace at any node.
+
+`_server` means: node named `server` in the metadata dimension of the parent. The prefix is the dimension selector, not part of the name.
+
+Each underscore prefix opens a new subtree. Cascading: `blog/_server/_process` is three trees:
+- `blog` — data tree
+- `_server` — metadata subtree of blog
+- `_process` — metadata subtree of server
+
+### Portability
+
+Metadata subtrees are structurally identical to any other tree. Mount with prefix — metadata. Mount without — data. Full subtrees are portable: lift and shift. Can be developed as standalone repos and mounted via references.
 
 ## Records
 
-Key-value records. Content is opaque bytes — the fabric does not interpret content. Any data, any language, any process can sit on top. The fabric is universal by design.
+### Immutable and Dirty
 
-Records are immutable — once written, they do not change. A record that is part of an open transaction is dirty and can still change. When the transaction closes, the record becomes immutable. The source of truth is always immutable records.
+Base-layer mycelium has two types of records:
 
-## Contexts
+**Immutable** — settled, permanent, referenceable. A complete fact that arrives whole and stays whole. Immutable records are the source of truth.
 
-A node in the tree becomes a context when metadata nodes are added to it. The context is where behaviour lives — process definitions, schemas, language declarations. All embedded in the metadata, all discoverable during traversal.
+**Dirty** — in-flight, part of an open transaction, can change. Dirty records serve as working space during a transaction and become immutable when the transaction closes. The consensus mechanism is pluggable — a simple local commit or a full blockchain protocol. Open state before consensus, settled state after.
 
-## Navigation
+### Mutable Structures as Projections
 
-Path addressing navigates the data tree. Addressing is always local — mycelium hides referencing. The subject sees only local paths, never remote locations.
+Mutable structures — tables, indexes, document libraries — are created by mycelium-native process that reads immutable data change records and maintains projections. Projections exist for practical work but are never the source of truth. They can be discarded and rebuilt from the immutable records.
 
-XPath provides querying capability across the tree structure.
+## Mycelium Context
 
-## Mutable Structures
+A fabric node with embedded metadata is a mycelium context. It is the reference point for embedded metadata artefacts — processes, schema definitions, behavioural rules. Contexts cascade: inner context overrides outer. Definitions reside closest to their realisation.
 
-Mutable structures — tables, indexes, document libraries — are projections maintained by embedded processes. They are not primary data. You can throw them away and rebuild them from the immutable base.
+### Structure Is Behaviour
 
-## What sits on top
+There are no flags. There is no configuration. A context with a bin has soft delete. What you build is how it behaves. What you don't build doesn't exist as a possibility.
 
-Everything beyond records, contexts, and navigation is higher-level mycelium functionality built on top of the fabric:
+This is the architecture of absence. Desirable properties emerge from what is not present rather than from what is policed.
 
-- Data referencing structures — read-only references, shared write with record-level ownership
-- Data-specific metadata — provenance, historicity, and other enrichment
-- Access interfaces — different data access styles exposed on the fabric
-- Schema contracts — a process concern, the record-process contract. Not a fabric concern
+### Metadata Embedding
 
-## Subject dynamic
+Higher-level structural elements — processes, schema definitions, behavioural rules, layer declarations — are embedded in context metadata. The fabric carries them as part of its structure. Their interpretation and activation is a concern of the layers above, but their presence in the fabric is structural.
 
-Processes are triggered by data state, not by orchestration. The data state drives progression. Schema is a process concern — the contract between a record and the process that operates on it. The process declares what it needs through its reader schema. The data either conforms or it doesn't.
+## Point of View
 
-## Data APIs
+The working directory sets the point of view. POV determines what you can see and how you identify it. Resources are relative to POV — paths go forward, never backward above POV. The subject sees the fabric from where it stands.
 
-Three APIs are planned on the fabric, each serving a different access pattern:
+Protocol operations are root-relative — all available operations are accessible regardless of where the point of view is set. What changes with POV is visibility and identity, not capability.
 
-- **Data** — structured data access
-- **Metadata** — fabric metadata access
-- **Raw** — direct byte-level access
+## References
+
+References bring remote resources into view by creating a local identity. They are read-only — modification uses copy-on-write to the local context. Read wide, write local.
+
+The graph of references defines the reachable set from any point of view. No reference, no access. Structure determines visibility, not permissions. There is no hidden data accessible through special privilege — only data that is or is not in your reachable set.
+
+## Addressing
+
+Addressing follows from ownership. The subject reality that creates data owns it, identified by the repo's unique endpoint. Cross-references from other realities trace back to the originating identifier. Fully decentralised, no central registry.
+
+Within a subject, XPath-style addressing navigates contexts, accesses records, and reaches metadata through one uniform scheme. The path expression serves as both flat addressing and query.
+
+## Layering
+
+The fabric supports layered data access. At the bottom is the physical layer — raw records and contexts, opaque bytes. Above it, data layers stack with defined read modes, synchronisation modes, and replication. Each layer is declared in context metadata and discovered during traversal. The fabric provides the stacking mechanism and the infrastructure for layer discovery. Specific layer types are defined by the protocol libraries that use them.
 
 ---
 
