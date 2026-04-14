@@ -1,4 +1,4 @@
-[In Wonder - The World of Splectrum](../) > [Bare Runtime](./) > Platform Support
+[In Wonder - The World of Splectrum](../../) > [Engineering](../) > [Bare Runtime](./) > Platform Support
 
 # Bare Platform Support
 

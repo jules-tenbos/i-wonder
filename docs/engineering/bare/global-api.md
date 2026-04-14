@@ -1,4 +1,4 @@
-[In Wonder - The World of Splectrum](../) > [Bare Runtime](./) > Global API
+[In Wonder - The World of Splectrum](../../) > [Engineering](../) > [Bare Runtime](./) > Global API
 
 # Bare Global API
 
