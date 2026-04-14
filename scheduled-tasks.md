@@ -78,3 +78,6 @@ Tasks triggered by post publication. Updated as posts go live.
 
 ## June 16 — One Identifier, Many Dimensions goes live
 - [ ] Draft tweet
+
+## June 20 — Data in Motion goes live
+- [ ] Draft tweet
