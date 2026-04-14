@@ -45,6 +45,6 @@ Tasks triggered by post publication. Updated as posts go live.
 - [ ] Draft tweet
 
 ## May 24 — Mycelium — The Data Fabric goes live
-- [ ] Draft in progress: `drafts/mycelium-data-fabric.md` — storyline agreed, narrative needed
-- [ ] Reference pages: `docs/engineering/mycelium/index.md`, `docs/engineering/mycelium/core.md`
+- [x] Kafka added as third committed language (updated 2026-04-14, pushed to Blogger)
+- [ ] Jules rework needed — review full post against current ref lib state
 - [ ] Draft tweet
