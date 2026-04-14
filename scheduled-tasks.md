@@ -70,3 +70,8 @@ Tasks triggered by post publication. Updated as posts go live.
 - [ ] Update docs/vocabulary.md (identifier point, property bag, defined/applied operator)
 - [ ] Final review of identifier-grammar.md and message.md
 - [ ] Draft tweet
+
+## June 12 — Three Languages goes live
+- [ ] Update docs/vocabulary.md (committed language)
+- [ ] Final review of kafka-design-scope.md
+- [ ] Draft tweet
