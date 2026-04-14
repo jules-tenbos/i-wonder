@@ -56,3 +56,7 @@ Tasks triggered by post publication. Updated as posts go live.
 ## May 28 — The Floor Is Always Solid goes live
 - [ ] Jules review needed
 - [ ] Draft tweet
+
+## May 31 — What the Fabric Knows About Itself goes live
+- [ ] Jules review needed
+- [ ] Draft tweet
