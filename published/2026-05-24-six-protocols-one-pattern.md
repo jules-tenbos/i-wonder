@@ -19,6 +19,8 @@ mycelium.xpath.raw.uri
 ```
 These view are contexts - APIs - on which methods are defined. In Splectrum speak an API is a protocol and the methods are called operators. There are only three operators at this low level: *get*, *put* and *delete*. Again, think key value.
 
+Requesting a single key returns its value as binary — opaque bytes, the fabric primitive. Requesting a subtree — a key whose descendants include other keys — returns an AVRO container. The AVRO container is the uniform serialization envelope: self-describing, carrying its writer schema with the data. At the uri level the container holds tree structure with opaque values. At the schema-aware level it holds content interpreted through discovered schemas. Same container, different depth.
+
 The rationale of data addressing and functionality discovery within Splectrum is as follow. <br/>
 1. the current position in the node from where data is selected is considered the (local) data root '/'. Only the data on self or descendants is visible.
 2. the context of the current position keeps track of the current node as cwd equivalent relative to the (git) repo root. Functionality colocated to the data is resolved along this ancestor axis starting from self (metadata nodes). 

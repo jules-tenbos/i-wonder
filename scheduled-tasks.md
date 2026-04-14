@@ -52,3 +52,7 @@ Tasks triggered by post publication. Updated as posts go live.
 ## May 24 — Six Protocols, One Pattern goes live
 - [ ] Check prototyping paragraph still reflects current state
 - [ ] Draft tweet
+
+## May 28 — The Floor Is Always Solid goes live
+- [ ] Jules review needed
+- [ ] Draft tweet
