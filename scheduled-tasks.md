@@ -65,3 +65,8 @@ Tasks triggered by post publication. Updated as posts go live.
 - [ ] Review/update docs/engineering/mycelium/avro-design-scope.md
 - [ ] Update docs/vocabulary.md (AVRO, carrier/meaning separation, avsc)
 - [ ] Draft tweet
+
+## June 8 — Two Moves goes live
+- [ ] Update docs/vocabulary.md (identifier point, property bag, defined/applied operator)
+- [ ] Final review of identifier-grammar.md and message.md
+- [ ] Draft tweet
