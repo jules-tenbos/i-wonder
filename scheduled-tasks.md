@@ -60,3 +60,8 @@ Tasks triggered by post publication. Updated as posts go live.
 ## May 31 — What the Fabric Knows About Itself goes live
 - [ ] Jules review needed
 - [ ] Draft tweet
+
+## June 4 — AVRO — The Language of Articulation goes live
+- [ ] Review/update docs/engineering/mycelium/avro-design-scope.md
+- [ ] Update docs/vocabulary.md (AVRO, carrier/meaning separation, avsc)
+- [ ] Draft tweet
