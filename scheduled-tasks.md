@@ -75,3 +75,6 @@ Tasks triggered by post publication. Updated as posts go live.
 - [ ] Update docs/vocabulary.md (committed language)
 - [ ] Final review of kafka-design-scope.md
 - [ ] Draft tweet
+
+## June 16 — One Identifier, Many Dimensions goes live
+- [ ] Draft tweet
