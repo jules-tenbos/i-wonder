@@ -8,7 +8,7 @@ A mycelium repository is a data tree structure in a distributed version control 
 
 The git repository is the hard boundary — a distinct entity with its own identity, history, and integrity. The repository IS the subject's reality. There is no central data world. Only subject realities exist. The totality of data is a logical concept, never a physical repository. Shared reality is produced through shared data state, not through process.
 
-Constitutive dependencies: git (identity, history, boundary) and AVRO (schema, conformance, protocol, interface).
+Mycelium operates at the intersection of three committed languages: AVRO (structure), git (historicity), and Kafka (mobility). Each addresses one orthogonal concern. None is mycelium. Mycelium is where they meet.
 
 - [Fabric](fabric) — the static substrate: identifier points, property bags, contexts
 - [Identifier Grammar](identifier-grammar) — dot/underscore primitives, property bags, namespace resolution, defined vs applied
@@ -19,8 +19,9 @@ Constitutive dependencies: git (identity, history, boundary) and AVRO (schema, c
 - [Subject Reality](subject-reality) — the git repo as living subject: boundary, POV, references, self-contained from birth
 - [Mutability](mutability) — the interrogative protocol: regime discovery, replication characteristics
 - [Mutable](mutable) — the operational protocol: living surfaces from immutable queues
-- [AVRO Design Scope](avro-design-scope) — constitutive dependency alongside git: schema, conformance, type system, resolution
-- [Git Design Scope](git-design-scope) — constitutive dependency alongside AVRO: historicity, identity, boundary, decentralised exchange
+- [AVRO Design Scope](avro-design-scope) — committed language for structure: schema, conformance, type system, resolution
+- [Git Design Scope](git-design-scope) — committed language for historicity: identity, boundary, decentralised exchange
+- [Kafka Design Scope](kafka-design-scope) — committed language for mobility: streaming, the Kafka record, logical type spectrum
 
 ---
 

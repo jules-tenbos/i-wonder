@@ -1,29 +1,10 @@
----
-title: "Kafka — The Streaming Language"
-type: substantial
-status: in-progress
-destinations: engineering
----
+[In Wonder - The World of Splectrum](../../) > [Engineering](../) > [Mycelium](./) > Kafka Design Scope
 
-# Kafka — The Streaming Language
+# Mycelium Kafka — Design Scope
 
-Substantial submission. Kafka as Splectrum's committed language for data mobility. The relationship between logical types and Kafka records. The structural requirements for data in motion and how Kafka fulfils them. The three committed languages and their meeting point in mycelium.
+Kafka is constitutive to mycelium alongside AVRO and git. AVRO provides the language of structure. Git provides the language of historicity. Kafka provides the language of mobility. Mycelium is where the three meet — the fabric, the tree structure, the context model, the protocols. The relational space in which three equal-standing languages interoperate.
 
----
-
-## Three Committed Languages
-
-Mycelium operates at the intersection of three mature, committed languages. Each addresses one orthogonal concern:
-
-**AVRO — structure.** The language of data shape. Schema, serialization, conformance. How data describes itself and how "can I read it as" gets asked.
-
-**Git — historicity.** The language of history. Immutability, branching, commits, the memory gradient. How data remembers and forgets.
-
-**Kafka — mobility.** The language of streaming data. Records, topics, partitions, streaming. How data travels.
-
-None of these is mycelium. Mycelium is where they meet — the fabric, the tree structure, the context model, the protocols. The relational space in which three equal-standing languages interoperate.
-
-These are commitments, not discoveries of necessity. The necessity is at the level of what capabilities are needed — self-describing shape, history with forgetting, streaming with context. The choice of which language fulfils each is Splectrum's commitment. The fit between requirement and commitment is what makes it a good commitment, not what makes it a law. Another framework could commit to different languages for the same structural concerns. P4 — equal standing in potential.
+These are commitments, not discoveries of necessity. The necessity is at the level of what capabilities are needed — self-describing shape, history with forgetting, streaming with context. The choice of which language fulfils each is Splectrum's commitment. The fit between requirement and commitment is what makes it a good commitment, not what makes it a law. P4 — equal standing in potential.
 
 Each language has its own grammar that mycelium conforms to rather than invents. Mycelium does not replace any of them. It does not wrap them in an abstraction that hides their nature. It speaks all three.
 
@@ -39,7 +20,7 @@ A Kafka record is a data bucket in context. Its components:
 - **Offset** — order of arrival. Always meaningful, because every arrival has an order. Whether order matters for the content is a different concern from the fact that arrival order is a fact.
 - **Timestamp** — historicity. The moment of extraction is itself a datum.
 
-This is not Kafka's design choice. These are the structural requirements for data leaving the tree and travelling self-sufficiently. Identity, context carriage, arrival order, historicity, self-description. That the Kafka record fulfils all five is why it is the right commitment for streaming data in Splectrum.
+These are the structural requirements for data leaving the tree and travelling self-sufficiently. Identity, context carriage, arrival order, historicity, self-description. That the Kafka record fulfils all five is why it is the right commitment for streaming data in Splectrum.
 
 ---
 
@@ -51,7 +32,7 @@ Data extracted into a Kafka record is data in motion. It speaks Kafka's language
 
 The mutable protocol sits at the boundary between the two modes. Kafka records arrive — data in motion, enveloped, carrying context. The mutable protocol unpacks them, applies the change, maintains the living surface in the tree. The point where motion becomes rest.
 
-The extraction into Kafka record form does not impose fidelity requirements on context carriage. Memory and forgetting — you carry what you choose. Headers can carry full provenance, partial provenance, or none. If origin coordinates are carried, the data can travel a long transformation chain and still find its way home — repositioned exactly where it came from, or identified as a clone. If not carried, it can't. The architecture makes both possible. No imposition.
+The extraction into Kafka record form does not impose fidelity requirements on context carriage. Memory and forgetting — you carry what you choose. Headers can carry full provenance, partial provenance, or none. If origin coordinates are carried, the data can travel a long transformation chain and still find its way home. If not carried, it can't. The architecture makes both possible. No imposition.
 
 ---
 
@@ -67,7 +48,7 @@ The zero case: `noop`. Data with no transformation story. The logical type exist
 
 Logical types provide context across a range:
 
-**Interpretation** — `splectrum.natural.heidegger` — pure reading context. The payload is what it is. The logical type tells you which language to read it in. You must interpret the data payload as Heidegger speak. Retrospective.
+**Interpretation** — `splectrum.natural.heidegger` — pure reading context. The payload is what it is. The logical type tells you which language to read it in. Retrospective.
 
 **Transformation** — `date`, `decimal` — encoding context. The payload is a physical type. The logical type names the mapping between raw form and meaningful form.
 
@@ -75,23 +56,19 @@ Logical types provide context across a range:
 
 All three are natural Kafka records. The envelope is indifferent to whether its content is contemplative or imperative. The distinction between event and command is a concern within particular language games, not a structural constraint on the record.
 
----
-
-## Every Logical Type as Kafka Record
-
-The challenge: can you think of a logical type that would not make sense as a Kafka record?
-
-`decimal` — value is bytes, headers carry precision and scale, logical type names the encoding transformation. Natural fit.
-
-`date` — value is an int, logical type names the "days since epoch" interpretation, which is also the transformation that produced the int. Natural fit.
-
-Splectrum meaning languages — value is text, logical type names the language that produced it, headers carry concept vocabulary. Natural fit.
-
-Action types — value carries the operation payload, logical type names the intent, headers carry arguments. Natural fit.
-
-A bare physical type without any logical type — data that hasn't entered any language game. This wouldn't be in the fabric, because being in the fabric already means being in context.
+### Every Logical Type as Kafka Record
 
 The isomorphism holds: every logical type declares a context that maps naturally onto the envelope structure of data in motion. The Kafka record is the necessary and sufficient form for data entering the streaming language.
+
+`decimal` — value is bytes, headers carry precision and scale, logical type names the encoding transformation.
+
+`date` — value is an int, logical type names the "days since epoch" interpretation.
+
+Splectrum meaning languages — value is text, logical type names the language that produced it, headers carry concept vocabulary.
+
+Action types — value carries the operation payload, logical type names the intent, headers carry arguments.
+
+A bare physical type without any logical type — data that hasn't entered any language game — wouldn't be in the fabric, because being in the fabric already means being in context.
 
 ---
 
@@ -117,7 +94,7 @@ The Kafka record is indifferent to this. It doesn't know if its value is four by
 
 This gives subject reality replication, migration, and cloning a natural expression. A subject reality travelling between nodes is a Kafka record. No special protocol needed. The streaming language already handles it.
 
-Records contain realities that contain records. Same pattern, no privileged level. The recursive self-similarity of the persona model expressed in the streaming language.
+Records contain realities that contain records. Same pattern, no privileged level.
 
 ---
 
@@ -151,4 +128,4 @@ The mutable protocol applies data change records from Kafka queues but the data 
 
 ---
 
-*This document establishes Kafka as Splectrum's committed language for data mobility — alongside AVRO for structure and git for historicity. The Kafka record is the necessary form for data in streaming context, fulfilling structural requirements that any extraction into motion must meet. Mycelium is where the three committed languages meet.*
+*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*
