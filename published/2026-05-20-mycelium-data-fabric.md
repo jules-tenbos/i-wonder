@@ -16,7 +16,7 @@ Git gives reality operations for free. Clone — spawn a new subject reality, co
 
 Git makes the subject reality portable. A repository can go into quiescence — completely dormant, switched off, moved anywhere — and reactivate where it left off. Everything needed to resume is embedded: data state, process definitions, referential structure, history. This is not a backup-and-restore pattern. It is a living subject going quiet and waking up. The same mechanism serves hot standby — a clone tracking the active reality, ready to take over. It serves peer-to-peer exchange — subjects moving between environments without losing identity. It serves disaster recovery — the repo is the recovery unit, self-contained by design.
 
-Git is snapshot-based — commit, store, done. It has no concept of continuous flow, and for streaming or high-volume operational data it is ill suited. But git isn't asked to be a database. It is asked to be a container for a fabric. Git holds the structure, the references, the embedded process definitions, the historicity. The data itself can live elsewhere. The scene is local, the resources can be anywhere. Git and AVRO are the two constitutive technology dependencies with deep integration into the fabric. The platform dependencies — bare and pear — are to come.
+Git is snapshot-based — commit, store, done. It has no concept of continuous flow, and for streaming or high-volume operational data it is ill suited. But git isn't asked to be a database. It is asked to be a container for a fabric. Git holds the structure, the references, the embedded process definitions, the historicity. The data itself can live elsewhere. The scene is local, the resources can be anywhere. Git, AVRO and Kafka are the three committed languages with deep integration into the fabric. Git provides historicity. AVRO provides structure — schema, conformance, the language of articulation. Kafka provides mobility — data in motion, streaming, the envelope for when the tree travels. The platform dependencies — bare and pear — are to come.
 
 The fabric is built from one primitive: an immutable key-value record with opaque bytes in the value. Why opaque? Because the fabric doesn't interpret content. Any data, any language, any process can sit on top. The fabric is universal by design. A node in the tree becomes a context when metadata nodes are added to it. The context is where behaviour lives — process definitions, schemas, language declarations. All embedded in the metadata, all discoverable during traversal.
 
@@ -59,4 +59,11 @@ POST IMPACT:
 - Post says "I am going to do a separate post on the base layer data APIs" — still valid, now 6 contexts not 3
 - Fabric basics in post (primitive, structure is behaviour, immutability, projections) still accurate
 - Metadata dimension, metadata embedding, references are new ref lib depth not in post
+
+UPDATE 2026-04-14:
+- Added Kafka as third committed language alongside git and AVRO
+- "Two constitutive technology dependencies" → "three committed languages"
+- Ref lib now has identifier-grammar, message, and kafka-design-scope pages
+- Protocol hierarchy restructured from flat names to tree (xpath.data.uri.get etc.)
+- Fabric primitive deepened in ref lib (identifier points + property bags) — post-level description unchanged
 -->
