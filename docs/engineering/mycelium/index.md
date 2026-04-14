@@ -10,10 +10,12 @@ The git repository is the hard boundary — a distinct entity with its own ident
 
 Constitutive dependencies: git (identity, history, boundary) and AVRO (schema, conformance, protocol, interface).
 
-- [Fabric](fabric) — the static substrate: records, contexts, metadata dimension
-- [XPath](xpath) — addressing, traversal, data protocols
+- [Fabric](fabric) — the static substrate: identifier points, property bags, contexts
+- [Identifier Grammar](identifier-grammar) — dot/underscore primitives, property bags, namespace resolution, defined vs applied
+- [XPath](xpath) — addressing, traversal, protocol namespace hierarchy
 - [Layers](layers) — layered data access, read modes, synchronisation, safe mode
-- [Protocol](protocol) — meaning context for operations, resolution envelope
+- [Protocol](protocol) — meaning context for operations, defined and applied operators
+- [Message](message) — the tree in motion: Kafka record onion, headers, dispatch, noop
 - [Subject Reality](subject-reality) — the git repo as living subject: boundary, POV, references, self-contained from birth
 - [Mutability](mutability) — the interrogative protocol: regime discovery, replication characteristics
 - [Mutable](mutable) — the operational protocol: living surfaces from immutable queues

@@ -38,41 +38,44 @@ This makes subtrees completely portable — data and functionality. A subtree's 
 
 The default navigation of the tree is from context node to context node, flattening all simple (non-context) nodes. The query syntax does not change — what changes is the shape of the result set: flat or hierarchical. A node whose interior has no contexts returns a flat list. A node with nested contexts returns structure.
 
-## Data Protocols
+## Protocol Namespace Structure
 
-Six protocol contexts, all fabric. Three opaque, three schema-aware. Same three operations across all six: get, put, remove.
+The data protocols form a tree hierarchy under xpath. Three visibility domains — `data`, `metadata`, `raw` — each with two levels of access: `uri` (opaque) and direct (schema-aware). Operations — `get`, `put`, `delete` — are [defined operators](identifier-grammar#defined-vs-applied-operators) in the tree, part of each protocol's identity.
 
-| Protocol | Visibility | Content |
-|-----|-----------|---------|
-| datauri | data nodes | opaque bytes |
-| metadatauri | metadata nodes | opaque bytes |
-| rawuri | all nodes | opaque bytes |
-| data | data nodes | schema-interpreted |
-| metadata | metadata nodes | schema-interpreted |
-| raw | all nodes | schema-interpreted |
+```
+xpath.data.uri.get       xpath.metadata.uri.get       xpath.raw.uri.get
+xpath.data.uri.put       xpath.metadata.uri.put       xpath.raw.uri.put
+xpath.data.uri.delete    xpath.metadata.uri.delete    xpath.raw.uri.delete
+xpath.data.get           xpath.metadata.get           xpath.raw.get
+xpath.data.put           xpath.metadata.put           xpath.raw.put
+xpath.data.delete        xpath.metadata.delete        xpath.raw.delete
+```
+
+Every level is the same definitional move. `xpath` defines three visibility domains. Each domain defines `uri` as an opaque sub-protocol. Both the domain and the sub-protocol define `get`, `put`, `delete` as operators. The schemas at each node distinguish sub-protocol from operator.
+
+| Domain | Visibility | URI level | Direct level |
+|--------|-----------|-----------|-------------|
+| data | data nodes | opaque bytes | schema-interpreted |
+| metadata | metadata nodes | opaque bytes | schema-interpreted |
+| raw | all nodes | opaque bytes | schema-interpreted |
 
 The uri level is purely structural — navigate, retrieve, place, remove. The schema-aware level adds content interpretation through discovered schemas. Both are base layer / fabric.
 
 Separation is structural: data for data nodes only, metadata for metadata nodes only, raw for all nodes. No mixing of concerns.
 
-The metadata dimension maps directly to protocol visibility: datauri sees data trees, metadatauri sees metadata subtrees, rawuri sees everything.
-
-| Operation | Input | Output |
-|-----------|-------|--------|
-| get | keys | key-values |
-| put | key-values | key-values |
-| remove | keys | key-values |
+[Applied operators](identifier-grammar#defined-vs-applied-operators) — `_is`, `_noop`, and whatever base interface emerges — are in property bags at any identifier point. They compose through the schema inheritance mechanism, not through the tree.
 
 ## Serialization
 
-Operations are bulk — arrays of key-value records. Serialization uses AVRO containers. Every get returns a container. Every put accepts a container.
+Operations are bulk — arrays of key-value records. Serialization uses AVRO containers. Every get returns a container. Every put accepts a container. The [message](message) carries these as Kafka records — headers for intent, value for result.
 
 ## Design Principles
 
-- **Protocol as context** — "get, in the context of datauri." The context shapes the behaviour.
+- **Protocol as tree** — the protocol hierarchy makes structural relationships explicit. No compound names hiding structure.
 - **Raw is full visibility** — the unfiltered physical reality. Data and metadata are lenses.
 - **Opaque at uri level** — purely structural.
-- **Structure is behaviour** — resolution envelope as schema fact. No configuration, no flags.
+- **Defined operators in the tree** — `get`, `put`, `delete` are part of the protocol's identity, dot-navigated.
+- **Applied operators in property bags** — universal capabilities like `_is` are underscore-navigated, schema-namespaced.
 - **Bulk only** — no singular case.
 
 ---

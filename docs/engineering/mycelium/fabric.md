@@ -10,28 +10,30 @@ Each subject reality has a partial view of available data. The totality of data 
 
 ## The Primitive
 
-The fabric is built from one primitive:
+The fabric is an [identifier structure](identifier-grammar) with property bags attached to it. Nodes are not files or folders — they are identifier points. Everything a node *has* is properties in bags.
 
-**Record** — a key mapped to content. Content is opaque bytes. The fabric does not interpret it.
+**Identifier point** — a position in the tree, addressed by its path. The key is the address.
 
-**Context** — a bounded area that contains records. Records can themselves be contexts.
+**Property bag** — a context at an identifier point, with an AVRO schema assigning namespace to the properties within it. The properties are the reality.
 
-This is the entire structural vocabulary. Everything else — behaviour, visibility, process, schema awareness — emerges from how these two elements are arranged and what metadata accompanies them.
+**Context** — a bounded area that contains identifier points. Identifier points can themselves be contexts.
+
+This is the entire structural vocabulary. Everything else — behaviour, visibility, process, schema awareness — emerges from how these elements are arranged and what metadata accompanies them. Content is a property whose schema namespaces it as content. Metadata is a property whose schema namespaces it as metadata. The fabric does not know the difference. The schemas do.
 
 ## The Metadata Dimension
 
-The single underscore prefix is a structural primitive of the identifier grammar. It opens a metadata subtree — a parallel namespace at any node.
+The underscore is one of two primitives in the [identifier grammar](identifier-grammar). It opens a property bag at the current node — a lateral move, not a deeper one. The bag is *at* the node, not *below* it. Inside the bag, property names get their namespace from the bag's AVRO schema, not from tree position.
 
-`_server` means: node named `server` in the metadata dimension of the parent. The prefix is the dimension selector, not part of the name.
+`_server` means: open the server property bag at the current node. The prefix switches namespace resolution from tree-positional to schema-assigned.
 
-Each underscore prefix opens a new subtree. Cascading: `blog/_server/_process` is three trees:
-- `blog` — data tree
-- `_server` — metadata subtree of blog
-- `_process` — metadata subtree of server
+Each underscore prefix opens a new bag. Cascading: `blog/_server/_process` is three levels:
+- `blog` — identifier point in the tree (dot-navigated)
+- `_server` — property bag at blog (schema-assigned namespace)
+- `_process` — property bag at server (schema-assigned namespace)
 
 ### Portability
 
-Metadata subtrees are structurally identical to any other tree. Mount with prefix — metadata. Mount without — data. Full subtrees are portable: lift and shift. Can be developed as standalone repos and mounted via references.
+Property bags and subtrees are structurally identical to any other tree. Mount with prefix — metadata. Mount without — data. Full subtrees are portable: lift and shift. Can be developed as standalone repos and mounted via references.
 
 ## Records
 

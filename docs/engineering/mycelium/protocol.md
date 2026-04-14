@@ -12,28 +12,21 @@ This is the carrier/meaning split expressed at the operational level. The operat
 
 ## Protocol Operations
 
-Protocol operations have base meanings — get retrieves, put places, remove takes away. These base meanings are flavoured by the protocol context. Each protocol gives its operations the specific meaning appropriate to what the protocol represents. The operation names stay generic. The protocol makes them specific.
+Protocol operations are of two kinds, distinguished by the [identifier grammar](identifier-grammar#defined-vs-applied-operators):
 
-## The Resolution Envelope
+**Defined operators** — `get`, `put`, `delete` — are part of the protocol's identity. They belong in the tree, dot-navigated, namespaced by position. Without them, it is a different protocol. `xpath.data.uri.get` is a defined operator.
 
-Every protocol invocation produces one message:
+**Applied operators** — `_is`, `_noop` — come from outside. They are not part of what makes the node what it is. Any node can be asked `_is`. These belong in property bags, underscore-navigated, namespaced by schema.
 
-```
-envelope {
-  headers {
-    namespace     — resolved protocol namespace
-    logical-type  — as provided
-    execution     — from context metadata (sync | queue | dry-run)
-    debug         — from context metadata (present or absent)
-    pov           — current working directory path
-    trace         — traversal accumulation record
-  }
-  key   — current node path (XPath expression)
-  value — data payload (opaque)
-}
-```
+Defined operators have base meanings — get retrieves, put places, delete removes. These base meanings are flavoured by the protocol context. The operation names stay generic. The protocol makes them specific.
 
-The envelope is an AVRO record. The handler receives it through a single operation: `resolve(envelope) → envelope`. The return envelope carries the result in the same shape. One message shape for invocation and response.
+## The Message
+
+Every protocol invocation produces a [message](message) — a nested Kafka record where headers carry intent and value carries the result. The message is the tree in motion.
+
+Dispatch reads one path: `headers.record.logicalType`. That is the routing key. The handler receives the message and returns the same message enriched with the result. One shape for invocation and response.
+
+Every message is an operator invocation. Pure data transfer is `noop` — a specific operator with `args: null` and a contract that value passes through unchanged. The RPC server has exactly one code path.
 
 ## Protocol Resolution
 
