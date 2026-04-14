@@ -1,3 +1,5 @@
+[In Wonder - The World of Splectrum](../) > [Bare Runtime](./) > Module Catalog
+
 # Bare Module Catalog
 
 All modules available via npm. Streams throughout
@@ -5,8 +7,6 @@ the ecosystem are streamx-based
 (https://github.com/mafintosh/streamx), not Node.js
 streams — this is the most significant API
 difference.
-
-[Back to index](index.md)
 
 ---
 
@@ -172,3 +172,7 @@ See [Module System](module-system.md) and
 
 Module npm versions verified April 2026. Check
 latest: `npm view <module> version`.
+
+---
+
+*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

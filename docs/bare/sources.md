@@ -1,10 +1,10 @@
+[In Wonder - The World of Splectrum](../) > [Bare Runtime](./) > Sources
+
 # Documentation Sources
 
 All external references for the Bare runtime
 ecosystem. Use these to verify information and
 check for updates.
-
-[Back to index](index.md)
 
 ---
 
@@ -107,3 +107,7 @@ done
 
 Module npm versions in this reference verified
 April 2026.
+
+---
+
+*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

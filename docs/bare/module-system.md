@@ -1,9 +1,9 @@
+[In Wonder - The World of Splectrum](../) > [Bare Runtime](./) > Module System
+
 # Bare Module System
 
 Module resolution and loading in Bare, powered by
 bare-module.
-
-[Back to index](index.md)
 
 ---
 
@@ -149,3 +149,7 @@ Methods: `preresolve`, `postresolve`, `resolve`,
 
 **Source:**
 https://github.com/holepunchto/bare-module
+
+---
+
+*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

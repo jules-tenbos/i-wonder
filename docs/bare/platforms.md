@@ -1,6 +1,6 @@
-# Bare Platform Support
+[In Wonder - The World of Splectrum](../) > [Bare Runtime](./) > Platform Support
 
-[Back to index](index.md)
+# Bare Platform Support
 
 ---
 
@@ -79,3 +79,7 @@ Mobile embedding examples:
 ---
 
 **Source:** https://github.com/holepunchto/bare
+
+---
+
+*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

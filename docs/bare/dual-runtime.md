@@ -1,9 +1,9 @@
+[In Wonder - The World of Splectrum](../) > [Bare Runtime](./) > Dual-Runtime Code
+
 # Dual-Runtime Code
 
 Writing code that runs on both Bare and Node.js
 without conditional requires or runtime detection.
-
-[Back to index](index.md)
 
 ---
 
@@ -113,6 +113,10 @@ The runtime detection (`typeof Bare !== 'undefined'`)
 is only needed at the boundary where third-party
 packages are loaded. Your own application code stays
 clean.
+
+---
+
+*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*
 
 ---
 

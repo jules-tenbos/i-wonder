@@ -1,3 +1,5 @@
+[In Wonder - The World of Splectrum](../) > Bare Runtime
+
 # Bare Runtime Reference
 
 Reference for the Holepunch Bare runtime — the
@@ -91,3 +93,7 @@ No script — starts REPL.
 ---
 
 Module npm versions verified April 2026.
+
+---
+
+*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*
