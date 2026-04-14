@@ -1,47 +1,77 @@
-# One Identifier, Many Dimensions — Draft
+---
+title: One Identifier, Many Dimensions
+series: mycelium
+category: engineering
+persona: Splectrum
+status: storyline
+---
 
-Combined draft: ref lib page done (docs/engineering/namespace.md), post notes below.
+# One Identifier, Many Dimensions
+Labels: mycelium, engineering, Splectrum
+
+<img src="IMAGE_URL" alt="ALT" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+
+[post content]
+
+<small>This post is part of the [mycelium series](/search/label/mycelium). More in the <a href="https://jules-tenbos.github.io/in-wonder/engineering/mycelium/">mycelium section of the reference library</a>.</small>
+
+---
+<small>Photo: <a href="https://unsplash.com/@photographer">Name</a> / Unsplash</small>
 
 ---
 
-## Post notes
+# Notes
 
-### Title options
-- One Identifier, Many Dimensions
-- The Name Is the Thing
+## Storyline
 
-### What makes this a post
+### 1. Readable-as, not mapped-to
+- The identifier doesn't point to five different things
+- It IS one thing with five dimensions, each realised when read through the right schema
+- Same pattern as everywhere in Splectrum — multiple readings of the same reality
 
-A single identifier carries an AVRO namespace, a git repo, a logical type, a protocol, a fabric path. Not mapped to each — readable-as each. The "readable as" principle applied to identity itself.
+### 2. Two primitives
+- Dot and underscore — the whole grammar
+- Dot separates namespace segments, underscore opens metadata subtrees
+- AVRO identifiers are underscore-free (namespace dimension only)
 
-### Key angles for narrative
+### 3. The backbone
+- `spl.*` as framework top-level
+- Fabric, layers, xpath, avro, git, process — real structure emerging
+- Not rigid — other top-level nodes can exist. The tree grows from the leaves.
 
-- **Readable-as, not mapped-to** — The identifier doesn't point to five different things. It IS one thing with five dimensions, each realised when read through the right schema. Same pattern as everywhere in Splectrum — multiple readings of the same reality.
+### 4. Identifier mapping
+- Use an identifier sufficient for the context, no more
+- Mapping is decentralised, multi-pass, operating at all scopes
+- All referencing beyond local scope is hidden
+- The execution context carries the mapping state
 
-- **Two primitives** — Dot and underscore. That's the whole grammar. Dot separates namespace segments, underscore opens metadata subtrees. Simple enough to fit in a sentence, powerful enough to structure an entire framework. AVRO identifiers are underscore-free (namespace dimension only).
+### 5. Carrier, not meaning
+- The identifier is opaque until read through a schema
+- Don't impose interpretation at the carrier level
+- The reader determines what each dimension means
 
-- **The backbone** — `spl.*` as framework top-level, with real structure emerging: fabric, fabric.layers, xpath (with data protocols like datauri and data), avro and git as constitutive technologies, process with execution environment. The backbone is not rigid — other top-level nodes can exist. The tree grows from the leaves.
+### 6. Versioning without versions
+- Version is metadata, not name. Advisory to resolution, not a gate.
+- When something diverges beyond "readable as", it's a new namespace node — a new concept
 
-- **Identifier mapping** — use an identifier sufficient for the context, no more. The excess is hidden in addressing logic. Mapping is decentralised, multi-pass, operating at all scopes (fabric relative to cwd, AVRO relative to subject reality, remote references). All referencing beyond local scope is hidden — same as code behind the RPC server. The execution context carries the mapping state.
+### 7. Metadata as ambiguity
+- Metadata is always contextual, always potentially different at every node
+- Same identifier, same version set, different metadata, different resolution behaviour
 
-- **Carrier, not meaning** — the identifier is opaque until read through a schema. Don't impose interpretation at the carrier level (no namespace/key separation). The reader determines what each dimension means.
+## What the namespace is not
+- Not a package manager, not a registry, not a hierarchy of inheritance
+- Not prescribed structure, not rigid, not a carrier of meaning
 
-- **Versioning without versions** — version is metadata, not name. Advisory to the resolution algorithm, not a gate. When something diverges beyond "readable as", it's a new namespace node — a new concept, not a version increment.
-
-- **Metadata as ambiguity** — metadata is always contextual, always potentially different at every node. Same identifier, same version set, different metadata, different resolution behaviour. No fixed rules — what the metadata says where you are.
-
-### What the namespace is not
-
-- Not a package manager — no dependency resolution, no version ranges
-- Not a registry — no central authority, ownership by repo endpoint
-- Not a hierarchy of inheritance — children don't inherit from parents
-- Not prescribed structure — no repo template, no required files, no identity files (the name is the identity)
-- Not rigid — other top-level nodes besides `spl` can exist, internal mapping allows local naming
-- Not a carrier of meaning — no namespace/key separation imposed at identifier level
-
-### Connects to
-
-- Mycelium Data Fabric post — fabric is where the namespace lives structurally
+## Connects to
+- Mycelium Data Fabric — fabric is where the namespace lives structurally
 - AVRO design scope — "readable as" is the AVRO mechanism that makes multiple dimensions work
 - XPath — addressing, traversal, data protocols under the namespace
-- Process/execution — execution context carries mapping state, spl.mycelium.process.execute
+
+---
+
+## Tasks on scheduling
+
+- [ ] Image selection
+- [ ] Write narrative
+- [ ] Schedule on Blogger
+- [ ] Delete draft
