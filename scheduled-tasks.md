@@ -44,7 +44,11 @@ Tasks triggered by post publication. Updated as posts go live.
 ## May 16 — Splectrum Engineering — Commitments goes live
 - [ ] Draft tweet
 
-## May 24 — Mycelium — The Data Fabric goes live
+## May 20 — Mycelium — The Data Fabric goes live
 - [x] Kafka added as third committed language (updated 2026-04-14, pushed to Blogger)
 - [ ] Jules rework needed — review full post against current ref lib state
+- [ ] Draft tweet
+
+## May 24 — Six Protocols, One Pattern goes live
+- [ ] Check prototyping paragraph still reflects current state
 - [ ] Draft tweet
