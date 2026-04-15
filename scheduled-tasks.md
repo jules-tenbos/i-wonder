@@ -78,9 +78,15 @@ Tasks triggered by post publication. Updated as posts go live.
 ## June 6 — I Know That I Don't Know goes live
 - [ ] Draft tweet
 
+## June 10 — Creation and Discovery goes live (discovery series 1/5)
+- [ ] Draft tweet
+
 ## June 8 — Two Moves goes live
 - [ ] Update docs/vocabulary.md (identifier point, property bag, defined/applied operator)
 - [ ] Final review of identifier-grammar.md and message.md
+- [ ] Draft tweet
+
+## June 14 — Diversified Discovery goes live (discovery series 2/5)
 - [ ] Draft tweet
 
 ## June 12 — Three Languages goes live
@@ -88,11 +94,20 @@ Tasks triggered by post publication. Updated as posts go live.
 - [ ] Final review of kafka-design-scope.md
 - [ ] Draft tweet
 
+## June 18 — The Discovery Multiplier goes live (discovery series 3/5)
+- [ ] Draft tweet
+
 ## June 16 — One Identifier, Many Dimensions goes live
+- [ ] Draft tweet
+
+## June 22 — A View from the Perimeter goes live (discovery series 4/5)
 - [ ] Draft tweet
 
 ## June 20 — Data in Motion goes live
 - [ ] Draft tweet
 
 ## June 24 — Decentralised Process Models goes live
+- [ ] Draft tweet
+
+## June 26 — A View from the Perimeter — The Thinking Side goes live (discovery series 5/5)
 - [ ] Draft tweet
