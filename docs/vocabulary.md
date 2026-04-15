@@ -60,6 +60,12 @@ Terms as used within Splectrum. This vocabulary grows as the project develops.
 
 **Emergence** — the appearance of something structurally new that conforms to interaction density crossing a threshold. Not designed, not predicted from below. Not replacement of what came before — layering above it. Transcendence, not revolution.
 
+**Constitutive dependency** — a dependency that is part of the architecture. Forked, barified, maintained locally. Vendored into the runtime repo as a git subtree. As much Splectrum code as any other module.
+
+**Platform dependency** — a dependency that is the platform. Maintained by the platform vendor (Holepunch). Sourced from GitHub, pinned to release tags. Becomes constitutive if it needs modification. The boundary is permeable.
+
+**Barified** — adapted for the Bare runtime. An external module stripped of Node.js assumptions and made compatible with Bare's minimal API surface.
+
 ---
 
 *© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

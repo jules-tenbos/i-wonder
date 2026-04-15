@@ -12,6 +12,7 @@ How Splectrum builds things.
 - [Namespace](namespace) — identifier grammar, dimensions, backbone, mapping
 - [Mycelium](mycelium/) — the data fabric, substrate architecture
 - [Personas](personas/) — the communication channels Splectrum operates through
+- [Implementation](implementation/) — the physical how: repositories, dependencies, supply chain, distribution
 
 ## Technology References
 
