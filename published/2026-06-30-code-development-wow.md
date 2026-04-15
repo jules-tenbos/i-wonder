@@ -1,8 +1,8 @@
-# Code Development — Way of Working
+# Code Implementation — Way of Working
 Labels: engineering, Splectrum
 Blogger-ID: 4542187844106370055
 
-<img src="https://images.unsplash.com/photo-1586863065451-6a82fa7e81b9?q=80&w=350&h=230&auto=format&fit=crop" alt="Code Development — Way of Working" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://images.unsplash.com/photo-1586863065451-6a82fa7e81b9?q=80&w=350&h=230&auto=format&fit=crop" alt="Code Implementation — Way of Working" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
 A portable codebase is one that carries what it needs. Not portable in the sense of running everywhere — portable in the sense that the code you have is the code you run. Nothing fetched at the last moment from a registry you don't control. Nothing resolved at runtime from a source you haven't seen. The supply chain question comes first, because everything downstream depends on it: if you don't control what goes in, you don't control what comes out.
 

@@ -6,7 +6,7 @@ The physical how — repositories, dependencies, supply chain, tooling, distribu
 
 Distinct from the engineering design (what is built and why) and from the philosophical framework (what it means). Implementation is where the design meets the machine.
 
-- [Code Development](code-development) — way of working: repositories, dependencies, supply chain, agent workflow, distribution
+- [Code Implementation](code-development) — way of working: repositories, dependencies, supply chain, agent workflow, distribution
 
 ---
 

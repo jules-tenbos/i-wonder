@@ -1,6 +1,6 @@
-[In Wonder - The World of Splectrum](../../) > [Engineering](../) > [Implementation](./) > Code Development
+[In Wonder - The World of Splectrum](../../) > [Engineering](../) > [Implementation](./) > Code Implementation
 
-# Code Development — Way of Working
+# Code Implementation — Way of Working
 
 How the Splectrum codebase is structured, what it depends on, and how it reaches the peer. A portable, self-contained codebase with no registry in the supply chain.
 
