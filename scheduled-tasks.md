@@ -5,6 +5,7 @@ Tasks triggered by post publication. Updated as posts go live.
 ## Standing tasks
 
 - [ ] Blogger anchor pages (About, Collaborative AI, Splectrum from Seed) should link to the reference library top level: https://jules-tenbos.github.io/in-wonder/ — helps search engines crawl the full extent
+- [ ] Review links in all scheduled posts (May 20 – June 24) — few links were added recently, check for missing cross-references to ref lib and other posts
 
 ---
 
@@ -51,6 +52,11 @@ Tasks triggered by post publication. Updated as posts go live.
 
 ## May 24 — Six Protocols, One Pattern goes live
 - [ ] Check prototyping paragraph still reflects current state
+- [ ] Draft tweet
+
+## May 26 — Mutualism Without Intent goes live
+- [ ] Create positioning ref lib page for mutualism
+- [ ] Update positioning area index
 - [ ] Draft tweet
 
 ## May 28 — The Floor Is Always Solid goes live
