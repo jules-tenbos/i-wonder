@@ -111,3 +111,6 @@ Tasks triggered by post publication. Updated as posts go live.
 
 ## June 26 — A View from the Perimeter — The Thinking Side goes live (discovery series 5/5)
 - [ ] Draft tweet
+
+## June 28 — The Seed and Category Theory — A First Encounter goes live
+- [ ] Draft tweet
