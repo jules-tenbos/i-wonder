@@ -67,9 +67,15 @@ Tasks triggered by post publication. Updated as posts go live.
 - [ ] Jules review needed
 - [ ] Draft tweet
 
+## June 2 — The Physical/Logical Pivot goes live
+- [ ] Draft tweet
+
 ## June 4 — AVRO — The Language of Articulation goes live
 - [ ] Review/update docs/engineering/mycelium/avro-design-scope.md
 - [ ] Update docs/vocabulary.md (AVRO, carrier/meaning separation, avsc)
+- [ ] Draft tweet
+
+## June 6 — I Know That I Don't Know goes live
 - [ ] Draft tweet
 
 ## June 8 — Two Moves goes live
