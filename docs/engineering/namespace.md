@@ -49,6 +49,18 @@ spl.haicc                    — cognitive pillar. Activation fabric.
 
 `spl` is the framework top-level. The backbone is not rigid — other top-level nodes can exist alongside `spl`. Child nodes below these exist as and when needed. A parent namespace need not exist as a repo for its children to exist. The tree grows from the leaves.
 
+## Namespace Trees
+
+The fabric is woven from namespace trees. Every language that participates in the fabric gets its own namespace tree — its own way of organising identity, its own structure for naming what it knows. The three committed languages — AVRO, git, Kafka — are three such trees. The principle extends to any language.
+
+- **Data at rest** — the fabric tree. A navigable structure of dot-paths and nodes, with property bags at each level. Git provides the history dimension. The landscape of data at rest — stable, addressable, structured.
+- **Schema at rest** — AVRO's domain. An AVRO schema assigns namespace to field names. The schema defines what the data is at a given point in the tree. Physical schemas attached at the points where conformance matters.
+- **Data in motion** — Kafka and the protocol namespace. Streaming carries data between locations, between trees, between contexts. The protocol and operator namespace organises what happens with that data.
+
+The pivot between any two trees is the same principle: can this data, structured by one tree, be read as what another tree expects? Schema resolution in AVRO is precisely this — reader schema asks whether the writer schema is readable as what the reader needs. The same test applies between any two namespace structures. One principle, everywhere. Not a mapping table — a structural relationship between languages.
+
+Where the pivot loses something, languages genuinely differ. Every transformation between languages has a loss profile. That is not failure — it is equal standing making itself visible. P4: languages have equal standing in potential. The loss at the pivot is where that difference becomes concrete.
+
 ## Identifier Mapping
 
 Identifiers are mapped at all scopes where they are in play — fabric addressing relative to cwd, AVRO schema resolution relative to subject reality, remote references mapping to external sources. The aim: use an identifier sufficient for the context at hand, but not more. The excess is hidden in the addressing logic.

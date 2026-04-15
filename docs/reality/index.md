@@ -14,6 +14,8 @@ Equal standing has ethical consequences — for how we think about other forms o
 
 This area explores how Splectrum addresses these questions as the conversation deepens.
 
+- [Discovery](discovery) — creation conforms to discovery, diversification, the multiplier
+- [Evolutionary Transitions](evolutionary-transitions) — the curve, the thresholds, the thinking side
 - [Research Directions](research-directions) — formal research emerging from the perimeter view
 
 ---

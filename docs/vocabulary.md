@@ -48,6 +48,18 @@ Terms as used within Splectrum. This vocabulary grows as the project develops.
 
 **Decentralised cognition** — the expansion and distribution of cognitive capacity through AI partnership. Not one central intelligence but cognition spread across human and AI agents, collaborative, peer-to-peer. The applied consequence of HAICC at scale.
 
+**Carrier language** — the language of transmission, structure, format. The vehicle through which meaning travels. Distinguished from meaning language. A carrier does not have to be the meaning — it has to be readable as bearing that meaning.
+
+**Meaning language** — the language of content, significance, what is expressed. Distinguished from carrier language. The same meaning can be carried by different carriers. The same carrier can bear different meanings.
+
+**Readable as** — the pivot principle between physical and logical. A schema does not have to match another schema — it has to be readable as that schema. A carrier does not have to be the meaning — it has to be readable as bearing that meaning. One principle, operating everywhere the fabric pivots between languages.
+
+**Namespace tree** — every language that participates in the fabric gets its own namespace tree — its own way of organising identity, its own structure for naming what it knows. The fabric weaves these trees together. The pivot between any two trees is the readable-as principle.
+
+**Threshold** — in the Splectrum reading, a point where interaction density crosses into something structurally new. Not a break — a transition. Each produces something qualitatively new, not predicted from below, recognisable in hindsight. If the seed holds, the transitions conform to a web, not a ladder — equal standing across levels.
+
+**Emergence** — the appearance of something structurally new that conforms to interaction density crossing a threshold. Not designed, not predicted from below. Not replacement of what came before — layering above it. Transcendence, not revolution.
+
 ---
 
 *© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

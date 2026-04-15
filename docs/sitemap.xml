@@ -2,11 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://jules-tenbos.github.io/in-wonder/</loc></url>
   <url><loc>https://jules-tenbos.github.io/in-wonder/seed</loc></url>
-  <url><loc>https://jules-tenbos.github.io/in-wonder/positioning</loc></url>
+  <url><loc>https://jules-tenbos.github.io/in-wonder/positioning/</loc></url>
+  <url><loc>https://jules-tenbos.github.io/in-wonder/positioning/philosophical-trajectory</loc></url>
+  <url><loc>https://jules-tenbos.github.io/in-wonder/positioning/scientific-positioning</loc></url>
+  <url><loc>https://jules-tenbos.github.io/in-wonder/positioning/being-as-tension</loc></url>
+  <url><loc>https://jules-tenbos.github.io/in-wonder/positioning/mutualism</loc></url>
   <url><loc>https://jules-tenbos.github.io/in-wonder/vocabulary</loc></url>
   <url><loc>https://jules-tenbos.github.io/in-wonder/language/</loc></url>
   <url><loc>https://jules-tenbos.github.io/in-wonder/language/category-theory</loc></url>
   <url><loc>https://jules-tenbos.github.io/in-wonder/reality/</loc></url>
+  <url><loc>https://jules-tenbos.github.io/in-wonder/reality/discovery</loc></url>
+  <url><loc>https://jules-tenbos.github.io/in-wonder/reality/evolutionary-transitions</loc></url>
   <url><loc>https://jules-tenbos.github.io/in-wonder/reality/research-directions</loc></url>
   <url><loc>https://jules-tenbos.github.io/in-wonder/engineering/</loc></url>
   <url><loc>https://jules-tenbos.github.io/in-wonder/engineering/top-level-design</loc></url>

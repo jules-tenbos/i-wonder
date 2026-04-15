@@ -55,8 +55,8 @@ Tasks triggered by post publication. Updated as posts go live.
 - [ ] Draft tweet
 
 ## May 26 — Mutualism Without Intent goes live
-- [ ] Create positioning ref lib page for mutualism
-- [ ] Update positioning area index
+- [x] Create positioning ref lib page for mutualism (done 2026-04-15, positioning area restructured)
+- [x] Update positioning area index (done 2026-04-15)
 - [ ] Draft tweet
 
 ## May 28 — The Floor Is Always Solid goes live
