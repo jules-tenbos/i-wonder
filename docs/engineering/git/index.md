@@ -41,7 +41,7 @@ lib/avsc          bare-for-pear-avsc          main
 lib/avsc-rpc      bare-for-pear-avsc-rpc      main
 lib/git           bare-for-pear-git           main
 lib/rpc-server    bare-for-pear-rpc-server    main
-_test             spl5-test                   main
+_test             spl-test                    main
 ```
 
 The `subtrees.add()` function does the full workflow: add remote, fetch, add subtree, register in `.gittrees`. One call instead of four commands.

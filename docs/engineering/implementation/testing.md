@@ -2,9 +2,7 @@
 
 # Testing — Full Chain, No Mocking
 
-How spl5 tests itself. The test framework exercises the same path as the user. If a test passes, the feature works. If it fails, it fails the way a user would experience it.
-
-Source: [splectrum/spl5.test](https://github.com/splectrum/spl5.test)
+How the spl runtime tests itself. The test framework exercises the same path as the user. If a test passes, the feature works. If it fails, it fails the way a user would experience it.
 
 ---
 
@@ -12,7 +10,7 @@ Source: [splectrum/spl5.test](https://github.com/splectrum/spl5.test)
 
 A mock test can pass while the real system fails. The mock captured your assumptions about the interface at the time you wrote the mock. If the interface changed, the mock didn't. Your test is green, your system is broken, and you don't know.
 
-The spl5 test framework doesn't mock. Every protocol test spawns the spl CLI as a subprocess, sends a real RPC request to a running server, goes through real dispatch to a real handler, gets a real response, and verifies it. The full chain: CLI → RPC → server → dispatch → handler → response → extraction.
+The test framework doesn't mock. Every protocol test spawns the spl CLI as a subprocess, sends a real RPC request to a running server, goes through real dispatch to a real handler, gets a real response, and verifies it. The full chain: CLI → RPC → server → dispatch → handler → response → extraction.
 
 This is slower than mocking. A test suite that spawns 60+ subprocesses takes seconds, not milliseconds. The trade-off is worth it. You know the system works because you watched it work.
 
@@ -22,11 +20,11 @@ Infrastructure tests (lib/git, lib/rpc-server) test the module API directly via 
 
 ## Test as Entity
 
-The test framework is a separate repo (spl5.test) attached to spl5 via subtree at `_test/`. It has its own identity — `_test/_client/context.txt` defines the test client vocabulary. The test client speaks test language, not xpath language, not git language.
+The test framework is a separate repo attached to spl via subtree at `_test/`. It has its own identity — `_test/_client/context.txt` defines the test client vocabulary. The test client speaks test language, not xpath language, not git language.
 
 This is the same multi-client identity system that serves all entities in the fabric. The test framework is an entity like any other. It has its own reality (the subtree), its own language (the client context), its own concerns. It happens to be an entity whose concern is verification.
 
-The identity travels with the test repo. Attach spl5.test to any spl5 instance and the test vocabulary comes with it. No configuration in the host repo. The entity is self-contained.
+The identity travels with the test repo. Attach it to any spl instance and the test vocabulary comes with it. No configuration in the host repo. The entity is self-contained.
 
 ---
 

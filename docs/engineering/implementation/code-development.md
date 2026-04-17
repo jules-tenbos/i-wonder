@@ -64,7 +64,7 @@ Barified forks of external code that Splectrum depends on constitutively.
 
 These are proper open-source repos with their own history and PRs. Day-to-day development happens in spl (where they are vendored as subtrees under `lib/`). Changes are pushed back to bare-for-pear as PRs.
 
-### spl5.test — The Test Framework
+### The Test Framework
 
 Test framework as a separate repo, attached to spl via subtree at `_test/`. Full-chain tests — every test spawns the CLI, sends a real RPC request, and verifies the response. No mocking.
 
