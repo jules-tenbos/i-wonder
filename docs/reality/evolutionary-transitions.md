@@ -1,4 +1,4 @@
-[In Wonder - The World of Splectrum](../) > [Reality](./) > Evolutionary Transitions
+[Home](/) > [Reality](./) > Evolutionary Transitions
 
 # Evolutionary Transitions
 

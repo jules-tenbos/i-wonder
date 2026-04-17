@@ -1,4 +1,4 @@
-[In Wonder - The World of Splectrum](../../) > [Engineering](../) > [Mycelium](./) > Mutable
+[Home](/) > [Engineering](../) > [Mycelium](./) > Mutable
 
 # Mycelium Mutable Protocol
 

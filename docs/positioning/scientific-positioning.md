@@ -1,4 +1,4 @@
-[In Wonder - The World of Splectrum](../) > [Positioning](./) > Scientific Positioning
+[Home](/) > [Positioning](./) > Scientific Positioning
 
 # Scientific Positioning
 

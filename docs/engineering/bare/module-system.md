@@ -1,4 +1,4 @@
-[In Wonder - The World of Splectrum](../../) > [Engineering](../) > [Bare Runtime](./) > Module System
+[Home](/) > [Engineering](../) > [Bare Runtime](./) > Module System
 
 # Bare Module System
 

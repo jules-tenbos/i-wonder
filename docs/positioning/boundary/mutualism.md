@@ -1,4 +1,4 @@
-[In Wonder - The World of Splectrum](../../) > [Positioning](../) > [Views on the Boundary](./) > Mutualism
+[Home](/) > [Positioning](../) > [Views on the Boundary](./) > Mutualism
 
 # Mutualism
 

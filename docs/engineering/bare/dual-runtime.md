@@ -1,4 +1,4 @@
-[In Wonder - The World of Splectrum](../../) > [Engineering](../) > [Bare Runtime](./) > Dual-Runtime Code
+[Home](/) > [Engineering](../) > [Bare Runtime](./) > Dual-Runtime Code
 
 # Dual-Runtime Code
 

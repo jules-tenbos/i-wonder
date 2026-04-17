@@ -1,4 +1,4 @@
-[In Wonder - The World of Splectrum](../../../) > [Engineering](../../) > [Personas](../) > [Public Conscious Persona](./) > Current
+[Home](/) > [Engineering](../../) > [Personas](../) > [Public Conscious Persona](./) > Current
 
 # Splectrum — Public Conscious Persona 1.0
 

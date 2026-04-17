@@ -1,4 +1,4 @@
-[In Wonder - The World of Splectrum](./) > The Splectrum Seed
+[Home](/) > The Splectrum Seed
 
 # The Splectrum Seed
 

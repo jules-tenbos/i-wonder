@@ -1,4 +1,4 @@
-[In Wonder - The World of Splectrum](../) > [Positioning](./) > Philosophical Trajectory
+[Home](/) > [Positioning](./) > Philosophical Trajectory
 
 # Philosophical Trajectory
 

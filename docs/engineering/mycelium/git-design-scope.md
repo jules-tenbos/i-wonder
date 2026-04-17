@@ -1,4 +1,4 @@
-[In Wonder - The World of Splectrum](../../) > [Engineering](../) > [Mycelium](./) > Git Design Scope
+[Home](/) > [Engineering](../) > [Mycelium](./) > Git Design Scope
 
 # Mycelium Git — Design Scope
 

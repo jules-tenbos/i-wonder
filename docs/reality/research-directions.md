@@ -1,4 +1,4 @@
-[In Wonder - The World of Splectrum](../) > [Reality](./) > Research Directions
+[Home](/) > [Reality](./) > Research Directions
 
 # Research Directions
 

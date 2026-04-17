@@ -1,4 +1,4 @@
-[In Wonder - The World of Splectrum](../../) > [Positioning](../) > [Views on the Boundary](./) > Observer Patch Holography
+[Home](/) > [Positioning](../) > [Views on the Boundary](./) > Observer Patch Holography
 
 # Observer Patch Holography
 

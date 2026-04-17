@@ -1,4 +1,4 @@
-[In Wonder - The World of Splectrum](../../) > [Engineering](../) > [Mycelium](./) > Subject Reality
+[Home](/) > [Engineering](../) > [Mycelium](./) > Subject Reality
 
 # Subject Reality
 

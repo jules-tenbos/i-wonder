@@ -1,4 +1,4 @@
-[In Wonder - The World of Splectrum](../../) > [Engineering](../) > [Mycelium](./) > Mutability
+[Home](/) > [Engineering](../) > [Mycelium](./) > Mutability
 
 # Mycelium Mutability
 

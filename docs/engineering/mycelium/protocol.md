@@ -1,4 +1,4 @@
-[In Wonder - The World of Splectrum](../../) > [Engineering](../) > [Mycelium](./) > Protocol
+[Home](/) > [Engineering](../) > [Mycelium](./) > Protocol
 
 # Mycelium Protocol
 

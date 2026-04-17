@@ -1,4 +1,4 @@
-[In Wonder - The World of Splectrum](./) > Vocabulary
+[Home](/) > Vocabulary
 
 # Splectrum Vocabulary
 

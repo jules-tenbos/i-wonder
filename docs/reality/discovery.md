@@ -1,4 +1,4 @@
-[In Wonder - The World of Splectrum](../) > [Reality](./) > Discovery
+[Home](/) > [Reality](./) > Discovery
 
 # Discovery
 

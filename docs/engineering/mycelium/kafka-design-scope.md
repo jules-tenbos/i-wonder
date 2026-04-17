@@ -1,4 +1,4 @@
-[In Wonder - The World of Splectrum](../../) > [Engineering](../) > [Mycelium](./) > Kafka Design Scope
+[Home](/) > [Engineering](../) > [Mycelium](./) > Kafka Design Scope
 
 # Mycelium Kafka — Design Scope
 

@@ -1,4 +1,4 @@
-[In Wonder - The World of Splectrum](../../) > [Engineering](../) > Mycelium
+[Home](/) > [Engineering](../) > Mycelium
 
 # Mycelium
 

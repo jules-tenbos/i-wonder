@@ -1,4 +1,4 @@
-[In Wonder - The World of Splectrum](../) > [Language](./) > Category Theory
+[Home](/) > [Language](./) > Category Theory
 
 # Category Theory
 

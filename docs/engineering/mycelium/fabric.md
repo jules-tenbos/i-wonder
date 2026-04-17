@@ -1,4 +1,4 @@
-[In Wonder - The World of Splectrum](../../) > [Engineering](../) > [Mycelium](./) > Fabric
+[Home](/) > [Engineering](../) > [Mycelium](./) > Fabric
 
 # Mycelium Fabric
 

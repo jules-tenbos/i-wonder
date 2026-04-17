@@ -1,4 +1,4 @@
-[In Wonder - The World of Splectrum](../) > [Positioning](./) > Being as Tension
+[Home](/) > [Positioning](./) > Being as Tension
 
 # Being as Tension
 

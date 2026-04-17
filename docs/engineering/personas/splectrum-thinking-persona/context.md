@@ -1,4 +1,4 @@
-[In Wonder - The World of Splectrum](../../../) > [Engineering](../../) > [Personas](../) > [Splectrum Thinking Persona](./) > Context
+[Home](/) > [Engineering](../../) > [Personas](../) > [Splectrum Thinking Persona](./) > Context
 
 # Splectrum Thinking Persona Context
 

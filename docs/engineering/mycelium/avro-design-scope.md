@@ -1,4 +1,4 @@
-[In Wonder - The World of Splectrum](../../) > [Engineering](../) > [Mycelium](./) > AVRO Design Scope
+[Home](/) > [Engineering](../) > [Mycelium](./) > AVRO Design Scope
 
 # Mycelium AVRO — Design Scope
 

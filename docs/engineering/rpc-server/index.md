@@ -1,4 +1,4 @@
-[In Wonder - The World of Splectrum](../../) > [Engineering](../) > RPC Server
+[Home](/) > [Engineering](../) > RPC Server
 
 # RPC Server — Lifecycle Module
 
