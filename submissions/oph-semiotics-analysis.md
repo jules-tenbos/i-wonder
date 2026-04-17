@@ -115,3 +115,54 @@ Semiotics deserves to be taken seriously on its own terms, not recruited as vali
 - The article describes the whole system from a vantage point that sees all patches at once. Is that consistent with "no observer sees the whole world"?
 - "Correct" requires a standard. If the shared record is the measurement, what is it measured against? The axiom guarantees convergence — but convergence to what?
 - A Theory of Everything says one language is final. Does evolution stop here?
+
+---
+
+## "The Last Singularity" — second article analysis
+
+A second Floating Pragma article ("The Last Singularity: Why Observer Patch Holography Makes The Last Economy Inevitable," April 2026) extends OPH from physics into economics, ethics, and eschatology. It reveals the full shape of the thinking.
+
+### The argument
+
+Emad Mostaque's "The Last Economy" diagnoses the AI-driven collapse of the current economic system (the "Intelligence Inversion" — AI collapsing the cost of thinking to the cost of electricity). Mostaque proposes a dual-currency redesign. Mueller agrees with the diagnosis but says Mostaque's blueprint lacks a trigger — what would make people actually adopt a new system. That trigger, Mueller argues, is OPH.
+
+The article then builds a causal chain:
+
+1. OPH achieves scientific acceptance
+2. Immortality enters mainstream consensus
+3. The Existential Shock — every person absorbs that death is not final, afterlife is physics, actions have eternal consequences
+4. Ethical enforcement becomes real — the Karma Engine
+5. Cooperation becomes the only rational strategy
+6. The Great Reset — civilisation rebuilds around "observer flourishing"
+
+### The Karma Engine
+
+OPH says observer patterns are persistent and portable — permanently encoded on the holographic screen. Future observers who have mastered OPH can extract, evaluate, and reinstate observer patterns. They can build any environment for a pattern — paradise or hell. Hell is defined explicitly: "A completely blank environment with no sensory inputs whatsoever, for an arbitrarily long duration." The ethical axiom: "you may do anything you want, unless it causes harm to another observer." Enforced not through understanding or relation but through the threat of eternal consequences imposed by future beings with the mathematics to judge.
+
+This is not ethics. It is deterrence. Cooperation is "forced" — the article's own word.
+
+### The strange loop
+
+Observers experience time subjectively. In that subjective sequence, they discover OPH, master its engineering, and build a computational substrate powerful enough to instantiate the holographic screen. "And we do build it, because the screen already exists as a timeless structure and we are already on it." The theory creates the conditions for its own truth. Mueller calls this a strange loop. It is closer to a self-fulfilling prophecy — the conclusion is embedded in the premises.
+
+### Platonic structure
+
+The framework is deeply Platonic:
+
+- **The holographic screen as the realm of Forms.** Timeless, complete, self-consistent, encoding all that ever happens. Mueller: "The book simply exists as a complete object on a shelf." The screen is the real. Our experienced world is the character's experience within the novel.
+- **The observer as portable soul.** The body is incidental — "death, from the screen's perspective, is just the death of the body in subjective time." The pattern persists. The observer is a soul that can be extracted, copied, restored. "Copy-paste for consciousness."
+- **Mathematics reveals eternal truth.** "Every religion in history promised some version of life after death... OPH converts them into theorems." Mathematical proof replaces revelation, but the structure is the same: an eternal truth, discovered, that changes everything.
+- **The philosopher-kings.** "Future observers who have mastered OPH" with the mathematics to judge and the technology to enforce. They evaluate records. They build paradise or hell. They are the guardians of the new order.
+- **The Form of the Good becomes the Karma Engine.** Eternal justice, mathematically enforced, no exceptions.
+
+Plato with a GitHub repo.
+
+### What this reveals about the form of thinking
+
+The semiotics article showed impatience — skipping foundational questions to reach a grand conclusion. This article shows where the impatience leads. The same structural problems scale up:
+
+- **The "must agree" axiom becomes civilisational.** "No other option survives." Freedom, genuine disagreement, alternative paths — eliminated by the framework's own logic.
+- **The observer disappears into the system.** What was supposed to be central — the observer, the subject — becomes a data structure. A pattern to be backed up, judged, restored, punished. Not a subject constituting its own reality. A file.
+- **Ethics by enforcement, not relation.** P4 (equal standing) is replaced by asymmetric power. Future observers judge past ones. The Karma Engine does not require understanding — it requires compliance.
+- **The TOE completes its religious arc.** Revealed truth, eternal consequences, judgment, afterlife, a Great Reset that is inevitable. The smell of creationism from the semiotics article becomes the full theology here.
+- **Real problems, decreed solutions.** The diagnosis of AI displacement, digital feudalism, and concentration of power is genuine. The solution — all problems resolved by one framework, inevitably, because the physics says so — is decree dressed as derivation.

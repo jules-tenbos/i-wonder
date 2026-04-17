@@ -1,17 +1,19 @@
 ---
-title: The OPH of Semiotics
+title: OPH and Semiotics
 series: positioning
 category: philosophy, science
 persona: comment
 status: storyline
 ---
 
-# The OPH of Semiotics
+# OPH and Semiotics
 Labels: positioning, science, comment
 
 <img src="https://images.unsplash.com/photo-1421789665209-c9b2a435e3dc?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Comment" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
-[post content]
+It was the semiotics that drew me to this article, and the misplaced positioning of semtiotics in this article catalysed in me a better appreciation of the importance of semiotics to Splectrum. [...]
+It's a pity that OHP is too impatient to achieve its final ambition - a TOE - that it neglects to spend enough time and energy on the foundation of its preferred toolkit to get there.
+This is not about judging who is right or wrong, who wins the final match and takes it all. There is no final match, always a next season. It's about the skills of playing. If foundations are not laid as stone on rock, the resulting building becomes easily the victim of the whims of quicksand.
 
 <small>This post is part of the [positioning series](/search/label/positioning). More on positioning in the <a href="https://jules-tenbos.github.io/in-wonder/positioning/">positioning area of the reference library</a>.</small>
 
@@ -24,22 +26,32 @@ Labels: positioning, science, comment
 
 ## Storyline
 
-### 1. Opening — genuine interest in semiotics
-- Semiotics is interesting to us. The study of how meaning happens — how patterns come to stand for something, how signs generate new signs, how interpretation stays open.
-- An article came across that connects semiotics to fundamental physics: Observer Patch Holography (OPH) by Bernhard Mueller. The claim: semiotics and OPH describe the same process. Meaning assignment is the fundamental operation of physical reality.
+### Tone anchors (Jules)
+
+> It was the semiotics that drew me to this article, and the misplaced positioning of semiotics in this article catalysed in me a better appreciation of the importance of semiotics to Splectrum.
+
+> It's a pity that OPH is too impatient to achieve its final ambition — a TOE — that it neglects to spend enough time and energy on the foundation of its preferred toolkit to get there.
+
+> This is not about judging who is right or wrong, who wins the final match and takes it all. There is no final match, always a next season. It's about the skills of playing. If foundations are not laid as stone on rock, the resulting building becomes easily the victim of the whims of quicksand.
+
+### 1. Opening — drawn by the semiotics
+- It was the semiotics that drew me to this article. An article connecting semiotics to fundamental physics: Observer Patch Holography (OPH) by Bernhard Mueller. The claim: semiotics and OPH describe the same process. Meaning assignment is the fundamental operation of physical reality.
 - The direction is interesting. Meaning as constitutive — not layered on top of matter by conscious minds — is territory we recognise. P0: being implies language.
+- And the misplaced positioning of semiotics in this article catalysed a better appreciation of the importance of semiotics to Splectrum. Sometimes the value is in what the article reveals about its own blind spots.
 
 ### 2. The semiotics the article gets right
 - Good primer. Saussure (signifier/signified), Peirce (sign/object/interpretant), biosemiotics.
 - Semiosis as the full chain: pattern → code → interpreter → outcome.
 - "Meaning is a coordination achievement" — yes, that resonates.
-- The extension beyond human language into biology, nature, physics — semiotics as the general study of how systems become interpretable. This is where the conversation gets interesting.
+- The extension beyond human language into biology, nature, physics — semiotics as the study of sign processes wherever they occur. Interpretation belongs to the observer, not to the system being observed. This is where the conversation gets interesting.
 
 ### 3. What OPH does with semiotics — and the disappointment
 - OPH maps semiosis onto a consistency protocol: local patterns, shared dictionaries, repair moves, convergence to a fixed point. A five-row table. "Isomorphism."
 - But semiosis in Peirce is open. Signs generate new signs. The interpretant becomes the sign for the next act of interpretation. There is no final referent, no bottom, no fixed point. That openness is what makes semiosis interesting — it is generative, unbounded, alive.
 - OPH flattens this into a consensus algorithm. Local data compared, disagreement repaired, the process settles. Convergence, not generation. Closure, not openness. That is not semiosis — that is a broadcast looking for agreement.
 - Calling this an isomorphism overstates the correspondence. The surface structure matches (pattern → interpretation → shared outcome). The character is opposite: open vs closed, generative vs convergent, unbounded vs fixed.
+- The language reveals the framing: "OPH shows that meaning assignment is the fundamental operation of physical reality." Reality as an actor with operations. OPH as the authority that reveals them. The framework stands outside and reports on how reality works. That's not relation — that's disclosure as intent. Push that hard enough and it lands close to religion.
+- Mastering the concepts — what semiotics actually says, what observers actually do, what meaning actually requires — matters before pushing intent. The impatience to reach the TOE conclusion overrides the clarity of vision needed to get there honestly.
 
 ### 4. The "simple axiom" that isn't simple
 - The article says OPH is "built on a simple axiom: no observer sees the whole world at once." That's appealing.
@@ -64,9 +76,11 @@ Labels: positioning, science, comment
 - And: if the theory is complete, evolution stops. P5 says complexity grows through new languages, new ways of expressing what was always there. A TOE says the expressing is done. Nothing new can emerge that is not already contained.
 - That is a closed universe. Creationism with equations. The final act, complete and settled. Semiotics — the field the article draws from — is precisely the study of how meaning stays open. A framework that claims to be complete is at odds with the very tradition it invokes.
 
-### 8. Closing — semiotics deserves better
-- The interest in semiotics is genuine and shared. The direction — meaning as constitutive, the observer as central — surfaces across independent frameworks for a reason.
-- But semiotics deserves to be engaged with on its own terms. Not recruited as validation for a Theory of Everything. Not flattened into a consensus protocol. Not closed into a fixed point.
+### 8. Closing — stone on rock
+- This is not about judging who is right or wrong, who wins the final match and takes it all. There is no final match, always a next season. It's about the skills of playing.
+- OPH is too impatient to achieve its final ambition. It neglects to spend enough time and energy on the foundation of its preferred toolkit to get there.
+- If foundations are not laid as stone on rock, the resulting building becomes easily the victim of the whims of quicksand.
+- Semiotics deserves to be engaged with on its own terms. Not recruited as validation for a Theory of Everything. Not flattened into a consensus protocol. Not closed into a fixed point.
 - Semiosis is open. Being implies language. Languages have equal standing. Complexity grows. The universe is not done expressing itself.
 
 ---
