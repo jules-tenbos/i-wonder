@@ -2,8 +2,6 @@
 layout: default
 ---
 
-&nbsp;
-
 # In Wonder
 
 The conversation. Where the thinking gets explored in the open.
