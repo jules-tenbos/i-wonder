@@ -7,6 +7,3 @@ The reference library for the world of Splectrum.
 - [Vocabulary](vocabulary) — Splectrum terms and definitions
 - [Engineering](engineering/) — how Splectrum builds things
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*
