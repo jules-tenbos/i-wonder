@@ -5,7 +5,7 @@ date: 2026-04-11
 labels: [language, engineering, Splectrum]
 blogger_id: 8542284925731887164
 ---
-<img src="https://images.unsplash.com/photo-1625459201773-9b2386f53ca2?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Software code" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://images.unsplash.com/photo-1625459201773-9b2386f53ca2?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Software code" />
 
 Splectrum has a very broad view of language. It recognises a wide variety of language categories, although many categories may not feel that close to us. Natural languages and software languages are two categories that we as humans do have a close affinity with. By nature, natural languages can be ambiguous, context-dependent, evolving, full of implication and unspoken meaning. This is a real strength. Software languages on the other hand are not. They are fully explicit. Every rule is written down, all is well-defined by definition. Software languages are languages in the way that Russell always wanted them to be. That is their strength. It also makes them a good category to learn from.
 

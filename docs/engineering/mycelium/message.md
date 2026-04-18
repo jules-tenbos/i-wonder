@@ -1,4 +1,4 @@
-[Home](/) > [Engineering](../) > [Mycelium](./) > Message
+[Home](/) > [Engineering](/engineering/) > [Mycelium](/engineering/mycelium/) > Message
 
 # Mycelium Message
 

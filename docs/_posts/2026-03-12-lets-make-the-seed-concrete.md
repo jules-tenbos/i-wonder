@@ -5,7 +5,7 @@ date: 2026-03-12
 labels: [seed, philosophy, comment]
 blogger_id: 2288433691912542011
 ---
-<img src="https://images.unsplash.com/photo-1519671282429-b44660ead0a7?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Friends gathered around a dinner table" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://images.unsplash.com/photo-1519671282429-b44660ead0a7?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Friends gathered around a dinner table"/>
 
 [Splectrum is born](/2026/03/splectrum-is-born.html), the seed is there. So what, you may ask. Should I be impressed? Are those six lines really so special? I happen to think so. So much is hidden in their apparent simplicity. I am not talking about subjects for discussion at high table, but about what is happening in everyone's daily life. Let's unpack a little.
 

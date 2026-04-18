@@ -1,4 +1,4 @@
-[Home](/) > [Engineering](../) > [Bare Runtime](./) > Module System
+[Home](/) > [Engineering](/engineering/) > [Bare Runtime](/engineering/bare/) > Module System
 
 # Bare Module System
 

@@ -1,4 +1,4 @@
-[Home](/) > [Engineering](../) > [avsc](./) > Barification
+[Home](/) > [Engineering](/engineering/) > [avsc](/engineering/avsc/) > Barification
 
 # avsc Barification
 

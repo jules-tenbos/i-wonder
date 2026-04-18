@@ -1,4 +1,4 @@
-[Home](/) > [Positioning](../) > [Views on the Boundary](./) > Mutualism
+[Home](/) > [Positioning](/positioning/) > [Views on the Boundary](/positioning/boundary/) > Mutualism
 
 # Mutualism
 

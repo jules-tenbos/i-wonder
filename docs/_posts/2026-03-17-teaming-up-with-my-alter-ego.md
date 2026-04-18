@@ -5,7 +5,7 @@ date: 2026-03-17
 labels: [HAICC, comment]
 blogger_id: 5645896188683754353
 ---
-<img src="https://images.unsplash.com/photo-1735815952441-224afdf53016?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Two people collaborating at a screen" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://images.unsplash.com/photo-1735815952441-224afdf53016?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Two people collaborating at a screen"/>
 
 The desire of writing a blog was very much on my mind well before AI entered into the picture. I have written a number of posts on this blog before, but never got the writer fluids flowing freely, I am not born a natural writer. I also find it particularly difficult to write when there is lack of focus, when I lack clear insight — now fully resolved and condensed into the [Splectrum seed](/2026/03/splectrum-is-born.html).
 

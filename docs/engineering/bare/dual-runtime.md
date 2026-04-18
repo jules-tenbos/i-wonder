@@ -1,4 +1,4 @@
-[Home](/) > [Engineering](../) > [Bare Runtime](./) > Dual-Runtime Code
+[Home](/) > [Engineering](/engineering/) > [Bare Runtime](/engineering/bare/) > Dual-Runtime Code
 
 # Dual-Runtime Code
 

@@ -1,4 +1,4 @@
-[Home](/) > [Positioning](../) > Views on the Boundary
+[Home](/) > [Positioning](/positioning/) > Views on the Boundary
 
 # Views on the Boundary
 

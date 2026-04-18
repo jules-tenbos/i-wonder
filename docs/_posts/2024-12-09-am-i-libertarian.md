@@ -5,7 +5,7 @@ date: 2024-12-09
 labels: [philosophy, thought]
 blogger_id: 5016796974424544740
 ---
-<img src="https://images.unsplash.com/photo-1763079163086-fd758f86f831?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Liberty" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://images.unsplash.com/photo-1763079163086-fd758f86f831?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Liberty"/>
 
 **Monday, 9 December 2024**
 

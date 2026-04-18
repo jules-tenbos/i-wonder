@@ -1,4 +1,4 @@
-[Home](/) > [Engineering](../) > [Mycelium](./) > Mutability
+[Home](/) > [Engineering](/engineering/) > [Mycelium](/engineering/mycelium/) > Mutability
 
 # Mycelium Mutability
 

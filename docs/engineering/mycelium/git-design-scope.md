@@ -1,4 +1,4 @@
-[Home](/) > [Engineering](../) > [Mycelium](./) > Git Design Scope
+[Home](/) > [Engineering](/engineering/) > [Mycelium](/engineering/mycelium/) > Git Design Scope
 
 # Mycelium Git — Design Scope
 

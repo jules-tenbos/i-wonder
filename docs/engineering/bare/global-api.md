@@ -1,4 +1,4 @@
-[Home](/) > [Engineering](../) > [Bare Runtime](./) > Global API
+[Home](/) > [Engineering](/engineering/) > [Bare Runtime](/engineering/bare/) > Global API
 
 # Bare Global API
 

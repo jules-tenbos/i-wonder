@@ -1,4 +1,4 @@
-[Home](/) > [Engineering](../) > [avsc-rpc](./) > Client and Server
+[Home](/) > [Engineering](/engineering/) > [avsc-rpc](/engineering/avsc-rpc/) > Client and Server
 
 # avsc-rpc Client and Server
 

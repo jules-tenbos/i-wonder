@@ -1,4 +1,4 @@
-[Home](/) > [Engineering](../) > [Mycelium](./) > Mutable
+[Home](/) > [Engineering](/engineering/) > [Mycelium](/engineering/mycelium/) > Mutable
 
 # Mycelium Mutable Protocol
 

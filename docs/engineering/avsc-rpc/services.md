@@ -1,4 +1,4 @@
-[Home](/) > [Engineering](../) > [avsc-rpc](./) > Service Definition
+[Home](/) > [Engineering](/engineering/) > [avsc-rpc](/engineering/avsc-rpc/) > Service Definition
 
 # avsc-rpc Service Definition
 

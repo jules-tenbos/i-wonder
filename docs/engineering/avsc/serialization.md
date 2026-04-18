@@ -1,4 +1,4 @@
-[Home](/) > [Engineering](../) > [avsc](./) > Serialization
+[Home](/) > [Engineering](/engineering/) > [avsc](/engineering/avsc/) > Serialization
 
 # avsc Serialization
 

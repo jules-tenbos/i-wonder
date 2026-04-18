@@ -1,4 +1,4 @@
-[Home](/) > [Engineering](../) > [Mycelium](./) > Subject Reality
+[Home](/) > [Engineering](/engineering/) > [Mycelium](/engineering/mycelium/) > Subject Reality
 
 # Subject Reality
 

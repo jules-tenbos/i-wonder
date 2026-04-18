@@ -1,4 +1,4 @@
-[Home](/) > [Engineering](../) > RPC Server
+[Home](/) > [Engineering](/engineering/) > RPC Server
 
 # RPC Server — Lifecycle Module
 

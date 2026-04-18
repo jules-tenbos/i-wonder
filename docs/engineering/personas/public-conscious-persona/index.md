@@ -1,4 +1,4 @@
-[Home](/) > [Engineering](../../) > [Personas](../) > Public Conscious Persona
+[Home](/) > [Engineering](/engineering/) > [Personas](/engineering/personas/) > Public Conscious Persona
 
 # Public Conscious Persona
 

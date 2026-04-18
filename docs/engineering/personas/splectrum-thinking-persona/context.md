@@ -1,4 +1,4 @@
-[Home](/) > [Engineering](../../) > [Personas](../) > [Splectrum Thinking Persona](./) > Context
+[Home](/) > [Engineering](/engineering/) > [Personas](/engineering/personas/) > [Splectrum Thinking Persona](/engineering/personas/splectrum-thinking-persona/) > Context
 
 # Splectrum Thinking Persona Context
 

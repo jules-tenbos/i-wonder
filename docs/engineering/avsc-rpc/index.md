@@ -1,4 +1,4 @@
-[Home](/) > [Engineering](../) > avsc-rpc
+[Home](/) > [Engineering](/engineering/) > avsc-rpc
 
 # avsc-rpc — Avro RPC Protocol
 

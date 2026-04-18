@@ -1,4 +1,4 @@
-[Home](/) > [Engineering](../) > [Mycelium](./) > Kafka Design Scope
+[Home](/) > [Engineering](/engineering/) > [Mycelium](/engineering/mycelium/) > Kafka Design Scope
 
 # Mycelium Kafka — Design Scope
 

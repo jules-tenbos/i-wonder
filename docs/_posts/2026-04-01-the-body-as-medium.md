@@ -5,7 +5,7 @@ date: 2026-04-01
 labels: [positioning, philosophy, Merleau-Ponty]
 blogger_id: 6689810067997664896
 ---
-<img src="https://images.unsplash.com/photo-1506869640319-fe1a24fd76dc?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Friends connecting over shared experience" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://images.unsplash.com/photo-1506869640319-fe1a24fd76dc?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Friends connecting over shared experience"/>
 
 The previous two posts in the [positioning serie](/search/label/positioning) traced a language turn within the analytical tradition. First [Wittgenstein](https://plato.stanford.edu/entries/wittgenstein/) turned from language as a tool to accurately describe an outside reality to language games, language as a form of life. And then [Rorty](https://plato.stanford.edu/entries/rorty/) went further: there is no mirror of reality, no privileged vocabulary for its description, just conversation. Language was freed from representation. But the conversation stayed focussed on what language shares — assuming it had already been absorbed by language users, ready for use. But how does it get into language in the first place? What is shared first needs to be experienced.
 

@@ -7,7 +7,7 @@ blogger_id: 6053584894705217135
 ---
 I stumbled across anti-foundationalism and thought - wow, that's me as well. Don't be taken aback by the "anti" - something that has no place really in my dictionary. As often, it might not be the best choice of word for what it means. Foundations are important, but they're inevitably tied to a context. It is the single foundation that is the problem.
 
-<img src="https://images.unsplash.com/photo-1610079732288-72a77bd816c9?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Foundation" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://images.unsplash.com/photo-1610079732288-72a77bd816c9?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Foundation"/>
 
 <small>Photo: <a href="https://unsplash.com/@sunburned_surveyor">Sunburned Surveyor</a> / Unsplash</small>
 

@@ -5,7 +5,7 @@ date: 2026-03-22
 labels: [positioning, philosophy, Wittgenstein]
 blogger_id: 7383966599368645132
 ---
-<img src="https://images.unsplash.com/photo-1645117030875-4eb47312e333?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Plant growing through cracked wall" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://images.unsplash.com/photo-1645117030875-4eb47312e333?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Plant growing through cracked wall" />
 
 Two posts ago I started [unpacking the seed](/2026/03/splectrum-is-born.html) — six lines about language and how we relate to reality. This view on language has not fallen from the sky. This post is the first in a positioning series that explores the evolving thinking in philosophy and science. The focus is first on philosophy, starting with [Ludwig Wittgenstein](https://plato.stanford.edu/entries/wittgenstein/) — singling out philosophers whose thinking was key in shifting the focus towards language.
 

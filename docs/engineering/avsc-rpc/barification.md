@@ -1,4 +1,4 @@
-[Home](/) > [Engineering](../) > [avsc-rpc](./) > Barification
+[Home](/) > [Engineering](/engineering/) > [avsc-rpc](/engineering/avsc-rpc/) > Barification
 
 # avsc-rpc Barification
 

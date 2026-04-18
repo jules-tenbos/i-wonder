@@ -1,4 +1,4 @@
-[Home](/) > [Engineering](../) > [Mycelium](./) > Fabric
+[Home](/) > [Engineering](/engineering/) > [Mycelium](/engineering/mycelium/) > Fabric
 
 # Mycelium Fabric
 

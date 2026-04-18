@@ -1,4 +1,4 @@
-[Home](/) > [Engineering](../) > [avsc-rpc](./) > Wire Protocol
+[Home](/) > [Engineering](/engineering/) > [avsc-rpc](/engineering/avsc-rpc/) > Wire Protocol
 
 # avsc-rpc Wire Protocol
 

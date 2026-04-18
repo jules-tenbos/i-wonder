@@ -1,4 +1,4 @@
-[Home](/) > [Engineering](../../) > [Personas](../) > [Splectrum Engineering Persona](./) > Instructions
+[Home](/) > [Engineering](/engineering/) > [Personas](/engineering/personas/) > [Splectrum Engineering Persona](/engineering/personas/splectrum-engineering-persona/) > Instructions
 
 # Splectrum Engineering Persona Instructions
 

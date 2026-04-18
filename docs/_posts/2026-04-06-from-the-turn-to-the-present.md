@@ -5,7 +5,7 @@ date: 2026-04-06
 labels: [positioning, philosophy, western philosophy]
 blogger_id: 8939894471893115606
 ---
-<img src="https://images.unsplash.com/photo-1658731041632-3a78727eaf7e?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Stepping stones" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://images.unsplash.com/photo-1658731041632-3a78727eaf7e?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Stepping stones" />
 
 In the [positioning series](/search/label/positioning) I talked about the turn in language — from representing an absolute reality to something relational ([Wittgenstein](https://plato.stanford.edu/entries/wittgenstein/), [Rorty](https://plato.stanford.edu/entries/rorty/)). [Merleau-Ponty](https://plato.stanford.edu/entries/merleau-ponty/) anchors the body as the 'frontline' participant in this relational activity. However, these were not isolated events but happened after a long evolution in thinking. In fact, this started at the beginning of modern philosophy and science about 500 years ago.
 

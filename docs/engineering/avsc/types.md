@@ -1,4 +1,4 @@
-[Home](/) > [Engineering](../) > [avsc](./) > Type System
+[Home](/) > [Engineering](/engineering/) > [avsc](/engineering/avsc/) > Type System
 
 # avsc Type System
 

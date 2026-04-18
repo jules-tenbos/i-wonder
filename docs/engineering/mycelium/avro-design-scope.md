@@ -1,4 +1,4 @@
-[Home](/) > [Engineering](../) > [Mycelium](./) > AVRO Design Scope
+[Home](/) > [Engineering](/engineering/) > [Mycelium](/engineering/mycelium/) > AVRO Design Scope
 
 # Mycelium AVRO — Design Scope
 

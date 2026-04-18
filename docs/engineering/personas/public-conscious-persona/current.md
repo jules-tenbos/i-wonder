@@ -1,4 +1,4 @@
-[Home](/) > [Engineering](../../) > [Personas](../) > [Public Conscious Persona](./) > Current
+[Home](/) > [Engineering](/engineering/) > [Personas](/engineering/personas/) > [Public Conscious Persona](/engineering/personas/public-conscious-persona/) > Current
 
 # Splectrum — Public Conscious Persona 1.0
 

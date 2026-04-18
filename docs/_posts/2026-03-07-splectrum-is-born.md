@@ -5,7 +5,7 @@ date: 2026-03-07
 labels: [seed, philosophy, Splectrum]
 blogger_id: 4839368145119364386
 ---
-<img src="https://images.unsplash.com/photo-1613502719426-cba8fcd9e51c?q=80&w=300&h=320&auto=format&fit=crop&crop=top" alt="Mycelium threads branching through soil" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:300px;" />
+<img src="https://images.unsplash.com/photo-1613502719426-cba8fcd9e51c?q=80&w=300&h=320&auto=format&fit=crop&crop=top" alt="Mycelium threads branching through soil"/>
 
 As with a lot of rebrands, it is about trying to revive. Here no different — how did I manage to stay silent for over half a year again. A lot happened in the quiet. It's just that I can't seem to get myself to become a writer!
 

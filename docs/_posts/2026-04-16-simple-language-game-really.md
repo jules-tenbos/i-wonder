@@ -5,7 +5,7 @@ date: 2026-04-16
 labels: [language, philosophy, Splectrum]
 blogger_id: 8187015040995589610
 ---
-<img src="https://images.unsplash.com/photo-1627453999411-dd9c2604c109?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Letters" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://images.unsplash.com/photo-1627453999411-dd9c2604c109?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Letters"  />
 
 I think it is a good time to return to the language game, Wittgenstein's way, but this time looking at it through Splectrum glasses. To not let the game itself stand in the way of understanding, let's use a simple one-word language game: Slab.
 

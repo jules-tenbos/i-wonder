@@ -1,4 +1,4 @@
-[Home](/) > [Engineering](../) > [avsc](./) > Schema Parsing
+[Home](/) > [Engineering](/engineering/) > [avsc](/engineering/avsc/) > Schema Parsing
 
 # avsc Schema Parsing
 
