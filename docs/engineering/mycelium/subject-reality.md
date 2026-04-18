@@ -47,6 +47,3 @@ But git is not asked to be a database. It is asked to be a container for a fabri
 
 Git holds the structure, the references, the embedded process definitions, the historicity. Remote sources hold the heavy data, the streaming feeds, the high-volume operational state. The fabric describes what's there, where it is, how it relates. The data itself can live elsewhere. The scene is local, the resources can be anywhere. Mycelium's referential layer does not care where the data physically lives. It cares about the relations.
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

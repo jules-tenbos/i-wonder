@@ -150,6 +150,3 @@ Methods: `preresolve`, `postresolve`, `resolve`,
 **Source:**
 https://github.com/holepunchto/bare-module
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

@@ -250,6 +250,3 @@ No registry at any point. The code that runs on the peer is the code in the sour
 - **Release and versioning** — tagging, release cuts, Pear distribution management
 - **CI/CD** — automated testing, build pipelines, deployment
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

@@ -156,6 +156,3 @@ resolvable by name.
 See [Code Implementation](../implementation/code-development)
 for the full dependency management model.
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

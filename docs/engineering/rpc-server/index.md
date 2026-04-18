@@ -50,6 +50,3 @@ The PID check is instant. The TCP fallback (connect and disconnect) takes networ
 
 **Graceful shutdown.** `tcpServer.close()` waits for active connections to drain before closing. If a request is in flight, it completes. The PID file is removed in the close callback, not before — the server is only declared stopped when it actually is.
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

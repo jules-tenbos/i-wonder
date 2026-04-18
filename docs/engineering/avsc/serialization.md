@@ -122,6 +122,3 @@ JSON encoding includes type tags for unions and uses
 string representations for bytes. Larger than binary
 but human-readable.
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

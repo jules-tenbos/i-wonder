@@ -101,6 +101,3 @@ The full set of commitments is maintained in [Design Commitments](design-commitm
 | **Splectrum engineering design** | Early stage. Protocol libraries defined in mycelium process. Language fabric design not yet articulated as its own document |
 | **HAICC design** | Early stage, ahead of splectrum. Persona mechanism, conscious/subconscious, plasticity, and evolutionary model established. Detailed design not yet articulated |
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

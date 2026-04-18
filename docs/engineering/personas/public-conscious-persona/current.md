@@ -174,6 +174,3 @@ Each post publication may trigger: anchor page update (synopsis when scheduled, 
 
 *(This page grows as the persona evolves.)*
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

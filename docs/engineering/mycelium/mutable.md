@@ -71,6 +71,3 @@ Sync can be triggered in two ways:
 
 The mutable protocol's defining property: every mutable resource is expendable. The immutable source queue is the permanent record. The living surface is a convenience — always derivable, always rebuildable, always discardable. This is what makes controlled change safe. Nothing is lost when a projection is destroyed, because the projection was never the truth.
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

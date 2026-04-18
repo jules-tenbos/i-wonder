@@ -82,6 +82,3 @@ Returns a Duplex stream or null if not embedded.
 **Source:** https://github.com/holepunchto/bare
 and https://docs.pears.com/reference/api.html
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

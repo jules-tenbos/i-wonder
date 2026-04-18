@@ -32,6 +32,3 @@ Nine independent formulations. Different traditions, different centuries, differ
 
 Being is tension across the interface. The interface is where being meets the world.
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

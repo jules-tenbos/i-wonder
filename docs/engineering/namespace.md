@@ -77,6 +77,3 @@ An optional domain prefix can be added for external identity. Not architecturall
 
 Versioning is metadata, not name. Version metadata is advisory to the compatibility unit of the functional resolution algorithm — it helps resolution select, but the actual compatibility test is "readable as." When something diverges beyond "readable as" the original, it becomes a new namespace node — a new concept, not a version increment.
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

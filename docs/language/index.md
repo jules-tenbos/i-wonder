@@ -34,6 +34,3 @@ This area catalogues the categories as the exploration deepens.
 
 - [Category Theory](category-theory) — the mathematics of relation, convergence with the seed
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

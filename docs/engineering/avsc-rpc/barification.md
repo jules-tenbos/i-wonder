@@ -175,6 +175,3 @@ workflow. See the
 [API Reference](https://github.com/bare-for-pear/avsc-rpc/blob/main/doc/api.md)
 for the complete method and option documentation.
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

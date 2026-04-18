@@ -342,6 +342,3 @@ Start with the checkpoint (area 1), because the commit as timestep is where Git 
 
 At each step, apply the governing principles. The open mapping test: are we limiting a capability to one level when it could serve more? The living subject test: does this serve a living subject or an archive? The simplification test: is this already a Git capability used at the appropriate level?
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

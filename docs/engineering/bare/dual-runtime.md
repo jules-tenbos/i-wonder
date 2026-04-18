@@ -116,10 +116,6 @@ clean.
 
 ---
 
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*
-
----
-
 ## Node.js Compatibility Map
 
 Complete mapping maintained by bare-node-runtime.
@@ -139,6 +135,3 @@ vm, worker_threads, zlib.
 cluster, constants, domain, http2, sea, sqlite,
 sys, test, trace_events, wasi.
 
-**Source:**
-https://github.com/holepunchto/bare-node-runtime
-(imports.json)

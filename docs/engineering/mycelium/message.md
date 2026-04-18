@@ -120,6 +120,3 @@ The response returns the request enriched with the result. No separate response 
 
 **Uniform dispatch** — every message is an operator invocation. No branching on message category. The logical type in `headers.record` is the single dispatch mechanism.
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

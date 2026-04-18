@@ -167,6 +167,3 @@ serve multiple clients simultaneously.
 - `'eot'` — end of transmission
 - `'error'` — channel error
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

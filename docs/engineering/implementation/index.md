@@ -9,6 +9,3 @@ Distinct from the engineering design (what is built and why) and from the philos
 - [Code Implementation](code-development) — way of working: repositories, dependencies, supply chain, agent workflow, distribution
 - [Testing](testing) — full-chain testing, no mocking, module-organized suites
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

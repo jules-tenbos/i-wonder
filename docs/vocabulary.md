@@ -66,6 +66,3 @@ Terms as used within Splectrum. This vocabulary grows as the project develops.
 
 **Barified** — adapted for the Bare runtime. An external module stripped of Node.js assumptions and made compatible with Bare's minimal API surface.
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

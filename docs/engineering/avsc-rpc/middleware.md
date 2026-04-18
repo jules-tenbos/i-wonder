@@ -110,6 +110,3 @@ serve the same purpose at different levels — the
 chain is the runtime mechanism, the context is the
 data trail.
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

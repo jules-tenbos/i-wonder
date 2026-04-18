@@ -36,6 +36,3 @@ The science trajectory mirrors the philosophy trajectory. In philosophy: the out
 
 Physics and philosophy, working independently on different problems with different methods, arrive at the same structural observation: there is no outside view. Properties, facts, knowledge — all relational, all from a position, all through a medium.
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

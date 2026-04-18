@@ -26,6 +26,3 @@ Not the outward move — not pushing, not organising, not telling others what to
 
 The centralised internet is not the enemy to be dismantled. It is the substrate. Decentralised ecosystems — P2P platforms, distributed protocols, local-first applications — emerge on top of what already exists. They don't replace the centralised layer. They layer above it. Not revolution, but emergence. Not replacement, but transcendence.
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

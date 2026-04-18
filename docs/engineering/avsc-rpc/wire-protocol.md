@@ -173,6 +173,3 @@ Sends a handshake with an intentionally wrong hash.
 The server responds with its full protocol. The
 client now knows what the server speaks.
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

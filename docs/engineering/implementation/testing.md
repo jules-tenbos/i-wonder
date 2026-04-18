@@ -96,6 +96,3 @@ As of the current implementation:
 
 66 tests total. All passing.
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

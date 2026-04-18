@@ -53,6 +53,3 @@ The convergence is no longer philosophical. The sciences are arriving there from
 
 The evolutionary transitions relate directly to several [research directions](research-directions): R1 (formal treatment of the exponential curve), R3 (transitions as thresholds in relational density), and R5 (AI as threshold).
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

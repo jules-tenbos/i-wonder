@@ -173,6 +173,3 @@ See [Module System](module-system.md) and
 Module npm versions verified April 2026. Check
 latest: `npm view <module> version`.
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

@@ -126,6 +126,3 @@ The sync marker detects corruption and enables random
 access — seek to any sync marker and start reading
 blocks from there.
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

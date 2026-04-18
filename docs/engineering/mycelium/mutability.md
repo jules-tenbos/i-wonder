@@ -54,6 +54,3 @@ When `mycelium.mutability.status` returns `mutable`, the [mutable protocol](muta
 
 The mutability protocol reads metadata. The mutable protocol reads immutable queues and writes mutable surfaces. They share no operational dependency — only the conceptual dependency that the mutable protocol presupposes a `mutable` regime declaration.
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

@@ -85,6 +85,3 @@ Within a subject, XPath-style addressing navigates contexts, accesses records, a
 
 The fabric supports layered data access. At the bottom is the physical layer — raw records and contexts, opaque bytes. Above it, data layers stack with defined read modes, synchronisation modes, and replication. Each layer is declared in context metadata and discovered during traversal. The fabric provides the stacking mechanism and the infrastructure for layer discovery. Specific layer types are defined by the protocol libraries that use them.
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

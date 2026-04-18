@@ -22,6 +22,3 @@ How Splectrum builds things.
 - [git](git/) — git operations, subtree management, two-reality model (bare-for-pear module)
 - [rpc-server](rpc-server/) — server lifecycle, PID management, file-based command IPC (bare-for-pear module)
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

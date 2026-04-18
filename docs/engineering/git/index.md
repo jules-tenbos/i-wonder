@@ -68,6 +68,3 @@ The hosting platform is an implementation detail. The interface is: give me a na
 
 **Cache in subtrees.** The `.gittrees` file is loaded once and cached. This is correct for a request-handling process where `.gittrees` doesn't change during a request. The cache is invalidated on `register()`.
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

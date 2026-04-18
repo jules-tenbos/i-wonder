@@ -78,6 +78,3 @@ Operations are bulk — arrays of key-value records. Serialization uses AVRO con
 - **Applied operators in property bags** — universal capabilities like `_is` are underscore-navigated, schema-namespaced.
 - **Bulk only** — no singular case.
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

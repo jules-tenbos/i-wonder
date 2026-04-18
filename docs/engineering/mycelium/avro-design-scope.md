@@ -243,6 +243,3 @@ The AVRO design should proceed from the inside out — start with schemas in fab
 
 At each step, apply all three governing principles. The relational test: does this implement relation, or does it let relation emerge? The simplification test: is this a new mechanism, or is it already expressed by schemas in context metadata? The carrier/meaning test: does this conflate carrier and meaning, or does it keep them separate?
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

@@ -85,6 +85,3 @@ None had the full picture. Each had a piece. The convergence of their insights s
 
 **Splectrum contribution:** The lineage itself demonstrates P5. The same insight, expressed with growing complexity, across more languages. Not new power — new expression.
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

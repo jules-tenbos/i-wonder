@@ -20,6 +20,3 @@ The Yoneda Lemma and P2 express the same conclusion through different languages.
 
 A functor cannot create a morphism in the target that has no structural basis in the source. Higher categories add layers of expression about relations already present — they make visible what was implicit. They do not add relational power. This converges with P5: complexity grows in expression, not in power. The full power was always there.
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

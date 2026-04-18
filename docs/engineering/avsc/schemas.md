@@ -141,6 +141,3 @@ See [AVRO Design Scope](../mycelium/avro-design-scope)
 — section 8, Namespacing — for how this serves the
 architecture.
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

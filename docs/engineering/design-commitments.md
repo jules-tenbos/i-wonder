@@ -92,6 +92,3 @@ The neuroscience grounding — Neural Darwinism, Global Workspace Theory, predic
 
 *Design commitments, each falling from the framework through its interaction with the overall engineering goal. Not designed — discovered. Not imposed — emergent. Ready to be stress tested through use by cascading the design downwards. Confirmation through low friction reality. These commitments may evolve as the engineering develops. But only to improve alignment of the engineering to the framework.*
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

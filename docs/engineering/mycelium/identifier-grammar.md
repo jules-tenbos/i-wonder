@@ -68,6 +68,3 @@ Adding schemas is the same move as adding mutability metadata to a dirty fabric.
 
 Full description is needed for shared knowledge (P3). The insight is real without schemas (P2, experienced reality). For it to become shared, it must pass through language interaction. Premature formalisation produces shared confusion, not shared knowledge. Description absent until the insight is genuine, then describe.
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

@@ -99,6 +99,3 @@ The library's own reference site:
 — complete API documentation including full method
 signatures, all options, and wire format details.
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

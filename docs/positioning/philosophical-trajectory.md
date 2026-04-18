@@ -32,6 +32,3 @@ Different starting points, different vocabularies, no coordination. Same structu
 
 The seed does not derive from these thinkers. It occupies the same structural territory, arrived at independently. The positioning is one of resonance, not lineage.
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

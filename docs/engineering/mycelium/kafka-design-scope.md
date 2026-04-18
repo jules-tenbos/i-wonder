@@ -126,6 +126,3 @@ The namespace hierarchy for logical types — `splectrum.natural.heidegger` as a
 
 The mutable protocol applies data change records from Kafka queues but the data change record format is not yet defined. This intersects with the Kafka record structure — the data change record is a Kafka record with specific conventions for expressing mutations.
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

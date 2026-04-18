@@ -40,6 +40,3 @@ Replication is a layering concern. The git-constituted boundary means every subj
 
 **Data state propagation** is the default mode. Subjects react to state changes in the fabric. Decoupled, reactive, no direct communication needed. A process produces output visible as a data state change. Another process observes the change and acts. No messages pass between them.
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

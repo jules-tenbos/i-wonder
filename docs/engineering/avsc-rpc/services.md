@@ -122,6 +122,3 @@ Uses Avro's type resolution rules — the same
 mechanism as schema evolution. A client with fewer
 message types can communicate with a richer server.
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

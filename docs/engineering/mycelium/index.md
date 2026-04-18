@@ -23,6 +23,3 @@ Mycelium operates at the intersection of three committed languages: AVRO (struct
 - [Git Design Scope](git-design-scope) — committed language for historicity: identity, boundary, decentralised exchange
 - [Kafka Design Scope](kafka-design-scope) — committed language for mobility: streaming, the Kafka record, logical type spectrum
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

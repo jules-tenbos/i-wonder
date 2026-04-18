@@ -48,6 +48,3 @@ Processes get woven into the data landscape through variation and experiential s
 
 Activity is triggered by data state — incoming signals, internal state changes, results from other processes. The triggering mechanism is the data, not a scheduler. Embedded processes wake up when their conditions are met.
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

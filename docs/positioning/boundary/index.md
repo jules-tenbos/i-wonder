@@ -11,6 +11,3 @@ The boundary is where Splectrum meets other languages. The conversation happens 
 - [Mutualism](mutualism) — the mutualism narrative through complex adaptive systems, examined through seed principles
 - [Observer Patch Holography](observer-patch-holography) — a physics framework built on observer consistency, with structural parallels and foundational questions
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

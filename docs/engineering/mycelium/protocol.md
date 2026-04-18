@@ -50,6 +50,3 @@ Debug is a context metadata fact. When present on the ancestor axis, execution w
 
 The debug protocol itself is resolved on the ancestor axis — it can be a simple trace logger at one level, a full step-through inspector at another. Remove the debug metadata, normal execution resumes. No code change, no restart.
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

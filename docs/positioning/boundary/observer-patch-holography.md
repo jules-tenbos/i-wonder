@@ -38,6 +38,3 @@ Without coupling, the framework needs a global vantage point to hold the picture
 
 Meaning as constitutive, objectivity as convergence, the observer as central — these observations surface independently across multiple frameworks. They deserve to be developed from minimal foundational footing. The [seed](../../seed) reduces to two foundational principles — differentiation (P0) and relational character (P1) — which [category theory](../../language/category-theory) can formalise. Everything else follows. Minimal axioms resist circularity because there is less to presuppose.
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*

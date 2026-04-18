@@ -92,6 +92,3 @@ Decentralisation is an upfront property: at the data level (Mycelium) and at the
 
 A meta-language: a language about languages. The claim is purely structural — language is relational, whatever its contents. Content varies by language; structure does not. The fabric is the relational structure all languages share. Splectrum studies the fabric, not any particular cloth.
 
----
-
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*
