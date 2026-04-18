@@ -1,5 +1,3 @@
-# The World of Splectrum
-
 The reference library for the world of Splectrum.
 
 - [The Splectrum Seed](seed) — foundation principles P0–P5

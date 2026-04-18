@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "The Conversation"
 ---
 
 # The Conversation
