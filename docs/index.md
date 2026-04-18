@@ -1,4 +1,4 @@
-# In Wonder - The World of Splectrum
+# The World of Splectrum
 
 The reference library for the world of Splectrum.
 
