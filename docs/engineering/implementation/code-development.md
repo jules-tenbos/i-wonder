@@ -2,7 +2,7 @@
 
 # Code Implementation — Way of Working
 
-How the Splectrum codebase is structured, what it depends on, and how it reaches the peer. A portable, self-contained codebase targeting the Bare runtime.
+How the SPLectrum codebase is structured, what it depends on, and how it reaches the peer. A portable, self-contained codebase targeting the Bare runtime.
 
 ---
 
@@ -28,7 +28,7 @@ Each with its own purpose and its own git identity.
 
 ### spl — The Runtime
 
-The Splectrum runtime expressed as code. One repo, namespace structure inside following the three pillars.
+The SPLectrum runtime expressed as code. One repo, namespace structure inside following the three pillars.
 
 ```
 spl/
@@ -53,7 +53,7 @@ Internal structure follows the namespace. When a node warrants its own repo, it 
 
 ### bare-for-pear — Constitutive Forks
 
-Barified forks of external code that Splectrum depends on constitutively.
+Barified forks of external code that SPLectrum depends on constitutively.
 
 | Repo | Purpose | Upstream |
 |------|---------|----------|
@@ -80,7 +80,7 @@ Documentation, design, personas. The conversation about the engineering — kept
 
 ### Constitutive
 
-Dependencies that are part of the architecture. Forked, barified, maintained locally. As much Splectrum code as any other module. Vendored into spl under `lib/` as git subtrees from bare-for-pear.
+Dependencies that are part of the architecture. Forked, barified, maintained locally. As much SPLectrum code as any other module. Vendored into spl under `lib/` as git subtrees from bare-for-pear.
 
 **Policy:**
 - Forked from upstream, barified, maintained locally

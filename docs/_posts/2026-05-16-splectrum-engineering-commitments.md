@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Splectrum Engineering — Commitments"
+title: "SPLectrum Engineering — Commitments"
 date: 2026-05-16
-labels: [seed, engineering, Splectrum]
+labels: [seed, engineering, SPLectrum]
 blogger_id: 4901175070134612543
 ---
 <img src="https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Design commitments" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
-In the [first post](https://julestenbos.blogspot.com/2026/05/engineering-from-first-principles.html) I peeled off the first layer of engineering from the Splectrum seed principles. Three pillars emerged — mycelium (state), splectrum (meaning), HAICC (cognition) — as three fabrics, aspects of the same thing. This post goes one step further: what does that structure *commit you to* when you build?
+In the [first post](https://julestenbos.blogspot.com/2026/05/engineering-from-first-principles.html) I peeled off the first layer of engineering from the SPLectrum seed principles. Three pillars emerged — mycelium (state), splectrum (meaning), HAICC (cognition) — as three fabrics, aspects of the same thing. This post goes one step further: what does that structure *commit you to* when you build?
 
 Design commitments are not engineering decisions. They are the philosophical framework expressed as constraints. The quality test at this level is not technical elegance — it is conformance with the framework. Low friction. If a commitment feels forced, something is wrong — either in the commitment or in the framework. If it flows naturally, the philosophy is landing.
 
@@ -15,9 +15,9 @@ Design commitments are not engineering decisions. They are the philosophical fra
 
 ## The honesty criterion
 
-Before the commitments themselves, the criterion that governs them. The relationship between the Splectrum philosophy and its engineering is relational (P4) — neither governs the other. They are two languages with equal standing, each expressing the same thing in its own way. The quality gate is low friction at the boundary. Not perfection — conformance. High friction signals misalignment.
+Before the commitments themselves, the criterion that governs them. The relationship between the SPLectrum philosophy and its engineering is relational (P4) — neither governs the other. They are two languages with equal standing, each expressing the same thing in its own way. The quality gate is low friction at the boundary. Not perfection — conformance. High friction signals misalignment.
 
-This is not a fidelity obligation — the engineering does not serve the philosophy. It is the same relational pattern that operates everywhere in the architecture. A reader schema against data. A watcher expression against a data state. Two languages meeting, friction or flow. The honesty criterion is just another instance of what Splectrum already describes.
+This is not a fidelity obligation — the engineering does not serve the philosophy. It is the same relational pattern that operates everywhere in the architecture. A reader schema against data. A watcher expression against a data state. Two languages meeting, friction or flow. The honesty criterion is just another instance of what SPLectrum already describes.
 
 And it is self-testing. You don't need an external judge. You feel the friction when it's there.
 
@@ -25,7 +25,7 @@ And it is self-testing. You don't need an external judge. You feel the friction 
 
 ## The design lives in the logical space
 
-The architecture describes how a Splectrum system must look — not how it must be physically built. Mycelium is the physical carrier. Splectrum is the logical meaning. HAICC is the activation that resolves one into the other. Physical implementations are free to use whatever technology fits, as long as they are compatible with the logical design. Compatibility, not literal translation.
+The architecture describes how a SPLectrum system must look — not how it must be physically built. Mycelium is the physical carrier. SPLectrum is the logical meaning. HAICC is the activation that resolves one into the other. Physical implementations are free to use whatever technology fits, as long as they are compatible with the logical design. Compatibility, not literal translation.
 
 Physical implementation is JIT — it goes only as far as capability requires. Where there is no need, there is no implementation. Large parts of the logical design may have no physical counterpart because the capability hasn't been called for yet. The gap is not a deficit. It is the natural state of a design that materialises through use. This is not MVP with a roadmap — MVP presumes a known target and plans the path toward it. JIT implementation doesn't presume what's needed next. The logical design is complete. The physical emerges when need arises.
 
@@ -65,9 +65,9 @@ P3 says language is where subjects share knowledge about reality. One commitment
 
 P4 says languages are inter-relational and have equal standing in potential. This is where the architecture gets its shape. These commitments are very much guided by the nature of humans and AI. 
 
-**Decentralisation is constitutive.** Not an afterthought, not an option. Mycelium decentralised at data — no central database, no single source of truth. HAICC decentralised at cognition — human and AI agents as collaborative peers, no central controller. Splectrum the relational structure that makes both coherent without central authority. Equal standing all the way through. If you need a central authority to make it work, you have violated P4.
+**Decentralisation is constitutive.** Not an afterthought, not an option. Mycelium decentralised at data — no central database, no single source of truth. HAICC decentralised at cognition — human and AI agents as collaborative peers, no central controller. SPLectrum the relational structure that makes both coherent without central authority. Equal standing all the way through. If you need a central authority to make it work, you have violated P4.
 
-**Natural language as carrier.** Splectrum supplies the languages. HAICC supplies the process flow through them. Natural language as carrier removes language lock-in. No language is inherently superior — the hierarchy we impose is practical, not structural. AI makes natural language operational as an engineering carrier. This is what was not attainable before. The Decentralised Cognition Revolution is partly this: the fluidity of language that AI enables.
+**Natural language as carrier.** SPLectrum supplies the languages. HAICC supplies the process flow through them. Natural language as carrier removes language lock-in. No language is inherently superior — the hierarchy we impose is practical, not structural. AI makes natural language operational as an engineering carrier. This is what was not attainable before. The Decentralised Cognition Revolution is partly this: the fluidity of language that AI enables.
 
 **Ambiguity is generative.** The boundary is never perfectly sealed — and that is generativity, not failure. Derrida's insight applied to engineering. Rigid formal languages close down possibility. Natural language keeps the system open at the fringes. The fringes are where new meaning enters. In a system designed for growing complexity, closing down possibility at the language level is a structural error.
 
@@ -85,7 +85,7 @@ P5 says together they form a web of growing complexity. One commitment.
 
 The three pillars are not just an organisational convenience. They carry a division of concern that produces its own commitments.
 
-**Splectrum supplies languages, HAICC supplies process flow.** Protocol libraries — language definitions, schemas, meaning structures — are splectrum's concern. Process triggering, readiness, execution, the attention mechanism — HAICC's concern. Mycelium hosts both as facts in the fabric. This is not a rule imposed on the architecture. It is the architecture expressing what each pillar is for.
+**SPLectrum supplies languages, HAICC supplies process flow.** Protocol libraries — language definitions, schemas, meaning structures — are splectrum's concern. Process triggering, readiness, execution, the attention mechanism — HAICC's concern. Mycelium hosts both as facts in the fabric. This is not a rule imposed on the architecture. It is the architecture expressing what each pillar is for.
 
 **Persona-driven role assignment.** HAICC's operational unit is the persona. The persona declares required capabilities. These are tested against available capabilities — human and AI. The conformance determines work division. Optimisation direction: toward AI autonomy. The human retains what AI capability does not yet cover. This is not a philosophical preference — it is the natural direction when the mechanism is capability conformance. What can be done autonomously, should be.
 
@@ -107,7 +107,7 @@ These commitments are maintained as an engineering reference alongside the top-l
 
 *The first post asked: what falls out when you engineer from the seed? The answer was three pillars. This post asked: what do those pillars commit you to? The answer is: what the framework already said, expressed as constraints you can build against. The third question — the one the engineering itself will answer — is: what do you build when you honour those constraints? That conversation is underway.*
 
-<small>This post is part of the [seed series](/search/label/seed). More on Splectrum engineering in the <a href="https://jules-tenbos.github.io/in-wonder/engineering/">engineering area of the reference library</a>.</small>
+<small>This post is part of the [seed series](/search/label/seed). More on SPLectrum engineering in the <a href="https://jules-tenbos.github.io/in-wonder/engineering/">engineering area of the reference library</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@christopher__burns">Christopher Burns</a> / Unsplash</small>

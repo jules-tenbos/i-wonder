@@ -38,7 +38,7 @@ This makes avsc constitutive. The architecture depends
 on it the way it depends on git — not as a tool but as
 a substrate. Changes to avsc are changes to the
 language the system speaks. It is forked, maintained
-locally, and treated as Splectrum code.
+locally, and treated as SPLectrum code.
 
 See [AVRO Design Scope](../mycelium/avro-design-scope)
 for the full architectural role of Avro in mycelium.

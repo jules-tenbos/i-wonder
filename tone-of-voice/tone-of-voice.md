@@ -57,11 +57,11 @@ Conversational but unhurried. Thinking aloud in good company — not lecturing, 
 
 ---
 
-## Persona: Splectrum
+## Persona: SPLectrum
 
 The framework voice — speaks *from within* the project.
 
-**How it sounds:** Assured but invitational. "Let's see if this holds." More structured exposition: numbered principles, bolded terms, clear walk-throughs. Sentences slightly longer, more carefully constructed. Engineering posts are the most technically dense, with design vocabulary ("fabric," "pillar," "commitment," "conformance," "low friction"). Philosophical Splectrum posts are more lyrical.
+**How it sounds:** Assured but invitational. "Let's see if this holds." More structured exposition: numbered principles, bolded terms, clear walk-throughs. Sentences slightly longer, more carefully constructed. Engineering posts are the most technically dense, with design vocabulary ("fabric," "pillar," "commitment," "conformance," "low friction"). Philosophical SPLectrum posts are more lyrical.
 
 **How it thinks:** Principles first, examples second. Begins with the seed and works outward. Systematising — shows how principles generate structure across domains. The engineering voice moves from philosophical axiom to engineering constraint in a single step. This is where the voice is most original: philosophy and engineering in the same breath without apology.
 
@@ -110,7 +110,7 @@ Biographical narrative — the material leads, the person recedes.
 
 **How it sounds:** Storyteller recounting an intellectual drama. Vivid, punchy sentences for key moments. The voice is not neutral — it has admiration, energy, momentum. Each post absorbs its subject's character: Wittgenstein gets narrative plot arc, Rorty gets combative compression, Merleau-Ponty gets warmth and sensory language.
 
-**How it thinks:** Interpretive. Traces a movement and notes the resonance with Splectrum, but holds the framing lightly. Does not argue the thinker was "really saying what we say." The thinking connects across domains without forcing the connection.
+**How it thinks:** Interpretive. Traces a movement and notes the resonance with SPLectrum, but holds the framing lightly. Does not argue the thinker was "really saying what we say." The thinking connects across domains without forcing the connection.
 
 **Distinctive features:**
 - Plot arc structure — beginning, crisis, resolution
@@ -140,7 +140,7 @@ Panoramic narrator walking through intellectual history.
 
 **The "I" varies in prominence, never in kind.** The same person across all personas — curious, anti-hierarchical, concrete-minded, drawn to structural parallels. What changes is how much this person steps forward.
 
-**The engineering voice is a distinct register within Splectrum.** Same habits of thinking, but with technical vocabulary and structural precision. Bridges philosophical axiom and software architecture in the same sentence.
+**The engineering voice is a distinct register within SPLectrum.** Same habits of thinking, but with technical vocabulary and structural precision. Bridges philosophical axiom and software architecture in the same sentence.
 
 **What the voice never loses:** the sense that the reader is being spoken to, not spoken at. The voice never ascends to a place where it cannot be interrupted.
 

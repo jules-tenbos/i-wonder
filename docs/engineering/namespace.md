@@ -2,7 +2,7 @@
 
 # Namespace
 
-The naming system of the Splectrum framework — how things are identified, how identifiers carry multiple dimensions, and how naming maps to resolution.
+The naming system of the SPLectrum framework — how things are identified, how identifiers carry multiple dimensions, and how naming maps to resolution.
 
 ## Identifier Grammar
 

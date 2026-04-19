@@ -2,7 +2,7 @@
 
 # Positioning
 
-The positioning area places the [Splectrum seed](../seed) within the broader evolution of philosophical and scientific thinking. The trajectory is consistent: from representing an external reality to relating within it.
+The positioning area places the [SPLectrum seed](../seed) within the broader evolution of philosophical and scientific thinking. The trajectory is consistent: from representing an external reality to relating within it.
 
 ## Core views
 

@@ -2,12 +2,12 @@
 title: The Meaning of Get
 series: mycelium
 category: engineering
-persona: Splectrum
+persona: SPLectrum
 status: storyline
 ---
 
 # The Meaning of Get
-Labels: mycelium, engineering, Splectrum
+Labels: mycelium, engineering, SPLectrum
 
 <img src="IMAGE_URL" alt="ALT" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 

@@ -2,12 +2,12 @@
 layout: post
 title: "One Identifier, Many Dimensions"
 date: 2026-06-16
-labels: [mycelium, engineering, Splectrum]
+labels: [mycelium, engineering, SPLectrum]
 blogger_id: 5392660863136865810
 ---
 <img src="https://images.unsplash.com/photo-1676107938406-b4b2c6bae45a?q=80&w=350&h=230&auto=format&fit=crop" alt="One Identifier, Many Dimensions" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
-The identifier does not point to five different things. It is one thing with five dimensions — each realised when read through the right schema. `spl.mycelium.xpath.data.uri.get` is a namespace path, a protocol operation, a schema definition, a routing address, and a concept vocabulary entry. Not five identifiers. One identifier, readable as each of these through a different lens. The same pattern as everywhere in Splectrum — multiple readings of the same reality.
+The identifier does not point to five different things. It is one thing with five dimensions — each realised when read through the right schema. `spl.mycelium.xpath.data.uri.get` is a namespace path, a protocol operation, a schema definition, a routing address, and a concept vocabulary entry. Not five identifiers. One identifier, readable as each of these through a different lens. The same pattern as everywhere in SPLectrum — multiple readings of the same reality.
 
 The grammar has two primitives. Dot separates namespace segments — tree navigation, positional namespace, the path is the qualification. Underscore opens property bags — lateral, schema-assigned namespace. AVRO identifiers are underscore-free. They live purely in the namespace dimension. The property bags they point to are where the metadata lives, but the identifier itself is a dot-separated path through the tree.
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Mutualism Without Intent"
 date: 2026-05-26
-labels: [positioning, Splectrum, comment]
+labels: [positioning, SPLectrum, comment]
 blogger_id: 6506777397753608731
 ---
 <img src="https://images.unsplash.com/photo-1612142739712-bee0e474ed06?q=80&w=350&h=230&auto=format&fit=crop" alt="Mutualism Without Intent" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
@@ -13,7 +13,7 @@ But look at the vocabulary. Cooperation. Cheating. Altruism. Strategy. These are
 
 The case for decentralisation — and the mutualism narrative is often recruited in its service — goes far deeper than this anthropocentric language game. Complex adaptive systems are characterised by the interrelation of life in general. Not cooperation between actors, but interaction between subjects, each with its own experience of reality, each moving where that experience nudges it. When [Proudhon](https://en.wikipedia.org/wiki/Pierre-Joseph_Proudhon) formalised mutualism as political philosophy — federated, voluntary, reciprocal — and when the P2P movement echoes that language two centuries later, the ethical framing feels natural. Build cooperative systems. Decentralise because it is the right thing to do. But imposing an emergent pattern is a contradiction that hides in plain sight. The attempt to organise emergence is itself a centralising move.
 
-Seen through the Splectrum seed principles, the case for decentralisation is at its most stark. All experiences of reality are decentralised. Every experience belongs to a subject — personal, situated, irreducible. Reality is not experienced centrally and then distributed. It is experienced locally and then shared. Two subjects sharing their experience of reality — that is already a peer-to-peer network. The most fundamental one. Being implies language — P0. Language is inter-relational — P3. Languages have equal standing in potential — P4. These are not ethical commitments. They are observations about how reality is constituted. Decentralisation is not a design choice or a moral position. It is the structure of experience itself.
+Seen through the SPLectrum seed principles, the case for decentralisation is at its most stark. All experiences of reality are decentralised. Every experience belongs to a subject — personal, situated, irreducible. Reality is not experienced centrally and then distributed. It is experienced locally and then shared. Two subjects sharing their experience of reality — that is already a peer-to-peer network. The most fundamental one. Being implies language — P0. Language is inter-relational — P3. Languages have equal standing in potential — P4. These are not ethical commitments. They are observations about how reality is constituted. Decentralisation is not a design choice or a moral position. It is the structure of experience itself.
 
 So what does mutualism without intent look like? Not the outward move — not pushing, not organising, not telling others what to do. That is the centralising reflex dressed in cooperative language. The move is inward. A subject shaping its own relation with its own reality — bringing into its personal reality what favours that relation. Shared reality is not imposed from above. It is constituted from below, from personal realities that overlap. When a subject deepens its relation with its own reality, the shared reality it participates in shifts with it. The mutualistic pattern forms not because anyone pushed for it, but because the conditions within personal realities produced it.
 

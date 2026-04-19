@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Splectrum is Born"
+title: "SPLectrum is Born"
 date: 2026-03-07
-labels: [seed, philosophy, Splectrum]
+labels: [seed, philosophy, SPLectrum]
 blogger_id: 4839368145119364386
 ---
 <img src="https://images.unsplash.com/photo-1613502719426-cba8fcd9e51c?q=80&w=300&h=320&auto=format&fit=crop&crop=top" alt="Mycelium threads branching through soil"/>

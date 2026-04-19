@@ -7,10 +7,10 @@ blogger_id: 139314948062516885
 ---
 <img src="https://images.unsplash.com/photo-1556197908-96ed0fa30b65?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Being Is Tension Across the Interface" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
-You could call the title of this post *Splectrum speak*. The seed principle P0 states ***Being Implies Language***. The two come together. Over the centuries creation has been formulated and reformulated as an act of differentiation. There is no being without its complement, without non-being. The differentiation, a tension keeping both different.
+You could call the title of this post *SPLectrum speak*. The seed principle P0 states ***Being Implies Language***. The two come together. Over the centuries creation has been formulated and reformulated as an act of differentiation. There is no being without its complement, without non-being. The differentiation, a tension keeping both different.
 
 I find it fascinating how so many independent traditions have reformulated that same insight, each in their own vocabulary, each with a different take.
-So I decided to share a number of them, if anything to illustrate that this creational Splectrum principle is nothing special. 
+So I decided to share a number of them, if anything to illustrate that this creational SPLectrum principle is nothing special. 
 It has been a constant over centuries.
 
 Let's start with a presocratic one<br/>

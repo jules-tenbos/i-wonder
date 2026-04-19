@@ -1,8 +1,8 @@
 [Home](/) > [Engineering](/engineering/) > [Personas](/engineering/personas/) > [Public Conscious Persona](/engineering/personas/public-conscious-persona/) > Current
 
-# Splectrum — Public Conscious Persona 1.0
+# SPLectrum — Public Conscious Persona 1.0
 
-This page describes how the blog operates as Splectrum's public conscious persona. The concept is introduced in [The Blog as Public Conscious Persona](https://julestenbos.blogspot.com/2026/05/the-blog-as-public-conscious-persona.html) — this page holds the technical detail.
+This page describes how the blog operates as SPLectrum's public conscious persona. The concept is introduced in [The Blog as Public Conscious Persona](https://julestenbos.blogspot.com/2026/05/the-blog-as-public-conscious-persona.html) — this page holds the technical detail.
 
 ## The model
 
@@ -37,7 +37,7 @@ Three dimensions: **series**, **category**, **persona**. Not every post has all 
 
 - **Series** — groups posts into a journey. Current: positioning, language, seed, reality
 - **Category** — the domain. Current: philosophy, science, engineering, HAICC
-- **Persona** — who is speaking. Current: Splectrum, comment, thought, or a named source (Wittgenstein, Rorty, Merleau-Ponty)
+- **Persona** — who is speaking. Current: SPLectrum, comment, thought, or a named source (Wittgenstein, Rorty, Merleau-Ponty)
 
 ## Conscious thought handling
 
@@ -46,7 +46,7 @@ Submissions are conscious thoughts — raw material that has surfaced. Before be
 1. **Analysis** — read the submission, understand what's in it.
 2. **Discussion** — work through the content. Refine, split, restructure, enrich.
 3. **Decision on destination**:
-   - **Splectrum explore** — needs research, or postpone for later.
+   - **SPLectrum explore** — needs research, or postpone for later.
    - **Draft** — ready for writing (post and/or reference library update).
    - **Rejected** — deleted. Git has the archive.
 
@@ -98,7 +98,7 @@ The draft file serves as the workspace during production — containing notes, p
 title: Post title
 series: e.g. language, positioning
 category: e.g. philosophy, science, engineering
-persona: e.g. Splectrum, comment, thought
+persona: e.g. SPLectrum, comment, thought
 status: storyline | draft | review-ready
 ---
 ```

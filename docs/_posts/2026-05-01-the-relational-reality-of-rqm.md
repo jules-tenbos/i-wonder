@@ -49,7 +49,7 @@ The picture that emerges is this: reality is relational — properties exist thr
 
 This is not a philosophical position imposed on the physics. It is what the physics says, when we stop insisting on an outside view that was never available.
 
-This view of reality, anchored in physics, is very much what Splectrum wants to adopt into the vocabulary that is being built from the seed.
+This view of reality, anchored in physics, is very much what SPLectrum wants to adopt into the vocabulary that is being built from the seed.
 
 <small>This post is part of the [positioning series](/search/label/positioning). More on the philosophical and scientific trajectory in the <a href="https://jules-tenbos.github.io/in-wonder/positioning">positioning area of the reference library</a>.</small>
 

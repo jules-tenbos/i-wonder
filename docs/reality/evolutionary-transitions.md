@@ -2,13 +2,13 @@
 
 # Evolutionary Transitions
 
-The major transitions in the history of reality arrive roughly an order of magnitude faster each time. The conventional reading: things got more complex, power accumulated. The Splectrum reading: the power was always there. What changes is expression. Growth in expression, not in power — P5.
+The major transitions in the history of reality arrive roughly an order of magnitude faster each time. The conventional reading: things got more complex, power accumulated. The SPLectrum reading: the power was always there. What changes is expression. Growth in expression, not in power — P5.
 
 ---
 
 ## The curve
 
-The Splectrum reading: the transitions conform to thresholds in interaction density. Each threshold marks a point where something structurally new emerges — not predicted from below, recognisable in hindsight.
+The SPLectrum reading: the transitions conform to thresholds in interaction density. Each threshold marks a point where something structurally new emerges — not predicted from below, recognisable in hindsight.
 
 - **~4 billion years ago** — stable chemistry from quantum interactions. [Decoherence](https://en.wikipedia.org/wiki/Quantum_decoherence): quantum interactions accumulating to the point where properties become effectively stable.
 - **~500 million years ago** — complex multicellular life. Self-maintaining systems sustaining their own interaction density.
@@ -21,7 +21,7 @@ The compression: each transition roughly an order of magnitude faster.
 
 ## What drives the curve
 
-Not progress — that is the anthropocentric reading. The Splectrum reading: each transition increases the density of interaction available. More interaction produces more capacity for interaction. Self-generating. If the seed holds, the exponential conforms to the relational — not imposed from outside, but a property of interaction itself.
+Not progress — that is the anthropocentric reading. The SPLectrum reading: each transition increases the density of interaction available. More interaction produces more capacity for interaction. Self-generating. If the seed holds, the exponential conforms to the relational — not imposed from outside, but a property of interaction itself.
 
 ## Thresholds, not breaks
 

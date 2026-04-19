@@ -2,12 +2,12 @@
 layout: post
 title: "Mycelium — The Data Fabric"
 date: 2026-05-20
-labels: [mycelium, engineering, Splectrum]
+labels: [mycelium, engineering, SPLectrum]
 blogger_id: 2725312844865805306
 ---
 <img src="https://images.unsplash.com/photo-1718049942873-58bd663206dc?q=80&w=2067&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Mycelium — The Data Fabric" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
-This post is the first of the mycelium series. The [splectrum engineering post](https://julestenbos.blogspot.com/2026/05/splectrum-engineering.html) describes three pillars of a Splectrum system — mycelium (state), splectrum (meaning), HAICC (cognition). Mycelium is what I call the main pillar: it provides the fabric structure for data, and is the base fabric on which the other two build.
+This post is the first of the mycelium series. The [splectrum engineering post](https://julestenbos.blogspot.com/2026/05/splectrum-engineering.html) describes three pillars of a SPLectrum system — mycelium (state), splectrum (meaning), HAICC (cognition). Mycelium is what I call the main pillar: it provides the fabric structure for data, and is the base fabric on which the other two build.
 
 Data is stored in a tree structure, wrapped into individual repositories — *subject realities* — under [git](https://git-scm.com/) as distributed version control. Git provides the hard boundary: identity, history, integrity. Each repository is a distinct entity — what you see is what there is. No hidden data, no hidden process. There is no central data world. Only subject realities exist. The totality of data is a logical concept, never a physical repository. Data lives where it is created and is referenced for consumption elsewhere. A consuming repository may hold local copies, but its data state for consumed data is not authoritative. The writer owns the data.
 
@@ -25,7 +25,7 @@ The fabric is built from one primitive: an immutable key-value record with opaqu
 
 Structure is behaviour. What you build is how it behaves. What you don't build can't happen — architecture of absence. No configuration, no flags. The source of truth is always immutable records. Mutable structures — tables, indexes, document libraries — are projections maintained by embedded processes. You can throw them away and rebuild them from the immutable base.
 
-As with the whole Splectrum design, the fabric describes how data must look — not how it must be physically stored. Physical implementations are free to use whatever fits, as long as they are compatible with the logical design.
+As with the whole SPLectrum design, the fabric describes how data must look — not how it must be physically stored. Physical implementations are free to use whatever fits, as long as they are compatible with the logical design.
 
 Processes live in the fabric alongside the data — embedded in context metadata, dormant until a data state change wakes them. No orchestration. The data state is the relay. Schema is the contract between a record and the process that operates on it — a process concern, not a fabric concern. The process declares what it needs through its reader schema. The data either conforms or it doesn't.
 

@@ -1,6 +1,6 @@
 # Cold Tone-of-Voice and Tone-of-Thought Analysis
 
-Based on a careful reading of all 23 published blog posts (March 2026 onwards, plus 2024-2025 pre-Splectrum posts). Cold read — no prior context, no existing tone guides consulted.
+Based on a careful reading of all 23 published blog posts (March 2026 onwards, plus 2024-2025 pre-SPLectrum posts). Cold read — no prior context, no existing tone guides consulted.
 
 Date: 2026-04-08
 
@@ -58,13 +58,13 @@ Finally, the thinking values simplicity of foundation and complexity of expressi
 
 ## PART 2: PER-PERSONA DIFFERENCES
 
-### Persona: Splectrum (9 posts)
+### Persona: SPLectrum (9 posts)
 
-This is the framework voice — the one that speaks *from within* the Splectrum project. It is the most confident and the most architectural of all the personas.
+This is the framework voice — the one that speaks *from within* the SPLectrum project. It is the most confident and the most architectural of all the personas.
 
-**How it sounds:** Assured but invitational. The Splectrum voice presents the seed principles, walks through them, applies them, stress-tests them — but always with the framing of "let's see if this holds." It uses more structured exposition than the other personas: numbered principles, bolded terms, clear walk-throughs. Sentences tend to be slightly longer and more carefully constructed. The engineering posts (Splectrum Engineering, Commitments) are the most technically dense writing in the entire corpus, with explicit design vocabulary ("fabric," "pillar," "commitment," "conformance"). The philosophical Splectrum posts (First Principles, Privacy, Language and Experience) are more lyrical.
+**How it sounds:** Assured but invitational. The SPLectrum voice presents the seed principles, walks through them, applies them, stress-tests them — but always with the framing of "let's see if this holds." It uses more structured exposition than the other personas: numbered principles, bolded terms, clear walk-throughs. Sentences tend to be slightly longer and more carefully constructed. The engineering posts (SPLectrum Engineering, Commitments) are the most technically dense writing in the entire corpus, with explicit design vocabulary ("fabric," "pillar," "commitment," "conformance"). The philosophical SPLectrum posts (First Principles, Privacy, Language and Experience) are more lyrical.
 
-**How it thinks:** The Splectrum voice thinks in principles first, examples second. It begins with the seed and works outward. It is systematising — it wants to show how the principles generate structure across domains. The engineering posts are particularly notable: the voice moves from philosophical axiom to engineering constraint in a single step, treating the transition as low-friction. This is where the voice is most original: it does philosophy and engineering in the same breath without apology.
+**How it thinks:** The SPLectrum voice thinks in principles first, examples second. It begins with the seed and works outward. It is systematising — it wants to show how the principles generate structure across domains. The engineering posts are particularly notable: the voice moves from philosophical axiom to engineering constraint in a single step, treating the transition as low-friction. This is where the voice is most original: it does philosophy and engineering in the same breath without apology.
 
 **Distinctive features:**
 - Uses the seed principles (P0-P5) as explicit reference points, often quoting them in italics.
@@ -88,7 +88,7 @@ This is the framework voice — the one that speaks *from within* the Splectrum 
 
 ### Persona: thought (4 posts — the earliest writing, 2024)
 
-**How it sounds:** The thought voice is the rawest and least polished. These four posts are clearly from before the Splectrum framework existed. The voice is more fragmented — shorter paragraphs, bullet points, headings that function as scaffolding. The writing is less flowing, more like notes-towards-a-position. "Promises Made, Promises Broken" is almost confessional: line breaks as pauses, no argument structure at all, just a person admitting they haven't delivered.
+**How it sounds:** The thought voice is the rawest and least polished. These four posts are clearly from before the SPLectrum framework existed. The voice is more fragmented — shorter paragraphs, bullet points, headings that function as scaffolding. The writing is less flowing, more like notes-towards-a-position. "Promises Made, Promises Broken" is almost confessional: line breaks as pauses, no argument structure at all, just a person admitting they haven't delivered.
 
 **How it thinks:** The thought persona is pre-systematic. It has intuitions ("we are all only ever right to some extent," "diversity is crucial") but no framework to organise them. The thinking is reaching for something but hasn't found it yet. "Philosophy and the Brain" and "Evolution and the Brain" read like summaries of what the author has been learning, not yet digested into a voice. "Am I a Libertarian?" is a values inventory, not an argument.
 
@@ -97,13 +97,13 @@ This is the framework voice — the one that speaks *from within* the Splectrum 
 - Uses headings (## subheadings) more than the later posts, suggesting the writing needs structural scaffolding that the later voice no longer requires.
 - The most emotionally exposed persona: "I feel a lot more comfortable in what I know," "I am ready for the journey," "New promise made... let's see what happens!"
 - These posts lack the characteristic concrete-to-abstract-to-concrete movement of the later writing. They tend to stay at the abstract/summary level.
-- The voice in these posts is recognisably the same person as the Splectrum voice, but without confidence in a direction. The curiosity and anti-hierarchical instinct are already present; the organising principle is not.
+- The voice in these posts is recognisably the same person as the SPLectrum voice, but without confidence in a direction. The curiosity and anti-hierarchical instinct are already present; the organising principle is not.
 
 ### Persona: named source — Wittgenstein
 
 **How it sounds:** This is the voice of a storyteller recounting an intellectual drama. The Wittgenstein post reads almost like biography in miniature. The sentences are vivid and punchy: "A logical straitjacket, beautifully tailored." "Then it tore." The voice is not neutral — it has clear admiration for Wittgenstein's turn, and it tells the story with narrative momentum. There is a beginning, a crisis, a resolution, and a denouement.
 
-**How it thinks:** The thinking is interpretive. The voice reads Wittgenstein through Splectrum lenses — "from language to language game, from language game to form of life" — but this framing is held lightly. The post does not argue that Wittgenstein was "really saying what Splectrum says." Instead, it traces a movement and notes the resonance. The thinking connects across domains (quantum mechanics mentioned alongside the language turn) but without forcing the connection.
+**How it thinks:** The thinking is interpretive. The voice reads Wittgenstein through SPLectrum lenses — "from language to language game, from language game to form of life" — but this framing is held lightly. The post does not argue that Wittgenstein was "really saying what SPLectrum says." Instead, it traces a movement and notes the resonance. The thinking connects across domains (quantum mechanics mentioned alongside the language turn) but without forcing the connection.
 
 **Distinctive features:**
 - The most narrative of all posts. It has a plot arc.
@@ -141,7 +141,7 @@ This is the framework voice — the one that speaks *from within* the Splectrum 
 **Distinctive features:**
 - Most names per paragraph. These posts are reference-dense in a way the other personas are not.
 - Least use of first person (except the anti-foundationalism post).
-- The science posts use no seed principle references. They stay within the scientific narrative and let the reader draw the connection to Splectrum.
+- The science posts use no seed principle references. They stay within the scientific narrative and let the reader draw the connection to SPLectrum.
 - The RQM post is the most sustained piece of analytical writing in the corpus. It handles competing interpretations (Copenhagen, Bohm, Many-Worlds, decoherent histories) with notable evenhandedness before making its case for RQM.
 - "From the Turn to the Present" is the most compressed and rapid-fire of all posts — it covers eight philosophers in roughly 800 words. The voice here is at its most efficient.
 - The anti-foundationalism post stands apart. It is earlier, less confident, and more openly exploratory. It uses a search engine AI overview as a starting point, which no other post does. It feels like a precursor to the comment persona rather than a member of this group.
@@ -152,10 +152,10 @@ This is the framework voice — the one that speaks *from within* the Splectrum 
 
 **The evolution of the voice over time.** There is a clear developmental arc from the 2024 "thought" posts through the 2025 anti-foundationalism post to the 2026 material. The early writing is fragmentary, uses structural scaffolding (headings, bullets), and lacks a unifying thread. The 2026 writing is fluid, confident, structurally assured, and has the seed as its organising principle. The arrival of the seed appears to have resolved both a philosophical and a stylistic problem — the voice found what it wanted to say and how it wanted to say it at roughly the same time.
 
-**The "I" varies in prominence, never in kind.** Across all personas, the first person is the same person — curious, anti-hierarchical, concrete-minded, drawn to structural parallels. What changes is how much this person steps forward. In Splectrum posts, the "I" is a framework-builder. In comment posts, the "I" is a reflective author. In thought posts, the "I" is a searching learner. In the named-source and no-persona posts, the "I" mostly retreats but the sensibility remains.
+**The "I" varies in prominence, never in kind.** Across all personas, the first person is the same person — curious, anti-hierarchical, concrete-minded, drawn to structural parallels. What changes is how much this person steps forward. In SPLectrum posts, the "I" is a framework-builder. In comment posts, the "I" is a reflective author. In thought posts, the "I" is a searching learner. In the named-source and no-persona posts, the "I" mostly retreats but the sensibility remains.
 
-**Positioning posts serve a distinct function.** The Wittgenstein/Rorty/Merleau-Ponty posts and the science posts are not Splectrum posts. They are research that the Splectrum voice draws on. The voice in these posts is deliberately more neutral and narrative. It does not apply the seed. It tells the story and lets the reader see the resonance. This restraint is a genuine tonal choice, not a lapse.
+**Positioning posts serve a distinct function.** The Wittgenstein/Rorty/Merleau-Ponty posts and the science posts are not SPLectrum posts. They are research that the SPLectrum voice draws on. The voice in these posts is deliberately more neutral and narrative. It does not apply the seed. It tells the story and lets the reader see the resonance. This restraint is a genuine tonal choice, not a lapse.
 
-**The engineering voice is a distinct register.** The Splectrum Engineering and Commitments posts introduce a vocabulary and a structural precision that does not appear elsewhere. Terms like "fabric," "honesty criterion," "design commitment," "low friction," "data state," "conformance" are used with technical intentionality. This is not a different person — the same habits of concrete-to-abstract thinking and anti-hierarchical framing are present — but it is a distinctly more technical register. The engineering voice bridges philosophical axiom and software architecture in the same sentence, which is the most distinctive feature of this project's writing overall.
+**The engineering voice is a distinct register.** The SPLectrum Engineering and Commitments posts introduce a vocabulary and a structural precision that does not appear elsewhere. Terms like "fabric," "honesty criterion," "design commitment," "low friction," "data state," "conformance" are used with technical intentionality. This is not a different person — the same habits of concrete-to-abstract thinking and anti-hierarchical framing are present — but it is a distinctly more technical register. The engineering voice bridges philosophical axiom and software architecture in the same sentence, which is the most distinctive feature of this project's writing overall.
 
 **What the voice never loses, across all personas:** the sense that the reader is being spoken to, not spoken at. Every persona maintains this. Even the most technically dense engineering post and the most historically compressed science overview keep the conversational frame. The voice never ascends to a place where it cannot be interrupted.

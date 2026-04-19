@@ -44,11 +44,11 @@ This is architecturally active:
 
 - Multiple conformance is not a theoretical property but multiple readings through different meaning languages — same carrier, different namespace, different result.
 - AVRO's nominal gate (name check before structural resolution) enforces language commitment — language hygiene, not rigidity.
-- The carrier/meaning separation means AVRO's namespace mechanism already performs what a separate language identification system would have to be built to do. Splectrum's language hygiene lives natively inside AVRO's own structure.
+- The carrier/meaning separation means AVRO's namespace mechanism already performs what a separate language identification system would have to be built to do. SPLectrum's language hygiene lives natively inside AVRO's own structure.
 
 **Design test:** every mechanism should be evaluated against this separation. If a mechanism conflates carrier and meaning, it is misplaced.
 
-The carrier/meaning discovery is itself an instance of simplification by discovery. The namespace was always present in AVRO. The carrier/meaning distinction was always present in the architecture. They are the same thing read through the Splectrum lens. Nothing was added. Something was discovered.
+The carrier/meaning discovery is itself an instance of simplification by discovery. The namespace was always present in AVRO. The carrier/meaning distinction was always present in the architecture. They are the same thing read through the SPLectrum lens. Nothing was added. Something was discovered.
 
 ## Type System and Resolution
 
@@ -134,12 +134,12 @@ The conformance relationship between record and process — the core mechanism t
 How protocol libraries place their operation schemas in fabric metadata.
 
 - The convention — what a protocol library places into metadata to make its capabilities available. Facts in the fabric, not entries in a registry.
-- Namespace conventions — how AVRO namespaces map to protocol library identity. Mycelium core, Splectrum, HAICC, application protocols each in their own namespace.
+- Namespace conventions — how AVRO namespaces map to protocol library identity. Mycelium core, SPLectrum, HAICC, application protocols each in their own namespace.
 - Operation schemas — how each protocol operation is defined as an AVRO RPC method with input and output types.
 - Schema discovery — how a subject or process encounters what protocol operations are available through traversal.
 - Evolution — how protocol libraries evolve their schemas using AVRO's native compatibility rules.
 
-Protocol operations are located inside the languages they belong to. There is no flat registry of operations. Each protocol library owns its namespace branch. Operations within that branch are reachable through the namespace path. Querying "what operations does Splectrum's relational language offer" is a traversal of the namespace tree.
+Protocol operations are located inside the languages they belong to. There is no flat registry of operations. Each protocol library owns its namespace branch. Operations within that branch are reachable through the namespace path. Querying "what operations does SPLectrum's relational language offer" is a traversal of the namespace tree.
 
 Language composition without collision: two languages can define an operation with the same local name — `compare`, `validate`, `transform` — and they never conflict because the namespace path disambiguates. The local name is the operation. The path is the language context. Together they are a unique address.
 
@@ -154,7 +154,7 @@ How a complete input footprint becomes an AVRO message that triggers a transform
 - How the process report is schematised — its AVRO definition as part of the output.
 - Local versus remote execution — same schema, different binding. How the configuration works.
 
-**Interpretation as invocation.** Reading data through a meaning language is not a passive check — it is an active process with the same shape as every other process: input data state, schema contract, output data state. Reading data as a financial record is an RPC call through the financial namespace. Reading the same data as a Splectrum relational structure is an RPC call through the Splectrum namespace. Schema discovery, process invocation, and data interpretation collapse into one pattern: namespace identifies the language, data schema specifies the carrier contract, RPC enforces the boundary and performs the transformation.
+**Interpretation as invocation.** Reading data through a meaning language is not a passive check — it is an active process with the same shape as every other process: input data state, schema contract, output data state. Reading data as a financial record is an RPC call through the financial namespace. Reading the same data as a SPLectrum relational structure is an RPC call through the SPLectrum namespace. Schema discovery, process invocation, and data interpretation collapse into one pattern: namespace identifies the language, data schema specifies the carrier contract, RPC enforces the boundary and performs the transformation.
 
 **Three levels of opacity.** The architecture exhibits the same structural pattern at three levels:
 

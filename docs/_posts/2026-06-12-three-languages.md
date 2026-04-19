@@ -2,14 +2,14 @@
 layout: post
 title: "Three Languages"
 date: 2026-06-12
-labels: [mycelium, engineering, Splectrum]
+labels: [mycelium, engineering, SPLectrum]
 blogger_id: 7293775566762044447
 ---
 <img src="https://images.unsplash.com/photo-1650844228078-6c3cb119abcd?q=80&w=350&h=230&auto=format&fit=crop" alt="Three Languages" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
 Mycelium is not a language. It is where three languages meet. AVRO provides the language of structure — schema, conformance, the relationship between record and process. Git provides the language of historicity — identity, boundary, the memory of what was. Kafka provides the language of mobility — streaming, context carriage, data that travels. Each addresses one orthogonal concern. None overlaps. None is mycelium. Mycelium is the fabric, the tree structure, the context model, the protocols — the relational space in which three equal-standing languages interoperate.
 
-These are commitments, not discoveries of necessity. The capability requirements are necessary — you need self-describing shape, you need history with forgetting, you need streaming with context. But the choice of which language fulfils each is Splectrum's commitment. Another framework could commit differently — choose Protocol Buffers instead of AVRO, choose a different version control model, choose a different streaming platform. P4 — equal standing in potential. What makes these the right commitments is the fit between requirement and language, not a law that excludes alternatives. And each language has its own grammar that mycelium conforms to rather than invents. Mycelium does not wrap them in an abstraction that hides their nature. It speaks all three.
+These are commitments, not discoveries of necessity. The capability requirements are necessary — you need self-describing shape, you need history with forgetting, you need streaming with context. But the choice of which language fulfils each is SPLectrum's commitment. Another framework could commit differently — choose Protocol Buffers instead of AVRO, choose a different version control model, choose a different streaming platform. P4 — equal standing in potential. What makes these the right commitments is the fit between requirement and language, not a law that excludes alternatives. And each language has its own grammar that mycelium conforms to rather than invents. Mycelium does not wrap them in an abstraction that hides their nature. It speaks all three.
 
 What does data need to travel self-sufficiently? Five things. Identity — a key that makes it addressable outside the tree. Context carriage — headers that carry whatever interpretive context the extraction requires. Arrival order — an offset, because every arrival has an order whether it matters for the content or not. Historicity — a timestamp, the moment of extraction as itself a datum. Self-description — headers about headers, so the envelope can describe itself. The Kafka record fulfils all five. That is what makes it the right commitment for the streaming language.
 

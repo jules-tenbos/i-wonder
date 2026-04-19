@@ -2,7 +2,7 @@
 layout: post
 title: "AVRO — The Language of Articulation"
 date: 2026-06-04
-labels: [mycelium, engineering, Splectrum]
+labels: [mycelium, engineering, SPLectrum]
 blogger_id: 2428550605989625379
 ---
 <img src="https://images.unsplash.com/photo-1705484229341-4f7f7519b718?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="AVRO — The Language of Articulation" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />

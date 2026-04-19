@@ -1,8 +1,8 @@
 [Home](/) > Vocabulary
 
-# Splectrum Vocabulary
+# SPLectrum Vocabulary
 
-Terms as used within Splectrum. This vocabulary grows as the project develops.
+Terms as used within SPLectrum. This vocabulary grows as the project develops.
 
 ---
 
@@ -36,7 +36,7 @@ Terms as used within Splectrum. This vocabulary grows as the project develops.
 
 **Mycelium** — the data fabric. Where things exist. The substrate through which a subject accesses the data world. Structure, records, contexts, metadata, traversal. The engineering cornerstone.
 
-**Splectrum** — the language fabric. What languages are available and how they relate. Meaning. Supplies the languages — protocol libraries, schemas, meaning structures. The relational structure that governs how decentralised data and decentralised cognition interact.
+**SPLectrum** — the language fabric. What languages are available and how they relate. Meaning. Supplies the languages — protocol libraries, schemas, meaning structures. The relational structure that governs how decentralised data and decentralised cognition interact.
 
 **Interaction surface** — the entity's exposed interface. Where language lives. The surface through which a subject is known — by its imprint on the fabric, not by looking inside.
 
@@ -56,11 +56,11 @@ Terms as used within Splectrum. This vocabulary grows as the project develops.
 
 **Namespace tree** — every language that participates in the fabric gets its own namespace tree — its own way of organising identity, its own structure for naming what it knows. The fabric weaves these trees together. The pivot between any two trees is the readable-as principle.
 
-**Threshold** — in the Splectrum reading, a point where interaction density crosses into something structurally new. Not a break — a transition. Each produces something qualitatively new, not predicted from below, recognisable in hindsight. If the seed holds, the transitions conform to a web, not a ladder — equal standing across levels.
+**Threshold** — in the SPLectrum reading, a point where interaction density crosses into something structurally new. Not a break — a transition. Each produces something qualitatively new, not predicted from below, recognisable in hindsight. If the seed holds, the transitions conform to a web, not a ladder — equal standing across levels.
 
 **Emergence** — the appearance of something structurally new that conforms to interaction density crossing a threshold. Not designed, not predicted from below. Not replacement of what came before — layering above it. Transcendence, not revolution.
 
-**Constitutive dependency** — a dependency that is part of the architecture. Forked, barified, maintained locally. Vendored into the runtime repo as a git subtree. As much Splectrum code as any other module.
+**Constitutive dependency** — a dependency that is part of the architecture. Forked, barified, maintained locally. Vendored into the runtime repo as a git subtree. As much SPLectrum code as any other module.
 
 **Platform dependency** — a dependency that is the platform. Maintained by the platform vendor (Holepunch). Sourced from GitHub, pinned to release tags. Becomes constitutive if it needs modification. The boundary is permeable.
 

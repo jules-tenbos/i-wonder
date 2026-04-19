@@ -15,13 +15,13 @@
 - **April 11 — How Science Became Relational** — the science parallel. From Aristotle through the Scientific Revolution (Descartes/Newton built the outside view) to its dismantling: relativity, quantum mechanics, the observer forced back in. The mind/body split as both liberation and the seed of its own undoing.
 - **April 16 — The Relational Reality of RQM** — RQM. From radical position to mainstream. Properties belong to interactions, not objects. The relational view as the water we now swim in.
 - **April 21 — In Search of the Simplest Language** — programming languages as languages; how stripped-down can a language get and still be a language? Opens the door to a wider scope without needing to assert it.
-- **April 26 — Language as a Form of Life and Beyond** — the bold post. Unpacking the Splectrum seed: language extended all the way into 'dead matter'. Not metaphor — structural claim. The philosophical and science turns converge here.
+- **April 26 — Language as a Form of Life and Beyond** — the bold post. Unpacking the SPLectrum seed: language extended all the way into 'dead matter'. Not metaphor — structural claim. The philosophical and science turns converge here.
 
 ## Territory: Life
 
 The relational pattern in living systems. Biology, biosemiotics, cellular signalling, the bee dance. Branch point still open — could come off the science arc (physics to life, different scale) or off Merleau-Ponty (the body as medium pointing towards biology). Needs thinking.
 
-## Territory: Splectrum Engineering
+## Territory: SPLectrum Engineering
 
 Interlaced as the work produces material. Mycelium, HAICC, the software expressing the same principle in code. Timing and topics depend on what emerges.
 
@@ -35,7 +35,7 @@ After RQM establishes the relational, this cluster establishes what we mean by l
 
 ## Territory: Building from the Seed
 
-After the turn and RQM, the ground is established and the confidence earned. Splectrum starts building its own positions — epistemology, ontology, ethics — each a widening spiral from the seed. Not defending the principle against other positions but building from it. The language wings spread.
+After the turn and RQM, the ground is established and the confidence earned. SPLectrum starts building its own positions — epistemology, ontology, ethics — each a widening spiral from the seed. Not defending the principle against other positions but building from it. The language wings spread.
 
 This only works if the groundwork (encounters, turn, RQM) is thorough enough that the confidence is earned, not asserted.
 

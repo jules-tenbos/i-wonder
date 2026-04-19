@@ -3,7 +3,7 @@
 # Bare Runtime Reference
 
 Reference for the Holepunch Bare runtime — the
-JavaScript runtime used by Splectrum for prototyping
+JavaScript runtime used by SPLectrum for prototyping
 and targeted for production deployment.
 
 ---

@@ -12,7 +12,7 @@ A fungus extending its hyphae into a root system is not cooperating. It is doing
 
 The ethical framing — build cooperative systems, decentralise because it is the right thing to do — imports intent into a domain without it. The attempt to organise emergence is itself a centralising move.
 
-## Splectrum comment
+## SPLectrum comment
 
 The case for decentralisation is at its most stark seen through the seed. All experiences of reality are decentralised. Every experience belongs to a subject — personal, situated, irreducible. Reality is not experienced centrally and then distributed. It is experienced locally and then shared. Two subjects sharing their experience of reality — that is already a peer-to-peer network. The most fundamental one.
 

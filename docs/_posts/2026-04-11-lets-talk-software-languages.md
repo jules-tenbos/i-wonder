@@ -2,12 +2,12 @@
 layout: post
 title: "Let's Talk Software Languages"
 date: 2026-04-11
-labels: [language, engineering, Splectrum]
+labels: [language, engineering, SPLectrum]
 blogger_id: 8542284925731887164
 ---
 <img src="https://images.unsplash.com/photo-1625459201773-9b2386f53ca2?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Software code" />
 
-Splectrum has a very broad view of language. It recognises a wide variety of language categories, although many categories may not feel that close to us. Natural languages and software languages are two categories that we as humans do have a close affinity with. By nature, natural languages can be ambiguous, context-dependent, evolving, full of implication and unspoken meaning. This is a real strength. Software languages on the other hand are not. They are fully explicit. Every rule is written down, all is well-defined by definition. Software languages are languages in the way that Russell always wanted them to be. That is their strength. It also makes them a good category to learn from.
+SPLectrum has a very broad view of language. It recognises a wide variety of language categories, although many categories may not feel that close to us. Natural languages and software languages are two categories that we as humans do have a close affinity with. By nature, natural languages can be ambiguous, context-dependent, evolving, full of implication and unspoken meaning. This is a real strength. Software languages on the other hand are not. They are fully explicit. Every rule is written down, all is well-defined by definition. Software languages are languages in the way that Russell always wanted them to be. That is their strength. It also makes them a good category to learn from.
 
 Let's take a look using a simple addition as an example. In the Python language it is written as `x = 3 + 4` — calculate three plus four and assign it to variable x. It's a straightforward instruction. But the computer processor can't read it that way. At the execution level a computer processor only reads binary — a language with an alphabet of two symbols: 0 and 1. Its vocabulary — the instruction set — is preconfigured and fixed. Note that the instruction set depends on the specific processor.
 
@@ -49,7 +49,7 @@ Assemblers and compilers aren't unique to software. Language mapping and transfo
 
 The primordial hardwired language brings the raw power of execution. Higher languages bring the power of thought through the clarity and simplicity of its concepts and grammar. As thinking evolves, so do languages. It's only natural.
 
-<small>This post is part of the [language series](/search/label/language). More on Splectrum and language in the <a href="https://jules-tenbos.github.io/in-wonder/language/">language area of the reference library</a>.</small>
+<small>This post is part of the [language series](/search/label/language). More on SPLectrum and language in the <a href="https://jules-tenbos.github.io/in-wonder/language/">language area of the reference library</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@carlgonz">Carl Gonzalez</a> / Unsplash</small>

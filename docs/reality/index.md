@@ -12,7 +12,7 @@ Evolution is built into the fabric: relating generates more to be related to. Re
 
 Equal standing has ethical consequences — for how we think about other forms of life, about different cultures and beliefs, about what can be imposed from outside a language. The direction is open; the work is ahead.
 
-This area explores how Splectrum addresses these questions as the conversation deepens.
+This area explores how SPLectrum addresses these questions as the conversation deepens.
 
 - [Discovery](discovery) — creation conforms to discovery, diversification, the multiplier
 - [Evolutionary Transitions](evolutionary-transitions) — the curve, the thresholds, the thinking side

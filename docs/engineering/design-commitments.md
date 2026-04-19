@@ -2,7 +2,7 @@
 
 # Design Commitments
 
-Top-level design commitments for the Splectrum engineering. These are philosophical structure expressed as engineering. The quality test at this level is conformance with the philosophical framework — low friction. Engineering rationale belongs in the designs that implement these commitments.
+Top-level design commitments for the SPLectrum engineering. These are philosophical structure expressed as engineering. The quality test at this level is conformance with the philosophical framework — low friction. Engineering rationale belongs in the designs that implement these commitments.
 
 Applies across all three pillars: mycelium, splectrum, HAICC.
 
@@ -13,12 +13,12 @@ Applies across all three pillars: mycelium, splectrum, HAICC.
 P0: being implies language yields three inseparable aspects — mycelium (state), splectrum (meaning), HAICC (cognition). Three fabrics, not three layers. Aspects of the same thing.
 
 - **Mycelium** — where things exist. The substrate. Structure.
-- **Splectrum** — what languages are available and how they relate. Meaning.
+- **SPLectrum** — what languages are available and how they relate. Meaning.
 - **HAICC** — how process flows through those languages. Cognition in motion.
 
 ## The Design Lives in the Logical Space
 
-The architecture describes how a Splectrum system must look — not how it must be physically built. Mycelium is the physical carrier. Splectrum is the logical meaning. HAICC is the activation that resolves one into the other. Physical implementations are free to use whatever technology fits, as long as they are compatible with the logical design. Compatibility, not literal translation.
+The architecture describes how a SPLectrum system must look — not how it must be physically built. Mycelium is the physical carrier. SPLectrum is the logical meaning. HAICC is the activation that resolves one into the other. Physical implementations are free to use whatever technology fits, as long as they are compatible with the logical design. Compatibility, not literal translation.
 
 Physical implementation is JIT — it goes only as far as capability requires. Where there is no need, there is no implementation — architecture of absence at the physical level. Large parts of the logical design may have no physical counterpart because the capability hasn't been called for yet. The gap is not a deficit. It is the natural state of a design that materialises through use.
 
@@ -28,7 +28,7 @@ P4: equal standing all the way through. Decentralisation is not an afterthought 
 
 - Mycelium decentralised at data — no central database, no single source of truth.
 - HAICC decentralised at cognition — human and AI agents as collaborative peers, no central controller.
-- Splectrum the relational structure that makes both coherent without central authority.
+- SPLectrum the relational structure that makes both coherent without central authority.
 
 ## Context and Language Are Mutually Constitutive
 
@@ -40,11 +40,11 @@ P2: reality is the dynamic of the data state of being. The engineering does not 
 
 ## Natural Language as Carrier
 
-P4, Splectrum + HAICC: splectrum supplies the languages. HAICC supplies the process flow. Natural language as carrier removes language lock-in. AI makes this operational. The carrier must be the most fluid medium available.
+P4, SPLectrum + HAICC: splectrum supplies the languages. HAICC supplies the process flow. Natural language as carrier removes language lock-in. AI makes this operational. The carrier must be the most fluid medium available.
 
 ## Ambiguity Is Generative
 
-P4, Splectrum: the boundary is never perfectly sealed — and that is generativity, not failure. Rigid formal languages close down possibility. Natural language keeps the system open at the fringes. The fringes are where new meaning enters.
+P4, SPLectrum: the boundary is never perfectly sealed — and that is generativity, not failure. Rigid formal languages close down possibility. Natural language keeps the system open at the fringes. The fringes are where new meaning enters.
 
 ## The Honesty Criterion
 
@@ -70,7 +70,7 @@ P2: the subject never touches the data world directly — only through the local
 
 P3: no separate sharing mechanism. What you can see is what is (potentially) shared. Convergence is shared reality, objectivity. Shared reality is produced by subject interaction mediated by the data fabric, not discovered behind it and not conversational.
 
-## Splectrum Supplies Languages, HAICC Supplies Process Flow
+## SPLectrum Supplies Languages, HAICC Supplies Process Flow
 
 Pillar division of concern. Protocol libraries — language definitions, schemas, meaning structures — are splectrum. Process triggering, readiness, execution, the attention mechanism — HAICC. Mycelium hosts both as facts in the fabric.
 

@@ -2,7 +2,7 @@
 
 # Mycelium
 
-The data fabric — the engineering foundation from which the other fabrics build upward. It provides the base layer for data state repositories within Splectrum's three-fabric architecture: reality (data), language, and process (persona).
+The data fabric — the engineering foundation from which the other fabrics build upward. It provides the base layer for data state repositories within SPLectrum's three-fabric architecture: reality (data), language, and process (persona).
 
 A mycelium repository is a data tree structure in a distributed version control system wrapper. The tree structure provides categorisation. The version control wrapper provides historicity, cloning, and merging. Together they form the core storage element.
 

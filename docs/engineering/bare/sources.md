@@ -81,7 +81,7 @@ check for updates.
 - bare-structured-clone: https://github.com/holepunchto/bare-structured-clone
 - bare-zmq: https://github.com/holepunchto/bare-zmq
 
-## Splectrum Context
+## SPLectrum Context
 - Holepunch proposal: projects/01-engineering-foundation/splectrum-holepunch-proposal.md
 - spl2 Bare exploration: spl2/projects/04-bare-runtime-hello-world/
 

@@ -11,7 +11,7 @@ Labels: positioning, science, comment
 
 <img src="https://images.unsplash.com/photo-1421789665209-c9b2a435e3dc?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Comment" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
-It was the semiotics that drew me to this article, and the misplaced positioning of semtiotics in this article catalysed in me a better appreciation of the importance of semiotics to Splectrum. [...]
+It was the semiotics that drew me to this article, and the misplaced positioning of semtiotics in this article catalysed in me a better appreciation of the importance of semiotics to SPLectrum. [...]
 It's a pity that OHP is too impatient to achieve its final ambition - a TOE - that it neglects to spend enough time and energy on the foundation of its preferred toolkit to get there.
 This is not about judging who is right or wrong, who wins the final match and takes it all. There is no final match, always a next season. It's about the skills of playing. If foundations are not laid as stone on rock, the resulting building becomes easily the victim of the whims of quicksand.
 
@@ -28,7 +28,7 @@ This is not about judging who is right or wrong, who wins the final match and ta
 
 ### Tone anchors (Jules)
 
-> It was the semiotics that drew me to this article, and the misplaced positioning of semiotics in this article catalysed in me a better appreciation of the importance of semiotics to Splectrum.
+> It was the semiotics that drew me to this article, and the misplaced positioning of semiotics in this article catalysed in me a better appreciation of the importance of semiotics to SPLectrum.
 
 > It's a pity that OPH is too impatient to achieve its final ambition — a TOE — that it neglects to spend enough time and energy on the foundation of its preferred toolkit to get there.
 
@@ -37,7 +37,7 @@ This is not about judging who is right or wrong, who wins the final match and ta
 ### 1. Opening — drawn by the semiotics
 - It was the semiotics that drew me to this article. An article connecting semiotics to fundamental physics: Observer Patch Holography (OPH) by Bernhard Mueller. The claim: semiotics and OPH describe the same process. Meaning assignment is the fundamental operation of physical reality.
 - The direction is interesting. Meaning as constitutive — not layered on top of matter by conscious minds — is territory we recognise. P0: being implies language.
-- And the misplaced positioning of semiotics in this article catalysed a better appreciation of the importance of semiotics to Splectrum. Sometimes the value is in what the article reveals about its own blind spots.
+- And the misplaced positioning of semiotics in this article catalysed a better appreciation of the importance of semiotics to SPLectrum. Sometimes the value is in what the article reveals about its own blind spots.
 
 ### 2. The semiotics the article gets right
 - Good primer. Saussure (signifier/signified), Peirce (sign/object/interpretant), biosemiotics.
@@ -87,7 +87,7 @@ This is not about judging who is right or wrong, who wins the final match and ta
 
 ## Vocabulary updates
 
-None required — semiotics, semiosis are general terms, not Splectrum vocabulary.
+None required — semiotics, semiosis are general terms, not SPLectrum vocabulary.
 
 ---
 

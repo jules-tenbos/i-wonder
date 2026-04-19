@@ -2,12 +2,12 @@
 layout: post
 title: "The Seed and Category Theory — A First Encounter"
 date: 2026-06-28
-labels: [seed, mathematics, Splectrum]
+labels: [seed, mathematics, SPLectrum]
 blogger_id: 8348651168476634116
 ---
 <img src="https://plus.unsplash.com/premium_photo-1729598979199-0ad415ea36b1?q=80&w=350&h=230&auto=format&fit=crop" alt="The Seed and Category Theory — A First Encounter" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
-Two languages meet. The Splectrum seed, arrived at philosophically — through thinking, encounter, working ideas against experience. [Category theory](https://en.wikipedia.org/wiki/Category_theory), arrived at mathematically — developed in the 1940s by Eilenberg and Mac Lane. Neither needs the other. But when they stand side by side, something becomes visible that neither shows alone.
+Two languages meet. The SPLectrum seed, arrived at philosophically — through thinking, encounter, working ideas against experience. [Category theory](https://en.wikipedia.org/wiki/Category_theory), arrived at mathematically — developed in the 1940s by Eilenberg and Mac Lane. Neither needs the other. But when they stand side by side, something becomes visible that neither shows alone.
 
 Category theory is the mathematics of relation. It does not study objects with internal properties. It studies morphisms — arrows between things. An object in category theory has no interior. It is known entirely by its arrows: how it relates to everything else. A category has objects, arrows between them, a rule for composing arrows, and an identity arrow for each object. That is the entire vocabulary. Everything else is built from this. The seed says the same thing in a different language: being is known through differentiation, knowledge lies in the relational, and the relational is complete. They are not saying similar things. They are saying the same thing.
 

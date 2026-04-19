@@ -4,7 +4,7 @@
 
 Kafka is constitutive to mycelium alongside AVRO and git. AVRO provides the language of structure. Git provides the language of historicity. Kafka provides the language of mobility. Mycelium is where the three meet — the fabric, the tree structure, the context model, the protocols. The relational space in which three equal-standing languages interoperate.
 
-These are commitments, not discoveries of necessity. The necessity is at the level of what capabilities are needed — self-describing shape, history with forgetting, streaming with context. The choice of which language fulfils each is Splectrum's commitment. The fit between requirement and commitment is what makes it a good commitment, not what makes it a law. P4 — equal standing in potential.
+These are commitments, not discoveries of necessity. The necessity is at the level of what capabilities are needed — self-describing shape, history with forgetting, streaming with context. The choice of which language fulfils each is SPLectrum's commitment. The fit between requirement and commitment is what makes it a good commitment, not what makes it a law. P4 — equal standing in potential.
 
 Each language has its own grammar that mycelium conforms to rather than invents. Mycelium does not replace any of them. It does not wrap them in an abstraction that hides their nature. It speaks all three.
 
@@ -20,7 +20,7 @@ A Kafka record is a data bucket in context. Its components:
 - **Offset** — order of arrival. Always meaningful, because every arrival has an order. Whether order matters for the content is a different concern from the fact that arrival order is a fact.
 - **Timestamp** — historicity. The moment of extraction is itself a datum.
 
-These are the structural requirements for data leaving the tree and travelling self-sufficiently. Identity, context carriage, arrival order, historicity, self-description. That the Kafka record fulfils all five is why it is the right commitment for streaming data in Splectrum.
+These are the structural requirements for data leaving the tree and travelling self-sufficiently. Identity, context carriage, arrival order, historicity, self-description. That the Kafka record fulfils all five is why it is the right commitment for streaming data in SPLectrum.
 
 ---
 
@@ -64,7 +64,7 @@ The isomorphism holds: every logical type declares a context that maps naturally
 
 `date` — value is an int, logical type names the "days since epoch" interpretation.
 
-Splectrum meaning languages — value is text, logical type names the language that produced it, headers carry concept vocabulary.
+SPLectrum meaning languages — value is text, logical type names the language that produced it, headers carry concept vocabulary.
 
 Action types — value carries the operation payload, logical type names the intent, headers carry arguments.
 

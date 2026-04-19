@@ -71,7 +71,7 @@ If the Peirce/morphism connection holds, add a section on semiosis as categorica
 - This post introduces semiotics to the blog audience through the lens of a critical engagement.
 
 ### 2. The Generalisation Move
-- Splectrum/positioning post. Peirce as key figure.
+- SPLectrum/positioning post. Peirce as key figure.
 - Angle: how the same move — extending language beyond linguistics — surfaces independently. Saussure gave the system. Peirce generalized and made it evolutionary. The seed does the same thing from a different starting point. P0 goes further than Peirce: being implies language extends beyond life.
 - This is the more foundational post. It establishes semiotics as positioning territory.
 

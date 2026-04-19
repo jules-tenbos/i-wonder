@@ -1,8 +1,8 @@
-[Home](/) > The Splectrum Seed
+[Home](/) > The SPLectrum Seed
 
-# The Splectrum Seed
+# The SPLectrum Seed
 
-The foundation of Splectrum. Six principles on the nature of language — where language extends well beyond linguistics to encompass all relational interaction between beings.
+The foundation of SPLectrum. Six principles on the nature of language — where language extends well beyond linguistics to encompass all relational interaction between beings.
 
 This page presents the seed twice: first as philosophical framework, then as engineering foundation. Same principles, different vocabulary. The philosophical view speaks of being, world, and subject. The engineering view translates these into entity, data world, and POV entity. Neither view is primary — they are two languages for the same thing.
 
@@ -78,17 +78,17 @@ P0 gives us three components: being, world, and the relational between them. In 
 **Mycelium — the data fabric (state)**<br/>
 The fabric to express the world in data. Entities exist as disclosed beings, not static records. Visible state, decentralised — no central database, no single source of truth.
 
-**Splectrum — the language fabric (meaning)**<br/>
+**SPLectrum — the language fabric (meaning)**<br/>
 A language and meaning engineering solution with the properties of P1–P5 baked in. Relational (P1), experiential (P2), shared (P3), equal standing (P4), growing (P5). The structured glue between the other two fabrics, expressed as a fabric itself.
 
 **HAICC — the cognition fabric (cognition)**<br/>
 Human-AI Creative Collaboration. How cognition gets distributed, expressed, and coordinated while maintaining genuine human partnership. Decentralised at the cognition level — human and AI agents as collaborative peers.
 
-Decentralisation is an upfront property: at the data level (Mycelium) and at the cognition level (HAICC). Splectrum is the relational structure that makes both decentralisations coherent — P4, equal standing, all the way through.
+Decentralisation is an upfront property: at the data level (Mycelium) and at the cognition level (HAICC). SPLectrum is the relational structure that makes both decentralisations coherent — P4, equal standing, all the way through.
 
 ---
 
-## What Splectrum is
+## What SPLectrum is
 
-A meta-language: a language about languages. The claim is purely structural — language is relational, whatever its contents. Content varies by language; structure does not. The fabric is the relational structure all languages share. Splectrum studies the fabric, not any particular cloth.
+A meta-language: a language about languages. The claim is purely structural — language is relational, whatever its contents. Content varies by language; structure does not. The fabric is the relational structure all languages share. SPLectrum studies the fabric, not any particular cloth.
 

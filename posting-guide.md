@@ -55,7 +55,7 @@ The draft file is the single workspace. The post section is extractable as-is on
 title: Post title
 series: e.g. mycelium, language
 category: e.g. engineering, philosophy
-persona: e.g. Splectrum, comment, thought
+persona: e.g. SPLectrum, comment, thought
 status: storyline | draft | review-ready
 ---
 
@@ -157,7 +157,7 @@ Three dimensions: **series, category, persona**.
 
 - **Series** — groups posts into a journey (e.g., positioning, language)
 - **Category** — the domain (e.g., philosophy, science, engineering, HAICC)
-- **Persona** — who is speaking: Splectrum (official voice), comment (observing existing work), thought (original, loosely offered), or a named source (Wittgenstein, RQM, etc.)
+- **Persona** — who is speaking: SPLectrum (official voice), comment (observing existing work), thought (original, loosely offered), or a named source (Wittgenstein, RQM, etc.)
 
 Not every post has all three. Max 3 labels.
 
@@ -170,7 +170,7 @@ The reference library lives in `docs/` and is served at `jules-tenbos.github.io/
 Every reference library page follows this structure:
 
 ```markdown
-[In Wonder - The World of Splectrum](link-to-root) > [Parent](link) > Page Title
+[In Wonder - The World of SPLectrum](link-to-root) > [Parent](link) > Page Title
 
 # Page Title
 
@@ -178,7 +178,7 @@ Content...
 
 ---
 
-*© 2026 In Wonder - The World of Splectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*
+*© 2026 In Wonder - The World of SPLectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*
 ```
 
 - **Breadcrumb** at the top — relative links back to root. Root `index.md` has no breadcrumb.

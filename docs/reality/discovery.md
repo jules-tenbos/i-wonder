@@ -34,5 +34,5 @@ Scan — surface what the landscape makes available. Diversify — multiple inde
 
 ## Connection to evolutionary transitions
 
-Each major transition increased the diversity of interactors. Chemistry more than quantum events. Biology more than chemistry. Social life more than individual biology. Symbolic exchange multiplies again. The Splectrum reading of the exponential curve in [evolutionary transitions](evolutionary-transitions): diversification compounding — discovery accelerating because the discoverers multiply.
+Each major transition increased the diversity of interactors. Chemistry more than quantum events. Biology more than chemistry. Social life more than individual biology. Symbolic exchange multiplies again. The SPLectrum reading of the exponential curve in [evolutionary transitions](evolutionary-transitions): diversification compounding — discovery accelerating because the discoverers multiply.
 

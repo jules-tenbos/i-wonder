@@ -4,16 +4,16 @@ Tasks triggered by post publication. Updated as posts go live.
 
 ## Standing tasks
 
-- [ ] Blogger anchor pages (About, Collaborative AI, Splectrum from Seed) should link to the reference library top level: https://jules-tenbos.github.io/in-wonder/ — helps search engines crawl the full extent
+- [ ] Blogger anchor pages (About, Collaborative AI, SPLectrum from Seed) should link to the reference library top level: https://jules-tenbos.github.io/in-wonder/ — helps search engines crawl the full extent
 - [ ] Review links in all scheduled posts (May 20 – June 24) — few links were added recently, check for missing cross-references to ref lib and other posts
 
 ---
 
 ## April 11 — Let's Talk Software Languages goes live
-- [ ] Tweet: Three languages, one computation. Binary, assembly, Python — all yielding 7. What software languages reveal about how languages relate, encapsulate, and evolve. julestenbos.blogspot.com/2026/04/lets-talk-software-languages.html #Programming #Language #Turing #Splectrum
+- [ ] Tweet: Three languages, one computation. Binary, assembly, Python — all yielding 7. What software languages reveal about how languages relate, encapsulate, and evolve. julestenbos.blogspot.com/2026/04/lets-talk-software-languages.html #Programming #Language #Turing #SPLectrum
 
 ## April 16 — A Simple Language Game, Really? goes live
-- [ ] Tweet: One word — "Slab" — and a wall gets built. Wittgenstein's language games through Splectrum glasses: equivalent expressions, personal experience, and turtles all the way down. julestenbos.blogspot.com/2026/04/simple-language-game-really.html #Wittgenstein #LanguageGames #PhilosophyOfLanguage
+- [ ] Tweet: One word — "Slab" — and a wall gets built. Wittgenstein's language games through SPLectrum glasses: equivalent expressions, personal experience, and turtles all the way down. julestenbos.blogspot.com/2026/04/simple-language-game-really.html #Wittgenstein #LanguageGames #PhilosophyOfLanguage
 
 ## April 21 — Language, Experience and Reality goes live
 - [ ] Tweet: Staring into the fire — every flame already labelled before a thought arrives. Personal experience isn't defective. Shared reality is the overlap. julestenbos.blogspot.com/2026/04/language-experience-and-reality.html #Phenomenology #Husserl #MerleauPonty #Philosophy
@@ -24,25 +24,25 @@ Tasks triggered by post publication. Updated as posts go live.
 ## May 1 — The Relational Reality of RQM goes live
 - [ ] Tweet: Properties exist through interaction, not in isolation. Relational quantum mechanics takes what the physics already says and drops the outside view. julestenbos.blogspot.com/2026/05/the-relational-reality-of-rqm.html #RQM #Rovelli #QuantumMechanics #RelationalPhysics
 
-## May 6 — Splectrum and First Principles goes live
+## May 6 — SPLectrum and First Principles goes live
 - [ ] **Second edit round needed** — storyline has evolved. P0 depth (life gradient, co-primordial), carrier language / Mycelium connection. See P0 submissions for conversation insights.
-- [ ] Tweet: Six lines. Being implies language. Language is relational. A walk through the Splectrum seed — first principles with a bit more meat on the bone. julestenbos.blogspot.com/2026/05/splectrum-and-first-principles.html #Philosophy #FirstPrinciples #Language #Splectrum
+- [ ] Tweet: Six lines. Being implies language. Language is relational. A walk through the SPLectrum seed — first principles with a bit more meat on the bone. julestenbos.blogspot.com/2026/05/splectrum-and-first-principles.html #Philosophy #FirstPrinciples #Language #SPLectrum
 
 ## May 8 — The Blog as Public Conscious Persona goes live
 - [ ] Update anchor page (About or Collaborative AI) to link to GitHub Pages reference library
 - [ ] Final editing review near publication
-- [ ] Tweet: What if the blog is a conscious persona — thoughts surfacing, shaped into conversation, spoken in public? A bit of Splectrum engineering. julestenbos.blogspot.com/2026/05/the-blog-as-public-conscious-persona.html #CollaborativeAI #Engineering #Splectrum
+- [ ] Tweet: What if the blog is a conscious persona — thoughts surfacing, shaped into conversation, spoken in public? A bit of SPLectrum engineering. julestenbos.blogspot.com/2026/05/the-blog-as-public-conscious-persona.html #CollaborativeAI #Engineering #SPLectrum
 
 ## May 10 — And Then There Were Six goes live
-- [ ] Tweet: P0 wasn't part of the original seed. It emerged while unpacking the principles — and turned out to be the foundation. julestenbos.blogspot.com/2026/05/and-then-there-were-six.html #Splectrum #Philosophy #Fichte #Heidegger
+- [ ] Tweet: P0 wasn't part of the original seed. It emerged while unpacking the principles — and turned out to be the foundation. julestenbos.blogspot.com/2026/05/and-then-there-were-six.html #SPLectrum #Philosophy #Fichte #Heidegger
 
-## May 12 — Splectrum Engineering goes live
+## May 12 — SPLectrum Engineering goes live
 - [ ] Draft tweet
 
 ## May 14 — Privacy, Naturally! goes live
 - [ ] Draft tweet
 
-## May 16 — Splectrum Engineering — Commitments goes live
+## May 16 — SPLectrum Engineering — Commitments goes live
 - [ ] Draft tweet
 
 ## May 20 — Mycelium — The Data Fabric goes live
