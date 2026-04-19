@@ -1,4 +1,4 @@
-[Home](/) > [Positioning](./) > Scientific Positioning
+[Home](/) > [Positioning](/positioning/) > Scientific Positioning
 
 # Scientific Positioning
 

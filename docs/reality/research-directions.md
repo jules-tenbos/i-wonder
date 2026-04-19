@@ -1,4 +1,4 @@
-[Home](/) > [Reality](./) > Research Directions
+[Home](/) > [Reality](/reality/) > Research Directions
 
 # Research Directions
 

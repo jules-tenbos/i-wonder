@@ -1,4 +1,4 @@
-[Home](/) > [Language](./) > Category Theory
+[Home](/) > [Language](/language/) > Category Theory
 
 # Category Theory
 

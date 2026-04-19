@@ -1,4 +1,4 @@
-[Home](/) > [Reality](./) > Discovery
+[Home](/) > [Reality](/reality/) > Discovery
 
 # Discovery
 

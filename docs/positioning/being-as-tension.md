@@ -1,4 +1,4 @@
-[Home](/) > [Positioning](./) > Being as Tension
+[Home](/) > [Positioning](/positioning/) > Being as Tension
 
 # Being as Tension
 

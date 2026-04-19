@@ -1,4 +1,4 @@
-[Home](/) > [Reality](./) > Evolutionary Transitions
+[Home](/) > [Reality](/reality/) > Evolutionary Transitions
 
 # Evolutionary Transitions
 

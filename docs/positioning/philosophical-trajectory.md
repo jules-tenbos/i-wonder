@@ -1,4 +1,4 @@
-[Home](/) > [Positioning](./) > Philosophical Trajectory
+[Home](/) > [Positioning](/positioning/) > Philosophical Trajectory
 
 # Philosophical Trajectory
 
