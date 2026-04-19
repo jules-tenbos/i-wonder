@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# In Wonder
+# In Wonder - Blog
 
 The conversation. Where the thinking gets explored in the open.
 
