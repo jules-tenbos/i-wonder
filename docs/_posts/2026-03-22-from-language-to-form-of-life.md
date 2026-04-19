@@ -27,7 +27,7 @@ He wasn't alone in making that turn. Physics was moving the same way — from th
 
 Wittgenstein embodies the turn, he existed on both sides. He started on the analytical side of philosophy — logic, formal structure, precision — thinking he had nailed it. However, he returned, revisited and made the turn unlocking the door onto an approach more akin to the continental tradition. And that was where he left it, but he made the point.
 
-Next up: Rorty, who walked through that door and kept going.
+Next up: [Rorty](https://plato.stanford.edu/entries/rorty/), who walked through that door and kept going.
 
 <small>This post is part of the [positioning series](/blog/label/positioning). More in the <a href="/positioning/philosophical-trajectory">philosophical trajectory</a> of the reference library.</small>
 
