@@ -6,5 +6,5 @@ The reference library for the world of SPLectrum.
 - [Positioning](positioning/) — the philosophical and scientific trajectory
 - [Vocabulary](vocabulary) — SPLectrum terms and definitions
 - [Engineering](engineering/) — how SPLectrum builds things
-- [In Wonder](blog/) — the blog
+- [In Wonder](blog/) — the blog — [labels](blog/label/)
 
