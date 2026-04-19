@@ -1,8 +1,13 @@
 <header class="site-header" role="banner">
-  <div class="wrapper">
+  <div class="wrapper" style="display:flex;justify-content:space-between;align-items:center;">
     <a class="site-title" rel="author" href="/" style="display:flex;align-items:center;gap:10px;text-decoration:none;">
       <img src="/splectrum-icon.jpg" alt="" style="height:1.4em;width:auto;">
       {{ site.title | escape }}
     </a>
+    <nav class="site-nav">
+      <a class="page-link" href="/about">About</a>
+      <a class="page-link" href="/engineering/haicc/">HAICC</a>
+      <a class="page-link" href="/blog/">In Wonder</a>
+    </nav>
   </div>
 </header>

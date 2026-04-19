@@ -45,6 +45,27 @@
     }
     .site-header {
       border-bottom: 3px solid #e8e8e8 !important;
+      background-color: #f8f7fa !important;
+    }
+    .site-nav {
+      display: flex !important;
+      gap: 1.5em !important;
+    }
+    .site-nav .page-link {
+      font-size: 0.9em !important;
+      color: #828282 !important;
+      text-decoration: none !important;
+    }
+    .site-nav .page-link:hover {
+      color: #333 !important;
+    }
+    @media (max-width: 600px) {
+      .site-nav {
+        gap: 1em !important;
+      }
+      .site-nav .page-link {
+        font-size: 0.8em !important;
+      }
     }
     .page-content {
       padding-top: 0.5em !important;
