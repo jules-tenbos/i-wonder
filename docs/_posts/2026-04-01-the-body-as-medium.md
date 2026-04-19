@@ -27,5 +27,7 @@ Merleau-Ponty died three years later, in 1961. The full impact of the later Witt
 
 Next up: we step back and look at the turn as a whole — from Kant to the present.
 
+<small>This post is part of the [positioning series](/blog/label/positioning). More in the <a href="/positioning/philosophical-trajectory">philosophical trajectory</a> of the reference library.</small>
+
 ---
 <small>Photo: <a href="https://unsplash.com/@iamchang">Chang Duong</a> / Unsplash</small>

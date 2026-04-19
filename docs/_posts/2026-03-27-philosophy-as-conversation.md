@@ -25,5 +25,7 @@ But the dam was breached. The relational view of reality gained more and more tr
 
 Next up in the serie: let's go back in time a bit, to [Merleau-Ponty](https://plato.stanford.edu/entries/merleau-ponty/) who put the body back into the picture.
 
+<small>This post is part of the [positioning series](/blog/label/positioning). More in the <a href="/positioning/philosophical-trajectory">philosophical trajectory</a> of the reference library.</small>
+
 ---
 <small>Photo: <a href="https://unsplash.com/@batuhan_dogan">Batuhan Doğan</a> / Unsplash</small>
