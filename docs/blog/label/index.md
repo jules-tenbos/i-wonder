@@ -4,22 +4,27 @@ layout: default
 
 # Labels
 
-- [comment](comment)
+### Series
 - [discovery](discovery)
+- [language](language)
+- [mycelium](mycelium)
+- [positioning](positioning)
+- [seed](seed)
+
+### Category
 - [engineering](engineering)
 - [HAICC](haicc)
-- [language](language)
 - [mathematics](mathematics)
-- [Merleau-Ponty](merleau-ponty)
-- [mycelium](mycelium)
 - [neuroscience](neuroscience)
 - [philosophy](philosophy)
-- [positioning](positioning)
 - [reality](reality)
-- [Rorty](rorty)
 - [science](science)
-- [seed](seed)
-- [SPLectrum](splectrum)
-- [thought](thought)
 - [western philosophy](western-philosophy)
+
+### Persona
+- [SPLectrum](splectrum)
+- [comment](comment)
+- [thought](thought)
+- [Merleau-Ponty](merleau-ponty)
+- [Rorty](rorty)
 - [Wittgenstein](wittgenstein)
