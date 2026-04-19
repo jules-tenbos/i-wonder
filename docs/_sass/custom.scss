@@ -94,6 +94,10 @@
   font-size: 0.9em;
 }
 
+.post-header:has(.post-title:empty) {
+  display: none;
+}
+
 .page-content > .wrapper > p:first-child {
   font-size: 0.85em;
   color: #828282;
