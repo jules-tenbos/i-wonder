@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[Home](/) > [In Wonder](/blog/) > [Labels](/blog/label/) > engineering
+
 # engineering
 
 Posts labelled **engineering**.

@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[Home](/) > [In Wonder](/blog/) > [Labels](/blog/label/) > neuroscience
+
 # neuroscience
 
 Posts labelled **neuroscience**.

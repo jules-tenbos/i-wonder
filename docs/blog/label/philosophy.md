@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[Home](/) > [In Wonder](/blog/) > [Labels](/blog/label/) > philosophy
+
 # philosophy
 
 Posts labelled **philosophy**.

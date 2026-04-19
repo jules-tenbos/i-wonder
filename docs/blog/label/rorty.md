@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[Home](/) > [In Wonder](/blog/) > [Labels](/blog/label/) > Rorty
+
 # Rorty
 
 Posts labelled **Rorty**.

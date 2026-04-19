@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[Home](/) > [In Wonder](/blog/) > [Labels](/blog/label/) > Merleau-Ponty
+
 # Merleau-Ponty
 
 Posts labelled **Merleau-Ponty**.

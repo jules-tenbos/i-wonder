@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[Home](/) > [In Wonder](/blog/) > Labels
+
 # In Wonder - Labels
 
 ### Series

@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[Home](/) > [In Wonder](/blog/) > [Labels](/blog/label/) > western philosophy
+
 # western philosophy
 
 Posts labelled **western philosophy**.
