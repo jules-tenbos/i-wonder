@@ -151,4 +151,14 @@
       display: block !important;
     }
   </style>
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      document.querySelectorAll('a[href^="http"]').forEach(function(a) {
+        if (!a.href.startsWith(location.origin)) {
+          a.setAttribute('target', '_blank');
+          a.setAttribute('rel', 'noopener');
+        }
+      });
+    });
+  </script>
 </head>
