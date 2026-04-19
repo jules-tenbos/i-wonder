@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[Home](/) > About
+
 # About
 
 I'm Jules ten Bos. I wonder about things — how reality works, how we relate to it, how language shapes what we see. SPLectrum is where I am exploring in the open.

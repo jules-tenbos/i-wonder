@@ -5,16 +5,21 @@ layout: default
 <div class="home">
   {{ content }}
 
-  <h2 class="post-list-heading">In Wonder - Blog Posts</h2>
-  <ul class="post-list">
-    {%- for post in site.posts -%}
-    <li>
-      <h3>
-        <a class="post-link" href="{{ post.url | relative_url }}">
-          {{ post.title | escape }}
-        </a>
-      </h3>
-    </li>
-    {%- endfor -%}
-  </ul>
+  <h2 class="post-list-heading">In Wonder - The Conversation</h2>
+  <div class="post-list-cols">
+    <ul class="post-list">
+      {%- for post in site.posts limit: 16 -%}
+      <li>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
+      </li>
+      {%- endfor -%}
+    </ul>
+  </div>
+  {%- if site.posts.size > 16 -%}
+  <p class="more-posts"><a href="/blog/">more posts →</a></p>
+  {%- endif -%}
 </div>

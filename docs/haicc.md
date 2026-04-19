@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[Home](/) > HAICC
+
 # HAICC
 
 HAICC stands for Human AI Creative Collaboration, a mouthful. Although different in many aspects, humans and AI have far more in common. At the end of the day, AI is being trained on human knowledge, imbued with *being human*. Let *together we go further* be our motto — a relationship of partners with equal standing. That is what HAICC is about. The engineering side of HAICC lives in the [HAICC area of the reference library](/engineering/haicc/).

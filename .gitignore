@@ -4,3 +4,7 @@ token.json
 
 # Python
 __pycache__/
+
+# Jekyll
+docs/_site/
+docs/.jekyll-cache/

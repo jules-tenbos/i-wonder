@@ -4,9 +4,9 @@ layout: default
 
 [Home](/) > In Wonder
 
-# In Wonder - Blog
+# In Wonder - The Conversation
 
-The conversation. Where the thinking gets explored in the open. Browse by [label](label/).
+For more structured browsing of the posts, go to the [labels](label/) page.
 
 {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
 {% for post in sorted_posts %}

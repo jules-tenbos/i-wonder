@@ -32,3 +32,108 @@
   font-size: 0.85em;
   color: #828282;
 }
+
+.area-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  margin: 2rem 0;
+}
+
+@media (max-width: 600px) {
+  .area-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.area-box {
+  display: block;
+  padding: 1.25rem;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  text-decoration: none;
+  color: inherit;
+  transition: background 0.15s, border-color 0.15s;
+}
+
+.area-box:hover {
+  background: #f8f8f8;
+  border-color: #999;
+  text-decoration: none;
+}
+
+.area-title {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.25rem;
+}
+
+.area-desc {
+  margin: 0;
+  font-size: 0.95rem;
+  color: #555;
+  line-height: 1.4;
+}
+
+.page-content:has(> .wrapper > .home) {
+  flex: none;
+}
+
+.home {
+  margin-top: 2em;
+}
+
+.label-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  margin: 1.5em 0;
+}
+
+.more-posts {
+  margin-top: 1em;
+  font-size: 0.9em;
+}
+
+.page-content > .wrapper > p:first-child {
+  font-size: 0.85em;
+  color: #828282;
+  margin-top: 0.8em;
+  margin-bottom: 0.8em;
+}
+
+.page-content > .wrapper > p:first-child a {
+  color: #828282;
+}
+
+.page-content > .wrapper > p:first-child a:hover {
+  color: #333;
+}
+
+@media (max-width: 600px) {
+  .label-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.post-list-cols .post-list {
+  column-count: 3;
+  column-gap: 2rem;
+}
+
+.post-list-cols li {
+  break-inside: avoid;
+  -webkit-column-break-inside: avoid;
+  page-break-inside: avoid;
+}
+
+@media (max-width: 900px) {
+  .post-list-cols .post-list {
+    column-count: 2;
+  }
+}
+
+@media (max-width: 600px) {
+  .post-list-cols .post-list {
+    column-count: 1;
+  }
+}

@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[Home](/) > P2P
+
 # P2P
 
 Peer-to-peer is not a technology choice. It is the structure of experience itself.
