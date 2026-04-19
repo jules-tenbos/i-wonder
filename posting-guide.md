@@ -2,7 +2,7 @@
 
 ## Setup
 
-- Blog: julestenbos.blogspot.com
+- Blog: splectrum.world
 - API: Blogger API v3 via `manage.py`
 - OAuth: `credentials.json` (Google Cloud project "i-wonder-blog") + cached `token.json`
 - Both files gitignored
@@ -38,7 +38,7 @@ python3 manage.py page-delete <page-id>             # delete a page
 
 ## Publishing Workflow
 
-Pipeline, categories, scheduling strategy, and operational checklists are in the [Public Conscious Persona spec](https://jules-tenbos.github.io/in-wonder/engineering/personas/public-conscious-persona/current) (source: `docs/engineering/personas/public-conscious-persona/current.md`).
+Pipeline, categories, scheduling strategy, and operational checklists are in the [Public Conscious Persona spec](https://splectrum.world/engineering/personas/public-conscious-persona/current) (source: `docs/engineering/personas/public-conscious-persona/current.md`).
 
 ## Production — Way of Working
 
@@ -66,7 +66,7 @@ Labels: label1, label2, label3
 
 [post content]
 
-<small>This post is part of the [series name](/search/label/series). More in the <a href="https://jules-tenbos.github.io/in-wonder/area/">area of the reference library</a>.</small>
+<small>This post is part of the [series name](/blog/label/series). More in the <a href="https://splectrum.world/area/">area of the reference library</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@photographer">Name</a> / Unsplash</small>
@@ -163,7 +163,7 @@ Not every post has all three. Max 3 labels.
 
 ## Reference Library
 
-The reference library lives in `docs/` and is served at `jules-tenbos.github.io/in-wonder/`. It is the primary — the blog promotes it, not the other way around.
+The reference library lives in `docs/` and is served at `splectrum.world/`. It is the primary — the blog promotes it, not the other way around.
 
 ### Page template
 
@@ -178,7 +178,7 @@ Content...
 
 ---
 
-*© 2026 In Wonder - The World of SPLectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://julestenbos.blogspot.com).*
+*© 2026 In Wonder - The World of SPLectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://splectrum.world).*
 ```
 
 - **Breadcrumb** at the top — relative links back to root. Root `index.md` has no breadcrumb.
@@ -188,9 +188,9 @@ Content...
 
 ### Linking from blog posts
 
-- Series label link: `/search/label/<series>` (Blogger label filter)
-- Reference library link: `https://jules-tenbos.github.io/in-wonder/<area>/`
-- Post footer pattern: `<small>This post is part of the [series](/search/label/series). More in the <a href="url">area of the reference library</a>.</small>`
+- Series label link: `/blog/label/<series>` (Blogger label filter)
+- Reference library link: `https://splectrum.world/<area>/`
+- Post footer pattern: `<small>This post is part of the [series](/blog/label/series). More in the <a href="url">area of the reference library</a>.</small>`
 
 ## Links
 
@@ -202,7 +202,7 @@ Content...
 
 ### Internal links
 - No forward links to future/scheduled posts
-- Back-references to other posts: prefer series label link (`/search/label/<series>`) over direct post links
+- Back-references to other posts: prefer series label link (`/blog/label/<series>`) over direct post links
 - Reference library links for depth — the blog points into the library
 - Series/reference footer at the bottom when applicable
 

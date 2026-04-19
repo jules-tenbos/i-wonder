@@ -21,7 +21,7 @@ Honest from the perimeter: there is much we do not know and may not be able to k
 
 SPLectrum: spectrum and plectrum. The spectrum — the full range of ways reality manifests through interaction, from a single quantum event to the dense polyphony of social life. The plectrum — the agent of interaction, the thing that plucks. Nothing sounds until it is plucked. The music exists only in the meeting. Neither alone produces anything. The plectrum does not reveal what a string really is. It produces a note — one of many possible notes, depending on where and how you pluck. Different plucking, different music. Real music, not illusion. The spirit of this language is fertile ground — a place where connections across domains become easier to see, without claiming to own any of them.
 
-<small>This post is part of the [discovery series](/search/label/discovery). More in the <a href="https://jules-tenbos.github.io/in-wonder/reality/">reality area of the reference library</a>.</small>
+<small>This post is part of the [discovery series](/blog/label/discovery). More in the <a href="/reality/">reality area of the reference library</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@jaydenyoonzk">Jayden Yoon ZK</a> / Unsplash</small>

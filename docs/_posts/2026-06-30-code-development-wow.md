@@ -19,7 +19,7 @@ Distribution closes the loop. `bare-bundle` resolves all dependencies from the s
 
 This is the starting point. Release management, CI/CD, multi-agent development — these are future concerns that grow from this foundation. The foundation itself is simple: carry what you need, source what you don't from the vendor directly, and let nothing you haven't chosen touch the artifact.
 
-<small>This post is part of the [engineering series](/search/label/engineering). More in the <a href="https://jules-tenbos.github.io/in-wonder/engineering/implementation/">implementation area of the reference library</a>.</small>
+<small>This post is part of the [engineering series](/blog/label/engineering). More in the <a href="/engineering/implementation/">implementation area of the reference library</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@uxindo">UX Indo</a> / Unsplash</small>

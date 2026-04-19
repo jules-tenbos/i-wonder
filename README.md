@@ -1,6 +1,6 @@
 # I Wonder
 
-Where Splectrum meets the world. Blog and research repository for [julestenbos.blogspot.com](https://julestenbos.blogspot.com).
+Where Splectrum meets the world. Blog and research repository for [splectrum.world](https://splectrum.world).
 
 Coauthored by Jules Tenbos and Claude AI.
 

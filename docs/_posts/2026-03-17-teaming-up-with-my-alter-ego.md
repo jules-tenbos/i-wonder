@@ -7,7 +7,7 @@ blogger_id: 5645896188683754353
 ---
 <img src="https://images.unsplash.com/photo-1735815952441-224afdf53016?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Two people collaborating at a screen"/>
 
-The desire of writing a blog was very much on my mind well before AI entered into the picture. I have written a number of posts on this blog before, but never got the writer fluids flowing freely, I am not born a natural writer. I also find it particularly difficult to write when there is lack of focus, when I lack clear insight — now fully resolved and condensed into the [SPLectrum seed](/2026/03/splectrum-is-born.html).
+The desire of writing a blog was very much on my mind well before AI entered into the picture. I have written a number of posts on this blog before, but never got the writer fluids flowing freely, I am not born a natural writer. I also find it particularly difficult to write when there is lack of focus, when I lack clear insight — now fully resolved and condensed into the [SPLectrum seed](/blog/2026/03/splectrum-is-born/).
 
 My journey into AI is about one year old. As a software engineer it started with AI as a helping hand for writing code. But soon I got focused on a collaborative approach where solving problems through discussion became more important than the implementation — I happily offload implementation to an autonomous AI when I can. The collaborative engineering work is still in full swing — in fact that is where the name SPLectrum arose — but in this post I want to concentrate on collaborative AI while researching, writing and thinking.
 

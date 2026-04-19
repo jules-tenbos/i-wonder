@@ -29,7 +29,7 @@ Evolution has always been revelationary — bringing out new ways of life, new l
 
 The Decentralised Cognition Revolution. That's the name I find myself using. Not the cognitive revolution, becoming aware of our capability of abstract thinking, or the cognition revolution - there is nothing new there. The awareness of decentralisation, putting it everywhere, being aware it is everywhere. Exciting times ahead!
 
-<small>More on HAICC — Human-AI Creative Collaboration — in the <a href="https://jules-tenbos.github.io/in-wonder/engineering/">engineering area of the reference library</a>.</small>
+<small>More on HAICC — Human-AI Creative Collaboration — in the <a href="/engineering/">engineering area of the reference library</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@stbuccia">stbuccia</a> / Unsplash</small>

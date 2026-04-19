@@ -7,7 +7,7 @@ blogger_id: 4901175070134612543
 ---
 <img src="https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Design commitments" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
-In the [first post](https://julestenbos.blogspot.com/2026/05/engineering-from-first-principles.html) I peeled off the first layer of engineering from the SPLectrum seed principles. Three pillars emerged — mycelium (state), splectrum (meaning), HAICC (cognition) — as three fabrics, aspects of the same thing. This post goes one step further: what does that structure *commit you to* when you build?
+In the [first post](/blog/2026/05/engineering-from-first-principles/) I peeled off the first layer of engineering from the SPLectrum seed principles. Three pillars emerged — mycelium (state), splectrum (meaning), HAICC (cognition) — as three fabrics, aspects of the same thing. This post goes one step further: what does that structure *commit you to* when you build?
 
 Design commitments are not engineering decisions. They are the philosophical framework expressed as constraints. The quality test at this level is not technical elegance — it is conformance with the framework. Low friction. If a commitment feels forced, something is wrong — either in the commitment or in the framework. If it flows naturally, the philosophy is landing.
 
@@ -107,7 +107,7 @@ These commitments are maintained as an engineering reference alongside the top-l
 
 *The first post asked: what falls out when you engineer from the seed? The answer was three pillars. This post asked: what do those pillars commit you to? The answer is: what the framework already said, expressed as constraints you can build against. The third question — the one the engineering itself will answer — is: what do you build when you honour those constraints? That conversation is underway.*
 
-<small>This post is part of the [seed series](/search/label/seed). More on SPLectrum engineering in the <a href="https://jules-tenbos.github.io/in-wonder/engineering/">engineering area of the reference library</a>.</small>
+<small>This post is part of the [seed series](/blog/label/seed). More on SPLectrum engineering in the <a href="/engineering/">engineering area of the reference library</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@christopher__burns">Christopher Burns</a> / Unsplash</small>

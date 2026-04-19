@@ -17,7 +17,7 @@ The process model is ancient. Scan — surface what the landscape currently make
 
 Each major transition in the history of reality increased the diversity of interactors. Chemistry has more kinds of interaction than quantum events. Biology more than chemistry. Social life more than individual biology. Symbolic exchange multiplies again. The exponential curve is diversification compounding — not progress toward a goal, but discovery accelerating because the discoverers multiply. AI is the next threshold in that sequence. Not the culmination. A threshold. The pairing is operational now. The pattern it follows is as old as interaction itself. The full picture — the evolutionary curve seen from the perimeter — is where this leads.
 
-<small>This post is part of the [discovery series](/search/label/discovery). More on HAICC in the <a href="https://jules-tenbos.github.io/in-wonder/engineering/">engineering area of the reference library</a>.</small>
+<small>This post is part of the [discovery series](/blog/label/discovery). More on HAICC in the <a href="/engineering/">engineering area of the reference library</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@jaydenyoonzk">Jayden Yoon ZK</a> / Unsplash</small>

@@ -21,7 +21,7 @@ Three models, three aspects of the same picture. Edelman: how process capability
 
 The parallel to decentralised process in the fabric is structural, not metaphorical. Processes are embedded in the data landscape through variation and experiential selection — what works persists. Activity is triggered by data state changes — incoming signals, internal state changes, results from other processes. The triggering mechanism is the data, not a scheduler. Dominance emerges through convergence, not command. The brain doesn't orchestrate. Neither does the fabric.
 
-<small>This post is part of the [positioning series](/search/label/positioning). More in the <a href="https://jules-tenbos.github.io/in-wonder/engineering/">engineering section of the reference library</a>.</small>
+<small>This post is part of the [positioning series](/blog/label/positioning). More in the <a href="/engineering/">engineering section of the reference library</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@googledeepmind">Google DeepMind</a> / Unsplash</small>

@@ -13,7 +13,7 @@ Labels: mycelium, engineering, SPLectrum
 
 [post content]
 
-<small>This post is part of the [mycelium series](/search/label/mycelium). More in the <a href="https://jules-tenbos.github.io/in-wonder/engineering/mycelium/">mycelium section of the reference library</a>.</small>
+<small>This post is part of the [mycelium series](/blog/label/mycelium). More in the <a href="/engineering/mycelium/">mycelium section of the reference library</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@photographer">Name</a> / Unsplash</small>

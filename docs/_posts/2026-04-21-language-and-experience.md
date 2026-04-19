@@ -33,7 +33,7 @@ However, this personal experience ***is*** my reality — how ***I*** experience
 
 Flip the picture and personal experience isn't defective — it's primary. Shared reality is the overlap, the convergence, the part we manage to align through language exchange. The personal isn't a failed attempt at the objective. The objective is the shared part of the personal, the subjective. The practical limits are in the language we use to experience and share. Language shapes thinking, language shapes experience, language shapes the shared reality.
 
-<small>This post is part of the [reality series](/search/label/reality). More on SPLectrum and reality in the <a href="https://jules-tenbos.github.io/in-wonder/reality/">reality area of the reference library</a>.</small>
+<small>This post is part of the [reality series](/blog/label/reality). More on SPLectrum and reality in the <a href="/reality/">reality area of the reference library</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@hansphoto">Hans Photo</a> / Unsplash</small>

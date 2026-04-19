@@ -51,7 +51,7 @@ This is not a philosophical position imposed on the physics. It is what the phys
 
 This view of reality, anchored in physics, is very much what SPLectrum wants to adopt into the vocabulary that is being built from the seed.
 
-<small>This post is part of the [positioning series](/search/label/positioning). More on the philosophical and scientific trajectory in the <a href="https://jules-tenbos.github.io/in-wonder/positioning">positioning area of the reference library</a>.</small>
+<small>This post is part of the [positioning series](/blog/label/positioning). More on the philosophical and scientific trajectory in the <a href="/positioning">positioning area of the reference library</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@whisperingshiba">Whispering Shiba</a> / Unsplash</small>

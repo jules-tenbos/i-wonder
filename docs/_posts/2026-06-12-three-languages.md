@@ -21,7 +21,7 @@ And this is what makes Kafka constitutive, not just convenient — protocol oper
 
 A subject reality as a whole can be the value payload of a Kafka record. Key identifies it. Headers carry whatever context matters. And that subject reality contains Kafka records in its own queues. Records contain realities that contain records. The grammar does not scale differently at different magnitudes. The envelope is the envelope. Replication, migration, cloning — all natural expressions of the streaming language. No special protocol needed. Kafka already handles it.
 
-<small>This post is part of the [mycelium series](/search/label/mycelium). More in the <a href="https://jules-tenbos.github.io/in-wonder/engineering/mycelium/">mycelium section of the reference library</a>.</small>
+<small>This post is part of the [mycelium series](/blog/label/mycelium). More in the <a href="/engineering/mycelium/">mycelium section of the reference library</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@aedrian">aedrian</a> / Unsplash</small>

@@ -26,8 +26,8 @@ I wouldn't say I am there yet, but I feel a lot more comfortable in what I know.
 
 I have decided to split the subject matter into three different areas:
 
-1. **[Philosophy and the brain](/2024/11/philosophy-and-brain.html)**
-2. **[Evolution and the brain](/2024/12/evolution-and-brain.html)**
+1. **[Philosophy and the brain](/blog/2024/11/philosophy-and-brain/)**
+2. **[Evolution and the brain](/blog/2024/12/evolution-and-brain/)**
 3. **The big picture of evolution**
 
 The next three posts will provide more detail for each area.  

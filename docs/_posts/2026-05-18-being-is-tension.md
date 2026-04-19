@@ -59,7 +59,7 @@ Nine independent formulations. Different traditions, different centuries, differ
 
 My formulation as ***Being is tension across the interface*** came to me as I imagined a water droplet suspended in air. The droplet as the differentiation, the tension in the interface to keep the droplet together as liquid, suspended in a gas. Being suspended in its complement. The interface is where being meets the world.
 
-<small>This post is part of the [positioning series](/search/label/positioning). More on positioning in the <a href="https://jules-tenbos.github.io/in-wonder/positioning/">positioning area of the reference library</a>.</small>
+<small>This post is part of the [positioning series](/blog/label/positioning). More on positioning in the <a href="/positioning/">positioning area of the reference library</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@xcrap">xcrap</a> / Unsplash</small>

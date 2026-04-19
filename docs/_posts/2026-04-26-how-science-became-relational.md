@@ -37,7 +37,7 @@ The strangeness didn't stay theoretical. Bell's theorem showed that quantum corr
 
 The result is a duality that defines modern physics. On one side, spectacular success — atomic spectra, semiconductors, lasers, nuclear physics, three of the four fundamental forces unified within quantum field theory. On the other, an impasse — no agreed picture of reality, no resolution of the observer's role, and gravity still outside the quantum framework. The most productive theory in history, and no worldview to go with them.
 
-<small>This post is part of the [positioning series](/search/label/positioning). More on the philosophical and scientific trajectory in the <a href="https://jules-tenbos.github.io/in-wonder/positioning">positioning area of the reference library</a>.</small>
+<small>This post is part of the [positioning series](/blog/label/positioning). More on the philosophical and scientific trajectory in the <a href="/positioning">positioning area of the reference library</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@grianghraf">Grianghraf</a> / Unsplash</small>

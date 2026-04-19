@@ -2,7 +2,7 @@
 
 # SPLectrum — Public Conscious Persona 1.0
 
-This page describes how the blog operates as SPLectrum's public conscious persona. The concept is introduced in [The Blog as Public Conscious Persona](https://julestenbos.blogspot.com/2026/05/the-blog-as-public-conscious-persona.html) — this page holds the technical detail.
+This page describes how the blog operates as SPLectrum's public conscious persona. The concept is introduced in [The Blog as Public Conscious Persona](/blog/2026/05/the-blog-as-public-conscious-persona/) — this page holds the technical detail.
 
 ## The model
 

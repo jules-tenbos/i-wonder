@@ -7,7 +7,7 @@ blogger_id: 7383966599368645132
 ---
 <img src="https://images.unsplash.com/photo-1645117030875-4eb47312e333?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Plant growing through cracked wall" />
 
-Two posts ago I started [unpacking the seed](/2026/03/splectrum-is-born.html) — six lines about language and how we relate to reality. This view on language has not fallen from the sky. This post is the first in a positioning series that explores the evolving thinking in philosophy and science. The focus is first on philosophy, starting with [Ludwig Wittgenstein](https://plato.stanford.edu/entries/wittgenstein/) — singling out philosophers whose thinking was key in shifting the focus towards language.
+Two posts ago I started [unpacking the seed](/blog/2026/03/splectrum-is-born/) — six lines about language and how we relate to reality. This view on language has not fallen from the sky. This post is the first in a positioning series that explores the evolving thinking in philosophy and science. The focus is first on philosophy, starting with [Ludwig Wittgenstein](https://plato.stanford.edu/entries/wittgenstein/) — singling out philosophers whose thinking was key in shifting the focus towards language.
 
 There is a picture of reality that runs deep in Western thinking. Reality is out there, independent, fixed, waiting to be described. And it is the job of language to provide that description. The more precise the language, the closer we get to truth. This is all thought about from an outside viewpoint looking in.
 
@@ -29,7 +29,7 @@ Wittgenstein embodies the turn, he existed on both sides. He started on the anal
 
 Next up: Rorty, who walked through that door and kept going.
 
-<small>The <a href="https://jules-tenbos.github.io/in-wonder/positioning">reference library</a> has an overview of the positioning series.</small>
+<small>The <a href="/positioning">reference library</a> has an overview of the positioning series.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@sayanhn">Sayan Hn</a> / Unsplash</small>

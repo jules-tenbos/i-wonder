@@ -5,7 +5,7 @@ date: 2024-12-03
 labels: [science, thought]
 blogger_id: 6514423994543080219
 ---
-<img src="https://images.unsplash.com/flagged/photo-1552863473-6e5ffe5e052f?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Evolution" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://images.unsplash.com/flagged/photo-1552863473-6e5ffe5e052f?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Evolution"/>
 
 The brain is an organ with over 500 million years of evolution. It probably evolved through integration centers in nerve nets, the early brainless nervous system. 
 

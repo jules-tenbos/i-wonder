@@ -15,7 +15,7 @@ It was the semiotics that drew me to this article, and the misplaced positioning
 It's a pity that OHP is too impatient to achieve its final ambition - a TOE - that it neglects to spend enough time and energy on the foundation of its preferred toolkit to get there.
 This is not about judging who is right or wrong, who wins the final match and takes it all. There is no final match, always a next season. It's about the skills of playing. If foundations are not laid as stone on rock, the resulting building becomes easily the victim of the whims of quicksand.
 
-<small>This post is part of the [positioning series](/search/label/positioning). More on positioning in the <a href="https://jules-tenbos.github.io/in-wonder/positioning/">positioning area of the reference library</a>.</small>
+<small>This post is part of the [positioning series](/blog/label/positioning). More on positioning in the <a href="/positioning/">positioning area of the reference library</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@whale">Matthew Smith</a> / Unsplash</small>

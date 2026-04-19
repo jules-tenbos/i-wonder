@@ -21,7 +21,7 @@ Version is metadata, not name. Advisory to resolution, not a gate. When somethin
 
 And metadata is always ambiguity. Always contextual, always potentially different at every node on the ancestor axis. Same identifier, same version set, different metadata at this node versus that one — different resolution behaviour. The namespace does not prescribe meaning. It provides the structure within which meaning is locally determined. The subject shapes its own view of the namespace the same way it shapes its own reliability landscape through mutability declarations.
 
-<small>This post is part of the [mycelium series](/search/label/mycelium). More in the <a href="https://jules-tenbos.github.io/in-wonder/engineering/mycelium/">mycelium section of the reference library</a>.</small>
+<small>This post is part of the [mycelium series](/blog/label/mycelium). More in the <a href="/engineering/mycelium/">mycelium section of the reference library</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@darmau">darmau</a> / Unsplash</small>

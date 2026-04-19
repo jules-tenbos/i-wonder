@@ -23,7 +23,7 @@ Where the pivot loses something, languages genuinely differ. Every transformatio
 
 The fabric weaves namespace trees for different purposes. The pivot between them is one principle. The languages are finding each other.
 
-<small>This post is part of the [mycelium series](/search/label/mycelium). More in the <a href="https://jules-tenbos.github.io/in-wonder/engineering/mycelium/">mycelium section of the reference library</a>.</small>
+<small>This post is part of the [mycelium series](/blog/label/mycelium). More in the <a href="/engineering/mycelium/">mycelium section of the reference library</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@gettyimages">Getty Images</a> / Unsplash</small>

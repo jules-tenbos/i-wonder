@@ -56,7 +56,7 @@ Decentralisation is an upfront property, not an afterthought. Mycelium is decent
 
 The aim is not to replace traditional solution design patterns like distributed applications. It is to sandwich a decentralised cognition layer in between — a SPLectrum-specific layer with its own vocabulary, sitting between the philosophical framework above and the traditional engineering patterns below. In subsequent posts I will go into more detail about each pillar.
 
-<small>This post is part of the [seed series](/search/label/seed). More on SPLectrum engineering in the <a href="https://jules-tenbos.github.io/in-wonder/engineering/">engineering area of the reference library</a>.</small>
+<small>This post is part of the [seed series](/blog/label/seed). More on SPLectrum engineering in the <a href="/engineering/">engineering area of the reference library</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@christopher__burns">Christopher Burns</a> / Unsplash</small>

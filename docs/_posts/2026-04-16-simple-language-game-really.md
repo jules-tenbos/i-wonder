@@ -28,7 +28,7 @@ Analysing simple things hides so much complexity. And this is necessary — we w
 
 Each observer's experience of what is happening goes far beyond what is shared. The builder feels the weight of each slab landing, the roughness under his hands, the sun on his back. The assistant feels the strain of lifting, the rhythm of the work, the satisfaction of a clean handover. None of this enters the shared vocabulary — it doesn't need to. But it is there, in every moment. The personal experience goes well beyond language and what language can share. That is where Heidegger's being in the world really kicks in.
 
-<small>This post is part of the [language series](/search/label/language). More on SPLectrum and language in the <a href="https://jules-tenbos.github.io/in-wonder/language/">language area of the reference library</a>.</small>
+<small>This post is part of the [language series](/blog/label/language). More on SPLectrum and language in the <a href="/language/">language area of the reference library</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@brett_jordan">Brett Jordan</a> / Unsplash</small>

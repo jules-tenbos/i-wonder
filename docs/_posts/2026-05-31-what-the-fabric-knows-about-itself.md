@@ -21,7 +21,7 @@ The transition from dirty to immutable is a one-way creation act — a snapshot,
 
 The fabric itself has no opinion about change. The landscape is the sum of declarations — cautious or adventurous, sealed or open. The mutability protocols read whatever the subject has declared about itself. Where there is a declaration, there is a guarantee. Where there is silence, there is dirt. And that is exactly as it should be.
 
-<small>This post is part of the [mycelium series](/search/label/mycelium). More in the <a href="https://jules-tenbos.github.io/in-wonder/engineering/mycelium/">mycelium section of the reference library</a>.</small>
+<small>This post is part of the [mycelium series](/blog/label/mycelium). More in the <a href="/engineering/mycelium/">mycelium section of the reference library</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@gettyimages">gettyimages</a> / Unsplash</small>

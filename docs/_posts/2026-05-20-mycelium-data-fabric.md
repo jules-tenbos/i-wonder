@@ -7,7 +7,7 @@ blogger_id: 2725312844865805306
 ---
 <img src="https://images.unsplash.com/photo-1718049942873-58bd663206dc?q=80&w=2067&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Mycelium — The Data Fabric" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
-This post is the first of the mycelium series. The [splectrum engineering post](https://julestenbos.blogspot.com/2026/05/splectrum-engineering.html) describes three pillars of a SPLectrum system — mycelium (state), splectrum (meaning), HAICC (cognition). Mycelium is what I call the main pillar: it provides the fabric structure for data, and is the base fabric on which the other two build.
+This post is the first of the mycelium series. The [splectrum engineering post](/blog/2026/05/splectrum-engineering/) describes three pillars of a SPLectrum system — mycelium (state), splectrum (meaning), HAICC (cognition). Mycelium is what I call the main pillar: it provides the fabric structure for data, and is the base fabric on which the other two build.
 
 Data is stored in a tree structure, wrapped into individual repositories — *subject realities* — under [git](https://git-scm.com/) as distributed version control. Git provides the hard boundary: identity, history, integrity. Each repository is a distinct entity — what you see is what there is. No hidden data, no hidden process. There is no central data world. Only subject realities exist. The totality of data is a logical concept, never a physical repository. Data lives where it is created and is referenced for consumption elsewhere. A consuming repository may hold local copies, but its data state for consumed data is not authoritative. The writer owns the data.
 
@@ -31,7 +31,7 @@ Processes live in the fabric alongside the data — embedded in context metadata
 
 Properties such as structured data access, mutability, and referencing are implemented in separate protocol layers on top of the base. The data protocols at the base level use XPath syntax for addressing and querying — I am going to do a separate post on the base layer data protocols. These protocol layers are where the fabric grows in capability without changing the base. The base stays minimal, universal, unchanged. Everything above it is articulation.
 
-<small>This post is part of the [mycelium series](/search/label/mycelium). More on mycelium in the <a href="https://jules-tenbos.github.io/in-wonder/engineering/mycelium/">mycelium area of the reference library</a>.</small>
+<small>This post is part of the [mycelium series](/blog/label/mycelium). More on mycelium in the <a href="/engineering/mycelium/">mycelium area of the reference library</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@chiara_01">chiara_01</a> / Unsplash</small>
