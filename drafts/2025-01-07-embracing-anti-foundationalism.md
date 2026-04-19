@@ -9,8 +9,6 @@ I stumbled across anti-foundationalism and thought - wow, that's me as well. Don
 
 <img src="https://images.unsplash.com/photo-1610079732288-72a77bd816c9?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Foundation"/>
 
-<small>Photo: <a href="https://unsplash.com/@sunburned_surveyor">Sunburned Surveyor</a> / Unsplash</small>
-
 ## The Discovery
 
 I got alerted to anti-foundationalism listening to [Carlo Rovelli](https://plato.stanford.edu/entries/qm-relational/) on the TOE (Theory of Everything) podcast - one that I highly recommend. [Watch the episode here](https://www.youtube.com/watch?v=r_fUPbBNmBw) (particularly around 1h15m).
@@ -45,3 +43,5 @@ During my limited research into anti-foundationalism I also found a PDF by Mark 
 > The most obvious implications of anti-foundationalism are perhaps meaning holism and anti-representationalism. Given that we cannot have pure experiences, our concepts and propositions cannot refer to the world in splendid isolation. Concepts cannot directly represent objects in the world since our experiences of those objects must in part be ones that we construct using our prior theories. Hence anti-foundationalists conclude that concepts, meanings, and beliefs do not have a one to one correspondence with objects in the world, but rather form webs.
 
 This idea of webs rather than foundations resonates deeply with how I experience understanding - not as building blocks stacked on a solid base, but as interconnected networks of meaning that shift and evolve with new experiences and insights.
+
+<small>Photo: <a href="https://unsplash.com/@sunburned_surveyor">Sunburned Surveyor</a> / Unsplash</small>
