@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Labels
+# In Wonder - Labels
 
 ### Series
 - [discovery](discovery)
