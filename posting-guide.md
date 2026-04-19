@@ -2,39 +2,29 @@
 
 ## Setup
 
-- Blog: splectrum.world
-- API: Blogger API v3 via `manage.py`
-- OAuth: `credentials.json` (Google Cloud project "i-wonder-blog") + cached `token.json`
-- Both files gitignored
-- First run opens browser for OAuth consent; subsequent runs reuse cached token
-- Blog ID auto-discovered from URL, cached in `token.json`
-- WSL2: uses `open_browser=False` — copy the URL manually
-- Google Search Console: when requesting indexing, use `?m=1` suffix on URLs (Blogger mobile redirect), otherwise redirect error
+- Site: splectrum.world (GitHub Pages from docs/)
+- Blog: splectrum.world/blog/ (Jekyll posts in docs/_posts/)
+- Reference library: splectrum.world/ (Jekyll pages in docs/)
+- Theme: minima with custom head.html, header.html, footer.html, post.html, home.html
 
-## Commands
+## Publishing
 
-```bash
-python3 manage.py list                              # list published posts
-python3 manage.py get <post-id>                     # show a specific post
-python3 manage.py publish <markdown-file>           # publish immediately
-python3 manage.py draft <markdown-file>             # create as draft
-python3 manage.py schedule <markdown-file> <datetime>  # schedule for future date
-python3 manage.py update <markdown-file>             # update (uses Blogger-ID from file)
-python3 manage.py update <markdown-file> <post-id>  # update with explicit ID
-python3 manage.py delete <post-id>                  # delete (with confirmation)
-python3 manage.py sync                              # diff repo vs live blog
-python3 manage.py page-list                         # list pages
-python3 manage.py page-publish <markdown-file>      # publish a page
-python3 manage.py page-update <page-id> <md-file>   # update a page
-python3 manage.py page-delete <page-id>             # delete a page
-```
+Posts live in `docs/_posts/` as Jekyll markdown with front matter. Future-dated posts are hidden by Jekyll until their date arrives. To publish: commit to main and push.
 
 ## Markdown Format
 
-- `# Title` on first line → post title
-- Optional `Labels: label1, label2` on line after title
-- Optional `Blogger-ID: <id>` on line after labels — enables `manage.py update <file>` without explicit ID
-- Body converted markdown → HTML via `markdown` library (extra, sane_lists)
+Jekyll front matter:
+
+```yaml
+---
+layout: post
+title: "Post Title"
+date: YYYY-MM-DD
+labels: [series, category, persona]
+---
+```
+
+Filename: `YYYY-MM-DD-slug.md` in `docs/_posts/`.
 
 ## Publishing Workflow
 
@@ -119,16 +109,28 @@ The draft produces its outputs and is then deleted:
 3. Update reference library index pages
 4. Update `docs/sitemap.xml` if new pages were added
 5. Render diagrams to images if any
-6. Create clean post file in `published/` (prose + image refs only, no notes)
-7. Schedule on Blogger
-8. Delete draft from `drafts/`
-9. Delete submission from `submissions/` (if not already deleted)
-10. Commit and push
+6. Create clean post file in `docs/_posts/` (Jekyll front matter + prose, no notes)
+7. Delete draft from `drafts/`
+8. Delete submission from `submissions/` (if not already deleted)
+9. Commit and push
+
+### Blog post review checklist
+
+When reviewing existing or new posts, check:
+
+1. **Front matter** — layout: post, title, date, labels (max 3, from series/category/persona)
+2. **Image** — no inline float styles (CSS handles sizing). Just `<img src="..." alt="..." />`
+3. **Internal links** — use absolute paths (`/seed`, `/engineering/mycelium/`). No old Blogger URLs, no `jules-tenbos.github.io`, no `.html` extensions
+4. **External links** — max 5 total. People → SEP/Wikipedia. Works → accessible version. Topics → Wikipedia/SEP. Open in new tab handled by JavaScript
+5. **Series footer** — `<small>This post is part of the [series name](/blog/label/series). More in the <a href="/area/page">page name</a> of the reference library.</small>` Link to the specific ref lib page, not just the area
+6. **Photo credit** — `<small>Photo: <a href="...">Name</a> / Unsplash</small>` separated by `---`
+7. **No old Blogger artefacts** — no `Blogger-ID:`, no `Labels:` line (use front matter), no bold date lines in body, no `/search/label/`, no `/p/xxx.html`
+8. **Voice** — matches the persona label. Author voice for thought/comment, SPLectrum voice for seed/engineering, narrator for named sources
 
 ## Images
 
 - Use Unsplash URLs with size/crop parameters (e.g. `w=350&h=230&fit=crop&crop=center`)
-- Float left styling: `style="float:left;margin:0 15px 10px 0;width:350px;"`
+- No inline styles — CSS handles sizing (80% centered on desktop, responsive on mobile)
 - Place `<img>` tag directly in markdown — passes through to HTML
 
 ### Comment template
@@ -136,7 +138,7 @@ The draft produces its outputs and is then deleted:
 All comment posts use the same image and credit:
 
 ```markdown
-<img src="https://images.unsplash.com/photo-1421789665209-c9b2a435e3dc?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Comment" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://images.unsplash.com/photo-1421789665209-c9b2a435e3dc?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Comment" />
 ```
 
 Credit footer:
@@ -170,19 +172,15 @@ The reference library lives in `docs/` and is served at `splectrum.world/`. It i
 Every reference library page follows this structure:
 
 ```markdown
-[In Wonder - The World of SPLectrum](link-to-root) > [Parent](link) > Page Title
+[Home](/) > [Area](/area/) > Page Title
 
 # Page Title
 
 Content...
-
----
-
-*© 2026 In Wonder - The World of SPLectrum, Jules ten Bos. The conversation lives at [In Wonder - The Conversation](https://splectrum.world).*
 ```
 
-- **Breadcrumb** at the top — relative links back to root. Root `index.md` has no breadcrumb.
-- **Footer** — standard navigational footer on every page.
+- **Breadcrumb** at the top — absolute links. Root `index.md` has no breadcrumb.
+- **Footer** — handled by template (footer.html). No inline footer in pages.
 - **No blog links** in content — the library doesn't link to blog posts. Blog posts link into the library.
 - **External links** — SEP, Wikipedia for stable references.
 
