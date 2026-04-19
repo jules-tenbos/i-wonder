@@ -5,7 +5,7 @@ date: 2026-05-08
 labels: [engineering, HAICC, SPLectrum]
 blogger_id: 211915852509234376
 ---
-<img src="https://plus.unsplash.com/premium_photo-1748351930528-726e58f38c31?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Public conscious persona" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://plus.unsplash.com/premium_photo-1748351930528-726e58f38c31?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Public conscious persona" />
 
 I finally did it, my blog is up and running with blog posts scheduled weeks ahead. As I am writing this six posts have been published and six more scheduled. The shared authorship — AI collaborative — is working, it is a godsend. It is a relay game where each fulfills their role, completing tasks until the final product is delivered. Such a good feeling that I am able to concentrate on creative writing while being so well supported.
 
@@ -27,7 +27,7 @@ For the full technical detail of how the persona is wired, see the [Public Consc
 
 Welcome to SPLectrum — Public Conscious Persona 1.0.
 
-<small>More on the engineering in the <a href="/engineering/personas/">engineering area of the reference library</a>.</small>
+<small>More on the human-AI partnership on the <a href="/haicc">HAICC page</a> and in the <a href="/engineering/personas/">personas area</a> of the reference library.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@anniespratt">Annie Spratt</a> / Unsplash</small>

@@ -5,7 +5,7 @@ date: 2026-05-06
 labels: [seed, philosophy, SPLectrum]
 blogger_id: 884898103835865300
 ---
-<img src="https://images.unsplash.com/photo-1736348877782-fa7ae2a9bd69?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="First principles" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://images.unsplash.com/photo-1736348877782-fa7ae2a9bd69?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="First principles" />
 
 SPLectrum was conceived about a year ago. It started as an engineering project around [domain specific langues (DSL)](https://en.wikipedia.org/wiki/Domain-specific_language) and collaborative AI. SPLectrum as a philosophical project was born only two months ago, when the seed principles materialised. Since then I have been busy researching how the SPLectrum seed principles are positioned within the philosophical and scientific realm. This culminated last week with my post on relational quantum mechanics (RQM). RQM is project I feel in spirit closely related to — albeit with a wider scope than just scientific. I was feeling my way, not always high in confidence: who are you that you dare to push the principles of the seed, those 6 lines, to us as the entirety of your foundation to build on?
 
