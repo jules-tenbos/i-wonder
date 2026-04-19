@@ -11,7 +11,7 @@ SPLectrum has a very broad view of language. It recognises a wide variety of lan
 
 Let's take a look using a simple addition as an example. In the Python language it is written as `x = 3 + 4` — calculate three plus four and assign it to variable x. It's a straightforward instruction. But the computer processor can't read it that way. At the execution level a computer processor only reads binary — a language with an alphabet of two symbols: 0 and 1. Its vocabulary — the instruction set — is preconfigured and fixed. Note that the instruction set depends on the specific processor.
 
-For our example `x = 3 + 4` the translation of the instruction in binary language (for a 6502 8-bit processor) is:
+For our example `x = 3 + 4` the translation of the instruction in binary language (for a [6502](https://en.wikipedia.org/wiki/MOS_Technology_6502) 8-bit processor) is:
 
 ```
 10101001 00000011
@@ -31,7 +31,7 @@ A one-to-one mapping with the binary. Same instructions, different notation. Alr
 
 Three languages, one computation. Python, assembly and binary instructions all yielding the same result: 7.
 
-In 1936, Alan Turing proved mathematically that computation is fundamentally about symbols and interaction between symbols. A tape, a read/write head, a set of rules: if you see this symbol, write that symbol, move, change state. Nothing else. No numbers, no logic, no meaning built in. The meaning emerges from the rules. And the minimum is already universal. A simple setup that can compute anything there is to be computed.
+In 1936, [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) proved mathematically that computation is fundamentally about symbols and interaction between symbols. A tape, a read/write head, a set of rules: if you see this symbol, write that symbol, move, change state. Nothing else. No numbers, no logic, no meaning built in. The meaning emerges from the rules. And the minimum is already universal. A simple setup that can compute anything there is to be computed.
 
 Turing also proved there are limits. Some computations never halt — anything circular runs forever. And no general procedure can determine in advance whether an arbitrary program will halt or not. The language is universal but not omnipotent.
 
@@ -39,7 +39,7 @@ If binary already has the full power, why do we need higher languages? Because w
 
 Each language is a different language game. The binary game: every bit matters, nothing is hidden, the raw power, all of it. The assembly game: instructions with names, but still raw power. The Python or any other higher language game: thinking in higher-level concepts, the details encapsulated. The rules of the game set the shape of how to think.
 
-Getting here required evolution. The first binary computers started with only binary language — everything directly written in the most basic instruction set. The first assembler — mnemonics mapper — was 31 instructions long written by hand in binary — David Wheeler, Cambridge, 1949. Those 31 words, loaded into the machine, were all that was needed to allow the computer to accept programs in a more human-readable form. Next followed higher level languages that used compilers to rewrite the instructions into assembly.
+Getting here required evolution. The first binary computers started with only binary language — everything directly written in the most basic instruction set. The first assembler — mnemonics mapper — was 31 instructions long written by hand in binary — [David Wheeler](https://en.wikipedia.org/wiki/David_Wheeler_(computer_scientist)), Cambridge, 1949. Those 31 words, loaded into the machine, were all that was needed to allow the computer to accept programs in a more human-readable form. Next followed higher level languages that used compilers to rewrite the instructions into assembly.
 
 Soon higher level languages were used to rebuild the lower level tools. Evolution in action. The concept of intermediate language (IL) appeared, an assembly-like instruction set that is not processor specific. Higher level languages get compiled to IL, and then from IL to assembly. An ever-growing interrelated ecosystem of languages building a web of complexity.
 
