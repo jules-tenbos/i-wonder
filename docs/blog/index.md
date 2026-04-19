@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[Home](/) > In Wonder
+
 # In Wonder - Blog
 
 The conversation. Where the thinking gets explored in the open. Browse by [label](label/).
