@@ -4,10 +4,10 @@ layout: default
 
 # About
 
-I'm Jules ten Bos. I wonder about things — how reality works, how we relate to it, how language shapes what we see. This site is where those questions get explored in the open.
+I'm Jules ten Bos. I wonder about things — how reality works, how we relate to it, how language shapes what we see. SPLectrum is where I am exploring in the open.
 
-The thinking centres on a principle I call the [SPLectrum seed](/seed) — six lines about language, relation, and reality. Not a theory of everything. A starting point.
+I have been fortunate, after years of thought and toil, to be able to cast a point of departure in principles I call the [SPLectrum seed](/seed) — six lines about language, relation, and reality. Not a theory of everything. A foundation to fall back on.
 
-SPLectrum is also an engineering project — collaborative AI applied to software. Apart from the language and meaning work, it focuses on research into an AI-friendly repository called Mycelium and a human-AI collaborative creation methodology ([HAICC](/haicc)). The engineering side lives in the [engineering area of the reference library](/engineering/).
+SPLectrum is not only philosophical. It is also an engineering project, built with AI at every level. Apart from the focus on language and meaning, there is research into seamless AI integration. The engineering builds on three pillars: Mycelium, an AI-friendly repository; HAICC, a human-AI collaborative creation methodology; and SPLectrum itself, for an engineering treatment of language and meaning. The [engineering area](/engineering/) of the reference library is where this lives.
 
 We practice what we preach — this site is created under an explicit [human-AI partnership](/haicc), openly acknowledged.
