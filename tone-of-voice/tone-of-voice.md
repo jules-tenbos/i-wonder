@@ -6,6 +6,18 @@ The voice is one person across all personas. What changes is how much that perso
 
 ---
 
+## Voice split across site areas
+
+The site has three voice registers:
+
+- **About / HAICC pages**: personal, author voice — Jules speaking directly as himself.
+- **Blog posts**: personal (author) for thought and comment posts, personal SPLectrum for seed/engineering posts, narrator for other persona posts.
+- **Reference library**: narrator, reference site voice — the material speaks, not a person. Impersonal, structural.
+
+The author appears where a person should appear. The ref lib stays impersonal — it's a reference, not a conversation. The blog bridges the two.
+
+---
+
 ## Shared foundation
 
 ### How the voice sounds
