@@ -23,6 +23,9 @@
     @media (max-width: 600px) {
       .site-header .site-title {
         font-size: 1.2em !important;
+        display: flex !important;
+        max-width: none !important;
+        width: auto !important;
       }
       h2, h3 {
         font-size: 1.1em !important;
@@ -60,11 +63,24 @@
       color: #333 !important;
     }
     @media (max-width: 600px) {
+      .site-header .wrapper {
+        flex-wrap: wrap !important;
+      }
       .site-nav {
         gap: 1em !important;
+        position: static !important;
+        float: none !important;
+        border: none !important;
+        background: none !important;
+        padding: 0 !important;
       }
       .site-nav .page-link {
         font-size: 0.8em !important;
+        display: inline !important;
+        margin: 0 !important;
+      }
+      .site-nav .menu-icon {
+        display: none !important;
       }
     }
     .page-content {
