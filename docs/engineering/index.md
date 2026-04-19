@@ -11,6 +11,7 @@ How SPLectrum builds things.
 - [Process Models](process-models) — decentralised evolutionary process models, neuroscience inspiration
 - [Namespace](namespace) — identifier grammar, dimensions, backbone, mapping
 - [Mycelium](mycelium/) — the data fabric, substrate architecture
+- [HAICC](haicc/) — human-AI creative collaboration, the cognition fabric
 - [Personas](personas/) — the communication channels SPLectrum operates through
 - [Implementation](implementation/) — the physical how: repositories, dependencies, supply chain, distribution
 
