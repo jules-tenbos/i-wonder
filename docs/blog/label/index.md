@@ -10,6 +10,7 @@ layout: default
 - [discovery](discovery)
 - [language](language)
 - [mycelium](mycelium)
+- [persona](persona)
 - [positioning](positioning)
 - [seed](seed)
 
