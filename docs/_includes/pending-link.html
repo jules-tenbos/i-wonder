@@ -1,5 +1,5 @@
 {%- assign pub = include.date -%}
 {%- assign now = site.time | date: "%Y-%m-%dT%H:%M:%SZ" -%}
-{%- if now >= pub -%}
+{%- if site.future or now >= pub -%}
 {{ include.text }}
 {%- endif -%}

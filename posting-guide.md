@@ -135,6 +135,14 @@ The include compares `site.time` (build time) against the `date` parameter. If t
 
 A daily rebuild runs at 10:00 UTC via `.github/workflows/daily-rebuild.yml`, re-evaluating all pending links against the current date.
 
+**Local preview of pending links.** The include honours Jekyll's `--future` flag — when set, all pending links emit regardless of date (same flag that exposes future-dated posts). To preview everything as it will eventually look:
+
+```
+jekyll serve --watch --host 0.0.0.0 --future
+```
+
+Without the flag, local behaviour matches production: pending links and future-dated posts stay hidden until their date.
+
 When scheduling a post, scan ref lib pages for ones that would benefit from a pointer to it and add the include. Common targets:
 
 - The relevant area's index.
