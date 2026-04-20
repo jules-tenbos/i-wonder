@@ -1,4 +1,5 @@
-{%- assign publish = include.date | date: "%s" -%}
-{%- if site.time | date: "%s" >= publish -%}
+{%- assign pub = include.date -%}
+{%- assign now = site.time | date: "%Y-%m-%dT%H:%M:%SZ" -%}
+{%- if now >= pub -%}
 {{ include.text }}
 {%- endif -%}
