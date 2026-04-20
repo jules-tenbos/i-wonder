@@ -6,15 +6,15 @@ The voice is one person across all personas. What changes is how much that perso
 
 ---
 
-## Voice split across site areas
+## Three axes of the site (voice split)
 
-The site has three voice registers:
+The site has three axes, each with its own voice:
 
-- **About / HAICC pages**: personal, author voice — Jules speaking directly as himself.
-- **Blog posts**: personal (author) for thought and comment posts, personal SPLectrum for seed/engineering posts, narrator for other persona posts.
-- **Reference library**: narrator, reference site voice — the material speaks, not a person. Impersonal, structural.
+- **Topnav (About / HAICC / P2P) — the personal axis.** Author voice, Jules speaking directly as himself. The person behind the project.
+- **Homepage boxes (seed + five areas) — the informational axis.** Narrator, reference voice. The material speaks, not a person. Impersonal, structural.
+- **Posts (blog) — the conversational axis.** Thinking in motion. Voice follows persona label — author for thought/comment, personal SPLectrum for seed/engineering, narrator for other persona posts.
 
-The author appears where a person should appear. The ref lib stays impersonal — it's a reference, not a conversation. The blog bridges the two.
+Three legitimate paths in, each with its own register and purpose. Someone arriving via topnav meets the person; someone entering via a homepage box meets the structured material; someone reading a post joins the ongoing conversation. The three axes reinforce each other through deliberate cross-links but don't collapse into one voice.
 
 ---
 

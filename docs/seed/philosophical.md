@@ -2,7 +2,7 @@
 
 # The seed and Philosophy
 
-How historical thinkers fit into the picture of the seed, principle by principle.
+How historical thinkers fit into the picture of the seed, principle by principle. See [SPLectrum and First Principles](/blog/2026/05/splectrum-and-first-principles/) for the blog conversation.
 
 ### P0 — Being implies language
 

@@ -11,6 +11,13 @@
 
 Posts live in `docs/_posts/` as Jekyll markdown with front matter. Future-dated posts are hidden by Jekyll until their date arrives. To publish: commit to main and push.
 
+## Cadence
+
+- Substantial posts: every 4 days.
+- Lighter posts: optionally in between, 2 days after the preceding post.
+- Schedule time: 10:00 UTC.
+- Active schedule tracked in `scheduled-tasks.md`.
+
 ## Markdown Format
 
 Jekyll front matter:

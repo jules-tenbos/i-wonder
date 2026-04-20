@@ -149,7 +149,7 @@ Topics that surfaced during the rework but need genuine research and conversatio
   - **P3** — Peirce, Habermas, Davidson, Rorty, Sellars/Brandom.
   - **P4** — looser convergences: Feyerabend, Lyotard, Goodman, Deleuze. Most SPLectrum-original of the relational principles.
   - **P5** — different lineage from the relational turn: Peirce (evolutionary realism), Whitehead, Bergson, Hegel, Popper/Kuhn/Lakatos, Teilhard.
-- **P0–P5 potentiality/actuality theme** — the "full power was always there, expression grows" claim spans both P0 (full power) and P5 (expression). Philosophical anchors: Aristotle (*dynamis*/*energeia*), Bergson (virtual/actual), Deleuze (virtual as field of differences). Cross-principle positioning territory rather than single-principle.
+- **P0–P5 potentiality/actuality theme** — active in `submissions/seed-discovery-research.md`. Cross-principle territory spanning P0 (full power) and P5 (expression); philosophical anchors Aristotle / Bergson / Deleuze.
 - **`/seed/philosophical` updates** — as each new positioning page lands, add a "See …" pointer from the relevant P-section, matching the pattern `/seed/philosophical` already uses for P0 → being-as-tension.
 
 ## Final pass — topnav deep-linking
