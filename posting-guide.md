@@ -121,6 +121,26 @@ The draft produces its outputs and is then deleted:
 8. Delete submission from `submissions/` (if not already deleted)
 9. Commit and push
 
+### Pending ref lib → blog links
+
+Ref lib pages can point into the blog, but only once the post is published. Pre-wire pending links now using the `pending-link` include — they emit the sentence only after the publish date has passed, as evaluated at build time.
+
+Syntax:
+
+```
+{% include pending-link.html date="YYYY-MM-DDT00:00:00Z" text="See [Title](/blog/YYYY/MM/slug/) for the blog conversation." %}
+```
+
+The include compares `site.time` (build time) against the `date` parameter. If the build is on or after the publish date, the sentence is emitted into the page; otherwise, nothing. This guarantees the link can only appear in a build that also includes the target post.
+
+A daily rebuild runs at 10:00 UTC via `.github/workflows/daily-rebuild.yml`, re-evaluating all pending links against the current date.
+
+When scheduling a post, scan ref lib pages for ones that would benefit from a pointer to it and add the include. Common targets:
+
+- The relevant area's index.
+- Seed incarnation pages if the post unpacks a principle.
+- Touchstone pages adjacent to the post's topic.
+
 ### Blog post review checklist
 
 When reviewing existing or new posts, check:
@@ -194,7 +214,7 @@ Content...
 
 - **Breadcrumb** at the top — absolute links. Root `index.md` has no breadcrumb.
 - **Footer** — handled by template (footer.html). No inline footer in pages.
-- **Links to blog** — allowed, and encouraged when a blog post tells the story behind a concept, event, or historical note. Keep them functional (not promotional): "For the story of how P0 joined the seed, see [And Then There Were Six](/blog/...)." Blog posts also link back into the ref lib for depth — both directions are fine.
+- **Links to blog** — allowed, and encouraged when a blog post tells the story behind a concept, event, or historical note. Keep them functional (not promotional): "For the story of how P0 joined the seed, see [And Then There Were Six](/blog/...)." Blog posts also link back into the ref lib for depth — both directions are fine. For pending links to scheduled future posts, use the `pending-link` include (see "Pending ref lib → blog links" above) — it only emits the sentence after the publish date has passed.
 - **External links** — SEP, Wikipedia for stable references.
 
 ### Linking from blog posts

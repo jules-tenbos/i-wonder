@@ -1,0 +1,4 @@
+{%- assign publish = include.date | date: "%s" -%}
+{%- if site.time | date: "%s" >= publish -%}
+{{ include.text }}
+{%- endif -%}

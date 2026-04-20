@@ -2,7 +2,7 @@
 
 # The original principles
 
-The seed principles in their original incarnation. The relational principles came first (P1–P5), last came the creational principle P0. See [And Then There Were Six](/blog/2026/05/and-then-there-were-six/) for the story.
+The seed principles in their original incarnation. The relational principles came first (P1–P5), last came the creational principle P0. {% include pending-link.html date="2026-05-10T00:00:00Z" text="See [And Then There Were Six](/blog/2026/05/and-then-there-were-six/) for the story." %}
 
 ### P0 — Being implies language
 

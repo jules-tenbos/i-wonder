@@ -1,8 +1,8 @@
-[Home](/) > [The SPLectrum Seed](/seed/) > Engineering View
+[Home](/) > [The SPLectrum Seed](/seed/) > The applied seed - Engineering
 
-# Engineering View
+# The applied seed - Engineering
 
-The same principles, read as engineering foundation. The philosophical vocabulary translates:
+SPLectrum's attempt at translating the seed into engineering. Philosophical vocabulary maps to engineering terms:
 
 | Philosophy | Engineering | What it is |
 |-----------|------------|-----------|
@@ -15,7 +15,7 @@ The same principles, read as engineering foundation. The philosophical vocabular
 
 ## Three fabrics
 
-P0 gives us three components: being, world, and the relational between them. In engineering these become three fabrics:
+Being, world, and the relational between them — three components implied by P0. In SPLectrum engineering these become three fabrics:
 
 **Mycelium — the data fabric (state)**<br/>
 The fabric to express the world in data. Entities exist as disclosed beings, not static records. Visible state, decentralised — no central database, no single source of truth.
@@ -27,3 +27,5 @@ A language and meaning engineering solution with the properties of P1–P5 baked
 Human-AI Creative Collaboration. How cognition gets distributed, expressed, and coordinated while maintaining genuine human partnership. Decentralised at the cognition level — human and AI agents as collaborative peers.
 
 Decentralisation is an upfront property: at the data level (Mycelium) and at the cognition level (HAICC). SPLectrum is the relational structure that makes both decentralisations coherent — P4, equal standing, all the way through.
+
+{% include pending-link.html date="2026-05-12T00:00:00Z" text="See [SPLectrum Engineering](/blog/2026/05/splectrum-engineering/) for the blog conversation." %}

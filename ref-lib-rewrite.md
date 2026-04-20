@@ -25,14 +25,13 @@ This framing informs the rework of each area index and the placement of pages th
 
 ## Execution order
 
-1. **Seed area rework** — bare principles on `/seed/`; rework each incarnation (philosophical, engineering, category-theory, discovery) one at a time. Mechanical split already done.
-2. **Topnav P2P rework** — personal-voice rework with Holepunch + Midnight/Cardano.
-3. **Positioning review pass.**
-4. **Reality area rework** — scope when we get there.
-5. **Language area rework** — new sub-pages, rewrite index.
-6. **Engineering rework** — its own track.
-7. **Vocabulary** — consolidate / grow toward one vocabulary per language game.
-8. **Topnav deep-linking pass** — final cross-link cleanup from topnav into the reshaped library.
+1. **Topnav P2P rework** — personal-voice rework with Holepunch + Midnight/Cardano.
+2. **Positioning review pass.**
+3. **Reality area rework** — scope when we get there.
+4. **Language area rework** — new sub-pages, rewrite index.
+5. **Engineering rework** — its own track.
+6. **Vocabulary** — consolidate / grow toward one vocabulary per language game.
+7. **Topnav deep-linking pass** — final cross-link cleanup from topnav into the reshaped library.
 
 ## Topnav pages
 
@@ -60,31 +59,6 @@ The topnav (About / HAICC / P2P) is intentionally different from the homepage bo
 - Is there sub-page content already in drafts or submissions, or do we write from scratch?
 
 ## Area pages
-
-### Seed area — `docs/seed/`
-
-**Status:** split complete; per-incarnation rework pending.
-
-**Structure:** the seed is now an area with an index of bare principles and four incarnation pages — each a principles-level translation, not a full treatment of the domain.
-
-- `docs/seed/index.md` — bare P0–P5, "What SPLectrum is", links to incarnations.
-- `docs/seed/philosophical.md` — philosophical vocabulary (being, world, subject); convergences with Heidegger, Wittgenstein, Saussure, Merleau-Ponty, Husserl, Rorty.
-- `docs/seed/engineering.md` — translation table (being→entity, world→data world, subject→POV entity); three fabrics (Mycelium, SPLectrum, HAICC).
-- `docs/seed/category-theory.md` — P0+P1 as categorical territory; Yoneda as P2. Deeper treatment lives on `/language/category-theory`.
-- `docs/seed/discovery.md` — P5 + P2 combined into creation-as-discovery. Deeper treatment lives on `/reality/discovery`.
-
-**Rework — one incarnation at a time.** Each needs:
-- Voice and framing consistent with the "foundation incarnation" role: enough to make the reading clear, not the full domain.
-- Explicit link out to the area that develops the domain in depth.
-- Cross-links from the relevant area index back to the seed incarnation.
-
-**Deep links.** `/seed/philosophical` links to `/positioning/being-as-tension` for P0. Other principle-themed positioning pages don't exist yet; that's post-rework research (see below).
-
-**Next session — post cross-links.** Scan `docs/_posts/` for posts suitable to link from the seed incarnation pages. `/seed/original` already links to "And Then There Were Six". Candidates likely exist for `/seed/philosophical` (e.g. "SPLectrum from First Principles"), `/seed/engineering`, `/seed/category-theory` ("The Seed and Category Theory" post), `/seed/discovery` ("Creation and Discovery", "Diversified Discovery").
-
-**Open questions for Jules:**
-- Should the seed incarnations have a shared footer pattern pointing to "full treatment in [area]"?
-- Does "What SPLectrum is" stay on `/seed/index` or get its own page eventually?
 
 ### Language area — `docs/language/`
 
