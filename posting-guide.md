@@ -165,7 +165,13 @@ Not every post has all three. Max 3 labels.
 
 ## Reference Library
 
-The reference library lives in `docs/` and is served at `splectrum.world/`. It is the primary — the blog promotes it, not the other way around.
+The reference library lives in `docs/` and is served at `splectrum.world/`. Content roles:
+
+- **Ref lib** — reference style. Concise, structural. No event narratives or stories.
+- **Blog** — the conversation. Happenings, events, the stories behind how things evolved.
+- **Documentation** — depth material, downloadable when needed (not on the live site).
+
+Keep each surface doing its own job. If a page starts telling a story, that material belongs in a blog post; link from the ref lib to it. If a ref lib page needs depth beyond reference style, the depth belongs in a separate document.
 
 ### Page template
 
@@ -181,7 +187,7 @@ Content...
 
 - **Breadcrumb** at the top — absolute links. Root `index.md` has no breadcrumb.
 - **Footer** — handled by template (footer.html). No inline footer in pages.
-- **No blog links** in content — the library doesn't link to blog posts. Blog posts link into the library.
+- **Links to blog** — allowed, and encouraged when a blog post tells the story behind a concept, event, or historical note. Keep them functional (not promotional): "For the story of how P0 joined the seed, see [And Then There Were Six](/blog/...)." Blog posts also link back into the ref lib for depth — both directions are fine.
 - **External links** — SEP, Wikipedia for stable references.
 
 ### Linking from blog posts

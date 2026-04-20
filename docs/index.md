@@ -3,7 +3,7 @@ SPLectrum is a foundational project. It grows from the seed — six principles o
 It aims to make a worthwhile contribution at the dawn of an AI-driven cognitive revolution.
 
 <div class="area-grid">
-  <a class="area-box" href="/seed">
+  <a class="area-box" href="/seed/">
     <h3 class="area-title">Seed</h3>
     <p class="area-desc">Six principles.<br>A common base for all languages.</p>
   </a>

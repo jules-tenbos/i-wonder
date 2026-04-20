@@ -12,8 +12,9 @@ Each axis is a legitimate path in. They reinforce each other through deliberate 
 
 ## The shape of the library
 
-Five main sections under home, each with a defined remit:
+Six areas under home, each with a defined remit:
 
+- **Seed** — the foundational principles themselves, plus their incarnations in different vocabularies (philosophical, engineering, category-theoretic, creation-and-discovery). Each incarnation is a principles-level translation, not a full domain treatment — depth lives in the relevant area.
 - **Language** — all language material, formal or otherwise. Category theory, formal languages, natural language, notation, language about language. The mechanics and properties of relation.
 - **Reality** — the consequences of the seed for how we experience and know reality. SPLectrum's own philosophical and scientific work: metaphysics, epistemology, ontology — plus ethics, arts, anywhere the seed lands. First-person territory.
 - **Positioning** — other people's work on reality. Where the seed sits among existing philosophical and scientific trajectories. Third-person territory. The counterpart to Reality: Reality is what SPLectrum says; Positioning is who else said something structurally adjacent.
@@ -24,13 +25,14 @@ This framing informs the rework of each area index and the placement of pages th
 
 ## Execution order
 
-1. **Seed split** — trim `seed.md`; land the engineering view in `docs/engineering/seed.md`; add pointers to category-theory and discovery.
+1. **Seed area rework** — bare principles on `/seed/`; rework each incarnation (philosophical, engineering, category-theory, discovery) one at a time. Mechanical split already done.
 2. **Topnav P2P rework** — personal-voice rework with Holepunch + Midnight/Cardano.
-3. **Language area rework** — new sub-pages, rewrite index.
+3. **Positioning review pass.**
 4. **Reality area rework** — scope when we get there.
-5. **Positioning review pass.**
-6. **Engineering rework** — its own track, after everything else.
-7. **Topnav deep-linking pass** — final cross-link cleanup from topnav into the reshaped library.
+5. **Language area rework** — new sub-pages, rewrite index.
+6. **Engineering rework** — its own track.
+7. **Vocabulary** — consolidate / grow toward one vocabulary per language game.
+8. **Topnav deep-linking pass** — final cross-link cleanup from topnav into the reshaped library.
 
 ## Topnav pages
 
@@ -59,24 +61,38 @@ The topnav (About / HAICC / P2P) is intentionally different from the homepage bo
 
 ## Area pages
 
-### Seed — `docs/seed.md`
+### Seed area — `docs/seed/`
 
-**Status:** needs trimming + split.
+**Status:** split complete; per-incarnation rework pending.
 
-**Current state:** One long page holding the philosophical framework (P0–P5), an engineering translation (table + three fabrics), mathematical convergence (category theory / Yoneda), and creation and discovery. The last two sections largely duplicate content already in `docs/language/category-theory.md` and `docs/reality/discovery.md`.
+**Structure:** the seed is now an area with an index of bare principles and four incarnation pages — each a principles-level translation, not a full treatment of the domain.
 
-**Split:**
+- `docs/seed/index.md` — bare P0–P5, "What SPLectrum is", links to incarnations.
+- `docs/seed/philosophical.md` — philosophical vocabulary (being, world, subject); convergences with Heidegger, Wittgenstein, Saussure, Merleau-Ponty, Husserl, Rorty.
+- `docs/seed/engineering.md` — translation table (being→entity, world→data world, subject→POV entity); three fabrics (Mycelium, SPLectrum, HAICC).
+- `docs/seed/category-theory.md` — P0+P1 as categorical territory; Yoneda as P2. Deeper treatment lives on `/language/category-theory`.
+- `docs/seed/discovery.md` — P5 + P2 combined into creation-as-discovery. Deeper treatment lives on `/reality/discovery`.
 
-1. **Keep on `seed.md`** — intro, P0–P5, "What SPLectrum is". Trim the "this page presents the seed twice" framing since the engineering view is moving out. Keep it focused: the six principles and the meta-language claim.
-2. **Move engineering view → engineering** — the philosophy/engineering translation table and the three-fabrics section (Mycelium, SPLectrum, HAICC). Probable home: new `docs/engineering/seed.md` (or fold into `top-level-design.md` — to decide). Link from the trimmed seed page and from `engineering/index.md`.
-3. **Mathematical convergence → language** — already covered in `docs/language/category-theory.md` (§ "Convergence with the Seed"). Drop the section from `seed.md`; add a short inline pointer near P5 ("see [Category Theory](language/category-theory) for the mathematical convergence").
-4. **Creation and discovery → reality** — already covered in `docs/reality/discovery.md` (§ "Creation conforms to discovery"). Drop from `seed.md`; add a short inline pointer ("see [Discovery](reality/discovery)").
+**Rework — one incarnation at a time.** Each needs:
+- Voice and framing consistent with the "foundation incarnation" role: enough to make the reading clear, not the full domain.
+- Explicit link out to the area that develops the domain in depth.
+- Cross-links from the relevant area index back to the seed incarnation.
+
+**Deep links.** `/seed/philosophical` links to `/positioning/being-as-tension` for P0. Other principle-themed positioning pages don't exist yet; that's post-rework research (see below).
 
 **Open questions for Jules:**
-- Engineering view: separate page (`engineering/seed.md`) or merge into `engineering/top-level-design.md`?
-- Keep the translation table on the engineering page as-is, or rethink given the AVRO/git/Kafka framing?
+- Should the seed incarnations have a shared footer pattern pointing to "full treatment in [area]"?
+- Does "What SPLectrum is" stay on `/seed/index` or get its own page eventually?
 
 ### Language area — `docs/language/`
+
+**Parked from seed area:** the "SPLectrum as meta-language" framing (previously on `/seed/`) needs a home in the language area. The content:
+
+> A meta-language: a language about languages. The claim is purely structural — language is relational, whatever its contents. Content varies by language; structure does not. The fabric is the relational structure all languages share. SPLectrum studies the fabric, not any particular cloth.
+
+Possible landings: language index, a dedicated page, or distributed across the new sub-pages. To decide during the language rework.
+
+
 
 **Status:** needs restructuring. Source: `submissions/language-area-rework.md` (2026-04-19, since folded in and deleted).
 
@@ -111,13 +127,28 @@ The topnav (About / HAICC / P2P) is intentionally different from the homepage bo
 
 **Scope:** read each page for voice consistency, link health, and alignment with the three-axes framing. No structural changes expected.
 
+(Depth work — new principle-themed positioning pages, cross-principle themes — is post-rework research; see "Post-rework research topics" below.)
+
 ### Engineering area — `docs/engineering/`
 
 **Status:** deferred — tackled on its own track after the other areas land.
 
 **Why deferred:** the area is in active flux (AVRO schema rethink, three committed languages — AVRO/git/Kafka). Reworking while the thinking is still moving would waste effort. Letting the other areas settle first also means their inbound links into engineering are deliberate by the time engineering's own rework begins.
 
-**Pre-touch:** the seed split lands the engineering view (translation table + three fabrics) into engineering before the area's own rework — probable home `docs/engineering/seed.md`. The later engineering rework absorbs this.
+**Note:** the engineering incarnation of the seed now lives under `docs/seed/engineering.md` (not under `docs/engineering/`). The engineering area can reference it for the foundational translation without owning it.
+
+## Post-rework research topics
+
+Topics that surfaced during the rework but need genuine research and conversation to develop properly. After the active rework is done, these move into `submissions/` to flow through the normal pipeline: submission → draft → blog conversation → eventual ref lib absorption.
+
+- **Principle-themed positioning pages** — the big three (philosophical-trajectory, scientific-positioning, being-as-tension) funnel into Reality. P1–P5 could each grow their own positioning page as the material matures. Candidate thinkers per principle (rough map, not prescriptive):
+  - **P1** — Wittgenstein, Saussure (briefly cited on `/seed/philosophical`); plus Peirce's triadic sign, structuralism.
+  - **P2** — Merleau-Ponty, Husserl (cited); plus Heidegger's being-in-the-world, James's radical empiricism.
+  - **P3** — Peirce, Habermas, Davidson, Rorty, Sellars/Brandom.
+  - **P4** — looser convergences: Feyerabend, Lyotard, Goodman, Deleuze. Most SPLectrum-original of the relational principles.
+  - **P5** — different lineage from the relational turn: Peirce (evolutionary realism), Whitehead, Bergson, Hegel, Popper/Kuhn/Lakatos, Teilhard.
+- **P0–P5 potentiality/actuality theme** — the "full power was always there, expression grows" claim spans both P0 (full power) and P5 (expression). Philosophical anchors: Aristotle (*dynamis*/*energeia*), Bergson (virtual/actual), Deleuze (virtual as field of differences). Cross-principle positioning territory rather than single-principle.
+- **`/seed/philosophical` updates** — as each new positioning page lands, add a "See …" pointer from the relevant P-section, matching the pattern `/seed/philosophical` already uses for P0 → being-as-tension.
 
 ## Final pass — topnav deep-linking
 
