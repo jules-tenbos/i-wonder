@@ -80,6 +80,8 @@ The topnav (About / HAICC / P2P) is intentionally different from the homepage bo
 
 **Deep links.** `/seed/philosophical` links to `/positioning/being-as-tension` for P0. Other principle-themed positioning pages don't exist yet; that's post-rework research (see below).
 
+**Next session — post cross-links.** Scan `docs/_posts/` for posts suitable to link from the seed incarnation pages. `/seed/original` already links to "And Then There Were Six". Candidates likely exist for `/seed/philosophical` (e.g. "SPLectrum from First Principles"), `/seed/engineering`, `/seed/category-theory` ("The Seed and Category Theory" post), `/seed/discovery` ("Creation and Discovery", "Diversified Discovery").
+
 **Open questions for Jules:**
 - Should the seed incarnations have a shared footer pattern pointing to "full treatment in [area]"?
 - Does "What SPLectrum is" stay on `/seed/index` or get its own page eventually?
