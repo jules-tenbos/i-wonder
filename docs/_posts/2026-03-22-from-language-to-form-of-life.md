@@ -29,7 +29,7 @@ Wittgenstein embodies the turn, he existed on both sides. He started on the anal
 
 Next up: [Rorty](https://plato.stanford.edu/entries/rorty/), who walked through that door and kept going.
 
-<small>This post is part of the [positioning series](/blog/label/positioning). More in the <a href="/positioning/philosophical-trajectory">philosophical trajectory</a> of the reference library.</small>
+<small>This post is part of the [positioning series](/blog/label/positioning). More in the <a href="/positioning/close-affinity/seed/the-turn-in-western-philosophy">philosophical trajectory</a> of the reference library.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@sayanhn">Sayan Hn</a> / Unsplash</small>

@@ -1,6 +1,6 @@
 SPLectrum is a foundational project. It grows from the seed — six principles on the dynamics of language and relation. The foundation is egalitarian towards all disciplines, with philosophy and engineering singled out as two important supporting pillars.
 
-It aims to make a worthwhile contribution at the dawn of an AI-driven cognitive revolution.
+It aims to make a worthwhile contribution at the dawn of an AI-driven cognitive revolution. See the [roadmap](/roadmap/) for what's to come.
 
 <div class="area-grid">
   <a class="area-box" href="/seed/">

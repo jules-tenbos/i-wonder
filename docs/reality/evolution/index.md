@@ -1,6 +1,6 @@
-[Home](/) > [Reality](/reality/) > Evolutionary Transitions
+[Home](/) > [Reality](/reality/) > Evolution
 
-# Evolutionary Transitions
+# Evolution
 
 The major transitions in the history of reality arrive roughly an order of magnitude faster each time. The conventional reading: things got more complex, power accumulated. The SPLectrum reading: the power was always there. What changes is expression. Growth in expression, not in power — P5.
 
@@ -51,5 +51,5 @@ The convergence is no longer philosophical. The sciences are arriving there from
 
 ## Connection to research
 
-The evolutionary transitions relate directly to several [research directions](research-directions): R1 (formal treatment of the exponential curve), R3 (transitions as thresholds in relational density), and R5 (AI as threshold).
+The evolutionary transitions relate directly to several [research directions](/roadmap/): R1 (formal treatment of the exponential curve), R3 (transitions as thresholds in relational density), and R5 (AI as threshold).
 

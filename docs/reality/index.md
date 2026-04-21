@@ -12,9 +12,10 @@ Evolution is built into the fabric: relating generates more to be related to. Re
 
 Equal standing has ethical consequences — for how we think about other forms of life, about different cultures and beliefs, about what can be imposed from outside a language. The direction is open; the work is ahead.
 
-This area explores how SPLectrum addresses these questions as the conversation deepens.
+Two sections organise SPLectrum's current work here:
 
-- [Discovery](discovery) — creation conforms to discovery, diversification, the multiplier
-- [Evolutionary Transitions](evolutionary-transitions) — the curve, the thresholds, the thinking side
-- [Research Directions](research-directions) — formal research emerging from the perimeter view
+**[Discovery](discovery/)**<br>
+How creation conforms to discovery — the walking of relational paths that were available but unwalked. Diversified discovery, the multiplier, the process model.
 
+**[Evolution](evolution/)**<br>
+The major transitions and what drives them — thresholds in interaction density producing structurally new expression. The curve, the thresholds, the thinking side.

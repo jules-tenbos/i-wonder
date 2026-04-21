@@ -5,7 +5,7 @@ layout: default
 <div class="home">
   {{ content }}
 
-  <h2 class="post-list-heading">In Wonder - The Conversation</h2>
+  <h2 class="post-list-heading"><a href="/blog/">In Wonder - The Conversation</a></h2>
   <div class="post-list-cols">
     <ul class="post-list">
       {%- for post in site.posts limit: 12 -%}
@@ -19,7 +19,4 @@ layout: default
       {%- endfor -%}
     </ul>
   </div>
-  {%- if site.posts.size > 12 -%}
-  <p class="more-posts"><a href="/blog/">more posts →</a></p>
-  {%- endif -%}
 </div>

@@ -95,7 +95,7 @@ Possible landings: language index, a dedicated page, or distributed across the n
 
 **Context:** Reality is SPLectrum's first-person axis — consequences of the seed for metaphysics, epistemology, ontology, ethics, arts. Large territory. Worth scoping properly when the time comes rather than pre-committing to a shape.
 
-**Known touchpoint:** Seed split lands "creation and discovery" as a pointer to `docs/reality/discovery.md` (already exists). No conflict with the future rework.
+**Known touchpoint:** Seed split lands "creation and discovery" as a pointer to `docs/reality/discovery/` (already exists). No conflict with the future rework.
 
 ### Positioning area — `docs/positioning/`
 
@@ -124,6 +124,7 @@ Topics that surfaced during the rework but need genuine research and conversatio
   - **P4** — looser convergences: Feyerabend, Lyotard, Goodman, Deleuze. Most SPLectrum-original of the relational principles.
   - **P5** — different lineage from the relational turn: Peirce (evolutionary realism), Whitehead, Bergson, Hegel, Popper/Kuhn/Lakatos, Teilhard.
 - **P0–P5 potentiality/actuality theme** — active in `submissions/seed-discovery-research.md`. Cross-principle territory spanning P0 (full power) and P5 (expression); philosophical anchors Aristotle / Bergson / Deleuze.
+- **Category theory on SPLectrum's language games** — active in `submissions/language-games-category-theory.md`. Research programme: once language registers are documented explicitly (tone-of-voice, process, vocabularies), apply category theory to them as operational tool, not structural parallel. Produces relational insight across the project's own languages.
 - **`/seed/philosophical` updates** — as each new positioning page lands, add a "See …" pointer from the relevant P-section, matching the pattern `/seed/philosophical` already uses for P0 → being-as-tension.
 
 ## Final pass — topnav deep-linking

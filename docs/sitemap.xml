@@ -1,28 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://splectrum.world/</loc></url>
+  <url><loc>https://splectrum.world/</loc><lastmod>2026-04-21</lastmod></url>
   <url><loc>https://splectrum.world/seed/</loc></url>
   <url><loc>https://splectrum.world/seed/original</loc></url>
-  <url><loc>https://splectrum.world/seed/philosophical</loc></url>
-  <url><loc>https://splectrum.world/seed/engineering/</loc></url>
-  <url><loc>https://splectrum.world/seed/engineering/language-mapping</loc></url>
-  <url><loc>https://splectrum.world/seed/engineering/three-pillars</loc></url>
+  <url><loc>https://splectrum.world/seed/philosophical</loc><lastmod>2026-04-21</lastmod></url>
+  <url><loc>https://splectrum.world/seed/engineering/</loc><lastmod>2026-04-21</lastmod></url>
+  <url><loc>https://splectrum.world/seed/engineering/language-mapping</loc><lastmod>2026-04-21</lastmod></url>
+  <url><loc>https://splectrum.world/seed/engineering/three-pillars</loc><lastmod>2026-04-21</lastmod></url>
   <url><loc>https://splectrum.world/seed/category-theory</loc></url>
   <url><loc>https://splectrum.world/seed/discovery</loc></url>
-  <url><loc>https://splectrum.world/positioning/</loc></url>
-  <url><loc>https://splectrum.world/positioning/philosophical-trajectory</loc></url>
-  <url><loc>https://splectrum.world/positioning/scientific-positioning</loc></url>
-  <url><loc>https://splectrum.world/positioning/being-as-tension</loc></url>
-  <url><loc>https://splectrum.world/positioning/boundary/</loc></url>
-  <url><loc>https://splectrum.world/positioning/boundary/mutualism</loc></url>
-  <url><loc>https://splectrum.world/positioning/boundary/observer-patch-holography</loc></url>
+  <url><loc>https://splectrum.world/positioning/</loc><lastmod>2026-04-21</lastmod></url>
+  <url><loc>https://splectrum.world/positioning/close-affinity/</loc><lastmod>2026-04-21</lastmod></url>
+  <url><loc>https://splectrum.world/positioning/close-affinity/seed/the-turn-in-western-philosophy</loc><lastmod>2026-04-21</lastmod></url>
+  <url><loc>https://splectrum.world/positioning/close-affinity/seed/the-turn-in-science</loc><lastmod>2026-04-21</lastmod></url>
+  <url><loc>https://splectrum.world/positioning/close-affinity/seed/being-as-tension</loc><lastmod>2026-04-21</lastmod></url>
+  <url><loc>https://splectrum.world/positioning/wider-landscape/</loc><lastmod>2026-04-21</lastmod></url>
+  <url><loc>https://splectrum.world/positioning/on-the-fence/</loc><lastmod>2026-04-21</lastmod></url>
+  <url><loc>https://splectrum.world/positioning/on-the-fence/mutualism</loc><lastmod>2026-04-21</lastmod></url>
+  <url><loc>https://splectrum.world/positioning/on-the-fence/observer-patch-holography</loc><lastmod>2026-04-21</lastmod></url>
   <url><loc>https://splectrum.world/vocabulary</loc></url>
   <url><loc>https://splectrum.world/language/</loc></url>
   <url><loc>https://splectrum.world/language/category-theory</loc></url>
-  <url><loc>https://splectrum.world/reality/</loc></url>
-  <url><loc>https://splectrum.world/reality/discovery</loc></url>
-  <url><loc>https://splectrum.world/reality/evolutionary-transitions</loc></url>
-  <url><loc>https://splectrum.world/reality/research-directions</loc></url>
+  <url><loc>https://splectrum.world/reality/</loc><lastmod>2026-04-21</lastmod></url>
+  <url><loc>https://splectrum.world/reality/discovery/</loc><lastmod>2026-04-21</lastmod></url>
+  <url><loc>https://splectrum.world/reality/evolution/</loc><lastmod>2026-04-21</lastmod></url>
+  <url><loc>https://splectrum.world/roadmap/</loc><lastmod>2026-04-21</lastmod></url>
   <url><loc>https://splectrum.world/engineering/</loc></url>
   <url><loc>https://splectrum.world/engineering/top-level-design</loc></url>
   <url><loc>https://splectrum.world/engineering/design-commitments</loc></url>

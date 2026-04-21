@@ -2,19 +2,17 @@
 
 # Positioning
 
-The positioning area places the [SPLectrum seed](../seed) within the broader evolution of philosophical and scientific thinking. The trajectory is consistent: from representing an external reality to relating within it.
+The outside voice. Where SPLectrum listens to — and speaks about — existing thought on its own terms.
 
-## Core views
+The positioning area aims to provide growing coverage of the context SPLectrum is embedded in: thinkers, frameworks, and traditions that surround and inform the project. Each taken as it comes rather than bent toward SPLectrum's framing. Not derivation — resonance, contrast, or context.
 
-Different starting points, different vocabularies, no coordination. Same structural move: the outside view giving way to the relational, the participatory, the embedded. When the same structural observation surfaces across unrelated traditions, it is unlikely to be projection. The seed does not derive from these thinkers. It occupies the same structural territory, arrived at independently.
+Organised by the kind of relation between SPLectrum and the material:
 
-- [Philosophical Trajectory](philosophical-trajectory) — from Descartes to the relational turn
-- [Scientific Positioning](scientific-positioning) — from classical physics to relational quantum mechanics
-- [Being as Tension](being-as-tension) — nine independent formulations of differentiation
+**[Close affinity](close-affinity/)**<br>
+Thinkers and frameworks that share close structural affinity with SPLectrum — independent starting points, kindred structural territory.
 
-## Views on the boundary
+**[Wider landscape](wider-landscape/)**<br>
+Positioning pieces with weaker direct affinity — adjacent frameworks and context for how SPLectrum sits in the broader landscape. Aspirational; content follows.
 
-Frameworks and narratives that share structural territory with the seed, examined through equal standing. Where they converge, the convergence is noted. Where they diverge, the divergence is examined — what structural commitment produces the difference, and what that difference reveals about both sides.
-
-- [Views on the Boundary](boundary/) — mutualism, observer patch holography
-
+**[On the fence](on-the-fence/)**<br>
+Frameworks with both interesting parallels *and* substantive contrast — sitting on the boundary of SPLectrum's structural territory, where both the overlap and the divergence reveal something.

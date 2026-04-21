@@ -16,6 +16,10 @@ The site has three axes, each with its own voice:
 
 Three legitimate paths in, each with its own register and purpose. Someone arriving via topnav meets the person; someone entering via a homepage box meets the structured material; someone reading a post joins the ongoing conversation. The three axes reinforce each other through deliberate cross-links but don't collapse into one voice.
 
+**Vocabulary consistency is an informational-axis requirement, not a site-wide one.** Ref lib pages need consistent vocabulary across pages — readers jump between pages and expect terms to mean the same thing; that's how the cumulative structural message lands. Topnav and blog pages are standalone bubbles — each is its own act of communication and can use whatever vocabulary best serves the message, including aspirational or colloquial framings that wouldn't fit the ref lib. No imposition either way: use the vocabulary that helps the reader on that page.
+
+**Within the informational axis, positioning is "the outside voice".** Most ref lib areas carry SPLectrum's own work (seed, reality, engineering, language, vocabulary) — the project speaking from its own territory. Positioning is different: it holds existing thought on its own terms, honouring each tradition, framework, or thinker as they come rather than bending them toward SPLectrum's framing. Still narrator voice, still informational axis — but the subject matter is external, and the stance is one of listening-and-placing, not claiming.
+
 ---
 
 ## Shared foundation

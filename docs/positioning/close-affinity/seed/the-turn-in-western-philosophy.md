@@ -1,6 +1,6 @@
-[Home](/) > [Positioning](/positioning/) > Philosophical Trajectory
+[Home](/) > [Positioning](/positioning/) > [Close affinity](/positioning/close-affinity/) > Seed > The Turn in Western Philosophy
 
-# Philosophical Trajectory
+# The Turn in Western Philosophy
 
 ## The trajectory
 
@@ -26,9 +26,7 @@
 
 **[Merleau-Ponty](https://plato.stanford.edu/entries/merleau-ponty/).** Phenomenology grounded in the body. Not a mind in a body — a body-subject. Perception is active bodily engagement. The body is the medium for having a world. Meaning inhabits gesture — "the gesture does not make me think of anger, it is the anger itself." Expression is constitutive — speech does not translate a ready-made thought, it accomplishes it. Understanding others is bodily resonance — inter-subjectivity starts as inter-corporeality. [Flesh](https://plato.stanford.edu/entries/merleau-ponty/#Onto) — the shared medium from which perceiver and perceived differentiate. If the seed holds: Wittgenstein and Rorty give us the language side — plurality, use, conversation. Merleau-Ponty gives us the participants — what occupies the subject position. P2 doesn't start at words. It starts at the body.
 
-## The pattern
+## The affinity
 
-Different starting points, different vocabularies, no coordination. Same structural move: the outside view giving way to the relational, the participatory, the embedded. The independent convergences — Saussure and Wittgenstein, Whitehead and Heidegger, Merleau-Ponty and Dewey — are the pattern. When the same structural observation surfaces across unrelated traditions, it is unlikely to be projection.
-
-The seed does not derive from these thinkers. It occupies the same structural territory, arrived at independently. The positioning is one of resonance, not lineage.
+The relational turn — from representing an external reality to relating within it — unfolds through the 20th century and continues. Each thinker contributes in their own way: Wittgenstein through language games, Merleau-Ponty through the body, Rorty through conversation, Heidegger through being-in-the-world. The turn isn't a destination any of them arrives at — it's a movement they collectively make.
 

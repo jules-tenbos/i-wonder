@@ -42,9 +42,9 @@ Semiotics as the study of sign processes — from Saussure's structural system t
 
 ## Reference library plan
 
-### New page: docs/positioning/semiotics.md (core view)
+### New page: docs/positioning/close-affinity/semiotics.md
 
-Semiotics as a core positioning page, not a boundary view. The field makes the same structural moves as the seed independently. Contents:
+Semiotics as a close-affinity page. The field makes the same structural moves as the seed independently. Contents:
 
 - Saussure: the system (structure, difference, the sign as differential)
 - Peirce: the double move (generalization beyond linguistics, evolution of signs through semiosis)
@@ -53,7 +53,7 @@ Semiotics as a core positioning page, not a boundary view. The field makes the s
 - Convergence with the seed: P0 (generalization), P1 (relational), P2 (Umwelt), P4 (inter-relation), P5 (evolution)
 - Category theory connection if it holds
 
-### Update: docs/positioning/philosophical-trajectory.md
+### Update: docs/positioning/close-affinity/philosophical-trajectory.md
 
 Add Peirce to the trajectory. He belongs there — the generalization move is a turning point. Possibly as axis philosopher alongside Wittgenstein, Rorty, Merleau-Ponty. He makes the move Saussure didn't: from system to process, from linguistics to everything.
 

@@ -1,6 +1,6 @@
-[Home](/) > [Positioning](/positioning/) > Scientific Positioning
+[Home](/) > [Positioning](/positioning/) > [Close affinity](/positioning/close-affinity/) > Seed > The Turn in Science
 
-# Scientific Positioning
+# The Turn in Science
 
 ## The trajectory
 
@@ -30,9 +30,7 @@ The connection to [loop quantum gravity](https://plato.stanford.edu/entries/quan
 
 If the seed holds: where it says "language is the medium through which a subject experiences reality," RQM says properties manifest only through interaction. Where it says "knowledge is convergence of subjects," RQM says shared facts through decoherence. Where it says "subject is a role in the relation," RQM says the observer is any physical system. Different vocabulary, same structural move. Independent arrivals at the same structure.
 
-## The convergence
+## The affinity
 
-The science trajectory mirrors the philosophy trajectory. In philosophy: the outside view giving way to the relational, from Descartes through Kant, Hegel, Husserl, Heidegger, to Wittgenstein, Rorty, Merleau-Ponty. In science: the absolute giving way to the relational, from Newton through Maxwell, Einstein, quantum mechanics, to RQM.
-
-Physics and philosophy, working independently on different problems with different methods, arrive at the same structural observation: there is no outside view. Properties, facts, knowledge — all relational, all from a position, all through a medium.
+The scientific arc runs parallel: the absolute giving way to the relational, from Newton through Maxwell, Einstein, quantum mechanics, to RQM. Each step extends the turn — Einstein couples space and time, quantum mechanics removes observer-independent properties, RQM frames facts themselves as relational. A collective movement, not a point of arrival.
 

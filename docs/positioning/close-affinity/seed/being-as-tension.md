@@ -1,4 +1,4 @@
-[Home](/) > [Positioning](/positioning/) > Being as Tension
+[Home](/) > [Positioning](/positioning/) > [Close affinity](/positioning/close-affinity/) > Seed > Being as Tension
 
 # Being as Tension
 
@@ -26,9 +26,7 @@ P0 states: being implies language. The two come together through differentiation
 
 **Nagarjuna — śūnyatā, nothing exists without relation.** No being has inherent self-nature. Everything arises in dependence on conditions, on relation. Emptiness is not nothingness — it is the absence of independent existence. Being is constitutively relational. The tension is between the appearance of independent existence and the reality of dependent origination.
 
-## The convergence
+## The affinity
 
-Nine independent formulations. Different traditions, different centuries, different concerns. Each arrived at a structurally similar observation — a duality, a tension, something that expresses it. The formulations are not identical. They use different vocabularies, carry different concerns, reach different depths. But the structural resemblance — being and complement, tension as constitutive, a medium that expresses it — surfaces independently across all nine.
-
-Being is tension across the interface. The interface is where being meets the world.
+These nine formulations together describe a structural move: being thought of as tension — the drawing of a distinction that holds its sides against each other through some medium. Heraclitus's logos, Fichte's positing, Derrida's différance, Spencer-Brown's distinction — each contributing vocabulary and concern, together making up the shape.
 

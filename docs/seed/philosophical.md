@@ -10,7 +10,7 @@ Being is always already disclosed in the world (Heidegger). Being comes into exi
 
 P0 is creational — the boundary expresses the differentiation. P1–P5 describe properties shared by all languages.
 
-See [Being as Tension](/positioning/being-as-tension) — nine formulations of differentiation across traditions.
+See [Being as Tension](/positioning/close-affinity/seed/being-as-tension) — nine formulations of differentiation across traditions.
 
 ### P1 — Language is relational
 

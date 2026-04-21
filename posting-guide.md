@@ -208,6 +208,14 @@ The reference library lives in `docs/` and is served at `splectrum.world/`. Cont
 
 Keep each surface doing its own job. If a page starts telling a story, that material belongs in a blog post; link from the ref lib to it. If a ref lib page needs depth beyond reference style, the depth belongs in a separate document.
 
+### Sitemap lastmod
+
+When a page changes substantively — new page, structural rework, major content update — add or bump `<lastmod>YYYY-MM-DD</lastmod>` on its entry in `docs/sitemap.xml`. Crawlers (Google confirmed re-reads regularly) use lastmod to prioritise re-crawl. Changes should be visible there.
+
+Skip lastmod bumps for minor changes (typos, link fixes, sentence polish). The goal is signal-of-substance, not coverage of every commit — noise dilutes the signal.
+
+New URLs added to the sitemap get `<lastmod>` on first appearance. Moved URLs (structural rename) likewise get lastmod at the move date; the old URL is removed in the same sitemap edit.
+
 ### Page template
 
 Every reference library page follows this structure:

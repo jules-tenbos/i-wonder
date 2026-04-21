@@ -31,7 +31,7 @@ By this time the ground was prepared for Wittgenstein, Merleau-Ponty and Rorty â
 
 And philosophy was not alone. Physics was making the same move, independently. Next to be covered in the positioning series.
 
-<small>This post is part of the [positioning series](/blog/label/positioning). More in the <a href="/positioning/philosophical-trajectory">philosophical trajectory</a> of the reference library.</small>
+<small>This post is part of the [positioning series](/blog/label/positioning). More in the <a href="/positioning/close-affinity/seed/the-turn-in-western-philosophy">philosophical trajectory</a> of the reference library.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@popovkin">Popovkin</a> / Unsplash</small>
