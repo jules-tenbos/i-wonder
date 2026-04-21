@@ -112,7 +112,7 @@ Labels: label1, label2, label3
 The draft produces its outputs and is then deleted:
 
 1. Create/update reference pages in `docs/`
-2. Update `docs/vocabulary.md`
+2. Update the relevant vocabulary page under `docs/vocabulary/`
 3. Update reference library index pages
 4. Update `docs/sitemap-site.xml` if new pages were added
 5. Render diagrams to images if any
