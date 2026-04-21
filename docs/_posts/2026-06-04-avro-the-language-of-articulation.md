@@ -33,7 +33,7 @@ The implementation runs on [avsc](https://github.com/mtth/avsc) — pure JavaScr
 
 Three committed languages. AVRO for articulation, git for boundary, Kafka for mobility. Together with the fabric primitives, that's the full substrate. And the things I found along the way — the carrier/meaning separation, the boundary as enforced ignorance, the three-level pattern, the living namespace — none of them were designed in. They were there, in AVRO's own structure, visible once you looked with the right questions.
 
-<small>This post is part of the [mycelium series](/blog/label/mycelium). More on AVRO in the <a href="/engineering/mycelium/avro-design-scope">AVRO design scope in the reference library</a>.</small>
+<small>This post is part of the [mycelium series](/blog/label/mycelium). More on AVRO in the <a href="/engineering/splectrum/mycelium/avro-design-scope">AVRO design scope in the reference library</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@markuswinkler">Markus Winkler</a> / Unsplash</small>

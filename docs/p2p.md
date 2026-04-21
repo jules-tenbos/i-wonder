@@ -20,7 +20,7 @@ P2P gives us the capability to reverse the direction. Data lives where it belong
 
 ## The tools for P2P and beyond
 
-SPLectrum uses [Bare](/engineering/bare/) as the default runtime. The main reasons: it is minimal, it is not strongly typed, and it opens access to [Pear](https://docs.pear.holepunch.to) for P2P. Bare and Pear are both built by [Holepunch](https://holepunch.to) — the team behind the distributed infrastructure that makes peer-to-peer practical. Not theoretical P2P. Working P2P.
+SPLectrum uses [Bare](/engineering/technology/bare/) as the default runtime. The main reasons: it is minimal, it is not strongly typed, and it opens access to [Pear](https://docs.pear.holepunch.to) for P2P. Bare and Pear are both built by [Holepunch](https://holepunch.to) — the team behind the distributed infrastructure that makes peer-to-peer practical. Not theoretical P2P. Working P2P.
 
 The centralised internet is not the enemy to be dismantled. It is the substrate. Decentralised ecosystems emerge on top of what already exists. Not revolution, but emergence. Not replacement, but transcendence.
 

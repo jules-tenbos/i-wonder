@@ -23,11 +23,11 @@ The draft stage is a folder structure that pre-organises the thoughts: is it cor
 
 Once done the post goes through editing and finishing and then it is ready for scheduling. The raw thoughts have now been shaped into proper bits of conversation — into words that can be spoken in public. And that is where the last task kicks in: merge the individual conversation pieces into an engaging continuous storyline. Posts need to be scheduled for publication so they tell the story of SPLectrum as it is happening at the moment. Just like the conversations a person would have in public within their community.
 
-For the full technical detail of how the persona is wired, see the [Public Conscious Persona 1.0](/engineering/personas/public-conscious-persona/current) page.
+For the full technical detail of how the persona is wired, see the [Public Conscious Persona 1.0](/engineering/splectrum/haicc/personas/public-conscious-persona/current) page.
 
 Welcome to SPLectrum — Public Conscious Persona 1.0.
 
-<small>More on the human-AI partnership on the <a href="/haicc">HAICC page</a> and in the <a href="/engineering/personas/">personas area</a> of the reference library.</small>
+<small>More on the human-AI partnership on the <a href="/haicc">HAICC page</a> and in the <a href="/engineering/splectrum/haicc/personas/">personas area</a> of the reference library.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@anniespratt">Annie Spratt</a> / Unsplash</small>

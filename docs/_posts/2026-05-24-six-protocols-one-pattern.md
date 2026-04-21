@@ -33,7 +33,7 @@ The default navigation of the tree is from context node to context node, flatten
 
 The current prototypes are using the local filesystem as physical data structure, wrapped in a git repo. Integration of other physical repositories into this structure is on the roadmap. At this moment a lot of prototyping is around metadata colocation and building a thorough understanding of the context this metadata creates. SPLectrum engineering starts from a philosophical framework that focusses on language and meaning. Each time a fabric data tree node contains metadata, a context is created with a change of meaning.  
 
-<small>This post is part of the [mycelium series](/blog/label/mycelium). More in the <a href="/engineering/mycelium/">mycelium section of the reference library</a>.</small>
+<small>This post is part of the [mycelium series](/blog/label/mycelium). More in the <a href="/engineering/splectrum/mycelium/">mycelium section of the reference library</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@jsbco">jsbco</a> / Unsplash</small>

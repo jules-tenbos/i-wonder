@@ -26,6 +26,6 @@ Whether the software-language categories above map cleanly onto the Chomsky hier
 
 ## Where SPLectrum engineering sits
 
-SPLectrum's engineering uses [Bare](/engineering/bare/) as the default runtime — JavaScript, dynamically typed, flexible. Data schemas are defined in [AVRO](/engineering/avsc/), a declarative schema language. Protocols in SPLectrum are data transformations; see [the applied seed — engineering](/seed/engineering/) for the foundational translation.
+SPLectrum's engineering uses [Bare](/engineering/technology/bare/) as the default runtime — JavaScript, dynamically typed, flexible. Data schemas are defined in [AVRO](/engineering/technology/bare-for-pear/avsc/), a declarative schema language. Protocols in SPLectrum are data transformations; see [the applied seed — engineering](/seed/engineering/) for the foundational translation.
 
 See [Let's Talk Software Languages](/blog/2026/04/lets-talk-software-languages/) for the blog conversation.

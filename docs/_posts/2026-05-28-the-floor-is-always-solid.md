@@ -19,7 +19,7 @@ This is also how subjects interact. Data state propagation is the default mode. 
 
 And underneath all of it — safe mode. Physical-layer-only access. Raw bytes, no schema discovery, no interpretation, no process activation, no layering. Records as opaque bytes, contexts as structure, nothing more. Whatever the layers above do, however they are configured, the raw physical layer is reachable. If a layer is corrupted, misconfigured, or simply not needed, safe mode bypasses it entirely. The floor is always solid.
 
-<small>This post is part of the [mycelium series](/blog/label/mycelium). More in the <a href="/engineering/mycelium/">mycelium section of the reference library</a>.</small>
+<small>This post is part of the [mycelium series](/blog/label/mycelium). More in the <a href="/engineering/splectrum/mycelium/">mycelium section of the reference library</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@alexshuperart">alexshuperart</a> / Unsplash</small>

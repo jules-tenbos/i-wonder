@@ -31,7 +31,7 @@ Processes live in the fabric alongside the data — embedded in context metadata
 
 Properties such as structured data access, mutability, and referencing are implemented in separate protocol layers on top of the base. The data protocols at the base level use XPath syntax for addressing and querying — I am going to do a separate post on the base layer data protocols. These protocol layers are where the fabric grows in capability without changing the base. The base stays minimal, universal, unchanged. Everything above it is articulation.
 
-<small>This post is part of the [mycelium series](/blog/label/mycelium). More on mycelium in the <a href="/engineering/mycelium/">mycelium area of the reference library</a>.</small>
+<small>This post is part of the [mycelium series](/blog/label/mycelium). More on mycelium in the <a href="/engineering/splectrum/mycelium/">mycelium area of the reference library</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@chiara_01">chiara_01</a> / Unsplash</small>

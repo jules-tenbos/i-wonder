@@ -23,7 +23,7 @@ The response is the request with the value filled in. Not a separate message —
 
 The Kafka record is indifferent to what it carries. Four bytes or an entire subject reality — same envelope. Contemplative or imperative, interpretation or intent — same structure. The grammar does not scale differently at different magnitudes. Data in motion is just data that knows how to travel.
 
-<small>This post is part of the [mycelium series](/blog/label/mycelium). More in the <a href="/engineering/mycelium/">mycelium section of the reference library</a>.</small>
+<small>This post is part of the [mycelium series](/blog/label/mycelium). More in the <a href="/engineering/splectrum/mycelium/">mycelium section of the reference library</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@gettyimages">gettyimages</a> / Unsplash</small>
