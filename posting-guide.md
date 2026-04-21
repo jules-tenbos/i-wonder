@@ -114,7 +114,7 @@ The draft produces its outputs and is then deleted:
 1. Create/update reference pages in `docs/`
 2. Update `docs/vocabulary.md`
 3. Update reference library index pages
-4. Update `docs/sitemap.xml` if new pages were added
+4. Update `docs/sitemap-site.xml` if new pages were added
 5. Render diagrams to images if any
 6. Create clean post file in `docs/_posts/` (Jekyll front matter + prose, no notes)
 7. Delete draft from `drafts/`
@@ -210,11 +210,13 @@ Keep each surface doing its own job. If a page starts telling a story, that mate
 
 ### Sitemap lastmod
 
-When a page changes substantively — new page, structural rework, major content update — add or bump `<lastmod>YYYY-MM-DD</lastmod>` on its entry in `docs/sitemap.xml`. Crawlers (Google confirmed re-reads regularly) use lastmod to prioritise re-crawl. Changes should be visible there.
+Sitemap structure: `docs/sitemap.xml` is the index pointing at `sitemap-site.xml` (ref lib, manually maintained) and `sitemap-blog.xml` (blog posts, auto-generated from `site.posts`). Only the site sitemap needs hand edits.
+
+When a ref lib page changes substantively — new page, structural rework, major content update — add or bump `<lastmod>YYYY-MM-DD</lastmod>` on its entry in `docs/sitemap-site.xml`. Crawlers (Google confirmed re-reads regularly) use lastmod to prioritise re-crawl. Changes should be visible there.
 
 Skip lastmod bumps for minor changes (typos, link fixes, sentence polish). The goal is signal-of-substance, not coverage of every commit — noise dilutes the signal.
 
-New URLs added to the sitemap get `<lastmod>` on first appearance. Moved URLs (structural rename) likewise get lastmod at the move date; the old URL is removed in the same sitemap edit.
+New URLs added to the site sitemap get `<lastmod>` on first appearance. Moved URLs (structural rename) likewise get lastmod at the move date; the old URL is removed in the same sitemap edit.
 
 ### Page template
 

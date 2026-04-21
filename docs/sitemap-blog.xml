@@ -1,0 +1,14 @@
+---
+layout: null
+permalink: /sitemap-blog.xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{%- for post in site.posts -%}
+{%- assign pub = post.date | date: "%s" | plus: 0 -%}
+{%- assign now = site.time | date: "%s" | plus: 0 -%}
+{%- if now >= pub -%}
+  <url><loc>https://splectrum.world{{ post.url }}</loc><lastmod>{{ post.date | date: "%Y-%m-%d" }}</lastmod></url>
+{% endif -%}
+{%- endfor %}
+</urlset>
