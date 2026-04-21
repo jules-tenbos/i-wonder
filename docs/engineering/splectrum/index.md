@@ -2,7 +2,7 @@
 
 # SPLectrum — logical design
 
-The logical side of SPLectrum's engineering. How the system must look, how the pillars weave, the commitments that shape it. Physical realisation lives in [Implementation](/engineering/implementation/), next to this; external platform in [Technology](/engineering/technology/).
+The logical side of SPLectrum's engineering. How the system must look, how the pillars weave, the commitments that shape it. External platform lives in [Technology](/engineering/technology/).
 
 ## Top level
 

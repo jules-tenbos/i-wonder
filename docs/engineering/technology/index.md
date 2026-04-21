@@ -7,4 +7,4 @@ The external platform SPLectrum builds on — runtime and modules SPLectrum depe
 ## Platforms
 
 - [Bare](bare/) — the Holepunch JavaScript runtime, the implementation platform.
-- [bare-for-pear](bare-for-pear/) — community fork modules adapted for Bare (avsc, avsc-rpc, git, rpc-server).
+- [bare-for-pear](bare-for-pear/) — modules for Bare: community forks and infrastructure (avsc, avsc-rpc, git, rpc-server).
