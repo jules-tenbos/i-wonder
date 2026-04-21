@@ -25,38 +25,10 @@ This framing informs the rework of each area index and the placement of pages th
 
 ## Execution order
 
-1. **Topnav P2P rework** — personal-voice rework with Holepunch + Midnight/Cardano.
-2. **Positioning review pass.**
-3. **Reality area rework** — scope when we get there.
-4. **Language area rework** — new sub-pages, rewrite index.
-5. **Engineering rework** — its own track.
-6. **Vocabulary** — consolidate / grow toward one vocabulary per language game.
-7. **Topnav deep-linking pass** — final cross-link cleanup from topnav into the reshaped library.
-
-## Topnav pages
-
-The topnav (About / HAICC / P2P) is intentionally different from the homepage boxes. It's the personal take on the project — Jules's voice, outside the structured library. Two legitimate paths in: topnav for people who want the person first, boxes for people who know what they're looking for. The topnav pages can be strengthened by making their links *into* the structured library more deliberate.
-
-### P2P — `docs/p2p.md`
-
-**Status:** needs rework.
-
-**Current state:** SPLectrum-voice, philosophical framing ("not a technology choice. It is the structure of experience"). Covers Holepunch (Bare, Pear) and links into `/engineering/bare/` and `/engineering/mycelium/`. No blockchain content.
-
-**Rework:**
-
-- **Voice** — shift from SPLectrum/abstract to personal voice. This is a topnav page, so it should read as Jules speaking about what matters in the P2P space, not as the seed pronouncing.
-- **Content to cover:**
-  - P2P as a space — what's actually there, why it matters to the project
-  - Holepunch stack — Bare (runtime), Pear (apps), the distributed primitives
-  - Blockchain layer — Midnight, Cardano. Where they fit, why these two, how they relate to (or differ from) the Holepunch line
-- **Structure question** — one page covering both Holepunch and blockchain, or a short landing page linking out to sub-pages? Sub-pages don't exist yet for Midnight / Cardano.
-- **Cross-links** — existing `/engineering/bare/` is reference material; the topnav page should point in, not duplicate.
-
-**Open questions for Jules:**
-- Is the Holepunch / blockchain pairing on one page, or should P2P become an index linking to `/p2p/holepunch/` and `/p2p/blockchain/` (or similar)?
-- Midnight and Cardano — what's the angle? (privacy/ZK, governance, something else?)
-- Is there sub-page content already in drafts or submissions, or do we write from scratch?
+1. **Language area rework** — new sub-pages, rewrite index.
+2. **Engineering rework** — its own track.
+3. **Vocabulary** — consolidate / grow toward one vocabulary per language game.
+4. **Topnav deep-linking pass** — final cross-link cleanup from topnav into the reshaped library.
 
 ## Area pages
 
@@ -88,22 +60,6 @@ Possible landings: language index, a dedicated page, or distributed across the n
 **Dependencies:**
 - Semiotics research (`submissions/semiotics.md`) intersects: Saussure → natural-languages, Peirce generalises beyond, may need accommodation in the area shape.
 - Natural/formal/software split affects where vocabulary work lands (each game documented under its own language category).
-
-### Reality area — `docs/reality/`
-
-**Status:** needs rework. Details deferred — to discuss when the work begins.
-
-**Context:** Reality is SPLectrum's first-person axis — consequences of the seed for metaphysics, epistemology, ontology, ethics, arts. Large territory. Worth scoping properly when the time comes rather than pre-committing to a shape.
-
-**Known touchpoint:** Seed split lands "creation and discovery" as a pointer to `docs/reality/discovery/` (already exists). No conflict with the future rework.
-
-### Positioning area — `docs/positioning/`
-
-**Status:** review only. Already restructured into core views and views on the boundary (2026-04).
-
-**Scope:** read each page for voice consistency, link health, and alignment with the three-axes framing. No structural changes expected.
-
-(Depth work — new principle-themed positioning pages, cross-principle themes — is post-rework research; see "Post-rework research topics" below.)
 
 ### Engineering area — `docs/engineering/`
 

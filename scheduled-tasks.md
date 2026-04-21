@@ -15,9 +15,6 @@ Tasks triggered by post publication. Updated as posts go live.
 ## April 16 — A Simple Language Game, Really? goes live
 - [ ] Tweet: One word — "Slab" — and a wall gets built. Wittgenstein's language games through SPLectrum glasses: equivalent expressions, personal experience, and turtles all the way down. splectrum.world/blog/2026/04/simple-language-game-really/ #Wittgenstein #LanguageGames #PhilosophyOfLanguage
 
-## April 21 — Language, Experience and Reality goes live
-- [ ] Tweet: Staring into the fire — every flame already labelled before a thought arrives. Personal experience isn't defective. Shared reality is the overlap. splectrum.world/blog/2026/04/language-experience-and-reality/ #Phenomenology #Husserl #MerleauPonty #Philosophy
-
 ## April 26 — From Clockwork to Open Questions goes live
 - [ ] Tweet: From Newton's clockwork to quantum mechanics — spectacular success, no agreed picture of reality. How physics arrived at the same open question as philosophy: what is the role of the observer? splectrum.world/blog/2026/04/from-clockwork-to-open-questions/ #QuantumMechanics #PhilosophyOfScience #Physics #Relativity
 
