@@ -49,7 +49,7 @@ Assemblers and compilers aren't unique to software. Language mapping and transfo
 
 The primordial hardwired language brings the raw power of execution. Higher languages bring the power of thought through the clarity and simplicity of its concepts and grammar. As thinking evolves, so do languages. It's only natural.
 
-<small>This post is part of the [language series](/blog/label/language). More on SPLectrum and language in the <a href="/language/">language area of the reference library</a>.</small>
+<small>This post is part of the [language series](/blog/label/language). More in <a href="/language/software-languages">software languages</a> of the reference library.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@carlgonz">Carl Gonzalez</a> / Unsplash</small>

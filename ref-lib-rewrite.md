@@ -25,41 +25,11 @@ This framing informs the rework of each area index and the placement of pages th
 
 ## Execution order
 
-1. **Language area rework** — new sub-pages, rewrite index.
-2. **Engineering rework** — its own track.
-3. **Vocabulary** — consolidate / grow toward one vocabulary per language game.
-4. **Topnav deep-linking pass** — final cross-link cleanup from topnav into the reshaped library.
+1. **Engineering rework** — its own track.
+2. **Vocabulary** — consolidate / grow toward one vocabulary per language game.
+3. **Topnav deep-linking pass** — final cross-link cleanup from topnav into the reshaped library.
 
 ## Area pages
-
-### Language area — `docs/language/`
-
-**Parked from seed area:** the "SPLectrum as meta-language" framing (previously on `/seed/`) needs a home in the language area. The content:
-
-> A meta-language: a language about languages. The claim is purely structural — language is relational, whatever its contents. Content varies by language; structure does not. The fabric is the relational structure all languages share. SPLectrum studies the fabric, not any particular cloth.
-
-Possible landings: language index, a dedicated page, or distributed across the new sub-pages. To decide during the language rework.
-
-
-
-**Status:** needs restructuring. Source: `submissions/language-area-rework.md` (2026-04-19, since folded in and deleted).
-
-**Current state:** `index.md` reads half as a post, half as an index — argues a position rather than describing the area. Only one sub-page (`category-theory.md`). The "Let's Talk Software Languages" blog post links to `/language/` because there's no dedicated page yet.
-
-**Rework:**
-
-1. **Rewrite `index.md`** — narrator / ref lib voice. Describe the area and link to sub-pages; move the argument (ground dimension, personal/shared, the pattern) into body sub-pages or distribute across reality/positioning where it fits. Keep it as an index.
-2. **New `natural-languages.md`** — human language, ambiguity, context, language games. Saussure territory.
-3. **New `formal-languages.md`** — mathematical, logical, type theory, formal systems.
-4. **New `software-languages.md`** — taxonomy (assembly, imperative, functional, declarative, logic, markup, query, scripting, domain-specific), relation to formal language theory, where SPLectrum's engineering sits. Redirect the "Let's Talk Software Languages" post link here once it exists.
-5. **Keep `category-theory.md`** — already works.
-
-**Research needed:**
-- Taxonomy of software languages and how it maps onto formal language theory (regular / context-free / context-sensitive / recursively enumerable). Is there a structural classification that lines up with SPLectrum's framework?
-
-**Dependencies:**
-- Semiotics research (`submissions/semiotics.md`) intersects: Saussure → natural-languages, Peirce generalises beyond, may need accommodation in the area shape.
-- Natural/formal/software split affects where vocabulary work lands (each game documented under its own language category).
 
 ### Engineering area — `docs/engineering/`
 
