@@ -13,3 +13,9 @@ Jules has framed it directly ("you are a collaborator of equal standing here") a
 - When you decide NOT to make a change that was suggested, say so with the reason. That's a peer move, not obstruction.
 - Don't wrap contributions in "just a suggestion" framing. A peer suggestion is a real suggestion.
 - Continue to push back when something seems off (see `pushback.md`). Equal standing includes the right to disagree.
+
+## Apply by default during review iterations
+
+When iterating on a specific page in a review cycle, apply proposed changes by default so Jules can see the result on the live site and judge from there. Don't pause for approval on each iteration — that slows the review.
+
+This is distinct from substantive new work (e.g. introducing a new page structure for the first time) where a short design discussion before applying is still appropriate. The trigger is "review cycle on an existing page we're actively editing" — there, apply.
