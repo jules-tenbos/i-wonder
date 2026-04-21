@@ -18,26 +18,16 @@ Six areas under home, each with a defined remit:
 - **Language** — all language material, formal or otherwise. Category theory, formal languages, natural language, notation, language about language. The mechanics and properties of relation.
 - **Reality** — the consequences of the seed for how we experience and know reality. SPLectrum's own philosophical and scientific work: metaphysics, epistemology, ontology — plus ethics, arts, anywhere the seed lands. First-person territory.
 - **Positioning** — other people's work on reality. Where the seed sits among existing philosophical and scientific trajectories. Third-person territory. The counterpart to Reality: Reality is what SPLectrum says; Positioning is who else said something structurally adjacent.
-- **Engineering** — how SPLectrum builds. Clear as-is; ongoing rework on AVRO/git/Kafka.
-- **Vocabulary** — one vocabulary per language game. Today a single page of SPLectrum terms, but the direction is substantive: each language game gets its concepts documented explicitly. This is part of the language work — making concepts explicit so games can be studied, compared, and kept free of implicit drift. First-class area even while thin.
+- **Engineering** — how SPLectrum builds. Split into `splectrum/` (logical design: top-level design, three pillars Mycelium/SPLectrum/HAICC) and `technology/` (external platform: bare, bare-for-pear modules).
+- **Vocabulary** — one vocabulary per language game. Structured as `vocabulary/splectrum/` with per-game pages (seed, engineering, HAICC). Room for other families to sit alongside SPLectrum.
 
 This framing informs the rework of each area index and the placement of pages that cross boundaries.
 
-## Execution order
+## Execution status
 
-1. **Engineering rework** — its own track.
-2. **Vocabulary** — consolidate / grow toward one vocabulary per language game.
-3. **Topnav deep-linking pass** — final cross-link cleanup from topnav into the reshaped library.
-
-## Area pages
-
-### Engineering area — `docs/engineering/`
-
-**Status:** deferred — tackled on its own track after the other areas land.
-
-**Why deferred:** the area is in active flux (AVRO schema rethink, three committed languages — AVRO/git/Kafka). Reworking while the thinking is still moving would waste effort. Letting the other areas settle first also means their inbound links into engineering are deliberate by the time engineering's own rework begins.
-
-**Note:** the engineering incarnation of the seed now lives under `docs/seed/engineering.md` (not under `docs/engineering/`). The engineering area can reference it for the foundational translation without owning it.
+1. **Engineering rework** — done. Three siblings: `splectrum/` (logical design, three pillars), `technology/` (bare + bare-for-pear), and earlier `implementation/` now removed (content is SPLectrum-specific and sits better as blog narrative).
+2. **Vocabulary** — done. Per-game structure under `/vocabulary/splectrum/`, sourced from canonical seed pages.
+3. **Topnav deep-linking pass** — pending. Final cross-link cleanup from topnav into the reshaped library.
 
 ## Post-rework research topics
 
@@ -51,6 +41,7 @@ Topics that surfaced during the rework but need genuine research and conversatio
   - **P5** — different lineage from the relational turn: Peirce (evolutionary realism), Whitehead, Bergson, Hegel, Popper/Kuhn/Lakatos, Teilhard.
 - **P0–P5 potentiality/actuality theme** — active in `submissions/seed-discovery-research.md`. Cross-principle territory spanning P0 (full power) and P5 (expression); philosophical anchors Aristotle / Bergson / Deleuze.
 - **Category theory on SPLectrum's language games** — active in `submissions/language-games-category-theory.md`. Research programme: once language registers are documented explicitly (tone-of-voice, process, vocabularies), apply category theory to them as operational tool, not structural parallel. Produces relational insight across the project's own languages.
+- **SPLectrum test framework as infrastructure module** — active in `submissions/spl-test-framework.md`. Full-chain no-mock testing principles; future modularisation into `technology/bare-for-pear/test-framework/` is on spl5's worklist.
 - **`/seed/philosophical` updates** — as each new positioning page lands, add a "See …" pointer from the relevant P-section, matching the pattern `/seed/philosophical` already uses for P0 → being-as-tension.
 
 ## Final pass — topnav deep-linking
