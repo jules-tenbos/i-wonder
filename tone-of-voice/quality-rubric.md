@@ -42,12 +42,13 @@ Each page sits in one axis; use the matching profile.
 
 The main review tool. Single narrator persona. Consistency across pages is the spine. Touchstone discipline over comprehensive. All external and internal standards apply in full.
 
+The underlying attitude running through several SPLectrum checks below — no prescriptive language, content left to speak, no bipolar framing under substance — is **"is like", not "is"** (see `is-like-not-is.md`). The split between rows is diagnostic, so different flavours of the same failure can be surfaced separately; the attitude is one core discipline.
+
 **Header block** (framing, not scored):
 
 | Field | Value |
 |---|---|
 | Axis | Ref lib (informational) |
-| Persona | Narrator (impersonal, structural) |
 | Diataxis type | Reference / Explanation / hybrid |
 
 **Scored rows:**
@@ -63,7 +64,7 @@ The main review tool. Single narrator persona. Consistency across pages is the s
 | SPLectrum | Voice consistency | Full | Narrator register, impersonal, no first-person |
 | SPLectrum | No prescriptive/authority-claiming language | Full | Setting examples, not imposing. "Is like", not "is". No magisterial claims |
 | SPLectrum | Content left to speak | Full | No trailing SPLectrum commentary on content that already does its own work |
-| SPLectrum | Touchstone discipline | Full | Every paragraph earns its place; lighter wins if the point lands; three thinkers beat five |
+| SPLectrum | Touchstone discipline | Full | Every paragraph earns its place. No filler, no items padded in to bulk the list |
 | SPLectrum | Signposting (open territory) | Full | Embryonic areas named; forward pointers land on blog labels, series, specific follow-ups |
 | SPLectrum | Explicit vocabulary | Full | Technical terms defined in `/vocabulary/`; no jargon drifting in without documentation |
 | SPLectrum | Substance | Full | Real observation, connection, argument; not framing without content; no bipolar framing |
