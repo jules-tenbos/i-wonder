@@ -4,16 +4,10 @@ Tasks triggered by post publication. Updated as posts go live.
 
 ## Standing tasks
 
-- [ ] Blogger anchor pages (About, Collaborative AI, SPLectrum from Seed) should link to the reference library top level: https://splectrum.world/ — helps search engines crawl the full extent
-- [ ] Review links in all scheduled posts (May 20 – June 24) — few links were added recently, check for missing cross-references to ref lib and other posts
+- [ ] Tweet on each blog post publication — draft and post per entry below
+- [ ] Review links in all scheduled posts (May 20 – June 24) — check for missing cross-references to ref lib and other posts
 
 ---
-
-## April 11 — Let's Talk Software Languages goes live
-- [ ] Tweet: Three languages, one computation. Binary, assembly, Python — all yielding 7. What software languages reveal about how languages relate, encapsulate, and evolve. splectrum.world/blog/2026/04/lets-talk-software-languages/ #Programming #Language #Turing #SPLectrum
-
-## April 16 — A Simple Language Game, Really? goes live
-- [ ] Tweet: One word — "Slab" — and a wall gets built. Wittgenstein's language games through SPLectrum glasses: equivalent expressions, personal experience, and turtles all the way down. splectrum.world/blog/2026/04/simple-language-game-really/ #Wittgenstein #LanguageGames #PhilosophyOfLanguage
 
 ## April 26 — From Clockwork to Open Questions goes live
 - [ ] Tweet: From Newton's clockwork to quantum mechanics — spectacular success, no agreed picture of reality. How physics arrived at the same open question as philosophy: what is the role of the observer? splectrum.world/blog/2026/04/from-clockwork-to-open-questions/ #QuantumMechanics #PhilosophyOfScience #Physics #Relativity

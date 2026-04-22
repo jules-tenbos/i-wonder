@@ -1,7 +1,8 @@
-# Human Behavioural Biology - Robert Sapolsky
+[Home](/) > [Positioning](/positioning/) > [Wider landscape](/positioning/wider-landscape/) > [Sapolsky](/positioning/wider-landscape/sapolsky/) > Human Behavioural Biology
 
-I found this lecture series not that long ago, although it is already 10 years available on the web!
-It is that brilliant that I have reproduced the full sequential list here. I couldn't find an easy overview page elsewhere.
+# Human Behavioural Biology — Stanford lecture series
+
+Sapolsky's Stanford lecture series on human behavioural biology. The full series, in order, below.
 
 [***1. Introduction to Human Behavioral Biology***](https://www.youtube.com/watch?v=NNnIGh9g6fA)
 
