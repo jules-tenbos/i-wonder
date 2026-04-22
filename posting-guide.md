@@ -35,7 +35,7 @@ Filename: `YYYY-MM-DD-slug.md` in `docs/_posts/`.
 
 ## Publishing Workflow
 
-Pipeline, categories, scheduling strategy, and operational checklists are in the [Public Conscious Persona spec](https://splectrum.world/engineering/personas/public-conscious-persona/current) (source: `docs/engineering/personas/public-conscious-persona/current.md`).
+Pipeline, categories, scheduling strategy, and operational checklists are in the [Public Conscious Persona spec](https://splectrum.world/engineering/splectrum/haicc/personas/public-conscious-persona/current) (source: `docs/engineering/splectrum/haicc/personas/public-conscious-persona/current.md`).
 
 ## Production — Way of Working
 
@@ -155,7 +155,7 @@ When reviewing existing or new posts, check:
 
 1. **Front matter** — layout: post, title, date, labels (max 3, from series/category/persona)
 2. **Image** — no inline float styles (CSS handles sizing). Just `<img src="..." alt="..." />`
-3. **Internal links** — use absolute paths (`/seed`, `/engineering/mycelium/`). No old Blogger URLs, no `jules-tenbos.github.io`, no `.html` extensions
+3. **Internal links** — use absolute paths (`/seed`, `/engineering/splectrum/mycelium/`). No old Blogger URLs, no `jules-tenbos.github.io`, no `.html` extensions
 4. **External links** — max 5 total. People → SEP/Wikipedia. Works → accessible version. Topics → Wikipedia/SEP. Open in new tab handled by JavaScript
 5. **Series footer** — `<small>This post is part of the [series name](/blog/label/series). More in the <a href="/area/page">page name</a> of the reference library.</small>` Link to the specific ref lib page, not just the area
 6. **Photo credit** — `<small>Photo: <a href="...">Name</a> / Unsplash</small>` separated by `---`
@@ -237,7 +237,7 @@ Content...
 
 ### Linking from blog posts
 
-- Series label link: `/blog/label/<series>` (Blogger label filter)
+- Series label link: `/blog/label/<series>` (Jekyll label page)
 - Reference library link: `https://splectrum.world/<area>/`
 - Post footer pattern: `<small>This post is part of the [series](/blog/label/series). More in the <a href="url">area of the reference library</a>.</small>`
 
@@ -263,7 +263,3 @@ Three categories, all for the curious reader, woven into text, never academic:
 3. **Topics/theories** — important concepts link to accessible explanation (Wikipedia, SEP)
 
 No footnotes, no bibliography, no academic citation apparatus.
-
-## Dependencies
-
-`requirements.txt`: google-api-python-client, google-auth-oauthlib, markdown
