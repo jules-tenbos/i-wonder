@@ -42,6 +42,7 @@ Topics that surfaced during the rework but need genuine research and conversatio
 - **P0–P5 potentiality/actuality theme** — active in `submissions/seed-discovery-research.md`. Cross-principle territory spanning P0 (full power) and P5 (expression); philosophical anchors Aristotle / Bergson / Deleuze.
 - **Category theory on SPLectrum's language games** — active in `submissions/language-games-category-theory.md`. Research programme: once language registers are documented explicitly (tone-of-voice, process, vocabularies), apply category theory to them as operational tool, not structural parallel. Produces relational insight across the project's own languages.
 - **SPLectrum test framework as infrastructure module** — active in `submissions/spl-test-framework.md`. Full-chain no-mock testing principles; future modularisation into `technology/bare-for-pear/test-framework/` is on spl5's worklist.
+- **Multilanguage site (Spanish, French, …)** — active in `submissions/multilanguage-site.md`. Architectural sketch: subfolder per language, unified sitemap with hreflang as translation registry, script-owned orchestration, advisory stubs for untranslated pages, per-language vocabulary as first-class artefact. Evolves toward AI-automated translation with the vocabulary glossary as constraint.
 - **`/seed/philosophical` updates** — as each new positioning page lands, add a "See …" pointer from the relevant P-section, matching the pattern `/seed/philosophical` already uses for P0 → being-as-tension.
 
 ## Final pass — topnav deep-linking
