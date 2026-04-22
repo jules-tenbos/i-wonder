@@ -2,9 +2,15 @@
 
 # SPLectrum vocabulary
 
-The concepts SPLectrum uses, organised per language game. Each page below captures the terms of one game as currently practiced.
+SPLectrum's own terms. The SPLectrum language extends the seed — its axiomatic base — and branches into a specialized engineering language.
 
-## Games
+## Core terms
 
-- [Seed](seed) — the foundational principles and their native terms.
-- [Engineering](engineering/) — SPLectrum's build, including [HAICC](engineering/haicc).
+<span id="positioning">**Positioning**</span> — Outside work that puts SPLectrum in context — resonance and dissonance.
+
+<span id="vocabulary">**Vocabulary**</span> — A bounded set of concepts within a language.
+
+## Other Languages
+
+- [Seed](seed) — core.
+- [Engineering](engineering/) — other area.
