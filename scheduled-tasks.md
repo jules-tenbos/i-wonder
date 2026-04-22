@@ -6,6 +6,7 @@ Tasks triggered by post publication. Updated as posts go live.
 
 - [ ] Tweet on each blog post publication — draft and post per entry below
 - [ ] Review links in all scheduled posts (May 20 – June 24) — check for missing cross-references to ref lib and other posts
+- [ ] Tone-of-voice review of a content page with a shadow page — update the shadow with any vocabulary or relational observations surfaced by the review
 
 ---
 

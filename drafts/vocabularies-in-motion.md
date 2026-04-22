@@ -100,14 +100,10 @@ No new entries in `/vocabulary/splectrum/` from this post directly. The new stru
 
 ## Tasks on scheduling
 
-- [ ] Add `/vocabulary/structure.md`, `/vocabulary/site/index.md`, `/vocabulary/site/home/index.md` to `docs/sitemap-site.xml` with publish-date lastmod.
 - [ ] Final link check — post footer currently points to `This Web Site`; verify on build.
 - [ ] Draft tweet — vocabulary motion + collaborative-review framing + the structural decomposition insight.
-- [ ] Update `/vocabulary/index.md` breadcrumb destinations are served correctly (new `structure.md` is a sibling page; may want to add a navigation line in the index).
-- [ ] Add a standing task to `scheduled-tasks.md`: during each tone-of-voice review of a content page that has a shadow, update the shadow page with any vocabulary or relational observations surfaced by the review.
-- [ ] Review `/vocabulary/structure.md` — written before the concept/language/vocabulary decomposition was fully worked out; check consistency with the refined framing (objects / morphisms / Ob(C), scale-free beings, borrowing without appropriation, shadow-site mechanics, vocabulary-as-concept-set).
 
 **Open for later (not blocking):**
 
-- Next shadow page — candidate pick from the four flagged pages (mycelium index is richest). Wait for one more session of discussion; the home shadow's shape may stabilise or evolve with a second example.
-- Procedure doc in `process/` — writes itself after two or three shadow pages, naming the two-pass extraction, the vocabulary-as-objects discipline, the borrowing rule.
+- Next shadow page — candidate pick from the four flagged pages (mycelium index is richest). The home shadow's shape may stabilise or evolve with a second example.
+- Procedure doc in `process/` — writes itself after two or three shadow pages, naming the two-pass extraction and the vocabulary-as-objects discipline.
