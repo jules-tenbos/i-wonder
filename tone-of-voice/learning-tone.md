@@ -27,10 +27,4 @@ When writing about traditions SPLectrum draws on — philosophy, science, the th
 
 ## Stand back when the content speaks
 
-Positioning is about laying the material out, not commenting on it. The stronger the placement, the less commentary is needed.
-
-- **Close affinity pages stand back completely.** The placement in the close-affinity category already says SPLectrum holds the affinity; the content — the thinkers, the arc, the shape — speaks for itself. No closing paragraph about how SPLectrum relates; that would weaken the presentation. Let the material sit.
-- **On the fence pages can speak more.** These pieces straddle in and out of alignment with the project. The friction is the point, and the friction often has to be named to be visible. SPLectrum's reading of where the overlap and divergence sit is part of what the page offers.
-- **Wider landscape is undecided** — how much commentary belongs there depends on what ends up in the section and how it relates to SPLectrum's work. Follow the material.
-
-The unifying rule: don't comment where the placement already carries the meaning. Commentary earns its place only when it adds something the content doesn't already show.
+See `stand-back.md` — a dedicated principle now. Positioning is one application of it; the discipline applies on any ref-lib page where the content already carries its own meaning.
