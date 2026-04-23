@@ -18,3 +18,4 @@ The vocabulary of [the site home](/).
 | Engineering | SPLectrum | (site section) See: [engineering](/vocabulary/splectrum/#engineering) |
 | Vocabulary | SPLectrum | (site section) See: [vocabulary](/vocabulary/splectrum/#vocabulary) |
 | language game | Wittgenstein | See: [language game](/vocabulary/wittgenstein/#language-game) |
+{: .vocabulary-shadow}
