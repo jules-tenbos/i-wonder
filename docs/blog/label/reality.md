@@ -1,5 +1,7 @@
 ---
 layout: default
+title: "Posts labelled reality"
+description: "Blog posts labelled reality on The World of SPLectrum."
 ---
 
 [Home](/) > [In Wonder](/blog/) > [Labels](/blog/label/) > reality

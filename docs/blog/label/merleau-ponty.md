@@ -1,5 +1,7 @@
 ---
 layout: default
+title: "Posts labelled Merleau-Ponty"
+description: "Blog posts labelled Merleau-Ponty on The World of SPLectrum."
 ---
 
 [Home](/) > [In Wonder](/blog/) > [Labels](/blog/label/) > Merleau-Ponty

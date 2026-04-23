@@ -1,5 +1,7 @@
 ---
 layout: default
+title: "Posts labelled engineering"
+description: "Blog posts labelled engineering on The World of SPLectrum."
 ---
 
 [Home](/) > [In Wonder](/blog/) > [Labels](/blog/label/) > engineering

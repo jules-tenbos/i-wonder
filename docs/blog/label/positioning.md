@@ -1,5 +1,7 @@
 ---
 layout: default
+title: "Posts labelled positioning"
+description: "Blog posts labelled positioning on The World of SPLectrum."
 ---
 
 [Home](/) > [In Wonder](/blog/) > [Labels](/blog/label/) > positioning

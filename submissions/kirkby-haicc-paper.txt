@@ -1,0 +1,888 @@
+Journal of Brand Management (2025) 32:385–399
+https://doi.org/10.1057/s41262-025-00387-y
+
+    ORIGINAL ARTICLE
+
+
+
+Welcome, new brand colleague! A conceptual framework for efficient
+and effective human–AI co‑creation for creative brand voice
+Alexandra Kirkby1,2        · Carsten Baumgarth2 · Jörg Henseler1,3
+
+Revised: 3 March 2025 / Accepted: 20 March 2025 / Published online: 14 May 2025
+© The Author(s) 2025
+
+
+Abstract
+The rapid advancement of artificial intelligence (AI) capabilities has extended into creative realms, presenting opportuni-
+ties for creative collaboration between human brand professionals and AI in support of brand voice efforts. However, there
+remains little clarity regarding the implementation of this creative interaction. With a conceptual approach, the current
+research proposes a three-level framework of human–AI co-creation for creative brand voice that highlights key factors that
+can facilitate brand efficiency and effectiveness at the individual (AI task roles, co-creation teaming, knowledge and skills),
+organisational (infrastructure and brand voice database, socialisation), and societal (responsibility and accountability, AI
+transparency, brand voice copyright) levels. Each level presents different challenges and insights. At the individual level, it
+is critical to consider operational processes; at the organisational level, managing the interactions is key; and at the societal
+level, external influences must be accounted for, to manage the brand. This research contribution in turn offers theoretical
+guidance, aligned with a high-level brand management perspective, on how to pursue efficiency and effectiveness at three
+defined levels, as well as relevant avenues for further research.
+
+Keywords Brand management · Artificial intelligence · Brand voice · Co-creation · Creativity
+
+
+Introduction                                                               (Hu 2023)—suggesting expanded opportunities for brands to
+                                                                           work creatively with AI to develop unique content and brand
+Artificial intelligence (AI) capabilities have evolved enough              voice (Dwivedi et al. 2023). Brand voice, as perceived by
+to support creative, collaborative efforts with human crea-                intended recipients according to its tonality, attitude, choice
+tive agents (Rezwana and Maher 2023; Veale and Pérez                       of language, typography, and content (Kohli and Yen 2020),
+2020). This human–AI co-creation (HAICC) represents the                    can represent a brand’s spoken identity and personality (Ver-
+effort of both entities towards a common goal, such that                   nuccio et al. 2023), as well as embody the brand in written
+the generated outcomes cannot be attributed solely to the                  formats, images, sound, and video (Kirkby et al. 2022).
+human or the algorithm and instead exceed the capabilities                    Initial studies show that co-creation with AI can improve
+of either partner (Jarrahi 2018; Liapis et al. 2016). Consider-            human performance, produce better brand outputs, and assist
+ing how extensively AI-based text systems have increased                   in achieving efficiency and effectiveness goals (Chaisatitkul
+in popularity—ChatGPT-3 set a record for the quickest                      et al. 2024; Dell’Acqua et al. 2023; Hartmann et al. 2024).
+growing consumer application ever, recording 100 million                   Such promise suggests the need to understand and specify
+monthly active users within just three months of its release               the requirements for enabling human and AI co-creation.
+                                                                           Some existing HAICC models emphasise the dynamics of
+                                                                           the interaction, as when Huang and Rust (2022) outline the
+* Alexandra Kirkby                                                         uses of AI by both marketers and consumers. In turn, they
+  a.l.kirkby@utwente.nl                                                    argue that effective collaboration requires the acknowledg-
+1                                                                          ment and integration of distinct intelligences, such as the
+     Department of Design, Production and Management,
+     University of Twente, Enschede, The Netherlands                       mechanical and analytical intelligence of AI, as well as
+2                                                                          the contextual, intuitive, and feeling intelligence held by
+     FB 1 Wirtschaftswissenschaften, Hochschule für Wirtschaft
+     und Recht Berlin, Berlin, Germany                                     humans. Alternatively, some management-oriented frame-
+3                                                                          works examine HAICC from socialisation (Makarius et al.
+     Universidade Nova de Lisboa, Lisbon, Portugal
+
+
+                                                                                                                          Vol.:(0123456789)
+386                                                                                                                   A. Kirkby et al.
+
+
+2020) and knowledge sharing (Chowdhury et al. 2022) per-            organisational, and (3) societal. Distinguishing these levels
+spectives, to address how HAICC might be integrated within          is critical, because different factors emerge as relevant at
+the organisation. Such efforts depend on factors such as AI         each of them. Accordingly, researchers can and should apply
+trust, skills, job clarity, and integration; knowledge sharing      the proposed framework in their continued investigations
+also appears key for facilitating socialisation and business        of HAICC.
+performance (Chowdhury et al. 2022). However, in recog-
+nising the need for continued examinations of such factors
+(Merhi 2023), a review of initial marketing studies of how
+                                                                    Background
+AI creatively generates product advertisements and story-
+boards (Chaisatitkul et al. 2024), images (Hartmann et al.
+                                                                    Creative brand voice
+2024), or text (Reisenbichler et al. 2023) reveals that thus
+far, no clear assessment has specified the factors underlying
+                                                                    Creativity is a complex cognitive process, involving the
+HAICC dedicated to creative brand voice efforts.
+                                                                    generation of original and valuable ideas, solutions, or
+    Creative collaboration warrants its own, specific focus,
+                                                                    expressions. It requires effectiveness and originality to cre-
+as the exchange between human and AI is uniquely chal-
+                                                                    ate something novel for a specific group of users at a given
+lenging due to interaction spontaneity in this context (Davis
+                                                                    time (Stein 1953). In marketing, creativity also reflects the
+et al. 2016). General human–computer interactions can be
+                                                                    generation of new and useful ideas and concepts, particularly
+relatively less complex; HAICC is innately complex and
+                                                                    when developing and designing products, services, or brand
+challenging, because creativity is open-ended and requires
+                                                                    communications (Lies 2021). For example, creative brand
+collaborative problem solving (Rezwana and Maher 2023).
+                                                                    voice implies the generation of text, images, videos, sound,
+In design process management and human–computer inter-
+                                                                    music, and designs. Moreover, creativity evolves alongside
+action literature that deals with creativity, Wu et al. (2021)
+                                                                    transformative technological changes (Corazza 2016), such
+propose a loop, in which AI gets integrated at a “perceive”
+                                                                    as the dramatic changes wrought by AI, which can display
+stage to deal with big data and then proceeds to “facilitate”
+                                                                    creativity, along or as an augmentation of human creativity
+thinking, achieve “express” outcomes through rapid explo-
+                                                                    (Feuerriegel et al. 2024). This study accordingly focuses on
+ration, “complement” humans by leveraging its respective
+                                                                    creative rather than functional uses of AI, together with the
+strengths, and perform a “test” through simulation and anal-
+                                                                    processes involved in creating, publishing, and protecting
+ysis. A proposed framework for interaction design instead
+                                                                    creative assets.
+characterises HAICC according to the interaction dynamics
+that drive effective co-creation for creative output (Rezwana
+and Maher 2021, 2023), including “collaboration style,” or          Efficiency and effectiveness
+who does what, when, and for which task; “communication
+style,” which reflects human–AI dialogue and the communi-           Efficiency and effectiveness are fundamental organisational
+cation channels available; and the interaction with the shared      goals that also provide frequently used measures of organi-
+creative output, such that the framework highlights the roles       sational performance (Mouzas 2006). In a brand manage-
+of the “creative process” and “creative product.”                   ment context, Rahman et al. (2018) define efficiency as the
+    With their focus on the organisational level, such man-         capacity to limit inputs, such as budgets allocated to brand
+agement-oriented frameworks for facilitating HAICC                  awareness efforts or R&D investments to drive innovation,
+largely ignore factors at wider, societal levels. In contrast,      while still maximising brand equity, as a key brand manage-
+design–oriented frameworks usually deal with processes              ment output (Rahman et al. 2018). Thus, the primary focus
+between an individual user and AI. In this sense, the lit-          is the use of resources relative to the output those resources
+erature spanning these domains has not established a com-           produce for the brand (Bonoma and Clark 1988).
+prehensive perspective on the use of HAICC for creative                 When AI assists in generating brand voice, effectiveness
+brand voice, as it arises from brand management at indi-            standards imply it must enhance the brand identity without
+vidual, organisational, and societal levels. To address this        evolving into an own brand (Knapp 2017) and offer original
+gap, the current research adopts a conceptual approach and          content, while still remaining consistent with the established
+accounts for multiple research domains and existing theo-           brand to protect its existing positioning, differentiation,
+retical models, seeking to expand these insights and thereby        recognition, and recall (Munoz and Kumar 2004). Effec-
+advance theory development (Vargo 2023; Vargo and                   tive brand management also should contribute to overall
+Koskela-Huotari 2020). In turn, it proposes the Human–AI            organisational goals, so relevant metrics might address how
+Co-Creation for Creative Brand Voice Framework to organ-            the brand performs in relation to customers’ behaviours and
+ise and manage HAICC, highlighting factors that facilitate          attitudes towards the brand, as well as the resulting financial
+efficiency and effectiveness at three levels: (1) individual, (2)   returns (Mirzaei et al. 2011; Munoz and Kumar 2004).
+Welcome, new brand colleague! A conceptual framework for efficient and effective human–AI…                                         387
+
+   To determine the efficiency and effectiveness of HAICC,               a socio-technical systems approach (Feldman 2023) to
+various perspectives can be informative. First, individual               understanding the factors that support efficient and effective
+human employees (herein “brand professional”, referring to,              HAICC as a process at the individual level, the management
+for example, marketing, brand, social media managers), and               of the interaction at the organisational level, and brand man-
+AI technology need to achieve efficiency and effectiveness in            agement and protection at the external environment. In line
+their interactions, which take place during operational pro-             with recommendations to present theoretical frameworks
+cesses. Second, for brand management and an overarching                  in simplified and generalisable ways (Vargo 2023), Fig. 1
+organisational perspective, efficiency and effectiveness per-            depicts the proposed Human–AI Co-Creation for Creative
+tain to efforts to structure, organise, and facilitate HAICC.            Brand Voice Framework.
+Third, the external environment in which the brand operates                 The framework encompasses three levels, resembling the
+features social and legal norms, which require consideration             structure of extant socio-ecological models. At the centre
+in terms of how well they are met.                                       are factors pertaining to the AI and individual brand pro-
+                                                                         fessional level; their purpose is to optimise operational
+                                                                         processes between these actors. Factors related to the tech-
+Human–AI Co‑Creation for Creative Brand                                  nology include AI task roles; factors related to the human
+Voice Framework                                                          professional refer to knowledge and skills; and their inter-
+                                                                         section creates co-creation teaming factors. The middle,
+To identify factors that contribute to HAICC and develop                 organisational, and brand management level encompasses
+a meaningful structure, the current research starts with a               organisational capabilities to manage the interaction, in
+re-examination of existing models. This review helped                    terms of both technological capabilities, including infra-
+inform the three levels for organising the factors relevant              structure and brand voice database, and human capabilities,
+to HAICC. In particular, previous research identifies how                including socialisation. At the overarching level, the frame-
+various contexts influence technology acceptance within an               work integrates the societal level, which requires compliance
+organisation, as well as the individual behaviour of members             with social norms and legalities in the broader environment,
+of those organisations. For example, the technology–organ-               including responsibility, accountability, AI transparency, and
+isation–environment (TOE) framework (Tornatzky and                       brand voice copyrights. This paper now discusses the three
+Fleischer 1990) cites three important contexts: technologi-              levels relevant for brand management and the factors in each.
+cal, pertaining to the existing and new technologies in the
+market that are available to various degrees and that offer              Individual level
+distinct advantageous characteristics and attributes, such
+that the organisation must possess sufficient infrastructure             At individual level, focus lies on factors contributing to
+to support them; organisation, which consists of internal                efficiency and effectiveness in operational processes, for
+structures and hierarchies, communication processes, size,               instance, planning and producing text, image, video, or
+(slack) resources, the culture, and management support; and              sound, between individual brand professional and AI. The
+environmental, referring to the nature of the industry, mar-             first factor is technological, related to the allocation of AI
+ket and customer preferences, and government and policy                  task roles; the second factor is human, pertaining to required
+regulations.                                                             knowledge and skills. Intersecting AI and human is the fac-
+   Extensions of the TOE framework add some individual                   tor co-creation teaming.
+factors, such as subjective norms that reflect how others
+use or accept a technology and thus influence the focal user             AI task roles
+(Awa et al. 2017). Such individual factors represent the core
+of socio-ecological models that seek to explain the interplays           Some set of functional group roles gets designated or
+among individual, societal, organisational, and environmen-              assigned to an individual member of a team, whether by
+tal factors and their effects on behavioural change. Adapta-             a leader or through natural developments due to team
+tions of Bronfenbrenner (1977) model also identify factors               dynamics (Belbin 2012; Siemon 2022; Van de Water et al.
+at an individual level, including knowledge, skills, and atti-           2008). These task roles facilitate task completion and
+tudes, then add interpersonal factors at a second level, such            individual performance, which then contribute to group
+as social networks. A third, organisational level includes the           goals. Although Nass et al. (1996) examine computers as
+environment and ethos, and finally, the public policy level              teammates and investigate how humans treat systems in
+entails cultural values and norms, as well as state laws and             collaborative work, they ignore those computers’ roles
+regulations (Lee et al. 2017).                                           within teams. Role clarity should enhance collaborations,
+   The novel framework proposed herein shifts focus: Rather              by fostering coordinated, cooperative working environments
+than addressing influences on human behaviour, it reflects               (Saks and Ashforth 1997). However, because this literature
+388                                                                                                               A. Kirkby et al.
+
+
+
+
+                                         Societal Level (Brand Environment)
+
+
+                            Responsibility &                                      Brand Voice
+                                                       AI Transparency
+                             Accountability                                        Copyright
+
+
+
+
+                                    Organisational Level (Brand Management)
+
+                                  Infrastructure
+                                  & Brand Voice                             Socialisation
+                                     Database
+
+
+
+                                        Individual Level (Brand Professional)
+
+
+                             AI Task Roles                Co-Creation            Knowledge &
+                                                           Teaming                  Skills
+
+
+                                     Technology                                Human
+
+
+
+
+Fig. 1  Human–AI Co-Creation for Creative Brand Voice Framework
+
+
+tradition largely focuses on human teams, the roles for AI        and then re-framing ideas (Feldman and Fraser 2017). In
+in collaborative teams must be defined (Siemon 2022).             a coordinator role, AI also can contribute to efficiency
+Establishing clear roles, tasks, and expectations of AI can       by planning and allocating resources; guiding the creative
+reduce ambiguity, negative expectations, and uncertainty,         process to keep it on track; and persuading, motivating,
+which should enhance both performance and commitment              and assigning tasks to human brand professionals. Human
+(Brougham and Haar 2018; Chowdhury et al. 2022).                  acceptance of AI task delegation is partially evident,
+Considering the many AI task roles identified in prior            since task delegation improves self-efficiency, in turn
+research, when applied to a HAICC for creative brand voice        enhancing task satisfaction and performance (Hemmer
+process, they might be illustrated with the four-stage creative   et al. 2023). As a definer, the AI can set specific goals
+process model (Wallas 1926), which comprises preparation,         for the human, before they begin the creative challenge,
+incubation, illumination, and verification. Then, in pursuit      which should contribute to efficiency by saving time.
+of efficiency and effectiveness, AI task roles should be          Turning to effectiveness, key AI task roles include creator
+integrated in specific stages in the HAICC process.               (Rezwana and Maher 2021; Siemon 2022) and expert
+   In the initial preparation stage, the coordinator (Siemon      consultant (Bader et al. 1988; Bittner et al. 2019). The AI
+2022) and definer (Rezwana and Maher 2021; 2022) task             creator gathers information and suggests ideas to spark
+roles are required for efficiency, because AI facilitates         further ideation. In an ideation process, AI inconsistencies
+human cognition in such early stages by identifying the           and hallucinations can represent strengths, because AI
+right questions, providing viable alternatives and framing,       can efficiently generate multiple, diverse ideas, more
+Welcome, new brand colleague! A conceptual framework for efficient and effective human–AI…                                          389
+
+so than humans (Girotra et al. 2023; Terwiesch 2023).                       P1c To achieve effectiveness in the HAICC for creative
+For example, if used to create marketing storyboards,                       brand voice process, AI should take roles as creator,
+AI significantly reduces the time required while also                       evaluator, second opinion, and expert consultant.
+producing unique, consistent visuals (Chaisatitkul et al.
+2024). Finally, as an expert consultant, AI can provide                  Knowledge and skills
+guidelines and information about specific research tasks
+that arise.                                                              The second factor at the individual level relates to the human
+   Then in the incubation stage, idea germination often                  employee; individual brand professionals must work effi-
+seems to occur unconsciously, but deep thoughts and                      ciently and effectively with AI systems. Zirar et al. (2023)
+developments of initial ideas and connections can be                     suggest a categorisation of “technical”, “human”, and “con-
+supported by dialogue and exchanges with others (Hall                    ceptual” skills. Technical skills imply competencies and
+et al. 2008). In terms of effectiveness, using AI as a sec-              capabilities involving IT literacy and proficiency in using
+ond opinion (Bader et al. 1988) allows for simultaneous                  AI tools and platforms; human skills involve managing and
+task execution, as well as comparisons of initial ideas or               coordinating people to share knowledge, collaborate, dele-
+concepts, which might further inspire human thought. In                  gate, and negotiate. Finally, conceptual skills imply that peo-
+addition, AI can support cognitive processes and evoke                   ple find solutions by working with various topics, ideas, and
+reflections among humans (Feldman and Fraser 2017)                       concepts. Such skills reflect the need for human innovation
+in its role as creator, thereby assisting in ideation and                and creativity, such that brand professionals must uncover
+the exploration of further options that build on the ini-                trends and find relationships that AI has not or cannot iden-
+tial ideas or concepts introduced by the human brand                     tify. In turn, humans need greater competencies related to
+professional.                                                            understanding, validating, and visualising AI-generated
+   During illumination, implying a moment of insight into                results (Jarrahi et al. 2023). Conceptual understanding also
+well-developed ideas or concepts, AI can contribute to                   encompasses domain knowledge, and when creativity is
+effectiveness by achieving superior results and outcomes,                augmented by AI, it allows for greater cognitive capacity
+such as through evaluations of concepts as an evalua-                    for more challenging tasks; irrespective of enthusiasm or
+tor (Bader et al. 1988; Bittner et al. 2019; Rezwana and                 motivation, gaps in such necessary knowledge limit human
+Maher 2021) that checks for inconsistencies, finds areas                 creativity (Jia et al. 2024).
+for improvement, and suggests refinements. If ideas or                      To achieve efficiency in HAICC for creative brand voice,
+concepts need further work, AI in a creator role might                   some minimum level of technical skill is needed, because
+offer alternatives. Notably, research has shown that AI                  people ultimately use the AI tools and platforms. Under-
+can produce equally good or better brand visual than                     standing how they work and how to navigate the interfaces
+humans can, so their collaboration should lead to notable                saves time in work processes. However, a brand professional
+effectiveness gains (Hartmann et al. 2024).                              does not need high-level technical skills; AI tools tend to
+   Finally, during verification, AI can assume three roles               be user-friendly and increase the performance of even low
+that increase effectiveness. As an expert consultant, AI                 performing, low-skilled, or inexperienced employees (Bryn-
+meticulously analyses ideas or concepts, then expands                    jolfsson et al. 2023; Dell’Acqua et al. 2023). Because AI’s
+on them to provide greater detail and substance. As an                   brand images often are judged as high in creativity and pref-
+automator (Bader et al. 1988; Siemon 2022), it can exe-                  erable, compared with those designed by human freelancers
+cute human tasks quickly and in detail to find optimal                   (Hartmann et al. 2024), such tasks seemingly can be brought
+solutions, and as a doer (Siemon 2022), it brings ideas or               in-house, enabling individual brand professionals to achieve
+concepts to life and communicates or implements them                     huge cost reductions.
+in the world, minimising wasted time and human effort.                      Brand professionals’ conceptual skills may be even more
+Because all these AI roles for creative brand voice can                  important for HAICC for creative brand voice. That is,
+facilitate efficiency and effectiveness, assuming they are               technical skills pertain to the user interface level, and human
+evoked in the relevant phases, this discussion suggests the              skills, while valuable, are required in every team, whether
+following propositions:                                                  with human or AI. However, human brand professionals
+                                                                         need domain-related expertise related to the brand strategy,
+   P1a To achieve efficient and effective HAICC, clear AI                design, and established voice before they can co-create
+   task roles must be formulated according to the stages                 with AI and still ensure brand consistency and brand fit.
+   of the creative brand voice process.                                  The ability to guide and control AI in accordance with such
+   P 1b To achieve efficiency in the HAICC for creative                  knowledge is critical to not only the creative process but also
+   brand voice process, AI should take roles as coordina-                overall project success (Turchi et al. 2023). For example,
+   tor, automator, doer, and definer.
+390                                                                                                                  A. Kirkby et al.
+
+to prompt AI appropriately, the human brand professional           teaming is efficient if the brand professional is capable of
+must communicate key needs. That is, to achieve results that       supervising multiple systems and can interject to address
+align with established brand voice, as well as to evaluate         failures (Methnani et al. 2021). When the AI leads, humans
+AI creative outputs meaningfully, humans must possess              are responsible for performing audits, gathering input from
+knowledge on the topic and the brand (Baumgarth et al.             AI and human members to compare and identify gaps, assess
+2023). Therefore:                                                  performance, and adjust as necessary (Grønsund and Aan-
+                                                                   estad 2020). Despite evidence that AI surpasses humans
+   P2a For brand professionals to achieve efficiency in            when generating brand images, with regard to their quality,
+   HAICC for creative brand voice, they must possess basic         realism, and aesthetics (Hartmann et al. 2024), as well as
+   AI and human skills.                                            when creating brand text (Reisenbichler et al. 2023), brand
+   P2b For brand professionals to achieve effectiveness            professionals still must check that the brand voice remains
+   in HAICC for creative brand voice, they must possess            consistent and outputs display brand fit. If brand profession-
+   advanced conceptual skills and deep domain knowledge.           als rely too much on AI systems, creativity suffers; if they
+                                                                   fail to correct AI errors, it may lead to brand harm (Iskender
+Co‑creation teaming                                                2023; Van Dis et al. 2023). However, if the brand profes-
+                                                                   sional does not trust AI and gets involved too frequently, it
+At the intersection of AI and human agents, teaming arises.        leads to inefficiency (Methnani et al. 2021).
+Teamings are modes of collaboration integrating human and             Instead, with teaming human lead + AI assist, humans
+AI (Dubey et al. 2020), considering their attributes and how       influence decisions throughout the process, actively work-
+they co-create (Bouschery et al. 2023). To define teaming,         ing to improve the accuracy and efficiency of AI. This team-
+it can be insightful to identify who takes the lead, has the       ing is effective for situations marked by high complexity or
+power to intervene in the creative process, and makes final        uncertainty, or that require perfect execution (Leeper et al.
+decisions over outputs. Literature identifies five main team-      2012; Methnani et al. 2021). In terms of brand management,
+ing modes, along a spectrum: (1) teaming human, (2) team-          such situations tend to be external to the brand, such that the
+ing human lead + AI assist, (3) teaming hybrid human–AI,           brand interacts with stakeholders beyond the internal team,
+(4) teaming AI lead + human assist, and (5) teaming AI.            including customers and consumers. Humans also must be
+    Starting with teaming human, AI is minimally integrated        responsible for training AI continuously and augmenting
+and functions mainly as a problem-solver (Turchi et al.            the process, even if AI assists in decision-making (Schroder
+2023), offering support for creativity, such as through basic      et al. 2022). In collaborative settings where humans lead
+visualisation and search (Grabe et al. 2022). It does not con-     managerial tasks, participants working with AI achieved
+tribute independently to the creative process (Davis et al.        57% higher productivity than the group working without and
+2015). This minimal use of AI threatens to diminish employ-        additionally reported a 62% higher satisfaction level with
+ees’ performance, compared with that achieved by brand             their performance (Sowa et al. 2021). In design literature,
+professionals working with AI, especially for ideation and         when participants draw collaboratively with AI, they pre-
+product development involving analytical thinking, writing,        fer to take the initiative, then have AI complete their work,
+and creativity (Dell’Acqua et al. 2023). On the other end of       while retaining the right to make decisions throughout the
+the spectrum, teaming AI means that AI operates without            entire process (Oh et al. 2018). However, human involve-
+much input or supervision from humans, taking over whole           ment at every step can be inefficient and introduce bottle-
+elements of the creative process as a problem finder rather        necks, especially if the humans lack complete information
+than solver; it is creative in itself (Davis et al. 2015; Turchi   and thus influence AI ineffectively (Van der Stappen and
+et al. 2023). In creativity contexts, this mode raises con-        Funk 2021).
+cerns that humans get reduced to prompters. Even when AI              Finally, in teaming hybrid human–AI, both human and
+is well-trained and produces “good” creative results, reflect-     AI actors enter a tight interactive loop, in which they both
+ing pre-defined parameters, it might induce only homogene-         suggest, generate, assess, adjust, and choose creative out-
+ous results (McCormack and D'Inverno 2014).                        puts in response to each other (Deterding et al. 2017). Grabe
+    Intersecting the ends of the spectrum is the co-creation       et al. (2022) describe AI as co-designers in creative tasks
+space and the key discussion surrounds whether AI or               and suggest a framework for interaction. For example, dur-
+human leads the creative process (Rezwana and Maher                ing a curation stage, humans initiate the process, AI learns,
+2022). Generally, individuals deliver better results and           both create artefacts, humans select, and (once the train-
+experience greater intrinsic motivation when collaborating         ing is complete) AI later takes a greater lead in the creative
+(Carr and Walton 2014). Teaming AI lead + human assist             process. The greater effectiveness that results reflects the
+involves human brand professionals supervising and moni-           potential for more unique or creative outcome generation,
+toring task execution, intervening only if necessary. This         due to their close, involved interactions, as well as greater
+Welcome, new brand colleague! A conceptual framework for efficient and effective human–AI…                                         391
+
+efficiency due to the diminished time required when two                  match the brand voice, prior to organisational roll outs, they
+entities work on ideas and concepts.                                     can avoid wasted time and effort needed to rectify mistakes
+   For creative brand voice, excluding AI might lead to                  or alter the entire system later. Protecting data also fosters
+missed opportunities and a lack of competitiveness. Brand                brand trust.
+professionals increasingly recognise the advantages of                      “Integration complexity” is another consideration; exist-
+combining their efforts with AI to achieve efficiency and                ing systems must be able to communicate and integrate with
+effectiveness; they also express positive perceptions of AI              new AI systems, and “scalable and flexible systems” are
+for their own work and for the brand (Chaisatitkul et al.                required for data conversion. In AI introductions, both are
+2024). However, autonomous or even dominant AI might                     relevant challenges. With regard to efficiency, systems capa-
+be problematic. First, it could result in a homogeneous brand            ble of communicating and being integrated with established
+voice, no longer unique to the brand. Brand professionals                systems reduce the time and effort required to ensure the
+responsible for creative brand voice thus must ensure the                same quality of input in the new and established systems.
+established brand voice is recognisable to both employees                For effectiveness, integrating AI with data that are relevant
+and consumers, such that their control over the process and              for training systems with regard to the brand voice and pro-
+evaluation of outputs remains crucial. Second, drawing on                cesses can lead to superior, more valuable brand outcomes.
+HAICC studies pertaining to artistic processes and outputs,              A scalable and flexible system also enables better data con-
+regardless of its physical characteristics, humans value the             version, adaptable to future scenarios, which is crucial con-
+infusion of human experience into the art they see (Bellaiche            sidering the speed of technology developments and trends.
+et al. 2023) and algorithmic aversion appears heightened in                 “Data issues” can arise, with regard to the accuracy and
+settings that necessitate emotion and subjectivity (Messer               reliability of data input, which requires avoiding AI output
+2024). Therefore:                                                        that is incorrect, misleading, or harmful. When data are of
+                                                                         “insufficient quality”, decisions based on them will suffer
+   P3a For routine creative tasks and internal processes,                as well. These factors are important for maintaining opera-
+   efficiency can be achieved by teaming AI lead + human                 tional AI systems. Brand management must oversee the data
+   assist.                                                               used to train and maintain the system, because relying on
+   P3b For complex creative tasks and external outputs,                  inaccurate or incorrect data will produce outcomes that are
+   effectiveness can be achieved by teaming human lead + AI              not in line with the established brand, which can result in
+   assist, with the potential to progress to hybrid human–AI.            negative consequences such as a lack of brand recognition
+                                                                         or brand harm.
+Organisational level                                                        Beyond infrastructure considerations, actual AI tools
+                                                                         or platforms should be selected according to the quality of
+At the organisational level, factors for efficiency and effec-           the output and, arguably, how accurately they reflect brand
+tiveness relate to management capabilities that facilitate,              voice. When comparing the brand images generated by
+organise and manage HAICC for creative brand voice. This                 AI, such as DALL-E and Midjourney, research identifies
+involves establishing technological capabilities, including              some considerable differences across systems, and selec-
+infrastructure and brand voice database for AI systems,                  tion strongly influences performance (Hartmann et al.
+and facilitating human capabilities by managing and allow-               2024). Depending on brand goals and needs, the choice of
+ing employees to co-create through socialisation with AI                 AI should reflect the most appropriate option. Key consid-
+technologies.                                                            erations include whether to use free, standard AI tools or to
+                                                                         work with AI tailored to specific a brand voice (e.g. Neuro-
+Infrastructure and brand voice database                                  flash brand voice AI). Tailored AI, or creating proprietary
+                                                                         algorithms trained on established brand voice, represents an
+Infrastructure is a facilitator; AI systems require advanced             important potential development for creative HAICC. Using
+technological structures (Cao et al. 2021). Among the gen-               training data that are tailored to the brand ensures that the
+eral success factors that determine AI implementation,                   input data conform to established brand voice. Such efforts
+Merhi (2023) identifies those in the “technology” category               even could produce a brand voice database, the benefits of
+as the most significant. For example, “IT infrastructure”,               which include more effective outputs, because it reflects
+which spans hardware, software, computing power, and stor-               brand-specific data, as well as greater efficiency, by sup-
+age, must be installed and tested to ensure AI systems will be           porting faster content production, with the assurance that
+operational. In addition, “security and confidentiality” refer           the data and generated outputs fit the brand, which should
+to safe data handling and protections against breaches or                maximise the chances of brand consistency across content
+mishandling, which contribute to efficiency. If optimised to             and channels. Therefore:
+392                                                                                                                  A. Kirkby et al.
+
+  P4 To achieve efficiency and effectiveness in HAICC             diminishes unless it commits to enhancing employees’ skills
+  implementation, brand management should establish               and expertise (Ransbotham 2020). Such combined reskill-
+  robust infrastructure and also create a brand voice data-       ing, upskilling, training, and knowledge sharing should be
+  base to enable creative, brand fit, and brand safe voice in     continuous, all of which can be facilitated through human
+  all phases, from data training to output.                       resource management (HRM).
+                                                                     Arslan et al. (2021) identify some challenges surrounding
+                                                                  control, analysis, and performance evaluation, which HRM
+Socialisation                                                     also can address by clearly communicating expectations,
+                                                                  explaining possible changes in job tasks, and overcoming
+A technology perspective focuses on making AI usable for          technology anxiety with training. Assessments of AI imple-
+creative brand voice; a human perspective focuses on how          mentation also identify a lack of top management support,
+brand professionals can enable co-creation with AI by man-        ambiguous strategic vision, and non-visible benefits as major
+aging expectations and accounting for factors such as fear        boundaries to human–AI integration (Merhi 2023). There-
+of displacement, identity threats, and lack of trust in AI. The   fore, management’s commitment to setting goals and using
+“dark side” of AI must be addressed and overcome to ensure        HRM to bring visions to life throughout the brand culture
+brand professionals do not sense a loss of independence or        appears pivotal. Knowledge sharing and knowledge manage-
+competence (Mirbabaie et al. 2022). Socialisation is a tran-      ment will be particularly critical too, as ways to facilitate
+sitional process, through which newcomers shift from being        socialisation with AI (Chowdhury et al. 2022). The resulting
+external to an organisation to internal members (Bauer et al.     proposition suggests:
+2007). Management strategies that incorporate socialisation
+are effective when the change affects job roles and tasks            P5 To achieve efficient and effective HAICC for crea-
+(Klein et al. 2015).                                                 tive brand voice, management must use HRM to ensure
+    According to the AI socialisation framework (Makarius            early socialisation with AI and set clear goals to manage
+et al. 2020), AI and humans become integrated in various             expectations.
+stages, and their socialisation enhances human learning,
+which in turn leads to greater productivity, collective intel-    Societal level
+ligence, and competitive advantages. During an initial “sens-
+ing” phase, proactive familiarisation with AI integration         At the societal level, relevant factors relate to questions of
+helps brand professionals recognise and understand various        how to manage HAICC outputs while still complying with
+AI applications, such that they can navigate through uncer-       legal and social norms. Current discussions highlight the
+tainty, acquire preliminary insights, and retrieve information.   need for corporate digital responsibility (CDR), a proposed
+For example, AI onboarding plans can enhance people’s             set of values and norms for organisations that reflect public
+awareness of the potential roles AI can unlock, establish         opinion, legalities, technological developments, and industry
+transparent communication, provide resources and special-         factors, as well as customer- and firm-specific ideas (Lob-
+ised training initiatives, and delineate the ethical boundaries   schat et al. 2021). This ethical perspective is critical to AI
+of AI applications, including both ethical decision-making        contexts (Kunz and Wirtz 2023). Key factors at this level
+and human-centric issues. In the “comprehension and               include brand management that upholds responsibility and
+action” phases, the AI and brand professional interact, so        accountability, as well as AI transparency. Beyond conform-
+socialisation processes should focus on clarifying the job        ing to norms, the brand voice must be protected.
+and the factors that influence change, trust, and job designs.
+    For efficient and effective HAICC for creative brand          Responsibility and accountability
+voice, the initial “sensing phase” seems especially impor-
+tant. By familiarising brand professionals with AI, it is pos-    Responsibility pertains to the duty to perform a task
+sible to reduce the time wasted when interacting with sys-        or adhere to a rule; accountability instead refers to the
+tems, while also encouraging better results. An early focus       capacity to provide responses and explanations of author-
+on preparing humans and providing creative training and           ity, interrogations of external (legal) and internal (moral)
+work-integrated learning thus appears relevant (Zirar et al.      responsibility, and limitations that effectively constrain the
+2023); perhaps professional certification should be part          powers entrusted to individuals or entities through delega-
+of education initiatives (Theodorou and Dignum 2020).             tion (Novelli et al. 2023).
+Introducing AI in the work environment is anticipated to             A first facet of responsibility pertains to ethical and moral
+require extensive reskilling efforts to address evolving talent   responsibilities towards society overall, which requires pri-
+requirements (McKinsey 2023), and the organisation’s likeli-      oritising humans over AI (Rezwana and Maher 2022). The
+hood of achieving a substantial return on its AI investments      second relates to implementing responsible AI systems,
+Welcome, new brand colleague! A conceptual framework for efficient and effective human–AI…                                           393
+
+which includes ensuring algorithms are devoid of objec-                     In the co-creation process, each entity is responsible to
+tive errors and decisions, as well as ethical or moral lapses.           maintain a bias- and error-free brand voice, but they should
+The responsibility for avoiding objective errors calls for the           be guided by clear codes of conduct. Mistakes and errors
+responsible use of software development practises that fos-              can be avoided by limiting the extent of reliance on AI to
+ter code robustness, maintainability, and reusability, while             generate creative brand voice; brand management should
+simultaneously guaranteeing the system's technical resil-                take on this responsibility (Ray 2023). Accountability then
+ience and mechanisms for tracing AI decisions (Methnani                  exists within the AI lifecycle; for example, deployment tasks
+et al. 2021). Regarding ethical or moral lapses, AI must                 should focus on using, monitoring, and maintaining AI sys-
+align with human values, demonstrate ethical behaviour, and              tems in accordance with specific contextual rules (Novelli
+render morally justifiable decisions (Lobschat et al. 2021);             et al. 2023).
+in detail, it must avoid biases and harmful consequences                    Finally, during evaluations, a monitoring system with
+originating from the algorithms, which might manifest as                 continuous feedback loops should be established for all co-
+favouritism, hate speech, or stereotyping. Such issues also              created output. Efficiency and effectiveness can emerge from
+can arise from inappropriate training data, inadequacies in              clearly outlined rules for conduct and protocols of processes
+evaluating output, or failures to adjust continuously to les-            and decisions, which then contribute to upholding brand
+sons from prior outcomes (Ray 2023). Avoiding ethical and                safety measures that influence end users’ brand perceptions
+moral lapses and biases also can strengthen brand safety                 (IAB Europe 2024; Lee et al. 2021). Certain accountable
+measures, as a way to protect brand reputation.                          “agents” can be identified, whether on an individual basis,
+    Turning to accountability, policy makers can mandate and             as corporate entities, collectively, or according to their hier-
+promote algorithmic accountability (Novelli et al. 2023) by              archical roles and functions (Novelli et al. 2023). According
+shaping policies, offering guidance, establishing regulations,           to these three phases, the following propositions emerge:
+and developing legal frameworks for AI adoption (Zirar
+et al. 2023). Existing ethical guidelines do not fully con-                 P6a During data input, achieving efficient and effective
+sider all the implications for creative collaboration (Llano                creative brand voice requires ensuring the quality, reli-
+and McCormack 2020); however, the European Commis-                          ability, and accuracy of training data.
+sion Artificial Intelligence Act represents a milestone legal               P6b For the process of co-creation, achieving efficient and
+regulation. This comprehensive law will govern the uses of                  effective creative brand voice requires establishing guide-
+AI throughout the European Union; its primary aim is to                     lines consistent with brand values.
+ensure that AI systems employed within the EU adhere to                     P6c During evaluation, achieving efficient and effective
+essential principles of safety, transparency, traceability, non-            creative brand voices requires the enforcement of moni-
+discrimination, and environmental sustainability (European                  toring measures and evaluation criteria.
+Parliament 2023). Its passage implies major consequences
+for brands, which must develop frameworks and practises to               AI transparency
+ensure accountability. It remains critical to keep up to date
+with legislation and ensure that all systems, management,                Methnani et al. (2021) interpret transparency as “trust”,
+and employees are equally well versed in it.                             “verifiability”, “fairness” and “contestability”. “Trust”
+    Responsibility and accountability questions in HAICC                 implies an understanding of agents’ behaviour when they
+arise mainly in three phases: during data training and input,            interact with the wider environments. Presenting transpar-
+during the process of co-creation, and when evaluating out-              ency-related information helps refine mental models and
+put. When training AI systems for creative brand voice, such             calibrate trust in automated systems. “Verifiability” involves
+as to generate an appropriate brand image, text, video or                traceability and maintaining a comprehensive record of
+sound to share externally, the data must be carefully input              decision-related information. Auditing frameworks extend
+and trained, in accordance with the values and language                  beyond technical aspects; they validate decisions, poli-
+expressed by the established brand voice. At an initial stage,           cies, and activities undertaken by all agents throughout the
+bias can arise if the AI is trained on data that are already             AI’s lifecycle. “Fairness” relates to the decision-making
+embedded with pre-existing human biases, opinions, and                   by algorithms and the data used to train machine learning
+prejudices (Dwivedi et al. 2021). Determining ownership                  systems that mimic social biases. Finally, “contestability”
+of the data sets used to train the AI might offer a viable way           goes beyond explaining why a decision was made, to reflect
+to allocate responsibility (Ray 2023). A central expectation             the broader socio-legal context in which the decision was
+for accountability also should establish that those involved             formulated.
+in designing, developing, and deploying AI systems follow                   For trust, transparency is beneficial because it limits algo-
+all applicable standards and legal requirements, throughout              rithmic aversion; a lack of transparency instead contributes
+the lifecycle of the AI (Novelli et al. 2023).                           to negative perceptions of algorithmic agents (Musick et al.
+394                                                                                                                A. Kirkby et al.
+
+2021). The inherent black-box nature of AI and the aver-         content is controversial and problematic, especially when
+sion it induces tend to arise in the absence of comprehen-       the AI generates outputs that, if created by humans, would
+sive understanding of how algorithms function and arrive         be considered creative and eligible for such protections
+at decisions (Mahmud et al. 2022). Such a black-box can be       (Kalpokienė and Kalpokas 2023). Yet if AI authorship is
+opened by making the algorithms understandable, explain-         acknowledged, the allocation of ownership rights becomes a
+able, interactive, and integrative of users (Chander et al.      pressing question; in conventional copyright law, ownership
+2018; Mahmud et al. 2022). Explanations of AI decision-          hinges on the concept of authorship (Xiao 2023). Such issues
+making also can clarify the underlying rationale (Gönül et al.   become even more complex when AI-generated outputs
+2006). However, explanations should not be employed in           cannot be linked to human involvement or intervention.
+every step of an AI process but rather should be specific to     Because AI output is not acknowledged as “artwork” in
+cases that demand compliance, when critical for the end user     current copyright laws, it is not eligible for legal protection
+to understand the tool’s optimal usage, if transparency has      (Ajani 2022).
+the potential to enhance system performance, and when it            Similar challenges arise for HAICC used to produce crea-
+can inform fairness evaluations (Blackman and Ammanath           tive brand voice, which can include images, logos, videos,
+2022).                                                           or sound that might be difficult to protect and thus at risk
+    Transparency as “fairness”, “verifiability” and “contest-    of being integrated into AI training data that later might
+ability” (Methnani et al. 2021) also is increasingly important   be leveraged by another brand. Using AI to produce brand
+for creative brand voice, considering recent legal develop-      voice thus could lead to infringements on another brand’s or
+ments. For example, the EU Artificial Intelligence Act fea-      artist’s assets, even if unintentionally. If brands rely on AI
+tures proposed rules on transparency and requires brands         trained on countless available data, there is a likelihood of
+to comply with requirements for disclosing AI-generated          basing the output on protected colours, shapes, forms, and
+content, preventing illegal content generation through           sounds. Already, multiple music publishers have sued the
+model design, and providing the copyrighted data used in         AI platform Anthropic for copying large amounts of copy-
+training (European Parliament 2023). Companies such as           righted works (Duran 2023). Digital artists and platforms
+Google require mandatory transparency for political adver-       such as Getty Images also have filed copyright infringement
+tisers by enforcing disclosures of AI-generated content          lawsuits against image-generating AI companies like Devi-
+(Reuters 2023). Although studies in creative fields identify     antArt, Stability AI, Midjourney, and LAION, alleging that
+some negative perceptions of AI and preferences for human        the images that provided the training for their AI were used
+creators (Bellaiche et al. 2023), studies of AI disclosure in    without permission (Escalante-De Mattei 2023).
+branding contexts, for instance written text, suggest no nega-      To ensure efficiency and effectiveness, brand manage-
+tive authenticity perceptions or impacts on brand attitudes      ment thus must take care to avoid inadvertently using assets
+(Kirkby et al. 2023). On social media platforms such as Meta     from other brands and safeguard their own HAICC outputs
+and Instagram, when brands use AI tools to create or edit        by protecting assets and focusing on data protection. These
+an image, video, text, or sound, the content is labelled with    challenges suggest an opportunity for brands: They could
+the watermark “Imagined with AI”; when content created           create their own databases to train AI algorithms, carefully
+by third-party AI tools gets uploaded, it takes the label “AI    curate the data to use in these processes, and train AI using
+Info” (Instagram 2024). Therefore, the following proposition     their own brand voice assets, which provide ongoing, con-
+is formulated:                                                   stantly updated guidelines.
+
+  P7 To achieve efficient and effective HAICC for creative         P8a To achieve efficient and effective HAICC for creative
+  brand voice, brands must display and provide transpar-           brand voice, brands should build their own databases,
+  ency in AI usage.                                                which can protect AI-generated assets and seek to attain
+                                                                   copyrights.
+Brand voice copyright                                              P8b To achieve efficient and effective HAICC for crea-
+                                                                   tive brand voice, brands must avoid infringing on other
+Finally, humans and algorithms progressively co-create             brands’ assets.
+dynamically, evolving from hierarchical structures to
+something more ambiguous (Benedikter 2021). The
+creative brand voice created by AI can be undistinguishable      Discussion and future research
+from human brand professionals’ contributions, such that
+concepts of who or what has authorship or owns content,          This work takes a conceptual view on factors that can facili-
+as well as which content is copyrightable, become fuzzy.         tate efficient and effective HAICC for creative brand voice.
+The lack of copyright law and protection of AI-generated         Across individual, organisational, and societal levels, these
+Welcome, new brand colleague! A conceptual framework for efficient and effective human–AI…                                                395
+
+Table 1  Research agenda for HAICC in creative brand voice
+Individual                                       Organisational                                Societal
+
+AI task roles                                    Infrastructure and brand voice database      Responsibility and accountability
+Which AI task roles lead to the greatest effi-   How does personalised infrastructure compare What guidelines, codes of conduct, and moni-
+ ciency and effectiveness?                         with a standard package?                    toring measures are needed to guide brands,
+                                                                                               efficiently and effectively?
+How should AI be designed for the greatest       What is the status of organisations’ AI-     AI transparency
+ usability?                                        readiness?
+Knowledge and skills                             Socialisation                                How should brands disclose AI-generated or
+                                                                                               co-created outputs?
+Which skills are the most valuable for           How can brand management, together with      Where in the creative brand voice process must
+ HAICC?                                            HRM, facilitate socialisation for HAICC?    brands show transparency?
+What exact knowledge is required?                Are there differences across brand managers  Brand voice copyright
+                                                   who have been socialised with AI and those
+                                                   without such socialisation?
+What are the prerequisites of knowledge and                                                   How can brands protect AI-generated and co-
+ skills that a brand professional must pos-                                                    created assets?
+ sess?
+Co-creation teaming                                                                            What laws currently exist globally, and how can
+                                                                                                these be compared?
+Which teaming mode is most efficient and
+ effective?
+Are different teaming modes required for
+ different employees, based on their attitudes
+ and technology expertise?
+
+
+
+factors also reveal opportunities for further research avenues               At the organisational level, the infrastructure and brand
+(see Table 1).                                                            voice database factor highlights the importance of a robust
+   At the individual level, AI task roles are theoretical (e.g.           infrastructure (Merhi 2023), combined with a careful pro-
+Rezwana and Maher 2022; Siemon 2022), indicating the                      cess for selecting AI tools. Further studies could compare
+need for empirical investigations that refer to real-life crea-           brands as they reach various stages of introducing, using,
+tive brand voice processes. Testing AI in various roles would             and monitoring the infrastructure to develop best imple-
+enhance understanding of both technological capabilities                  mentation practices. Continued research into the socialisa-
+and human acceptance. Each brand professional will have                   tion factor also might examine it specifically in a creative
+different attitudes towards AI, varying degrees of innovative-            context, or else conduct experiments to compare brands
+ness and openness, and levels of experience with technology,              that exhibit an early focus on AI socialisation versus that
+each of which can prompt general desires to exploit AI in                 that do not. A multidisciplinary approach could clarify
+various roles, or else dismiss the technology entirely. In turn,          how HRM facilitates AI socialisation in HAICC contexts.
+research is needed to address design and usability questions.                Finally, at the societal level, responsibility and account-
+The knowledge and skills factor encompasses conceptual                    ability factors need research to establish greater clarity
+skills and deep domain knowledge (Zirar et al. 2023), rais-               for brands. Establishing guidelines, codes of conduct,
+ing questions about which skills employees display most                   and monitoring measures will be paramount for navigat-
+predominantly, as well as which skills and knowledge levels               ing societal norms and creative brand voice processes
+actually lead to greater efficiency and effectiveness. A fur-             effectively and efficiently. But what do they look like in a
+ther interesting perspective pertains to whether AI can act               real-life setting, and is it even possible to formulate best
+as a knowledge or skill facilitator. The co-creation teaming              practises? Efforts to foster more trust and comply with
+factor suggests that co-creation with a human in the lead is              legal norms, as are evident in the AI transparency factor,
+most advantageous, but this finding does not account for                  also need closer inspection. To measure transparency and
+the potential progression of AI as it becomes ever more                   disclosure effects, researchers might assess the differences
+personalised and flexible. A hybrid teaming of human–AI                   that arise between using an icon versus text to disclose AI
+work for creative brand voice should be investigated; empiri-             input; research also is needed to specify if brands should
+cal investigations of all five teaming modes might assess                 be transparent throughout the entire process or only with
+which one(s) results in greater efficiency and effectiveness              regard to generated output seen widely. The brand voice
+in practice.                                                              copyright factor also provides avenues for further research,
+396                                                                                                                                                     A. Kirkby et al.
+
+possibly related to specific legislation in a particular geo-                need to obtain permission directly from the copyright holder. To view a
+graphical location, because the rules and required conduct                   copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.
+depend on where the brand operates. In particular, brands
+need guidance regarding how they might protect their own
+AI-generated or co-created assets and also avoid infringing                  References
+on other brands’ assets.
+   Because AI and the legal standards related to it continue                 Ajani, G. 2022. Human authorship and art created by artificial intel-
+                                                                                   ligence—where do we stand? In Digital ethics, ed. T. Dreier and
+to develop rapidly, the proposed framework was designed
+                                                                                   T. Andina, 253–269. Baden-Baden: Nomos Verlagsgesellschaft.
+explicitly to avoid temporal constraints. Empirical tests of                 Arslan, A., C. Cooper, Z. Khan, İ Gölgeci, and I. Ali. 2021. Artifi-
+the framework might focus on each level or factor sepa-                            cial intelligence and human workers interaction at team level:
+rately, and thus rely on quantitative testing, or else on the                      A conceptual assessment of the challenges and potential HRM
+                                                                                   strategies. International Journal of Manpower 43 (1): 75–88.
+overall framework, which implies the need for a qualitative
+                                                                             Awa, H.O., O. Ukoha, and S.R. Igwe. 2017. Revisiting technology-
+case study or action research. Finally, studies might adopt a                      organization-environment (T-O-E) theory for enriched applica-
+broader approach and apply the framework to other creative                         bility. The Bottom Line 30 (1): 2–22.
+fields, such as HAICC for design, innovation, and R&D.                       Bader, J., J. Edwards, C. Harris-Jones, and D. Hannaford. 1988. Practi-
+                                                                                   cal engineering of knowledge-based systems. Information and
+                                                                                   Software Technology 30 (5): 266–277.
+                                                                             Bauer, T.N., T. Bodner, B. Erdogan, D.M. Truxillo, and J.S. Tucker.
+Conclusion                                                                         2007. Newcomer adjustment during organizational socializa-
+                                                                                   tion: A meta-analytic review of antecedents, outcomes, and
+                                                                                   methods. Journal of Applied Psychology 92 (3): 707–721.
+The proposed framework, designed to structure and guide                      Baumgarth, C., A. Kirkby, and L. Ernst. 2023. Craft beer brand "Sip
+the management of HAICC efficiently and effectively for                            Soho"–AI-tools in operational brand management. Retrieved
+creative brand voice, highlights factors at three levels: indi-                    from https:// ​ c baum ​ g arth. ​ n et/ ​ b lab- ​ r eport- ​ n r-5- ​ s ip- ​ s oho/.
+                                                                                   Accessed 20 Aug 2023.
+vidual (AI task roles, co-creation teaming, knowledge and                    Belbin, R. 2012. Team roles at work. Oxford: Routledge eBooks.
+skills), organisational (infrastructure and brand voice data-                Bellaiche, L., R. Shahi, M.H. Turpin, A. Ragnhildstveit, S. Sprockett,
+base, socialisation), and societal (responsibility and account-                    N. Barr, A.P. Christensen, and P. Seli. 2023. Humans versus
+ability, AI transparency, brand voice copyright). It empha-                        AI: Whether and why we prefer human-created compared to
+                                                                                   AI-created artwork. Cognitive Research: Principles and Impli-
+sises operational processes at the individual level, interaction                   cations 8 (1): 42.
+management at the organisational level, and the environ-                     Benedikter, R. 2021. Can machines create art? A ‘hot’ topic for the
+ments in which brands operate to manage generated outputs                          future commodified art markets. Challenge 64 (1): 75–86.
+at the societal level. It makes two main contributions. First,               Bittner, E.A.C., S. Oeste-Reiß, and J.M. Leimeister. 2019. Where
+                                                                                   is the bot in our team? Toward a taxonomy of design option
+the offered theoretical guidance reflects the perspective of                       combinations for conversational agents in collaborative work.
+higher-level brand management, taking efficiency and effec-                        In Proceedings of the 52nd Hawaii international conference
+tiveness of HAICC at three defined levels into account. Sec-                       on system sciences, 284–293.
+ond, it outlines a broad agenda for further research.                        Blackman, R., and B. Ammanath. 2022. When – and why – you
+                                                                                   should explain how your AI works. Retrieved from https://​hbr.​
+Acknowledgements The author disclosed receipt of the following                     org/​2022/​08/​when-​and-​why-​you-​should-​expla​in-​how-​your-​ai-​
+financial support for the research, authorship, and/or publication of              works. Accessed 20 Aug 2023.
+this article. The author gratefully acknowledge financial support from       Bonoma, T.V., and B.H. Clark. 1988. Marketing performance assess-
+FCT Fundação para a Ciência e a Tecnologia (Portugal) and national                 ment. Boston: Harvard Business School Press.
+funding through the research grant Information Management Research           Bouschery, S.G., V. Balzevic, and F.T. Piller. 2023. Augmenting
+Center—MagIC/NOVA IMS (UIDB/04152/2020).                                           human innovation teams with artificial intelligence: Explor-
+                                                                                   ing transformer-based language models. Journal of Product
+Funding Open Access funding enabled and organized by Projekt                       Innovation Management 40 (2): 139–153.
+DEAL. FCT Fundação para a Ciência e a Tecnologia, Office of Infor-           Bronfenbrenner, U. 1977. Toward an experimental ecology of human
+mation and Resource Management.                                                    development. American Psychologist 32 (7): 513–531.
+                                                                             Brougham, D., and J. Haar. 2018. Smart technology, artificial intel-
+Open Access This article is licensed under a Creative Commons Attri-               ligence, robotics, and algorithms (STARA): Employees’ per-
+bution 4.0 International License, which permits use, sharing, adapta-              ceptions of our future workplace. Journal of Management &
+tion, distribution and reproduction in any medium or format, as long               Organization 24 (2): 239–257.
+as you give appropriate credit to the original author(s) and the source,     Brynjolfsson, E., D. Li, and L. Raymond. 2023. Generative AI at
+provide a link to the Creative Commons licence, and indicate if changes            work. In National bureau of economic research working paper
+were made. The images or other third party material in this article are            series 31161 (April 2023).
+included in the article’s Creative Commons licence, unless indicated         Cao, G., Y. Duan, J.S. Edwards, and Y.K. Dwivedi. 2021. Under-
+otherwise in a credit line to the material. If material is not included in         standing managers’ attitudes and behavioral intentions towards
+the article’s Creative Commons licence and your intended use is not                using artificial intelligence for organizational decision-making.
+permitted by statutory regulation or exceeds the permitted use, you will           Technovation 106 (5): 102312.
+Welcome, new brand colleague! A conceptual framework for efficient and effective human–AI…                                                                    397
+
+Carr, P.B., and G.M. Walton. 2014. Cues of working together fuel                         featu​res/​midjo​urney-​ai-​art-​image-​gener​ators-​lawsu​it-​12346​
+      intrinsic motivation. Journal of Experimental Social Psychol-                      65579/. Accessed 10 Oct 2023.
+      ogy 53: 169–184.                                                             European Parliament. 2023. EU AI act: First regulation on artificial
+Chaisatitkul, A., K. Luangngamkhum, K. Noulpum, and C. Kerd-                             intelligence. Retrieved from https://​www.​europ​arl.​europa.​eu/​
+      vibulvech. 2024. The power of AI in marketing: Enhancing                           news/​en/​headl​ines/​socie​ty/​20230​601ST​O93804/​eu-​ai-​act-​first-​
+      efficiency and improving customer perception through AI-                           regul​ation-​on-​artif​i cial-​intel​ligen​ce. Accessed 11 Sept 2023.
+      generated storyboards. International Journal of Information                  Feldman, S.S. 2023. Health information exchange–the value proposi-
+      Technology 16: 137–144.                                                            tion: a case study of the US social security administration. In
+Chander, A., J. Wang, R. Srinivasan, K. Uchino, and S. Chelian.                          Health information exchange, ed. B.E. Dixon, 543–561. Amster-
+      2018. Working with beliefs: AI transparency in the enterprise.                     dam: Elsevier.
+      In IUI workshops. http://​ceur-​ws.​org/​Vol-​2068/​exss14.​pdf              Feldman, S., and S. Fraser. 2017. Co-creation: Human and AI collabo-
+Chowdhury, S., P. Budhwar, P.K. Dey, S. Joel-Edgar, and A. Abadie.                       ration in creative expression. In Proceedings of proceedings of
+      2022. AI-employee collaboration and business performance:                          EVA, London UK, 422–429.
+      Integrating knowledge-based view, socio-technical systems and                Feuerriegel, S., J. Hartmann, C. Janiesch, and P. Zschech. 2024. Gen-
+      organisational socialisation framework. Journal of Business                        erative AI. Business Information. Systems Engineering 66 (1):
+      Research 144: 31–49.                                                               111–126.
+Corazza, G.E. 2016. Potential originality and effectiveness: The                   Girotra, K., L. Meincke, C. Terwiesch, and K.T. Ulrich. 2023. Ideas
+      dynamic definition of creativity. Creativity Research Journal                      are dimes a dozen: Large language models for idea generation in
+      28 (3): 258–267.                                                                   innovation. Social Science Research Network.
+Davis, N., C.-P. Hsiao, Y. Popova, and B. Magerko. 2015. An enac-                  Gönül, M.S., D. Önkal, and M. Lawrence. 2006. The effects of struc-
+      tive model of creativity for computational collaboration and                       tural characteristics of explanations on use of a DSS. Decision
+      co-creation. In Creativity in the digital age, ed. N. Zagalo and                   Support Systems 42 (3): 1481–1493.
+      P. Branco, 109–133. London: Springer.                                        Grabe, I., M. González-Duque, S. Risi, and J. Zhu. 2022. Towards
+Davis, N., C.P. Hsiao, K.Y. Singh, L. Li, and B. Magerko. 2016.                          a framework for human-AI interaction patterns in co-creative
+      Empirically studying participatory sense-making in abstract                        GAN applications. In Joint proceedings of the ACM IUI work-
+      drawing with a co-creative cognitive agent. In Proceedings of                      shops, March, Helsinki, Finland.
+      the 21st international conference on intelligent user interfaces,            Grønsund, T., and M. Aanestad. 2020. Augmenting the algorithm:
+      196–207.                                                                           Emerging human-in-the-loop work configurations. The Journal
+Dell’Acqua, F., E. McFowland, E. Mollick, H. Lifshitz-Assaf, K.C. Kel-                   of Strategic Information Systems 29 (2): 101614.
+      logg, S. Rajendran, L.J. Krayer, F. Candelon, and K.R. Lakhani.              Hall, K.L., A.X. Feng, R.P. Moser, D. Stokols, and B.K. Taylor.
+      2023. Navigating the jagged technological frontier: Field experi-                  2008. Moving the science of team science forward: Collabora-
+      mental evidence of the effects of AI on knowledge worker pro-                      tion and creativity. American Journal of Preventive Medicine
+      ductivity and quality. Social Science Research Network.                            35 (2): 243–249.
+Deterding, C.S., J.D. Hook, R. Fiebrink, M. Gillies, J. Gow, M. Akten,             Hartmann, J., Y. Exner, and S. Domdey. 2024. The power of genera-
+      G. Smith, A. Liapis, and K. Compton. 2017. Mixed-initiative                        tive marketing: Can generative AI create superhuman visual
+      creative interfaces. In CHI EA '17: proceedings of the 2016 CHI                    marketing content? Available at SSRN: https://​ssrn.​com/​abstr​
+      conference extended abstracts on human factors in computing                        act=​45978​99. https://​doi.​org/​10.​2139/​ssrn.​45978​99. Accessed
+      systems, 06–11 May.                                                                10 April 2024.
+Dubey, A., K. Abhinav, S. Jain, V. Arora, and A. Puttaveerana. 2020.               Hemmer, P., M. Westphal, M. Schemmer, S. Vetter, M. Vössing, and
+      HACO: A framework for developing human-AI teaming. In 13th                         G. Satzger. 2023. Human-AI collaboration: The effect of AI
+      innovations in software engineering conference, February 27–29,                    delegation on human task performance and task satisfaction.
+      Jabalpur, India, 9. New York, NY, USA: ACM.                                        In 28th international conference on intelligent user interfaces,
+Duran, A. 2023. Music publishers sue Amazon-backed AI platform                           march 27–31, Sydney, NSW, Australia, 11. New York, NY,
+      for copyright infringement. Retrieved from https://​www.​nme.​                     USA: ACM.
+      com/​news/​music/​music-​publi​shers-​sue-​amazon-​backed-​ai-​platf​        Hu, K. 2023. ChatGPT sets record for fastest-growing user base–
+      orm-f​ or-c​ opyri​ ght-i​ nfrin​ gment-3​ 51808​ 2. Accessed 10 Oct 2023.         analyst note. Retrieved from https://​www.​reute​rs.​com/​techn​
+Dwivedi, Y.K., L. Hughes, E. Ismagilova, G. Aarts, C. Coombs, T.                         ology/​chatg​pt-​sets-​record-​faste​st-​g rowi​ng-​user-​base-​analy​st-​
+      Crick, Y. Duan, R. Dwivedi, J. Edwards, A. Eirug, V. Galanos,                      note-​2023-​02-​01/. Accessed 4 April 2023.
+      P. Vigneswara Ilavarasan, M. Janssen, P. Jones, A. Kumar Kar,                Huang, M.H., and R.T. Rust. 2022. A framework for collaborative
+      H. Kizgin, B. Kronemann, B. Lal, B. Lucini, R. Medaglia, and                       artificial intelligence in marketing. Journal of Retailing 98 (2):
+      M.D. Williams. 2021. Artificial Intelligence (AI): Multidisci-                     209–223.
+      plinary perspectives on emerging challenges, opportunities, and              IAB Europe. 2024. Europe’s 2023 brand safety poll–IAB Europe.
+      agenda for research, practice and policy. International Journal                    Retrieved from https://​iabeu​rope.​eu/​knowl​edge_​hub/​iab-​europ​
+      of Information Management 57: 101994.                                              es-​2023-​brand-​safety-​poll/. Accessed 1 Jan 2024.
+Dwivedi, Y.K., N. Kshetri, L. Hughes, E.L. Slade, A. Jeyaraj, A.K.                 Instagram. 2024. Label AI-generated content on Instagram. Retrieved
+      Kar, A.M. Baabdullah, A. Koohang, V. Raghavan, M. Ahuja, H.                        from https://​help.​insta​gram.​com/​76112​19595​19495?​cms_​id=​
+      Albanna, M.A. Albashrawi, A.S. Al-Busaidi, J. Balakrishnan, Y.                     76112​19595​19495. Accessed 20 July 2024.
+      Barlette, S. Basu, I. Bose, L. Brooks, D. Buhalis, and R. Wright.            Iskender, A. 2023. Holy or unholy? Interview with OpenAI’s Chat-
+      2023. So what if ChatGPT wrote it? Multidisciplinary perspec-                      GPT. European Journal of Tourism Research 34: 3414.
+      tives on opportunities, challenges and implications of generative            Jarrahi, M.H. 2018. Artificial intelligence and the future of work:
+      conversational AI for research, practice and policy. International                 Human-AI symbiosis in organizational decision making. Busi-
+      Journal of Information Management 71: 102642.                                      ness Horizons 6 (4): 577–586.
+Escalante-De Mattei, S. 2023. Artists are suing artificial intelligence            Jarrahi, M.H., D. Askay, A. Eshraghi, and P. Smith. 2023. Artifi-
+      companies and the lawsuit could upend legal precedents around                      cial intelligence and knowledge management: A partnership
+      art. Retrieved from https://​www.​artne​ws.​com/​art-​in-​ameri​ca/​               between human and AI. Business Horizons 66 (1): 87–99.
+398                                                                                                                                                     A. Kirkby et al.
+
+Jia, N., X. Luo, Z. Fang, and C. Liao. 2024. When and how artificial                   McKinsey. 2023. The state of AI in 2023: Generative AI’s breakout
+      intelligence augments employee creativity. Academy of Man-                             year. Retrieved from https://​www.​mckin​sey.​com/​capab​iliti​es/​
+      agement Journal 67 (1): 5–32.                                                          quant​umbla​ck/​our-​insig​hts/​the-​state-​of-​ai-​in-​2023-​gener​ative-​
+Kalpokienė, J., and I. Kalpokas. 2023. Creative encounters of a post-                        ais-​break​out-​year. Accessed 28 Aug 2023.
+      human kind—anthropocentric law, artificial intelligence, and                     Merhi, M.I. 2023. An evaluation of the critical success factors impact-
+      art. Technology in Society 72: 102197.                                                 ing artificial intelligence implementation. International Journal
+Kirkby, A., C. Baumgarth, and J. Henseler. 2022. Soziale künstli-                            of Information Management 69: 102545.
+      che intelligenz für die markenstimme—kims-matrix als ori-                        Messer, U. 2024. Co-creating art with generative artificial intelligence:
+      entierungsrahmen. In Integriertes online–und offline-channel-                          Implications for artworks and artists. Computers in Human
+      marketing, ed. K. Butzer-Strothmann, 173–189. Wiesbaden:                               Behavior: Artificial Humans 2: 100056.
+      Springer.                                                                        Methnani, L., A.A. Tubella, V. Dignum, and A. Theodorou. 2021. Let
+Kirkby, A., C. Baumgarth, and J. Henseler. 2023. To disclose or not                          me take over: Variable autonomy for meaningful human control.
+      disclose, is no longer the question—effect of AI-disclosed brand                       Frontiers in Artificial Intelligence 4: 737072.
+      voice on brand authenticity and attitude. Journal of Product &                   Mirbabaie, M., F. Brünker, N.R.J. Möllmann, and S. Stieglitz. 2022.
+      Brand Management 32 (7): 1108–1122.                                                    The rise of artificial intelligence—understanding the AI identity
+Klein, H.J., B. Polin, and K.L. Sutton. 2015. Specific onboarding prac-                      threat at the workplace. Electronic Markets 32: 73–99.
+      tices for the socialization of new employees. International Jour-                Mirzaei, A., D. Gray, and C. Baumann. 2011. Developing a new model
+      nal of Selection and Assessment 23 (3): 263–283.                                       for tracking brand equity as a measure of marketing effectiveness.
+Knapp, P. 2017. AI, meet brand voice. Retrieved from https://​landor.​                       The Marketing Review 11 (4): 323–336.
+      com/​think​ing/​ai-​meet-​brand-​voice. Accessed 27 Feb 2023.                    Mouzas, S. 2006. Efficiency versus effectiveness in business networks.
+Kohli, G.S., and X. Yen. 2020. Brand voice. In Contemporary issues                           Journal of Business Research 59: 10–11.
+      in branding, ed. P. Foroudi and M. Palazzo, 116–131. New York:                   Munoz, T., and S. Kumar. 2004. Brand metrics: Gauging and linking
+      Routledge.                                                                             brands with business performance. Journal of Brand Manage-
+Kunz, W.H., and J. Wirtz. 2023. Corporate digital responsibility                             ment 11 (5): 381–387.
+      (CDR) in the age of AI: Implications for interactive marketing.                  Musick, G., T.A. O’Neil, B.G. Schelble, N.J. McNeese, and J.B. Henke.
+      Journal of Research in Interactive Marketing 18 (1): 31–37.                            2021. What happens when humans believe their teammate is
+Lee, B.C., C. Bendixsen, A.K. Liebman, and S.S. Gallagher. 2017.                             an AI? An investigation into humans teaming with autonomy.
+      Using the socio-ecological model to frame agricultural safety                          Computers in Human Behaviour 122: 106852.
+      and health interventions. Journal of Agromedicine. https://​doi.​                Nass, C., B.J. Fogg, and Y. Moon. 1996. Can computers be teammates?
+      org/​10.​1080/​10599​24X.​2017.​13567​80.                                              International Journal Human Computer Studies 45 (6): 669–678.
+Lee, C., J. Kim, and J.S. Lim. 2021. Spillover effects of brand safety                 Novelli, C., M. Taddeo, and L. Floridi. 2023. Accountability in arti-
+      violations in social media. Journal of Current Issues and                              ficial intelligence: what it is and how it works. AI & Society 39:
+      Research in Advertising 42 (4): 354–371.                                               1871.
+Leeper, A.E., K. Hsiao, M. Ciocarlie, L. Takayama, and D. Gossow.                      Oh, C., J. Song, J. Choi, S. Kim, S. Lee, and B. Suh. 2018. I lead,
+      2012. Strategies for human-in-the-loop robotic grasping. In                            you help but only with enough details: Understanding the user
+      Proceedings of the seventh annual ACM/IEEE international                               experience of co-creation with artificial intelligence. In CHI '18:
+      conference on human-robot interaction, 1–8.                                            Proceedings of the 2018 CHI conference on human factors in
+Liapis, A., G.N. Yannakakis, C. Alexopoulos, and P. Lopes. 2016.                             computing systems, April, 649, 1–13.
+      Can computers foster human users’ creativity? Theory and                         Rahman, M., M.A. Rodríguez-Serrano, and M. Lambkin. 2018. Brand
+      praxis of mixed-initiative co-creativity. DOAJ (DOAJ: Direc-                           management efficiency and firm value: An integrated resource
+      tory of Open Access Journals) 8: 1–8.                                                  based and signalling theory perspective. Industrial Marketing
+Lies, J. 2021. Digital marketing: Incompatibilities between perfor-                          Management 72: 112–126.
+      mance marketing and marketing creativity. Journal of Digital                     Ransbotham, S. 2020. Reskilling talent to shrink technology gaps. MIT
+      and Social Media Marketing 8 (4): 376–386.                                             Sloan Management Review. Retrieved from https://​sloan​review.​
+Llano, M.T., and J. McCormack. 2020. Existential risks of co-cre-                            mit.​edu/​artic​le/​reski​lling-​t alent-​to-​shrink-​techn​ology-​gaps/.
+      ative systems. In Proceedings of the workshop of the future                            Accessed 20 Oct 2023.
+      of co-creative systems 2020 association for computational                        Ray, P.P. 2023. ChatGPT: A comprehensive review on background,
+      creativity (ACC). https://​c ompu​t atio​n alcr​e ativ​i ty.​n et/​works​              applications, key challenges, bias, ethics, limitations and
+      hops/​c ocre​a tive-​i ccc20/​p apers/​F uture_​o f_​c o-​c reat​i ve_​s yste​         future scope. Internet of Things and Cyber-Physical Systems 3:
+      ms_​184.​pdf                                                                           121–154.
+Lobschat, L., B. Mueller, F. Eggers, L. Brandimarte, S. Diefenbach, M.                 Reisenbichler, M., T. Reutterer, and D. Schweidel. 2023. Applying
+      Kroschke, and J. Wirtz. 2021. Corporate digital responsibility.                        large language models to sponsored search advertising. Mar-
+      Journal of Business Research 122: 875–888.                                             keting science institute working paper series, no. 23–136.
+Mahmud, H., A.K.M. Najmul Islam, S. Ishtiaque Ahmed, and K. Smo-                       Reuters. 2023. Google to make disclosure of AI-generated content
+      lander. 2022. What influences algorithmic decision-making? A                           mandatory for election advertisers. Retrieved from https://​www.​
+      systematic literature review on algorithm aversion. Technological                      reute​rs.​com/​techn​ology/​google-​make-​discl​osure-​ai-​gener​ated-​
+      Forecasting & Social Change 175: 121390.                                               conte​nt-​manda​tory-​elect​ion-​adver ​tisers-​2023-​09-​06/. Accessed
+Makarius, E.E., D. Mukherjee, J.D. Fox, and A.K. Fox. 2020. Ris-                             5 Oct 2023.
+      ing with the machines: A sociotechnical framework for bringing                   Rezwana, J., and M.L. Maher. 2021. COFI: A framework for modeling
+      artificial intelligence into the organization. Journal of Business                     interaction in human-AI co-creative systems. In Proceedings of
+      Research 120: 262–273.                                                                 the 12th international conference on computational creativity
+McCormack, J., and M. D'Inverno. 2014. On the future of computers                            (ICCC ’21).
+      and creativity. In AISB 2014–50th annual convention of the AISB                  Rezwana, J., and M.L. Maher. 2022. Designing creative AI partners
+      society for the study of artificial intelligence and the simulation                    with COFI: A framework for modeling interaction in human-AI
+      of behaviour.                                                                          co-creative systems. ACM Transactions on Computer-Human
+                                                                                             Interaction 30 (5): 1–28.
+Welcome, new brand colleague! A conceptual framework for efficient and effective human–AI…                                                    399
+
+Saks, A.M., and B.E. Ashforth. 1997. Organizational socialization:               2021, held as part of the 23rd HCI international conference,
+      Making sense of the past and present as a prologue for the future.         HCII 2021, virtual event, July 24–29, 2021.
+      Journal of Vocational Behavior 51 (2): 234–279.                      Xiao, Y. 2023. Decoding authorship: Is there really no place for an
+Schroder, A., I.D. Constantiou, V. Kristiina Tuunainen, and R.D. Aus-            algorithmic author under copyright law? Iic–international
+      tin. 2022. Human-AI collaboration -coordinating automation and             Review of Intellectual Property and Competition Law 54 (1):
+      augmentation tasks in a digital service company. In Proceed-               5–25.
+      ings of the 55th Hawaii conference on system sciences (HICSS),       Zirar, A., S. Imran Ali, and N. Islam. 2023. Worker and workplace
+      Hawaii.                                                                    artificial intelligence (AI) coexistence: Emerging themes and
+Siemon, D. 2022. Elaborating team roles for artificial intelligence-             research agenda. Technovation 124: 102747.
+      based teammates in human-AI collaboration. Group Decision
+      and Negotiation 31: 871–912.                                         Publisher's Note Springer Nature remains neutral with regard to
+Sowa, K., A. Przegalinska, and L. Ciechanowski. 2021. Cobots in            jurisdictional claims in published maps and institutional affiliations.
+      knowledge work human-AI collaboration in managerial profes-
+      sions. Journal of Business Research 125: 135–142.
+Stein, M.I. 1953. Creativity and culture. The Journal of Psychology:
+      Interdisciplinary and Applied 36: 311–322.
+Terwiesch C. 2023. Let’s cast a critical eye over business ideas from      Alexandra Kirkby is Junior Researcher and PhD candidate at the Uni-
+      ChatGPT. In: Financial times, march, 12.                             versity of Twente in the Netherlands, and Marketing Research Associ-
+Theodorou, A., and V. Dignum. 2020. Towards ethical and socio-legal        ate at the Hochschule für Wirtschaft und Recht Berlin. Her research
+      governance in AI. Nature Machine Intelligence 2 (1): 10–12.          focus is on artificial intelligence, brand voice and human–AI co-crea-
+Tornatzky, L.G., and M. Fleischer. 1990. The processes of technologi-      tion. She has experience in the influencer industry having worked as an
+      cal innovation. Lexington Books: Lexington.                          Artist & Repertoire Manager and then Sales Manager at multi-platform
+Turchi, T., S. Carta, L. Ambrosini, and A. Malizia. 2023. Human-AI         network Studio71. In her academic career, her work has appeared in
+      co-creation: Evaluating the impact of large-scale text-to image      journals such as the Journal of Product & Brand Management and con-
+      generative models on the creative process. In Lecture notes in       ferences including the Global Brand Conference and DerMarkenTag.
+      computer science, 35–51. Cham: Springer.
+Van de Water, H., K. Ahaus, and R. Rozier. 2008. Team roles, team          Carsten Baumgarth is a Professor of Marketing and Brand Manage-
+      balance and performance. Journal of Management Development           ment Berlin School of Economics and Law. His research focuses on
+      27 (5): 499–512.                                                     brand management, B-to-B marketing, cultural marketing, and empiri-
+Van der Stappen, A., and M. Funk. 2021. Towards guidelines for             cal studies. He holds degrees from the University of Siegen and was
+      designing human-in-the-loop machine training interfaces. In 26th     previously an associate professor at Marmara University Istanbul.
+      international conference on intelligent user interfaces, 514–519.    Additionally, he serves as an adjunct professor at Ho Chi Minh City
+Van Dis, E.A., J. Bollen, W. Zuidema, Van Rooij, and C.L. Bockting.        University Vietnam. His more than 400 published papers appear in
+      2023. ChatGPT: Five priorities for research. Nature 614 (7947):      prestigious journals. Furthermore, he authored influential textbooks
+      224–226.                                                             on brand management and B-to-B brand management.
+Vargo, S.L. 2023. Conceptual reconciliation for clarity and impact.
+      AMS Review 13: 169–172.                                              Jörg Henseler is Professor of Product–Market Relations at the Uni-
+Vargo, S.L., and K. Koskela-Huotari. 2020. Advancing conceptual-only       versity of Twente, the Netherlands, and Visiting Professor at the Uni-
+      articles in marketing. AMS Review 10: 1–5.                           versidade Nova de Lisboa, Portugal. His research focuses on structural
+Veale, T., and R. Pérez. 2020. Leaps and bounds: An introduction to        equation modelling and the interplay between marketing and design.
+      the field of computational creativity. New Generation Comput-        He is the co-inventor of the Henseler–Ogasawara specification, HTMT,
+      ing 38: 551–563.                                                     and confirmatory composite analysis. He is a highly cited researcher
+Vernuccio, M., M. Patrizi, M. Šerić, and A. Pastore. 2023. The per-        according to Clarivate; his more than 100 articles have appeared in the
+      ceptual antecedents of brand anthropomorphism in the name-           International Journal of Research in Marketing, Journal of the Acad-
+      brand voice assistant context. Journal of Brand Management 30:       emy of Marketing Science, and MIS Quarterly, among others. Ioannidis
+      302–317.                                                             ranks him among the 300 most impactful scholars in 2021.
+Wallas, G. 1926. The art of thought. London, UK: Jonathan Cape.
+Wu, Z., D. Ji, K. Yu, X. Zeng, D. Wu, and M. Shidujaman. 2021.
+      Human-computer interaction. In Theory, methods and tools. HCI
+

@@ -1,5 +1,7 @@
 ---
 layout: default
+title: "Posts labelled comment"
+description: "Blog posts labelled comment on The World of SPLectrum."
 ---
 
 [Home](/) > [In Wonder](/blog/) > [Labels](/blog/label/) > comment

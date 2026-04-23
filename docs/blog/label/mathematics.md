@@ -1,5 +1,7 @@
 ---
 layout: default
+title: "Posts labelled mathematics"
+description: "Blog posts labelled mathematics on The World of SPLectrum."
 ---
 
 [Home](/) > [In Wonder](/blog/) > [Labels](/blog/label/) > mathematics

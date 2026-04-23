@@ -1,5 +1,7 @@
 ---
 layout: default
+title: "Posts labelled western philosophy"
+description: "Blog posts labelled western philosophy on The World of SPLectrum."
 ---
 
 [Home](/) > [In Wonder](/blog/) > [Labels](/blog/label/) > western philosophy

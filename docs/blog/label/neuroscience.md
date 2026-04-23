@@ -1,5 +1,7 @@
 ---
 layout: default
+title: "Posts labelled neuroscience"
+description: "Blog posts labelled neuroscience on The World of SPLectrum."
 ---
 
 [Home](/) > [In Wonder](/blog/) > [Labels](/blog/label/) > neuroscience

@@ -74,30 +74,4 @@ The design commitments govern all engineering below this level. They are the phi
 
 The full set of commitments is maintained in [Design Commitments](design-commitments).
 
-## Document Map
-
-### This Level
-
-| Document | What it covers |
-|----------|---------------|
-| **[This document](top-level-design)** | Bridge between philosophy and engineering. Introduces pillars and commitments |
-| **[Design Commitments](design-commitments)** | The constraints. Philosophical structure as engineering law |
-| **[Process Models](process-models)** | HAICC: the decentralised evolutionary pattern and its neuroscience grounding |
-
-### Mycelium Design
-
-| Document | What it covers |
-|----------|---------------|
-| **[Mycelium](mycelium/)** | The data fabric. Design, boundary, subject reality, constitutive dependencies |
-| **[Fabric](mycelium/fabric)** | The base data structure. Records, contexts, navigation, data APIs |
-| **[Subject Reality](mycelium/subject-reality)** | The git repo as living subject. Boundary, POV, references, self-contained from birth |
-| **[AVRO Design Scope](mycelium/avro-design-scope)** | Constitutive dependency. Schema, conformance, protocol, interface |
-| **[Git Design Scope](mycelium/git-design-scope)** | Constitutive dependency. Historicity, identity, boundary, decentralised exchange |
-
-### Open
-
-| Area | Status |
-|------|--------|
-| **SPLectrum engineering design** | Early stage. Protocol libraries defined in mycelium process. Language fabric design not yet articulated as its own document |
-| **HAICC design** | Early stage, ahead of splectrum. Persona mechanism, conscious/subconscious, plasticity, and evolutionary model established. Detailed design not yet articulated |
 

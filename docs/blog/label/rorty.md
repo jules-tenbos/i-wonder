@@ -1,5 +1,7 @@
 ---
 layout: default
+title: "Posts labelled Rorty"
+description: "Blog posts labelled Rorty on The World of SPLectrum."
 ---
 
 [Home](/) > [In Wonder](/blog/) > [Labels](/blog/label/) > Rorty

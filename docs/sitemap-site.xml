@@ -50,14 +50,11 @@
   <url><loc>https://splectrum.world/engineering/splectrum/design-commitments</loc><lastmod>2026-04-21</lastmod></url>
   <url><loc>https://splectrum.world/engineering/splectrum/splectrum/</loc><lastmod>2026-04-21</lastmod></url>
   <url><loc>https://splectrum.world/engineering/splectrum/splectrum/namespace</loc><lastmod>2026-04-21</lastmod></url>
-  <url><loc>https://splectrum.world/engineering/splectrum/mycelium/</loc><lastmod>2026-04-21</lastmod></url>
-  <url><loc>https://splectrum.world/engineering/splectrum/mycelium/avro-design-scope</loc><lastmod>2026-04-21</lastmod></url>
-  <url><loc>https://splectrum.world/engineering/splectrum/mycelium/fabric</loc><lastmod>2026-04-21</lastmod></url>
-  <url><loc>https://splectrum.world/engineering/splectrum/mycelium/git-design-scope</loc><lastmod>2026-04-21</lastmod></url>
+  <url><loc>https://splectrum.world/engineering/splectrum/mycelium/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://splectrum.world/engineering/splectrum/mycelium/fabric</loc><lastmod>2026-04-24</lastmod></url>
   <url><loc>https://splectrum.world/engineering/splectrum/mycelium/identifier-grammar</loc><lastmod>2026-04-21</lastmod></url>
-  <url><loc>https://splectrum.world/engineering/splectrum/mycelium/kafka-design-scope</loc><lastmod>2026-04-21</lastmod></url>
   <url><loc>https://splectrum.world/engineering/splectrum/mycelium/layers</loc><lastmod>2026-04-21</lastmod></url>
-  <url><loc>https://splectrum.world/engineering/splectrum/mycelium/message</loc><lastmod>2026-04-21</lastmod></url>
+  <url><loc>https://splectrum.world/engineering/splectrum/mycelium/message</loc><lastmod>2026-04-24</lastmod></url>
   <url><loc>https://splectrum.world/engineering/splectrum/mycelium/mutability</loc><lastmod>2026-04-21</lastmod></url>
   <url><loc>https://splectrum.world/engineering/splectrum/mycelium/mutable</loc><lastmod>2026-04-21</lastmod></url>
   <url><loc>https://splectrum.world/engineering/splectrum/mycelium/protocol</loc><lastmod>2026-04-21</lastmod></url>
@@ -74,28 +71,33 @@
   <url><loc>https://splectrum.world/engineering/splectrum/haicc/personas/splectrum-thinking-persona/</loc><lastmod>2026-04-21</lastmod></url>
   <url><loc>https://splectrum.world/engineering/splectrum/haicc/personas/splectrum-thinking-persona/context</loc><lastmod>2026-04-21</lastmod></url>
   <url><loc>https://splectrum.world/engineering/splectrum/haicc/personas/splectrum-thinking-persona/instructions</loc><lastmod>2026-04-21</lastmod></url>
-  <url><loc>https://splectrum.world/engineering/technology/</loc><lastmod>2026-04-21</lastmod></url>
-  <url><loc>https://splectrum.world/engineering/technology/bare/</loc><lastmod>2026-04-21</lastmod></url>
-  <url><loc>https://splectrum.world/engineering/technology/bare/dual-runtime</loc><lastmod>2026-04-21</lastmod></url>
-  <url><loc>https://splectrum.world/engineering/technology/bare/global-api</loc><lastmod>2026-04-21</lastmod></url>
-  <url><loc>https://splectrum.world/engineering/technology/bare/module-system</loc><lastmod>2026-04-21</lastmod></url>
-  <url><loc>https://splectrum.world/engineering/technology/bare/modules</loc><lastmod>2026-04-21</lastmod></url>
-  <url><loc>https://splectrum.world/engineering/technology/bare/platforms</loc><lastmod>2026-04-21</lastmod></url>
-  <url><loc>https://splectrum.world/engineering/technology/bare/sources</loc><lastmod>2026-04-21</lastmod></url>
-  <url><loc>https://splectrum.world/engineering/technology/bare-for-pear/</loc><lastmod>2026-04-21</lastmod></url>
-  <url><loc>https://splectrum.world/engineering/technology/bare-for-pear/avsc/</loc><lastmod>2026-04-21</lastmod></url>
-  <url><loc>https://splectrum.world/engineering/technology/bare-for-pear/avsc/barification</loc><lastmod>2026-04-21</lastmod></url>
-  <url><loc>https://splectrum.world/engineering/technology/bare-for-pear/avsc/containers</loc><lastmod>2026-04-21</lastmod></url>
-  <url><loc>https://splectrum.world/engineering/technology/bare-for-pear/avsc/schemas</loc><lastmod>2026-04-21</lastmod></url>
-  <url><loc>https://splectrum.world/engineering/technology/bare-for-pear/avsc/serialization</loc><lastmod>2026-04-21</lastmod></url>
-  <url><loc>https://splectrum.world/engineering/technology/bare-for-pear/avsc/types</loc><lastmod>2026-04-21</lastmod></url>
-  <url><loc>https://splectrum.world/engineering/technology/bare-for-pear/avsc-rpc/</loc><lastmod>2026-04-21</lastmod></url>
-  <url><loc>https://splectrum.world/engineering/technology/bare-for-pear/avsc-rpc/barification</loc><lastmod>2026-04-21</lastmod></url>
-  <url><loc>https://splectrum.world/engineering/technology/bare-for-pear/avsc-rpc/client-server</loc><lastmod>2026-04-21</lastmod></url>
-  <url><loc>https://splectrum.world/engineering/technology/bare-for-pear/avsc-rpc/middleware</loc><lastmod>2026-04-21</lastmod></url>
-  <url><loc>https://splectrum.world/engineering/technology/bare-for-pear/avsc-rpc/services</loc><lastmod>2026-04-21</lastmod></url>
-  <url><loc>https://splectrum.world/engineering/technology/bare-for-pear/avsc-rpc/transports</loc><lastmod>2026-04-21</lastmod></url>
-  <url><loc>https://splectrum.world/engineering/technology/bare-for-pear/avsc-rpc/wire-protocol</loc><lastmod>2026-04-21</lastmod></url>
-  <url><loc>https://splectrum.world/engineering/technology/bare-for-pear/git/</loc><lastmod>2026-04-21</lastmod></url>
-  <url><loc>https://splectrum.world/engineering/technology/bare-for-pear/rpc-server/</loc><lastmod>2026-04-21</lastmod></url>
+  <url><loc>https://splectrum.world/engineering/substrate/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://splectrum.world/engineering/substrate/avro</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://splectrum.world/engineering/substrate/git</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://splectrum.world/engineering/substrate/kafka</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://splectrum.world/engineering/substrate/pear</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://splectrum.world/engineering/substrate/bare/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://splectrum.world/engineering/substrate/bare/dual-runtime</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://splectrum.world/engineering/substrate/bare/global-api</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://splectrum.world/engineering/substrate/bare/module-system</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://splectrum.world/engineering/substrate/bare/modules</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://splectrum.world/engineering/substrate/bare/platforms</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://splectrum.world/engineering/substrate/bare/sources</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://splectrum.world/engineering/infrastructure/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://splectrum.world/engineering/infrastructure/bare-for-pear/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://splectrum.world/engineering/infrastructure/bare-for-pear/avsc/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://splectrum.world/engineering/infrastructure/bare-for-pear/avsc/barification</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://splectrum.world/engineering/infrastructure/bare-for-pear/avsc/containers</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://splectrum.world/engineering/infrastructure/bare-for-pear/avsc/schemas</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://splectrum.world/engineering/infrastructure/bare-for-pear/avsc/serialization</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://splectrum.world/engineering/infrastructure/bare-for-pear/avsc/types</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://splectrum.world/engineering/infrastructure/bare-for-pear/avsc-rpc/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://splectrum.world/engineering/infrastructure/bare-for-pear/avsc-rpc/barification</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://splectrum.world/engineering/infrastructure/bare-for-pear/avsc-rpc/client-server</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://splectrum.world/engineering/infrastructure/bare-for-pear/avsc-rpc/middleware</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://splectrum.world/engineering/infrastructure/bare-for-pear/avsc-rpc/services</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://splectrum.world/engineering/infrastructure/bare-for-pear/avsc-rpc/transports</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://splectrum.world/engineering/infrastructure/bare-for-pear/avsc-rpc/wire-protocol</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://splectrum.world/engineering/infrastructure/bare-for-pear/git/</loc><lastmod>2026-04-24</lastmod></url>
+  <url><loc>https://splectrum.world/engineering/infrastructure/bare-for-pear/rpc-server/</loc><lastmod>2026-04-24</lastmod></url>
 </urlset>

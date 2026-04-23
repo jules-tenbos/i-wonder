@@ -1,5 +1,7 @@
 ---
 layout: default
+title: "Posts labelled HAICC"
+description: "Blog posts labelled HAICC on The World of SPLectrum."
 ---
 
 [Home](/) > [In Wonder](/blog/) > [Labels](/blog/label/) > HAICC

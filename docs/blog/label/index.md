@@ -1,5 +1,7 @@
 ---
 layout: default
+title: "Labels"
+description: "Browse blog posts by label on The World of SPLectrum."
 ---
 
 [Home](/) > [In Wonder](/blog/) > Labels

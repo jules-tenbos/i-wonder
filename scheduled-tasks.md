@@ -7,11 +7,12 @@ Tasks triggered by post publication. Updated as posts go live.
 - [ ] Tweet on each blog post publication — draft and post per entry below
 - [ ] Review links in all scheduled posts (May 20 – June 24) — check for missing cross-references to ref lib and other posts
 - [ ] Tone-of-voice review of a content page with a shadow page — update the shadow with any vocabulary or relational observations surfaced by the review
-- [ ] Vocabulary shadow cadence — process one finished page's vocabulary per post publication (throttle back if too dense). Next candidate: TBD — pick from finished pages.
+- [ ] Vocabulary shadow cadence — process one finished page's vocabulary per post publication (throttle back if too dense). Candidate for each publication is named in the entry below.
 
 ---
 
 ## April 26 — From Clockwork to Open Questions goes live
+- [ ] Shadow page — process vocabulary for `positioning/close-affinity/seed/being-as-tension`
 - [ ] Tweet: From Newton's clockwork to quantum mechanics — spectacular success, no agreed picture of reality. How physics arrived at the same open question as philosophy: what is the role of the observer? splectrum.world/blog/2026/04/from-clockwork-to-open-questions/ #QuantumMechanics #PhilosophyOfScience #Physics #Relativity
 
 ## May 1 — The Relational Reality of RQM goes live
@@ -64,7 +65,6 @@ Tasks triggered by post publication. Updated as posts go live.
 - [ ] Draft tweet
 
 ## June 4 — AVRO — The Language of Articulation goes live
-- [ ] Review/update docs/engineering/mycelium/avro-design-scope.md
 - [ ] Update docs/vocabulary.md (AVRO, carrier/meaning separation, avsc)
 - [ ] Draft tweet
 

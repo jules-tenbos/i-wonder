@@ -10,4 +10,4 @@ Analysis of word use on specific pages is done for two specific purposes:
 The [how shadow pages are made](how-shadow-pages-are-made/) page explains the process of extraction.
 
 - [Home](/vocabulary/site/home/)
-- [Home](/vocabulary/site/home/) > [Positioning](/vocabulary/site/home/positioning/)
+- [Home > Positioning](/vocabulary/site/home/positioning/)

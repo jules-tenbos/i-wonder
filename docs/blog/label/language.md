@@ -1,5 +1,7 @@
 ---
 layout: default
+title: "Posts labelled language"
+description: "Blog posts labelled language on The World of SPLectrum."
 ---
 
 [Home](/) > [In Wonder](/blog/) > [Labels](/blog/label/) > language
