@@ -11,4 +11,7 @@ Two activities:
 
 For our own site, the analysis complements the tone-of-voice material: tone-of-voice describes voice and register; this section profiles the specific vocabulary of the personas in play on each page. Together they keep the writing coherent across the voices the site hosts.
 
-Pages mirror content paths. Start at [home](/vocabulary/site/home/).
+Pages mirror content paths.
+
+- [Home](/vocabulary/site/home/)
+- [Home](/vocabulary/site/home/) > [Positioning](/vocabulary/site/positioning/)

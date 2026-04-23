@@ -2,7 +2,7 @@
 
 # Home — vocabulary
 
-The vocabulary on this page belongs to [the site home](/).
+The vocabulary of [the site home](/).
 
 | Term / phrase | Language | Comment |
 |---|---|---|
@@ -14,7 +14,7 @@ The vocabulary on this page belongs to [the site home](/).
 | three pillars | SPLectrum engineering | See: [three pillars](/vocabulary/splectrum/engineering/#three-pillars) |
 | Language | SPLectrum | (site section) See: [language game](/vocabulary/wittgenstein/#language-game) |
 | Reality | SPLectrum | (site section) See: [reality](/vocabulary/splectrum/seed/#reality) |
-| Positioning | SPLectrum | (site section) See: [positioning](/vocabulary/splectrum/#positioning) |
+| Positioning | SPLectrum | (site section) See: [positioning](/vocabulary/splectrum/positioning/#positioning) |
 | Engineering | SPLectrum | (site section) See: [engineering](/vocabulary/splectrum/engineering/#engineering) |
 | Vocabulary | SPLectrum | (site section) See: [vocabulary](/vocabulary/splectrum/#vocabulary) |
 | language game | Wittgenstein | See: [language game](/vocabulary/wittgenstein/#language-game) |

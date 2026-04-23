@@ -6,11 +6,10 @@ SPLectrum's own terms. The SPLectrum language extends the seed — its axiomatic
 
 ## Core terms
 
-<span id="positioning">**Positioning**</span> — Outside work that puts SPLectrum in context — resonance and dissonance.
-
 <span id="vocabulary">**Vocabulary**</span> — A bounded set of concepts within a language.
 
 ## Other Languages
 
 - [Seed](seed) — core.
+- [Positioning](positioning) — outside context.
 - [Engineering](engineering/) — other area.
