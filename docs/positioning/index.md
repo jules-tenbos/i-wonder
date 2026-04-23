@@ -1,4 +1,4 @@
-{% include vocabulary-link.html shadow="/vocabulary/site/positioning/" %}
+{% include vocabulary-link.html shadow="/vocabulary/site/home/positioning/" %}
 [Home](/) > Positioning
 
 # Positioning

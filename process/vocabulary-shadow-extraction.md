@@ -22,7 +22,11 @@ The two-pass shape earned itself on the first shadow page (home). Each pass surf
     - Every load-bearing term on the page should appear in the table; anything in the table that doesn't actually carry weight on this page comes out.
     - General-language terms are included only where they do site-language work — used in a narrowed or site-specific sense, or carrying an implicit reference the page depends on. Plain vocabulary the reader already understands without site context stays out.
 
-Shadow page form: the page opens with the breadcrumb, then the title *[Breadcrumb] — vocabulary*, then a one-line intro *"The vocabulary of [link to the content page]."* — then the table.
+Shadow page form: the page opens with the breadcrumb, then the title *[Breadcrumb] — vocabulary*, then a one-line intro *"The vocabulary of [link to the content page]."* — then the table. The table is followed by `{: .vocabulary-shadow}` on its own line so the CSS stacks the columns on mobile.
+
+## Upkeep
+
+A shadow is only useful if it reflects the current state of its content page. Once a shadow exists, updating the content page triggers a shadow refresh as part of the update — fresh cold and warm passes, alignment check, table update where needed. Don't ship a content-page change without re-running the shadow if one exists.
 
 ## Optional link from the content page
 

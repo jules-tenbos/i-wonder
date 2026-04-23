@@ -1,4 +1,4 @@
-[Home](/) > [Vocabulary](/vocabulary/) > [This Web Site](/vocabulary/site/) > Positioning
+[Home](/) > [Vocabulary](/vocabulary/) > [This Web Site](/vocabulary/site/) > [Home](/vocabulary/site/home/) > Positioning
 
 # Positioning — vocabulary
 
@@ -16,3 +16,4 @@ The vocabulary of [the positioning section](/positioning/).
 | Wider landscape | SPLectrum | (site section) At some distance from the centre, carrying considerable influence. See: [wider landscape](/vocabulary/splectrum/positioning/#wider-landscape) |
 | On the fence | SPLectrum | (site section) A mixture of resonance and dissonance. See: [on the fence](/vocabulary/splectrum/positioning/#on-the-fence) |
 | framework | general English | Narrowed on the site — a complete thought system. |
+{: .vocabulary-shadow}

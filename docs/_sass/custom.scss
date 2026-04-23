@@ -145,3 +145,39 @@
     column-count: 1;
   }
 }
+
+@media (max-width: 600px) {
+  table.vocabulary-shadow,
+  table.vocabulary-shadow thead,
+  table.vocabulary-shadow tbody,
+  table.vocabulary-shadow tr,
+  table.vocabulary-shadow th,
+  table.vocabulary-shadow td {
+    display: block;
+    width: 100%;
+  }
+  table.vocabulary-shadow thead {
+    display: none;
+  }
+  table.vocabulary-shadow tr {
+    margin-bottom: 1.2em;
+    padding-bottom: 0.6em;
+    border-bottom: 1px solid #eee;
+  }
+  table.vocabulary-shadow td {
+    padding: 0.15em 0;
+    border: none;
+  }
+  table.vocabulary-shadow td:nth-of-type(1):before {
+    content: "Term: ";
+    font-weight: bold;
+  }
+  table.vocabulary-shadow td:nth-of-type(2):before {
+    content: "Language: ";
+    font-weight: bold;
+  }
+  table.vocabulary-shadow td:nth-of-type(3):before {
+    content: "Comment: ";
+    font-weight: bold;
+  }
+}
