@@ -15,6 +15,6 @@ The vocabulary of [the site home](/).
 | Language | SPLectrum | (site section) See: [language game](/vocabulary/wittgenstein/#language-game) |
 | Reality | SPLectrum | (site section) See: [reality](/vocabulary/splectrum/seed/#reality) |
 | Positioning | SPLectrum | (site section) See: [positioning](/vocabulary/splectrum/positioning/#positioning) |
-| Engineering | SPLectrum | (site section) See: [engineering](/vocabulary/splectrum/engineering/#engineering) |
+| Engineering | SPLectrum | (site section) See: [engineering](/vocabulary/splectrum/#engineering) |
 | Vocabulary | SPLectrum | (site section) See: [vocabulary](/vocabulary/splectrum/#vocabulary) |
 | language game | Wittgenstein | See: [language game](/vocabulary/wittgenstein/#language-game) |

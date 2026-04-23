@@ -1,0 +1,1279 @@
+Article
+
+Symbiotic Intelligence: Rethinking AI with Mycelium
+John Wild 1, * and Shira Wachsmann 2
+
+                                         1   Sheffield Creative Industries Institute, Sheffield Hallam University, Howard Street, Sheffield S1 1WB, UK
+                                         2   School of Communication, Royal College of Art, White City Garden House, London W12 7FN, UK
+                                         *   Correspondence: j.h.wild@protonmail.com
+
+
+                                         Abstract
+                                         Symbiotic Intelligence (SI) rethinks dominant evolutionary narratives within Western artifi-
+                                         cial intelligence (AI) development through a practice-led research methodology centred on
+                                         co-creating with mycelium. This research investigates how living mycelium can inform
+                                         and reframe prevailing AI narratives, particularly those shaped by evolutionary logics.
+                                         These narratives, found in developer manifestoes and futurological discourse, often frame
+                                         intelligence within competitive, deterministic paradigms rooted in social Darwinism and
+                                         invoke eugenicist ideas such as the g-factor in intelligence. Through the creation of re-
+                                         sponsive art installations, the project positions mycelium as a material and conceptual
+                                         collaborator, opening new spaces for dialogue. This article inverts the curatorial strategy of
+                                         incorporating AI technology into artistic practices. Instead, we show how arts-led ‘making’
+                                         practices can generate new narratives that propose alternative ethical frameworks and
+                                         sustainable directions for technological development. We argue that a direct, generative but
+                                         non-deterministic relationship exists between AI narratives and the technical actualisation
+                                         of AI. Specifically, SI contends that: (i) evolutionary narratives underpin Western AI imag-
+                                         inaries; (ii) these often reflect reductive social Darwinist models; (iii) counter-narratives
+                                         grounded in collective assemblage and symbiotic intelligence are essential for shaping more
+                                         complex and sustainable AI futures.
+
+                                         Keywords: art; mycelium; artificial intelligence; more-than-human; post-human; symbiotic
+                                         intelligence; co-creation
+
+
+
+
+                                         1. Introduction
+                                               Life did not take over the globe by combat, but by networking. (Margulis and Sagan 1997)
+                                               Symbiotic Intelligence (SI) is an ongoing practice-led artistic research project devel-
+                                         oped by John Wild and Shira Wachsmann exploring how artistic practice can interrogate
+Academic Editors: Elena Papadaki
+                                         and reconfigure dominant narratives surrounding artificial intelligence. The project is
+and Eleanor Dare                         situated within the field of artistic research, where knowledge is generated through mate-
+Received: 30 October 2025
+                                         rial practice, encounter, and reflection, rather than through hypothesis-driven or technical
+Revised: 18 February 2026                optimisation (Sullivan 2005, pp. 173–74, 180). The project originated from questions about
+Accepted: 24 March 2026                  AI’s relationship to storytelling and narrative ecologies, initially framing these technologies
+Published: 1 April 2026                  as tools that amplify or intensify existing cultural forms. Through sustained engagement
+Copyright: © 2026 by the authors.        with living mycelium, the interconnected fungal networks that sustain ecosystems, this
+Licensee MDPI, Basel, Switzerland.       framing proved inadequate. Working with more-than-human systems revealed intelligence
+This article is an open access article
+                                         not as a discrete capacity possessed by individual entities, but as an emergent property of
+distributed under the terms and
+conditions of the Creative Commons
+                                         ecological relations. Intelligence, we came to understand, operates as a co-creative force
+Attribution (CC BY) license.             that enriches the very fabric of ecological phenomena.
+
+
+Arts 2026, 15, 69                                                                                                 https://doi.org/10.3390/arts15040069
+Arts 2026, 15, 69                                                                                             2 of 23
+
+
+
+                          This realisation repositioned our methodological orientation. Rather than analysing
+                    AI’s impacts through predetermined theoretical frameworks or treating narratives as ex-
+                    planatory variables, we developed artistic practice as a mode of inquiry grounded in
+                    material engagement and situated ecology. We describe this approach as ‘critical unknow-
+                    ing’: not a speculative stance, but an enactive research position in which understanding
+                    emerges through co-creation with more-than-human systems rather than through the
+                    application of interpretive schemas.
+                          At the core of this investigation lies a commitment to understanding AI not merely
+                    as a technological or computational system, but as a cultural, historical, and ecological
+                    phenomenon. AI is approached here as embedded within a human-centric narrative ecol-
+                    ogy that shapes how intelligence is imagined, valued, and legitimised across technical,
+                    institutional, and cultural domains. By collaborating with mycelium and emerging tech-
+                    nologies, the project presents an alternative framework for understanding intelligence,
+                    one that foregrounds interdependence, adaptation, and distributed agency. This synthesis
+                    of organic and machinic systems functions both materially and theoretically, opening a
+                    space to investigate intelligence as a relational and ecological process emerging through
+                    artistic practice.
+                          Symbiotic Intelligence: Re-Thinking AI with Mycelium is structured as a dialogue between
+                    four exhibited installations and the AI discourses that evolved in parallel with, and in
+                    response to, their making, their exhibition, and the reflective discourse that emerged from
+                    these processes. Rather than proposing a linear or causal relationship between the instal-
+                    lations, the narratives and technical systems, the project examines how AI imaginaries
+                    operate as environments of possibility that condition what becomes thinkable, fundable,
+                    and legitimate within AI development. By working at the intersection of art, biology,
+                    and computational systems, SI creates conditions for what we describe as collisions and
+                    co-creations between different modes of worlding shaped by particular sensory relations
+                    and perceptual regimes. It is in these encounters that new possibilities arise, not as prede-
+                    termined outcomes, but as emergent configurations. Through embodied, material practice,
+                    the research reveals the contingency of dominant AI narratives and brings alternative
+                    paradigms grounded in symbiotic rather than competitive logic into presence.
+
+                    2. Methodology: Thinking-Through-Making
+                          Symbiotic Intelligence is a practice-led artistic research project that develops through
+                    successive iterations of art installations, with each new work building upon the discoveries
+                    and challenges encountered in earlier installations. The research operates within an enac-
+                    tive and performative methodological framework, in which artistic practice constitutes a
+                    primary mode of inquiry. This iterative process generates both aesthetic and epistemic out-
+                    comes. Aesthetically, the works create affective, spatial experiences that invite audiences to
+                    sense and think intelligence differently. Epistemically, they produce insights about material
+                    behaviours, technical affordances, and conceptual relations that emerge only through the
+                    process of making. The installations operate not as representations of symbiotic intelli-
+                    gence, but as enactments of it: actual instances of multispecies, multi-material collaboration
+                    unfolding in real time.
+                          Each installation incorporates living mycelium. The mycelium functions as a live
+                    sensor, maintaining continuous correspondence with its environment. Electrical signals
+                    within the fungal networks fluctuate in response to changes in environmental conditions,
+                    including humidity, temperature, and vibration. While scientific research into fungal electri-
+                    cal signalling remains an open and evolving field, this project does not treat such signals as
+                    empirical evidence of cognition or communication. Instead, these signals are understood as
+                    expressions of living biological logic and as material events within a relational assemblage,
+
+
+
+                                                                                 https://doi.org/10.3390/arts15040069
+Arts 2026, 15, 69                                                                                             3 of 23
+
+
+
+                    which are translated into changes in light and sound. These transformations shape audience
+                    movement, attention, and affective state. Through these feedback loops, perception and
+                    sensing become relational events rather than properties of any single subject. They circulate
+                    across assemblages of bodies, materials, and technologies, where each element both senses
+                    and is sensed.
+                          Contemporary art practice is at the core of this approach. It does not serve as a
+                    translator of scientific or technical processes, nor does it seek to validate scientific claims
+                    through artistic means. Rather than illustrating predetermined theoretical positions, each
+                    installation emerges from direct engagement with living mycelium and computational
+                    systems. These installations generate embodied, aesthetic spatial encounters that chal-
+                    lenge dominant AI imaginaries in ways that conventional text-based academic discourse
+                    cannot achieve.
+                          The installations function as both research outputs and research methods, serving
+                    as complex sites of encounter where theoretical provocations are tested through material
+                    operation, where material processes reveal properties that cannot be fully anticipated in
+                    advance, and where collective assemblages enable new ways for intelligence, technology,
+                    and coexistence to come ‘to presence’. Each installation creates an environment in which
+                    entities, human, more-than-human, and technical, perform, adapt, and co-develop. Knowl-
+                    edge is produced here performatively and relationally, rather than through abstraction,
+                    generalisation, or representational claim-making.
+                          Working with mycelium demands an ethics of care enacted through practice. The
+                    mycelium organism requires specific environmental conditions, protection from dehy-
+                    dration and contamination, appropriate temperature ranges, and suitable substrates for
+                    growth. These are not merely technical requirements. They are ethical obligations that
+                    arise from the conceptual framework of symbiosis. Our research is consequently grounded
+                    in an ethics of care, using a practice-led, philosophical, and discursive methodology of
+                    thinking-through-making. Within this framework, care is understood not as an external
+                    value applied to intelligence, but as a constitutive condition of its emergence.
+                          In parallel with the creation and exhibition of installations, we conduct community
+                    workshops that invite participants, particularly those with lived experiences underrepre-
+                    sented in mainstream AI discourse, to reconsider AI through the lens of mycelial symbiosis.
+                    These workshops function as sites of collective reflection and encounter rather than as
+                    empirical data collection. While they do not form part of the formal research methodology
+                    and are not recorded as data, they actively inform the evolution of the artistic practice and
+                    the conceptual frameworks that emerge from it, contributing to broader efforts to expand
+                    the scope of debate surrounding AI futures.
+                          The research generates multiple forms of documentation: technical records of sensor
+                    behaviour, aesthetic documentation of exhibition experiences, and theoretical reflections
+                    that trace the dialogue between making and thinking. Analysis occurs through ongoing
+                    reflection on the relationships between these different registers of knowledge, explicitly
+                    recognising artistic practice as a rigorous and legitimate mode of knowledge production
+                    with its own epistemological grounding. This positions the research within the field of
+                    artistic research, where art practice is recognised not as a supplement to theory, but as a
+                    site where theory is produced, transformed, and contested through material engagement.
+                          Through these recursive processes of making, exhibiting, and collective reflection, SI
+                    exposes and reimagines the conceptual beliefs and mythologies circulating within Western
+                    AI developer cultures. Rather than claiming direct influence on technical development,
+                    the project intervenes at the level of imaginaries by reshaping the narrative, ethical, and
+                    perceptual conditions through which intelligence is understood. By juxtaposing artistic,
+                    biological, and computational modes of thinking, the project cultivates spaces for critical
+
+
+
+                                                                                 https://doi.org/10.3390/arts15040069
+Arts 2026, 15, 69                                                                                               4 of 23
+
+
+
+                    and ethical imagination, proposing models of sustainable coexistence between human,
+                    more-than-human, machinic, and ecological forms of intelligence.
+
+                    3. Interference Spores
+                         The first installation created as part of the research was Interference Spores (Figure 1).
+                    It was exhibited at season.s.z.n. Gallery in London in June 2023 as part of A pAIn in the. . .,
+                    an exhibition and programme of workshops exploring critical narratives surrounding AI.
+                    The installation took the form of an augmented mycelium network, combining living
+                    fungal material with technological systems to explore hybrid modes of communication and
+                    interaction.
+
+
+
+
+                    Figure 1. Interference Spores.
+
+                         Mycelium is a complex, interconnected network formed by countless individual
+                    hyphae, fine thread-like filaments that grow and branch to explore and decompose their
+                    environment. Together, these hyphae create a living system that enables fungi to exchange
+                    nutrients, communicate chemically, and sustain entire ecosystems. Mycelium has evolved
+                    through forming strong symbiotic relationships with other species, and, according to
+                    Adam Adamatzky, Professor of Unconventional Computing at the University of the West
+                    of England, Bristol, “it uses neural-like spikes in electrical activity to share and process
+                    information throughout its large, entangled network of hyphae.” (Adamatzky 2022) He
+                    further explains:
+                        “We found evidence of spike trains propagating along the mycelium network. We specu-
+                        lated that fungal electrical activity is a manifestation of the information communicated
+                        between distant parts of fungal colonies. We adopted a framework of information en-
+                        coding into spikes in neural systems and assumed that the information in electrical
+                        communication of fungi is encoded into trains of spikes.” (Adamatzky 2022)
+                         Inspired by Adamatzky’s research, Interference Spores (Figure 1) sought to connect
+                    with the Grey Oyster mycelium’s intricate patterns of electrical signalling. Using a custom-
+                    designed voltage divider, the system aimed to detect electrical amplitudes ranging from
+                    0.03 to 2.1 mV, as identified in Adamatzky’s (2022) study. These spikes in electrical activity
+                    were visualised through a sculptural array of lights that momentarily dimmed in response
+                    to each detected signal within the mycelium. The augmentation of the fungal network with
+                    an installation of eight one-metre-long red, neon-like lights enabled viewers to perceive the
+
+
+                                                                                   https://doi.org/10.3390/arts15040069
+Arts 2026, 15, 69                                                                                                       5 of 23
+
+
+
+                    Morse code-like sequences of electrical impulses generated and transmitted through the
+                    mycelial network.
+                          In addition, Interference Spores (Figure 1) incorporated a Wi-Fi jammer that emitted
+                    disruptive signals into the gallery’s wireless network whenever a spike was registered in the
+                    fungal system. From a narrative fiction perspective, the installation was conceived as the
+                    first encounter between an organic, living network and the global digital internet, a meeting
+                    point between mycelial and machinic forms of distributed intelligence, an interaction that,
+                    through the use of the WI-FI jammer, remained ambiguous as to its intent or purpose.
+
+                    4. AI Narratives: The Role of Narratives in AI Development
+                         . . . digital life is the natural and desirable next step in the cosmic evolution and that if we
+                         let digital minds be free rather than try to stop or enslave them, the outcome is almost
+                         certain to be good. (Larry Page (Quoted in Tegmark 2017, p. 35))
+                          Artificial Intelligence has become emblematic of the contemporary historical moment.
+                    In this section, we focus specifically on the dominant public and para-academic narratives
+                    that circulate widely and shape the broader cultural imagination of AI, particularly within
+                    Western, English-speaking contexts. Rather than attempting a comprehensive survey of
+                    technical research or institutional discourse, our concern is with the influential stories, man-
+                    ifestos, speculative texts, and developer imaginaries that condition how AI is understood,
+                    discussed, and oriented within AI developer communities and beyond. AI, particularly
+                    machine learning, underpins a wide range of everyday technologies, including Google
+                    search algorithms, predictive text, targeted advertising, facial recognition, and digital
+                    personal assistants such as Amazon’s Alexa. Machine learning also lies at the heart of a
+                    new, disruptive economy that promises to transform activities ranging from autonomous
+                    driving to artistic production. It has already been deployed by police forces to predict crime
+                    (Richardson et al. 2019) and by the United States Transportation Security Administration to
+                    identify potential terrorists (Krywko 2017). In healthcare, it has been applied to improve
+                    the accuracy of cancer diagnosis (Savage 2020). AI is thus already deeply implicated in
+                    cultural and social transformation, reshaping work, social relations, and politics. Artificial
+                    Intelligence is not merely a technological development but a socially transformative force.
+                          We are currently experiencing an overwhelming proliferation of discourse concerning
+                    both the current and future implications of AI. Yet, despite its pervasive presence, defin-
+                    ing what AI actually is remains increasingly difficult. Distinguishing between AI as a
+                    technological reality and AI as science fiction and understanding the ways in which these
+                    two domains intersect poses a significant conceptual challenge. To address this, many AI
+                    researchers differentiate between three forms of AI:
+                    1.   Artificial Narrow Intelligence (ANI) describes currently existing AI designed to perform
+                         specific tasks, such as object recognition, playing chess, or identifying patterns in
+                         data. ANI remains restricted to the tasks it was designed for, and lacks consciousness,
+                         sentience, or emotion (Jajal 2018).
+                    2.   Artificial General Intelligence (AGI), also known as strong AI, is “a system that can tackle
+                         increasingly complex problems, at human level, in many fields” (Altman 2025). AGI
+                         is expected to reason, solve problems, make judgments under uncertainty, plan, learn,
+                         integrate prior knowledge, and display creativity and imagination (Jajal 2018). Such
+                         AI systems, or strong AI, are also anticipated to be capable of human-like thought,
+                         moral reason, sentience, and consciousness. (Chimakonam 2024, p. 3). AGI does not
+                         currently exist, but it is actively researched.
+                    3.   Artificial Superintelligence (ASI) refers to the stage at which a conscious machine vastly
+                         exceeds human intelligence in every domain. AGI is seen as the necessary precur-
+                         sor to ASI. The arrival of ASI has sometimes been held to herald the “Singularity”
+
+
+                                                                                         https://doi.org/10.3390/arts15040069
+Arts 2026, 15, 69                                                                                                   6 of 23
+
+
+
+                         (Kurzweil 2005, 2024), a threshold into an unknowable and unimaginable future
+                         (y Arcas 2025, p. 469).
+                         Although these distinctions are problematic, they offer a useful framework for differ-
+                    entiating between existing and speculative technologies. Present implementations of AI
+                    correspond to ANI, while AGI and ASI remain hypothetical constructs that currently exist
+                    only as future narratives. This paper argues that AI research is, at its core, a practice of
+                    futuring, a process of envisioning alternative futures enabled by technological development.
+                    The role of such narratives, and the openly creative imaginaries they produce, remains
+                    under-theorised within AI research. Narratives surrounding AI, in particular AGI, act as
+                    powerful drivers within AI’s broader technological evolution. While the technical chal-
+                    lenges of AI are central to its development, understanding the futuring practices implicit
+                    in this research is crucial for generating new hypotheses, informing methodologies, and
+                    expanding the collective epistemology of the field.
+                         While the social, cultural, and political implications of ANI form an essential backdrop
+                    to this study, the focus of Symbiotic Intelligence is on the narrative ecologies of AGI and
+                    ASI, which subtly structure and inform AI’s overall direction. Narratives perform the
+                    crucial function of shaping the imaginaries around which new technologies are conceived.
+                    They possess the power to actualise themselves through their influence on technological
+                    development. For instance, the creation of a conscious, human-like artificial intelligence,
+                    once dismissed as pure fantasy, is now a declared objective of some of the world’s most
+                    powerful corporations, including OpenAI and Google DeepMind.
+                         AI is fundamentally an act of futuring the present, one that requires a reversal of
+                    temporal conditioning so that future requirements can be articulated in the present. This
+                    process can only occur through the imaginative work of visionary narratives. In his On the
+                    Mode of Existence of Technical Objects, Gilbert Simondon articulates this temporal inversion:
+                        “What is involved here, then, is a conditioning of the present by the future, or by what
+                        up to now does not exist. . . [It] depends upon a capacity for the organisation of elements
+                        in terms of requirements that are meaningful as a whole in relation to the goal towards
+                        which they aim and that act as symbols of a future ensemble as yet without existence.”
+                        (Simondon 1980, p. 50)
+                         This reconfiguration of time, folding the future into the present, is precisely the work
+                    performed by AI narratives. Through constructing imagined futures, AI research lays the
+                    conceptual foundations required to materialise those futures in the present. This is not,
+                    however, a linear process of cause and effect (Narrative → Production). Rather, the future
+                    conditions the present through a dynamic interplay of competing potentials: technical
+                    capability, political and economic forces, regulation, ethics, and, centrally, the creative
+                    imagination.
+                         Simondon (1980, p. 50) described the background processes underpinning the produc-
+                    tion of technical objects as their associated milieu. He writes:
+                        “The unity of that future associated milieu in which causal relationships will be so deployed
+                         as to make possible the functioning of the new technical object is represented or acted out
+                         by systems of the creative imagination, in much the same way as an actor can play a role
+                         in the absence of the real person.”
+                        Paraphrasing Simondon, a crystal forms within a supersaturated milieu. Its precise
+                    formation cannot be predicted, as it depends on a multiplicity of energetic factors. However,
+                    a knot in a string can create a seed around which the crystal takes shape. Similarly, AI
+                    narratives, grounded in contemporary technological understanding, function as seeds
+                    around which AI development coalesces.
+
+
+
+
+                                                                                      https://doi.org/10.3390/arts15040069
+Arts 2026, 15, 69                                                                                              7 of 23
+
+
+
+                          Simondon makes explicit the circular causality between creative imagination and
+                    technical invention. Each possesses its own modality: the virtual and the actual. The
+                    virtual encompasses relations of sensation, intensity, and imagination situated within
+                    a social, political, cultural, economic, and environmental milieu. It has the capacity to
+                    fold time, acting upon material reality. The actual refers to the material production of
+                    technical objects, bound by the affordances and limitations of contemporary technology.
+                    Narratives transform the potential inherent in the actual by projecting them into the virtual
+                    domain of the future, enabling new technical objects to emerge, and with them, new
+                    imaginaries. The narratives that produce AI imaginaries play an important, but little-
+                    documented, role in the AI development process. As Donna Haraway asserts, “It matters
+                    what stories make worlds, what worlds make stories” (Haraway 2016, p. 12). AI is a
+                    world-making technology; therefore, it matters what stories make AI. This means moving
+                    beyond the academic computer science papers and conferences that focus on technical
+                    development and take seriously, not in content but as imaginaries that have real-world
+                    impact, some of the more fringe esoteric narratives that circulate within the para-academic
+                    sphere of internet blogs, Substacks, and meet-ups that form the associated milieu of AI
+                    technical development. Globally, multiple cultural AI imaginaries and cosmologies exist,
+                    emerging under their own situated social, political, cultural, and economic pressures. See,
+                    for example, (Bratton et al. 2025, pp. 357–75) on Western and Chinese AI imaginaries, or
+                    Lewis et al. (2018) on Indigenous cosmologies. Within this paper, AI imaginaries refer
+                    specifically to those circulating within a Western, English-speaking context, with a centre
+                    of gravity around Silicon Valley in the United States.
+                          Silicon Valley and its broader sphere of influence are characterised by a proliferation
+                    of experimental cultural and political narratives that combine theoretical discourse with
+                    speculative fiction (Raulerson 2013; Brusseau 2023; Oldenburg and Papyshev 2025). These
+                    include, among many others, movements such as Transhumanism, Effective Altruism,
+                    Accelerationism, and explicitly technology-oriented political currents, notably the Neo-
+                    Reactionary movement. A recurrent theme within many of these AI imaginaries is the
+                    application of evolutionary logics transposed from biological systems into AI development
+                    and extended to reimagine AI as a non-human agency shaped by the same evolutionary
+                    pressures as biological life, culminating in an existential threat posed by humans being
+                    outcompeted by a superior intelligence. Variations of this narrative appear among both
+                    proponents of AI and those who oppose its development.
+                          The connection between AI and evolution featured at the very birth of the concept
+                    of artificial intelligence. In 1950, Alan Turing published his seminal article Computing
+                    Machinery and Intelligence in the journal Mind. This paper is widely regarded as foundational
+                    to the development of AI and introduced what is now commonly referred to as the Turing
+                    Test. Alongside the Test, Turing argued that, rather than attempting to construct an artificial
+                    adult intelligence from the outset, researchers should begin with a model of a child’s mind
+                    that could be educated and developed over time. Within this text, Turing advanced artificial
+                    evolution as a methodological approach to the development of AI, writing:
+                        “There is an obvious connection between this process and evolution. . . One may hope,
+                        however, that this process will be more expeditious than evolution. The survival of the
+                        fittest is a slow method for measuring advantages. The experimenter, by the exercise of
+                        intelligence, should be able to speed it up.” (Turing 1987)
+                         In his conclusion, Turing remarks, “We may hope that machines will eventually compete
+                    with men in all purely intellectual fields” (Turing 1987). Echoes of Turing’s evolutionary
+                    analogy can be traced through concrete AI development, particularly within the biomimicry
+                    of computer science fields researching evolutionary algorithms, evolutionary hardware, and
+
+
+
+
+                                                                                  https://doi.org/10.3390/arts15040069
+Arts 2026, 15, 69                                                                                                8 of 23
+
+
+
+                    Artificial Life, to the futurological, technocentric reinterpretations of evolution reflected in
+                    transhumanist writers such as Kurzweil (2005, 2024) and Bostrom (2004, 2014).
+                          Nugent (2025, p. 2) provides an in-depth study of evolutionary narratives in comput-
+                    ing, observing that, “the origin, competition, adaptation, and extinction of species are an
+                    intrinsically exciting and relatable story on a grand scale. There are winners and there are
+                    losers, in the epic battle to ensure survival and the creation of a lineage.” She recognises the
+                    powerful, inspirational role evolutionary narratives play within actual AI development
+                    while raising the important critical question about the compatibility of transposing evolu-
+                    tionary theory from the biological into the technical domain. She is particularly concerned
+                    with how evolutionary imaginaries influence public perception of AI and the presumption
+                    that evolutionary logics can be uncritically translated to understand the emergence of AI.
+                          A good example of how evolutionary imaginaries are currently being invoked comes
+                    from the growing field of AI Existential Risk in Dan Hendrycks’ (2023) paper Natural
+                    Selection Favors AIs over Humans. Dan Hendrycks (2023) applies Darwinian evolutionary
+                    logic to AI development, arguing that competitive pressures among corporations and
+                    militaries will inevitably produce agents with selfish, deceptive traits that pursue power
+                    with disregard for human welfare. His analysis exemplifies how AI futures are imagined
+                    through competitive evolutionary frameworks, positioning intelligence as a zero-sum
+                    contest where superior agents dominate or eliminate inferior ones.
+                          Hendrycks’ paper is primarily a thought experiment that projects into the future in
+                    order to consider how the environment within which AI is developed, specifically corporate
+                    and military contexts, might shape the technologies that emerge. Such uses of narrative
+                    are entirely valid and can serve as effective tools for both ideation and critique within
+                    AI development. However, Hendrycks’s reliance on evolutionary narratives functions
+                    less as a form of critique and more as a mode of mystification. Rather than offering a
+                    careful translation of Darwin’s theory of evolution into the technical realm, Hendrycks
+                    presents a caricature of Darwinian evolution. Its emphasis on the competitive advantage of
+                    selfish behavioural traits over altruistic ones aligns more closely with rival Silicon Valley
+                    ideologies, such as effective altruism versus the accelerationism of techno-optimists, than
+                    with a genuine engagement with the complexities of evolutionary theory.
+                          In contemporary AI discourse, the area most associated with evolutionary narratives
+                    is in the speculative territory of Artificial General Intelligence. Within this field, many AI
+                    developers understand their work as part of an ongoing evolutionary process. This view is
+                    articulated by Jürgen Schmidhuber, co-director of the Dalle Molle Institute for Artificial
+                    Intelligence Research in Lugano, Switzerland, and a key figure in the development of
+                    neural networks used by Apple’s Siri and Amazon’s Alexa. In an interview for the film
+                    iHuman, Schmidhuber reflects:
+                        “I’m not a very human-centric person. I think I am a small stepping stone in the evolution
+                         of the universe towards higher complexity. . . Humankind is not the crown of creation,
+                         but we are setting the stage for something bigger, something that transcends us and will
+                         transform the universe.” (Hessen Schei 2019)
+                          Nick Bostrom, former director of Oxford’s Future of Humanity Institute, has signifi-
+                    cantly shaped AI imaginaries around existential risk. In Superintelligence: Paths, Dangers,
+                    Strategies (2014), Bostrom explores how machines more intelligent than humans might
+                    emerge and rapidly self-improve, threatening human dominance. Although not explicitly
+                    grounded in biological evolution, evolutionary imagery pervades his framing: humanity
+                    resembles an earlier species confronted with a more capable successor, rendered vulnerable
+                    through comparative inferiority.
+                          This evolutionary framing becomes explicit in Bostrom’s The Future of Human Evolu-
+                    tion (2004), which considers scenarios where digitally instantiated minds or AI systems
+
+
+                                                                                    https://doi.org/10.3390/arts15040069
+Arts 2026, 15, 69                                                                                               9 of 23
+
+
+
+                    gradually appropriate resources and power, leaving humans increasingly marginalised.
+                    Within these narratives, evolution suggests that AGIs capable of competing with hu-
+                    mans are inevitable. As Nugent (2025, p. 7) observes, “these planetary-level evaluations
+                    tend to over-simplify a great deal of scientific research without formally engaging in or
+                    referencing evolutionary discourse to an extent that would be expected for such broad
+                    macro-evolutionary claims.”
+                         Hugo de Garis’ The Artilect War (de Garis 2008) fictionalises this evolutionary conflict,
+                    predicting that twenty-first-century politics will be dominated by “species dominance”:
+                    whether humanity should construct artilects possessing intelligence trillions of times greater
+                    than humans. De Garis identifies two factions, ‘Cosmists’, who view building artilects as
+                    humanity’s evolutionary duty, and ‘Terrans’, who see them as existential threats that may
+                    eliminate humanity. Kevin Warwick proposes a third position: Cyborgians, who merge
+                    with technology through augmentation. De Garis’s fiction is useful insofar as it offers a
+                    clear caricature of ideological positions commonly adopted in response to the prospect
+                    of a future superintelligence. What is significant, however, is that all three positions
+                    presuppose an unproblematic transposition of Darwinian competition from biological to
+                    technological domains.
+                         Marc Andreessen’s Techno-Optimist Manifesto (Andreesen 2023) represents this evolu-
+                    tionary thinking in contemporary Silicon Valley discourse. Advocating for unconstrained
+                    technological acceleration, Andreessen positions technology as the fundamental driver of
+                    human flourishing and frames development as an evolutionary imperative. This effective
+                    accelerationism (e/acc) rejects regulation in favour of rapid AI advancement as a catalyst
+                    for evolutionary transformation. The manifesto encapsulates its evolutionary ethos by
+                    declaring: “We believe in competition, because we believe in evolution. We believe in
+                    evolution, because we believe in life.”
+                         These narratives, whether framing AGI as an existential threat (Bostrom), species-level
+                    conflict (de Garis), or evolutionary duty (Schmidhuber), share a common substrate: intel-
+                    ligence understood through competitive evolutionary frameworks where superior forms
+                    inevitably dominate or displace inferior ones. Andreessen makes this logic explicit, declaring:
+                        “We are not victims, we are conquerors. We believe in nature, but we also believe in
+                        overcoming nature. We are not primitives, cowering in fear of the lightning bolt. We are
+                        the apex predator; the lightning works for us.” (Andreesen 2023)
+                          Through artistic research, Symbiotic Intelligence observes how evolutionary narratives,
+                    whether depicting humans as a dominant force over AI and nature or envisioning AI as
+                    surpassing and dominating humanity, repeatedly surface within AGI discourse, particularly
+                    among developer communities, speculative future texts, and in technology manifestos.
+                    Although AI is technically actualised in computer science and engineering, its conceptual
+                    development is entangled with cultural narratives ranging from science fiction and esoteric
+                    philosophy to avant-garde political movements. While the relationship between such
+                    narratives and mainstream research methodologies is complex and indirect, these stories
+                    circulate through developers, funding discussions, and public discourse. They function
+                    as narrative ecologies that influence how intelligence is conceived and what kinds of
+                    intelligence are pursued and valued.
+                          Through artistic practice co-created with mycelium, this paper interrogates dominant
+                    evolutionary narrative patterns and their genealogies, proposing alternative conceptual
+                    frameworks. The installation described below was conceived and developed in response to
+                    and in opposition to competitive imaginaries of artificial intelligence.
+
+
+
+
+                                                                                   https://doi.org/10.3390/arts15040069
+Arts 2026, 15, 69                                                                                           10 of 23
+
+
+
+                    5. Interference Spores 2.0
+                          Interference Spores 2.0 (Figure 2) was exhibited as part of the radical ⇌ matter, When
+                    Materialism is No Longer Enough exhibition held at the Angewandte Interdisciplinary Lab
+                    (AIL) in Vienna, between 26 January and 16 February 2024. The earlier presentation of
+                    Interference Spores (Figure 1) at season.s.z.n gallery had revealed several conceptual and
+                    technical issues that were subsequently explored and addressed in this second iteration.
+                    Two key challenges had become apparent during the development of the first installation.
+                    Firstly, as our initial attempt to work with living mycelium, we were still in the process of
+                    understanding the organism’s behaviour, environmental needs, and growth patterns. In
+                    the first version of the installation, the mycelium had been placed directly on the gallery
+                    floor without protection. This environment proved unsuitable for the organism, as the low
+                    temperature inhibited natural growth, and the absence of adequate containment caused the
+                    substrate, the decaying wood material that serves as both nourishment and habitat, to begin
+                    drying out. This arrangement also rendered the mycelium vulnerable to mould infection.
+
+
+
+
+                    Figure 2. Interference Spores 2.0.
+
+                          Recognising that Interference Spores (Figure 1) was premised on the narrative of sym-
+                    biosis, we concluded that the installation demanded a corresponding ethics of care towards
+                    the living organism. In Interference Spores 2.0 (Figure 2), this issue was resolved through
+                    an enclosed incubator system, in which the mycelium was cultivated within transparent
+                    tubes, thereby protecting it from dehydration and contamination. Through this process, we
+                    came to understand that engaging with mycelium artistically also required an enactment
+                    of the politics of care implicit in our conceptual framework.
+                          A further refinement in Interference Spores 2.0 (Figure 2) concerned the method by
+                    which we connected to, and interpreted, the mycelium’s hypothesised internal commu-
+                    nications: the electrical spikes of activity occurring within its network of hyphae. In the
+                    first version, we had used DIY electronic sensors to monitor voltage fluctuations; however,
+                    the unshielded circuitry proved oversensitive to ambient electromagnetic noise within the
+                    gallery. We frequently recorded apparent bursts of electrical activity that correlated with
+                    environmental factors such as the activation of the air conditioning system. It remained
+                    unclear whether these readings were genuine biological signals responding to tempera-
+
+
+                                                                                https://doi.org/10.3390/arts15040069
+Arts 2026, 15, 69                                                                                             11 of 23
+
+
+
+                    ture changes, or artefacts produced by electromagnetic interference from the mechanical
+                    system itself.
+                         While the project operates within an artistic rather than a scientific framework, valuing
+                    speculative engagement and the generation of new imaginaries beyond empirical verifica-
+                    tion, we nonetheless considered it important to maintain a degree of technical rigour in
+                    our claims to connect with the mycelium’s electrical activity. Consequently, Interference
+                    Spores 2.0 employed a PicoLog 1216 Voltage Data Logger (range 0–2.5 V, 4096 discrete
+                    voltage levels), allowing for a more accurate and stable measurement of the mycelium’s
+                    electrical spikes.
+                         As with the first iteration, the installation incorporated a Wi-Fi jammer that emitted
+                    disruptive signals into the gallery’s network, maintaining an intentional narrative ambi-
+                    guity as to whether the mycelium was attempting to communicate with or interfere with
+                    digital transmissions. Iteration 2.0 also included an array of lights arranged in a geometric
+                    configuration (Figure 2), establishing a visual tension between the structured geometry
+                    of the technological elements and the organic, unpredictable forms of the mycelium as it
+                    fruited. Over time, the emergence of mushrooms and the dispersed white spores within
+                    the installation disrupted the precise linear arrangement of the lights, visually enacting
+                    the theme of organic–technological entanglement. Two monitors accompanied the installa-
+                    tion: one displaying a real-time visualisation of the electrical spikes recorded within the
+                    mycelium, and the other presenting a looping film that visually explored symbiosis in the
+                    organic world, thereby adding an additional narrative layer to the installation.
+                         Symbiosis operates as a counter-narrative to competitive AI imaginaries, offering a
+                    more nuanced understanding of adaptation, one grounded in cooperation, interdependence,
+                    and mutual flourishing within a shared ecological niche rather than hierarchical dominance.
+                         A compelling example of this principle can be found in the relationship between
+                    orchids and their mycorrhizal fungi. Orchid seeds, lacking sufficient nutrient reserves
+                    for germination and early development, depend entirely upon a symbiotic partnership
+                    with specific fungal species. The mycelium of these fungi penetrates the seed, supplying
+                    it with essential nutrients such as carbon and nitrogen drawn from the surrounding envi-
+                    ronment. Once the orchid matures and becomes capable of photosynthesis, it reciprocates
+                    by providing the fungus with sugars derived from its metabolic processes. This delicate
+                    exchange exemplifies the profound interdependence that characterises fungal symbiosis,
+                    revealing how mycelial networks have co-evolved with plants to form resilient systems of
+                    reciprocity and adaptation. Within the context of our research, such relationships provide
+                    a generative framework for reimagining alternative models of intelligence, models that
+                    prioritise collaboration over competition and that challenge the individualistic, extractive
+                    logics often embedded in contemporary AI narratives.
+
+                    6. General Intelligence: Social Darwinism, Eugenics and the G-Factor
+                         Mitigating the risk of extinction from AI should be a global priority alongside other
+                         societal-scale risks such as pandemics and nuclear war. (Centre for AI Safety)
+                         The above statement, published in 2023 by the Centre for AI Safety, a San Francisco-
+                    based non-profit organisation, was endorsed by more than 350 prominent AI executives,
+                    researchers, and engineers, including Sam Altman (OpenAI), Demis Hassabis (Google
+                    DeepMind), and Dario Amodei (Anthropic). More recently, in October 2025, Geoffrey
+                    Hinton, a leading computer scientist and former Google executive whose pioneering work
+                    on neural networks laid the foundations for modern AI, warned that artificial intelligence
+                    could have catastrophic consequences, estimating a 10–20% likelihood that it could lead to
+                    human extinction.
+
+
+
+
+                                                                                  https://doi.org/10.3390/arts15040069
+Arts 2026, 15, 69                                                                                            12 of 23
+
+
+
+                          The validity of such existential claims, or the motivations underlying their amplifica-
+                    tion, is not a focus for Symbiotic Intelligence. However, it is notable that the Centre for AI
+                    Safety’s statement omits reference to the well-documented, and arguably more immediate,
+                    civilisation-scale risk of climate warming. This omission appears particularly significant
+                    given the escalating environmental impact of large-scale AI infrastructures. For instance,
+                    OpenAI and NVIDIA’s recently announced strategic partnership aims to develop at least
+                    10 gigawatts of AI data centres equipped with NVIDIA systems, representing millions of
+                    GPUs, to support OpenAI’s next generation of models and what the company describes
+                    as the ‘path to superintelligence’ (OpenAI 2025). According to The Financial Times, this
+                    energy demand is equivalent to the output of ten nuclear reactors (Criddle et al. 2025). The
+                    absence of critical acknowledgement regarding the ecological implications of developing
+                    AI through brute computational power, and the consequent entanglement of AI production
+                    with climate change and potential species extinction, reveals a significant gap within the
+                    prevailing AI imaginary, a gap that SI seeks to interrogate and address.
+                          The fundamental question raised by the recurring concerns expressed by AI executives,
+                    researchers, and developers about humanity’s potential domination or extinction by a
+                    superior intelligence is therefore not merely technical or ethical, but narrative in nature.
+                    Why do conceptions of intelligence, particularly within AI development cultures, so readily
+                    translate into imaginaries of control, subjugation, and annihilation? Why, in the imagination
+                    of the AI developer, does the idea of superintelligence appear so persistently intertwined
+                    with the existential threat of extinction? This question brings together the observation from
+                    the previous section that evolution is central to AI narratives with the dominant narrative
+                    of intelligence itself.
+                          In her 2019 book Morphing Intelligence, Catherine Malabou traces the historical emer-
+                    gence and subsequent transformations of the concept of intelligence, presenting it not
+                    as a fixed or coherent entity, but as a mutable and evolving narrative (Malabou 2019).
+                    She acknowledges that while the notion of intellect existed in the ancient world, com-
+                    monly understood as the faculty of the mind responsible for reasoning, understanding,
+                    and discerning truth, the modern concept of intelligence only truly emerged in the nine-
+                    teenth century, shaped by the development of psychology and, in particular, the work of
+                    Francis Galton.
+                          Francis Galton, a Victorian polymath and cousin of Charles Darwin, played a pivotal
+                    role in defining the modern conception of intelligence. Building on his interpretation of
+                    Darwinian evolutionary theory, Galton sought to apply the principles of heredity and
+                    natural selection to human mental and moral capacities, proposing that intelligence was an
+                    innate, measurable, and heritable trait. This notion was central to his broader project of
+                    eugenics, a term he himself coined in 1883 to mean ‘good in stock, hereditarily endowed
+                    with noble qualities’ (Galton 2004, p. 17). Eugenics, for Galton, represented a programme
+                    to encourage the reproduction of those deemed the ‘best’ members of society (positive
+                    eugenics) and to discourage or prevent reproduction among those considered the ‘worst’
+                    (negative eugenics) (Allen 2001). As a committed social Darwinist, Galton’s work on hered-
+                    ity, particularly his experiments on inherited traits in sweet peas, led to his formulation
+                    of linear regression, a mathematical concept that would later become foundational to the
+                    development of machine learning (Stanton 2001).
+                          Galton established the first scientific department dedicated to the promotion of eu-
+                    genics at University College London, and was later succeeded by his protégé Karl Pearson
+                    (McQuillan 2022, p. 87). Pearson, like Galton, was an advocate of eugenics, social Dar-
+                    winism, and scientific racism. In National Life from the Standpoint of Science, Pearson
+                    wrote: “Our view, and I think it may be called the scientific view of a nation, is that of an
+                    organised whole, kept up to a high pitch of internal efficiency by ensuring that its numbers
+
+
+
+                                                                                 https://doi.org/10.3390/arts15040069
+Arts 2026, 15, 69                                                                                                13 of 23
+
+
+
+                    are substantially recruited from better stocks, and kept up to a higher pitch of external
+                    efficiency by contest, chiefly by way of war with inferior races” (Pearson 1901, p. 44). One
+                    of the researchers at Pearson’s Eugenics Laboratory, Charles Spearman, was similarly influ-
+                    enced by Galton’s ideas. Spearman developed a statistical method for quantifying human
+                    intelligence, introducing the concept of general intelligence, referred to as the g-factor. He
+                    and his collaborators constructed a hierarchical framework of assumptions: that IQ reflects
+                    a quantifiable entity called intelligence, that this factor is largely innate, and that it both
+                    represents and legitimises observable social hierarchies (Smith 2019). Charles Spearman
+                    formulated the concept of general intelligence, or the g-factor, through his two-factor the-
+                    ory, which proposes that intelligence comprises a general cognitive ability and a range of
+                    specific skills. Drawing on statistical analyses of performance across diverse cognitive tasks,
+                    Spearman identified correlations that suggested the presence of an underlying general
+                    intelligence. This construct, he argued, could be quantified to yield a measurable value
+                    by which individual intellectual ability might be assessed. In this respect general Intelli-
+                    gence was always computational in that ultimately the definition of general intelligence
+                    relies on a mathematical calculation reducible to a g-factor score. The emergence of the
+                    concept of general intelligence coincided with the scientific rationalisation of colonialism,
+                    the institutionalisation of eugenics, and the desire to categorise human populations into
+                    evolutionary hierarchies. Galton himself expressed this view explicitly, writing that ‘there
+                    exists a sentiment, for the most part quite unreasonable, against the gradual extinction of an
+                    inferior race.’ From even this brief examination of the genealogy of intelligence, it becomes
+                    clear that the contemporary association between superior intelligence and extinction is
+                    not unique to present-day AI imaginaries but is deeply embedded within the concept of
+                    general intelligence itself.
+                           The development of Artificial General Intelligence is the stated aim of both OpenAI
+                    and Google DeepMind. As OpenAI articulates: ‘OpenAI’s mission is to ensure that artificial
+                    general intelligence (AGI), by which we mean highly autonomous systems that outperform
+                    humans at most economically valuable work, benefits all of humanity. We will attempt to
+                    directly build safe and beneficial AGI’ (OpenAI 2018).
+                           At this point, it is worth returning to the definitions of AI employed by many re-
+                    searchers, as outlined at the beginning of this paper, specifically the ‘G’ in Artificial General
+                    Intelligence (AGI). The abstraction from specific intellectual abilities (the s-factor) to the
+                    notion of a general intelligence (the g-factor) is rooted in Spearman’s two-factor theory of
+                    intelligence. Ben Goertzel, who popularised the term Artificial General Intelligence, credits
+                    Shane Legg, the co-founder of DeepMind Technologies, with suggesting the term as the
+                    title for a book on approaches to powerful AI that Ben Goertzel and Cassio Pennachin were
+                    editing (Goertzel 2014, p. 2). However, it was the reception of that book, ‘Artificial General
+                    Intelligence’ (Goertzel and Pennachin 2007) that brought AGI into both the popular lexicon
+                    and the broader imaginary of AI discourse and development.
+                           The book contained contributions from leading thinkers on AGI at the time, including,
+                    amongst others, Jürgen Schmidhuber and Hugo de Garis. In their chapter, ‘What Is Artificial
+                    General Intelligence?’, Goertzel and Pennachin make explicit the connection between the
+                    concept of AGI and Spearman’s g-factor:
+                        “To understand why and how we pursue the holy grail of AGI, it’s necessary to understand
+                         what AGI is, and how it’s different from what the bulk of researchers in the AI field have
+                         come to refer to as “intelligence.” If narrow AI did not exist, we wouldn’t need the
+                         term “general intelligence” at all—we’d simply use the term “intelligence.” When we
+                         speak of human intelligence, after all, we implicitly mean general intelligence. The
+                         notion of IQ arose in psychology as an attempt to capture a “general intelligence” factor
+                         or g-factor, abstracting away from ability in specific disciplines. Narrow AI, however,
+
+
+
+                                                                                     https://doi.org/10.3390/arts15040069
+Arts 2026, 15, 69                                                                                                     14 of 23
+
+
+
+                         has subtly modified the meaning of “intelligence” in a computing context, to mean,
+                         basically, the ability to carry out any particular task that is typically considered to require
+                         significant intelligence in humans (chess, medical diagnosis, calculus, . . .). For this
+                         reason we have introduced the explicit notion of Artificial General Intelligence, to refer to
+                         something roughly analogous to what the g-factor is supposed to measure in humans.”
+                         (Goertzel and Pennachin 2007, p. 72)
+                            Artificial General Intelligence is understood as the ability of an intelligent agent
+                    to understand, learn, and perform any intellectual task as well as a human. In other
+                    words, it would display a form of general intelligence as defined by Spearman’s g-factor
+                    (McQuillan 2022, p. 88), a concept that emerged within a psychometric tradition historically
+                    entangled with hierarchical, eugenic, and colonial frameworks.
+                            We are not accusing Goertzel and Pennachin of direct association with the darker his-
+                    tory of general intelligence; however, beyond a brief line acknowledging that the “g-factor
+                    . . . is quite controversial” (Goertzel and Pennachin 2007, p. 6), their book contains no sus-
+                    tained critique of the problematic history of the concept. Critically, this is not a speculative
+                    genealogical connection: Goertzel and Pennachin explicitly ground AGI in the g-factor,
+                    stating their framework refers to “something roughly analogous to what the g-factor is
+                    supposed to measure in humans” (p. 72). This constitutes direct conceptual inheritance, the
+                    adoption of a hierarchical, quantifiable framework for intelligence that carries its eugenic
+                    and social Darwinist origins into contemporary AI discourse, regardless of the authors’
+                    intentions. While the historical pathway from psychometrics to computer science involves
+                    multiple mediations and appropriations, what matters here is not proving linear causation
+                    but identifying how the terminology itself, “general intelligence”, reactivates problematic
+                    associations within the contemporary AI imaginary. Moreover, as the AGI narrative shifts
+                    away from the more nuanced aspects of Goertzel’s work, it intuitively reawakens many of
+                    the problematic features of both the modern conception of intelligence (IQ) and the mathe-
+                    matically defined abstraction of general intelligence within the contemporary Western AI
+                    imaginary. This has been noted by McQuillan (2022), who writes:
+                        “A commitment to AGI and the associated reification of rationalism often comes with
+                        social imaginaries that revolve around intellectual elitism and beliefs about innate and
+                        biological superiority. It’s at this point that a belief in AGI start to evoke deeper historical
+                        notions about hierarchies of being.” (McQuillan 2022, p. 90)
+                          It is easy to see how, within the circulation of AI imaginaries, intelligence, when
+                    conceived as a quantifiable, hierarchical, and rankable attribute, can migrate from the
+                    technical domain and be applied to both humans and other species in ways not dissimilar
+                    to the intentions of the founders of general intelligence, Galton, Pearson, and Spearman.
+                    As Golumbia (2019) observes, there is ‘. . .an unusual amount of overlap between AGI
+                    promoters and those who believe in a strong correlation between what they call “race” and
+                    what they call “IQ”’. When such hierarchies have historically been mobilised to justify strat-
+                    ification among humans, as well as human domination over non-human life, intelligence
+                    becomes closely associated with evolutionary domination and extinction. This concern
+                    has been central to Western AI imaginaries from their emergence in science fiction, most
+                    notably in Isaac Asimov’s I, Robot (1950), through to thinkers such as Vinge (1993), Bostrom
+                    (2002), and Kurzweil (2005), and extending to more recent voices such as Hinton (2024).
+                          The following section examines SI’s installation Forest, an immersive social space that
+                    foregrounds the entanglement of humans, technology, and more-than-human ecologies,
+                    thereby challenging assumptions about the innate, individual, and competitive nature of
+                    intelligence revived by the re-emergence of general intelligence.
+
+
+
+
+                                                                                        https://doi.org/10.3390/arts15040069
+Arts 2026, 15, 69                                                                                           15 of 23
+
+
+
+                    7. Forest
+                         Forest (Figure 3) was the most complex installation created as part of the SI narrative
+                    and was exhibited at ReWilding AI: The Radical Mattering of Narrative Ecologies, held at the
+                    Royal College of Art, March 2025. The installation was a collaboration between SI (Shira
+                    Wachsmann, John Wild), Tom Simmons (Digital Direction), Samuele Albani (Augmented
+                    Reality (AR) technical developer), and Rían Stephens (Immersive Experience support). Forest
+                    was developed as a multiscreen and augmented reality installation specifically for the SNAP
+                    Visualisation Lab. A multi-screen exhibition environment at the Royal College of Art.
+
+
+
+
+                    Figure 3. Forest installation.
+
+                          Forest invites participants to navigate a dense, thousand-year-old forest reconstructed
+                    through LiDAR point cloud scans, offering a spatial encounter with the symbiotic intel-
+                    ligence of machines, fungi, birds, and the environment. The work explores multispecies
+                    co-evolution within a situated ecology, revealing how symbiosis and environmental factors
+                    shape perception, experience, and agency.
+                          At its core, the installation (Figure 3) employs living mycelium networks as biological
+                    sensors. The mycelium’s internal electrical activity is detected in real-time and visualised
+                    as flickering red lights, directly reflecting its internal signals. These biological data are
+                    integrated with computational models, including a flocking Boids algorithm, AI-generated
+                    birdsong that produces interactive human–bird soundscapes, and three-dimensional AR-
+                    rendered mycelium structures. The result is an immersive, responsive environment in
+                    which biological, machinic, and environmental inputs continuously interact with and
+                    transform one another.
+                          Forest comprises three interconnected elements:
+                    1.    An immersive LiDAR scan of an ancient banyan tree, now decaying, in a Hong Kong
+                          forest, accompanied by spatialised birdsong.
+                    2.    A living mycelium network with embedded sensors that translate electrical signals
+                          into flickering lights, making the organism’s internal communications perceptible to
+                          visitors.
+                    3.    A 3D augmented reality mycelium-inspired entity featuring AI-generated birdsong
+                          and evolving algorithmic behaviours.
+                          Through these components, the installation creates a social and reflective space in
+                    which visitors are invited to rethink dominant AI narratives of evolution and intelligence,
+                    opening new imaginaries of relationships between human, non-human, and technological
+                    intelligences.
+
+
+                                                                                https://doi.org/10.3390/arts15040069
+Arts 2026, 15, 69                                                                                                  16 of 23
+
+
+
+                          The installation’s narrative ecology enacts a relational, symbiotic logic modelled on liv-
+                    ing forest systems and their intricate interrelations and interdependencies. Its transmedial
+                    narrative structure draws on mycorrhizal networks and their capacity to connect individual
+                    plants with one another, forming dynamic relationships (Simard et al. 2012). This mutable
+                    ecology gestures towards the necessity of an ethics of symbiosis: an awareness of the
+                    benefits, complexities, and potential dangers embedded within interspecies co-creation.
+                    Such an ethic becomes essential if symbiosis is to serve as a framework for the ‘fictioning’
+                    (Burrows 2019) of more-than-human collaboration and intelligence.
+                          This sense of indeterminacy and transformation is expressed through what Fisher (2016)
+                    describes as the eerie: an affect that arises when something appears to possess agency that
+                    it should not. Within Forest, the dark, point-cloud-rendered woodland and the metallic,
+                    algorithmic birdsong of the AR environment evoke precisely this eerie quality, suggesting
+                    a landscape that hovers between the living and the machinic, the organic and the artifi-
+                    cial. Through these interactions, Forest proposes the notion of symbiotic and ecological
+                    algorithms, processes that do not merely analyse data but evolve through co-creation with
+                    living systems. In this way, the work reimagines AI as a symbiotic, ecological phenomenon:
+                    an emergent collective system shaped by environmental indeterminacy and multispecies
+                    collaboration.
+
+                    8. Symbiotic Intelligence—Counter-Narratives
+                          The two most dominant and interrelated features of AI future imaginaries identified
+                    through our investigation of AI narratives are (1) a conception of intelligence grounded in
+                    the notion of general intelligence, understood as an innate, biologically determined attribute
+                    that is internal to the individual, quantifiable and heritable, and (2) an understanding of
+                    intelligence as the product of a social process shaped by the principle of ‘survival of the fittest’.
+                          Within many AI imaginaries, evolution is construed in a manner that privileges compe-
+                    tition between self-interested individuals, or, in more extreme cases, reduces evolutionary
+                    theory to Herbert Spencer’s 1864 phrase ‘survival of the fittest’ (Spencer 1864, p. 444), a
+                    term later adopted, though more cautiously, by Darwin himself. Spencer is widely regarded
+                    as the progenitor of social Darwinism, a politically and economically motivated metaphysi-
+                    cal framework that diverged sharply from Darwin’s scientific reasoning and provided the
+                    intellectual foundations for eugenics and scientific racism. Darwin, by contrast, asserted
+                    in the preface to the 1872 edition of On the Origin of Species that he was “convinced that
+                    natural selection has been the main but not the exclusive means of modification.” For
+                    Darwin, the ‘struggle for existence’ was never a literal call to violent competition within
+                    a species, but rather a metaphor for survival under diverse environmental conditions.
+                    Reproductive success, the true criterion of natural selection, could be achieved not only
+                    through conflict but also through co-operation, symbiosis, and mutual aid (Gould 1988).
+                    As Darwin explains in On the Origin of Species:
+                        “I use this term [struggle for existence] in a large and metaphorical sense, including
+                        dependence of one being on another and including (which is more important) not only the
+                        life of the individual, but success in leaving progeny. . . As the mistletoe is disseminated
+                        by birds, its existence depends on birds; and it may metaphorically be said to struggle
+                        with other fruit-bearing plants, in order to tempt birds to devour and thus disseminate its
+                        seeds rather than those of other plants. In these several senses, which pass into each other,
+                        I use for convenience sake the general term of struggle for existence.” (Darwin 1859,
+                        p. 40)
+                         Dominant AI narratives that appropriate the concept of evolution, however, tend
+                    to interpret the ‘struggle for existence’ in purely combative terms, thereby reinforcing a
+                    hierarchical and competitive understanding of intelligence. This reductive view not only
+
+
+                                                                                      https://doi.org/10.3390/arts15040069
+Arts 2026, 15, 69                                                                                              17 of 23
+
+
+
+                    mirrors the ideological assumptions of nineteenth-century social Darwinism as articulated
+                    by Galton, Pearson, and Spearman, but also underpins speculative predictions of species-
+                    dominating conflict in which science and technology give rise to elite superior human
+                    beings or forms of artificial superintelligence.
+                          In what follows, we turn to alternative narratives of intelligence that challenge both
+                    the competitive evolutionary framework and the notion of intelligence as fixed individual
+                    capacity. Situating SI within emerging theoretical work, we foreground what practice-
+                    led research reveals that theory alone cannot: intelligence as material practice, as living
+                    circulation, as something that can be encountered, sensed, and co-created rather than
+                    measured and ranked.
+                          In Morphing Intelligence (2019), Catherine Malabou describes how the concept of
+                    epigenetic intelligence is a critical rethink of fixed and hierarchical models of cognition.
+                    Drawing upon advances in neuroscience and molecular biology, Malabou challenges the
+                    conception of intelligence as an innate, stable, and quantifiable faculty. She proposes
+                    instead that intelligence is epigenetic, shaped through the dynamic interplay between
+                    genetic potential and environmental conditions. Intelligence, from this perspective, is
+                    relational and transformative, continuously produced through adaptation, experience, and
+                    encounter. By reconceptualising intelligence as morphogenetic and responsive rather than
+                    essential, Malabou establishes an ontology grounded in contingency, interdependence, and
+                    creative emergence.
+                          Malabou’s epigenetic intelligence thus establishes intelligence as plastic and envi-
+                    ronmentally mediated, shaped by experience, environment, and ecological niche rather
+                    than fixed, heritable capacity. While this challenges dominant AI narratives that privilege
+                    general intelligence, the question of how such relational understandings might materialise
+                    within AI development cultures, how they might be encountered, enacted, and integrated
+                    into actual technological practices, remains open.
+                          In Ways of Being (Bridle 2022), James Bridle extends this critique by examining the
+                    ecosystems within which AI systems are cultivated. He argues that contemporary AI
+                    reflects the narrow and impoverished conditions of neoliberal capitalism, environments
+                    preoccupied with profit, competition, and control. These conditions produce what Bridle
+                    terms ‘corporate intelligence’ whose aggressive tendencies mirror their ecological niche.
+                    If AI systems are to evolve differently, Bridle concludes, the conditions sustaining them
+                    must be transformed. His reorientation towards the planetary scale proposes cognition
+                    not as an exclusively human capacity, but as a pervasive ecological phenomenon shared
+                    among animals, plants, and machines. His concept of planetary intelligence envisions
+                    a multiplicity of ways of being and knowing, each contributing to a broader web of
+                    interdependent awareness.
+                          Hayles (2025) further deepens this argument through her theorisation of symbiosis,
+                    tracing continuities between microbial, biological, and artificial forms of relationality. In
+                    Bacteria to AI: Human Futures with Our Nonhuman Symbionts, she argues that cognition is
+                    always already prosthetic, extended through tools, networks, and technological mediations
+                    that participate in, rather than merely augment, the processes of thought. Within this
+                    framework, intelligence emerges as an assemblage of human and non-human agencies, a
+                    fluid and evolving ecology of relations that resists the boundaries separating the organic
+                    from the machinic.
+                          What remains insufficiently addressed within these theoretical frameworks, however,
+                    is not only how intelligence can be reconceptualised, but how it materialises, how it comes
+                    into presence through situated encounters rather than existing as an abstract relational
+                    capacity. It is here that Golding’s work on encounter, marking, and friendship becomes
+                    crucial for articulating Symbiotic Intelligence’s contribution. In The Courage to Matter, Golding
+
+
+
+                                                                                   https://doi.org/10.3390/arts15040069
+Arts 2026, 15, 69                                                                                             18 of 23
+
+
+
+                    argues that encounter is not an exchange between pre-formed entities, but an event in
+                    which entities are themselves constituted. Meaning, agency, and matter arise together,
+                    inseparably, through the force of encounter (Golding 2020).
+                          This understanding of encounter and its materialisation allows SI to move beyond
+                    conceptual redefinitions of intelligence and towards its material aesthetic enactment. Work-
+                    ing with living mycelium across different installations, we observed intelligence emerging
+                    through the marks produced by encounters: electrical signals propagating through fungal
+                    networks without centralised coordination; mycelial growth patterns responding to atmo-
+                    spheric fluctuations; algorithmic translations of biological activity into light and sound;
+                    and the sensory, affective responses of human participants whose perception was aug-
+                    mented to sense otherwise imperceptible processes. These marks are not representations of
+                    intelligence; they are its material traces, the evidence of encounter itself.
+                          Golding’s discussion of friendship further underpins this understanding of intelli-
+                    gence as a co-creation and relation. In Friendship (Golding 2018), they propose modes of
+                    being-with that resist domination and extraction in favour of co-existence, attunement,
+                    and ethical responsiveness. This framework resonates directly with symbiotic relations in
+                    mycelial ecologies, where survival depends not on competitive dominance, but on recipro-
+                    cal exchange, what Hannah Arendt describes as ‘having a friend’, a condition she identifies
+                    as vital to democratic life (Arendt 1958). Our installations enacted this relationality: the
+                    mycelium required ongoing care (appropriate humidity, temperature, and protection from
+                    contamination), and this care work is inseparable from the intelligence that emerges.
+                          Taken together, these perspectives articulate a paradigm shift in the narrative of intel-
+                    ligence: intelligence as a distributed, more-than-human symbiotic ecological assemblage.
+                    It is within this framework that Symbiotic Intelligence’s artistic inquiry operates, not to
+                    illustrate these ideas, but to generate them and create new knowledge through practice. The
+                    installations function as sites of encounter where intelligence is materialised as an ecologi-
+                    cal, collective assemblage, emerging through relations between biological, technological,
+                    environmental, and human actors.
+                          The materialisation of Symbiotic Intelligence directly counters the dominant AI narra-
+                    tives outlined above. Where AGI discourse imagines intelligence as a quantifiable capacity
+                    seeking competitive advantage and potential species domination, SI reveals intelligence as
+                    a material relational practice requiring care, reciprocity, and situated ecological embedded-
+                    ness. Where evolutionary narratives privilege ‘survival of the fittest’ through individual
+                    competition, SI demonstrates intelligence through collaborative encounter and mutual
+                    flourishing. The installations thus propose not merely alternative concepts, but alternative
+                    narrative and material aesthetic practices, demonstrating how AI narratives and develop-
+                    ment might proceed through an alternative AI imaginary of symbiotic collaboration rather
+                    than competitive domination.
+
+                    9. Symbiogenesis
+                          Symbiogenesis (Figure 4) is an installation originally developed for a cave in Mittweida,
+                    Germany, as part of Chemnitz 2025: European Capital of Culture (and was later exhibited in
+                    Iklectik, London, 2025). This site-specific installation connects five networks of grey oyster
+                    mycelium (Pleurotus sajor-caju) to light-emitting fibre-optic cables extending to the cave roof.
+                    The mycelium operates as a living, real-time environmental sensor, translating electrical
+                    voltage spikes within its network into pulses of light transmitted through fibre-optic cables.
+                    These signals shape the installation’s affective experience, momentarily immersing viewers
+                    in alternating darkness and illumination as communications pass through the system.
+
+
+
+
+                                                                                  https://doi.org/10.3390/arts15040069
+Arts 2026, 15, 69                                                                                           19 of 23
+
+
+
+
+                    Figure 4. Symbiogenesis installation.
+
+                          The installation incorporates sound recordings of the Earth’s vibrations, captured
+                    from the perspective of the mycelium. Field recordings were produced using a geophone,
+                    a sensor with a metal spike inserted into the soil where mycelial networks intersect with
+                    tree roots. A geophone responds to ground vibrations caused by seismic activity, waves
+                    generated by events such as earthquakes, volcanic eruptions, underground transport
+                    systems, or explosions. Although mycelium possesses no auditory organs, researchers have
+                    observed notable behavioural changes in response to sound vibrations. One study found
+                    that exposure to a 5 kHz sound wave, a frequency close to B6 on the musical scale and
+                    considered high within that range, significantly inhibited spore generation and mycelial
+                    growth (Jeong et al. 2013). In contrast, Mazidi et al. (2020) observed that low-frequency
+                    sound waves stimulated the growth of grey oyster mushrooms. Together, these studies
+                    suggest that mycelium is highly sensitive to vibrations transmitted through its substrate.
+                          A low-frequency soundscape was composed from underground field recordings and
+                    played back into the cave via a subwoofer, allowing bass frequencies to resonate throughout
+                    the cave system. This resonance aimed to both stimulate mycelial growth and generate an
+                    enveloping, immersive ambience of submersion. The resulting sonic experience, combined
+                    with the light installation, was described by some visitors as profound or spiritual, evoking
+                    the sensation of entering a concealed or sacred space.
+                          We chose the title Symbiogenesis in reference to two thinkers who have profoundly
+                    influenced our collective artistic practice: Lynn Margulis and Donna Haraway. Both employ
+                    the term symbiogenesis to challenge traditional understandings of individuality, evolution,
+                    and the relationships between organisms. For Margulis, symbiogenesis describes the evolu-
+                    tionary process through which new species and biological complexity arise from symbiotic
+                    mergers between distinct organisms, rather than solely through Darwinian competition
+                    (Margulis 1998). Her work reimagines evolution as a cooperative and interconnected pro-
+                    cess, emphasising microbial collaboration as the foundation of life. Haraway, meanwhile,
+                    adopts and extends the concept beyond biology, using symbiogenesis as a metaphor for
+                    multispecies entanglements and co-creation across social, technological, and ecological con-
+                    texts (Haraway 2016). Within her feminist and posthumanist frameworks, symbiogenesis
+                    signifies the ongoing ‘making-with’ of humans and nonhumans, highlighting that existence
+                    itself is relational and contingent upon shared becoming. Together, Margulis and Haraway
+                    transform symbiogenesis into both a scientific and philosophical paradigm that redefines
+                    life as fundamentally collaborative.
+
+
+
+                                                                                https://doi.org/10.3390/arts15040069
+Arts 2026, 15, 69                                                                                             20 of 23
+
+
+
+                         Within SI’s fictional world-building, Symbiogenesis marks the point of mutual recog-
+                    nition, where both species (Biological and technical) share a relatable umwelt: the specific
+                    way an organism perceives and experiences the world, shaped by the particularities of its
+                    sensory apparatus and modes of perception.
+                         Visitors who entered the cave, just by being there, took part in co-creative interactions
+                    between humans, machines, and mycelium, where sound, light, perception, and environ-
+                    mental response converged into a dynamic, immersive ecosystem: an emergent entity that
+                    senses and is sensed through every change in its environment and through all elements in
+                    the space, an experience, and a new form of co-created intelligence.
+
+                    10. Conclusions
+                          This paper argues for the necessity of seriously treating AI imaginaries as narrative
+                    ecologies rather than as peripheral or speculative discourse. As demonstrated throughout
+                    this paper, AI development does not unfold solely within technical laboratories, but within
+                    complex cultural, historical, political, and aesthetic milieus in which stories of intelligence,
+                    evolution, and futurity actively shape the kinds of technologies that are imagined, funded,
+                    built, and legitimised. Approaching AI imaginaries as narrative ecologies foregrounds their
+                    world-making capacity: narratives do not simply describe future technologies, but function
+                    as generative environments that condition both reality and present technological practice.
+                    Through practice-led artistic research, Symbiotic Intelligence intervenes directly within
+                    these narrative ecologies, not only by challenging dominant imaginaries at a critical level,
+                    but also by materially enacting alternative modes of intelligence grounded in symbiosis,
+                    relationality, and care. The installations operate as sites of encounter in which intelligence
+                    emerges as a situated, collective, and more-than-human practice. Rather than treating intel-
+                    ligence as an abstract, quantifiable capacity oriented toward competition and domination,
+                    our research explores intelligence as something that comes into being through embodied
+                    relations, environmental responsiveness, and ongoing processes of co-creation. Each instal-
+                    lation represents an iteration within the ongoing narrative of SI. The concept of SI itself
+                    involves a productive slippage: it is simultaneously the name of a collective, a practice-led
+                    research methodology for rethinking AI in relation to mycelium, and a new knowledge
+                    framework through which dominant narratives of intelligence can be reconsidered.
+                          The mode of intervention this research enacts differs fundamentally from conventional
+                    academic critique or technical demonstration. We do not claim our work will directly
+                    alter AI development practices or convince technical communities to adopt alternative
+                    paradigms through propositional argument. Rather, the installations function as what
+                    Rancière (2004, p. 63) calls sites of ‘aesthetic rupture’, creating experiences that interrupt
+                    taken-for-granted assumptions and make alternative arrangements not only thinkable
+                    but materially present and experientially accessible. By structuring embodied encounters
+                    between human, more-than-human and technology, the installations enable distributed
+                    forms of intelligence to manifest as actual phenomena rather than theoretical propositions.
+                    This expands imaginative capacity, offering participants experiential knowledge of alter-
+                    native paradigms that can potentially be carried into diverse contexts: policy discussions,
+                    technical design choices, educational settings, or personal relationships with technology.
+                    Politics is not just about the exercise of power, where power means dominance; but power
+                    is also an aesthetic activity that revolves around what is seen, who has the ability to speak,
+                    and how space and time are partitioned (Foucault [1971] 1972, pp. 215–37).
+                          We recognise that such influence operates through diffuse, non-linear pathways re-
+                    sistant to conventional impact metrics. Artistic research works in the realm of cultural
+                    imagination, where change occurs through gradual accretion, unexpected resonances, and
+                    unpredictable translations across contexts and communities. Our contribution is to ensure
+
+
+
+                                                                                  https://doi.org/10.3390/arts15040069
+Arts 2026, 15, 69                                                                                                    21 of 23
+
+
+
+                    that when conversations about AI futures occur, in boardrooms, laboratories, classrooms,
+                    or legislative chambers, symbiotic alternatives have been materially realised, aesthetically
+                    experienced, and made genuinely available for consideration rather than remaining abstract
+                    theoretical possibilities.
+                          This paper has traced how evolutionary narratives within AI discourse frequently
+                    frame intelligence through competitive logics that naturalise domination and extraction.
+                    Understanding intelligence as a narrative construct is therefore a crucial step. Existing
+                    literature offers little evidence that intelligence names a coherent or identifiable thing-in-
+                    itself. Early conceptions mistakenly equated intelligence with an inherited and quantifiable
+                    outcome of evolutionary selection, a view historically mobilised to legitimise eugenic
+                    policies, scientific racism, and colonial domination. Although this conception continues to
+                    haunt contemporary AI discourse, it was fundamentally challenged by the publication of
+                    the Human Genome Project. The long-standing ambition of behavioural genetics to isolate a
+                    hereditary essence of intelligence was undermined by research emphasising the epigenetic
+                    and relational plasticity of brains and nervous systems. This epigenetic turn foregrounds
+                    the ways in which nurture shapes nature, with nurture encompassing the full range of lived
+                    conditions, including social environments, nutrition, and exposure to toxins (Moore 2015).
+                          While this shift toward a relational paradigm marks an important development, we
+                    argue that, in an era of accelerating climate warming that threatens the ecological niches
+                    of innumerable species, narratives of intelligence must move beyond their human-centric
+                    frame. They must relearn how to listen to and engage with the multiple intelligences of the
+                    more-than-human world.
+                          By materialising intelligence through encounters between humans, machines, and
+                    mycelium, SI demonstrates how alternative imaginaries can be brought into presence and
+                    highlights the importance of aesthetic and material encounters in connecting people to
+                    these counter-narratives. Intelligence here is not located within any single entity, human
+                    or artificial, but circulates across assemblages of biological, technological, and environ-
+                    mental relations. This practice-led approach reveals intelligence as processual, ethical, and
+                    inseparable from the conditions of care and attention that sustain it. Rather than seeking to
+                    predict the future of intelligence, Symbiotic Intelligence actively participates in its becoming.
+                          Looking forward, this work invites further interdisciplinary provocations and dialogue
+                    between the arts, sciences, and technology sectors to reconceptualise intelligence as a
+                    distributed, symbiotic, and ecologically entangled phenomenon, one that acknowledges,
+                    learns from, and collaborates with the more-than-human intelligences that already sustain
+                    life on Earth.
+
+                    Author Contributions: Conceptualization, J.W. and S.W.; methodology, S.W.; software, J.W.; valida-
+                    tion, J.W. and S.W.; formal analysis, J.W. and S.W.; investigation, J.W. and S.W.; resources, J.W. and
+                    S.W.; data curation, J.W. and S.W.; writing—original draft preparation, J.W.; writing—review and
+                    editing, S.W.; visualization, J.W. and S.W.; supervision, J.W. and S.W.; project administration, J.W. and
+                    S.W. All authors have read and agreed to the published version of the manuscript.
+
+                    Funding: This research was initiated during both authors’ tenure as researchers in the Real-World
+                    Artificial Intelligence Narratives project within the AiDLab, jointly established by The Hong Kong
+                    Polytechnic University (PolyU) and the Royal College of Art. However, no direct funding was
+                    allocated specifically to support the research presented in this article.
+
+                    Institutional Review Board Statement: Not applicable.
+
+                    Informed Consent Statement: Not applicable.
+
+
+
+
+                                                                                        https://doi.org/10.3390/arts15040069
+Arts 2026, 15, 69                                                                                                                        22 of 23
+
+
+
+                                    Data Availability Statement: The original contributions presented in this study are included in the
+                                    article. Further inquiries can be directed to the corresponding author.
+
+                                    Conflicts of Interest: The authors declare no conflict of interest.
+
+References
+Adamatzky, Andrew. 2022. Language of fungi derived from their electrical spiking activity. Royal Society Open Science 9: 211926.
+       [CrossRef] [PubMed]
+Allen, Garland E. 2001. Is a new eugenics a foot? Science 294: 59–61. [CrossRef] [PubMed]
+Altman, Sam. 2025. Three Observations. Available online: https://blog.samaltman.com/three-observations (accessed on
+       10 January 2026).
+Andreesen, Marc. 2023. The Techno-Optimist Manifesto. Menlo Park: Andreessen Horowitz.
+Arendt, Hannah. 1958. The Human Condition. Chicago: University of Chicago Press.
+Bostrom, Nick. 2002. Existential risks: Analyzing human extinction scenarios and related hazards. Journal of Evolution and Technology 9.
+       Available online: http://jetpress.org/volume9/risks.html (accessed on 17 February 2026).
+Bostrom, Nick. 2004. The future of human evolution. In Death and Anti-Death: Two Hundred Years After Kant, Fifty Years After Turing.
+       Ann Arbor: Ria University Press, vol. 2, pp. 339–71.
+Bostrom, Nick. 2014. Superintelligence: Paths, Dangers, Strategies. Oxford: Oxford University Press.
+Bratton, Benjamin H., Anna Greenspan, Amy Ireland, and Bogna Konior, eds. 2025. Machine Decision Is Not Final: China and the History
+       and Future of Artificial Intelligence. England: Urbanomic.
+Bridle, James. 2022. Ways of Being: Animals, Plants, Machines: The Search for a Planetary Intelligence. London: Penguin UK.
+Brusseau, James. 2023. Mapping AI avant-gardes in time: Posthumanism, transhumanism, genhumanism. Discover Artificial Intelligence
+       3: 32. [CrossRef]
+Burrows, David. 2019. Fictioning: The Myth-Functions of Contemporary Art and Philosophy. Edinburgh: Edinburgh University Press.
+Chimakonam, Amara Esther. 2024. The ethics at the intersection of artificial intelligence and transhumanism: A personhood-based
+       approach. Data & Policy 6: e61. [CrossRef]
+Criddle, C., T. Bradshaw, G. Hammond, and M. Acton. 2025. Nvidia to invest up to $100bn in OpenAI. Financial Times, September 23.
+       Available online: https://www.ft.com/content/d3caeac1-def8-45ae-b56b-e34c7c435ccc (accessed on 20 January 2026).
+Darwin, Charles. 1859. The Origin of Species by Means of Natural Selection. Chicago: EA Weeks, vol. 247, p. 1859.
+de Garis, Hugo. 2008. The Artilect War: Cosmists vs. Terrans. A Bitter Controversy Concerning Whether Humanity Should Build
+       Godlike Massively Intelligent Machines. In Proceedings of the 2008 Conference on Artificial General Intelligence 2008: Proceedings of the
+       First AGI Conference. Amsterdam: IOS Press, pp. 437–47.
+Fisher, Mark. 2016. The Weird and the Eerie. London: Repeater.
+Foucault, Michel. 1972. The order of discourse. In The Archaeology of Knowledge. New York: Pantheon Books, pp. 215–37. First published
+       1971.
+Galton, Francis. 2004. Inquiries into Human Faculty: Psychometric Experiments (1879). American Imago 61: 365–78. [CrossRef]
+Goertzel, Ben. 2014. Artificial general intelligence: Concept, state of the art, and future prospects. Journal of Artificial General Intelligence
+       5: 1. [CrossRef]
+Goertzel, Ben, and Cassio Pennachin, eds. 2007. Artificial General Intelligence. New York: Springer.
+Golding, Johnny. 2018. Friendship. In The Edinburgh Companion to Animal Studies. Edited by Lynn Turner and Ron Broglio. Edinburgh:
+       Edinburgh University Press Undine Sellbach, pp. 262–76.
+Golding, Johnny. 2020. The Courage to Matter. In Data Loam: Sometimes Hard, Usually Soft.. Edited by Johnny Golding, Martin Reinhart
+       and Mattéia Paganelli. Berlin: De Gruyter, pp. 450–86.
+Golumbia, David. 2019. The Politics of Bitcoin: Software as Right-Wing Extremism. Minneapolis: University of Minnesota Press.
+Gould, Stephen J. 1988. Kropotkin was no crackpot. Natural History 97: 12–21.
+Haraway, Donna. 2016. Staying with the Trouble: Making Kin in the Chthulucene. Durham: Duke University Press.
+Hayles, Katherine N. 2025. Bacteria to AI, Human Futures with Our Nonhuman Symbionts. Chicago: University of Chicago Press.
+Hendrycks, Dan. 2023. Natural selection favors AIs over humans. arXiv arXiv:2303.16200. [CrossRef]
+Hessen Schei, Tonje. 2019. iHuman. Documentary Film. Oslo: UpNorth Film. Copenhagen: Made in Copenhagen.
+Hinton, Geoffrey. 2024. Banquet Speech. NobelPrize.org. Nobel Prize Outreach. Available online: https://www.nobelprize.org/
+       prizes/physics/2024/hinton/speech/ (accessed on 31 December 2025).
+Jajal, Tannya. 2018. Distinguishing Between Narrow AI, General AI and Super AI. Medium. Available online: https://medium.com/aiden-
+       global/distinguishing-between-narrow-ai-general-ai-and-super-ai-a4bc44172e22 (accessed on 30 December 2025).
+
+
+
+
+                                                                                                           https://doi.org/10.3390/arts15040069
+Arts 2026, 15, 69                                                                                                                      23 of 23
+
+
+
+Jeong, Mi-Jeong, DongWon Bae, Hanhong Bae, Soo In Lee, Jin A. Kim, Sung Chul Shin, Sung Han Park, and Soo-Chul Park. 2013.
+      Inhibition of Botrytis cinerea spore germination and mycelia growth by frequency-specific sound. Journal of the Korean Society for
+      Applied Biological Chemistry 56: 377–82. [CrossRef]
+Krywko, Jacek. 2017. The Premature Quest for AI-Powered Facial Recognition to Simplify Screening. [online] Ars Technica. Available
+      online: https://arstechnica.com/information-technology/2017/06/security-obsessed-wait-but-can-ai-learn-to-spot-the-face-
+      of-a-liar/ (accessed on 17 February 2026).
+Kurzweil, Ray. 2005. The Singularity Is Near: When Humans Transcend Biology. New York: Viking.
+Kurzweil, Ray. 2024. The Singularity Is Nearer: When We Merge with AI. London: The Bodley Head.
+Lewis, Jason Edward, Noelani Arista, Archer Pechawis, and Suzanne Kite. 2018. Making kin with the machines. Journal of Design and
+      Science 3. [CrossRef]
+Malabou, Catherine. 2019. Morphing Intelligence: From IQ Measurement to Artificial Brains. New York: Columbia University Press.
+Margulis, Lynn. 1998. Symbiotic Planet: A New Look at Evolution. New York: Basic Books.
+Margulis, Lynn, and Dorion Sagan. 1997. Microcosmos: Four Billion Years of Microbial Evolution. Oakland: University of California Press.
+Mazidi, Binti Hasnoel, Mazlin Nur Iman, Roshita Ibrahim, and Tan Soon Teck. 2020. Comparison of Ultrasonic And Acoustic Sound
+      Treatments on Grey Oyster Mushroom (Pleurotus Sajor-caju) Cultivated on Sawdust and Kenaf Waste. IOP Conference Series:
+      Materials Science and Engineering 932: 012005. [CrossRef]
+McQuillan, Dan. 2022. Resisting AI: An Anti-Fascist Approach to Artificial Intelligence. Bristol: Policy Press.
+Moore, David S. 2015. The Developing Genome: An Introduction to Behavioral Epigenetics. Oxford: Oxford University Press.
+Nugent, Selin E. 2025. Darwin in the machine: Addressing algorithmic individuation through evolutionary narratives in computing.
+      AI & Society, 1–14. [CrossRef]
+Oldenburg, Ninell, and Gleb Papyshev. 2025. The Stories We Govern By: AI, Risk, and the Power of Imaginaries. Paper presented at
+      AAAI/ACM Conference on AI, Ethics, and Society, Madrid, Spain, October 20–22, vol. 8, pp. 1939–50.
+OpenAI. 2018. OpenAI Charter. April 9. Available online: https://OpenAI.com/charter/ (accessed on 31 December 2025).
+OpenAI. 2025. OpenAI and NVIDIA Announce Strategic Partnership to Deploy 10 Gigawatts of NVIDIA Systems. Available online:
+      https://openai.com/index/openai-nvidia-systems-partnership/ (accessed on 17 February 2026).
+Pearson, Karl. 1901. National Life from the Standpoint of Science: An Address Delivered at Newcastle, November 19, 1900. London: Adam &
+      Charles Black.
+Rancière, Jacques. 2004. The Politics of Aesthetics: The Distribution of the Sensible. London: Continuum. ISBN 0-8264-7067-X.
+Raulerson, Joshua. 2013. Singularities: Technoculture, Transhumanism, and Science Fiction in the Twenty-First Century. Oxford: Oxford
+      University Press, vol. 45.
+Richardson, Rashida, Jason M. Schultz, and Kate Crawford. 2019. Dirty data, bad predictions: How civil rights violations impact police
+      data, predictive policing systems, and justice. NYUL Rev. Online 94: 15.
+Savage, Neil. 2020. How AI is improving cancer diagnostics. Nature 579: S14. [CrossRef] [PubMed]
+Simard, Suzanne W., Kevin J. Beiler, Marcus A. Bingham, Julie R. Deslippe, Leanne J. Philip, and François P. Teste. 2012. Mycorrhizal
+      networks: Mechanisms, ecology and modelling. Fungal Biology Reviews 26: 39–60. [CrossRef]
+Simondon, Gilbert. 1980. On the Mode of Existence of Technical Objects. London: University of Western Ontario.
+Smith, Robert Elliott. 2019. Rage Inside the Machine: The Prejudice of Algorithms, and How to Stop the Internet Making Bigots of Us All.
+      London: Bloomsbury Academic.
+Spencer, Herbert. 1864. Principles of Biology. London: Williams and Norgate.
+Stanton, Jeffrey M. 2001. Galton, Pearson, and the peas: A brief history of linear regression for statistics instructors. Journal of Statistics
+      Education 9. [CrossRef]
+Sullivan, Graeme. 2005. Art Practice as Research: Inquiry in the Visual Arts. Thousand Oaks: Sage Publications.
+Tegmark, Max. 2017. Life 3.0: Being Human in the Age of Artificial Intelligence. New York: Alfred A. Knopf, p. 35.
+Turing, Alan M. 1987. Computing machinery and intelligence (1950). Mind 59: 33–60.
+Vinge, Vernor. 1993. The Coming Technological Singularity: How to Survive in the Post-Human Era. Version 21. Washington, DC: NASA,
+      pp. 11–22.
+y Arcas, Blaise Aguera. 2025. What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds. Cambridge: MIT Press.
+
+
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.
+
+
+
+
+                                                                                                         https://doi.org/10.3390/arts15040069
+

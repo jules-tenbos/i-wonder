@@ -2,14 +2,17 @@
 
 # SPLectrum vocabulary
 
-SPLectrum's own terms. The SPLectrum language extends the seed — its axiomatic base — and branches into a specialized engineering language.
+SPLectrum's own terms. Extends the [seed vocabulary](seed).
 
-## Core terms
+## Vocabularies that extend the SPLectrum vocabulary
+
+- [Engineering](engineering/) — Extends SPLectrum into engineering design and implementation R&D.
+- [Positioning](positioning) — Puts SPLectrum in context, engaging external thought languages on equal standing.
+
+## Vocabulary
+
+<span id="engineering">**Engineering**</span> — Short for [SPLectrum engineering](#splectrum-engineering).
+
+<span id="splectrum-engineering">**SPLectrum engineering**</span> — Where SPLectrum extends the reach of the seed into engineering design and implementation R&D.
 
 <span id="vocabulary">**Vocabulary**</span> — A bounded set of concepts within a language.
-
-## Other Languages
-
-- [Seed](seed) — core.
-- [Positioning](positioning) — outside context.
-- [Engineering](engineering/) — other area.
