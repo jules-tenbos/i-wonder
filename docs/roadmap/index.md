@@ -69,6 +69,4 @@ The category theory encounter identified a potential economy: P0 and P1 as gener
 
 ## Engineering
 
-Architectural commitments and build directions.
-
-*Engineering directions are being organised into submissions; this section populates as items mature.*
+Architectural commitments and build directions. Early stage — being articulated.

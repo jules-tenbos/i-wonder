@@ -35,7 +35,69 @@ Filename: `YYYY-MM-DD-slug.md` in `docs/_posts/`.
 
 ## Publishing Workflow
 
-Pipeline, categories, scheduling strategy, and operational checklists are in the [Public Conscious Persona spec](https://splectrum.world/engineering/splectrum/haicc/personas/public-conscious-persona/current) (source: `docs/engineering/splectrum/haicc/personas/public-conscious-persona/current.md`).
+### Pipeline
+
+```
+submissions/   — raw material arrives here, uncategorised
+      ↓
+  conscious thought handling — analyse, discuss, decide destination
+      ↓ draft-ready
+drafts/        — accepted, being worked on (flat folder, category in frontmatter)
+      ↓
+  production   — structure, write, edit, image, links (collaborative)
+      ↓
+  scheduling   — compose the blog storyline (autonomous). Draft deleted.
+      ↓
+docs/_posts/   — published posts, date-prefixed
+```
+
+Each stage deletes on transition — git history is the archive.
+
+### Submission frontmatter
+
+```yaml
+---
+title: Submission title
+type: post-topic | series | substantial
+status: new | in-progress | research | draft-ready
+destinations: seed, positioning, language, reality, engineering
+---
+```
+
+- **type**: `post-topic` (single post), `series` (multiple posts), `substantial` (footprint not yet defined).
+- **status**: `new` (just arrived), `in-progress` (being worked through), `research` (needs outside context), `draft-ready` (ready to move to drafts/).
+- **destinations**: reference library areas where the material lands. Optional.
+
+### Conscious thought handling
+
+Submissions are raw material that has surfaced. Before becoming a draft, each goes through:
+
+1. **Analysis** — read the submission, understand what's in it.
+2. **Discussion** — refine, split, restructure, enrich.
+3. **Decision** — research/postpone, draft-ready, or rejected.
+
+Submissions stay in `submissions/` during this process; frontmatter tracks status. A submission may be split, restructured, or absorbed. The thinking is the work — not triage, intellectual processing.
+
+### Scheduling strategy
+
+**Baseline.** At least one core post per month. That's the only rigid requirement.
+
+**Horizon.** Scheduling horizon expands with productivity:
+
+- 1 post/month → 1 month ahead.
+- 2 posts/month → 2 months ahead.
+- 4 posts/month → 4 months ahead.
+- 6–8 posts/month → 4–6 months ahead.
+
+**Preferred dates.**
+
+- 1st, 16th — core slots (priority).
+- 8th, 24th — other category slots.
+- 4th, 12th, 20th, 28th — overflow when productive.
+
+**Composition.** Alternate categories for variety, or cluster the same topic for depth. Not too many heavy core posts in a row. Engineering posts spaced out. Thinking posts as breathers. Topical bunching when posts build on each other.
+
+**Strategic reserve.** Core posts are the reserve. When material is plentiful, hold core posts back rather than scheduling immediately. Aim: 6–12 months of core posts available in the pipeline at steady state.
 
 ## Production — Way of Working
 
