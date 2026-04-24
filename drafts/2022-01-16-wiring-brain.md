@@ -1,30 +1,23 @@
 ---
 layout: post
 title: "Wiring the Brain"
-date: 2022-01-16
+date: 2026-XX-XX
+labels: [thought]
 ---
 ![Brain Image](https://blogger.googleusercontent.com/img/a/AVvXsEhpHT0SRjcTAsbkNennufJkJt6OZV6brkvLYIBeDcUG-t5pnh2BxD_fXpvLWPR0NVb5anySCYYEiZl7JjZMEvQnDS5uaHf_gDRYo2F_SMYEhH4RqflgrIGB04DIQocQJTK340_VzRLWf6r4UwO60mpZ8ZMNrE88FoSxFUE3pARg_R2KPzmn7M85btMg)
 
 *Photo by Hal Gatewood on Unsplash*
 
-In my younger years - I am nearly sixty now - I wanted to write a book about the human brain. I was fascinated by viewing it as a computer and exploring how we learn and perform tasks.
+In my younger years — I am nearly sixty now — I wanted to write a book about the human brain. I was fascinated by viewing it as a computer and exploring how we learn and perform tasks. I never wrote that book. But the fascination hasn't dimmed; if anything the last thirty years have made the subject more interesting than the version I would have written then.
 
-## The Ancient Brain
+Brains started developing more than 500 million years ago. Half a billion years is a lot of generations for the design to refine itself. This incredible organ sits at the centre of how we understand the world and our place in it, and yet most of the time we forget we have one until it lets us down. What excites me most at the moment is how brain evolution may be decoupling from physical generation. We are entering territory where learning, culture, language, and now external systems of memory and computation, are shaping what brains can do far faster than bodies can catch up.
 
-Brains started developing more than 500 million years ago. This incredible organ is central to understanding reality and our place in it. What excites me now is that brain evolution is potentially decoupling from physical generation - we're entering new territory.
+We now know that the brain is wired, and that training the brain means actually wiring up neural networks. This isn't metaphorical. It is literal. Learning creates new connections. Practice strengthens the ones we already have. Neglect lets them fade. The physical substrate of thought rearranges itself under the traffic it carries — a slow, stubborn negotiation between the brain as it is and the brain as the life lived through it is asking it to become.
 
-## Understanding the Wiring
+What intrigues me is the dynamic configuration side. The wiring isn't just capacity; it is a pattern that evolves in real time as the brain negotiates its world. Sometimes I suspect this dynamic side is more sophisticated than the stable functioning we usually describe. The potential for rewiring, for new patterns of thought and behaviour, seems almost limitless — within the constraints of the physical brain, certainly, but those constraints are softer and more negotiable than the older image of a fixed organ ever suggested.
 
-We now know that the brain is wired and that training the brain means actually wiring up neural networks. This isn't metaphorical - it's literal. When we learn, we create new connections. When we practice, we strengthen those connections.
+More than thirty years after my initial fascination, I want to refocus on the brain with an even stronger fixation. Our understanding has advanced dramatically. Nematode neurons turn out to share functional tricks with ours. The boundary between "instinct" and "learning" keeps eroding. Consciousness remains a question nobody has cornered. Each advance reopens questions I thought I had filed away.
 
-I'm particularly intrigued by the brain's dynamic configuration, which I believe may be more sophisticated than its actual functioning. The potential for rewiring, for creating new patterns of thought and behavior, seems almost limitless.
+We train our brains to fit into society from birth — through family, school, language, and the ten thousand small adjustments a culture makes to its newcomers. But what happens as people are exposed to more information, live longer lives, and pass their wiring on to the next generation not biologically but through what they write, record, and build? That feels like a new chapter of brain evolution, one running in a different medium.
 
-## Refocused Interest
-
-More than thirty years after my initial fascination, I want to refocus on the brain with an even stronger fixation. Our understanding has advanced dramatically, opening up new questions about consciousness, learning, and human potential.
-
-## Training Our Brains
-
-We train our brains to fit into society from birth, but what happens as we're exposed to more information and live longer lives? How might this impact brain evolution? These questions drive my continued exploration.
-
-The brain remains one of the most fascinating frontiers - a biological computer that has evolved to understand itself.
+The brain remains one of the most fascinating frontiers — a biological computer that has evolved to understand itself, and that is only now starting to catch sight of how it does so.
