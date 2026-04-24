@@ -65,7 +65,7 @@ Tasks triggered by post publication. Updated as posts go live.
 - [ ] Draft tweet
 
 ## June 4 — AVRO — The Language of Articulation goes live
-- [ ] Update docs/vocabulary.md (AVRO, carrier/meaning separation, avsc)
+- [ ] Update docs/vocabulary/ (AVRO, carrier/meaning separation, avsc)
 - [ ] Draft tweet
 
 ## June 6 — I Know That I Don't Know goes live
@@ -75,7 +75,7 @@ Tasks triggered by post publication. Updated as posts go live.
 - [ ] Draft tweet
 
 ## June 8 — Two Moves goes live
-- [ ] Update docs/vocabulary.md (identifier point, property bag, defined/applied operator)
+- [ ] Update docs/vocabulary/ (identifier point, property bag, defined/applied operator)
 - [ ] Final review of identifier-grammar.md and message.md
 - [ ] Draft tweet
 
@@ -83,7 +83,7 @@ Tasks triggered by post publication. Updated as posts go live.
 - [ ] Draft tweet
 
 ## June 12 — Three Languages goes live
-- [ ] Update docs/vocabulary.md (committed language)
+- [ ] Update docs/vocabulary/ (committed language)
 - [ ] Final review of kafka-design-scope.md
 - [ ] Draft tweet
 
