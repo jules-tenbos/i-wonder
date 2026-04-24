@@ -11,4 +11,7 @@ Each of the kinds below is a language in that structural sense. The content vari
 - [Natural languages](natural-languages) — human language, ambiguity, context, language games.
 - [Formal languages](formal-languages) — mathematical, logical, type theory, formal systems.
 - [Software languages](software-languages) — taxonomy, relation to formal language theory.
-- [Category theory](category-theory) — the mathematics of relation, convergence with the seed.
+
+## Reasoning about languages
+
+**[Category theory](category-theory)** — the mathematics of relation. The language SPLectrum uses to look at all languages.

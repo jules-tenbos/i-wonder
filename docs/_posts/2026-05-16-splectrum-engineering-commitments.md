@@ -39,7 +39,7 @@ P0 says being implies language. Being comes into existence through the act of di
 
 **Context and language are mutually constitutive.** No context without language, no language without context. Every context has language, every language creates context. You cannot design one without the other. In engineering terms: context and its language are inseparable design units. A mycelium context with its embedded metadata is one thing, not a container with stuff added to it.
 
-**Recursive self-similarity.** Languages are beings. Components of languages are beings. The set is self-referential. The same structural patterns apply at every level — entities, protocols, subjects, the system itself. If P0 holds for beings generally, it holds for every being the engineering creates. There is no level where different rules apply.
+**Recursive self-similarity.** Languages are beings. Components of languages are beings. The set is self-referential. The same structural patterns apply at every level — entities, protocols, subjects, the system itself. P0 holds for beings generally — and therefore for every being the engineering creates. There is no level where different rules apply.
 
 ---
 

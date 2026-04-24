@@ -21,11 +21,11 @@ The compression: each transition roughly an order of magnitude faster.
 
 ## What drives the curve
 
-Not progress — that is the anthropocentric reading. The SPLectrum reading: each transition increases the density of interaction available. More interaction produces more capacity for interaction. Self-generating. If the seed holds, the exponential conforms to the relational — not imposed from outside, but a property of interaction itself.
+Not progress — that is the anthropocentric reading. The SPLectrum reading: each transition increases the density of interaction available. More interaction produces more capacity for interaction. Self-generating. The exponential conforms to the relational — not imposed from outside, but a property of interaction itself.
 
 ## Thresholds, not breaks
 
-The transitions do not form a ladder. They form a web — each level continues alongside the others. Quantum interactions did not stop when chemistry emerged. Chemistry did not stop when life emerged. If the seed holds, the pattern conforms to P4: equal standing across levels, no hierarchy.
+The transitions do not form a ladder. They form a web — each level continues alongside the others. Quantum interactions did not stop when chemistry emerged. Chemistry did not stop when life emerged. The pattern conforms to P4: equal standing across levels, no hierarchy.
 
 ## The thinking side
 

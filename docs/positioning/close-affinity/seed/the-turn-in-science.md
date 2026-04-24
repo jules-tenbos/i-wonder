@@ -28,7 +28,7 @@ The connection to [loop quantum gravity](https://plato.stanford.edu/entries/quan
 
 **[Frauchiger-Renner](https://en.wikipedia.org/wiki/Wigner%27s_friend#Frauchiger%E2%80%93Renner_thought_experiment) (2018)** sharpened everything. Three assumptions cannot all hold: QM applies universally, measurements produce single outcomes, reasoning transfers between agents. RQM keeps the physics universal and outcomes single — but facts transfer only where decoherence anchors them into a shared context.
 
-If the seed holds: where it says "language is the medium through which a subject experiences reality," RQM says properties manifest only through interaction. Where it says "knowledge is convergence of subjects," RQM says shared facts through decoherence. Where it says "subject is a role in the relation," RQM says the observer is any physical system. Different vocabulary, same structural move. Independent arrivals at the same structure.
+Where the seed says "language is the medium through which a subject experiences reality," RQM says properties manifest only through interaction. Where it says "knowledge is convergence of subjects," RQM says shared facts through decoherence. Where it says "subject is a role in the relation," RQM says the observer is any physical system. Different vocabulary, same structural move. Independent arrivals at the same structure.
 
 ## The affinity
 

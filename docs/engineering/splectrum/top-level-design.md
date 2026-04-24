@@ -10,7 +10,7 @@ The bridge between the SPLectrum philosophical framework and its engineering. Th
 
 SPLectrum's six seed principles (P0–P5) describe properties shared by all languages. The engineering does not implement these principles — it is these principles expressed in another language. The relationship is relational, not representational. Neither side governs the other. The quality gate is low friction at the boundary.
 
-If the seed holds, the engineering that grows from it should look like how reality works.
+The engineering that grows from the seed should look like how reality works.
 
 ## The Three Pillars
 

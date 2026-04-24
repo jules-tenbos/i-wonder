@@ -16,7 +16,7 @@ The ethical framing — build cooperative systems, decentralise because it is th
 
 The case for decentralisation is at its most stark seen through the seed. All experiences of reality are decentralised. Every experience belongs to a subject — personal, situated, irreducible. Reality is not experienced centrally and then distributed. It is experienced locally and then shared. Two subjects sharing their experience of reality — that is already a peer-to-peer network. The most fundamental one.
 
-P0 — being implies language. P3 — language is inter-relational. P4 — languages have equal standing in potential. These are not ethical commitments. They are observations about how reality is constituted. If the seed holds, decentralisation conforms to the structure of experience — not a design choice or a moral position, but a structural property.
+P0 — being implies language. P3 — language is inter-relational. P4 — languages have equal standing in potential. These are not ethical commitments. They are observations about how reality is constituted. Decentralisation conforms to the structure of experience — not a design choice or a moral position, but a structural property.
 
 ### Mutualism without intent
 

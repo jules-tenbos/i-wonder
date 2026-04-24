@@ -18,9 +18,9 @@ Both characters hold simultaneously. From outside — if you could stand there �
 
 One explorer walks one corridor. Multiple explorers walking different paths discover more than the sum of their individual discoveries. Each discovery changes the landscape of what is discoverable next — a discovered path makes adjacent paths visible. The discoveries interact. They open each other's horizons.
 
-If the seed holds, P4 — languages have equal standing in potential — conforms to the structural condition for maximum discovery. Privilege one language, one approach, one perspective, and you walk one corridor. Multiple languages walk multiple corridors. The corridors connect because the relational space is the same space, approached from different positions.
+P4 — languages have equal standing in potential — conforms to the structural condition for maximum discovery. Privilege one language, one approach, one perspective, and you walk one corridor. Multiple languages walk multiple corridors. The corridors connect because the relational space is the same space, approached from different positions.
 
-Monoculture — biological, cultural, linguistic, technological — conforms to structurally reduced discovery. If the seed holds, decentralisation conforms to diversified discovery: the natural organisation of exploration in a relational space where no single position sees everything.
+Monoculture — biological, cultural, linguistic, technological — conforms to structurally reduced discovery. Decentralisation conforms to diversified discovery: the natural organisation of exploration in a relational space where no single position sees everything.
 
 ## The discovery multiplier
 

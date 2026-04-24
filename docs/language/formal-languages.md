@@ -19,7 +19,3 @@ Formal languages rest on axioms — primitive terms and rules accepted as starti
 ## Relation to natural languages
 
 Formal languages are not replacements for natural languages. They are distillations — specific aspects of natural language made precise at the cost of expressive range. A formal language captures some structure cleanly by setting aside everything else natural language carries.
-
-## Category theory
-
-[Category theory](category-theory) is one formal language of particular interest — the mathematics of relation.
