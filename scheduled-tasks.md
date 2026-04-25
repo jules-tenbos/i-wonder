@@ -9,14 +9,6 @@ Tasks triggered by post publication. Updated as posts go live.
 - [ ] Tone-of-voice review of a content page with a shadow page — update the shadow with any vocabulary or relational observations surfaced by the review
 - [ ] Vocabulary shadow cadence — process one finished page's vocabulary per post publication (throttle back if too dense). Candidate for each publication is named in the entry below.
 
-### Persona rework (in progress)
-
-Three areas of the site: **main** (matter-of-fact reference), **blog** (conversational), **topnav** (personal). Same persona behind all three. Quality review = tone-of-voice cold review (shared base + per-area variation) + cold/warm vocabulary extraction (uniform) + iteration. Publishing cadence (buffered: 4/month far, 8/month near, direct close in) applies to the blog only.
-
-- [ ] Architectural persona page (`engineering/splectrum/haicc/personas/public-conscious-persona/index.md`) — structural rework drafted as 5 blocks: purpose, three areas, workflow, quality review, blog cadence. **Prose drifted into blog voice — needs register pass to matter-of-fact / engineering register.** Same outline; rewrite at prose level.
-- [ ] Persona post (`docs/_posts/2026-05-04-blog-as-public-conscious-persona.md`) — fill the polish-stage marker on line 26; remove the line-34 bracketed TODO. Title and broader-scope framing already in place; status `rework required`.
-- [ ] Personas index entry (`docs/engineering/splectrum/haicc/personas/index.md` line 7) — broaden "the blog as SPLectrum's public voice" to whole-site framing.
-
 ### Conventions to document in `posting-guide.md`
 
 - [ ] Publishing cadence — far buffer (4+ months, 4 posts/month at 1/8/16/24), near buffer (2 months, 8 posts/month adding 4/12/20/28), direct within near buffer. Built for flexibility; posts can be moved as the storyline evolves.

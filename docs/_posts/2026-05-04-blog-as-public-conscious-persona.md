@@ -3,7 +3,7 @@ layout: post
 title: "The World of SPLectrum as Public Conscious Persona"
 date: 2026-05-04
 labels: [persona, HAICC, SPLectrum]
-status: rework required
+status: mandatory vocabulary revision
 ---
 <img src="https://plus.unsplash.com/premium_photo-1748351930528-726e58f38c31?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Public conscious persona" />
 
@@ -13,7 +13,7 @@ Twelve posts have already been published as this one goes live and many more are
 
 The blog isn't the only accomplishment. SPLectrum was born and made it through the neonatal period: the seed principles make sense when looked at within the context of historical and current thinking. Now SPLectrum is in its infancy, time for it to start developing its own identity. The World of SPLectrum plays a big part in that. There is the blog where we are going to do it the Rorty way, conversational. Then there is the main site where the style is more matter of fact. Look at the main site as a reference documenting where we are at SPLectrum and where we will go. Let's cast this in a persona, it is time for a bit of engineering!
 
-Public conscious persona — what does that mean? It is not about internal dialogue, thoughts in progress. Its about finished units of work that are up for consideration: where does this fit in the public conversation? It is SPLectrum's outward-facing voice, speaking from conscious thought. What goes as a post is a storyline, a happening. What goes on site if for reference. The public conscious persona is owned by the World of SPLectrum repo, and publishes the public voice. That is its language game.
+Public conscious persona — what does that mean? It is not about internal dialogue, thoughts in progress. Its about finished units of work that are up for consideration: where does this fit in the public conversation? It is SPLectrum's outward-facing voice, speaking from conscious thought. What goes as a post is a storyline, a happening. What goes on site is for reference. The public conscious persona is owned by the World of SPLectrum repo, and publishes the public voice. That is its language game.
 
 I like to work in single concern repositories — this keeps both my focus and AI's focus clear. On the downside that means that there end up being a lot of these repositories — specific work places — around. They come and go. They encapsulate the activities that are taking place internally, at the subconscious level — there is no overall awareness across the repositories of what is currently active, no central command or orchestration. From time to time bits of information will end up in the conscious part, appearing as out of nowhere. Those are the thoughts that make it to the reference library or the blog. That is the information input into the blog repository.
 
@@ -23,7 +23,7 @@ Great, the blog repo now has access to all those conscious bits of information. 
 
 The draft stage is a folder structure that pre-organises the thoughts: is it core SPLectrum, is it a piece of research or engineering, or just a thought or a comment? A submission gets drafted depending on the type it is — shaping and filtering towards a post storyline, making it ready so the creative writing can be done. This is the part that is really human — AI collaborative.
 
-[Need to add the tone of voice review, the cold and warm keyword extraction, the iteration until ready for publishing - post and pages (slight difference in process)]
+Drafts aren't published as drafted. Each goes through review — a fresh-eyes cold read for tone, then a vocabulary pass that runs cold (what does the draft itself weight?) and warm (does it sit with the rest of the site?). Reviews feed revisions, revisions earn fresh reviews. The loop ends when the writing reads as if it had always been there.
 
 Now it is ready for scheduling. The raw thoughts have now been shaped into proper bits of conversation — into words that can be spoken in public. And that is where the last task kicks in: merge the individual conversation pieces into an engaging continuous storyline. Posts need to be scheduled for publication so they tell the story of SPLectrum as it is happening at the moment. Just like the conversations a person would have in public within their community.
 
@@ -31,7 +31,6 @@ For the architectural description of the persona, see the [Public Conscious Pers
 
 Welcome to SPLectrum — Public Conscious Persona 1.0.
 
-[Rework the public conscious persona page - it is now a persona of The World of SPLectrum]
 <small>More on the human-AI partnership on the <a href="/haicc">HAICC page</a> and in the <a href="/engineering/splectrum/haicc/personas/">personas area</a> of the reference library.</small>
 
 ---

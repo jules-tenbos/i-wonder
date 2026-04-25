@@ -2,9 +2,8 @@
 
 # Personas
 
-Communication channels SPLectrum operates through. Each persona has its own language game — vocabulary, rules, participants.
+A persona is a structured set of behaviours covering an area of work. These behaviours are data transformations over the data structure of its repository.
 
-- [Public Conscious Persona](public-conscious-persona/) — the blog as SPLectrum's public voice
-- [SPLectrum Thinking Persona](splectrum-thinking-persona/) — discussion persona for philosophical analysis and research (philosophical language)
-- [SPLectrum Engineering Persona](splectrum-engineering-persona/) — building persona for engineering within the three-fabric architecture (engineering language)
+Personas are listed below as they come into operation.
 
+- [Public Conscious Persona](public-conscious-persona/) — owns the public voice of The World of SPLectrum
