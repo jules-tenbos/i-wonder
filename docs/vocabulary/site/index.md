@@ -11,3 +11,4 @@ The [how shadow pages are made](how-shadow-pages-are-made/) page explains the pr
 
 - [Home](/vocabulary/site/home/)
 - [Home > Positioning](/vocabulary/site/home/positioning/)
+- [Blog > SPLectrum and First Principles](/vocabulary/site/blog/splectrum-and-first-principles/)
