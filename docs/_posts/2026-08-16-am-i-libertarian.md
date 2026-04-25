@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Am I a Libertarian?"
-date: 2026-08-18
+date: 2026-08-16
 labels: [preamble,philosophy, thought]
 status: final review
 ---

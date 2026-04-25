@@ -14,12 +14,8 @@ Tasks triggered by post publication. Updated as posts go live.
 - [ ] Publishing cadence — far buffer (4+ months, 4 posts/month at 1/8/16/24), near buffer (2 months, 8 posts/month adding 4/12/20/28), direct within near buffer. Built for flexibility; posts can be moved as the storyline evolves.
 - [ ] Post `status:` field convention — values seen across posts: `ready`, `final revision`, `rework required`, `rework mandatory`, `requires content check, mandatory rework`. Codify the set and what each means.
 
-### Per-post calendar refresh (out of sync below)
+### Per-post calendar refresh
 
-- [ ] Three posts have moved dates and the per-post entries below are stale:
-    - `splectrum-and-first-principles`: May 6 → May 8
-    - `blog-as-public-conscious-persona`: May 8 → May 4 (title now "The World of SPLectrum as Public Conscious Persona")
-    - `code-development-wow`: June 30 → July 4
 - [ ] Eight pre-SPLectrum reworks now live at July–August 2026 dates and have no per-post entries yet (they may not need any beyond the standing tweet task).
 
 ---
@@ -31,14 +27,13 @@ Tasks triggered by post publication. Updated as posts go live.
 ## May 1 — The Relational Reality of RQM goes live
 - [ ] Tweet: Properties exist through interaction, not in isolation. Relational quantum mechanics takes what the physics already says and drops the outside view. splectrum.world/blog/2026/05/the-relational-reality-of-rqm/ #RQM #Rovelli #QuantumMechanics #RelationalPhysics
 
-## May 6 — SPLectrum and First Principles goes live
-- [ ] **Second edit round needed** — storyline has evolved. P0 depth (life gradient, co-primordial), carrier language / Mycelium connection. See P0 submissions for conversation insights.
-- [ ] Tweet: Six lines. Being implies language. Language is relational. A walk through the SPLectrum seed — first principles with a bit more meat on the bone. splectrum.world/blog/2026/05/splectrum-and-first-principles/ #Philosophy #FirstPrinciples #Language #SPLectrum
-
-## May 8 — The Blog as Public Conscious Persona goes live
+## May 4 — The World of SPLectrum as Public Conscious Persona goes live
 - [ ] Update anchor page (About or Collaborative AI) to link to GitHub Pages reference library
 - [ ] Final editing review near publication
 - [ ] Tweet: What if the blog is a conscious persona — thoughts surfacing, shaped into conversation, spoken in public? A bit of SPLectrum engineering. splectrum.world/blog/2026/05/the-blog-as-public-conscious-persona/ #CollaborativeAI #Engineering #SPLectrum
+
+## May 8 — SPLectrum and First Principles goes live
+- [ ] Tweet: Six lines. Being implies language. Language is relational. A walk through the SPLectrum seed — first principles with a bit more meat on the bone. splectrum.world/blog/2026/05/splectrum-and-first-principles/ #Philosophy #FirstPrinciples #Language #SPLectrum
 
 ## May 10 — And Then There Were Six goes live
 - [ ] Tweet: P0 wasn't part of the original seed. It emerged while unpacking the principles — and turned out to be the foundation. splectrum.world/blog/2026/05/and-then-there-were-six/ #SPLectrum #Philosophy #Fichte #Heidegger

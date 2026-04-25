@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Embracing Anti-Foundationalism"
-date: 2026-08-26
+date: 2026-08-24
 labels: [preamble, philosophy, comment]
 status: final review
 ---

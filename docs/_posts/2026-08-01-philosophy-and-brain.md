@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Philosophy and the Brain"
-date: 2026-08-02
+date: 2026-08-01
 labels: [preamble,philosophy, thought]
 status: final review
 ---
