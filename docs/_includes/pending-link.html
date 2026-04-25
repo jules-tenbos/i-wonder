@@ -2,4 +2,6 @@
 {%- assign now = site.time | date: "%Y-%m-%dT%H:%M:%SZ" -%}
 {%- if site.future or now >= pub -%}
 {{ include.text }}
+{%- else -%}
+{{ include.fallback }}
 {%- endif -%}

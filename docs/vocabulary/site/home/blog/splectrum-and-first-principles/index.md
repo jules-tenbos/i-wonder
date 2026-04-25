@@ -1,8 +1,8 @@
-[Home](/) > [Vocabulary](/vocabulary/) > [This Web Site](/vocabulary/site/) > Blog > SPLectrum and First Principles
+[Home](/) > [Vocabulary](/vocabulary/) > [This Web Site](/vocabulary/site/) > Home > Blog > SPLectrum and First Principles
 
 # SPLectrum and First Principles — vocabulary
 
-The vocabulary of [SPLectrum and First Principles](/blog/2026/05/splectrum-and-first-principles/).
+The vocabulary of {% include pending-link.html date="2026-05-08T00:00:00Z" text="[SPLectrum and First Principles](/blog/2026/05/splectrum-and-first-principles/)" fallback="*SPLectrum and First Principles* (publishes 2026-05-08)" %}.
 
 | Term / phrase | Language | Comment |
 |---|---|---|
