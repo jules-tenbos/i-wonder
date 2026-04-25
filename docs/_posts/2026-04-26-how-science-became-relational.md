@@ -3,7 +3,7 @@ layout: post
 title: "From Clockwork to Open Questions"
 date: 2026-04-26
 labels: [positioning, science]
-blogger_id: 8854239958377647427
+status: ready
 ---
 <img src="https://images.unsplash.com/photo-1641143215652-971a31701a89?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Light and physics" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 

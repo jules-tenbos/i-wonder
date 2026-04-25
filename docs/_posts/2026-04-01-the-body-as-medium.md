@@ -3,7 +3,7 @@ layout: post
 title: "The Body as Medium"
 date: 2026-04-01
 labels: [positioning, philosophy, Merleau-Ponty]
-blogger_id: 6689810067997664896
+status: ready
 ---
 <img src="https://images.unsplash.com/photo-1506869640319-fe1a24fd76dc?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Friends connecting over shared experience"/>
 

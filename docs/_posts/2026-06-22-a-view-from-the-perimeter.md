@@ -3,7 +3,7 @@ layout: post
 title: "A View from the Perimeter"
 date: 2026-06-22
 labels: [discovery, science, SPLectrum]
-blogger_id: 6781658225721003765
+status: Mandatory review
 ---
 <img src="https://images.unsplash.com/photo-1559523527-b05d4e6775f8?q=80&w=350&h=230&auto=format&fit=crop" alt="A View from the Perimeter" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 

@@ -3,7 +3,7 @@ layout: post
 title: "Being Is Tension Across the Interface"
 date: 2026-05-18
 labels: [positioning, philosophy, comment]
-blogger_id: 139314948062516885
+status: Mandatory review
 ---
 <img src="https://images.unsplash.com/photo-1556197908-96ed0fa30b65?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Being Is Tension Across the Interface" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 

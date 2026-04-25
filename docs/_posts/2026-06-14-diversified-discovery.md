@@ -3,7 +3,7 @@ layout: post
 title: "Diversified Discovery"
 date: 2026-06-14
 labels: [discovery, philosophy, SPLectrum]
-blogger_id: 6315603576898479227
+status: Mandatory review
 ---
 <img src="https://images.unsplash.com/photo-1559523527-b05d4e6775f8?q=80&w=350&h=230&auto=format&fit=crop" alt="Diversified Discovery" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 

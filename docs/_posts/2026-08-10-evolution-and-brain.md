@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Evolution and the Brain"
-date: 2026-XX-XX
+date: 2026-08-10
 labels: [science, thought]
+status: final review
 ---
 <img src="https://images.unsplash.com/flagged/photo-1552863473-6e5ffe5e052f?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Evolution"/>
 
@@ -16,9 +17,11 @@ The brain develops through association, creating concepts by connecting sensory 
 
 In recent millennia, cultural evolution has accelerated dramatically. Writing, print, electronic communication — each threshold compresses the rate at which patterns can be shared and accumulated. At some point the pace of cultural change outruns the pace of physical change so thoroughly that mental evolution starts to decouple from biological evolution. What happens to a species when its thinking evolves faster than its bodies? That is, as far as I can tell, a live question for us right now.
 
-None of this is a road to guaranteed paradise. The brain is old, it is powerful, and it is also a device that will cheerfully confirm your own biases for you all day long if you let it. But the combination of a brain that reconfigures itself in response to use, a culture that now accumulates knowledge at an unprecedented rate, and tools that can extend the thinking further still — that is a journey worth taking seriously. I am ready for it, excited to see how much of the shape of our future is still open.
+None of this is a road to guaranteed paradise. The brain is old, it is powerful, and it is also a device that will cheerfully confirm your own biases for you all day long. But the combination of a brain that reconfigures itself in response to use, a culture that now accumulates knowledge at an unprecedented rate, and tools that can extend the thinking further still — that is a journey worth taking seriously. I am ready for it, excited to see how much of the shape of our future is still open.
 
-<small>This post is from an earlier moment in the walk. For how this connects to the wider picture of evolutionary transitions, see <a href="/reality/evolution/">reality / evolution</a> in the reference library.</small>
+<small>This post is from an earlier moment in the walk (03/12/2024). For how this connects to the wider picture of evolutionary transitions, see <a href="/reality/evolution/">reality / evolution</a> in the reference library.</small>
+
+<small>This post is part of the [preamble](/blog/label/preamble), about happening before SPLectrum saw the light of day.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@jplenio">Johannes Plenio</a> / Unsplash</small>

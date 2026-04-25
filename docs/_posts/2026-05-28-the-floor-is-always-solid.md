@@ -3,7 +3,7 @@ layout: post
 title: "The Floor Is Always Solid"
 date: 2026-05-28
 labels: [mycelium, engineering, SPLectrum]
-blogger_id: 6469900294167461780
+status: Mandatory review
 ---
 <img src="https://plus.unsplash.com/premium_photo-1685082608788-b531fd972c64?q=80&w=350&h=230&auto=format&fit=crop" alt="The Floor Is Always Solid" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 

@@ -3,7 +3,7 @@ layout: post
 title: "Creation and Discovery"
 date: 2026-06-10
 labels: [discovery, philosophy, SPLectrum]
-blogger_id: 1708305261311248482
+status: Mandatory review
 ---
 <img src="https://images.unsplash.com/photo-1559523527-b05d4e6775f8?q=80&w=350&h=230&auto=format&fit=crop" alt="Creation and Discovery" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 

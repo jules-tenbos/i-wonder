@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Philosophy and the Brain"
-date: 2026-XX-XX
-labels: [philosophy, thought]
+date: 2026-08-02
+labels: [preamble,philosophy, thought]
+status: final review
 ---
 <img src="https://images.unsplash.com/photo-1620028193494-671878b176b7?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Brain"/>
 
@@ -17,6 +18,8 @@ It also calls for openness to different perspectives. Mutual respect across diff
 Understanding the thinking machine can lead to a better comprehension of thinking itself. It promotes a style of philosophical contemplation that is grounded in scientific insight rather than pure speculation. Studying how the brain works helps us see why we think the way we do, how our biases and limitations emerge, and what possibilities exist for expanding the reach of human understanding — individually through learning, collectively through the ways we structure knowledge and share it.
 
 This doesn't diminish the wonder of consciousness or reduce philosophy to biology. Quite the opposite. It gives philosophy a firmer floor to stand on while asking the oldest questions. What is it like to be a thing that thinks? What can such a thing actually know? How should it live with others of its kind? These questions don't go away when science gets better. They get sharper.
+
+<small>This post is from an earlier moment in the walk(28/11/2024). This post is part of the [preamble](/blog/label/preamble), about happening before SPLectrum saw the light of day.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@theblowup">the blowup</a> / Unsplash</small>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "SPLectrum and First Principles"
-date: 2026-05-06
+date: 2026-05-08
 labels: [seed, philosophy, SPLectrum]
-blogger_id: 884898103835865300
+status: final review
 ---
 <img src="https://images.unsplash.com/photo-1736348877782-fa7ae2a9bd69?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="First principles" />
 

@@ -3,7 +3,7 @@ layout: post
 title: "The Seed and Category Theory — A First Encounter"
 date: 2026-06-28
 labels: [seed, mathematics, SPLectrum]
-blogger_id: 8348651168476634116
+status: Mandatory review
 ---
 <img src="https://plus.unsplash.com/premium_photo-1729598979199-0ad415ea36b1?q=80&w=350&h=230&auto=format&fit=crop" alt="The Seed and Category Theory — A First Encounter" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 

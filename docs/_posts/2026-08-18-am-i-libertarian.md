@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Am I a Libertarian?"
-date: 2026-XX-XX
-labels: [philosophy, thought]
+date: 2026-08-18
+labels: [preamble,philosophy, thought]
+status: final review
 ---
 <img src="https://images.unsplash.com/photo-1763079163086-fd758f86f831?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Liberty"/>
 
@@ -18,7 +19,9 @@ My actual position, if it needs a name, is a balanced one. Provide basic legal p
 
 The underlying principle is individual liberty balanced with mutual respect. That allows for a great diversity of ways of organising social life while protecting the fundamental dignities that shouldn't be up for negotiation. Libertarian? Close enough, if you squint. But the question mark in the title is the important part — it is the posture I actually hold.
 
-<small>This post is from an earlier moment in the walk. For where the decentralisation thread went, see <a href="/positioning/on-the-fence/mutualism/">mutualism</a> in the positioning area.</small>
+<small>This post is from an earlier moment in the walk (09/12/2024). For where the decentralisation thread went, see <a href="/positioning/on-the-fence/mutualism/">mutualism</a> in the positioning area.</small>
+
+<small>This post is part of the [preamble](/blog/label/preamble), about happening before SPLectrum saw the light of day.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@itsnath_jpeg">itsnath_jpeg</a> / Unsplash</small>

@@ -3,7 +3,7 @@ layout: post
 title: "Data in Motion"
 date: 2026-06-20
 labels: [mycelium, engineering, SPLectrum]
-blogger_id: 1311161946776577624
+status: Mandatory review
 ---
 <img src="https://plus.unsplash.com/premium_photo-1661876806982-61d04a531d8e?q=80&w=350&h=230&auto=format&fit=crop" alt="Data in Motion" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 

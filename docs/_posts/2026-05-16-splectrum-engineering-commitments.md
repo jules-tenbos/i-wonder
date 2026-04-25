@@ -3,7 +3,7 @@ layout: post
 title: "SPLectrum Engineering — Commitments"
 date: 2026-05-16
 labels: [seed, engineering, SPLectrum]
-blogger_id: 4901175070134612543
+status: requires content check, mandatory rework
 ---
 <img src="https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Design commitments" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 

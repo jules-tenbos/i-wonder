@@ -3,7 +3,7 @@ layout: post
 title: "Privacy, Naturally!"
 date: 2026-05-14
 labels: [seed, philosophy, SPLectrum]
-blogger_id: 7824578478222009861
+status: final revision
 ---
 <img src="https://images.unsplash.com/photo-1595666944516-bbb485958fb5?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Privacy" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
@@ -23,7 +23,7 @@ But something has gone deeply wrong with *how* we share. I'd call it pathologica
 
 First, the web got centralised. Sharing was supposed to be relational — subject to subject. Instead, a handful of platforms became the infrastructure of sharing itself. When a few actors own the bridges between subjects, you don't choose how to share anymore. The bridge chooses for you. It decides what gets amplified, what gets buried, what gets monetised. That's not sharing. That's P3 captured.
 
-Second, personal data lost its context. In your own medium, everything has context. It's your encounter, your experience, embedded in the web of meaning that makes you who you are. When you share something, that context travels with it. But when data gets extracted and recombined somewhere else — by an algorithm, a broker, an advertiser — the meaning is stripped away. What remains isn't knowledge in any meaningful sense. It's raw material for someone else's agenda. Your words without your world.
+Second, personal data lost its context. In your own medium, personal experience comes with context. It's your encounter, your experience, embedded in the web of meaning that makes you who you are. When you share something, that context travels with it. But when data gets extracted and recombined somewhere else — by an algorithm, a broker, an advertiser — the meaning is stripped away. What remains isn't knowledge in any meaningful sense. It's raw material for someone else's agenda. Your words without your world.
 
 Third, data became permanent. A subject is alive. It grows, shifts perspective, contradicts itself, forgets. That's not a bug — that's what being a subject *is*. But the digital world doesn't forget. It freezes moments of sharing and treats them as permanent truths about you. You are held accountable to a version of yourself that no longer exists. The freedom to evolve — to be — requires the freedom to leave things behind.
 
@@ -33,7 +33,7 @@ And that erosion has real consequences. When you know you're being watched, you 
 
 We've ended up treating privacy as a policy problem. Regulation, consent forms, data protection laws. These aren't useless, but they're patching symptoms. They accept the pathological structure and try to manage the damage. They don't ask the more fundamental question: why did sharing become pathological in the first place?
 
-The answer, I think, is architectural. When you centralise the infrastructure of sharing, pathology is inevitable. The incentives demand it. The few who control the bridges will always find ways to extract more, store more, decontextualise more — because that's where the value is for them, not for you.
+The answer, I think, is architectural. When the centralised infrastructure of sharing hijacks shared interactions for its own gain, pathology is inevitable. The incentives demand it. The few who control the bridges between subjects will always find ways to extract more, store more, decontextualise more — because that's where the value is for them, not for you.
 
 Which makes me wonder. What if the architecture itself could be different? What if sharing could be returned to its natural form — relational, subject to subject, without the middleman?
 

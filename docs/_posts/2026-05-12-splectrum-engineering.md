@@ -3,21 +3,21 @@ layout: post
 title: "SPLectrum Engineering"
 date: 2026-05-12
 labels: [seed, engineering, SPLectrum]
-blogger_id: 7938947592564788555
+status: rework mandatory
 ---
 <img src="https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="SPLectrum engineering" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
-In this post I am going to take a rather unusual step: use the SPLectrum philosophical framework as a first-principles approach to engineering. This post won't go very deep — it will peel off the first layer. You will notice that on its own already has far-reaching consequences.
+In this post I am going to take a rather unusual step: use the SPLectrum philosophical framework as a first-principles approach to engineering. This post won't go very deep — it will peel off the first layer. You will notice that that on its own already has far-reaching consequences.
 
 Before we go there, a few words on why this approach.<br/>
-The SPLectrum seed principles talk about properties shared by all languages and, as a consequence, what they have in common. The scope is wide — that's why the framing is firmly philosophical.<br/>
+The SPLectrum seed principles talk about properties shared by all languages, what they have in common. The language scope is wide — that's why the framing is firmly philosophical.<br/>
 SPLectrum engineering has an analytical side and an applied side. It deals with language as the way we think and live, and through engineering it aims to build that understanding into AI-collaborative solutions.<br/>
 I am convinced that we are on the brink of another revolution akin to the industrial revolution. I call it the Decentralised Cognition Revolution — the rise of autonomous, person-extending AI tooling and the expansion of our cognition through the penetrative capacities of AI.
 
 Let's do the round of the principles to peel off that layer.
 
 ***P0 — Being implies language***<br/>
-I interpret this very much in the Heidegger way — *being is always already disclosed in the world* — and the Fichte way — *being comes into existence through the act of differentiation*. There is an entity in interaction with the world that surrounds it. This gives us three components: the **entity**, the **world**, and **language**, the relational between them.
+I interpret this very much in the Heidegger way — *being is always already disclosed in the world* — and the Fichte way — *being comes into existence through the act of differentiation*. There is an entity in interaction with the world that surrounds it. This gives us three components: the **entity**, the **world**, and the relational between them, **language**.
 
 ***P1 — Language is relational***<br/>
 Language as the relational medium that expresses the interaction — the self communicating with the other.

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Code Implementation — Way of Working"
-date: 2026-06-30
+date: 2026-07-04
 labels: [engineering, SPLectrum]
-blogger_id: 4542187844106370055
+status: final review
 ---
 <img src="https://images.unsplash.com/photo-1586863065451-6a82fa7e81b9?q=80&w=350&h=230&auto=format&fit=crop" alt="Code Implementation — Way of Working" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 

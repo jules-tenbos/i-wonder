@@ -3,7 +3,7 @@ layout: post
 title: "Mutualism Without Intent"
 date: 2026-05-26
 labels: [positioning, SPLectrum, comment]
-blogger_id: 6506777397753608731
+status: Mandatory review
 ---
 <img src="https://images.unsplash.com/photo-1612142739712-bee0e474ed06?q=80&w=350&h=230&auto=format&fit=crop" alt="Mutualism Without Intent" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 

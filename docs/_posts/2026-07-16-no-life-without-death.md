@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "No Life Without Death"
-date: 2026-XX-XX
-labels: [thought]
+date: 2026-07-16
+labels: [preamble,thought]
+status: final review
 ---
 ![Photo by Melissa Askew on Unsplash](https://blogger.googleusercontent.com/img/a/AVvXsEiVY3FYf_nbngZngyCEeuALP7LbLxLQa4dqV0uSdGjTd-ipDJk-BY5OGhtywnFzaU3H8ZHw4TYgR5FXkTzMb7CUfwDnhb1Spm71maLBnAMJsTN1CbJZmU43KcLqd4WV53A0TnBHYmrg2dJRdC5f2vfXGyQreg_4kmhskWe-tfgHgfaRGTIvA_DRJOv-)
 
@@ -19,3 +20,5 @@ Life is also interconnected at every level. We are part of a complex ecosystem w
 We are not separate from life — we *are* life, expressing itself through our particular patterns of consciousness and experience. That framing helps me with the asymmetry. While we find it difficult to accept our individual finitude, we are part of something magnificent and ongoing. Our consciousness, our thoughts, our contributions become part of the larger story of life and evolution, even when the specific runner has handed over the flame and left the track.
 
 The flame passes on, taking new forms, exploring new possibilities. Always changing, always growing. That is a way of lasting forever which doesn't require any of us to personally manage the trick.
+
+<small>This post is from an earlier moment in the walk(20/02/2022). This post is part of the [preamble](/blog/label/preamble), about happening before SPLectrum saw the light of day.</small>

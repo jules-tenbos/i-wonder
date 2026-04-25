@@ -3,7 +3,7 @@ layout: post
 title: "Mycelium — The Data Fabric"
 date: 2026-05-20
 labels: [mycelium, engineering, SPLectrum]
-blogger_id: 2725312844865805306
+status: Mandatory review
 ---
 <img src="https://images.unsplash.com/photo-1718049942873-58bd663206dc?q=80&w=2067&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Mycelium — The Data Fabric" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 

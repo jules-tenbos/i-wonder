@@ -3,7 +3,7 @@ layout: post
 title: "Decentralised Process Models"
 date: 2026-06-24
 labels: [positioning, engineering, neuroscience]
-blogger_id: 7299506550716222530
+status: Mandatory review
 ---
 <img src="https://images.unsplash.com/photo-1664447990726-355422d41054?q=80&w=350&h=230&auto=format&fit=crop" alt="Decentralised Process Models" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 

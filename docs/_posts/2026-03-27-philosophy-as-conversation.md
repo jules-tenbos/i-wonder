@@ -3,7 +3,7 @@ layout: post
 title: "Philosophy as Conversation"
 date: 2026-03-27
 labels: [positioning, philosophy, Rorty]
-blogger_id: 4685173672260980226
+status: ready
 ---
 <img src="https://images.unsplash.com/photo-1592211762325-eea5e40adbd4?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Shattered glass" />
 

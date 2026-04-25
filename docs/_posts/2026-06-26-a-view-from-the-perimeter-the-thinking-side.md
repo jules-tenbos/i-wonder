@@ -3,7 +3,7 @@ layout: post
 title: "A View from the Perimeter — The Thinking Side"
 date: 2026-06-26
 labels: [discovery, philosophy, SPLectrum]
-blogger_id: 6022011166944890620
+status: Mandatory review
 ---
 <img src="https://images.unsplash.com/photo-1559523527-b05d4e6775f8?q=80&w=350&h=230&auto=format&fit=crop" alt="A View from the Perimeter — The Thinking Side" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 

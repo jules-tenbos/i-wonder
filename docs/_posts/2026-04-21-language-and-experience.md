@@ -3,7 +3,7 @@ layout: post
 title: "Language, Experience and Reality"
 date: 2026-04-21
 labels: [reality, philosophy, SPLectrum]
-blogger_id: 333430066304797033
+status: ready
 ---
 <img src="https://plus.unsplash.com/premium_photo-1664367985945-98d683d96e78?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Campfire" />
 

@@ -3,7 +3,7 @@ layout: post
 title: "Teaming Up With My Alter Ego"
 date: 2026-03-17
 labels: [HAICC, comment]
-blogger_id: 5645896188683754353
+status: ready
 ---
 <img src="https://images.unsplash.com/photo-1735815952441-224afdf53016?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Two people collaborating at a screen"/>
 

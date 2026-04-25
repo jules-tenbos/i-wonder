@@ -3,7 +3,7 @@ layout: post
 title: "Six Protocols, One Pattern"
 date: 2026-05-24
 labels: [mycelium, engineering, SPLectrum]
-blogger_id: 6250333592000670819
+status: Mandatory review
 ---
 <img src="https://plus.unsplash.com/premium_photo-1669048178541-582bd478d7d4?q=80&w=350&h=230&auto=format&fit=crop" alt="Six Protocols, One Pattern" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 

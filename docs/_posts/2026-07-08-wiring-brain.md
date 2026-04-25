@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Wiring the Brain"
-date: 2026-XX-XX
-labels: [thought]
+date: 2026-07-08
+labels: [preamble,thought]
+status: final review
 ---
 ![Brain Image](https://blogger.googleusercontent.com/img/a/AVvXsEhpHT0SRjcTAsbkNennufJkJt6OZV6brkvLYIBeDcUG-t5pnh2BxD_fXpvLWPR0NVb5anySCYYEiZl7JjZMEvQnDS5uaHf_gDRYo2F_SMYEhH4RqflgrIGB04DIQocQJTK340_VzRLWf6r4UwO60mpZ8ZMNrE88FoSxFUE3pARg_R2KPzmn7M85btMg)
 
@@ -21,3 +22,5 @@ More than thirty years after my initial fascination, I want to refocus on the br
 We train our brains to fit into society from birth — through family, school, language, and the ten thousand small adjustments a culture makes to its newcomers. But what happens as people are exposed to more information, live longer lives, and pass their wiring on to the next generation not biologically but through what they write, record, and build? That feels like a new chapter of brain evolution, one running in a different medium.
 
 The brain remains one of the most fascinating frontiers — a biological computer that has evolved to understand itself, and that is only now starting to catch sight of how it does so.
+
+<small>This post is from an earlier moment in the walk(16/01/2022). This post is part of the [preamble](/blog/label/preamble), about happening before SPLectrum saw the light of day.</small>

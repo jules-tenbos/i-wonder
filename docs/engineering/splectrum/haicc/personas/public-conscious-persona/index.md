@@ -2,28 +2,38 @@
 
 # Public Conscious Persona
 
-The persona for [In Wonder](https://splectrum.world/blog/), SPLectrum's public voice. A persona is a structured set of protocols with declared capabilities; this one holds the capability to surface material from other work and produce public content from it.
+The public conscious persona owns the public voice of The World of SPLectrum. Submissions arrive already conscious — ideas formed and researched in other work, surfacing here as candidates for the public conversation. The persona processes them, decides what to include and what to reject, and shapes the included material into public form. Owning the public voice is owning that decision. The persona is owned by the World of SPLectrum repo and speaks on its behalf.
 
-## The model
+## The three areas
 
-- **Persona** — a communication channel, a language game with its own vocabulary, rules, and participants. The persona owns the conversation with its readers.
-- **Conscious** — material surfaced from other work becomes visible here. From that moment the persona has full autonomy over it.
-- **Public** — the conscious mind's work is private; the result is public. The persona speaks.
+The persona's voice flows through three areas of the site, each with its own register but the same persona behind it:
 
-## Capabilities
+- **Main** — the reference body of work. Matter-of-fact register: specs, territory summaries, technical detail. Pages accumulate as the thinking accumulates.
+- **Blog (In Wonder)** — the conversation. Conversational register, the Rorty way: each post is a happening in time, a piece of public dialogue.
+- **Topnav** — the anchor navigation. Personal register: compact overviews that orient the reader, a friendlier voice for someone arriving and looking around.
 
-Conscious processing — receiving raw material, shaping it into a publishable form. Analysis, collaborative discussion, decisions on what lands where.
+These three together make up The World of SPLectrum's public face. Not separate voices — one voice tuned to three settings.
 
-Production — writing across posts, anchor pages, and reference pages. Voice across three dimensions (series, category, persona) maintained through labelling and cross-reference.
+## Workflow
 
-Scheduling — sequencing prepared material across the publication calendar with balance of variety, depth, and reserve.
+The workflow runs the same way across all three areas. A submission lands in the persona's intake: material that has been thought and worked through elsewhere, surfacing as a candidate for public expression. The persona reviews it — does this fit, does this belong here, is this ready, is this what the public voice wants to say? The decision to include or reject is the persona's first piece of work, and the most important. Once included, the material is owned. From that moment the public voice carries it.
 
-## Channels
+Included material moves through drafting, where the type-folder organisation (core SPLectrum, research, engineering, thought, comment) shapes it toward the destination register. Creative writing is human-AI collaborative — the draft becomes prose. The quality review loop runs against it. The scheduling task places it in the publication calendar. Production publishes it. The same loop applies whether the destination is main, blog, or topnav; the type-folder shaping carries it toward the right form.
 
-The persona publishes through three channels:
+## Quality review
 
-- **Posts** — the conversation. Individual explorations in chronological order.
-- **Anchor pages** — sidebar navigation. Compact overviews linking to reference pages.
-- **Reference pages** — the body of work. Specs, territory summaries, technical detail.
+Three components run in a loop until the draft reads cold and feels at home in its destination area.
 
-Posts are moments. Reference pages are where the thinking accumulates. Anchor pages are the navigation between them.
+A **tone-of-voice cold review** is a fresh read with no prior context, measuring how the draft sits against the established voice. A substantial part of the voice is shared across the three areas — the same person speaking, the same anti-hierarchical instinct, the same concrete-to-abstract reach. Where the areas differ is register: the blog stays conversational; the topnav speaks personally; the main site stays more matter-of-fact. Drift from the area's register signals revision, not adjustment of the guide.
+
+**Cold and warm vocabulary extraction** runs the same way across all three areas. A cold pass picks up the terms the draft itself weights; a warm pass, with the rest of the site in view, catches what the cold pass cannot — borrowings, terms used in two senses, ordinary-looking words that are operationally narrow on the site. The two passes are checked for alignment before the vocabulary is finalised. The full procedure lives in [vocabulary shadow extraction](/process/vocabulary-shadow-extraction).
+
+**Iteration** holds the loop together. Each review feeds revision; every change earns a fresh review. The loop runs until the draft reads cold and feels at home — only then is it ready for scheduling.
+
+## Blog publishing cadence
+
+The cadence applies to the blog. Main and topnav pages update as the work evolves and don't sit on a schedule; posts do.
+
+The cadence is buffered. Four months and beyond, the schedule runs at four posts per month, on the 1st, 8th, 16th, and 24th. Inside that — the two months closest to the present — it doubles to eight per month, adding the 4th, 12th, 20th, and 28th to the same grid. Inside that, posts are published directly, as they become ready, without waiting for a slot.
+
+The structure gives predictability over the long horizon and flexibility close in. Posts can be moved easily as the storyline evolves — the schedule is built to accommodate the move, not to lock anything down.

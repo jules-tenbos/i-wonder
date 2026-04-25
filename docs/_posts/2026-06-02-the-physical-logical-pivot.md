@@ -3,7 +3,7 @@ layout: post
 title: "The Physical/Logical Pivot"
 date: 2026-06-02
 labels: [mycelium, engineering, SPLectrum]
-blogger_id: 8305232369672269959
+status: Mandatory review
 ---
 <img src="https://plus.unsplash.com/premium_photo-1683133924436-a7afbdf8cd25?q=80&w=350&h=230&auto=format&fit=crop" alt="The Physical/Logical Pivot" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 

@@ -3,7 +3,7 @@ layout: post
 title: "I Know That I Don't Know"
 date: 2026-06-06
 labels: [philosophy, thought]
-blogger_id: 1143899155813234137
+status: Mandatory review
 ---
 <img src="https://images.unsplash.com/photo-1598398386929-4d5370672e9f?q=80&w=350&h=230&auto=format&fit=crop" alt="I Know That I Don't Know" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 

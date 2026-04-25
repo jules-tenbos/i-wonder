@@ -3,7 +3,7 @@ layout: post
 title: "From Language to Form of Life"
 date: 2026-03-22
 labels: [positioning, philosophy, Wittgenstein]
-blogger_id: 7383966599368645132
+status: ready
 ---
 <img src="https://images.unsplash.com/photo-1645117030875-4eb47312e333?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Plant growing through cracked wall" />
 
