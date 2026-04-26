@@ -2,7 +2,7 @@
 
 # The SPLectrum Seed
 
-The foundation of SPLectrum. Six principles on language and what languages all have in common. This section looks at the seed principles through the spectacles of different disciplines.
+The foundation of SPLectrum. Six principles on language and what languages all have in common. The [broad sense of language](/language/) is in play here — far beyond human communication, into all relational activity. This section looks at the seed principles through the spectacles of different disciplines.
 
 **[The original principles](original)**<br>
 P0–P5 in bare form. Five principles on relational, with a sixth creational added.

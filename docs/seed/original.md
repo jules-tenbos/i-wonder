@@ -4,26 +4,20 @@
 
 The seed principles in their original incarnation. The relational principles came first (P1–P5), last came the creational principle P0. {% include pending-link.html date="2026-05-10T00:00:00Z" text="See [And Then There Were Six](/blog/2026/05/and-then-there-were-six/) for the story." %}
 
-### P0 — Being implies language
+**P0 — Being implies language.**<br>
+Being is what stands apart from its context — the other. The tension between being and the other is the origin of language. The two come into existence together, neither prior.
 
-> Being and language are intrinsically linked — where there is one, there is the other.
+**P1 — Language is relational.**<br>
+What a language gives access to depends on what it relates to. A language's reach is the relations it holds — different relations, different reach.
 
-### P1 — Language is relational
+**P2 — Language is the medium through which a subject experiences reality.**<br>
+Language feeds into experience. Experience is what retention makes of what feeds in. The subject is the POV that holds it; reality is the totality of experience.
 
-> What a language gives access to depends on what it relates to.
+**P3 — Language is where subjects share knowledge about reality.**<br>
+Subjects converge through indirect interaction in language — one subject's output to the other becomes another subject's input from the other. Convergence is the source of shared reality, and of the only objectivity available.
 
-### P2 — Language is the medium through which a subject experiences reality
+**P4 — Languages are inter-relational and have equal standing in potential.**<br>
+Languages, as committed ways of expressing relation, are not isolated games. They interact, overlap, and inform each other, all having equal standing in potential. None is privileged in principle, however different they are in current reach.
 
-> Experience is always within the reach of a language.
-
-### P3 — Language is where subjects share knowledge about reality
-
-> Language is the source of the only objectivity known: convergence of subjects.
-
-### P4 — Languages are inter-relational and have equal standing in potential
-
-> Languages, as committed ways of expressing relation, are not isolated games. They interact, overlap, and inform each other, all having equal standing in potential.
-
-### P5 — Together they form a web of growing complexity
-
-> Relational density increases as knowledge grows.
+**P5 — Together they form a web of growing complexity.**<br>
+The languages together form a web — each one a node, each interaction a relation. As languages emerge and interact, the web's relational density grows. The complexity is in the relating, not in any individual language.
