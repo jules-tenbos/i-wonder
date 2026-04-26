@@ -6,14 +6,14 @@ The vocabulary of {% include pending-link.html date="2026-05-08T00:00:00Z" text=
 
 | Term / phrase | Language | Comment |
 |---|---|---|
-| the seed / seed principles | SPLectrum | The six lines (P0–P5). See: [seed](/vocabulary/splectrum/seed/#seed) |
-| being / *being* | philosophy (Heidegger, Fichte) | Italicised in noun sense — "something different from the context it resides in". See: [being](/vocabulary/splectrum/seed/#being) |
+| the seed / seed principles | SPLectrum | The six lines (P0–P5). See: [seed](/vocabulary/splectrum/seed/original) |
+| being / *being* | philosophy (Heidegger, Fichte) | Italicised in noun sense — "something different from the context it resides in". See: [being](/vocabulary/splectrum/seed/original) |
 | the other | philosophy (Fichte flavour) | Pair to *being*; the context being differs from. |
 | observer | philosophy | Equated with "subject" in P2; not restricted to humans. |
-| subject | philosophy | The view from inside a being; equated with "observer" in this post. See: [subject](/vocabulary/splectrum/seed/#subject) |
+| subject | philosophy | The view from inside a being; equated with "observer" in this post. See: [subject](/vocabulary/splectrum/seed/original) |
 | lived experience | phenomenology (Husserl, Merleau-Ponty) | Used under P2 in contrast to "representation". |
 | representation | philosophy | Contrast term — the post argues against representation as the model of knowing. |
-| equal standing | SPLectrum | No hierarchy among languages. See: [equal standing](/vocabulary/splectrum/seed/#equal-standing) |
+| equal standing | SPLectrum | No hierarchy among languages. See: [equal standing](/vocabulary/splectrum/seed/original) |
 | inter-relational | SPLectrum | Three directions: horizontal (equivalent), vertical-up (spawning), vertical-down (analysis). |
 | language game | Wittgenstein | Used in passing under P4. See: [language game](/vocabulary/wittgenstein/#language-game) |
 | RQM (relational quantum mechanics) | external | Referenced via the writer's prior post. |

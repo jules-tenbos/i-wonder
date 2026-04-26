@@ -6,7 +6,7 @@ The vocabulary of SPLectrum's engineering language game at seed level. Words tha
 
 Engineering shifts away from the individual POV toward interactions across a data state, and this base vocabulary reflects that.
 
-The vocabulary itself is maintained at [the seed vocabulary page](/vocabulary/splectrum/seed) — five seed-to-engineering pairs (Being/Entity, Language/Protocol, Subject/Owner, Reality/Data state, Shared reality/Shared data state), plus engineering-only terms (Data world, Subject reality, Persona).
+The vocabulary itself is maintained at [the seed engineering vocabulary](/vocabulary/splectrum/seed/engineering) — five seed-to-engineering pairs (Being/Entity, Language/Protocol, Subject/Owner, Reality/Data state, Shared reality/Shared data state), plus engineering-only terms (Data world, Subject reality, Persona).
 
 Protocol and persona are two levels of a language game: protocol is the unit (one interaction pattern), persona is the role (the structured set enacting it). SPLectrum engineering splits where Wittgenstein leaves "game" ambiguous.
 

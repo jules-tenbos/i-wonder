@@ -11,10 +11,10 @@ Being is what stands apart from its context — the other. The tension between b
 What a language gives access to depends on what it relates to. A language's reach is the relations it holds — different relations, different reach.
 
 **P2 — Language is the medium through which a subject experiences reality.**<br>
-Language feeds into experience. Experience is what retention makes of what feeds in. The subject is the POV that holds it; reality is the totality of experience.
+Language puts the subject in interaction — the only way the subject is in. Experience requires accumulation. A subject's reality points to the totality of this. Knowledge is its insight factor.
 
 **P3 — Language is where subjects share knowledge about reality.**<br>
-Subjects converge through indirect interaction in language — one subject's output to the other becomes another subject's input from the other. Convergence is the source of shared reality, and of the only objectivity available.
+Subjects converge through indirect language interaction. Convergence is the source of shared reality, and of the only objectivity available.
 
 **P4 — Languages are inter-relational and have equal standing in potential.**<br>
 Languages, as committed ways of expressing relation, are not isolated games. They interact, overlap, and inform each other, all having equal standing in potential. None is privileged in principle, however different they are in current reach.
