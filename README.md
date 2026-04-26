@@ -21,5 +21,6 @@ The site's public voice lives at splectrum.world (Jekyll on GitHub Pages, served
 - **[posting-guide.md](posting-guide.md)** — publishing conventions (pipeline, Jekyll workflow, cadence, scheduling strategy, labels, links, review checklist).
 - **[scheduled-tasks.md](scheduled-tasks.md)** — tasks triggered by post publication.
 
-**Archive**
+**Archive and off-site assets**
 - **[archive/](archive/)** — snapshots of reworked site areas preserved as source material for future blog posts and reference.
+- **[icons/](icons/)** — alternate icons kept for reference (not served on the site).
