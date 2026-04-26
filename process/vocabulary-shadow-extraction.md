@@ -17,11 +17,20 @@ The two-pass shape earned itself on the first shadow page (home). Each pass surf
 1. **Cold pass.** Run an agent with no broader site context (a fresh subagent given only the target page). Ask it to list load-bearing terms and phrases — things a reader would need to understand to follow the page.
 2. **Warm pass.** With the rest of the site in view, re-read the page and the cold output. Add terms the cold pass missed because they look ordinary but are site-specific; flag terms used in two senses on the site; surface borrowings (e.g. Wittgenstein's "language game") and external anchors.
 3. **Alignment check.** Before going further, compare cold against warm: does the cold reading sufficiently reflect the aims of the page as the warm pass understands them? If yes, proceed. If not, the page is not carrying its intent cleanly — that is a signal for content rework, not for glossing over in the shadow. Rewrite the page to the extent warranted, then run a fresh cold pass (and re-run the warm pass if scope has moved). Only a page whose cold and warm readings align is ready to have its vocabulary finalised.
-4. **Consolidate into the table.** Columns: *Term / phrase*, *Language*, *Comment*. *Language* names the provenance (SPLectrum, SPLectrum engineering, general English, Wittgenstein, and so on). *Comment* gives brief usage context, and where the term is already defined in `/vocabulary/splectrum/...`, a cross-reference link.
+4. **Consolidate into the table.** Columns: *Term / phrase*, *Language*, *Comment*. *Language* names the provenance (SPLectrum, SPLectrum engineering, general English, Wittgenstein, and so on). *Comment* gives brief usage context, and where the term is already defined in `/vocabulary/splectrum/...`, a cross-reference link. When the content page is itself strongly inherited-vocabulary — a narrator-persona positioning post, for instance — be wary of cross-references into `/vocabulary/splectrum/...` and SPLectrum-flavoured tagging in the *Language* column. They can colour the table with framing the page itself does not carry. Where the pull is misleading, leave the row face-value.
 5. **Review against the content page.** Three criteria:
     - Every load-bearing term on the page should appear in the table; anything in the table that doesn't actually carry weight on this page comes out.
     - General-language terms are included only where they do site-language work — used in a narrowed or site-specific sense, or carrying an implicit reference the page depends on. Plain vocabulary the reader already understands without site context stays out.
     - **Things, not carrier vocabulary.** A vocabulary entry names a concept the page is putting on the table — something a reader needs to know what *this page* means by. Carrier vocabulary — connective or descriptive words that help express the things without themselves being named concepts — stays out, even when load-bearing at the sentence level. Test: would a reader look this term up to understand what the page means by it, or is it doing background work to let the things land?
+
+    Common soft-row patterns to catch on review:
+    - Single-mention contrast terms glossed in the surrounding sentence — the row adds nothing the page doesn't already hand the reader.
+    - Pure negations of another row — the negation is already implicit there.
+    - Atmospheric setting vocabulary that evokes a moment without naming a Thing.
+    - Everyday words doing weighted work but not term-to-look-up — the reader needs context here, not a definition.
+    - The page's own summary nouns or coinages where they read more as carrier than as concept.
+
+    Expect to draft long and prune. Tightening to the load-bearing core typically takes two or three review passes.
 
 Shadow page form: the page opens with the breadcrumb, then the title *[Breadcrumb] — vocabulary*, then a one-line intro *"The vocabulary of [link to the content page]."* — then the table. The table is followed by `{: .vocabulary-shadow}` on its own line so the CSS stacks the columns on mobile.
 
@@ -54,4 +63,4 @@ When the extraction surfaces patterns worth carrying forward — diagnostic read
 
 ## Status
 
-First draft. Written after the home shadow page; refined against the second shadow page (`splectrum-and-first-principles`), which added the things-vs-carrier criterion, the diagnostic-reading section, and the optional Observations section. Will be checked and refined against the next shadow page (mycelium index is a likely candidate — richer content, different register, a harder test of the pattern).
+First draft. Written after the home shadow page; refined against the second shadow page (`splectrum-and-first-principles`), which added the things-vs-carrier criterion, the diagnostic-reading section, and the optional Observations section. Refined further against the third shadow page (`how-science-became-relational`), a strongly inherited-vocabulary positioning post — that round added the soft-row patterns and the iterative-tightening note in step 5 and the cross-reference / SPLectrum-tagging discipline in step 4, and surfaced the procedure's value as a quality gate even when (especially when) the resulting table is SPLectrum-empty. Mycelium index remains a likely next test — different register again.
