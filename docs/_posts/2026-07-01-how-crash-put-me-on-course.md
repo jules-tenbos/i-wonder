@@ -5,7 +5,7 @@ date: 2026-07-01
 labels: [preamble,thought]
 status: final review
 ---
-![Photo by NeONBRAND on Unsplash](https://blogger.googleusercontent.com/img/a/AVvXsEhhxdSBQj8Q7-VQ7u-BDlsD4CmooB0c4GyYZnpSjSFJs2KNyEkXWISyhhkT0dsfm-mDsZ-b3RqEDXDOz72LYzU131k3qoW6UKLYGNZjL8Pa0aL2UEPOpTXq1N-F_adeRxQwdjmi2pmgYhiLkAjz9yMK0WT9Z14NC-bO9P-pCf47FiSQK6GPYFYR_OVJ=w320-h213)
+<img src="https://blogger.googleusercontent.com/img/a/AVvXsEhhxdSBQj8Q7-VQ7u-BDlsD4CmooB0c4GyYZnpSjSFJs2KNyEkXWISyhhkT0dsfm-mDsZ-b3RqEDXDOz72LYzU131k3qoW6UKLYGNZjL8Pa0aL2UEPOpTXq1N-F_adeRxQwdjmi2pmgYhiLkAjz9yMK0WT9Z14NC-bO9P-pCf47FiSQK6GPYFYR_OVJ" alt="How a Crash Put Me on Course" />
 
 On this day seven years ago I had a fortuitous car crash — if something like that exists. Although I have always been interested in inquiry, spanning science and philosophy, it is this event that set me on course for SPLectrum.
 
@@ -24,3 +24,6 @@ Now, don't take me the wrong way. The destination is not some claim of something
 Sometimes our greatest setbacks become our most important redirections. I'm not sure I recommend the method. But I'm grateful for what it set in motion.
 
 <small>This post is part of the [preamble](/blog/label/preamble), about happening before SPLectrum saw the light of day.</small>
+
+---
+<small>Photo: <a href="https://unsplash.com/@neonbrand">NeONBRAND</a> / Unsplash</small>

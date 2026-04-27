@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Diversified Discovery"
-date: 3025-06-14
-published: false
+date: 2026-06-28
 labels: [discovery, philosophy, SPLectrum]
 status: Mandatory review
 ---

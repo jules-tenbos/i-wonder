@@ -5,9 +5,7 @@ date: 2026-07-08
 labels: [preamble,thought]
 status: final review
 ---
-![Brain Image](https://blogger.googleusercontent.com/img/a/AVvXsEhpHT0SRjcTAsbkNennufJkJt6OZV6brkvLYIBeDcUG-t5pnh2BxD_fXpvLWPR0NVb5anySCYYEiZl7JjZMEvQnDS5uaHf_gDRYo2F_SMYEhH4RqflgrIGB04DIQocQJTK340_VzRLWf6r4UwO60mpZ8ZMNrE88FoSxFUE3pARg_R2KPzmn7M85btMg)
-
-*Photo by Hal Gatewood on Unsplash*
+<img src="https://blogger.googleusercontent.com/img/a/AVvXsEhpHT0SRjcTAsbkNennufJkJt6OZV6brkvLYIBeDcUG-t5pnh2BxD_fXpvLWPR0NVb5anySCYYEiZl7JjZMEvQnDS5uaHf_gDRYo2F_SMYEhH4RqflgrIGB04DIQocQJTK340_VzRLWf6r4UwO60mpZ8ZMNrE88FoSxFUE3pARg_R2KPzmn7M85btMg" alt="Wiring the Brain" />
 
 In my younger years — I am nearly sixty now — I wanted to write a book about the human brain. I was fascinated by viewing it as a computer and exploring how we learn and perform tasks. I never wrote that book. But the fascination hasn't dimmed; if anything the last thirty years have made the subject more interesting than the version I would have written then.
 
@@ -24,3 +22,6 @@ We train our brains to fit into society from birth — through family, school, l
 The brain remains one of the most fascinating frontiers — a biological computer that has evolved to understand itself, and that is only now starting to catch sight of how it does so.
 
 <small>This post is from an earlier moment in the walk(16/01/2022). This post is part of the [preamble](/blog/label/preamble), about happening before SPLectrum saw the light of day.</small>
+
+---
+<small>Photo: <a href="https://unsplash.com/@halgatewood">Hal Gatewood</a> / Unsplash</small>

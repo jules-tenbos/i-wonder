@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Creation and Discovery"
-date: 3025-06-10
-published: false
+date: 2026-06-20
 labels: [discovery, philosophy, SPLectrum]
 status: Mandatory review
 ---

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Privacy, Naturally!"
-date: 3025-05-14
-published: false
+date: 2026-06-12
 labels: [seed, philosophy, SPLectrum]
 status: final revision
 ---

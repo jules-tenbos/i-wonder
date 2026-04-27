@@ -5,7 +5,7 @@ date: 2026-07-24
 labels: [preamble,thought]
 status: final review
 ---
-![Brown Wooden Fence Near Body of Water](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS2W0Cx13mtrZz7j4UuRkoFYQX5HeiioN4BsVpUg-L8KspcSQTZw77ERYQCCwnIT7eg_6WBu6mAkaQ5KTCguXw3MMmPyHXL-owhMwwN2e4ta1x_HK9wVaFhyAyQSP4rYWf3zAYtrleeFwwOAiA4yIRIlS7Hx5UEuB4qHK-SMXscH96jESHAVVKw6vXhdg/w600-h399/jaleel-akbash-nIhScs1bRYg-unsplash.jpg)
+<img src="https://images.unsplash.com/photo-1505228395891-9a51e7e86bf6?q=80&w=350&h=230&auto=format&fit=crop" alt="Promises Made, Promises Broken" />
 
 *This post is from a period before SPLectrum. I wrote a small number of posts, but wasn't exactly a productive writer. It was not until the arrival of AI that productivity in writing was unlocked for me. I had an idea of the style I wanted, I had topics in mind, but putting it all together was were it failed - each time. It makes me smile when I read this back, I really couldn't get it fired up ...*
 
@@ -28,3 +28,6 @@ The next posts will fill in each area. New promise made — let's see what happe
 *It took me another two years to figure out that it was language that I was after. And it was a software project and AI that pointed it out to me.*
 
 <small>This post is from an earlier moment in the walk(24/11/2024). This post is part of the [preamble](/blog/label/preamble), about happening before SPLectrum saw the light of day.</small>
+
+---
+<small>Photo: <a href="https://unsplash.com/@jaleel_akbash">Jaleel Akbash</a> / Unsplash</small>

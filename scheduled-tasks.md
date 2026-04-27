@@ -42,8 +42,9 @@ Tasks triggered by post publication. Updated as posts go live.
 ## May 14 — Privacy, Naturally! goes live
 - [ ] Draft tweet
 
-## May 16 — SPLectrum Engineering — Commitments goes live
+## May 16 — The Seed and Human Reality goes live
 - [ ] Draft tweet
+- [ ] Final review of post narrative (draft stage — improve cycle pending)
 
 ## May 20 — Mycelium — The Data Fabric goes live
 - [ ] Jules rework needed — review full post against current ref lib state
