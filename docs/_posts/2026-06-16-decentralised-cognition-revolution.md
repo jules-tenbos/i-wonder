@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "The Decentralised Cognition Revolution"
-date: 2026-05-22
+date: 2026-06-16
+published: false
 labels: [HAICC, thought]
 status: Mandatory review
 ---

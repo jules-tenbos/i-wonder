@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SPLectrum Engineering"
-date: 2026-05-12
+date: 2026-05-20
 labels: [seed, engineering, SPLectrum]
 status: rework mandatory
 ---

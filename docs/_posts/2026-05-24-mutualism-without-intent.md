@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mutualism Without Intent"
-date: 2026-05-26
+date: 2026-05-24
 labels: [positioning, SPLectrum, comment]
 status: Mandatory review
 ---

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Mycelium — The Data Fabric"
-date: 2026-05-20
+date: 3025-05-20
+published: false
 labels: [mycelium, engineering, SPLectrum]
 status: Mandatory review
 ---

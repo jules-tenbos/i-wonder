@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Data in Motion"
-date: 2026-06-20
+date: 3025-06-20
+published: false
 labels: [mycelium, engineering, SPLectrum]
 status: Mandatory review
 ---

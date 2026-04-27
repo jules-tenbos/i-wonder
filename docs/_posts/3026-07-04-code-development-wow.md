@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Code Implementation — Way of Working"
-date: 2026-07-04
+date: 3026-07-04
+published: false
 labels: [engineering, SPLectrum]
 status: final review
 ---

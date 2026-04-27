@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Six Protocols, One Pattern"
-date: 2026-05-24
+date: 3025-05-24
+published: false
 labels: [mycelium, engineering, SPLectrum]
 status: Mandatory review
 ---

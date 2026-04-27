@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Being Is Tension Across the Interface"
-date: 2026-05-18
-labels: [positioning, philosophy, comment]
-status: Mandatory review
+title: "The Birth of P0 — Being Is Tension"
+date: 2026-05-12
+labels: [seed, philosophy, comment]
+status: rework mandatory
 ---
-<img src="https://images.unsplash.com/photo-1556197908-96ed0fa30b65?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Being Is Tension Across the Interface" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://images.unsplash.com/photo-1556197908-96ed0fa30b65?q=80&w=2070&auto=format&fit=crop" alt="The Birth of P0 — Being Is Tension" />
 
-You could call the title of this post *SPLectrum speak*. The seed principle P0 states ***Being Implies Language***. The two come together. Over the centuries creation has been formulated and reformulated as an act of differentiation. There is no being without its complement, without non-being. The differentiation, a tension keeping both different.
+When [SPLectrum was born](/blog/2026/03/splectrum-is-born/) the seed had only five principles about language and the relational. Then after having done the initial [positioning](/blog/label/positioning) posts the SPLectrum seed was ready for a bit of unpacking. I named that post [SPLectrum from First Principles](/blog/2026/05/splectrum-and-first-principles/). While preparing for the post I ran into a bit of bother: where does language come from? My thoughts drifted Heidegger's way - *being is always already disclosed* - and if that is the case, so must language, the relational. Ok, *being implies language* but I don't think I can say more. Since this principle is of a different nature from the other ones, I decided to call it P0 — the principle of language origin.
 
-I find it fascinating how so many independent traditions have reformulated that same insight, each in their own vocabulary, each with a different take.
-So I decided to share a number of them, if anything to illustrate that this creational SPLectrum principle is nothing special. 
-It has been a constant over centuries.
+P0 started as a simple statement — a bare acknowledgment — but has since become a genuine creational principle. The act of placing a boundary *is* the act of creation. You don't create something and then put a boundary around it. The boundary is the creation. Before it, no thing. After it, something. Every instance of anything — a cell, a thought, a data unit, a self — repeats the same cut. P0 is not one principle among six. It is the ground from which the other five become possible.
+
+And it turns out this is nothing new. Over the centuries, creation has been formulated and reformulated as an act of differentiation. There is no being without its complement, without non-being. The differentiation, a tension keeping both different. I find it fascinating how so many independent traditions have arrived at the same insight, each in their own vocabulary, each with a different take.
 
 Let's start with a presocratic one<br/>
 ***Heraclitus — the tension of opposites***<br/>
@@ -59,7 +59,7 @@ Nine independent formulations. Different traditions, different centuries, differ
 
 My formulation as ***Being is tension across the interface*** came to me as I imagined a water droplet suspended in air. The droplet as the differentiation, the tension in the interface to keep the droplet together as liquid, suspended in a gas. Being suspended in its complement. The interface is where being meets the world.
 
-<small>This post is part of the [positioning series](/blog/label/positioning). More on positioning in the <a href="/positioning/">positioning area of the reference library</a>.</small>
+<small>This post is part of the [seed series](/blog/label/seed). More on the seed in the <a href="/seed">seed area of the reference library</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@xcrap">xcrap</a> / Unsplash</small>

@@ -13,7 +13,7 @@ Tasks triggered by post publication. Updated as posts go live.
 
 ### Conventions to document in `posting-guide.md`
 
-- [ ] Publishing cadence — far buffer (4+ months, 4 posts/month at 1/8/16/24), near buffer (2 months, 8 posts/month adding 4/12/20/28), direct within near buffer. Built for flexibility; posts can be moved as the storyline evolves.
+- [x] Publishing cadence — documented in posting-guide.md (done 2026-04-27).
 - [ ] Post `status:` field convention — values seen across posts: `ready`, `final revision`, `rework required`, `rework mandatory`, `requires content check, mandatory rework`. Codify the set and what each means.
 
 ### Per-post calendar refresh

@@ -1,9 +1,10 @@
 ---
+layout: post
 title: The Seed and Human Reality
-series: seed
-category: philosophy
-persona: SPLectrum
-status: storyline
+date: 2026-05-16
+published: false
+labels: [seed, philosophy, SPLectrum]
+status: Mandatory review
 ---
 
 # The Seed and Human Reality

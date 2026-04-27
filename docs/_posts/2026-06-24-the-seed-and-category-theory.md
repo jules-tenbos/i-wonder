@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Seed and Category Theory — A First Encounter"
-date: 2026-06-28
+date: 2026-06-24
 labels: [seed, mathematics, SPLectrum]
 status: Mandatory review
 ---

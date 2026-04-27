@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Decentralised Process Models"
-date: 2026-06-24
+date: 3025-06-24
+published: false
 labels: [positioning, engineering, neuroscience]
 status: Mandatory review
 ---

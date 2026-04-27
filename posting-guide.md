@@ -13,10 +13,11 @@ Posts live in `docs/_posts/` as Jekyll markdown with front matter. Future-dated 
 
 ## Cadence
 
-- Substantial posts: every 4 days.
-- Lighter posts: optionally in between, 2 days after the preceding post.
+Blog cadence is buffered: four posts a month at four months out and beyond (1st, 8th, 16th, 24th), doubling to eight inside the two-month window (adding the 4th, 12th, 20th, 28th), with direct publication inside that as posts become ready. Posts wait in draft until their slot and can be moved easily as the storyline evolves — the schedule accommodates movement, not the other way around.
+
 - Schedule time: 10:00 UTC.
 - Active schedule tracked in `scheduled-tasks.md`.
+- Main and topnav update as the work evolves, not on a cadence.
 
 ## Markdown Format
 
@@ -80,24 +81,11 @@ Submissions stay in `submissions/` during this process; frontmatter tracks statu
 
 ### Scheduling strategy
 
-**Baseline.** At least one core post per month. That's the only rigid requirement.
-
-**Horizon.** Scheduling horizon expands with productivity:
-
-- 1 post/month → 1 month ahead.
-- 2 posts/month → 2 months ahead.
-- 4 posts/month → 4 months ahead.
-- 6–8 posts/month → 4–6 months ahead.
-
-**Preferred dates.**
-
-- 1st, 16th — core slots (priority).
-- 8th, 24th — other category slots.
-- 4th, 12th, 20th, 28th — overflow when productive.
+**Slots.** Four base slots per month: 1st, 8th, 16th, 24th. Inside the two-month window, four more open up: 4th, 12th, 20th, 28th. Inside that, direct publication as posts become ready.
 
 **Composition.** Alternate categories for variety, or cluster the same topic for depth. Not too many heavy core posts in a row. Engineering posts spaced out. Thinking posts as breathers. Topical bunching when posts build on each other.
 
-**Strategic reserve.** Core posts are the reserve. When material is plentiful, hold core posts back rather than scheduling immediately. Aim: 6–12 months of core posts available in the pipeline at steady state.
+**Movement.** The schedule accommodates movement, not the other way around. Posts can be moved as the storyline evolves.
 
 ## Production — Way of Working
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "The Floor Is Always Solid"
-date: 2026-05-28
+date: 3025-05-28
+published: false
 labels: [mycelium, engineering, SPLectrum]
 status: Mandatory review
 ---

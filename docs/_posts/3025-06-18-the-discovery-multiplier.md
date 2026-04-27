@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "The Discovery Multiplier"
-date: 2026-06-18
+date: 3025-06-18
+published: false
 labels: [discovery, HAICC, SPLectrum]
 status: Mandatory review
 ---
