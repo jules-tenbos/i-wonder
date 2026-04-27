@@ -2,7 +2,7 @@
 
 # The original principles
 
-The seed principles in their original incarnation. The relational principles came first (P1–P5), last came the creational principle P0. {% include pending-link.html date="2026-05-10T00:00:00Z" text="See [And Then There Were Six](/blog/2026/05/and-then-there-were-six/) for the story." %}
+The seed principles in their original incarnation. The relational principles came first (P1–P5), last came the creational principle P0.
 
 **P0 — Being implies language.**<br>
 Being is what stands apart from its context — the other. The tension between being and the other is the origin of language. The two come into existence together, neither prior.
@@ -21,3 +21,5 @@ Languages, as committed ways of expressing relation, are not isolated games. The
 
 **P5 — Together they form a web of growing complexity.**<br>
 The languages together form a web — each one a node, each interaction a relation. As languages emerge and interact, the web's relational density grows. The complexity is in the relating, not in any individual language.
+
+See the [seed series](/blog/label/seed) for the conversation around these principles.

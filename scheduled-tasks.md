@@ -8,7 +8,7 @@ Tasks triggered by post publication. Updated as posts go live.
 - [ ] Review links in all scheduled posts (May 20 – June 24) — check for missing cross-references to ref lib and other posts
 - [ ] Tone-of-voice review of a content page with a shadow page — update the shadow with any vocabulary or relational observations surfaced by the review
 - [ ] Vocabulary shadow cadence — process one finished page's vocabulary per post publication (throttle back if too dense). Candidate for each publication is named in the entry below.
-- [ ] Seed section — structural review and vocabulary shadows for `seed/original` and `seed/philosophical`. Substantial rework done 2026-04-26 (paragraph-with-bold-lead pattern, P0–P5 elaborations rewritten, P0/P5 loop framing, disclosure threading on P5, horizontal/vertical mechanism on P4); review + shadow extraction queued for the next session.
+- [ ] Seed section — `seed/philosophical` review pass still outstanding. (Source vocab shadows done 2026-04-26: `vocabulary/splectrum/seed/original.md`, `vocabulary/splectrum/seed/philosophical.md`.)
 - [ ] Vocabulary shadow — `positioning/close-affinity/seed/being-as-tension`. Originally listed under the April 26 publication entry; not actually tied to that post (shared timepoint only) — kept as outstanding.
 
 ### Conventions to document in `posting-guide.md`
@@ -21,10 +21,6 @@ Tasks triggered by post publication. Updated as posts go live.
 - [ ] Eight pre-SPLectrum reworks now live at July–August 2026 dates and have no per-post entries yet (they may not need any beyond the standing tweet task).
 
 ---
-
-## April 26 — From Clockwork to Open Questions goes live
-- [x] Vocabulary shadow — `how-science-became-relational` post (done in lieu of being-as-tension, which moved to standing tasks).
-- [x] Tweet: From Newton's clockwork to quantum mechanics — spectacular success, no agreed picture of reality. How physics arrived at the same open question as philosophy: what is the role of the observer? splectrum.world/blog/2026/04/how-science-became-relational/ #QuantumMechanics #PhilosophyOfScience #Physics #Relativity
 
 ## May 1 — The Relational Reality of RQM goes live
 - [ ] Tweet: Properties exist through interaction, not in isolation. Relational quantum mechanics takes what the physics already says and drops the outside view. splectrum.world/blog/2026/05/the-relational-reality-of-rqm/ #RQM #Rovelli #QuantumMechanics #RelationalPhysics
@@ -50,7 +46,6 @@ Tasks triggered by post publication. Updated as posts go live.
 - [ ] Draft tweet
 
 ## May 20 — Mycelium — The Data Fabric goes live
-- [x] Kafka added as third committed language (updated 2026-04-14, pushed to Blogger)
 - [ ] Jules rework needed — review full post against current ref lib state
 - [ ] Draft tweet
 
@@ -59,8 +54,6 @@ Tasks triggered by post publication. Updated as posts go live.
 - [ ] Draft tweet
 
 ## May 26 — Mutualism Without Intent goes live
-- [x] Create positioning ref lib page for mutualism (done 2026-04-15, positioning area restructured)
-- [x] Update positioning area index (done 2026-04-15)
 - [ ] Draft tweet
 
 ## May 28 — The Floor Is Always Solid goes live

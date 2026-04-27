@@ -2,7 +2,7 @@
 
 # The seed and Philosophy
 
-How historical thinkers fit into the picture of the seed, principle by principle. P0 is creational — the boundary expresses the differentiation; P1–P5 describe properties shared by all languages. {% include pending-link.html date="2026-05-06T00:00:00Z" text="See [SPLectrum and First Principles](/blog/2026/05/splectrum-and-first-principles/) for the blog conversation." %}
+How historical thinkers fit into the picture of the seed, principle by principle. P0 is creational — the boundary expresses the differentiation; P1–P5 describe properties shared by all languages.
 
 **P0 — Being implies language.**<br>
 Being is always already disclosed in the world ([Heidegger](https://plato.stanford.edu/entries/heidegger/)). Being comes into existence through the act of differentiation — there is no being without not-being ([Fichte](https://plato.stanford.edu/entries/johann-fichte/)). The act of differentiation works only with what is already there: separation requires the other to precede it. [Hegel](https://plato.stanford.edu/entries/hegel/)'s dialectic makes this its engine: every new determination sublates prior ones. [Spinoza](https://plato.stanford.edu/entries/spinoza/): *omnis determinatio est negatio* — every determination requires what it negates. [Whitehead](https://plato.stanford.edu/entries/whitehead/)'s actual occasions concresce from prior ones. Where there is being there is a world, and the relational between them is language. See [Being as Tension](/positioning/close-affinity/seed/being-as-tension) — nine formulations of differentiation across traditions.
@@ -21,3 +21,5 @@ Languages inter-relate horizontally (between peers) and vertically (one spawning
 
 **P5 — Together they form a web of growing complexity.**<br>
 Complexity grows through proliferation and articulation: more languages, more perspectives, more ways of relating. Each new being implies language (P0), extending the web — concepts explained with concepts, turtles all the way down. Each new concept is a fresh being-other combination, exposing a relation; through this growth, aspects of the world become disclosed. [Whitehead](https://plato.stanford.edu/entries/whitehead/)'s process philosophy: creativity as ultimate category. [Bergson](https://plato.stanford.edu/entries/bergson/)'s creative evolution. [Popper](https://plato.stanford.edu/entries/popper/) and [Kuhn](https://plato.stanford.edu/entries/thomas-kuhn/) on how scientific knowledge actually grows.
+
+See the [seed series](/blog/label/seed) for the conversation around these principles.

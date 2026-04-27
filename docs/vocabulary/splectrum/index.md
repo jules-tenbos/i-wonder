@@ -2,17 +2,14 @@
 
 # SPLectrum vocabulary
 
-SPLectrum's own terms. Extends the [seed vocabulary](seed).
+The vocabularies of the SPLectrum languages.
 
-## Vocabularies that extend the SPLectrum vocabulary
+## Foundational speak
 
-- [Engineering](engineering/) — Extends SPLectrum into engineering design and implementation R&D.
-- [Positioning](positioning) — Puts SPLectrum in context, engaging external thought languages on equal standing.
+- [Seed](seed) — the seed vocabulary, with a flavour per filter.
 
-## Vocabulary
+## Languages
 
-<span id="engineering">**Engineering**</span> — Short for [SPLectrum engineering](#splectrum-engineering).
-
-<span id="splectrum-engineering">**SPLectrum engineering**</span> — Where SPLectrum extends the reach of the seed into engineering design and implementation R&D.
-
-<span id="vocabulary">**Vocabulary**</span> — A bounded set of concepts within a language.
+- [SPLectrum engineering](engineering) — fabric, runtime, and the artefacts that realise the seed in software.
+  - [HAICC](engineering/haicc) — Human-AI Creative Collaboration; the subject-internal dynamic.
+- [SPLectrum positioning](positioning) — terms for engaging external thought languages without imposing on them.
