@@ -3,7 +3,7 @@ layout: post
 title: "The Birth of P0 — Being Is Tension"
 date: 2026-05-12
 labels: [seed, philosophy, comment]
-status: rework mandatory
+status: review mandatory
 ---
 <img src="https://images.unsplash.com/photo-1556197908-96ed0fa30b65?q=80&w=2070&auto=format&fit=crop" alt="The Birth of P0 — Being Is Tension" />
 

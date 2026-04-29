@@ -7,9 +7,8 @@
   <url><loc>https://splectrum.world/seed/</loc></url>
   <url><loc>https://splectrum.world/seed/original</loc></url>
   <url><loc>https://splectrum.world/seed/philosophical</loc><lastmod>2026-04-21</lastmod></url>
-  <url><loc>https://splectrum.world/seed/engineering/</loc><lastmod>2026-04-21</lastmod></url>
-  <url><loc>https://splectrum.world/seed/engineering/language-mapping</loc><lastmod>2026-04-21</lastmod></url>
-  <url><loc>https://splectrum.world/seed/engineering/three-pillars</loc><lastmod>2026-04-21</lastmod></url>
+  <url><loc>https://splectrum.world/seed/engineering/</loc><lastmod>2026-04-29</lastmod></url>
+  <url><loc>https://splectrum.world/seed/human-reality</loc><lastmod>2026-04-28</lastmod></url>
   <url><loc>https://splectrum.world/seed/category-theory</loc></url>
   <url><loc>https://splectrum.world/seed/discovery</loc></url>
   <url><loc>https://splectrum.world/positioning/</loc><lastmod>2026-04-23</lastmod></url>
@@ -26,12 +25,16 @@
   <url><loc>https://splectrum.world/vocabulary/</loc><lastmod>2026-04-22</lastmod></url>
   <url><loc>https://splectrum.world/vocabulary/structure</loc><lastmod>2026-04-22</lastmod></url>
   <url><loc>https://splectrum.world/vocabulary/splectrum/</loc><lastmod>2026-04-23</lastmod></url>
-  <url><loc>https://splectrum.world/vocabulary/splectrum/seed</loc><lastmod>2026-04-22</lastmod></url>
+  <url><loc>https://splectrum.world/vocabulary/splectrum/seed</loc><lastmod>2026-04-26</lastmod></url>
+  <url><loc>https://splectrum.world/vocabulary/splectrum/seed/original</loc><lastmod>2026-04-26</lastmod></url>
+  <url><loc>https://splectrum.world/vocabulary/splectrum/seed/philosophical</loc><lastmod>2026-04-26</lastmod></url>
+  <url><loc>https://splectrum.world/vocabulary/splectrum/seed/engineering</loc><lastmod>2026-04-29</lastmod></url>
   <url><loc>https://splectrum.world/vocabulary/splectrum/positioning</loc><lastmod>2026-04-23</lastmod></url>
   <url><loc>https://splectrum.world/vocabulary/splectrum/engineering/</loc><lastmod>2026-04-21</lastmod></url>
   <url><loc>https://splectrum.world/vocabulary/splectrum/engineering/haicc</loc><lastmod>2026-04-21</lastmod></url>
   <url><loc>https://splectrum.world/vocabulary/wittgenstein/</loc><lastmod>2026-04-22</lastmod></url>
   <url><loc>https://splectrum.world/vocabulary/site/</loc><lastmod>2026-04-26</lastmod></url>
+  <url><loc>https://splectrum.world/vocabulary/site/how-shadow-pages-are-made/</loc><lastmod>2026-04-26</lastmod></url>
   <url><loc>https://splectrum.world/vocabulary/site/home/</loc><lastmod>2026-04-23</lastmod></url>
   <url><loc>https://splectrum.world/vocabulary/site/home/positioning/</loc><lastmod>2026-04-23</lastmod></url>
   <url><loc>https://splectrum.world/vocabulary/site/home/blog/splectrum-and-first-principles/</loc><lastmod>2026-04-25</lastmod></url>
@@ -43,10 +46,13 @@
   <url><loc>https://splectrum.world/language/software-languages</loc><lastmod>2026-04-21</lastmod></url>
   <url><loc>https://splectrum.world/language/category-theory</loc></url>
   <url><loc>https://splectrum.world/reality/</loc><lastmod>2026-04-21</lastmod></url>
+  <url><loc>https://splectrum.world/reality/relational-reading</loc><lastmod>2026-04-21</lastmod></url>
   <url><loc>https://splectrum.world/reality/discovery/</loc><lastmod>2026-04-21</lastmod></url>
   <url><loc>https://splectrum.world/reality/evolution/</loc><lastmod>2026-04-21</lastmod></url>
   <url><loc>https://splectrum.world/roadmap/</loc><lastmod>2026-04-21</lastmod></url>
-  <url><loc>https://splectrum.world/engineering/</loc><lastmod>2026-04-21</lastmod></url>
+  <url><loc>https://splectrum.world/engineering/</loc><lastmod>2026-04-29</lastmod></url>
+  <url><loc>https://splectrum.world/engineering/foundational-commitments</loc><lastmod>2026-04-29</lastmod></url>
+  <url><loc>https://splectrum.world/engineering/engineering-tracks</loc><lastmod>2026-04-29</lastmod></url>
   <url><loc>https://splectrum.world/engineering/splectrum/</loc><lastmod>2026-04-21</lastmod></url>
   <url><loc>https://splectrum.world/engineering/splectrum/top-level-design</loc><lastmod>2026-04-21</lastmod></url>
   <url><loc>https://splectrum.world/engineering/splectrum/design-commitments</loc><lastmod>2026-04-21</lastmod></url>

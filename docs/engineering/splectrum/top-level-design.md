@@ -18,33 +18,33 @@ P0 — being implies language — yields three inseparable aspects. These become
 
 ### Mycelium — Data and Data Change
 
-The physical layer. Data and data change — carrier, substrate, structure, transitions. Records, contexts, metadata, traversal, and the processes that transform data state. Everything encoded as information. The subject never touches the data world directly — only through the mycelium interface.
+The physical layer. Data and data change — carrier, substrate, structure, transitions. Records, contexts, metadata, traversal, and the processes that transform data state. Everything encoded as information. The data owner never touches the data world directly — only through the mycelium interface.
 
-Mycelium is decentralised at the data level. No central database, no single source of truth. Subject realities within git repositories. What actually exists is always mycelium fabric expressed as subject realities. The totality of data is only a logical totality — the sum of everything across the fabric.
+Mycelium is decentralised at the data level. No central database, no single source of truth. Owner data states within data repositories. What actually exists is always mycelium fabric expressed as owner data states. The data world is only a logical totality — the sum of everything across the fabric.
 
-Mycelium hosts both languages (splectrum) and process (HAICC) as facts in its metadata. It is the stable ground — minimal, universal, unchanged when the layers above evolve.
+Mycelium hosts both protocols (splectrum) and process (HAICC) as facts in its metadata. It is the stable ground — minimal, universal, unchanged when the layers above evolve.
 
 Constitutive dependencies: git (identity, history, boundary) and AVRO (schema, conformance, protocol, interface).
 
 ### SPLectrum — Language, Concept and Meaning
 
-The logical layer. Meaning languages, concept vocabularies, the mapping surface between them. SPLectrum supplies the languages — protocol libraries, schemas, meaning structures. A fabric in its own right, not glue between the other two.
+The logical layer. Meaning languages, concept vocabularies, the mapping surface between them. SPLectrum supplies the protocols — protocol libraries, schemas, meaning structures. A fabric in its own right, not glue between the other two.
 
 The relational structure that governs how decentralised data and decentralised cognition interact without needing a central authority. P4 — equal standing — expressed as architecture.
 
 P1–P5 as engineering:
 
 - P1 (relational) → protocols as language games, interaction through surfaces
-- P2 (medium of experience) → subject as POV entity, persona as interaction role
-- P3 (sharing knowledge) → visibility as sharing, convergence as objectivity
-- P4 (equal standing) → no hierarchy between languages, orchestration within not across
+- P2 (medium of experience) → data owner as POV-bearing data entity, persona as interaction role
+- P3 (sharing knowledge) → visibility as sharing, shared data state as objectivity
+- P4 (equal standing) → no hierarchy between protocols, orchestration within not across
 - P5 (growing complexity) → web not tree, spawn not design, complexity through diversification
 
 Natural language as the carrier language. AI makes this operational. Ambiguity at the fringes is generative — where new meaning enters.
 
 ### HAICC — Activity, Structured Process, Models
 
-The activation layer. Activity, structured process flows, and process models — the cognition that resolves logical against physical, operating through languages while maintaining genuine human partnership.
+The activation layer. Activity, structured process flows, and process models — the cognition that resolves logical against physical, operating through protocols while maintaining genuine human partnership.
 
 The persona is the operational unit. It declares required capabilities. These are tested against available capabilities — human and AI. The conformance determines work division. Optimisation direction: toward AI autonomy. The human retains what AI capability does not yet cover.
 
@@ -60,11 +60,11 @@ HAICC is decentralised at the cognition level. Human and AI agents as collaborat
 
 The three pillars are not independent systems. They meet at defined boundary points:
 
-**Mycelium–SPLectrum.** Protocol libraries place their schemas as facts in mycelium metadata. SPLectrum defines the languages. Mycelium hosts them. Schema discovery during traversal is the mechanism — schemas present in context metadata, accumulated naturally as the path is walked. No registry, no injection — facts in the fabric.
+**Mycelium–SPLectrum.** Protocol libraries place their schemas as facts in mycelium metadata. SPLectrum defines the protocols. Mycelium hosts them. Schema discovery during traversal is the mechanism — schemas present in context metadata, accumulated naturally as the path is walked. No registry, no injection — facts in the fabric.
 
 **Mycelium–HAICC.** The process layer sits in the fabric alongside the projection layer. Process definitions, watcher expressions, readiness schemas — all live in mycelium context metadata. The trigger model operates on the fabric: data footprint observation, watcher expressions as get paths, accumulation and readiness as data state facts. HAICC's process flow uses mycelium's substrate.
 
-**SPLectrum–HAICC.** SPLectrum supplies the languages. HAICC supplies the process flow through them. Protocol libraries (splectrum) define what operations exist. The process layer (HAICC) determines when and how they fire. The persona (HAICC) uses protocols (splectrum) in service of its role. The persona is the why; the protocols are the how.
+**SPLectrum–HAICC.** SPLectrum supplies the languages. HAICC supplies the process flow through them. Protocol libraries (splectrum) define what operators exist. The process layer (HAICC) determines when and how they fire. The persona (HAICC) uses protocols (splectrum) in service of its role. The persona is the why; the protocols are the how.
 
 **All three together.** A process is triggered by data state change (mycelium), its inputs conform to a schema (splectrum), the persona engages with the ready state (HAICC). The three pillars are simultaneously present in every act.
 

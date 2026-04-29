@@ -11,16 +11,16 @@ When a community comes into existence, it is an act of creation — and like all
 What a language gives access to depends on what it relates to. A language's reach is the relations it holds — different relations, different reach.
 
 **P2 — Language is the medium through which a subject experiences reality.**<br>
-This is the keystone for human reality. We are at the centre of our experience — a body, sensing, always already in some language. What reaches us comes through the languages we hold. For experience to exist there must be retention — a lasting imprint. Reality is the accumulation from a life of experience. Knowledge is its insight factor.
+This is the keystone for human reality. We are at the centre of our experience — a body, sensing, always already in some language. Experience is the dynamic of retention — it creates memory. Knowledge is the interpretation of that memory, in whatever language holds it. Reality is the totality after interpretation: the world as it has disclosed itself to you.
 
 **P3 — Language is where subjects share knowledge about reality.**<br>
-It follows from P2 that we never interact directly — what we experience as conversation is emergent. Sharing is the synchronisation of language between us; knowledge is what we can transfer given the level of synchronisation achieved. Through this synchronisation, a shared realm forms — what a community holds as real is what its members have converged on. This is where P0 comes back: the group that has synchronised enough to share a reality is a community, and its formation is an act of creation that draws a boundary.
+It follows from P2 that we never interact directly — what we experience as conversation is emergent. Sharing is the synchronisation of language between us; as languages synchronise they also evolve, and evolved language deepens the knowledge of what was already retained. Through this synchronisation, a shared realm forms — and this is where P0 comes back: the group that has synchronised enough to share a reality is a community, and its formation is an act of creation that draws a boundary.
 
 **P4 — Languages are inter-relational and have equal standing in potential.**<br>
-Once sharing brings language to life, P4 is the creational principle for languages themselves. Where languages overlap, that overlap becomes a starting point for new language — horizontally between peers, vertically when one spawns another. Every overlap is a potential origin. None is privileged in principle, however different in current reach.
+P4 is the creational principle for languages themselves. Where languages overlap, that overlap becomes a starting point for new language. Every overlap is a potential origin. None is privileged in principle, however different in current reach.
 
 **P5 — Together they form a web of growing complexity.**<br>
-Our web evolves through the cycle: we synchronise, knowledge transfers, new languages emerge from the overlap, and those in turn synchronise with others. The complexity is in the relating, not in any single community.
+We synchronise, knowledge deepens, new languages emerge from the overlap, and those in turn synchronise with others. The complexity is in the relating, not in any single community.
 
 {% include pending-link.html date="2026-05-16T00:00:00Z" text="See [The Seed and Human Reality](/blog/2026/05/seed-and-human-reality/) for the blog conversation." %}
 
