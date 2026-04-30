@@ -1,8 +1,5 @@
 ---
-layout: post
 title: "AVRO — The Language of Articulation"
-date: 3025-06-04
-published: false
 labels: [mycelium, engineering, SPLectrum]
 status: Mandatory review
 ---

@@ -2,12 +2,11 @@
 
 # SPLectrum — logical design
 
-The logical side of SPLectrum's engineering. How the system must look, how the pillars weave, the commitments that shape it. The committed languages live in [Substrate](/engineering/substrate/); their Bare-runtime implementations live in [Infrastructure](/engineering/infrastructure/).
+The logical side of SPLectrum's engineering. How the system must look, how the pillars weave. The committed languages live in [Substrate](/engineering/substrate/); their Bare-runtime implementations live in [Infrastructure](/engineering/infrastructure/).
 
 ## Top level
 
-- [Top level design](top-level-design) — three pillars, how they weave, design commitments, document map.
-- [Design commitments](design-commitments) — philosophical structure as engineering constraints.
+- [Top level design](top-level-design) — three pillars, the fabric paradigm, embedding.
 
 ## The three pillars
 

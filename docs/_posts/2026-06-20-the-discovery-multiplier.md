@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "The Discovery Multiplier"
-date: 3025-06-18
-published: false
+date: 2026-06-20
 labels: [discovery, HAICC, SPLectrum]
 status: Mandatory review
 ---
@@ -14,9 +13,9 @@ The human brings experiential grounding — meaning rooted in the body, in sensa
 
 The multiplication is not additive. Two different paths through a connected relational space discover more than the sum of their individual discoveries — because each discovery opens adjacent paths visible to both. A pattern the AI recognises across domains makes visible a connection the human had not walked to yet. An experiential grounding the human provides anchors a pattern the AI had been holding abstractly. Each move opens the next. The improvement compounds because the relational space is connected — one discovery changes what is discoverable.
 
-The process model is ancient. Scan — surface what the landscape currently makes available. Diversify — multiple independent responses, each from its own position, each walking a different relational path. Evolve — what yields further discovery reinforces, what does not fades. Not selection by an authority. Selection by the relational space itself — what connects to more produces more, what dead-ends dead-ends. This is not an engineering pattern inspired by biology. It is the same structural pattern across all levels. [Gerald Edelman's](https://en.wikipedia.org/wiki/Gerald_Edelman) Neural Darwinism: generate diversity, select through encounter. The immune system: generate diversity, select through encounter. Evolution itself: generate diversity, select through encounter. The same pattern, everywhere, because it conforms to what discovery in a vast relational space looks like.
+The process model is ancient. Scan — surface what the landscape currently makes available. Diversify — multiple independent responses, each from its own position, each walking a different relational path. Evolve — what yields further discovery reinforces, what does not fades. Not selection by an authority. Selection by the relational space itself — what connects to more produces more, what dead-ends dead-ends. This is not an engineering pattern inspired by biology. It is the same structural pattern across all levels. [Gerald Edelman's](https://en.wikipedia.org/wiki/Gerald_Edelman) Neural Darwinism. The immune system. Evolution itself. Each generates diversity and selects through encounter — the same pattern at every scale.
 
-Each major transition in the history of reality increased the diversity of interactors. Chemistry has more kinds of interaction than quantum events. Biology more than chemistry. Social life more than individual biology. Symbolic exchange multiplies again. The exponential curve is diversification compounding — not progress toward a goal, but discovery accelerating because the discoverers multiply. AI is the next threshold in that sequence. Not the culmination. A threshold. The pairing is operational now. The pattern it follows is as old as interaction itself. The full picture — the evolutionary curve seen from the perimeter — is where this leads.
+This shape recurs at every scale where discoverers multiply. Not progress toward a goal — discovery accelerating because the discoverers multiply. AI is the next threshold in that sequence. Not the culmination. A threshold. The pairing is operational now. The pattern it follows is as old as interaction itself. The full picture — the evolutionary curve seen from the perimeter — is where this leads.
 
 <small>This post is part of the [discovery series](/blog/label/discovery). More on HAICC in the <a href="/engineering/">engineering area of the reference library</a>.</small>
 

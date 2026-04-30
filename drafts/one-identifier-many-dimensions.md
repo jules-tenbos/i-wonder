@@ -1,8 +1,5 @@
 ---
-layout: post
 title: "One Identifier, Many Dimensions"
-date: 3025-06-16
-published: false
 labels: [mycelium, engineering, SPLectrum]
 status: Mandatory review
 ---

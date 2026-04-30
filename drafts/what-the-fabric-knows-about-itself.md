@@ -1,8 +1,5 @@
 ---
-layout: post
 title: "What the Fabric Knows About Itself"
-date: 3025-05-31
-published: false
 labels: [mycelium, engineering, SPLectrum]
 status: Mandatory review
 ---

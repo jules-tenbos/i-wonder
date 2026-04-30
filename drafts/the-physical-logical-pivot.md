@@ -1,8 +1,5 @@
 ---
-layout: post
 title: "The Physical/Logical Pivot"
-date: 3025-06-02
-published: false
 labels: [mycelium, engineering, SPLectrum]
 status: Mandatory review
 ---

@@ -1,8 +1,5 @@
 ---
-layout: post
 title: "Three Languages"
-date: 3025-06-12
-published: false
 labels: [mycelium, engineering, SPLectrum]
 status: Mandatory review
 ---

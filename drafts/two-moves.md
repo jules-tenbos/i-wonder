@@ -1,8 +1,5 @@
 ---
-layout: post
 title: "Two Moves"
-date: 3025-06-08
-published: false
 labels: [mycelium, engineering, SPLectrum]
 status: Mandatory review
 ---

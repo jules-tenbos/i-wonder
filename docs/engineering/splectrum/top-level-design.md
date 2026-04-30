@@ -2,76 +2,38 @@
 
 # SPLectrum Engineering — Top Level Design
 
-The bridge between the SPLectrum philosophical framework and its engineering. This document introduces the three pillars and the design commitments that govern all engineering below this level.
+The three pillars of the SPLectrum platform — repository, language, process — and the reason each is named what it is. Mycelium is the substrate; the others embed into it.
 
 ---
 
-## From Philosophy to Engineering
+## Three Pillars
 
-SPLectrum's six seed principles (P0–P5) describe properties shared by all languages. The engineering does not implement these principles — it is these principles expressed in another language. The relationship is relational, not representational. Neither side governs the other. The quality gate is low friction at the boundary.
+The platform addresses three distinct concerns:
 
-The engineering that grows from the seed should look like how reality works.
+- **Repository** — where data state lives.
+- **Language** — what data state means.
+- **Process** — how data state changes and is acted on.
 
-## The Three Pillars
+Each is its own fabric. The repository fabric is the substrate; the language and process fabrics are embedded into it as metadata.
 
-P0 — being implies language — yields three inseparable aspects. These become the three pillars of the engineering: state, meaning, and cognition. Three fabrics, not three layers. Aspects of the same thing.
+## Repository Fabric — Mycelium
 
-### Mycelium — Data and Data Change
+A mycelium is a network of fungal threads underground — vast, interconnected, decentralised. What is visible above ground (mushrooms) are local expressions of an interconnected whole.
 
-The physical layer. Data and data change — carrier, substrate, structure, transitions. Records, contexts, metadata, traversal, and the processes that transform data state. Everything encoded as information. The data owner never touches the data world directly — only through the mycelium interface.
+The repository fabric works the same way. Each owner has their own data state, organised as a local tree of data nodes. The fabric is what connects these local trees: references that address nodes across repositories, and data state propagation that carries change between owners. Decentralised at the data level: no central database, no single source of truth.
 
-Mycelium is decentralised at the data level. No central database, no single source of truth. Owner data states within data repositories. What actually exists is always mycelium fabric expressed as owner data states. The data world is only a logical totality — the sum of everything across the fabric.
+Within a local tree, processes are invoked on nodes. Data visibility extends from a node to itself and its descendants; metadata resolution walks up to itself and its ancestors. XPath addresses nodes, used as URL or query.
 
-Mycelium hosts both protocols (splectrum) and process (HAICC) as facts in its metadata. It is the stable ground — minimal, universal, unchanged when the layers above evolve.
+## Language Fabric — SPLectrum
 
-Constitutive dependencies: git (identity, history, boundary) and AVRO (schema, conformance, protocol, interface).
+The pillar takes the project's name. Language is the project's central concern — from the seed, all relating is language. The platform centred on this principle adopts the project name for its language fabric.
 
-### SPLectrum — Language, Concept and Meaning
+SPLectrum supplies the protocols — relational patterns that act on data state. Each protocol is a software API with meaning constraint; operators are its methods; personas are compositions of protocols that take on roles. Protocols and personas are colocated as metadata with the data nodes they act on, in mycelium.
 
-The logical layer. Meaning languages, concept vocabularies, the mapping surface between them. SPLectrum supplies the protocols — protocol libraries, schemas, meaning structures. A fabric in its own right, not glue between the other two.
+## Process Fabric — HAICC
 
-The relational structure that governs how decentralised data and decentralised cognition interact without needing a central authority. P4 — equal standing — expressed as architecture.
+HAICC stands for Human-AI Creative Collaboration. The pillar takes this name because the process fabric is where humans and AI collaborate as peers — no central controller, work divided by capability conformance.
 
-P1–P5 as engineering:
+The fabric holds process definitions, watcher expressions, readiness schemas. Processes trigger on data state change. Personas declare what is needed; conformance against available human and AI capabilities determines the division of work. Process definitions are colocated as metadata with the data nodes they act on, in mycelium.
 
-- P1 (relational) → protocols as language games, interaction through surfaces
-- P2 (medium of experience) → data owner as POV-bearing data entity, persona as interaction role
-- P3 (sharing knowledge) → visibility as sharing, shared data state as objectivity
-- P4 (equal standing) → no hierarchy between protocols, orchestration within not across
-- P5 (growing complexity) → web not tree, spawn not design, complexity through diversification
-
-Natural language as the carrier language. AI makes this operational. Ambiguity at the fringes is generative — where new meaning enters.
-
-### HAICC — Activity, Structured Process, Models
-
-The activation layer. Activity, structured process flows, and process models — the cognition that resolves logical against physical, operating through protocols while maintaining genuine human partnership.
-
-The persona is the operational unit. It declares required capabilities. These are tested against available capabilities — human and AI. The conformance determines work division. Optimisation direction: toward AI autonomy. The human retains what AI capability does not yet cover.
-
-Conscious is what is in focus — the work at hand. Subconscious is what supports it — the additional activity needed to achieve the conscious task. AI and human are present in both layers. The persona is the continuous identity across both.
-
-Plasticity is the ability to learn. A capability starts conscious — attended, deliberate. Through practice it moves subconscious — running without attention. The movement IS learning. Learning is architecturally native because the conscious/subconscious design makes it so. The design is compatible with learning by construction.
-
-The subconscious operating pattern is evolutionary: scan, diversify, evolve. Process capabilities dormant in the fabric, woken by data state change. What works reinforces, what doesn't fades. No orchestration — the data state is the relay. The appearance of orchestration is emergent.
-
-HAICC is decentralised at the cognition level. Human and AI agents as collaborative peers, no central controller.
-
-## How the Pillars Weave
-
-The three pillars are not independent systems. They meet at defined boundary points:
-
-**Mycelium–SPLectrum.** Protocol libraries place their schemas as facts in mycelium metadata. SPLectrum defines the protocols. Mycelium hosts them. Schema discovery during traversal is the mechanism — schemas present in context metadata, accumulated naturally as the path is walked. No registry, no injection — facts in the fabric.
-
-**Mycelium–HAICC.** The process layer sits in the fabric alongside the projection layer. Process definitions, watcher expressions, readiness schemas — all live in mycelium context metadata. The trigger model operates on the fabric: data footprint observation, watcher expressions as get paths, accumulation and readiness as data state facts. HAICC's process flow uses mycelium's substrate.
-
-**SPLectrum–HAICC.** SPLectrum supplies the languages. HAICC supplies the process flow through them. Protocol libraries (splectrum) define what operators exist. The process layer (HAICC) determines when and how they fire. The persona (HAICC) uses protocols (splectrum) in service of its role. The persona is the why; the protocols are the how.
-
-**All three together.** A process is triggered by data state change (mycelium), its inputs conform to a schema (splectrum), the persona engages with the ready state (HAICC). The three pillars are simultaneously present in every act.
-
-## Design Commitments
-
-The design commitments govern all engineering below this level. They are the philosophical framework in engineering language. Each design must conform to them. The quality test is low friction with the framework.
-
-The full set of commitments is maintained in [Design Commitments](design-commitments).
-
-
+For HAICC's deeper operating model — conscious, subconscious, plasticity — see [HAICC](haicc/).
