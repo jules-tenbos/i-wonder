@@ -5,20 +5,28 @@ Tasks triggered by post publication. Updated as posts go live.
 ## Standing tasks
 
 - [ ] Tweet on each blog post publication — draft and post per entry below
-- [ ] Review links in all scheduled posts (May 20 – June 24) — check for missing cross-references to ref lib and other posts
+- [ ] Review links in scheduled posts — check for missing cross-references to ref lib and other posts
 - [ ] Tone-of-voice review of a content page with a shadow page — update the shadow with any vocabulary or relational observations surfaced by the review
-- [ ] Vocabulary shadow cadence — process one finished page's vocabulary per post publication (throttle back if too dense). Candidate for each publication is named in the entry below.
-- [ ] Seed section — `seed/philosophical` review pass still outstanding. (Source vocab shadows done 2026-04-26: `vocabulary/splectrum/seed/original.md`, `vocabulary/splectrum/seed/philosophical.md`.)
-- [ ] Vocabulary shadow — `positioning/close-affinity/seed/being-as-tension`. Originally listed under the April 26 publication entry; not actually tied to that post (shared timepoint only) — kept as outstanding.
+- [ ] Vocabulary shadow cadence — process one finished page's vocabulary per post publication (throttle back if too dense)
+- [ ] Seed section — `seed/philosophical` review pass still outstanding. (Engineering and human-reality pages worked on 2026-04-29 / 2026-04-30; philosophical not touched since.)
+- [ ] Vocabulary shadow — `positioning/close-affinity/seed/being-as-tension`
 
 ### Conventions to document in `posting-guide.md`
 
-- [x] Publishing cadence — documented in posting-guide.md (done 2026-04-27).
-- [ ] Post `status:` field convention — values seen across posts: `ready`, `final revision`, `rework required`, `rework mandatory`, `requires content check, mandatory rework`. Codify the set and what each means.
+- [x] Publishing cadence — documented (2026-04-27)
+- [ ] Post `status:` field convention — values seen: `ready`, `final revision`, `Mandatory review`, `review needed`. Codify the set and what each means.
+- [ ] Off-cadence scheduling — engineering posts and pair posts on in-between days when ready
 
-### Per-post calendar refresh
+### From this session (2026-04-29 / 2026-04-30)
 
-- [ ] Eight pre-SPLectrum reworks now live at July–August 2026 dates and have no per-post entries yet (they may not need any beyond the standing tweet task).
+- [ ] **SPLectrum Engineering** post (in `/drafts/splectrum-engineering.md`) — reworked + Post 2 merged in; parked to drafts. Needs review before re-scheduling on a non-cadence day.
+- [ ] **Decentralised Process Models** (July 4) — broadened with neuroscience material (~600 words). Cohesion pass needed.
+- [ ] **The Discovery Multiplier** (June 20) — new post (was parked draft). Status "Mandatory review".
+- [ ] **Between Subjects** (May 20) — sequel to *The Seed and Human Reality*. Needs an image (placeholder used). Status "Mandatory review".
+- [ ] **The Seed and Human Reality** (May 16) — split into Posts 1 and 2. Status "Mandatory review".
+- [ ] **Engineering ref lib** (foundational-commitments, engineering-tracks, top-level-design) — created/reworked. Cohesion review pending.
+- [ ] **Privacy, Naturally!** moved to June 28 — applied piece after the framework
+- [ ] 12 parked (3025-prefix) posts moved to `/drafts/` — each needs review/rework before re-scheduling
 
 ---
 
@@ -33,81 +41,74 @@ Tasks triggered by post publication. Updated as posts go live.
 ## May 8 — SPLectrum and First Principles goes live
 - [ ] Tweet: Six lines. Being implies language. Language is relational. A walk through the SPLectrum seed — first principles with a bit more meat on the bone. splectrum.world/blog/2026/05/splectrum-and-first-principles/ #Philosophy #FirstPrinciples #Language #SPLectrum
 
-## May 10 — And Then There Were Six goes live
-- [ ] Tweet: P0 wasn't part of the original seed. It emerged while unpacking the principles — and turned out to be the foundation. splectrum.world/blog/2026/05/and-then-there-were-six/ #SPLectrum #Philosophy #Fichte #Heidegger
-
-## May 12 — SPLectrum Engineering goes live
+## May 12 — The Birth of P0 — Being Is Tension goes live
 - [ ] Draft tweet
 
-## May 14 — Privacy, Naturally! goes live
+## May 16 — The Seed and Human Reality goes live (Post 1 of pair)
+- [ ] Final review near publication (status: Mandatory review)
 - [ ] Draft tweet
 
-## May 16 — The Seed and Human Reality goes live
-- [ ] Draft tweet
-- [ ] Final review of post narrative (draft stage — improve cycle pending)
-
-## May 20 — Mycelium — The Data Fabric goes live
-- [ ] Jules rework needed — review full post against current ref lib state
+## May 20 — Between Subjects goes live (Post 2 of pair)
+- [ ] Pick image (placeholder currently)
+- [ ] Final review (status: Mandatory review)
 - [ ] Draft tweet
 
-## May 24 — Six Protocols, One Pattern goes live
-- [ ] Check prototyping paragraph still reflects current state
+## May 24 — Mutualism Without Intent goes live
 - [ ] Draft tweet
 
-## May 26 — Mutualism Without Intent goes live
+## May 28 — I Know That I Don't Know goes live
+- [ ] Final review (status: Mandatory review)
 - [ ] Draft tweet
 
-## May 28 — The Floor Is Always Solid goes live
-- [ ] Jules review needed
+## June 1 — A View from the Perimeter goes live
 - [ ] Draft tweet
 
-## May 31 — What the Fabric Knows About Itself goes live
-- [ ] Jules review needed
+## June 4 — Creation and Discovery goes live (discovery series 1/3)
 - [ ] Draft tweet
 
-## June 2 — The Physical/Logical Pivot goes live
+## June 8 — A View from the Perimeter — The Thinking Side goes live
 - [ ] Draft tweet
 
-## June 4 — AVRO — The Language of Articulation goes live
-- [ ] Update docs/vocabulary/ (AVRO, carrier/meaning separation, avsc)
+## June 12 — Diversified Discovery goes live (discovery series 2/3)
 - [ ] Draft tweet
 
-## June 6 — I Know That I Don't Know goes live
+## June 16 — Decentralised Cognition Revolution goes live
 - [ ] Draft tweet
 
-## June 10 — Creation and Discovery goes live (discovery series 1/5)
+## June 20 — The Discovery Multiplier goes live (discovery series 3/3)
+- [ ] Final review (status: Mandatory review)
 - [ ] Draft tweet
 
-## June 8 — Two Moves goes live
-- [ ] Update docs/vocabulary/ (identifier point, property bag, defined/applied operator)
-- [ ] Final review of identifier-grammar.md and message.md
+## June 24 — The Seed and Category Theory goes live
 - [ ] Draft tweet
 
-## June 14 — Diversified Discovery goes live (discovery series 2/5)
+## June 28 — Privacy, Naturally! goes live
 - [ ] Draft tweet
 
-## June 12 — Three Languages goes live
-- [ ] Update docs/vocabulary/ (committed language)
-- [ ] Final review of kafka-design-scope.md
+## July 1 — How a Crash Put Me on Course goes live
 - [ ] Draft tweet
 
-## June 18 — The Discovery Multiplier goes live (discovery series 3/5)
+## July 4 — Decentralised Process Models goes live
+- [ ] Cohesion review (substantially broadened with neuroscience material)
 - [ ] Draft tweet
 
-## June 16 — One Identifier, Many Dimensions goes live
+## July 8 — Wiring the Brain goes live
 - [ ] Draft tweet
 
-## June 22 — A View from the Perimeter goes live (discovery series 4/5)
+## July 16 — No Life Without Death goes live
 - [ ] Draft tweet
 
-## June 20 — Data in Motion goes live
+## July 24 — Promises Made, Promises Broken goes live
 - [ ] Draft tweet
 
-## June 24 — Decentralised Process Models goes live
+## August 1 — Philosophy and Brain goes live
 - [ ] Draft tweet
 
-## June 26 — A View from the Perimeter — The Thinking Side goes live (discovery series 5/5)
+## August 8 — Evolution and Brain goes live
 - [ ] Draft tweet
 
-## June 28 — The Seed and Category Theory — A First Encounter goes live
+## August 16 — Am I Libertarian goes live
+- [ ] Draft tweet
+
+## August 24 — Embracing Anti-foundationalism goes live
 - [ ] Draft tweet

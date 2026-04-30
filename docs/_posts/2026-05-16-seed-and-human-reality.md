@@ -19,13 +19,7 @@ But there is a step that is easy to miss, somewhat hidden in P2. Experience is t
 
 Now the shared space. It follows from P2 that we never interact directly. Think about it — if all my experience is mediated by language, I never reach you unmediated. What we experience as conversation, as being together, is emergent. One of us acts on the environment — speaks, writes, gestures — and another interacts with the effect and extracts similar information from it. Speaking the same language, in seed terms, means being able to take both sides of the same interaction: producing and receiving, matched. A family builds its sense of what matters around the dinner table this way. A profession builds its standards through decades of this shared practice.
 
-Sharing, then, is the synchronisation of language between us. As languages synchronise they also evolve — and evolved language opens new insight into what was already retained. The personal knowledge from P2, always there in some form, finds its depth through language that has grown between us.
-
-Through this synchronisation a shared realm forms — and this is where P0 comes back into the picture. The group that has synchronised enough to share a reality is a community, and its formation is an act of creation. It draws a boundary: us and them, baked into the differentiation. Not hostility — structure. The same applies whenever a new concept emerges from synchronisation. Each new distinction is itself an act of creation, drawing a boundary between what is named and what isn't. P0 isn't only about communities; it is the creational principle wherever language grows.
-
-Where languages overlap, that overlap becomes a starting point — new language can grow from it. Medicine emerges from the overlap of biology and practice. A pidgin from two languages meeting in a port. P4 names this for languages themselves: every overlap is a potential origin. And none is privileged in principle, however different in current reach.
-
-The human web evolves through this cycle. We synchronise, knowledge transfers, new languages emerge from the overlap, and those in turn synchronise with others. The complexity is in the relating, not in any single community. And all this follows from the seed — from six principles.
+But what happens *between* us when subjects meet? The seed gives the structural fact — we don't interact directly. What that leaves room for is the next move.
 
 <small>This post is part of the [seed series](/blog/label/seed). More in the <a href="/seed/human-reality">seed and human reality</a> of the reference library.</small>
 

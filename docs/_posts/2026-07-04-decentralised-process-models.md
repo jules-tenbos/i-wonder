@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Decentralised Process Models"
-date: 2026-06-28
+date: 2026-07-04
 labels: [positioning, HAICC, neuroscience]
 status: Mandatory review
 ---
