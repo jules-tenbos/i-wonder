@@ -1,4 +1,4 @@
-[Home](/) > [Engineering](/engineering/) > [Substrate](/engineering/substrate/) > [Bare Runtime](/engineering/substrate/bare/) > Module Catalog
+[Home](/) > [Engineering](/engineering/) > [Substrate](/engineering/substrate/) > [Bare Runtime](/engineering/infrastructure/bare/) > Module Catalog
 
 # Bare Module Catalog
 

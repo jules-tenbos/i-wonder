@@ -2,9 +2,9 @@
 
 # avsc — Avro Type System
 
-Reference for avsc — the pure JavaScript Avro
-implementation that provides mycelium's type system,
-serialization, and schema resolution.
+Reference for avsc — a complete pure JavaScript
+implementation of the Apache Avro specification,
+forked and adapted for the [Bare](/engineering/infrastructure/bare/) runtime.
 
 ---
 
@@ -21,27 +21,6 @@ and barified for the Bare runtime.
 
 **Source:** [github.com/bare-for-pear/avsc](https://github.com/bare-for-pear/avsc)
 **Upstream:** [github.com/mtth/avsc](https://github.com/mtth/avsc)
-
-## Why avsc Is Constitutive
-
-avsc is not a utility dependency. It is the language
-through which mycelium articulates data.
-
-Every message in the fabric is an Avro record. Every
-schema contract between processes is expressed in Avro
-types. Every protocol operation is defined through Avro
-schema definitions. The type system is not a
-serialization choice — it is the carrier language
-itself.
-
-This makes avsc constitutive. The architecture depends
-on it the way it depends on git — not as a tool but as
-a substrate. Changes to avsc are changes to the
-language the system speaks. It is forked, maintained
-locally, and treated as SPLectrum code.
-
-See [AVRO Design Scope](../mycelium/avro-design-scope)
-for the full architectural role of Avro in mycelium.
 
 ## What the Fork Changes
 
@@ -90,6 +69,5 @@ applies.
 
 The library's own reference site:
 [bare-for-pear.github.io/avsc](https://bare-for-pear.github.io/avsc/)
-— plain API documentation without the architectural
+— plain API documentation without architectural
 context.
-

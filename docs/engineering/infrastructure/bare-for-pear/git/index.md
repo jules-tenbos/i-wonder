@@ -1,70 +1,50 @@
 [Home](/) > [Engineering](/engineering/) > [Infrastructure](/engineering/infrastructure/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > Git
 
-# Git — Operations Module
+# git — Git CLI Wrapper
 
-Git operations for the Bare runtime. Synchronous command execution, structured output parsing, subtree lifecycle management, and configurable hosted repo operations. One of the constitutive bare-for-pear modules.
+A git CLI wrapper for the [Bare](/engineering/infrastructure/bare/) runtime. Provides programmatic access to git with structured output, subtree lifecycle management, and configurable hosted repo operations.
 
-Source: [bare-for-pear/git](https://github.com/bare-for-pear/git)
-
----
-
-## Why a Git Module
-
-Git is constitutive to mycelium — the temporal axis, the hard boundary, the decentralised exchange. The mycelium fabric needs to operate git programmatically, through protocol handlers that are thin wrappers around infrastructure.
-
-The alternative was shelling out to git from every handler, parsing output ad hoc, hoping the subtree flags were right. A module makes the operations testable, the output structured, and the subtree workflow safe.
-
-The module wraps the git CLI rather than reimplementing git internals. Git is the authority on git. The module adds structure on top: parsed status, typed log entries, validated subtree operations, reality detection.
+**Source:** [github.com/bare-for-pear/git](https://github.com/bare-for-pear/git)
 
 ---
 
-## The Two-Reality Model
+## What git Is
 
-Position determines scope. When you invoke from the repo root, you get full repo scope. When you invoke from inside a registered subtree, operations scope to that subtree — its remote, its branch, its prefix.
+A JavaScript module that wraps the git CLI for the Bare runtime. It does not reimplement git internals — git is the authority on git. The module adds structure on top: parsed output, validated subtree operations, and a consistent API for common git workflows.
 
-The same command, different behaviour based on where you stand. The fabric resolves it, not the operator.
+All operations use `spawnSync`. Output is returned as structured data — status as `{ branch, files }`, log as `[{ hash, author, timestamp, message }]` — not as text to parse.
 
-`detectReality()` compares the caller's local root against `.gittrees` entries. If the local root falls inside a registered subtree prefix, the operation enters subtree reality. Push becomes subtree push. Pull becomes subtree pull. Status scopes to the prefix.
+## Features
 
-This is the physical expression of subject reality at the git level. A subtree is a referenced repo with its own identity. When you're inside it, you're inside its reality.
+### Subtree Management
 
----
+Git subtree doesn't persist prefix-to-remote mappings. The operator must remember which prefix goes with which remote and branch — one wrong flag and you're pushing to the wrong place.
 
-## Subtree Management
-
-Git subtree doesn't persist prefix-to-remote mappings anywhere. The operator must remember which prefix goes with which remote and branch. This is error-prone — one wrong flag and you're pushing to the wrong place.
-
-`.gittrees` solves this. A committed flat file at repo root. Three columns: prefix, remote name, branch. Read by the module, validated before every subtree operation.
+The module introduces `.gittrees`, a committed flat file at repo root mapping prefix to remote and branch:
 
 ```
 lib/avsc          bare-for-pear-avsc          main
 lib/avsc-rpc      bare-for-pear-avsc-rpc      main
 lib/git           bare-for-pear-git           main
 lib/rpc-server    bare-for-pear-rpc-server    main
-_test             spl-test                    main
 ```
 
-The `subtrees.add()` function does the full workflow: add remote, fetch, add subtree, register in `.gittrees`. One call instead of four commands.
+`subtrees.add()` does the full workflow in one call: add remote, fetch, add subtree, register in `.gittrees`.
 
----
+### Two-Reality Model
 
-## Remote and Hosted Repo Operations
+Position determines scope. Invoking from repo root gives full repo scope. Invoking from inside a registered subtree scopes operations to that subtree — its remote, its branch, its prefix.
 
-Remote management (add, list, remove, rename) is standard git. Hosted repo creation (creating the repo on GitHub or another platform) is adjacent — you almost always need both.
+`detectReality()` compares the caller's working directory against `.gittrees` entries. If it falls inside a registered subtree prefix, push becomes subtree push, pull becomes subtree pull, status scopes to the prefix.
 
-The module keeps them together with a configurable platform. GitHub is the default (uses the `gh` CLI). The platform is pluggable — add a `createRepo` and `repoUrl` function and switch.
+### Remote and Hosted Repo Operations
 
-The hosting platform is an implementation detail. The interface is: give me a name, I'll create the repo and give you the URL.
-
----
+Remote management (add, list, remove, rename) combined with hosted repo creation. GitHub is the default platform (uses the `gh` CLI). The platform is pluggable — provide a `createRepo` and `repoUrl` function and switch.
 
 ## Design Decisions
 
-**Synchronous execution.** All operations use `spawnSync`. Git commands are fast and the protocol handlers are synchronous. The sync/async problem is solved once in the infrastructure layer, not in every handler.
+**Synchronous execution.** Git commands are fast. Solving sync/async once in the module is cleaner than managing it in every consumer.
 
-**Structured output.** Status returns `{ branch, files }`, not a porcelain string. Log returns `[{ hash, author, timestamp, message }]`, not formatted text. The handler gets data, not text to parse.
+**Structured output.** Consumers get data, not text to parse.
 
-**Thin handlers on top.** The mycelium protocol handlers (spl.mycelium.git.*) are ~20 lines each: read execution context, call the module, set response type header, return. All the git logic lives here. All the protocol logic lives there.
-
-**Cache in subtrees.** The `.gittrees` file is loaded once and cached. This is correct for a request-handling process where `.gittrees` doesn't change during a request. The cache is invalidated on `register()`.
-
+**Subtree cache.** The `.gittrees` file is loaded once and cached. Correct for request-handling processes where the file doesn't change during a request. Invalidated on `register()`.

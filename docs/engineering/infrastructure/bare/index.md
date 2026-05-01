@@ -1,10 +1,8 @@
-[Home](/) > [Engineering](/engineering/) > [Substrate](/engineering/substrate/) > Bare Runtime
+[Home](/) > [Engineering](/engineering/) > [Infrastructure](/engineering/infrastructure/) > Bare Runtime
 
 # Bare Runtime Reference
 
-Reference for the Holepunch Bare runtime — the
-JavaScript runtime used by SPLectrum for prototyping
-and targeted for production deployment.
+Reference for the Holepunch Bare runtime.
 
 ---
 
@@ -17,10 +15,6 @@ libuv. Unlike Node.js, it ships with no standard
 library — everything is a userland module installed
 via npm. This makes it minimal by design: what you
 compose in is what exists.
-
-This aligns directly with the architecture of
-absence: capabilities are present because they were
-composed in, not because they came bundled.
 
 **Source:** https://github.com/holepunchto/bare
 

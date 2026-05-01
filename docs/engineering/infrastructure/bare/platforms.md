@@ -1,4 +1,4 @@
-[Home](/) > [Engineering](/engineering/) > [Substrate](/engineering/substrate/) > [Bare Runtime](/engineering/substrate/bare/) > Platform Support
+[Home](/) > [Engineering](/engineering/) > [Substrate](/engineering/substrate/) > [Bare Runtime](/engineering/infrastructure/bare/) > Platform Support
 
 # Bare Platform Support
 

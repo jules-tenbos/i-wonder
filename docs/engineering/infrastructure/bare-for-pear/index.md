@@ -2,7 +2,7 @@
 
 # bare-for-pear
 
-Modules built for the Bare runtime — a mix of community forks (Node.js assumptions stripped, Bare's minimal API surface honoured) and infrastructure modules (original pieces for the bare-for-pear ecosystem). SPLectrum uses these as constitutive dependencies, vendored into the runtime repo.
+Modules built for the [Bare](/engineering/infrastructure/bare/) runtime — a mix of community forks (Node.js assumptions stripped, Bare's minimal API surface honoured) and original infrastructure modules. Published under the [bare-for-pear](https://github.com/bare-for-pear) GitHub organisation.
 
 ## Modules
 

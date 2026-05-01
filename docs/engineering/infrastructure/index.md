@@ -2,8 +2,8 @@
 
 # Infrastructure
 
-Software that realises the [substrate](/engineering/substrate/). Specific modules and implementations of the committed languages for the Bare runtime. Physical design autonomy lives here — AI-led work elaborates these modules as capability is called for, within the shape the logical design expresses.
+Standalone software modules — community forks adapted for Bare, and original modules built for the bare-for-pear ecosystem.
 
-## Areas
-
-- **[bare-for-pear](bare-for-pear/)** — modules for Bare: community forks and infrastructure (avsc, avsc-rpc, git, rpc-server).
+- **[Bare runtime](bare/)** — the Holepunch JavaScript runtime these modules are built for.
+- **[Pear platform](pear)** — the Holepunch peer-to-peer application platform.
+- **[bare-for-pear](bare-for-pear/)** — modules for Bare: community forks and original infrastructure (avsc, avsc-rpc, git, rpc-server).

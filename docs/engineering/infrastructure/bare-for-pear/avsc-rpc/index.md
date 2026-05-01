@@ -2,8 +2,9 @@
 
 # avsc-rpc — Avro RPC Protocol
 
-Reference for avsc-rpc — the Avro RPC protocol layer
-that provides mycelium's process boundary enforcement.
+Reference for avsc-rpc — the Avro RPC/IPC protocol
+layer, extracted from avsc v5 and maintained as a
+standalone library for the [Bare](/engineering/infrastructure/bare/) runtime.
 
 ---
 
@@ -22,33 +23,24 @@ This module preserves and maintains it independently.
 **Source:** [github.com/bare-for-pear/avsc-rpc](https://github.com/bare-for-pear/avsc-rpc)
 **Extracted from:** commit `dd82783` of mtth/avsc
 
-## Why avsc-rpc Is Constitutive
+## What avsc-rpc Does
 
-RPC is not a communication mechanism in mycelium. It is
-the process boundary enforcement mechanism.
-
-Two processes communicating through RPC can only see
-each other through the schema contract. No shared
-objects, no classpath leakage, no hidden state. Even
-in local in-memory execution, the RPC boundary
-guarantees that only schema-conformant messages pass.
-This is what makes the architecture's claim —
-no transitive dependencies between processes — a
-physical fact rather than a convention.
+The RPC layer enforces process boundaries through
+schema contracts. Two processes communicating through
+RPC can only see each other through the schema
+contract. No shared objects, no classpath leakage, no
+hidden state. Even in local in-memory execution, the
+RPC boundary guarantees that only schema-conformant
+messages pass.
 
 Transport pluggability is a consequence, not the
 motivation. The same schema contract holds whether the
 transport is in-memory, TCP, or HTTP. The transport
 adapts to context. The boundary is invariant.
 
-This makes avsc-rpc constitutive alongside avsc itself.
-Together they provide the complete Avro primitive:
-types and serialization from avsc, protocol and
-boundary from avsc-rpc.
-
-See [AVRO Design Scope](../mycelium/avro-design-scope)
-— section 11, RPC as Constitutive Dependency — for the
-full architectural role.
+Together with avsc, this provides the complete Avro
+primitive: types and serialization from avsc, protocol
+and boundary from avsc-rpc.
 
 ## What the Fork Changes
 
@@ -98,4 +90,3 @@ The library's own reference site:
 [bare-for-pear.github.io/avsc-rpc](https://bare-for-pear.github.io/avsc-rpc/)
 — complete API documentation including full method
 signatures, all options, and wire format details.
-
