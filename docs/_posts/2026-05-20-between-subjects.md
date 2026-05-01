@@ -5,7 +5,7 @@ date: 2026-05-20
 labels: [seed, philosophy, SPLectrum]
 status: Mandatory review
 ---
-<img src="https://images.unsplash.com/photo-1502810365585-4c4d3aef85e7?q=80&w=350&h=230&auto=format&fit=crop" alt="Between Subjects" />
+<img src="https://plus.unsplash.com/premium_photo-1735775900005-9cb5aa14c323?q=80&w=350&h=230&auto=format&fit=crop" alt="Between Subjects" />
 
 We left [the previous post](/blog/2026/05/seed-and-human-reality/) with the seed's structural fact: we never interact directly. What we experience as conversation, as being together, is emergent. That is the structural setup. But what *fills* this between, when subjects meet?
 
@@ -40,4 +40,4 @@ Community is luminous, not dense. Relational, not collective. It holds together 
 <small>This post is part of the [seed series](/blog/label/seed). More in the <a href="/seed/human-reality">seed and human reality</a> of the reference library.</small>
 
 ---
-<small>Photo: placeholder — needs picking</small>
+<small>Photo: <a href="https://unsplash.com/@giuliasq">Giulia Squillace</a> / Unsplash</small>

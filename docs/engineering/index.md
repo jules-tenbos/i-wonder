@@ -2,17 +2,14 @@
 
 # Engineering
 
-How SPLectrum builds things — the engineering foundation (positions taken before the seed) and the engineering tracks where the work happens.
+SPLectrum engineering starts from a set of [engineering commitments](engineering-commitments).
 
-## Engineering Foundation
+Three tracks at present, each addressing a distinct engineering concern. All three are foundational. More tracks will appear, implemented on top of the SPLectrum platform.
 
-- [Foundational Commitments](foundational-commitments) — engineering-wide commitments that shape every SPLectrum design choice.
-- [Engineering Tracks](engineering-tracks) — the rationale for the three tracks (SPLectrum, substrate, infrastructure).
+---
 
-## Engineering Tracks
+**[Infrastructure](infrastructure/)** — external software that SPLectrum supports or integrates with: third-party platforms (e.g. the bare ecosystem, the pear platform) and in-house standalone solutions. Not foundational to SPLectrum.
 
-The three foundational tracks of the engineering effort. More will appear, implemented on top of the SPLectrum platform.
+**[Substrate](substrate/)** — external foundational technologies. The committed languages — AVRO, Git, Kafka, Bare, Pear — that SPLectrum is built on. External in that they're not part of SPLectrum, but foundational because they catalyse the foundational commitments.
 
-- [Infrastructure](infrastructure/) — third-party and in-house standalone software: bare-for-pear (avsc, avsc-rpc, git, rpc-server).
-- [Substrate](substrate/) — committed languages: AVRO, Git, Kafka, Bare, Pear.
-- [SPLectrum](splectrum/) — the SPLectrum platform, logical and physical: top-level design, three pillars (Mycelium, SPLectrum, HAICC).
+**[SPLectrum](splectrum/)** — the platform itself. Logical and physical design. Aims: language with meaning, AI integration, decentralisation. Built as close as possible to the foundational commitments.
