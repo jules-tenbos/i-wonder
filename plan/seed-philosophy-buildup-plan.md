@@ -112,49 +112,73 @@ Process-relational cluster:
 
 Number and shape of synthesis posts to be determined by what the positioning work actually produces. Not formulaic — driven by the material.
 
-**Total: ~12 posts** as currently planned, with realistic expansion to 13–15 once writing surfaces what it actually needs.
+**Total: ~20 posts** across September–December 2026, with the series closing at year end.
 
-A possible sequence (illustrative, not prescriptive — the schedule accommodates movement):
+## Schedule
 
-**September** — stall + anthropocentric positioning (8 slots on doubled cadence: 1, 4, 8, 12, 16, 20, 24, 28):
+Illustrative, not prescriptive — the schedule accommodates movement. Doubled cadence (8 slots/month).
+
+**September** — stall + anthropocentric positioning:
 
 Pragmatist cluster:
-1. Sep 1 — Stall: names the position, sets out the movement
+1. Sep 1 — Stall: *From Seed to Relational Pluralism*
 2. Sep 4 — Positioning: Wittgenstein
 3. Sep 8 — Positioning: Putnam (+Davidson)
-4. Sep 12 — Positioning: Rorty
-5. Sep 16 — Positioning: MacIntyre
+4. Sep 12 — Positioning: James
+5. Sep 16 — Positioning: Rorty
+6. Sep 20 — Positioning: MacIntyre
+7. Sep 24 — Positioning: Berlin
+8. Sep 28 — Positioning: Hayek
 
-Liberal/conservative cluster:
-6. Sep 20 — Positioning: Hayek
-7. Sep 24 — Positioning: Polanyi
-8. Sep 28 — Positioning: Oakeshott
+**October** — broadening the neighbourhood:
 
-**October** — synthesis, then process-relational signposts:
+9. Oct 4 — Positioning: Kuhn
+10. Oct 8 — Positioning: Dewey
+11. Oct 12 — Positioning: Gadamer
+12. Oct 16 — Positioning: Arendt
+13. Oct 20 — Positioning: Polanyi
+14. Oct 24 — Positioning: Oakeshott
+15. Oct 28 — Positioning: Cassirer
 
-9. Oct 1 — Synthesis: what the position takes from the neighbourhood / where it doesn't follow
-10. Oct 4 — Synthesis: the position itself — metaphysics, ontology, epistemology, ethics
-11. Oct 8 — Positioning: Whitehead (signpost: constructive, broader-than-human)
-12. Oct 12 — Positioning: Peirce (signpost: semiotics below the human)
-13. Oct 16 — Positioning: Bateson + biosemiotics (signpost: the gradient across life)
-14–16. Further synthesis as the material calls for it
+**November** — synthesis + process-relational signposts:
+
+16. Nov 1 — Relational Pluralism I (synthesis: what the position takes / where it doesn't follow)
+17. Nov 4 — Relational Pluralism II (synthesis: the position's branches, opening toward broader scope)
+18. Nov 8 — Positioning: Whitehead (process-relational: thinker who never centred the human)
+19. Nov 12 — Positioning: Peirce (semiotics without privileging the human sign-user)
+20. Nov 16 — Positioning: Bateson + biosemiotics (mind as pattern, semiosis across life)
+
+**December** — landing:
+
+21–22. Further synthesis: the branches worked out (metaphysics, ontology, epistemology, ethics)
+23. `seed/philosophical.md` rewrite — the philosophy landing page reflects what was built
+24. Closing post — relational pluralism as of year end; what opens in January 2027
 
 ## Pacing
 
-Starts September 2026. Cadence is weekly base — 4 posts/month at four months out and beyond, doubling to 8 inside the two-month window. The series is opened, not contracted: *let's see how many good posts come out of it* rather than committing to fill every slot. A month's worth of posts is the starting commitment; the rest follows as the work calls for it.
+Starts September 2026, closes December 2026. Cadence is doubled (8 slots/month). The series is opened, not contracted: *let's see how many good posts come out of it* rather than committing to fill every slot.
 
 ## End State
 
 The body of work produces:
 
-- The SPLectrum philosophy as a recognisable position, named and defended — distinct from pragmatism, distinct from process metaphysics, in dialogue with both.
-- The neighbourhood mapped — readers can see where SPLectrum sits without the blog having to repeat it.
-- `seed/philosophical.md` rewritten — the current thin convergence-map becomes a proper landing for the philosophy, pointing outward to positioning pieces and inward to synthesis posts.
+- **Relational pluralism** as a named, recognisable philosophical position — built from the seed, mapped against its neighbourhood, defended against the relativism charge.
+- **The neighbourhood mapped** — readers can see where the position sits without the blog having to repeat it. Pragmatist, liberal/conservative, process-relational clusters all positioned.
+- **`seed/philosophical.md` rewritten** — the current thin convergence-map becomes a proper landing for the philosophy.
+- **The transition set up** — December closes the anthropocentric buildup; January 2027 opens the next phase.
 
-## Deliberately Out of Scope
+## Phase 2: January 2027
 
-- **Cross-species / non-life extension.** Signposted via Whitehead/Peirce/Bateson positioning, but the actual extension across the gradient is future work.
-- **Ethics, aesthetics, politics as developed branches.** Values are touched via shared subjective objectivity; ethics-as-a-branch is not built out.
+The 2026 buildup builds relational pluralism from the human case — because that's where we are, and where the positioning material is richest. The 2027 phase changes perspective: not "human looking out" but life looking at itself, with humans in it.
+
+This is not scope expansion (adding non-human cases to a human-centred position). It is a perspective shift: human as one participant in a broader relational picture, not the reference point. The process-relational signposts (Whitehead, Peirce, Bateson) are thinkers who already had this perspective — they never centred the human in the first place.
+
+The delicacy: we are always human-biased. We cannot step outside our own form of life. The 2027 phase works within that constraint — acknowledging the bias while refusing to mistake it for a boundary.
+
+## Deliberately Out of Scope (for 2026)
+
+- **The perspective shift itself.** Signposted via the process-relational positioning, but the actual work is 2027.
+- **Ethics, aesthetics, politics as developed branches.** Values are touched via shared subjective objectivity; full development is future work.
 - **Philosophy of mind / consciousness as its own branch.** P2 covers experience structurally; phenomenology of mind is not developed.
 - **Deeper formal correspondence.** Category theory beyond the *First Encounter* post (June 2026).
 - **The drawing-a-boundary discovery/creation question** — parked in `submissions/seed-discovery-research.md`.
