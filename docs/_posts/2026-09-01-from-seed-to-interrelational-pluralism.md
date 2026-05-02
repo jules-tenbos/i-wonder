@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "From Seed to Relational Pluralism"
+title: "From Seed to Interrelational Pluralism"
 date: 2026-09-01
 labels: [seed, philosophy, SPLectrum]
 status: storyline
 ---
 
-Stall-setting post. Extends *Embracing Anti-Foundationalism* (August 24). Names the position: relational pluralism.
+Stall-setting post. Extends *Embracing Anti-Foundationalism* (August 24). Names the position: interrelational pluralism.
 
 **Storyline points:**
 
 - The movement: from seed to philosophical position
-- Names "relational pluralism" — says what it *is*, not what it's against
+- Names "interrelational pluralism" — says what it *is*, not what it's against
 - No meta-foundations, but local foundations legitimate — webs not pyramids
 - What follows across the branches:
   - Metaphysics: relational, not substance-based

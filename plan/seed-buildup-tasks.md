@@ -31,7 +31,7 @@ Work list for the September 2026 multi-post run. Derived from `drafts/seed-philo
 
 ## Blog posts
 
-- [ ] **Stall post**: *From Seed to Relational Pluralism* — SPLectrum voice, seed series. Names the position: relational pluralism. Extends the August anti-foundationalism post. Sets out the movement. Sketches what follows: metaphysics (relational), ontology (differentiation), epistemology (convergence, shared subjective objectivity), ethics (values inside language games). Signals anthropocentric starting point. Three claims, relativism worry, P4+P5 apparatus
+- [ ] **Stall post**: *From Seed to Interrelational Pluralism* — SPLectrum voice, seed series. Names the position: interrelational pluralism. Extends the August anti-foundationalism post. Sets out the movement. Sketches what follows: metaphysics (relational), ontology (differentiation), epistemology (convergence, shared subjective objectivity), ethics (values inside language games). Signals anthropocentric starting point. Three claims, relativism worry, P4+P5 apparatus
 - [ ] **Positioning posts** (non-SPLectrum voice, one per thinker above) — 7 posts
 - [ ] **Synthesis posts** (SPLectrum voice, seed series) — not P0–P5 mapped but the position built on top of the seed:
   - [ ] What the position takes from the thinkers / where it doesn't follow

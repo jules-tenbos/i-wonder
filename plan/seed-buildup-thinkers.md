@@ -1,6 +1,6 @@
-# Relational Pluralism — Thinkers List
+# Interrelational Pluralism — Thinkers List
 
-Full list of thinkers relevant to the relational pluralism positioning work. Organised by cluster. Status: scheduled, candidate, or referenced (already appears in the repo but no positioning piece).
+Full list of thinkers relevant to the interrelational pluralism positioning work. Organised by cluster. Status: scheduled, candidate, or referenced (already appears in the repo but no positioning piece).
 
 ## Pragmatist cluster
 

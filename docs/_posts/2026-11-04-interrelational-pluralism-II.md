@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Relational Pluralism II"
+title: "Interrelational Pluralism II"
 date: 2026-11-04
 labels: [seed, philosophy, SPLectrum]
 status: storyline

@@ -89,7 +89,7 @@ The SPLectrum-voice posts (seed series) then draw what resonates into the philos
 
 ## The Posts
 
-**1 stall-setting post** (SPLectrum voice, seed series): *From Seed to Relational Pluralism* — directly extending the August anti-foundationalism preamble. Names the position: relational pluralism. Sets out the movement: what the seed makes possible as a philosophical stance. Sketches what follows across the branches: metaphysics (relational, not substance-based), ontology (beings arise through differentiation, no fixed inventory), epistemology (knowledge as convergence, shared subjective objectivity), ethics (values inside language games, not meta-binding). Signals the anthropocentric starting point. The three load-bearing claims set out plainly; the relativism worry flagged and the apparatus for answering it (P4 + P5) named.
+**1 stall-setting post** (SPLectrum voice, seed series): *From Seed to Interrelational Pluralism* — directly extending the August anti-foundationalism preamble. Names the position: interrelational pluralism. Sets out the movement: what the seed makes possible as a philosophical stance. Sketches what follows across the branches: metaphysics (relational, not substance-based), ontology (beings arise through differentiation, no fixed inventory), epistemology (knowledge as convergence, shared subjective objectivity), ethics (values inside language games, not meta-binding). Signals the anthropocentric starting point. The three load-bearing claims set out plainly; the relativism worry flagged and the apparatus for answering it (P4 + P5) named.
 
 **Up to 7 positioning posts** (non-SPLectrum voice, positioning series), each with its ref-lib page in `docs/positioning/close-affinity/`:
 
@@ -121,7 +121,7 @@ Illustrative, not prescriptive — the schedule accommodates movement. Doubled c
 **September** — stall + anthropocentric positioning:
 
 Pragmatist cluster:
-1. Sep 1 — Stall: *From Seed to Relational Pluralism*
+1. Sep 1 — Stall: *From Seed to Interrelational Pluralism*
 2. Sep 4 — Positioning: Wittgenstein
 3. Sep 8 — Positioning: Putnam (+Davidson)
 4. Sep 12 — Positioning: James
@@ -142,8 +142,8 @@ Pragmatist cluster:
 
 **November** — synthesis + process-relational signposts:
 
-16. Nov 1 — Relational Pluralism I (synthesis: what the position takes / where it doesn't follow)
-17. Nov 4 — Relational Pluralism II (synthesis: the position's branches, opening toward broader scope)
+16. Nov 1 — Interrelational Pluralism I (synthesis: what the position takes / where it doesn't follow)
+17. Nov 4 — Interrelational Pluralism II (synthesis: the position's branches, opening toward broader scope)
 18. Nov 8 — Positioning: Whitehead (process-relational: thinker who never centred the human)
 19. Nov 12 — Positioning: Peirce (semiotics without privileging the human sign-user)
 20. Nov 16 — Positioning: Bateson + biosemiotics (mind as pattern, semiosis across life)
@@ -152,7 +152,7 @@ Pragmatist cluster:
 
 21–22. Further synthesis: the branches worked out (metaphysics, ontology, epistemology, ethics)
 23. `seed/philosophical.md` rewrite — the philosophy landing page reflects what was built
-24. Closing post — relational pluralism as of year end; what opens in January 2027
+24. Closing post — interrelational pluralism as of year end; what opens in January 2027
 
 ## Pacing
 
@@ -162,14 +162,14 @@ Starts September 2026, closes December 2026. Cadence is doubled (8 slots/month).
 
 The body of work produces:
 
-- **Relational pluralism** as a named, recognisable philosophical position — built from the seed, mapped against its neighbourhood, defended against the relativism charge.
+- **Interrelational pluralism** as a named, recognisable philosophical position — built from the seed, mapped against its neighbourhood, defended against the relativism charge.
 - **The neighbourhood mapped** — readers can see where the position sits without the blog having to repeat it. Pragmatist, liberal/conservative, process-relational clusters all positioned.
 - **`seed/philosophical.md` rewritten** — the current thin convergence-map becomes a proper landing for the philosophy.
 - **The transition set up** — December closes the anthropocentric buildup; January 2027 opens the next phase.
 
 ## Phase 2: January 2027
 
-The 2026 buildup builds relational pluralism from the human case — because that's where we are, and where the positioning material is richest. The 2027 phase changes perspective: not "human looking out" but life looking at itself, with humans in it.
+The 2026 buildup builds interrelational pluralism from the human case — because that's where we are, and where the positioning material is richest. The 2027 phase changes perspective: not "human looking out" but life looking at itself, with humans in it.
 
 This is not scope expansion (adding non-human cases to a human-centred position). It is a perspective shift: human as one participant in a broader relational picture, not the reference point. The process-relational signposts (Whitehead, Peirce, Bateson) are thinkers who already had this perspective — they never centred the human in the first place.
 
