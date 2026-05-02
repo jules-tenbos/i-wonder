@@ -2,24 +2,25 @@
 
 # The seed and Historicity
 
-Philosophy generally takes the subject as given — the one who experiences, the holder of beliefs, the agent. The seed does not. It derives what a subject is from the principles.
+This page builds on the [philosophical seed](philosophical) and focuses on P2 and P3 — subject experience, shared reality, and knowledge.
 
 **P0 — Being implies language.**<br>
-Differentiation produces concept and language. This is creation, but it does not yet require a subject. A difference can exist without anything registering it. P0 is structural — it describes what happens when something comes into being, not who is there to witness it.
+**P1 — Language is relational.**
 
-**P1 — Language is relational.**<br>
-A language's reach depends on what it relates to. Still structural. Relations hold whether or not anything accumulates from them.
+As per the [philosophical seed](philosophical).
 
-**P2 — Language is the medium through which a subject experiences reality.**<br>
-Here the subject enters — not as an assumption but as a consequence. P2 says experience is mediated by language. But what is experience? It is interaction that leaves a trace. Retention. Without retention, there is interaction but no experience — things happen and nothing is changed by them.
+**P2 — Language is the medium through which a subject experiences reality.**
 
-Retention is the threshold. Whatever retains — whatever carries a trace of interaction forward — is a subject in the seed's sense. The trace accumulates: retention produces memory, memory enables interpretation, interpretation builds reality. A subject's reality is the totality of its accumulated retention, in whatever language holds it.
+The [philosophical seed](philosophical) places the subject inside the relational: no outside view, no perspective from nowhere. [Merleau-Ponty](https://plato.stanford.edu/entries/merleau-ponty/) puts the body as the medium; [Husserl](https://plato.stanford.edu/entries/husserl/) examines experience from the inside. Both point toward what makes something a subject in the first place.
 
-This is historicity: the subject has a history because it retains. The subject is not given — it arises wherever retention occurs.
+For Husserl, experience has temporal structure. Every present moment carries traces of what came before — retention — and anticipation of what comes next. Without retention, there is interaction but no experience: things happen and nothing is changed by them. Merleau-Ponty extends this into the body: the habitual body accumulates, carries its history forward, and it is this accumulation that makes experience possible. [Hegel](https://plato.stanford.edu/entries/hegel/)'s sublation works the same way: every new determination preserves what it supersedes. The dialectic does not work without accumulation — it is accumulation.
 
-**P3 — Language is where subjects share knowledge about reality.**<br>
-Subjects that share a language can synchronise their retention. What each has accumulated individually enters into relation with what others have accumulated. Through synchronisation a shared reality forms — a common historicity that is more than any single subject's retention. The community carries its own accumulated reality.
+This is historicity. Whatever retains — whatever carries a trace of interaction forward — is a subject. Not because philosophy assumes a subject, but because retention produces one. The trace accumulates: retention becomes memory, memory enables interpretation, interpretation builds reality. A subject's reality is the totality of its accumulated retention.
 
-The step from P2 to P3 is the step from individual historicity to shared historicity. The subject retains; subjects sharing a language co-retain. The shared retention is what makes a community more than a collection of individuals — it has its own history, its own accumulated reality, its own language.
+Without historicity, differentiation could be static — a difference that leaves no trace, no subject, no experience. With historicity, a subject arises wherever retention occurs.
 
-See [The seed and Human Reality](human-reality) for how this plays out in the human case. See [The seed and Interrelational Pluralism](interrelational-pluralism) for the philosophical stance that follows.
+**P3 — Language is where subjects share knowledge about reality.**
+
+Historicity does not stop at the individual subject. Sharing through language requires something accumulated to share — a subject without history has nothing to bring to the encounter. Subjects that share a language can synchronise their retention, and through synchronisation a shared reality forms.
+
+See [The seed and Human Reality](human-reality) for the full importance of community, shared reality, and knowledge. See [The seed and Interrelational Pluralism](interrelational-pluralism) for the philosophical stance that follows.

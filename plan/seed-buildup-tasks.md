@@ -1,44 +1,68 @@
 # Seed Philosophy Buildup — Task List
 
-Work list for the September 2026 multi-post run. Derived from `drafts/seed-philosophy-buildup-plan.md`.
+Work list for the Sep–Dec 2026 run. Position: interrelational pluralism.
 
-## Reorganise positioning section
+## Done
 
-- [ ] Update `positioning/close-affinity/index.md` — add section for per-thinker pages alongside existing seed trajectory pieces
-- [ ] Update sitemap for new pages as they land
+- [x] Position named: interrelational pluralism
+- [x] Positioning section restructured: persons A-Z, subjects A-Z, seed trajectories moved
+- [x] Positioning voice doc created (tone-of-voice/positioning-voice.md)
+- [x] Wittgenstein persons page created (positioning/persons/w/wittgenstein.md)
+- [x] Seed and Interrelational Pluralism page created (seed/interrelational-pluralism.md)
+- [x] Seed and Historicity page created — draft, language needs rework (seed/historicity.md)
+- [x] "Pluralism" seeded in human-reality.md and May 16/20 posts
+- [x] Full thinkers list created (plan/seed-buildup-thinkers.md)
+- [x] 20 posts scheduled Sep–Nov with storyline points
+- [x] Buildup plan updated throughout (plan/seed-philosophy-buildup-plan.md)
 
-## Positioning pages — light research (refresh existing material)
+## In progress
 
-- [ ] **Wittgenstein** — standalone page from existing coverage. Sharpen resonance/dissonance for the constructive anti-foundationalism angle
-- [ ] **Rorty** — standalone page from existing coverage. Deepen ethnocentrism-without-relativism angle, map to P3/P4
+- [ ] **Historicity page language rework** — needs to deduce retention through established philosophical territory (experience → knowledge → sharing), not through P-claims. Draw on thinkers from seed/philosophical.md. Careful writing.
+- [ ] **Interrelational pluralism page** — may need revision in light of historicity rework
 
-## Positioning pages — medium research (September: anthropocentric)
+## Positioning pages — persons (research + create)
 
-- [ ] **MacIntyre** — NEW. Tradition-constituted rationality, critique of Enlightenment universalism. Key: *After Virtue*, *Whose Justice? Which Rationality?*
-- [ ] **Hayek** — NEW. Knowledge problem, spontaneous order, decentralisation without central design. Key: *The Use of Knowledge in Society* (1945), *The Fatal Conceit* (1988)
-- [ ] **Polanyi** — NEW. Tacit knowledge, personal knowledge. Key: *Personal Knowledge* (1958), *The Tacit Dimension* (1966)
-- [ ] **Oakeshott** — NEW. Practical knowledge over theoretical, critique of rationalism. Key: *Rationalism in Politics* (1962)
+September (anthropocentric core):
+- [x] Wittgenstein — created
+- [ ] Putnam (+Davidson)
+- [ ] James
+- [ ] Rorty
+- [ ] MacIntyre
+- [ ] Berlin
+- [ ] Hayek
+- [ ] Kuhn
 
-## Positioning pages — heavy research (September)
+October (broadening):
+- [ ] Dewey
+- [ ] Gadamer
+- [ ] Arendt
+- [ ] Polanyi
+- [ ] Oakeshott
+- [ ] Cassirer
+- [ ] Feyerabend
+- [ ] Goodman
+- [ ] Nagarjuna
 
-- [ ] **Putnam (+Davidson)** — NEW. Internal realism, conceptual relativity, no ready-made world. Davidson's scheme-relativism objection and P4 answer. Key: *Reason, Truth and History*, *The Many Faces of Realism*, Davidson's *On the Very Idea of a Conceptual Scheme* (1974)
+November (process-relational signposts):
+- [ ] Whitehead
+- [ ] Peirce
+- [ ] Bateson + Biosemiotics
 
-## Positioning pages — October (process-relational signposts, broader-than-human)
-
-- [ ] **Whitehead** — standalone page. Separate out the constructive move (speculative philosophy). Key: *Process and Reality*, *Science and the Modern World*
-- [ ] **Peirce** — NEW. Triadic semiotics, categories (Firstness/Secondness/Thirdness), pragmaticism. Bridge to biosemiotics. Key: *Collected Papers* (semiotic selections)
-- [ ] **Bateson + Biosemiotics** — NEW. Bateson: pattern which connects, mind as relational process. Biosemiotics: Sebeok, Hoffmeyer, Kull — semiosis across all life. Key: *Steps to an Ecology of Mind*, *Signs of Meaning in the Universe*
+Full candidate list: plan/seed-buildup-thinkers.md
 
 ## Blog posts
 
-- [ ] **Stall post**: *From Seed to Interrelational Pluralism* — SPLectrum voice, seed series. Names the position: interrelational pluralism. Extends the August anti-foundationalism post. Sets out the movement. Sketches what follows: metaphysics (relational), ontology (differentiation), epistemology (convergence, shared subjective objectivity), ethics (values inside language games). Signals anthropocentric starting point. Three claims, relativism worry, P4+P5 apparatus
-- [ ] **Positioning posts** (non-SPLectrum voice, one per thinker above) — 7 posts
-- [ ] **Synthesis posts** (SPLectrum voice, seed series) — not P0–P5 mapped but the position built on top of the seed:
-  - [ ] What the position takes from the thinkers / where it doesn't follow
-  - [ ] The position itself: metaphysics, ontology, epistemology, ethics
-  - [ ] Further synthesis as the material calls for it
+- [ ] Sep 1: *From Seed to Interrelational Pluralism* (stall)
+- [ ] Sep 4–28: 7 positioning posts (Wittgenstein, Putnam, James, Rorty, MacIntyre, Berlin, Hayek)
+- [ ] Oct 4–28: 7 positioning posts (Kuhn, Dewey, Gadamer, Arendt, Polanyi, Oakeshott, Cassirer)
+- [ ] Nov 1: Interrelational Pluralism I (synthesis)
+- [ ] Nov 4: Interrelational Pluralism II (synthesis)
+- [ ] Nov 8–16: 3 positioning posts (Whitehead, Peirce, Bateson+biosemiotics)
+- [ ] December: further synthesis, seed/philosophical.md rewrite, closing post
 
-## End state
+## End state (Dec 2026)
 
-- [ ] Rewrite `seed/philosophical.md` — from thin convergence-map to proper philosophy landing page
-- [ ] Neighbourhood mapped — readers can see where SPLectrum sits
+- [ ] Interrelational pluralism as a named philosophical position
+- [ ] Neighbourhood mapped across persons A-Z
+- [ ] Rewrite seed/philosophical.md
+- [ ] Closing post — year end, transition to 2027 phase
