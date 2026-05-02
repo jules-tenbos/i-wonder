@@ -1,4 +1,4 @@
-[Home](/) > [Positioning](/positioning/) > [Close affinity](/positioning/close-affinity/) > Wittgenstein
+[Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Wittgenstein
 
 # Wittgenstein
 
@@ -48,4 +48,4 @@ Language is framed as human natural history: "Commanding, questioning, recountin
 
 ---
 
-See also: [Wittgenstein vocabulary](/vocabulary/wittgenstein/) · [The Turn in Western Philosophy](/positioning/close-affinity/seed/the-turn-in-western-philosophy)
+See also: [Wittgenstein vocabulary](/vocabulary/wittgenstein/) · [The Turn in Western Philosophy](/positioning/seed/the-turn-in-western-philosophy)

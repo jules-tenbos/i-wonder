@@ -1,4 +1,4 @@
-[Home](/) > [Positioning](/positioning/) > [On the fence](/positioning/on-the-fence/) > Mutualism
+[Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > Mutualism
 
 # Mutualism
 

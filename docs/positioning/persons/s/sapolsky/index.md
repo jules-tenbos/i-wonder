@@ -1,4 +1,4 @@
-[Home](/) > [Positioning](/positioning/) > [Wider landscape](/positioning/wider-landscape/) > Sapolsky
+[Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Sapolsky
 
 # Robert Sapolsky
 

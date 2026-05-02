@@ -1,4 +1,4 @@
-[Home](/) > [Positioning](/positioning/) > [Close affinity](/positioning/close-affinity/) > Seed > The Turn in Science
+[Home](/) > [Positioning](/positioning/) > [Seed](/positioning/seed/) > The Turn in Science
 
 # The Turn in Science
 

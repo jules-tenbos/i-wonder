@@ -1,4 +1,4 @@
-[Home](/) > [Positioning](/positioning/) > [Close affinity](/positioning/close-affinity/) > Seed > The Turn in Western Philosophy
+[Home](/) > [Positioning](/positioning/) > [Seed](/positioning/seed/) > The Turn in Western Philosophy
 
 # The Turn in Western Philosophy
 
@@ -20,7 +20,7 @@
 
 ## Axis philosophers
 
-**[Wittgenstein](/positioning/close-affinity/wittgenstein).** Built the logical straitjacket with the *Tractatus* — one logical structure mirroring reality — then dismantled it from inside. Language games, forms of life, meaning as use, rule-following as social practice. The materials for a structural account are there. He chose not to build it.
+**[Wittgenstein](/positioning/persons/w/wittgenstein).** Built the logical straitjacket with the *Tractatus* — one logical structure mirroring reality — then dismantled it from inside. Language games, forms of life, meaning as use, rule-following as social practice. The materials for a structural account are there. He chose not to build it.
 
 **[Rorty](https://plato.stanford.edu/entries/rorty/).** Drew on Wittgenstein, Heidegger, and [Dewey](https://plato.stanford.edu/entries/dewey/). No [mirror of nature](https://en.wikipedia.org/wiki/Philosophy_and_the_Mirror_of_Nature). Vocabularies are tools, not representations. All justification is social. Conversation replaces epistemology. No vocabulary can rank another. Through the seed: Rorty's practice of conversation presupposes exactly the kind of common structural layer the seed describes. He cannot explain why conversation is possible across vocabularies without implicitly relying on something shared. The seed makes explicit what Rorty leaves implicit.
 

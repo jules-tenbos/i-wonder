@@ -1,4 +1,4 @@
-[Home](/) > [Positioning](/positioning/) > [Wider landscape](/positioning/wider-landscape/) > [Sapolsky](/positioning/wider-landscape/sapolsky/) > Human Behavioural Biology
+[Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > [Sapolsky](/positioning/persons/s/sapolsky/) > Human Behavioural Biology
 
 # Human Behavioural Biology — Stanford lecture series
 

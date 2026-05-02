@@ -38,7 +38,7 @@ The strangeness didn't stay theoretical. Bell's theorem showed that quantum corr
 
 The result is a split that defines modern physics. On one side, spectacular success — atomic spectra, semiconductors, lasers, nuclear physics, three of the four fundamental forces unified within quantum field theory. On the other, an impasse — no agreed picture of reality, no resolution of the observer's role, and gravity still outside the quantum framework. The most productive theory in history, and no worldview to go with it.
 
-<small>This post is part of the [positioning series](/blog/label/positioning). More in the <a href="/positioning/close-affinity/seed/the-turn-in-science">scientific positioning</a> of the reference library.</small>
+<small>This post is part of the [positioning series](/blog/label/positioning). More in the <a href="/positioning/seed/the-turn-in-science">scientific positioning</a> of the reference library.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@grianghraf">Grianghraf</a> / Unsplash</small>

@@ -2,6 +2,6 @@
 
 # Wittgenstein vocabulary
 
-Terms SPLectrum borrows from Wittgenstein. See also: [Wittgenstein positioning piece](/positioning/close-affinity/wittgenstein).
+Terms SPLectrum borrows from Wittgenstein. See also: [Wittgenstein positioning piece](/positioning/persons/w/wittgenstein).
 
 <span id="language-game">**Language game**</span> — A bounded activity of language use with its own rules and participants. From Wittgenstein's *Philosophical Investigations*.

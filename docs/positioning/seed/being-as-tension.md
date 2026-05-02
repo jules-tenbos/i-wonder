@@ -1,4 +1,4 @@
-[Home](/) > [Positioning](/positioning/) > [Close affinity](/positioning/close-affinity/) > Seed > Being as Tension
+[Home](/) > [Positioning](/positioning/) > [Seed](/positioning/seed/) > Being as Tension
 
 # Being as Tension
 

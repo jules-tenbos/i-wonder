@@ -1,4 +1,4 @@
-[Home](/) > [Positioning](/positioning/) > [On the fence](/positioning/on-the-fence/) > Observer Patch Holography
+[Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > Observer Patch Holography
 
 # Observer Patch Holography
 
@@ -30,7 +30,7 @@ Independent frameworks, different starting points, different vocabularies — ar
 
 Foundational axioms are minimal — they establish the least that must be assumed. OPH's axioms are far beyond minimal: full theoretical positions — conclusions from decades of physics — repackaged as starting points. That makes the foundation prone to circularity. The work is not peer-reviewed and exists only as self-published material.
 
-A deeper issue sits in the consistency axiom: overlapping observers *must* agree on shared observables. Agreement is postulated, not produced. There is no coupling mechanism that grounds observers on the same floor — no account of what produces agreement or what happens in its absence. The [RQM discussion](../close-affinity/seed/the-turn-in-science) works on exactly this problem, with [decoherence](https://plato.stanford.edu/entries/qm-decoherence/) coming more and more into focus as the mechanism that produces stable, shared facts from relational ones. OPH does not engage with it.
+A deeper issue sits in the consistency axiom: overlapping observers *must* agree on shared observables. Agreement is postulated, not produced. There is no coupling mechanism that grounds observers on the same floor — no account of what produces agreement or what happens in its absence. The [RQM discussion](../seed/the-turn-in-science) works on exactly this problem, with [decoherence](https://plato.stanford.edu/entries/qm-decoherence/) coming more and more into focus as the mechanism that produces stable, shared facts from relational ones. OPH does not engage with it.
 
 Without coupling, the framework needs a global vantage point to hold the picture together — the outside view re-enters through the absence of grounding. And observers that must agree are not free to disagree. An observer without that freedom is a node in a consensus protocol, not a genuine perspective.
 

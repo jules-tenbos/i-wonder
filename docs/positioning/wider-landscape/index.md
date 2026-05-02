@@ -6,6 +6,4 @@ Positioning pieces with weaker direct affinity to SPLectrum but worth situating 
 
 This area is aspirational for now. Content grows as relevant pieces develop through the [conversation](/blog/).
 
-## Thinkers
-
-- [Robert Sapolsky](sapolsky/) — human behavioural biology, integrative across layers.
+- [Robert Sapolsky](/positioning/persons/s/sapolsky/) — human behavioural biology, integrative across layers.
