@@ -35,23 +35,46 @@ P0 + P1 remain the structural generative base of the seed. P2 is where the philo
 
 Two clusters of historical company, serving two different layers of the work.
 
-**Pragmatist / Wittgensteinian cluster — community-level work:**
+**Pragmatist cluster — the pluralism lineage:**
 
-- **Wittgenstein** — forms of life, agreement in judgments
+- **James** — named pluralism as a philosophical programme; radical empiricism; *A Pluralistic Universe*
+- **Dewey** — constructive pragmatism; democracy as inquiry; intelligence as social problem-solving
+- **Wittgenstein** — forms of life, agreement in judgments, language games
+- **Rorty** — ethnocentrism without relativism; conversation replaces epistemology
 - **Putnam** — internal realism, multiple true descriptions, no ready-made world
-- **Rorty** — ethnocentrism without relativism
-- **MacIntyre** — tradition-constituted rationality
 
-This cluster is largely anthropocentric and largely defensive or therapeutic in stance. Useful for the community-level moves; not the home tradition.
+**Tradition and engagement cluster:**
 
-**Process-relational / biosemiotic cluster — broader frame:**
+- **MacIntyre** — tradition-constituted rationality; how traditions engage each other
+- **Gadamer** — fusion of horizons; understanding across traditions without a meta-framework
+
+**Pluralism and values cluster:**
+
+- **Berlin** — value pluralism, incommensurability of values, no single summum bonum
+- **Arendt** — plurality as the human condition; constitutive of political life
+
+**Philosophy of science:**
+
+- **Kuhn** — paradigms as community-bound foundations; incommensurability between paradigms
+
+**Liberal / conservative cluster — decentralisation and practical knowledge:**
+
+- **Hayek** — knowledge problem, spontaneous order, decentralisation without central design
+- **Polanyi** — tacit knowledge, personal knowledge, the embodied ground of knowing
+- **Oakeshott** — practical knowledge over theoretical, critique of rationalism in politics
+
+**Symbolic forms:**
+
+- **Cassirer** — philosophy of symbolic forms; language, myth, science, art as different ways of constituting reality
+
+**Process-relational / biosemiotic cluster — broader-than-human signposts:**
 
 - **Whitehead** — process metaphysics from atoms upward; explicitly constructive ("speculative philosophy")
 - **Peirce** — semiotic system extending below the human; constructive
 - **Bateson** — mind and communication across living systems
 - **Biosemiotics** (Sebeok, Hoffmeyer, Kull) — Peircean semiotics across all life
 
-This cluster is broader-than-human and constructive. Closer to where the seed sits structurally, though the September run only signposts it; the cross-species extension is parked.
+The anthropocentric clusters feed the synthesis directly. The process-relational cluster signposts the broader-than-human scope the seed allows but this run doesn't build.
 
 **One known objection to engage:** Davidson's *On the Very Idea of a Conceptual Scheme* (1974) — argues scheme-relativism is incoherent because we couldn't recognise an alternative scheme as a scheme without already sharing enough with it. The seed answers this through P4 (overlap as origin, equal standing in potential, no isolated language games). Folded into the Putnam treatment, where it sits closest.
 
@@ -66,7 +89,7 @@ The SPLectrum-voice posts (seed series) then draw what resonates into the philos
 
 ## The Posts
 
-**1 stall-setting post** (SPLectrum voice, seed series): *Constructive Anti-Foundationalism* — directly extending the August preamble. The three load-bearing claims set out plainly; the relativism worry flagged and the apparatus for answering it (P4 + P5) named.
+**1 stall-setting post** (SPLectrum voice, seed series): *From Seed to Relational Pluralism* — directly extending the August anti-foundationalism preamble. Names the position: relational pluralism. Sets out the movement: what the seed makes possible as a philosophical stance. Sketches what follows across the branches: metaphysics (relational, not substance-based), ontology (beings arise through differentiation, no fixed inventory), epistemology (knowledge as convergence, shared subjective objectivity), ethics (values inside language games, not meta-binding). Signals the anthropocentric starting point. The three load-bearing claims set out plainly; the relativism worry flagged and the apparatus for answering it (P4 + P5) named.
 
 **Up to 7 positioning posts** (non-SPLectrum voice, positioning series), each with its ref-lib page in `docs/positioning/close-affinity/`:
 
@@ -81,28 +104,40 @@ Process-relational cluster:
 - Peirce
 - Bateson + biosemiotics (likely combined)
 
-**4 synthesis posts** (SPLectrum voice, seed series):
-- P2 as constructive cornerstone
-- P3 — shared subjective objectivity
-- P4 — communities meeting in equal standing
-- P5 — the web of webs
+**Synthesis posts** (SPLectrum voice, seed series) — not a re-tour of P0–P5 but the philosophy built on top of the seed, informed by the neighbourhood. The synthesis draws on what the positioning work surfaces:
+
+- What the position takes from the thinkers — what resonates and is absorbed
+- Where it doesn't follow — where SPLectrum diverges and why
+- The position itself — metaphysics, ontology, epistemology, ethics as they emerge from this specific combination
+
+Number and shape of synthesis posts to be determined by what the positioning work actually produces. Not formulaic — driven by the material.
 
 **Total: ~12 posts** as currently planned, with realistic expansion to 13–15 once writing surfaces what it actually needs.
 
-A possible interleaved sequence (illustrative, not prescriptive — the schedule accommodates movement):
+A possible sequence (illustrative, not prescriptive — the schedule accommodates movement):
 
-1. Stall — *Constructive Anti-Foundationalism*
-2. Positioning — Wittgenstein
-3. Positioning — Putnam
-4. Synthesis — P2 as constructive cornerstone
-5. Positioning — Rorty
-6. Positioning — MacIntyre
-7. Synthesis — P3 (shared subjective objectivity)
-8. Positioning — Whitehead
-9. Synthesis — P4 (communities meeting)
-10. Positioning — Peirce
-11. Positioning — Bateson + biosemiotics
-12. Synthesis — P5 (the web of webs)
+**September** — stall + anthropocentric positioning (8 slots on doubled cadence: 1, 4, 8, 12, 16, 20, 24, 28):
+
+Pragmatist cluster:
+1. Sep 1 — Stall: names the position, sets out the movement
+2. Sep 4 — Positioning: Wittgenstein
+3. Sep 8 — Positioning: Putnam (+Davidson)
+4. Sep 12 — Positioning: Rorty
+5. Sep 16 — Positioning: MacIntyre
+
+Liberal/conservative cluster:
+6. Sep 20 — Positioning: Hayek
+7. Sep 24 — Positioning: Polanyi
+8. Sep 28 — Positioning: Oakeshott
+
+**October** — synthesis, then process-relational signposts:
+
+9. Oct 1 — Synthesis: what the position takes from the neighbourhood / where it doesn't follow
+10. Oct 4 — Synthesis: the position itself — metaphysics, ontology, epistemology, ethics
+11. Oct 8 — Positioning: Whitehead (signpost: constructive, broader-than-human)
+12. Oct 12 — Positioning: Peirce (signpost: semiotics below the human)
+13. Oct 16 — Positioning: Bateson + biosemiotics (signpost: the gradient across life)
+14–16. Further synthesis as the material calls for it
 
 ## Pacing
 
