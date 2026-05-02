@@ -33,7 +33,7 @@ And this is where the seed comes back. P0: when a community comes into existence
 
 Where languages overlap, that overlap becomes a starting point — new language can grow from it. Medicine emerges from the overlap of biology and practice. A pidgin from two languages meeting in a port. P4 names this for languages themselves: every overlap is a potential origin.
 
-The human web evolves through this cycle. We synchronise, knowledge deepens, new languages emerge from the overlap, and those in turn synchronise with others. The complexity is in the relating, not in any single community.
+The human web evolves through this cycle. We synchronise, knowledge deepens, new languages emerge from the overlap, and those in turn synchronise with others. The complexity is in the relating, not in any single community. A pluralism held together by the relating itself.
 
 Community is luminous, not dense. Relational, not collective. It holds together precisely because the sources stay sources. And all this follows from the seed — from six principles.
 
