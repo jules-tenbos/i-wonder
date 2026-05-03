@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "The Turn in Science"
 ---
 

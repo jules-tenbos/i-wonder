@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "How shadow pages are made"
 ---
 

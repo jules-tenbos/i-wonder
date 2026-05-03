@@ -11,7 +11,7 @@ I finally did it, my blog is up and running with blog posts scheduled weeks ahea
 
 Twelve posts have already been published as this one goes live, and many more are scheduled. The shared authorship, human-AI collaboration, is working well; it is a godsend. It is a relay game where each fulfills their role, completing tasks until the final product is delivered. Such a good feeling that I am finally productive and able to concentrate on creative writing while being so well supported.
 
-The blog isn't the only accomplishment. SPLectrum as a foundational project was born and made it through the neonatal period: the seed principles make sense when looked at within the context of historical and current thinking. Now SPLectrum is in its infancy, time for it to start developing its own identity. The World of SPLectrum site plays a big part in that. The site presents three angles: the blog is about conversations about topics, the Rorty way. The main site gives a more matter-of-fact view where the project is at, a reference library. And in the topnav there is a small section with a personal touch. 
+The blog isn't the only accomplishment. SPLectrum as a foundational philosophy was born and made it through the neonatal period: the seed principles make sense when looked at within the context of historical and current thinking. Now SPLectrum is in its infancy, time for it to start developing its own identity. The World of SPLectrum site plays a big part in that. The site presents three angles: the blog is about conversations about topics, the Rorty way. The main site gives a more matter-of-fact view where the project is at, a reference library. And in the topnav there is a small section with a personal touch. 
 
 The site gets delivered through an interactive human-AI creative collaboration. The approach for each section is well-defined in tone of voice and thought documentation. Together with the processes this forms a persona delivering this site, I call it the Public Conscious Persona. What does that mean? It's a persona that processes finished units of work (data): Do they fit in the public conversation? Does it mean an update to the main site? It is SPLectrum's outward-facing voice, speaking from conscious thought. What goes as a post is a storyline, a happening. What goes on site is for reference. The Public Conscious Persona is the concern of the World of SPLectrum repo, responsible for publishing the public voice. That is its language game.
 
@@ -27,7 +27,7 @@ Now it is ready for scheduling. The raw thoughts have now been shaped into prope
 
 For the architectural description of the persona, see the [Public Conscious Persona](/engineering/splectrum/haicc/personas/public-conscious-persona/) page.
 
-Welcome to SPLectrum — Public Conscious Persona 1.0.
+Welcome to the Public Conscious Persona.
 
 <small>More on the human-AI partnership on the <a href="/haicc">HAICC page</a> and in the <a href="/engineering/splectrum/haicc/personas/">personas area</a> of the reference library.</small>
 

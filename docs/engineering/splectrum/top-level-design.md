@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "SPLectrum Engineering — Top Level Design"
 ---
 

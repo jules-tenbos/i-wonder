@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "From Clockwork to Open Questions — vocabulary"
 ---
 

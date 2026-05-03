@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Dual-Runtime Code"
 ---
 

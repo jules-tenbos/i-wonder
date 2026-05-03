@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "SPLectrum and First Principles — vocabulary"
 ---
 

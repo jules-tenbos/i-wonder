@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Human Behavioural Biology — Stanford lecture series"
 ---
 

@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "avsc-rpc Wire Protocol"
 ---
 

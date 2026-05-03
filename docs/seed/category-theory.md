@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "When category theory and the seed meet"
 ---
 

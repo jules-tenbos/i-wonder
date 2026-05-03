@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "git — Git CLI Wrapper"
 ---
 

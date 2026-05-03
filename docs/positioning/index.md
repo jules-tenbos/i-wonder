@@ -1,9 +1,9 @@
 ---
+layout: default
 title: "Positioning"
 ---
 
-{% include vocabulary-link.html shadow="/vocabulary/site/home/positioning/" %}
-[Home](/) > Positioning
+[Home](/) > Positioning{% include vocabulary-link.html shadow="/vocabulary/site/home/positioning/" %}
 
 # Positioning
 

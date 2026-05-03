@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "HAICC — Human-AI Creative Collaboration"
 ---
 

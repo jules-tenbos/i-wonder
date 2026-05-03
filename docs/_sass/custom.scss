@@ -98,6 +98,24 @@
   margin: 1.5em 0;
 }
 
+.blog-entry {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.blog-thumb {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 4px;
+  flex-shrink: 0;
+}
+
+.blog-entry-text {
+  flex: 1;
+}
+
 .post-header:has(.post-title:empty) {
   display: none;
 }
