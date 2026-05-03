@@ -24,6 +24,9 @@ Human reality as community-constituted — multi-membership, and the apparatus t
 **[The seed and Interrelational Pluralism](interrelational-pluralism)**<br>
 Disclosing the full dynamic of the seed — the creative engine driven by the six principles.
 
+**[The seed, Privacy and Decentralisation](privacy-and-decentralisation)**<br>
+Privacy as the essence of subject experience, and decentralisation as how communities naturally form.
+
 **[The applied seed - Engineering](engineering)**<br>
 SPLectrum's attempt at a seamless translation of the seed into engineering design.
 
