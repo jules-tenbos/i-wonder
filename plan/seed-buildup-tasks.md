@@ -9,7 +9,17 @@ Work list for the Sep–Dec 2026 run. Position: interrelational pluralism.
 - [x] Positioning voice doc created (tone-of-voice/positioning-voice.md)
 - [x] Wittgenstein persons page created (positioning/persons/w/wittgenstein.md)
 - [x] Seed and Interrelational Pluralism page created (seed/interrelational-pluralism.md)
-- [x] Seed and Historicity page created — draft, language needs rework (seed/historicity.md)
+- [x] Seed and Historicity page reworked — P2 grounded in Husserl, Merleau-Ponty, Hegel; P3 light bridge to human reality
+- [x] Seed and Human Reality intro updated — community-constituted, builds on historicity, extends into P3/P4
+- [x] Seed and Interrelational Pluralism page tightened — builds on historicity and human reality, discloses full dynamic
+- [x] Positioning seed entry for interrelational pluralism created — four strands (metaphysical, epistemological, value, political)
+- [x] Site strapline: "The home of Interrelational Pluralism" in _config.yml description
+- [x] Homepage updated — interrelational pluralism and AI woven in, roadmap removed
+- [x] About page updated — seed as foundation for a worldview of interrelational pluralism
+- [x] P2P page reframed — decentralisation and interrelational pluralism, engineering focus, seed-claiming removed
+- [x] Title front matter added to all pages site-wide (SEO fix)
+- [x] Redirect pages fixed (directory-based index.html for trailing slash support)
+- [x] Cross-links between seed sub-pages fixed to absolute paths
 - [x] "Pluralism" seeded in human-reality.md and May 16/20 posts
 - [x] Full thinkers list created (plan/seed-buildup-thinkers.md)
 - [x] 20 posts scheduled Sep–Nov with storyline points
@@ -17,8 +27,7 @@ Work list for the Sep–Dec 2026 run. Position: interrelational pluralism.
 
 ## In progress
 
-- [ ] **Historicity page language rework** — needs to deduce retention through established philosophical territory (experience → knowledge → sharing), not through P-claims. Draw on thinkers from seed/philosophical.md. Careful writing.
-- [ ] **Interrelational pluralism page** — may need revision in light of historicity rework
+- [ ] **Human reality page** — P3 section could be strengthened with Gadamer/Habermas/Peirce (moved from historicity); overall page may need similar rework to match new historicity/pluralism standard
 
 ## Positioning pages — persons (research + create)
 
