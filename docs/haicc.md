@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "HAICC"
 ---
 
 [Home](/) > HAICC

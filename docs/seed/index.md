@@ -1,3 +1,7 @@
+---
+title: "The SPLectrum Seed"
+---
+
 [Home](/) > The SPLectrum Seed
 
 # The SPLectrum Seed

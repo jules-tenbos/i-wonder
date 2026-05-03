@@ -1,3 +1,7 @@
+---
+title: "Public Conscious Persona"
+---
+
 [Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > [HAICC](/engineering/splectrum/haicc/) > [Personas](/engineering/splectrum/haicc/personas/) > Public Conscious Persona
 
 # Public Conscious Persona

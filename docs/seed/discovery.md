@@ -1,3 +1,7 @@
+---
+title: "The seed and Discovery"
+---
+
 [Home](/) > [The SPLectrum Seed](/seed/) > The seed and Discovery
 
 # The seed and Discovery

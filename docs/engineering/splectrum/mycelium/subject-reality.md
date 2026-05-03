@@ -1,3 +1,7 @@
+---
+title: "Subject Reality"
+---
+
 [Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > [Mycelium](/engineering/splectrum/mycelium/) > Subject Reality
 
 # Subject Reality

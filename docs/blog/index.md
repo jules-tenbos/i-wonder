@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "In Wonder - The Conversation"
 ---
 
 [Home](/) > In Wonder

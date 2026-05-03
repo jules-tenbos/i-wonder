@@ -1,3 +1,7 @@
+---
+title: "Mycelium"
+---
+
 [Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > Mycelium
 
 # Mycelium

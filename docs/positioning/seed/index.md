@@ -1,3 +1,7 @@
+---
+title: "Seed"
+---
+
 [Home](/) > [Positioning](/positioning/) > Seed
 
 # Seed

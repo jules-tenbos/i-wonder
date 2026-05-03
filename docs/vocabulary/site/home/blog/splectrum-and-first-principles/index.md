@@ -1,3 +1,7 @@
+---
+title: "SPLectrum and First Principles — vocabulary"
+---
+
 [Home](/) > [Vocabulary](/vocabulary/) > [This Web Site](/vocabulary/site/) > Home > Blog > SPLectrum and First Principles
 
 # SPLectrum and First Principles — vocabulary

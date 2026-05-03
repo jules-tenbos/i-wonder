@@ -1,3 +1,7 @@
+---
+title: "Category Theory"
+---
+
 [Home](/) > [Language](/language/) > Category Theory
 
 # Category Theory

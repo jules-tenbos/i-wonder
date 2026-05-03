@@ -1,3 +1,7 @@
+---
+title: "Discovery"
+---
+
 [Home](/) > [Reality](/reality/) > Discovery
 
 # Discovery

@@ -1,3 +1,7 @@
+---
+title: "Engineering vocabulary"
+---
+
 [Home](/) > [Vocabulary](/vocabulary/) > [SPLectrum](/vocabulary/splectrum/) > Engineering
 
 # Engineering vocabulary

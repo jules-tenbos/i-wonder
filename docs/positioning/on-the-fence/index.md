@@ -1,3 +1,7 @@
+---
+title: "On the fence"
+---
+
 [Home](/) > [Positioning](/positioning/) > On the fence
 
 # On the fence

@@ -1,3 +1,7 @@
+---
+title: "Software languages"
+---
+
 [Home](/) > [Language](/language/) > Software languages
 
 # Software languages

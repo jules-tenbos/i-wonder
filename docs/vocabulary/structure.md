@@ -1,3 +1,7 @@
+---
+title: "The structure of vocabulary"
+---
+
 [Home](/) > [Vocabulary](/vocabulary/) > Structure
 
 # The structure of vocabulary

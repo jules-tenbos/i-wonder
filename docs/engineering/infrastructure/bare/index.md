@@ -1,3 +1,7 @@
+---
+title: "Bare Runtime Reference"
+---
+
 [Home](/) > [Engineering](/engineering/) > [Infrastructure](/engineering/infrastructure/) > Bare Runtime
 
 # Bare Runtime Reference

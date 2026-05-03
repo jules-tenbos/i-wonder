@@ -1,3 +1,7 @@
+---
+title: "The original principles"
+---
+
 [Home](/) > [The SPLectrum Seed](/seed/) > The original principles
 
 # The original principles

@@ -1,3 +1,7 @@
+---
+title: "Mycelium Protocol"
+---
+
 [Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > [Mycelium](/engineering/splectrum/mycelium/) > Protocol
 
 # Mycelium Protocol

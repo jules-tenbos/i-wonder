@@ -1,3 +1,7 @@
+---
+title: "The seed and Historicity"
+---
+
 [Home](/) > [The SPLectrum Seed](/seed/) > The seed and Historicity
 
 # The seed and Historicity

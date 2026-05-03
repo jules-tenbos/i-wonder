@@ -1,3 +1,7 @@
+---
+title: "What is a language?"
+---
+
 [Home](/) > [Language](/language/) > What is a language?
 
 # What is a language?

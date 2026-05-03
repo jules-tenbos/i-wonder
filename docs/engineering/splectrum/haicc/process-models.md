@@ -1,3 +1,7 @@
+---
+title: "Process Models — Decentralised Evolutionary"
+---
+
 [Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > [HAICC](/engineering/splectrum/haicc/) > Process Models
 
 # Process Models — Decentralised Evolutionary

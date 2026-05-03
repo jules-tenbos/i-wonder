@@ -1,3 +1,7 @@
+---
+title: "Mycelium XPath"
+---
+
 [Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > [Mycelium](/engineering/splectrum/mycelium/) > XPath
 
 # Mycelium XPath

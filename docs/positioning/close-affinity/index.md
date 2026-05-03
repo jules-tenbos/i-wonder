@@ -1,3 +1,7 @@
+---
+title: "Close affinity"
+---
+
 [Home](/) > [Positioning](/positioning/) > Close affinity
 
 # Close affinity

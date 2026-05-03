@@ -1,3 +1,7 @@
+---
+title: "git — Git CLI Wrapper"
+---
+
 [Home](/) > [Engineering](/engineering/) > [Infrastructure](/engineering/infrastructure/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > Git
 
 # git — Git CLI Wrapper

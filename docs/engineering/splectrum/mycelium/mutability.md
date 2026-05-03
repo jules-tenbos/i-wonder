@@ -1,3 +1,7 @@
+---
+title: "Mycelium Mutability"
+---
+
 [Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > [Mycelium](/engineering/splectrum/mycelium/) > Mutability
 
 # Mycelium Mutability

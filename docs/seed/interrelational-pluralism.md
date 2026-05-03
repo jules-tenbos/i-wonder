@@ -1,3 +1,7 @@
+---
+title: "The seed and Interrelational Pluralism"
+---
+
 [Home](/) > [The SPLectrum Seed](/seed/) > The seed and Interrelational Pluralism
 
 # The seed and Interrelational Pluralism

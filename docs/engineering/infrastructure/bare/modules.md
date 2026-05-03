@@ -1,3 +1,7 @@
+---
+title: "Bare Module Catalog"
+---
+
 [Home](/) > [Engineering](/engineering/) > [Substrate](/engineering/substrate/) > [Bare Runtime](/engineering/infrastructure/bare/) > Module Catalog
 
 # Bare Module Catalog

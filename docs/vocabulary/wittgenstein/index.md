@@ -1,3 +1,7 @@
+---
+title: "Wittgenstein vocabulary"
+---
+
 [Home](/) > [Vocabulary](/vocabulary/) > Wittgenstein
 
 # Wittgenstein vocabulary

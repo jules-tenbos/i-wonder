@@ -1,3 +1,7 @@
+---
+title: "Interrelational Pluralism"
+---
+
 [Home](/) > [Positioning](/positioning/) > [Seed](/positioning/seed/) > Interrelational Pluralism
 
 # Interrelational Pluralism

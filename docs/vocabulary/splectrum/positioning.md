@@ -1,3 +1,7 @@
+---
+title: "Positioning vocabulary"
+---
+
 [Home](/) > [Vocabulary](/vocabulary/) > [SPLectrum](/vocabulary/splectrum/) > Positioning
 
 # Positioning vocabulary

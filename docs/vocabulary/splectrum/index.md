@@ -1,3 +1,7 @@
+---
+title: "SPLectrum vocabulary"
+---
+
 [Home](/) > [Vocabulary](/vocabulary/) > SPLectrum
 
 # SPLectrum vocabulary

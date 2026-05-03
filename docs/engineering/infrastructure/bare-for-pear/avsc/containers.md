@@ -1,3 +1,7 @@
+---
+title: "avsc Container Files"
+---
+
 [Home](/) > [Engineering](/engineering/) > [Infrastructure](/engineering/infrastructure/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > [avsc](/engineering/infrastructure/bare-for-pear/avsc/) > Container Files
 
 # avsc Container Files

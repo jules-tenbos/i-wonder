@@ -1,3 +1,7 @@
+---
+title: "Reality"
+---
+
 [Home](/) > Reality
 
 # Reality

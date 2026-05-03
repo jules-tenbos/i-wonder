@@ -1,3 +1,7 @@
+---
+title: "SPLectrum — logical design"
+---
+
 [Home](/) > [Engineering](/engineering/) > SPLectrum
 
 # SPLectrum — logical design

@@ -1,3 +1,7 @@
+---
+title: "SPLectrum — the language fabric"
+---
+
 [Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > SPLectrum
 
 # SPLectrum — the language fabric

@@ -1,3 +1,7 @@
+---
+title: "How shadow pages are made"
+---
+
 [Home](/) > [Vocabulary](/vocabulary/) > [This Web Site](/vocabulary/site/) > How shadow pages are made
 
 # How shadow pages are made

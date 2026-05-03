@@ -1,3 +1,7 @@
+---
+title: "Mycelium Fabric"
+---
+
 [Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > [Mycelium](/engineering/splectrum/mycelium/) > Fabric
 
 # Mycelium Fabric

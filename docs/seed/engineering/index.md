@@ -1,3 +1,7 @@
+---
+title: "The applied seed - Engineering"
+---
+
 [Home](/) > [The SPLectrum Seed](/seed/) > The applied seed - Engineering
 
 # The applied seed - Engineering

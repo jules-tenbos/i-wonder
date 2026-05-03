@@ -1,3 +1,7 @@
+---
+title: "Wider landscape"
+---
+
 [Home](/) > [Positioning](/positioning/) > Wider landscape
 
 # Wider landscape

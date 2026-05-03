@@ -1,3 +1,7 @@
+---
+title: "When category theory and the seed meet"
+---
+
 [Home](/) > [The SPLectrum Seed](/seed/) > When category theory and the seed meet
 
 # When category theory and the seed meet

@@ -1,3 +1,7 @@
+---
+title: "Mycelium Fabric Layers"
+---
+
 [Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > [Mycelium](/engineering/splectrum/mycelium/) > Layers
 
 # Mycelium Fabric Layers

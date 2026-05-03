@@ -1,3 +1,7 @@
+---
+title: "Positioning"
+---
+
 {% include vocabulary-link.html shadow="/vocabulary/site/home/positioning/" %}
 [Home](/) > Positioning
 

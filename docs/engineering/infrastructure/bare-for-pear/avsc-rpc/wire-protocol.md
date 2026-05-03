@@ -1,3 +1,7 @@
+---
+title: "avsc-rpc Wire Protocol"
+---
+
 [Home](/) > [Engineering](/engineering/) > [Infrastructure](/engineering/infrastructure/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > [avsc-rpc](/engineering/infrastructure/bare-for-pear/avsc-rpc/) > Wire Protocol
 
 # avsc-rpc Wire Protocol

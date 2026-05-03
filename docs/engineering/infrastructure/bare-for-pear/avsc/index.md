@@ -1,3 +1,7 @@
+---
+title: "avsc — Avro Type System"
+---
+
 [Home](/) > [Engineering](/engineering/) > [Infrastructure](/engineering/infrastructure/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > avsc
 
 # avsc — Avro Type System

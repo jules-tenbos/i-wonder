@@ -1,3 +1,7 @@
+---
+title: "Home — vocabulary"
+---
+
 [Home](/) > [Vocabulary](/vocabulary/) > [This Web Site](/vocabulary/site/) > Home
 
 # Home — vocabulary

@@ -1,3 +1,7 @@
+---
+title: "avsc-rpc Service Definition"
+---
+
 [Home](/) > [Engineering](/engineering/) > [Infrastructure](/engineering/infrastructure/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > [avsc-rpc](/engineering/infrastructure/bare-for-pear/avsc-rpc/) > Service Definition
 
 # avsc-rpc Service Definition

@@ -1,3 +1,7 @@
+---
+title: "The relational reading"
+---
+
 [Home](/) > [Reality](/reality/) > The relational reading
 
 # The relational reading

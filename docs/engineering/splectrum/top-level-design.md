@@ -1,3 +1,7 @@
+---
+title: "SPLectrum Engineering — Top Level Design"
+---
+
 [Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > Top Level Design
 
 # SPLectrum Engineering — Top Level Design

@@ -1,3 +1,7 @@
+---
+title: "The seed and Human Reality"
+---
+
 [Home](/) > [The SPLectrum Seed](/seed/) > The seed and Human Reality
 
 # The seed and Human Reality

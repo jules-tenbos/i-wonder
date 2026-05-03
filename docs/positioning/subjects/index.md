@@ -1,3 +1,7 @@
+---
+title: "Subjects A–Z"
+---
+
 [Home](/) > [Positioning](/positioning/) > Subjects
 
 # Subjects A–Z

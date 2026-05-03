@@ -1,3 +1,7 @@
+---
+title: "Wittgenstein"
+---
+
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Wittgenstein
 
 # Wittgenstein

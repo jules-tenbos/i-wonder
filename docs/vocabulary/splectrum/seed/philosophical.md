@@ -1,3 +1,7 @@
+---
+title: "Seed vocabulary — Philosophical"
+---
+
 [Home](/) > [Vocabulary](/vocabulary/) > [SPLectrum](/vocabulary/splectrum/) > [Seed](/vocabulary/splectrum/seed/) > Philosophical
 
 # Seed vocabulary — Philosophical

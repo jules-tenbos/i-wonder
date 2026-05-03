@@ -1,3 +1,7 @@
+---
+title: "Seed vocabulary — Engineering"
+---
+
 [Home](/) > [Vocabulary](/vocabulary/) > [SPLectrum](/vocabulary/splectrum/) > [Seed](/vocabulary/splectrum/seed/) > Engineering
 
 # Seed vocabulary — Engineering

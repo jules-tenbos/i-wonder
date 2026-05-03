@@ -1,3 +1,7 @@
+---
+title: "Bare Global API"
+---
+
 [Home](/) > [Engineering](/engineering/) > [Substrate](/engineering/substrate/) > [Bare Runtime](/engineering/infrastructure/bare/) > Global API
 
 # Bare Global API

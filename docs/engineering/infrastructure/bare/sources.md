@@ -1,3 +1,7 @@
+---
+title: "Documentation Sources"
+---
+
 [Home](/) > [Engineering](/engineering/) > [Substrate](/engineering/substrate/) > [Bare Runtime](/engineering/infrastructure/bare/) > Sources
 
 # Documentation Sources

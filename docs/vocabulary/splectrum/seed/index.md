@@ -1,3 +1,7 @@
+---
+title: "Seed vocabulary"
+---
+
 [Home](/) > [Vocabulary](/vocabulary/) > [SPLectrum](/vocabulary/splectrum/) > Seed
 
 # Seed vocabulary

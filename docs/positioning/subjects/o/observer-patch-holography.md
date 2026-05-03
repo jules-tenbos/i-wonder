@@ -1,3 +1,7 @@
+---
+title: "Observer Patch Holography"
+---
+
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > Observer Patch Holography
 
 # Observer Patch Holography

@@ -1,3 +1,7 @@
+---
+title: "The Turn in Western Philosophy"
+---
+
 [Home](/) > [Positioning](/positioning/) > [Seed](/positioning/seed/) > The Turn in Western Philosophy
 
 # The Turn in Western Philosophy

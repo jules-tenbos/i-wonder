@@ -1,3 +1,7 @@
+---
+title: "Mycelium Mutable Protocol"
+---
+
 [Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > [Mycelium](/engineering/splectrum/mycelium/) > Mutable
 
 # Mycelium Mutable Protocol

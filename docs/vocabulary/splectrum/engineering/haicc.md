@@ -1,3 +1,7 @@
+---
+title: "HAICC vocabulary"
+---
+
 [Home](/) > [Vocabulary](/vocabulary/) > [SPLectrum](/vocabulary/splectrum/) > [Engineering](/vocabulary/splectrum/engineering/) > HAICC
 
 # HAICC vocabulary

@@ -1,3 +1,7 @@
+---
+title: "Kafka"
+---
+
 [Home](/) > [Engineering](/engineering/) > [Substrate](/engineering/substrate/) > Kafka
 
 # Kafka

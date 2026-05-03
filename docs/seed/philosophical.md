@@ -1,3 +1,7 @@
+---
+title: "The seed and Philosophy"
+---
+
 [Home](/) > [The SPLectrum Seed](/seed/) > The seed and Philosophy
 
 # The seed and Philosophy

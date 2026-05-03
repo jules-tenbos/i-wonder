@@ -1,3 +1,7 @@
+---
+title: "The World of SPLectrum"
+---
+
 SPLectrum is a foundational project. It grows from the seed — six principles on the creation and dynamics of language, subjects and relation. The foundation is egalitarian towards all disciplines, yielding a worldview of interrelational pluralism — all-embracing at the dawn of an AI-driven cognitive revolution.
 
 <div class="area-grid">

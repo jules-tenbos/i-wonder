@@ -1,3 +1,7 @@
+---
+title: "Language"
+---
+
 [Home](/) > Language
 
 # Language

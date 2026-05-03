@@ -1,3 +1,7 @@
+---
+title: "RPC Server — Lifecycle Module"
+---
+
 [Home](/) > [Engineering](/engineering/) > [Infrastructure](/engineering/infrastructure/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > RPC Server
 
 # RPC Server — Lifecycle Module

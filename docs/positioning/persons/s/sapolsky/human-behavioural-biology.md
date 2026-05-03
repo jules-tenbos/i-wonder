@@ -1,3 +1,7 @@
+---
+title: "Human Behavioural Biology — Stanford lecture series"
+---
+
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > [Sapolsky](/positioning/persons/s/sapolsky/) > Human Behavioural Biology
 
 # Human Behavioural Biology — Stanford lecture series

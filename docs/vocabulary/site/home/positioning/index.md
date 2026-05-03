@@ -1,3 +1,7 @@
+---
+title: "Positioning — vocabulary"
+---
+
 [Home](/) > [Vocabulary](/vocabulary/) > [This Web Site](/vocabulary/site/) > [Home](/vocabulary/site/home/) > Positioning
 
 # Positioning — vocabulary

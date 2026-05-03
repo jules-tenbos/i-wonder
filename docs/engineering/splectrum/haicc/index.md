@@ -1,3 +1,7 @@
+---
+title: "HAICC — Human-AI Creative Collaboration"
+---
+
 [Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > HAICC
 
 # HAICC — Human-AI Creative Collaboration

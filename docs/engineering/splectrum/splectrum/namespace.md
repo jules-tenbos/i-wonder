@@ -1,3 +1,7 @@
+---
+title: "Namespace"
+---
+
 [Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > [SPLectrum](/engineering/splectrum/splectrum/) > Namespace
 
 # Namespace

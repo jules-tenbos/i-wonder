@@ -1,3 +1,7 @@
+---
+title: "avsc-rpc — Avro RPC Protocol"
+---
+
 [Home](/) > [Engineering](/engineering/) > [Infrastructure](/engineering/infrastructure/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > avsc-rpc
 
 # avsc-rpc — Avro RPC Protocol

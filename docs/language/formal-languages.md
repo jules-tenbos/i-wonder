@@ -1,3 +1,7 @@
+---
+title: "Formal languages"
+---
+
 [Home](/) > [Language](/language/) > Formal languages
 
 # Formal languages

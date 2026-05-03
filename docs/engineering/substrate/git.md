@@ -1,3 +1,7 @@
+---
+title: "Git"
+---
+
 [Home](/) > [Engineering](/engineering/) > [Substrate](/engineering/substrate/) > Git
 
 # Git

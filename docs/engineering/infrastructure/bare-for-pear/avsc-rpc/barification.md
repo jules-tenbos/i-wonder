@@ -1,3 +1,7 @@
+---
+title: "avsc-rpc Barification"
+---
+
 [Home](/) > [Engineering](/engineering/) > [Infrastructure](/engineering/infrastructure/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > [avsc-rpc](/engineering/infrastructure/bare-for-pear/avsc-rpc/) > Barification
 
 # avsc-rpc Barification

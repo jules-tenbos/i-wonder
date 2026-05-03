@@ -1,3 +1,7 @@
+---
+title: "From Clockwork to Open Questions — vocabulary"
+---
+
 [Home](/) > [Vocabulary](/vocabulary/) > [This Web Site](/vocabulary/site/) > Home > Blog > From Clockwork to Open Questions
 
 # From Clockwork to Open Questions — vocabulary

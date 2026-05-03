@@ -1,3 +1,7 @@
+---
+title: "Natural languages"
+---
+
 [Home](/) > [Language](/language/) > Natural languages
 
 # Natural languages

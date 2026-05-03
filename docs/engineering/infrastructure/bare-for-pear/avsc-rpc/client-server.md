@@ -1,3 +1,7 @@
+---
+title: "avsc-rpc Client and Server"
+---
+
 [Home](/) > [Engineering](/engineering/) > [Infrastructure](/engineering/infrastructure/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > [avsc-rpc](/engineering/infrastructure/bare-for-pear/avsc-rpc/) > Client and Server
 
 # avsc-rpc Client and Server
