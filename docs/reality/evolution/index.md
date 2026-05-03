@@ -49,7 +49,4 @@ The sciences are converging on the same structural observation, independently:
 
 The convergence is no longer philosophical. The sciences are arriving there from within.
 
-## Connection to research
-
-The evolutionary transitions relate directly to several [research directions](/roadmap/): R1 (formal treatment of the exponential curve), R3 (transitions as thresholds in relational density), and R5 (AI as threshold).
 

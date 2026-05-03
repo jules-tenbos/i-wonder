@@ -2,7 +2,7 @@
 
 # The seed and Interrelational Pluralism
 
-This page builds on [historicity](historicity) and [human reality](human-reality). Subjects have historicity — retention produces experience, experience produces subjects. Communities form through synchronisation of that accumulated history. Interrelational pluralism asks what the full set of principles produces as a philosophical stance, and finds a creational engine that does not depend on human subjects to run.
+This page builds on [The seed and Historicity](/seed/historicity) and [The seed and Human Reality](/seed/human-reality). Interrelational pluralism discloses the full dynamic of the seed — a creative engine driven by the six principles.
 
 **P0** stripped back: differentiation produces concept and language. This could be static — a difference that leaves no trace. The creational principle operates before experience enters the picture.
 

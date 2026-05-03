@@ -2,7 +2,7 @@
 
 # The seed and Human Reality
 
-How the seed relates to us as humans, to our daily life, to our perception of reality. This is traditionally the most applied angle of inquiry — humans trying to make sense of their existence. The seed provides a SPLectrum foundation to build this enquiry on.
+How the seed relates to us as humans, to our daily life, to our perception of reality. Human reality is community-constituted — we experience individually but share through language, and the shared reality that forms is where we live. This page builds on [historicity](/seed/historicity) and extends into P3 and P4.
 
 **P0 — Being implies language.**<br>
 When a community comes into existence, it is an act of creation — and like all creation in the seed, it involves differentiation. There is no "us" without what is not us.

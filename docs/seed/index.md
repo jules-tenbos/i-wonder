@@ -17,7 +17,7 @@ An experiencing subject requires historicity — why historicity is an essential
 Human reality as community-constituted — multi-membership, and the apparatus that lets the relational reading hold across disciplines, forms of life, and non-life. A universal reality translation is planned.
 
 **[The seed and Interrelational Pluralism](interrelational-pluralism)**<br>
-Disclosing the full dynamic of the seed — the creative engine that the six principles produce together.
+Disclosing the full dynamic of the seed — the creative engine driven by the six principles.
 
 **[The applied seed - Engineering](engineering)**<br>
 SPLectrum's attempt at a seamless translation of the seed into engineering design.
