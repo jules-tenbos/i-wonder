@@ -17,11 +17,13 @@ Bracket the natural attitude — the everyday assumption that the world exists i
 
 ## Key developments
 
-**Husserl** established the foundations: intentionality (consciousness is always consciousness *of* something), time-consciousness (retention, protention, the flow of lived time), the lifeworld as the pre-theoretical ground beneath all science. His work on intersubjectivity — how other subjects are experienced, not inferred — opened the questions that his successors pursued in different directions.
+**[Husserl](/positioning/persons/h/husserl)** established the foundations: intentionality (consciousness is always consciousness *of* something), time-consciousness (retention, protention, the flow of lived time), the lifeworld as the pre-theoretical ground beneath all science. His work on intersubjectivity — how other subjects are experienced, not inferred — opened the questions that his successors pursued in different directions.
 
 **[Heidegger](/positioning/persons/h/heidegger)** radicalised the project. Phenomenology becomes the question of Being. The subject is not consciousness but Dasein — the being that is always already in a world, always already understanding, always already involved. The reduction is replaced by disclosure: the world is not bracketed but revealed through engagement.
 
 **[Merleau-Ponty](/positioning/persons/m/merleau-ponty)** placed the body at the centre. Perception is not a mental act applied to sense data — it is the body's lived engagement with its surroundings. The habitual body carries its history forward; the world arrives already structured by the body's orientation within it. His late work on flesh and chiasm dissolves the subject-object boundary entirely.
+
+**Sartre** took phenomenology into existentialism. Consciousness is pure intentionality — always directed outward, always free, with no fixed essence behind it. "Existence precedes essence": we are not defined by what we are but by what we do. His divergence from Merleau-Ponty — radical freedom versus embodied ambiguity — defined two paths within French phenomenology.
 
 **[Jonas](/positioning/persons/j/jonas)** extended phenomenology into biology. The organism is where selfhood begins — metabolism as the first act of self-constitution, the boundary maintained from within. Phenomenology meets the philosophy of life.
 

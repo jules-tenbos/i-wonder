@@ -19,7 +19,7 @@ Meaning is not a matter of correspondence between thought and reality — it is 
 
 **Peirce** grounded pragmatism in logic and inquiry. Truth is what the community of inquirers would converge on in the long run. The process is self-correcting — fallibilism is not a weakness but the condition that keeps inquiry alive. His semiotics (icon, index, symbol) made meaning triadic: sign, object, and interpretant.
 
-**William James** made pragmatism public. Truth is what works — what proves useful, what leads to successful action. James extended the pragmatic criterion to religion and morality: beliefs are true insofar as they help us live. This version drew accusations of relativism that dogged the tradition.
+**William James** made pragmatism public. Truth is what works — what proves useful, what leads to successful action. James extended the pragmatic criterion to religion and morality: beliefs are true insofar as they help us live. This version drew accusations of relativism — from Russell and Moore among others — that dogged the tradition.
 
 **John Dewey** applied pragmatism to democracy, education, and social reform. Inquiry is not the work of isolated minds but of communities solving problems together. Experience is not passive reception but active transaction with the environment. Philosophy's task is not to mirror reality but to improve the conditions of human life.
 

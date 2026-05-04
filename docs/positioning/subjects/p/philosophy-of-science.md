@@ -23,11 +23,13 @@ What distinguishes science from non-science? How does scientific knowledge grow?
 
 **Kuhn** broke with continuity. Science does not accumulate smoothly — it alternates between normal science (puzzle-solving within a paradigm) and revolutions (paradigm replacement). Across revolutions, key terms change meaning — incommensurability. Whether science progresses toward truth is a question Kuhn deliberately left open.
 
+**Lakatos** tried to save rationalism while accommodating history. His research programmes replace Popper's single conjectures with evolving sequences of theories sharing a hard core of commitments. A programme is progressive if it keeps predicting new facts; degenerating if it only accommodates what's already known. The criterion is rational but the timescale is historical — you can't tell in advance.
+
 **Feyerabend** broke with method. Every methodological rule has been productively violated in the history of science. "Anything goes" — not as chaos but as the only principle that does not block discovery. Science is one tradition among many, with no inherent authority over others.
 
 ## The trajectory
 
-From a single method to no fixed method. From verification to falsification to paradigm shifts to epistemological anarchism. From unity to plurality. The philosophy of science recapitulated in its own history what the seed states in P4: no language game has privilege in principle.
+From a single method to no fixed method. From verification to falsification to paradigm shifts to epistemological anarchism. From unity to plurality. The field's own history traces the trajectory it studies.
 
 ---
 
