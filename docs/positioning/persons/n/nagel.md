@@ -7,7 +7,7 @@ title: "Nagel"
 
 # Nagel
 
-[Thomas Nagel](https://plato.stanford.edu/entries/nagel/) (1937–). Philosopher who insisted that subjective experience is real, irreducible, and inaccessible from outside. Against the reductionist programme that would explain consciousness in terms of brain states, Nagel argued that there is something it is *like* to be a conscious subject — and that this something cannot be captured by any objective description.
+[Thomas Nagel](https://plato.stanford.edu/entries/nagel/) (1937–). University Professor (emeritus) at NYU, previously at Princeton. One of the most widely read analytic philosophers — accessible without being popularising. Working within the analytic tradition at a time when physicalism and functionalism dominated philosophy of mind, Nagel was the internal critic: he argued that the tradition had left out the most important thing. Subjective experience is real, irreducible, and inaccessible from outside. There is something it is *like* to be a conscious subject — and that something cannot be captured by any objective description.
 
 ---
 
@@ -17,7 +17,9 @@ title: "Nagel"
 
 **The subjective-objective gap.** Objective knowledge proceeds by abstracting away from particular points of view. But consciousness *is* a point of view. The more objective our account becomes, the further it moves from what it is trying to explain. This is not a temporary limitation — it is a structural feature of the relationship between subjective experience and objective description.
 
-**Against reductionism.** Nagel does not deny that consciousness depends on the brain. He denies that a complete physical description of the brain would constitute an explanation of consciousness. Something is left out — the subjective character of experience. Physicalism, as currently conceived, cannot accommodate this.
+**The reality of the subjective.** Nagel does not deny that consciousness depends on the brain. He denies that a complete physical description of the brain would constitute an explanation of consciousness. Something is left out — the subjective character of experience. His positive claim: a complete account of reality must include the subjective, not as an add-on to physics but as something physics in its current form cannot capture. Physicalism is not wrong about what it includes; it is incomplete about what it leaves out.
+
+**Teleological naturalism.** In *Mind and Cosmos* (2012) — subtitled "Why the Materialist Neo-Darwinian Conception of Nature Is Almost Certainly False" — Nagel argues that nature has an inherent tendency toward the development of consciousness. Not design, not religion, but a teleology built into the natural order. The book was explosively controversial: materialists rejected the critique, creationists tried to claim him, fellow philosophers were divided. Nagel accepted none of the appropriations.
 
 **The view from nowhere.** In the book of that title, Nagel explores the tension between the subjective standpoint (from which we live) and the objective standpoint (toward which knowledge strives). Neither can be abandoned. The challenge is to hold both without pretending that one absorbs the other.
 
@@ -28,10 +30,10 @@ title: "Nagel"
 ## Key works
 
 - *"What Is It Like to Be a Bat?"* (1974) — the essay that framed the problem
-- *The View from Nowhere* (1986) — subjective and objective, the tension at the heart of philosophy
-- *Mind and Cosmos* (2012) — against neo-Darwinian reductionism, the case for teleological naturalism
 - *Mortal Questions* (1979) — essays on death, the absurd, moral luck, and the subjective
+- *The View from Nowhere* (1986) — subjective and objective, the tension at the heart of philosophy
 - *The Last Word* (1997) — reason's authority, against subjectivism about reason
+- *Mind and Cosmos* (2012) — against neo-Darwinian reductionism, the case for teleological naturalism
 
 ---
 

@@ -7,19 +7,19 @@ title: "Bergson"
 
 # Bergson
 
-[Henri Bergson](https://plato.stanford.edu/entries/bergson/) (1859–1941). Philosopher of duration, intuition, and creative evolution. Bergson argued that reality is continuous flow — not a sequence of static states but an indivisible movement in which past and present interpenetrate. The intellect spatialises and freezes this flow; only intuition can grasp it as it is.
+[Henri Bergson](https://plato.stanford.edu/entries/bergson/) (1859–1941). Philosopher of duration, intuition, and creative evolution. Nobel Prize in Literature, 1927. Bergson argued that reality is continuous flow — not a sequence of static states but an indivisible movement in which past and present interpenetrate. The intellect spatialises and freezes this flow; only intuition can grasp it as it is.
 
 ---
 
 ## Key concepts
 
-**Duration (*la durée*).** Lived time is not the time of clocks. It is qualitative, heterogeneous, and indivisible — each moment saturated by all that came before. Duration cannot be measured because it cannot be broken into units without destroying what it is. To spatialise time is to miss time entirely.
+**Duration (*la durée*).** Lived time is not the time of clocks. It is qualitative, heterogeneous, and indivisible — each moment saturated by all that came before. Duration cannot be measured because it cannot be broken into units without destroying what it is. Spatialised time — the time of clocks and physics — captures the measurable and the quantitative, but misses the qualitative and the lived.
 
 **Intuition.** The method that grasps duration from within, as opposed to the intellect that grasps things from outside by spatialising them. Intuition is not mysticism — it is the philosophical effort to think in terms of movement and continuity rather than position and state.
 
-**Creative evolution (*l'évolution créatrice*).** Evolution is not the mechanical unfolding of a pre-given plan. It is genuinely creative — producing novelty that could not have been predicted from what came before. The *élan vital* (vital impulse) drives life through matter, splitting into divergent lines, each finding its own way of solving the problem of living.
+**Creative evolution (*l'évolution créatrice*).** Evolution is not the mechanical unfolding of a pre-given plan. It is genuinely creative — producing novelty that could not have been predicted from what came before. The *élan vital* (vital impulse) drives life through matter — not a substance or a force but a tendency toward increasing complexity and differentiation. It divides as it advances: instinct in one direction, intelligence in another. Neither exhausts the impulse; each captures one aspect of a movement that exceeds them both.
 
-**The élan vital.** Not a substance or a force but a tendency — the impetus that pushes life toward increasing complexity and differentiation. It divides as it advances: instinct in one direction, intelligence in another. Neither exhausts the impulse; each captures one aspect of a movement that exceeds them both.
+**The two sources.** In *The Two Sources of Morality and Religion* (1932), Bergson distinguishes closed societies — held together by obligation, habit, and static religion — from open societies, driven by aspiration, creative moral energy, and dynamic religion. The closed preserves; the open creates.
 
 **Memory and matter.** In *Matter and Memory*, Bergson argues that perception is not a picture of reality — it is a selection from it, shaped by the body's needs. Memory is not stored in the brain like files in a cabinet; it survives in duration itself. The past is not gone — it is preserved whole, pressing into the present.
 

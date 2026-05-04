@@ -7,7 +7,7 @@ title: "Habermas"
 
 # Habermas
 
-[Jürgen Habermas](https://plato.stanford.edu/entries/habermas/) (1929–). Philosopher and social theorist who placed communication at the foundation of rationality. Where the tradition from Descartes to Kant located reason in the individual subject, Habermas relocated it to the space between subjects — to the structures of language use that make mutual understanding possible.
+[Jürgen Habermas](https://plato.stanford.edu/entries/habermas/) (1929–2025). Philosopher, social theorist, and one of the most prominent public intellectuals in post-war Europe. Assistant to Adorno at the Frankfurt Institute for Social Research, he became the central figure of the second generation of critical theory. Where his predecessors — Horkheimer and Adorno — saw reason as irredeemably instrumental, Habermas argued that a different kind of reason was available: communicative, intersubjective, grounded in the structures of language use. He relocated rationality from the individual subject to the space between subjects.
 
 ---
 
@@ -21,17 +21,17 @@ title: "Habermas"
 
 **Lifeworld and system.** The *lifeworld* is the background of shared meanings, practices, and assumptions that makes communication possible. The *system* — markets, bureaucracies — operates through steering media (money, power) that bypass communicative understanding. Habermas's diagnosis: the system *colonises* the lifeworld, replacing understanding with administration.
 
-**The public sphere.** The space where private individuals come together as a public to discuss matters of common concern. Historically realised in coffee houses, newspapers, and assemblies. Its health depends on access, equality of voice, and freedom from domination — conditions that are always under pressure.
+**The public sphere.** The space where private individuals come together as a public to discuss matters of common concern. Historically realised in coffee houses, newspapers, and assemblies — now central to debates about social media, platform governance, and digital public discourse. Its health depends on access, equality of voice, and freedom from domination — conditions that are always under pressure.
 
 ---
 
 ## Key works
 
-- *The Theory of Communicative Action* (1981) — communicative vs strategic rationality, lifeworld and system
 - *The Structural Transformation of the Public Sphere* (1962) — the rise and decline of public discourse
+- *Knowledge and Human Interests* (1968) — three types of knowledge-constitutive interests: technical, practical, emancipatory
+- *The Theory of Communicative Action* (1981) — communicative vs strategic rationality, lifeworld and system
 - *Moral Consciousness and Communicative Action* (1983) — discourse ethics
 - *Between Facts and Norms* (1992) — law, democracy, and the discourse principle
-- *Knowledge and Human Interests* (1968) — three types of knowledge-constitutive interests: technical, practical, emancipatory
 
 ---
 

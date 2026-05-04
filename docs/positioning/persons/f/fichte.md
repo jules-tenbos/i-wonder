@@ -7,7 +7,7 @@ title: "Fichte"
 
 # Fichte
 
-[Johann Gottlieb Fichte](https://plato.stanford.edu/entries/johann-fichte/) (1762–1814). The philosopher who made self-positing the starting point of philosophy. Where Kant left the thing-in-itself as an unknowable beyond, Fichte eliminated it — there is no being apart from the act that posits it. The *I* posits itself, and in doing so posits the *not-I* as its necessary counterpart. Being begins with differentiation.
+[Johann Gottlieb Fichte](https://plato.stanford.edu/entries/johann-fichte/) (1762–1814). The philosopher who made self-positing the starting point of philosophy. Kant's immediate successor — he held Kant's chair at Jena and became the bridge between critical philosophy and what would become German idealism through Schelling and Hegel. Where Kant left the thing-in-itself as an unknowable beyond, Fichte eliminated it — there is no being apart from the act that posits it. The *I* posits itself, and in doing so posits the *not-I* as its necessary counterpart. Being begins with differentiation.
 
 ---
 
@@ -17,9 +17,11 @@ title: "Fichte"
 
 **The not-I (*Nicht-Ich*).** The I cannot posit itself without simultaneously positing what it is not. The not-I is not a second thing — it is the necessary other side of the same act. There is no I without not-I, no being without not-being.
 
-**The triadic structure.** The I posits itself (thesis). The I posits the not-I as opposed to itself (antithesis). The I and not-I limit each other within the same field (synthesis). This is the first genuinely dynamic foundation in modern philosophy — the ground is an act, not a substance.
+**The three principles.** First: the I posits itself. Second: the I posits the not-I as opposed to itself. Third: the I and not-I limit each other within the same field. Each principle requires the previous one; together they form a dynamic foundation — the ground is an act, not a substance.
 
 **Striving (*Streben*).** The I is never complete. It encounters resistance from the not-I and strives to overcome it — not to eliminate the other, but to expand its own determination. The not-I is both limit and stimulus. Without resistance, there is no activity; without activity, there is no I.
+
+**The primacy of the practical.** For Fichte, philosophy is ultimately about action, not contemplation. The I is not a thinking substance — it is activity itself. Freedom is self-determination: the moral vocation of the human being is to act according to what reason demands, shaping both self and world. The theoretical structure of the *Wissenschaftslehre* serves this practical end.
 
 ---
 

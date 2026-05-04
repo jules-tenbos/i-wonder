@@ -7,7 +7,7 @@ title: "Spinoza"
 
 # Spinoza
 
-[Baruch Spinoza](https://plato.stanford.edu/entries/spinoza/) (1632–1677). Rationalist philosopher who dissolved the distinction between God and nature into a single substance. Everything that exists is a mode of this one substance, understood under two attributes: thought and extension. There is no transcendent creator, no separate mind — only nature expressing itself in infinite ways.
+[Baruch Spinoza](https://plato.stanford.edu/entries/spinoza/) (1632–1677). Rationalist philosopher who dissolved the distinction between God and nature into a single substance. Born into the Portuguese-Jewish community of Amsterdam, he was excommunicated (*cherem*) in 1656 at age 23 — one of the harshest bans in the history of the community. He earned his living as a lens grinder, refused a professorship at Heidelberg to preserve his intellectual independence, and died at 44, likely from lung disease related to glass dust. The *Ethics* was withheld from publication during his lifetime and published posthumously by friends. Everything that exists is a mode of one substance, understood under two of its infinite attributes — thought and extension — the only two accessible to us. There is no transcendent creator, no separate mind — only nature expressing itself in infinite ways.
 
 ---
 
@@ -19,17 +19,19 @@ title: "Spinoza"
 
 **The conatus.** Each thing strives to persist in its own being (*conatus*). This striving is not a choice — it is what the thing is. In humans, conatus manifests as desire, the effort to maintain and increase one's power of acting.
 
-**Adequate and inadequate ideas.** An adequate idea grasps its object through its causes — it is self-explanatory. An inadequate idea is partial, shaped by accidental encounter rather than understanding. Freedom, for Spinoza, is the movement from inadequate to adequate knowledge.
+**The three kinds of knowledge.** Imagination — knowledge from random experience and hearsay, partial and confused. Reason — knowledge through common notions and adequate ideas, grasping things through their causes. Intuitive knowledge — knowledge of singular things as expressions of God's attributes, immediate and self-evident. The movement from imagination through reason to intuition is the path toward freedom. An adequate idea grasps its object through its causes; an inadequate idea is shaped by accidental encounter. Freedom is the movement from the second to the first.
 
-**The intellectual love of God (*amor intellectualis Dei*).** The highest form of knowledge: understanding oneself and all things as expressions of the one substance. Not worship but comprehension — blessedness as the direct consequence of understanding.
+**The intellectual love of God (*amor intellectualis Dei*).** The highest form of the third kind of knowledge: understanding oneself and all things as expressions of the one substance. Not worship but comprehension — blessedness as the direct consequence of understanding.
+
+**Freedom of thought and democratic government.** In the *Theological-Political Treatise*, Spinoza argues for the separation of philosophy from theology, freedom of thought and expression, and democratic government as the form most compatible with human nature. Religious tolerance is grounded philosophically: coercion cannot produce belief, only hypocrisy. One of the earliest systematic defences of intellectual freedom.
 
 ---
 
 ## Key works
 
-- *Ethics* (1677, posthumous) — the complete system, demonstrated in geometrical order
+- *Treatise on the Emendation of the Intellect* (early, unfinished) — method, the path from confused to adequate knowledge
 - *Theological-Political Treatise* (1670) — freedom of thought, critique of scriptural authority, the foundations of the democratic state
-- *Treatise on the Emendation of the Intellect* (unfinished) — method, the path from confused to adequate knowledge
+- *Ethics* (1677, posthumous) — the complete system, demonstrated in geometrical order
 
 ---
 

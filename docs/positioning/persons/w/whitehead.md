@@ -7,7 +7,7 @@ title: "Whitehead"
 
 # Whitehead
 
-[Alfred North Whitehead](https://plato.stanford.edu/entries/whitehead/) (1861–1947). Mathematician turned philosopher who built a metaphysics of process. Nothing exists in isolation — every actual entity is constituted by its relations to other actual entities. Reality is not made of enduring substances but of events that arise, achieve their satisfaction, and perish, each one taking up what came before and contributing to what comes after.
+[Alfred North Whitehead](https://plato.stanford.edu/entries/whitehead/) (1861–1947). Three distinct careers, each producing major work. The first thirty years at Cambridge (Trinity College) as a mathematician — *Principia Mathematica* with Russell, foundational work in logic and algebra. Then London (Imperial College, University of London), where he turned toward philosophy of science, developing a relational theory of space and time as an alternative to Einstein's. At 63 he moved to Harvard, where he built the speculative metaphysical system of *Process and Reality*. Nothing exists in isolation — every actual entity is constituted by its relations to other actual entities. Reality is not made of enduring substances but of events that arise, achieve their satisfaction, and perish, each one taking up what came before and contributing to what comes after.
 
 ---
 
@@ -19,19 +19,23 @@ title: "Whitehead"
 
 **Creativity.** The ultimate category — "the universal of universals." Creativity is the principle by which the many become one and are increased by one. Every new actual occasion is a creative act: something genuinely new arising from what was given. Not repetition but advance.
 
+**The bifurcation of nature.** Since Galileo and Descartes, modern science has split nature into two — the nature that is (primary qualities: mass, extension, motion) and the nature that is perceived (secondary qualities: colour, sound, warmth). Whitehead rejects this bifurcation: nature is one, and what we perceive is as real as what physics measures. The split is not in nature but in our theorising.
+
 **The fallacy of misplaced concreteness.** Taking abstractions for concrete realities. When science treats its models as the things themselves — when the map replaces the territory — it commits this fallacy. The lived world is richer than any abstraction drawn from it.
 
 **Process and permanence.** Whitehead holds both together. Each actual occasion perishes, but its achievement is taken up — *objectified* — in subsequent occasions. The past is not lost; it is the material from which the present arises. Permanence is not the opposite of process but its consequence.
+
+**God.** Whitehead's God is not the God of traditional theism. It is the principle that provides the initial aim for each actual occasion (the primordial nature — the ordering of all possibilities) and the preservation of all achieved value (the consequent nature — God as shaped by the world's experience). God is not outside the process; God is the most complete instance of it. Process theology grew from this; secular readers of Whitehead tend to set it aside. The concept remains one of the most contested aspects of his philosophy.
 
 ---
 
 ## Key works
 
-- *Process and Reality* (1929) — the full metaphysical system: actual occasions, prehension, creativity, God
-- *Science and the Modern World* (1925) — the fallacy of misplaced concreteness, the history of scientific abstraction
-- *Adventures of Ideas* (1933) — civilisation as the interplay of ideas: beauty, truth, adventure, peace
-- *Principia Mathematica* (1910–13, with Bertrand Russell) — the foundations of mathematics; the earlier career
+- *Principia Mathematica* (1910–13, with Bertrand Russell) — the foundations of mathematics; the Cambridge career
 - *The Concept of Nature* (1920) — nature as process, against the bifurcation of nature into appearance and reality
+- *Science and the Modern World* (1925) — the fallacy of misplaced concreteness, the history of scientific abstraction
+- *Process and Reality* (1929) — the full metaphysical system: actual occasions, prehension, creativity, God
+- *Adventures of Ideas* (1933) — civilisation as the interplay of ideas: beauty, truth, adventure, peace
 
 ---
 

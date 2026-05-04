@@ -7,7 +7,7 @@ title: "Heidegger"
 
 # Heidegger
 
-[Martin Heidegger](https://plato.stanford.edu/entries/heidegger/) (1889–1976). Asked the question of Being — not what exists, but what it means *to be*. His answer displaced the subject-object split that had structured Western philosophy since Descartes. We do not first exist and then encounter a world; we are always already in a world, disclosed through our involvement with it.
+[Martin Heidegger](https://plato.stanford.edu/entries/heidegger/) (1889–1976). Asked the question of Being — not what exists, but what it means *to be*. His answer displaced the subject-object split that had structured Western philosophy since Descartes. We do not first exist and then encounter a world; we are always already in a world, disclosed through our involvement with it. Heidegger served as rector of Freiburg University in 1933–34 under the Nazi regime, joined the NSDAP, and never publicly recanted. The *Black Notebooks* (published 2014 onward) revealed antisemitic passages. The relationship between his philosophy and his politics remains one of the most debated questions in twentieth-century intellectual history.
 
 ---
 
@@ -22,6 +22,12 @@ title: "Heidegger"
 **Disclosure (*Erschlossenheit*).** The world is not discovered by a subject — it is disclosed through Dasein's involvement. Understanding, mood, and discourse together open up the world as a field of meaning. Truth, for Heidegger, is not correspondence but unconcealment (*aletheia*).
 
 **Thrownness (*Geworfenheit*).** Dasein does not choose its starting point. It finds itself already in a situation — a historical moment, a culture, a mood — that it did not create but must take up. Freedom is not the absence of constraint but the taking-over of what is given.
+
+**Temporality.** The meaning of Dasein's being is time. Not clock time but the ecstatic unity of past (having-been), present (being-alongside), and future (being-ahead-of-itself) — held together in each moment. Being-toward-death gives Dasein its finitude and its urgency: it is the horizon against which everything matters. Historicity — Dasein's capacity to take up its own past and project toward its future — follows from this temporal structure.
+
+**The turn (*die Kehre*).** After *Being and Time*, Heidegger's thinking shifted. Early Heidegger approached Being through the analysis of Dasein. Later Heidegger turned toward Being itself — its history, its withdrawal, the way it discloses and conceals itself across epochs. The subject recedes; language, poetry, and technology become the sites where Being shows itself.
+
+**Language.** "Language is the house of Being" (*Letter on Humanism*, 1947). In the later work, language is not a tool humans use — it is the medium through which Being discloses itself. "Language speaks" (*Die Sprache spricht*): we do not master language; we dwell in it. Poetry, for Heidegger, is language at its most disclosive — the place where what is concealed comes to word.
 
 ---
 

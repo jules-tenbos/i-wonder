@@ -7,21 +7,29 @@ title: "Wittgenstein"
 
 # Wittgenstein
 
-[Ludwig Wittgenstein](https://plato.stanford.edu/entries/wittgenstein/) (1889–1951). The *[Tractatus](https://plato.stanford.edu/entries/wittgenstein/#TracLogiPhil)* proposed one logical structure mirroring reality. The *Philosophical Investigations* abandoned that picture entirely. The later work centres on language games, forms of life, and meaning as use.
+[Ludwig Wittgenstein](https://plato.stanford.edu/entries/wittgenstein/) (1889–1951). Born into one of the wealthiest families in Vienna — his father was a steel magnate — he gave away his entire inheritance. He studied engineering in Manchester, became obsessed with the foundations of mathematics, and went to Cambridge to study with Russell. He served in the Austrian army in WWI, writing the *Tractatus* in the trenches and as a prisoner of war. Believing he had solved all the problems of philosophy, he left the field — worked as a village schoolteacher in Austria and a gardener in a monastery. He returned to Cambridge in 1929, spent the rest of his life dismantling his own early work, and the result — the *Philosophical Investigations* — was published posthumously. Tormented, charismatic, and impossible to work with: the life and the philosophy are unusually entangled.
+
+---
+
+## The early philosophy
+
+The *Tractatus Logico-Philosophicus* (1921) proposed that language mirrors reality through a shared logical structure. Every meaningful proposition is a picture of a possible state of affairs; the totality of true propositions is the world. Logic is the scaffolding. What cannot be pictured cannot be said: "Whereof one cannot speak, thereof one must be silent." Wittgenstein believed this solved all the problems of philosophy — and left the field. When he returned, he dismantled the picture theory entirely. The later philosophy is defined by this rejection: language does not mirror; it is used.
 
 ---
 
 ## Key concepts
 
-**[Meaning is use](https://plato.stanford.edu/entries/wittgenstein/#MeanUse).** *Philosophical Investigations* §43: "the meaning of a word is its use in the language." This opposes what Wittgenstein calls the [Augustinian picture of language](https://plato.stanford.edu/entries/wittgenstein/#AuguPictLang) (§1) — the idea that words get their meaning by standing for objects.
+**Meaning is use.** *Philosophical Investigations* §43: "the meaning of a word is its use in the language." This opposes what Wittgenstein calls the Augustinian picture of language (§1) — the idea that words get their meaning by standing for objects.
 
 **Language games.** Wittgenstein introduces the term at §7 and gives a deliberately open-ended list at §23: "Giving orders, and obeying them — Describing the appearance of an object — Reporting an event — Speculating about an event — Forming and testing a hypothesis — ..." He adds: "the term 'language-game' is meant to bring into prominence the fact that the speaking of language is part of an activity, or of a form of life."
 
-**[Family resemblance](https://plato.stanford.edu/entries/wittgenstein/#FamiRese).** §66–67: "Consider for example the proceedings that we call 'games'. ... What is common to them all? — Don't say: 'There must be something common' ... but look and see." What emerges is "a complicated network of similarities overlapping and criss-crossing: sometimes overall similarities, sometimes similarities of detail. I can think of no better expression to characterize these similarities than 'family resemblances'."
+**Family resemblance.** §66–67: "Consider for example the proceedings that we call 'games'. ... What is common to them all? — Don't say: 'There must be something common' ... but look and see." What emerges is "a complicated network of similarities overlapping and criss-crossing: sometimes overall similarities, sometimes similarities of detail. I can think of no better expression to characterize these similarities than 'family resemblances'."
 
-**Forms of life.** "What has to be accepted, the given, is — so one could say — forms of life" (*Philosophical Investigations*, p. 226). The concept has both a biological reading — rooted in human natural history — and a cultural reading — variable across human communities. [P.M.S. Hacker](https://plato.stanford.edu/entries/wittgenstein/#ForLif) emphasises the biological: forms of life as the shared natural reactions and capacities that make language possible. Others read them as culturally constituted practices.
+**Forms of life.** "What has to be accepted, the given, is — so one could say — forms of life" (*Philosophical Investigations*, p. 226). The concept has both a biological reading — rooted in human natural history — and a cultural reading — variable across human communities. P.M.S. Hacker emphasises the biological: forms of life as the shared natural reactions and capacities that make language possible. Others read them as culturally constituted practices.
 
-**[Rule-following](https://plato.stanford.edu/entries/wittgenstein/#RuleFoll).** "To follow a rule, to make a report, to give an order, to play a game of chess, are customs (uses, institutions)" (§199). "There is a way of grasping a rule which is not an interpretation, but which is exhibited in what we call 'obeying the rule' and 'going against it' in actual cases" (§202).
+**Rule-following.** "To follow a rule, to make a report, to give an order, to play a game of chess, are customs (uses, institutions)" (§199). "There is a way of grasping a rule which is not an interpretation, but which is exhibited in what we call 'obeying the rule' and 'going against it' in actual cases" (§202).
+
+**The private language argument.** A language understandable to only a single individual is impossible — because there would be no criterion of correctness. "To think one is obeying a rule is not to obey a rule. Hence it is not possible to obey a rule 'privately': otherwise thinking one was obeying a rule would be the same thing as obeying it" (§202). The argument follows from rule-following: rules require a practice, and a practice requires more than one occasion of following — which requires a public standard. One of the most debated arguments in twentieth-century philosophy.
 
 **Agreement in judgments.** "It is what human beings say that is true and false; and they agree in the language they use. That is not agreement in opinions but in form of life" (§241). "If language is to be a means of communication there must be agreement not only in definitions but also (queer as this may sound) in judgments" (§242). When justifications run out: "I have reached bedrock, and my spade is turned. Then I am inclined to say: 'This is simply what I do'" (§217).
 
@@ -45,11 +53,11 @@ Language is framed as human natural history: "Commanding, questioning, recountin
 
 ## Key works
 
-- *Philosophical Investigations* (1953) — the later philosophy; language games, forms of life, meaning as use
-- *On Certainty* (1969) — hinge propositions: certainties that function as the framework within which doubt is possible
-- *Remarks on the Foundations of Mathematics* (1956) — agreement in mathematical practice as the clearest case of agreement in judgments
 - *Tractatus Logico-Philosophicus* (1921) — the early picture theory; the thing he dismantled
-- *The Blue and Brown Books* (1958) — transitional lectures, language games first introduced
+- *Philosophical Investigations* (1953, posthumous) — the later philosophy; language games, forms of life, meaning as use
+- *Remarks on the Foundations of Mathematics* (1956, posthumous) — agreement in mathematical practice as the clearest case of agreement in judgments
+- *The Blue and Brown Books* (1958, posthumous) — transitional lectures, language games first introduced
+- *On Certainty* (1969, posthumous) — hinge propositions: certainties that function as the framework within which doubt is possible
 
 ---
 

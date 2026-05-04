@@ -7,7 +7,7 @@ title: "Kuhn"
 
 # Kuhn
 
-[Thomas Kuhn](https://plato.stanford.edu/entries/thomas-kuhn/) (1922–1996). Historian and philosopher of science who changed how science understands its own development. Against the picture of steady cumulative progress, Kuhn argued that science alternates between periods of normal science — puzzle-solving within an established framework — and revolutionary episodes that replace one framework with another.
+[Thomas Kuhn](https://plato.stanford.edu/entries/thomas-kuhn/) (1922–1996). Historian and philosopher of science who changed how science understands its own development. Trained as a physicist (PhD from Harvard, 1949), his turn came from teaching a general education course on science for humanities students — reading Aristotle's physics, he realised it made no sense as bad modern physics but perfect sense as a different way of doing science. That experience became the origin of the paradigm concept. He taught at Berkeley, Princeton, and MIT. Against the picture of steady cumulative progress, Kuhn argued that science alternates between periods of normal science — puzzle-solving within an established framework — and revolutionary episodes that replace one framework with another.
 
 ---
 
@@ -21,7 +21,9 @@ title: "Kuhn"
 
 **Incommensurability.** Scientists working before and after a revolution do not simply disagree — they speak differently. Key terms change meaning across paradigms. "Mass" in Newtonian mechanics is not "mass" in relativity. Full translation between paradigms is impossible, though communication across them is not. Developed independently of and alongside Feyerabend.
 
-**The structure of scientific revolutions.** Pre-science → normal science → anomaly → crisis → revolution → new normal science. The cycle does not converge on truth — it produces different ways of practising science, each effective within its own domain. Whether science progresses toward anything is a question Kuhn deliberately left open.
+**Progress without convergence.** Does the cycle of revolutions bring science closer to truth? Kuhn deliberately left this open. Each new paradigm solves problems the old one could not, but it also loses things the old paradigm handled well. The cycle produces different ways of practising science, each effective within its own domain — but whether this amounts to progress toward a single reality or just change is the question Kuhn refused to settle. The refusal provoked fierce debate: Popper and Lakatos attacked the apparent irrationality of paradigm shifts; sociologists of science embraced Kuhn further than he was comfortable with. He spent much of his later career distancing himself from the relativist readings.
+
+**The 1969 Postscript.** In response to criticism that "paradigm" was used in too many senses — one critic counted twenty-one — Kuhn added a postscript to the second edition of *Structure*. He introduced "disciplinary matrix" as a more precise replacement and distinguished the sociological sense of paradigm (what a community shares) from the exemplar sense (a concrete problem-solution that serves as a model). The concept didn't stay static.
 
 ---
 
@@ -30,6 +32,7 @@ title: "Kuhn"
 - *The Structure of Scientific Revolutions* (1962) — paradigms, normal science, crisis, revolution, incommensurability
 - *The Essential Tension* (1977) — essays on tradition, innovation, and the balance between convergent and divergent thinking
 - *Black-Body Theory and the Quantum Discontinuity* (1978) — a historical case study: Planck and the birth of quantum theory
+- *The Road Since Structure* (2000, posthumous) — late essays and interviews; incommensurability refined, relativist readings resisted
 
 ---
 

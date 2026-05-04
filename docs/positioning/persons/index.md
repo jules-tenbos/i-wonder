@@ -67,6 +67,7 @@ Individual thinkers referenced across the positioning section. Each page collect
 
 - [Sapolsky](s/sapolsky/) · neuroscientist — human behavioural biology, integrative across layers
 - [Saussure](s/saussure) · linguist — structural linguistics, the differential sign, langue and parole
+- [Solé](s/sole) · complex systems scientist — liquid brains, solid brains, criticality, phase transitions
 - [Spinoza](s/spinoza) · philosopher — substance monism, determination as negation, conatus
 
 ## W

@@ -7,7 +7,7 @@ title: "Polanyi"
 
 # Polanyi
 
-[Michael Polanyi](https://en.wikipedia.org/wiki/Michael_Polanyi) (1891–1976). Physical chemist turned philosopher who argued that all knowledge rests on a foundation that cannot be fully articulated. "We can know more than we can tell." The knower is not a detached observer but a participant — committed, embodied, shaped by the tradition in which they learned to see.
+[Michael Polanyi](https://en.wikipedia.org/wiki/Michael_Polanyi) (1891–1976). Hungarian-born physical chemist turned philosopher. He worked at the Kaiser Wilhelm Institute in Berlin before emigrating to Manchester in 1933 to escape Nazism, where he held a chair in physical chemistry — then switched to a personal chair in social studies in 1948, an extraordinary mid-career disciplinary change. His brother Karl Polanyi (*The Great Transformation*) was an influential political economist; his son John Polanyi won the Nobel Prize in Chemistry (1986). Polanyi argued that all knowledge rests on a foundation that cannot be fully articulated. "We can know more than we can tell." The knower is not a detached observer but a participant — committed, embodied, shaped by the tradition in which they learned to see.
 
 ---
 
@@ -19,18 +19,20 @@ title: "Polanyi"
 
 **Indwelling.** To know is to dwell in the particulars — to interiorise tools, concepts, and practices until they become part of how you perceive. A blind man's stick is not an object he observes; it is a means through which he feels the pavement. All knowledge involves this kind of extension of the self into the world.
 
-**Personal knowledge.** Knowing is a personal act — it involves commitment, risk, and responsibility. The knower stakes a claim: "I believe this to be true." This is not subjectivism — personal knowledge is answerable to reality. But it cannot be reduced to impersonal rules. The pretence of detachment is itself a distortion.
+**Personal knowledge.** Knowing is a personal act — it involves commitment, risk, and responsibility. The knower stakes a claim: "I believe this to be true." This is not subjectivism — personal knowledge is answerable to reality. But it cannot be reduced to impersonal rules. For Polanyi, the pretence of detachment is itself a distortion.
 
-**The republic of science.** Scientists work within a community held together not by central direction but by mutual adjustment — each pursuing their own problems while attending to what others are doing. Coordination emerges from shared commitment to the same standards, not from planning. Polanyi explicitly opposed centralised direction of research.
+**Emergence.** Polanyi argued for ontological emergence — genuinely irreducible higher levels, against both reductionism and vitalism. Living organisms, minds, and societies operate according to principles that cannot be derived from the physics of their components. The boundary conditions at each level are left open by the level below. This connects to tacit knowledge: the higher level integrates what the lower level cannot articulate.
+
+**The republic of science.** Scientists work within a community held together not by central direction but by mutual adjustment — each pursuing their own problems while attending to what others are doing. Coordination emerges from shared commitment to the same standards, not from planning. Polanyi developed this position partly in response to the 1930s–40s movement for centrally planned science in Britain (J.D. Bernal and others argued that science should be directed toward social needs). For Polanyi, this was a fundamental misunderstanding: you cannot plan discovery.
 
 ---
 
 ## Key works
 
 - *Personal Knowledge: Towards a Post-Critical Philosophy* (1958) — tacit knowing, commitment, the personal in all knowledge
+- *The Republic of Science* (1962) — self-coordination in scientific communities, against central planning of research
 - *The Tacit Dimension* (1966) — the concise statement: "we can know more than we can tell"
 - *Knowing and Being* (1969) — collected essays on the structure of tacit knowledge
-- *The Republic of Science* (1962) — self-coordination in scientific communities, against central planning of research
 
 ---
 

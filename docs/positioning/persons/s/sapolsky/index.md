@@ -7,12 +7,28 @@ title: "Robert Sapolsky"
 
 # Robert Sapolsky
 
-John A. and Cynthia Fry Gunn Professor at Stanford, with joint appointments in Biological Sciences, Neurology & Neurological Sciences, and Neurosurgery. His work on human behavioural biology traces behaviour across layers — genetics, hormones, neurobiology, ecology, evolution.
+[Robert Sapolsky](https://en.wikipedia.org/wiki/Robert_Sapolsky) (1957–). Neuroendocrinologist, primatologist, and science writer. John A. and Cynthia Fry Gunn Professor at Stanford, with joint appointments in Biological Sciences, Neurology & Neurological Sciences, and Neurosurgery. MacArthur Fellowship, 1987.
 
-Spent many field seasons with wild baboons in Kenya, beginning with an 18-month initial study in the late 1970s and returning through the early 1990s to observe the same troop. PhD under neuroendocrinologist Bruce McEwen at Rockefeller; BA in biological anthropology from Harvard. MacArthur Fellowship, 1987.
+Sapolsky's work traces human behaviour across every layer that shapes it — genetics, molecular biology, hormones, neurobiology, development, ecology, evolution, culture. His method is integrative: each layer is studied in its own terms, but no single layer explains behaviour. Every behaviour is the product of all layers interacting. One of the great science communicators — moving between molecular detail and human consequence within a single paragraph. He spent decades studying wild baboons in Kenya, observing how social hierarchy, stress, and individual temperament shape physiology and behaviour in a primate society.
 
-Selected books: *Why Zebras Don't Get Ulcers* (1994, on chronic stress), *A Primate's Memoir* (2002), *Behave: The Biology of Humans at Our Best and Worst* (2017), *Determined: A Science of Life Without Free Will* (2023). Public stance in the later work: human behaviour is more constrained by neurobiology, hormones, and circumstance than common notions of free will assume.
+---
 
-## Pages
+## Key concepts
 
-- [Human Behavioural Biology](human-behavioural-biology) — Stanford lecture series (full course, in order).
+**Multi-layer explanation.** Sapolsky's signature move: to explain any behaviour, you must ask what happened in the brain one second before, what hormones were circulating hours before, what neural development occurred months before, what childhood environment shaped the brain years before, what genes were inherited, what culture transmitted, and what evolutionary pressures selected for it. No layer is privileged. No layer is sufficient on its own. The full picture requires all of them simultaneously.
+
+**Stress and the body.** Sapolsky's early work focused on the physiology of stress — glucocorticoids, the hypothalamic-pituitary-adrenal axis, and the damage chronic stress inflicts on the hippocampus and immune system. The insight: the stress response evolved for short-term physical emergencies. When activated chronically — by social subordination, poverty, anxiety — the same mechanisms destroy the body they were designed to protect. *Why Zebras Don't Get Ulcers* (1994) made this accessible.
+
+**Social hierarchy and physiology.** In baboon troops, rank shapes biology. Dominant males have different cortisol profiles, different immune function, different cardiovascular health than subordinates — not because of genetics but because of social position. When the aggressive males of the Forest Troop died in the mid-1980s, the remaining troop developed a more egalitarian culture — and the physiological profiles of its members changed accordingly. The culture persisted for over a decade, surviving the turnover of all the original males. New males arriving from other troops adopted the less aggressive norms. The culture outlasted the individuals who created it. Social structure reshapes biology.
+
+**The challenge to free will.** In *Determined: A Science of Life Without Free Will* (2023), Sapolsky argues that free will is an illusion. Every decision, he contends, is the output of prior causes: neurons firing, hormones circulating, genes expressing, developmental history, cultural context. There is no uncaused cause, no moment where a self steps outside the causal chain. The implication: if free will is an illusion, retributive punishment is unjustifiable — you can quarantine dangerous individuals but you cannot blame them. The justice system is his central target.
+
+---
+
+## Key works
+
+- *Why Zebras Don't Get Ulcers* (1994, updated 2004) — the physiology of stress, chronic activation, and its consequences
+- *A Primate's Memoir* (2002) — fieldwork with baboons in Kenya, science as narrative
+- *Behave: The Biology of Humans at Our Best and Worst* (2017) — the multi-layer explanation applied to aggression, compassion, and everything between
+- *Determined: A Science of Life Without Free Will* (2023) — the case against free will from neuroscience and biology
+- [Human Behavioural Biology](human-behavioural-biology) — Stanford lecture series (full course, 25 lectures)
