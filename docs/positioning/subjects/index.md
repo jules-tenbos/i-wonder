@@ -28,6 +28,10 @@ Movements, theories, and themes referenced across the positioning section. Each 
 - [Pragmatism](p/pragmatism) — meaning as consequence, truth as convergence: Peirce, Dewey, Rorty
 - [Process philosophy](p/process-philosophy) — becoming over being, events over substances: Bergson, Whitehead, Hegel
 
+## R
+
+- [Relational quantum mechanics](r/relational-quantum-mechanics) — properties through interaction, no absolute state: Rovelli, van Fraassen, decoherence
+
 ## S
 
 - [Structuralism](s/structuralism) — meaning as difference, systems of relations: Saussure, Lévi-Strauss, and beyond

@@ -23,7 +23,7 @@ title: "The Turn in Science"
 
 ## Relational quantum mechanics
 
-[Rovelli](https://plato.stanford.edu/entries/qm-relational/) (1996) takes what the physics says and drops the artificial observer status. The observer is any physical system. Properties are facts established through interaction. Drop observer-independent facts, and the paradoxes dissolve.
+[Rovelli](/positioning/persons/r/rovelli) (1996) takes what the physics says and drops the artificial observer status. The observer is any physical system. Properties are facts established through interaction. Drop observer-independent facts, and the paradoxes dissolve.
 
 The connection to [loop quantum gravity](https://plato.stanford.edu/entries/quantum-gravity/) — where spacetime itself is quantised and relational, with no fixed background — is natural. If spacetime is relational, quantum states should be too.
 

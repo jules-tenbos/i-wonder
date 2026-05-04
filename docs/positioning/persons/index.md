@@ -62,6 +62,7 @@ Individual thinkers referenced across the positioning section. Each page collect
 ## R
 
 - [Rorty](r/rorty) · philosopher — pragmatism, conversation over correspondence, contingency, solidarity
+- [Rovelli](r/rovelli) · theoretical physicist, philosopher — loop quantum gravity, relational QM, time, Nagarjuna
 
 ## S
 
