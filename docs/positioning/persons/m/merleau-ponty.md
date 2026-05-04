@@ -13,11 +13,11 @@ title: "Merleau-Ponty"
 
 ## Key concepts
 
-**[The lived body](https://plato.stanford.edu/entries/merleau-ponty/#BodySubj) (*le corps propre*).** The body is not an object among objects — it is the subject's way of being in the world. Perception, movement, and expression are not separate faculties but aspects of a single bodily involvement. "The body is our general medium for having a world."
+**The lived body (*le corps propre*).** The body is not an object among objects — it is the subject's way of being in the world. Perception, movement, and expression are not separate faculties but aspects of a single bodily involvement. "The body is our general medium for having a world."
 
 **The habitual body.** The body accumulates — skills, postures, learned responses sediment into habit. This accumulation is what makes experience possible: each new perception meets a body already shaped by what came before. Historicity is carried in the body itself.
 
-**[Perception as primary](https://plato.stanford.edu/entries/merleau-ponty/#Perc).** Perception is not a cognitive act that interprets raw data. It is the body's direct engagement with its surroundings — always perspectival, always partial, always from here. "We are condemned to meaning" — the world arrives already structured by the body's orientation within it.
+**Perception as primary.** Perception is not a cognitive act that interprets raw data. It is the body's direct engagement with its surroundings — always perspectival, always partial, always from here. "We are condemned to meaning" — the world arrives already structured by the body's orientation within it.
 
 **The chiasm.** In *The Visible and the Invisible*, Merleau-Ponty's late work: the touching hand can be touched, the seeing eye can be seen. Subject and object are not separate domains but folds in the same tissue — what he calls *flesh* (*la chair*). The seer is part of the visible.
 

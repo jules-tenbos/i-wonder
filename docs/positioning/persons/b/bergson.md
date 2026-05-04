@@ -13,11 +13,11 @@ title: "Bergson"
 
 ## Key concepts
 
-**[Duration](https://plato.stanford.edu/entries/bergson/#DuraTimeFreeWill) (*la durée*).** Lived time is not the time of clocks. It is qualitative, heterogeneous, and indivisible — each moment saturated by all that came before. Duration cannot be measured because it cannot be broken into units without destroying what it is. To spatialise time is to miss time entirely.
+**Duration (*la durée*).** Lived time is not the time of clocks. It is qualitative, heterogeneous, and indivisible — each moment saturated by all that came before. Duration cannot be measured because it cannot be broken into units without destroying what it is. To spatialise time is to miss time entirely.
 
-**[Intuition](https://plato.stanford.edu/entries/bergson/#IntuAnIntrMetho).** The method that grasps duration from within, as opposed to the intellect that grasps things from outside by spatialising them. Intuition is not mysticism — it is the philosophical effort to think in terms of movement and continuity rather than position and state.
+**Intuition.** The method that grasps duration from within, as opposed to the intellect that grasps things from outside by spatialising them. Intuition is not mysticism — it is the philosophical effort to think in terms of movement and continuity rather than position and state.
 
-**[Creative evolution](https://plato.stanford.edu/entries/bergson/#CreaEvol) (*l'évolution créatrice*).** Evolution is not the mechanical unfolding of a pre-given plan. It is genuinely creative — producing novelty that could not have been predicted from what came before. The *élan vital* (vital impulse) drives life through matter, splitting into divergent lines, each finding its own way of solving the problem of living.
+**Creative evolution (*l'évolution créatrice*).** Evolution is not the mechanical unfolding of a pre-given plan. It is genuinely creative — producing novelty that could not have been predicted from what came before. The *élan vital* (vital impulse) drives life through matter, splitting into divergent lines, each finding its own way of solving the problem of living.
 
 **The élan vital.** Not a substance or a force but a tendency — the impetus that pushes life toward increasing complexity and differentiation. It divides as it advances: instinct in one direction, intelligence in another. Neither exhausts the impulse; each captures one aspect of a movement that exceeds them both.
 

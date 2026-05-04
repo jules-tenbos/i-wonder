@@ -13,15 +13,15 @@ title: "Heidegger"
 
 ## Key concepts
 
-**[Dasein](https://plato.stanford.edu/entries/heidegger/#BeiTim).** Heidegger's term for the kind of being that we ourselves are — the being for whom its own being is an issue. Dasein is not a subject contemplating objects. It is being-in-the-world: always already involved, always already understanding, always already ahead of itself.
+**Dasein.** Heidegger's term for the kind of being that we ourselves are — the being for whom its own being is an issue. Dasein is not a subject contemplating objects. It is being-in-the-world: always already involved, always already understanding, always already ahead of itself.
 
-**[Being-in-the-world](https://plato.stanford.edu/entries/heidegger/#BeiWorl) (*In-der-Welt-sein*).** The world is not a container that Dasein is placed into. It is the structure of meaningful relations that Dasein inhabits. Tools, others, projects, moods — these are not additions to a bare existence but constitutive of what it means to be.
+**Being-in-the-world (*In-der-Welt-sein*).** The world is not a container that Dasein is placed into. It is the structure of meaningful relations that Dasein inhabits. Tools, others, projects, moods — these are not additions to a bare existence but constitutive of what it means to be.
 
-**[Readiness-to-hand and presence-at-hand](https://plato.stanford.edu/entries/heidegger/#HandPres) (*Zuhandenheit / Vorhandenheit*).** Things are first encountered as equipment — ready-to-hand, used without being noticed. Only when something breaks or goes missing does it become present-at-hand — an object of detached observation. The theoretical attitude is derived from the practical, not the other way around.
+**Readiness-to-hand and presence-at-hand (*Zuhandenheit / Vorhandenheit*).** Things are first encountered as equipment — ready-to-hand, used without being noticed. Only when something breaks or goes missing does it become present-at-hand — an object of detached observation. The theoretical attitude is derived from the practical, not the other way around.
 
-**[Disclosure](https://plato.stanford.edu/entries/heidegger/#DisWorl) (*Erschlossenheit*).** The world is not discovered by a subject — it is disclosed through Dasein's involvement. Understanding, mood, and discourse together open up the world as a field of meaning. Truth, for Heidegger, is not correspondence but unconcealment (*aletheia*).
+**Disclosure (*Erschlossenheit*).** The world is not discovered by a subject — it is disclosed through Dasein's involvement. Understanding, mood, and discourse together open up the world as a field of meaning. Truth, for Heidegger, is not correspondence but unconcealment (*aletheia*).
 
-**[Thrownness](https://plato.stanford.edu/entries/heidegger/#Thro) (*Geworfenheit*).** Dasein does not choose its starting point. It finds itself already in a situation — a historical moment, a culture, a mood — that it did not create but must take up. Freedom is not the absence of constraint but the taking-over of what is given.
+**Thrownness (*Geworfenheit*).** Dasein does not choose its starting point. It finds itself already in a situation — a historical moment, a culture, a mood — that it did not create but must take up. Freedom is not the absence of constraint but the taking-over of what is given.
 
 ---
 

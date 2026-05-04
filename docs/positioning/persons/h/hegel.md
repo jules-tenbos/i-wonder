@@ -13,13 +13,13 @@ title: "Hegel"
 
 ## Key concepts
 
-**[The dialectic](https://plato.stanford.edu/entries/hegel-dialectics/).** Not a formula of thesis-antithesis-synthesis (a simplification Hegel never used in that form), but the movement of thought through contradiction. Every concept, pressed to its limit, generates its own negation. The resolution does not discard either side but preserves both in a richer determination.
+**The dialectic.** Not a formula of thesis-antithesis-synthesis (a simplification Hegel never used in that form), but the movement of thought through contradiction. Every concept, pressed to its limit, generates its own negation. The resolution does not discard either side but preserves both in a richer determination.
 
-**[Sublation](https://plato.stanford.edu/entries/hegel-dialectics/#SublAufh) (*Aufhebung*).** To sublate is to cancel, preserve, and elevate at once. Each new stage of the dialectic negates what came before while retaining it as a moment within itself. Nothing is simply left behind — the history of the process is carried forward in every determination.
+**Sublation (*Aufhebung*).** To sublate is to cancel, preserve, and elevate at once. Each new stage of the dialectic negates what came before while retaining it as a moment within itself. Nothing is simply left behind — the history of the process is carried forward in every determination.
 
 **Determinate negation.** Negation is not emptiness — it is specific. "The rose is not red" says nothing; "the rose is white" says something determinate. Every negation produces content. This is what makes the dialectic productive rather than destructive.
 
-**[The Phenomenology of Spirit](https://plato.stanford.edu/entries/hegel/#PhenSpir).** The work traces consciousness from its simplest form — sense-certainty — through stages of increasing complexity (self-consciousness, reason, spirit) to absolute knowing. Each stage collapses under its own contradictions and is sublated into the next.
+**The Phenomenology of Spirit.** The work traces consciousness from its simplest form — sense-certainty — through stages of increasing complexity (self-consciousness, reason, spirit) to absolute knowing. Each stage collapses under its own contradictions and is sublated into the next.
 
 **History as rational development.** History is not accident — it is spirit working out its own freedom through concrete forms. Institutions, cultures, and political structures are stages in this development. The rational is actual; the actual is rational.
 

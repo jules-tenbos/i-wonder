@@ -13,13 +13,13 @@ title: "Husserl"
 
 ## Key concepts
 
-**[Intentionality](https://plato.stanford.edu/entries/husserl/#InteConsConsStre).** Consciousness is always consciousness *of* something. There is no empty awareness — every act of consciousness is directed at an object, whether perceived, remembered, imagined, or judged.
+**Intentionality.** Consciousness is always consciousness *of* something. There is no empty awareness — every act of consciousness is directed at an object, whether perceived, remembered, imagined, or judged.
 
-**[The phenomenological reduction](https://plato.stanford.edu/entries/husserl/#TrasPhenRedu).** The *epoché*: suspending the natural attitude — our everyday assumption that the world exists independently of experience. What remains after the reduction is the field of experience itself, with its own structures and laws.
+**The phenomenological reduction.** The *epoché*: suspending the natural attitude — our everyday assumption that the world exists independently of experience. What remains after the reduction is the field of experience itself, with its own structures and laws.
 
-**[Time-consciousness](https://plato.stanford.edu/entries/husserl/#InnTimeCons).** Every present moment carries retention (traces of what just passed) and protention (anticipation of what comes next). Experience is never a point — it is always a flow with temporal thickness. Without retention, there is interaction but no experience.
+**Time-consciousness.** Every present moment carries retention (traces of what just passed) and protention (anticipation of what comes next). Experience is never a point — it is always a flow with temporal thickness. Without retention, there is interaction but no experience.
 
-**[The lifeworld](https://plato.stanford.edu/entries/husserl/#LifeWorlOntLifeWorl) (*Lebenswelt*).** The pre-scientific, pre-theoretical world of lived experience — the ground on which all theoretical constructions are built. The sciences abstract from the lifeworld but depend on it. Introduced in *The Crisis of European Sciences*.
+**The lifeworld (*Lebenswelt*).** The pre-scientific, pre-theoretical world of lived experience — the ground on which all theoretical constructions are built. The sciences abstract from the lifeworld but depend on it. Introduced in *The Crisis of European Sciences*.
 
 **Intersubjectivity.** Other subjects are not inferred — they are experienced. Husserl's account of empathy and the constitution of the other subject was taken further by Merleau-Ponty and Levinas in different directions.
 

@@ -13,13 +13,13 @@ title: "Popper"
 
 ## Key concepts
 
-**[Falsificationism](https://plato.stanford.edu/entries/popper/#ProbInduDeliScie).** The demarcation criterion: what distinguishes science from non-science is not verifiability but falsifiability. A theory that cannot be refuted by any conceivable observation is not scientific. The stronger the theory — the more it risks — the more scientific it is.
+**Falsificationism.** The demarcation criterion: what distinguishes science from non-science is not verifiability but falsifiability. A theory that cannot be refuted by any conceivable observation is not scientific. The stronger the theory — the more it risks — the more scientific it is.
 
 **Conjecture and refutation.** Science does not start from observation and generalise. It starts from problems, proposes bold conjectures, and then tries to refute them. What survives refutation is provisionally accepted — never confirmed, only not yet falsified. Knowledge grows through error-elimination.
 
 **The open society.** In *The Open Society and Its Enemies*, Popper extends falsificationism to politics. A society that treats its institutions as conjectures — open to criticism and reform — is an open society. A society that claims to have found the final truth and organises itself around it is closed. Plato, Hegel, and Marx are his targets.
 
-**[Three worlds](https://plato.stanford.edu/entries/popper/#ThreWorl).** World 1 is physical reality. World 2 is subjective experience. World 3 is the world of objective knowledge — theories, problems, arguments — that exists independently of any individual mind. A published theorem belongs to World 3 even if everyone who understands it dies. Knowledge is a product that outlives its producers.
+**Three worlds.** World 1 is physical reality. World 2 is subjective experience. World 3 is the world of objective knowledge — theories, problems, arguments — that exists independently of any individual mind. A published theorem belongs to World 3 even if everyone who understands it dies. Knowledge is a product that outlives its producers.
 
 **Verisimilitude.** Popper's attempt to capture the intuition that science gets closer to truth without ever arriving. A theory has greater verisimilitude than another if it has more truth-content and less falsity-content. The concept proved technically problematic but the intuition remains: not truth but increasing approximation.
 

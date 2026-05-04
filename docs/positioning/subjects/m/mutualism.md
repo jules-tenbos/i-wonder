@@ -7,27 +7,30 @@ title: "Mutualism"
 
 # Mutualism
 
-The mutualism narrative describes real patterns — resource sharing through fungal networks, interspecies cooperation, emergent mutual benefit. But the vocabulary — cooperation, cheating, altruism, strategy — belongs to actors with intent. Mutualism as narrative is a coloured view: anthropocentric language projected onto [complex adaptive systems](https://en.wikipedia.org/wiki/Complex_adaptive_system) that have no use for it.
+Mutualism describes interactions between organisms in which both parties benefit. The term originates in ecology — [mycorrhizal networks](https://en.wikipedia.org/wiki/Mycorrhiza) linking trees and fungi, pollination relationships between insects and plants, cleaner fish and their hosts. These interactions are widespread and, in many ecosystems, foundational.
 
 ---
 
-## The complex adaptive systems view
+## The ecological concept
 
-A fungus extending its hyphae into a root system is not cooperating. It is doing what the interaction between its reality and its environment produces. What we observe as mutualism is a pattern, not a policy. The pattern emerges without anyone deciding it should. Complex adaptive systems are characterised by the interrelation of life in general — not cooperation between actors, but interaction between subjects, each with its own experience of reality, each moving where that experience nudges it.
+In ecology, mutualism is one of several categories of [interspecific interaction](https://en.wikipedia.org/wiki/Biological_interaction) — alongside competition, predation, parasitism, and commensalism. What distinguishes mutualism is that both parties derive measurable benefit, whether in nutrients, protection, reproduction, or access to resources.
 
-The ethical framing — build cooperative systems, decentralise because it is the right thing to do — imports intent into a domain without it. The attempt to organise emergence is itself a centralising move.
+Mutualistic relationships range from obligate (neither partner survives without the other — [lichens](https://en.wikipedia.org/wiki/Lichen), mitochondria) to facultative (both can survive independently but do better together). The boundaries are not always stable: a relationship that is mutualistic under one set of conditions can become parasitic under another.
 
-## SPLectrum comment
+## The narrative layer
 
-The case for decentralisation is at its most stark seen through the seed. All experiences of reality are decentralised. Every experience belongs to a subject — personal, situated, irreducible. Reality is not experienced centrally and then distributed. It is experienced locally and then shared. Two subjects sharing their experience of reality — that is already a peer-to-peer network. The most fundamental one.
+The ecological patterns are real. The vocabulary used to describe them — cooperation, cheating, altruism, strategy, reciprocity — imports concepts from economics and game theory. [Robert Trivers](https://en.wikipedia.org/wiki/Robert_Trivers)' reciprocal altruism (1971) and [John Maynard Smith](https://en.wikipedia.org/wiki/John_Maynard_Smith)'s evolutionary game theory framed mutualism in terms of costs, benefits, and strategic behaviour.
 
-P0 — being implies language. P3 — language is inter-relational. P4 — languages have equal standing in potential. These are not ethical commitments. They are observations about how reality is constituted. Decentralisation conforms to the structure of experience — not a design choice or a moral position, but a structural property.
+This framing is productive — it generates testable predictions and has driven decades of research. It also carries assumptions: that organisms are agents with something like interests, that interactions can be modelled as exchanges between rational players. Whether this vocabulary describes the mechanisms at work or projects human categories onto non-human systems is a long-running question in the [philosophy of biology](https://en.wikipedia.org/wiki/Philosophy_of_biology).
 
-### Mutualism without intent
+## Complex adaptive systems
 
-Not the outward move — not pushing, not organising, not telling others what to do. That is the centralising reflex dressed in cooperative language. The move is inward. A subject shaping its own relation with its own reality — bringing into its personal reality what favours that relation. Shared reality is not imposed from above. It is constituted from below, from personal realities that overlap.
+An alternative framing comes from [complex adaptive systems](https://en.wikipedia.org/wiki/Complex_adaptive_system) theory. In this view, mutualistic patterns are emergent properties of systems with many interacting components, local rules, and no central coordination. A fungus extending its hyphae into a root system is not cooperating — it is doing what the local interaction produces. What we observe as mutualism is a pattern that emerges without anyone deciding it should.
 
-### Emergence, not revolution
+[Stuart Kauffman](https://en.wikipedia.org/wiki/Stuart_Kauffman)'s work on self-organisation (*The Origins of Order*, 1993) and [complexity theory](https://en.wikipedia.org/wiki/Complexity_theory) more broadly suggest that order in biological systems does not require selection alone — it can arise spontaneously from the dynamics of interacting components. Mutualistic patterns may be one expression of this self-organising tendency.
 
-The centralised internet is not the enemy to be dismantled. It is the substrate. Decentralised ecosystems — P2P platforms, distributed protocols, local-first applications — emerge on top of what already exists. They don't replace the centralised layer. They layer above it. Not revolution, but emergence. Not replacement, but transcendence.
+## Mutualism as political philosophy
 
+The term has a separate history in political thought. [Pierre-Joseph Proudhon](https://en.wikipedia.org/wiki/Pierre-Joseph_Proudhon) and the [mutualist tradition](https://en.wikipedia.org/wiki/Mutualism_(economic_theory)) in anarchism advocated mutual aid, voluntary cooperation, and the abolition of centralised authority — a political programme built on the principle that free association produces better outcomes than imposed order. [Peter Kropotkin](https://en.wikipedia.org/wiki/Peter_Kropotkin)'s *Mutual Aid* (1902) argued that cooperation is as much a factor in evolution as competition — a direct challenge to Social Darwinism.
+
+The biological and political uses of the term are distinct but have influenced each other. The appeal to nature — "organisms cooperate, so should we" — runs through both, and carries the same question: whether the pattern observed in nature is being described or projected.

@@ -13,11 +13,11 @@ title: "Fichte"
 
 ## Key concepts
 
-**[The self-positing I](https://plato.stanford.edu/entries/johann-fichte/#FoundSystSciKnow) (*Ich*).** The I does not exist prior to its own act — it brings itself into being through self-positing (*Tathandlung*). This is not a psychological event but the logical structure of self-consciousness: to be aware is to distinguish oneself from what one is not.
+**The self-positing I (*Ich*).** The I does not exist prior to its own act — it brings itself into being through self-positing (*Tathandlung*). This is not a psychological event but the logical structure of self-consciousness: to be aware is to distinguish oneself from what one is not.
 
 **The not-I (*Nicht-Ich*).** The I cannot posit itself without simultaneously positing what it is not. The not-I is not a second thing — it is the necessary other side of the same act. There is no I without not-I, no being without not-being.
 
-**[The triadic structure](https://plato.stanford.edu/entries/johann-fichte/#FoundSystSciKnow).** The I posits itself (thesis). The I posits the not-I as opposed to itself (antithesis). The I and not-I limit each other within the same field (synthesis). This is the first genuinely dynamic foundation in modern philosophy — the ground is an act, not a substance.
+**The triadic structure.** The I posits itself (thesis). The I posits the not-I as opposed to itself (antithesis). The I and not-I limit each other within the same field (synthesis). This is the first genuinely dynamic foundation in modern philosophy — the ground is an act, not a substance.
 
 **Striving (*Streben*).** The I is never complete. It encounters resistance from the not-I and strives to overcome it — not to eliminate the other, but to expand its own determination. The not-I is both limit and stimulus. Without resistance, there is no activity; without activity, there is no I.
 

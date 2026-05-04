@@ -15,9 +15,9 @@ title: "Lyotard"
 
 **The postmodern condition.** "Simplifying to the extreme, I define postmodern as incredulity toward metanarratives." The grand narratives no longer convince — not because they were refuted, but because the conditions that sustained them have changed. Knowledge is no longer legitimated by a single story but operates locally, within specific practices.
 
-**[Language games](https://plato.stanford.edu/entries/lyotard/#JustLangGame).** Lyotard takes Wittgenstein's concept and gives it a political edge. Each language game has its own rules — scientific, narrative, prescriptive, performative. The rules of one game cannot be imposed on another without doing violence. Justice consists in respecting the heterogeneity of games.
+**Language games.** Lyotard takes Wittgenstein's concept and gives it a political edge. Each language game has its own rules — scientific, narrative, prescriptive, performative. The rules of one game cannot be imposed on another without doing violence. Justice consists in respecting the heterogeneity of games.
 
-**[The differend](https://plato.stanford.edu/entries/lyotard/#Diff) (*le différend*).** A conflict between parties that cannot be resolved justly because there is no shared rule of judgment. One party's idiom does not translate into the other's. The differend is not a dispute (which can be settled within a shared framework) but a deeper incommensurability. To force resolution under one party's rules is to silence the other.
+**The differend (*le différend*).** A conflict between parties that cannot be resolved justly because there is no shared rule of judgment. One party's idiom does not translate into the other's. The differend is not a dispute (which can be settled within a shared framework) but a deeper incommensurability. To force resolution under one party's rules is to silence the other.
 
 **Performativity.** In the postmodern condition, knowledge is increasingly legitimated not by truth or justice but by efficiency — its performative value. The question shifts from "is it true?" to "what use is it?" Lyotard warns that this reduction threatens forms of knowledge that do not optimise.
 

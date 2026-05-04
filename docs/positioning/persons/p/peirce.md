@@ -13,13 +13,13 @@ title: "Peirce"
 
 ## Key concepts
 
-**[Pragmatism](https://plato.stanford.edu/entries/peirce/#pragm) (the pragmatic maxim).** "Consider what effects, that might conceivably have practical bearings, we conceive the object of our conception to have. Then, our conception of these effects is the whole of our conception of the object." Meaning is practical consequence — not what a concept *is* but what difference it makes.
+**Pragmatism (the pragmatic maxim).** "Consider what effects, that might conceivably have practical bearings, we conceive the object of our conception to have. Then, our conception of these effects is the whole of our conception of the object." Meaning is practical consequence — not what a concept *is* but what difference it makes.
 
-**[The community of inquirers](https://plato.stanford.edu/entries/peirce/#inquiry).** Truth is what inquiry converges on when pursued far enough by a community committed to the process. No individual has access to truth in isolation — it is the long-run product of shared investigation, self-correction, and the willingness to revise.
+**The community of inquirers.** Truth is what inquiry converges on when pursued far enough by a community committed to the process. No individual has access to truth in isolation — it is the long-run product of shared investigation, self-correction, and the willingness to revise.
 
-**[Semiotics: icon, index, symbol](https://plato.stanford.edu/entries/peirce/#semiotic).** Peirce's theory of signs distinguishes three relations between sign and object. An *icon* resembles its object (a portrait). An *index* points to it through connection (smoke to fire). A *symbol* relates by convention (a word). All signs involve a third element — the *interpretant* — the understanding the sign produces. Meaning is never dyadic; it is always triadic.
+**Semiotics: icon, index, symbol.** Peirce's theory of signs distinguishes three relations between sign and object. An *icon* resembles its object (a portrait). An *index* points to it through connection (smoke to fire). A *symbol* relates by convention (a word). All signs involve a third element — the *interpretant* — the understanding the sign produces. Meaning is never dyadic; it is always triadic.
 
-**[The categories: Firstness, Secondness, Thirdness](https://plato.stanford.edu/entries/peirce/#categ).** Firstness is quality, pure possibility — what something is in itself. Secondness is brute fact, resistance, encounter — what something is in relation to another. Thirdness is mediation, law, habit — what brings Firstness and Secondness into intelligible relation. Thought, language, and inquiry operate in Thirdness.
+**The categories: Firstness, Secondness, Thirdness.** Firstness is quality, pure possibility — what something is in itself. Secondness is brute fact, resistance, encounter — what something is in relation to another. Thirdness is mediation, law, habit — what brings Firstness and Secondness into intelligible relation. Thought, language, and inquiry operate in Thirdness.
 
 **Fallibilism.** Any belief, however well-established, could turn out to be wrong. This is not scepticism — it is the condition that makes inquiry possible. Without fallibilism, there is no reason to keep inquiring.
 

@@ -12,4 +12,6 @@ Trajectory pieces that trace the historical and intellectual paths leading to th
 - [The Turn in Western Philosophy](the-turn-in-western-philosophy) — from Descartes to the relational turn
 - [The Turn in Science](the-turn-in-science) — from classical physics to relational quantum mechanics
 - [Being as Tension](being-as-tension) — nine independent formulations of differentiation
+- [The Arrow of Time](the-arrow-of-time) — from time-symmetric particles to entropy and emergence: a prerequisite to historicity
+- [From Arrow to Historicity](from-arrow-to-historicity) — how irreversibility, traces, and retention connect across thermodynamics, biology, and philosophy
 - [Interrelational Pluralism](interrelational-pluralism) — the pluralist arc across four dimensions, converging on the interrelational
