@@ -99,21 +99,21 @@
 }
 
 .blog-entry {
-  display: flex;
-  gap: 1rem;
   margin-bottom: 1.5rem;
+  overflow: hidden;
 }
 
 .blog-thumb {
+  float: left;
   width: 80px;
   height: 80px;
   object-fit: cover;
   border-radius: 4px;
-  flex-shrink: 0;
+  margin-right: 1rem;
+  margin-bottom: 0.25rem;
 }
 
 .blog-entry-text {
-  flex: 1;
 }
 
 .post-header:has(.post-title:empty) {
