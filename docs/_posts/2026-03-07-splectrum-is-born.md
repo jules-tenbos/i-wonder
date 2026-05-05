@@ -25,7 +25,7 @@ Recently, and suddenly, thanks to a detour into software engineering and collabo
 > **P3 - Language is where subjects share knowledge about reality.**<br>
 > And language is the source of the only objectivity known: convergence of subjects.
 >
-> **P4 - Languages are inter-relational and have equal standing in potential.**<br>
+> **P4 - Languages are interrelational and have equal standing in potential.**<br>
 > Languages, as committed ways of expressing relation, are not isolated games. They interact, overlap, and inform each other, all having equal standing in potential.
 >
 > **P5 - Together they form a web of growing complexity.**<br>

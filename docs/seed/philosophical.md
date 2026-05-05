@@ -21,7 +21,7 @@ A subject — the view from inside a being — accesses reality only through the
 **P3 — Language is where subjects share knowledge about reality.**<br>
 Shared language creates shared understanding — knowledge — because interactions shape the vocabulary and the relational patterns. Objectivity is not a view from nowhere; it is what subjects converge on through conversation. [Peirce](/positioning/persons/p/peirce) frames this as the community of inquirers: truth as long-run convergence. [Habermas](/positioning/persons/h/habermas) works it through communicative action. [Rorty](/positioning/persons/r/rorty): philosophy is conversation, not mirror-holding.
 
-**P4 — Languages are inter-relational and have equal standing in potential.**<br>
+**P4 — Languages are interrelational and have equal standing in potential.**<br>
 Languages inter-relate horizontally (between peers) and vertically (one spawning another, or one decomposed into another) — these mechanisms are always present. No language is privileged in principle, however different in current reach. [Feyerabend](/positioning/persons/f/feyerabend): no privileged method. [Lyotard](/positioning/persons/l/lyotard): plurality of language games with no metanarrative. [Goodman](/positioning/persons/g/goodman)'s ways of worldmaking: multiple versions rather than the one true description.
 
 **P5 — Together they form a web of growing complexity.**<br>

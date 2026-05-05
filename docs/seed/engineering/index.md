@@ -21,7 +21,7 @@ Within engineering, the word owner is borrowed from microservices — the holder
 **P3 — Language is where subjects share knowledge about reality.**<br>
 Each owner reads or transforms only its own data state. The data fabric propagates the change, making it visible to other owners as shared data state — visibility is sharing, no separate mechanism. The indirect use of language to share knowledge applies. Direct owner-to-owner communication is not at this level; it emerges at higher levels.
 
-**P4 — Languages are inter-relational and have equal standing in potential.**<br>
+**P4 — Languages are interrelational and have equal standing in potential.**<br>
 **P5 — Together they form a web of growing complexity.**<br>
 Within the engineering design space a protocol structure is aimed for that reflects those of language in general. However, bear in mind that designing a solution for implementation is designing for the creation of clones - individuals - and most of the language (protocol) interrelation exists in design evolution.
 

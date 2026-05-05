@@ -21,7 +21,7 @@ Language puts the subject in interaction — the only way the subject is in. Exp
 **P3 — Language is where subjects share knowledge about reality.**<br>
 Subjects converge through indirect language interaction. Convergence is the source of shared reality, and of the only objectivity available.
 
-**P4 — Languages are inter-relational and have equal standing in potential.**<br>
+**P4 — Languages are interrelational and have equal standing in potential.**<br>
 Languages, as committed ways of expressing relation, are not isolated games. They interact, overlap, and inform each other, all having equal standing in potential. None is privileged in principle, however different they are in current reach.
 
 **P5 — Together they form a web of growing complexity.**<br>

@@ -7,7 +7,7 @@ title: "Language"
 
 # Language
 
-If being implies language, language is wherever there is interaction — far beyond human communication, into all relational activity. Languages come in categories, each with its own vocabulary and grammar. None self-founding. All inter-relational. All with equal standing in potential.
+If being implies language, language is wherever there is interaction — far beyond human communication, into all relational activity. Languages come in categories, each with its own vocabulary and grammar. None self-founding. All interrelational. All with equal standing in potential.
 
 **[What is a language?](what-is-a-language)** — the structural definition SPLectrum works from.
 
