@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Seed and Human Reality
-date: 2026-05-16
+date: 2026-05-28
 labels: [seed, philosophy, SPLectrum]
 status: Mandatory review
 ---

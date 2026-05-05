@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I Know That I Don't Know"
-date: 2026-05-28
+date: 2026-07-12
 labels: [philosophy, thought]
 status: Mandatory review
 ---

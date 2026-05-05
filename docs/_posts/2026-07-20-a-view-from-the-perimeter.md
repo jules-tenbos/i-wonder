@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A View from the Perimeter"
-date: 2026-06-01
+date: 2026-07-20
 labels: [discovery, science, SPLectrum]
 status: Mandatory review
 ---

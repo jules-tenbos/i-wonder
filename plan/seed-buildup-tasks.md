@@ -44,6 +44,11 @@ Work list for the Sep–Dec 2026 run. Position: interrelational pluralism.
 
 - [ ] **Human reality page** — P3 section could be strengthened with Gadamer/Habermas/Peirce (moved from historicity); overall page may need similar rework to match new historicity/pluralism standard
 
+## New posts — May 2026 (from historicity discussion notes)
+
+- [ ] **May 16 — The Seed and Language** (working title) — the structural base: being-in-language (P0/P1), contingency as structural, trace, relational identity, language as commitment not representation. Prerequisite for the historicity post.
+- [ ] **May 20 — The Seed and Historicity** (working title) — subject, retention, duration, self-creation through language accumulation. Extends from the seed-and-language base into the first movement: how we see reality through our languages. Refers to the classical science angle (time-symmetric laws, entropy, Rovelli). Also needs a corresponding seed reference page update.
+
 ## Positioning pages — persons (research + create)
 
 Seed section persons — all done (2026-05-03/04):

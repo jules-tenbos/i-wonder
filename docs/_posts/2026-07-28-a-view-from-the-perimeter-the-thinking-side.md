@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A View from the Perimeter — The Thinking Side"
-date: 2026-06-08
+date: 2026-07-28
 labels: [discovery, philosophy, SPLectrum]
 status: Mandatory review
 ---
