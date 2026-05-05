@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "In Wonder - The Conversation"
+description: "In Wonder — SPLectrum's blog conversations. Exploring language, reality, philosophy, science and engineering from an interrelational pluralism view."
 ---
 
 [Home](/) > In Wonder

@@ -1,6 +1,7 @@
 ---
 layout: home
 title: "The World of SPLectrum"
+description: "SPLectrum is a foundational philosophy grown from seed, egalitarian towards all disciplines, the home of interrelational pluralism."
 ---
 
 SPLectrum is a foundational philosophy grown from seed — six principles on the creation and dynamics of language, subjects and relation. Egalitarian towards all disciplines, it yields a worldview of interrelational pluralism — all-embracing at the dawn of an AI-driven cognitive revolution. In a world of centralisation, it makes the case for healthy decentralisation, with respect for privacy and local practice.

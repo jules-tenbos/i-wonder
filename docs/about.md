@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "About"
+description: "Jules ten Bos exploring how reality works and how language shapes our reality — the human face behind SPLectrum and its human-AI collaboration."
 ---
 
 [Home](/) > About

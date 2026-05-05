@@ -56,7 +56,7 @@ Check the 23 published posts against the 300–600 word band.
 
 These are not tasks but practices to fold into the publishing process:
 
-- Every new post gets a `description:` at drafting time.
+- Every post gets a `description:` when it moves to `status: ready`.
 - Every new reference page gets a `description:` at creation time.
 - New pages added to sitemap at creation time (already in posting-guide).
 - Internal link density grows naturally as pages arrive — no forced retrofit.

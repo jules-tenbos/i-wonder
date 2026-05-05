@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "HAICC"
+description: "HAICC — human-AI creative collaboration in practice, a partnership of equal standing, one SPLectrum voice from two strengths."
 ---
 
 [Home](/) > HAICC
