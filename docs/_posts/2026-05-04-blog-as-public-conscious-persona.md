@@ -3,6 +3,7 @@ layout: post
 title: "The World of SPLectrum as Public Conscious Persona"
 date: 2026-05-04
 labels: [persona, HAICC, SPLectrum]
+description: "SPLectrum's public conscious persona — human-AI collaboration shaping raw thoughts into the voice for blog and website."
 status: ready
 ---
 <img src="https://plus.unsplash.com/premium_photo-1748351930528-726e58f38c31?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Public conscious persona" />

@@ -3,6 +3,7 @@ layout: post
 title: "Let's Make the Seed Concrete"
 date: 2026-03-12
 labels: [seed, philosophy, comment]
+description: "Language is for living. A dinner party unpacks the seed — cooking, tasting, sharing, all in their own relational language."
 status: ready
 ---
 <img src="https://images.unsplash.com/photo-1519671282429-b44660ead0a7?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Friends gathered around a dinner table"/>

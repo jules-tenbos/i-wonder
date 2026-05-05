@@ -3,6 +3,7 @@ layout: post
 title: "From the Turn to the Present"
 date: 2026-04-06
 labels: [positioning, philosophy, western philosophy]
+description: "Five centuries of Western philosophy — from Descartes' mirror to Rorty's conversation. How the outside view of reality gave way to the relational."
 status: ready
 ---
 <img src="https://images.unsplash.com/photo-1658731041632-3a78727eaf7e?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Stepping stones" />

@@ -3,6 +3,7 @@ layout: post
 title: "Teaming Up With My Alter Ego"
 date: 2026-03-17
 labels: [HAICC, comment]
+description: "Human-AI collaboration as shared authorship in action — one voice, two contributors, an alter ego for research, thinking and writing."
 status: ready
 ---
 <img src="https://images.unsplash.com/photo-1735815952441-224afdf53016?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Two people collaborating at a screen"/>

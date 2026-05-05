@@ -3,6 +3,7 @@ layout: post
 title: "The Relational Reality of RQM"
 date: 2026-05-01
 labels: [positioning, science]
+description: "Relational quantum mechanics drops the privileged observer — properties arise through interaction, shared reality produced by decoherence."
 status: ready
 ---
 <img src="https://images.unsplash.com/photo-1729119578993-21bcc7a04314?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Quantum" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />

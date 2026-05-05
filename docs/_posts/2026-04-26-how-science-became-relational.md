@@ -3,6 +3,7 @@ layout: post
 title: "From Clockwork to Open Questions"
 date: 2026-04-26
 labels: [positioning, science]
+description: "From Newton's clockwork to quantum uncertainty — how physics moved from the outside observer to the participant, and left an open question."
 status: ready
 vocabulary: /vocabulary/site/home/blog/how-science-became-relational/
 ---

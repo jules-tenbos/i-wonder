@@ -3,6 +3,7 @@ layout: post
 title: "From Language to Form of Life"
 date: 2026-03-22
 labels: [positioning, philosophy, Wittgenstein]
+description: "Wittgenstein's turn from logical structure to language games and forms of life — how meaning moved from representation to use, from observer to participant."
 status: ready
 ---
 <img src="https://images.unsplash.com/photo-1645117030875-4eb47312e333?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Plant growing through cracked wall" />

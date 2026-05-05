@@ -3,6 +3,7 @@ layout: post
 title: "A Simple Language Game, Really?"
 date: 2026-04-16
 labels: [language, philosophy, SPLectrum]
+description: "Wittgenstein's slab game through SPLectrum glasses — equivalent expressions, different observers, shared knowledge hiding layers of personal experience."
 status: ready
 ---
 <img src="https://images.unsplash.com/photo-1627453999411-dd9c2604c109?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Letters"  />

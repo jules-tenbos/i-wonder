@@ -3,6 +3,7 @@ layout: post
 title: "SPLectrum and First Principles"
 date: 2026-05-08
 labels: [seed, philosophy, SPLectrum]
+description: "Walking through the six seed principles — being, language, subject, shared reality, interrelation and complexity. The foundation stress-tested."
 status: ready
 vocabulary: /vocabulary/site/home/blog/splectrum-and-first-principles/
 ---

@@ -3,6 +3,7 @@ layout: post
 title: "SPLectrum is Born"
 date: 2026-03-07
 labels: [seed, philosophy, SPLectrum]
+description: "SPLectrum is born, a philosophy grown from seed — six principles on the creation and dynamics of language, subjects and relation."
 status: ready
 ---
 <img src="https://images.unsplash.com/photo-1613502719426-cba8fcd9e51c?q=80&w=300&h=320&auto=format&fit=crop&crop=top" alt="Mycelium threads branching through soil"/>
