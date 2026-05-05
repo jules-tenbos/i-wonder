@@ -24,6 +24,21 @@ Work list for the Sep–Dec 2026 run. Position: interrelational pluralism.
 - [x] Full thinkers list created (plan/seed-buildup-thinkers.md)
 - [x] 20 posts scheduled Sep–Nov with storyline points
 - [x] Buildup plan updated throughout (plan/seed-philosophy-buildup-plan.md)
+- [x] Homepage rewritten: foundational philosophy, decentralisation sentence (2026-05-03)
+- [x] Layout: `layout: default` added site-wide, fixing double titles (2026-05-03)
+- [x] Post font size fixed (inline 1.05em override in head.html) (2026-05-03)
+- [x] Blog listing enriched: thumbnails, dates, series, excerpts — homepage, blog page, all 20 label pages (2026-05-03/04)
+- [x] Seed privacy-and-decentralisation page created (2026-05-03)
+- [x] Arrow of time positioning page created (2026-05-04)
+- [x] From arrow to historicity positioning page created (2026-05-04)
+- [x] RQM subject page created (2026-05-04)
+- [x] Mutualism split: subjects (pure concept) and on-the-fence (SPLectrum engagement) (2026-05-04)
+- [x] 23 person entries created and cold-reviewed (2026-05-03/04)
+- [x] 9 subject entries created and cold-reviewed (2026-05-03/04)
+- [x] All seed pages: internal links to person entries, external links moved to person pages (2026-05-03)
+- [x] Person pages: duplicate SEP links stripped, single link per page (2026-05-04)
+- [x] Interrelational standardised (no hyphen) site-wide (2026-05-05)
+- [x] Sitemap updated with all new pages (2026-05-03/04)
 
 ## In progress
 
@@ -31,33 +46,27 @@ Work list for the Sep–Dec 2026 run. Position: interrelational pluralism.
 
 ## Positioning pages — persons (research + create)
 
-September (anthropocentric core):
-- [x] Wittgenstein — created
+Seed section persons — all done (2026-05-03/04):
+- [x] Wittgenstein — created (pre-session), cold-reviewed and expanded
+- [x] Bergson, Feyerabend, Fichte, Goodman, Habermas, Hegel, Heidegger, Husserl
+- [x] Jonas, Kuhn, Lyotard, Merleau-Ponty, Nagel, Ostrom, Peirce, Polanyi
+- [x] Popper, Rorty, Rovelli, Sapolsky (expanded), Saussure, Solé, Spinoza, Whitehead
+
+Still needed (scheduled for Sep–Nov posts):
 - [ ] Putnam (+Davidson)
 - [ ] James
-- [ ] Rorty
 - [ ] MacIntyre
 - [ ] Berlin
 - [ ] Hayek
-- [ ] Kuhn
-
-October (broadening):
 - [ ] Dewey
 - [ ] Gadamer
 - [ ] Arendt
-- [ ] Polanyi
 - [ ] Oakeshott
 - [ ] Cassirer
-- [ ] Feyerabend
-- [ ] Goodman
 - [ ] Nagarjuna
-
-November (process-relational signposts):
-- [ ] Whitehead
-- [ ] Peirce
 - [ ] Bateson + Biosemiotics
 
-Full candidate list: plan/seed-buildup-thinkers.md
+Full candidate list: plan/positioning-entries-needed.md and plan/seed-buildup-thinkers.md
 
 ## Blog posts
 

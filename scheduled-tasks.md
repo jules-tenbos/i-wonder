@@ -8,7 +8,7 @@ Tasks triggered by post publication. Updated as posts go live.
 - [ ] Review links in scheduled posts — check for missing cross-references to ref lib and other posts
 - [ ] Tone-of-voice review of a content page with a shadow page — update the shadow with any vocabulary or relational observations surfaced by the review
 - [ ] Vocabulary shadow cadence — process one finished page's vocabulary per post publication (throttle back if too dense)
-- [ ] Seed section — `seed/philosophical` review pass still outstanding. (Engineering and human-reality pages worked on 2026-04-29 / 2026-04-30; philosophical not touched since.)
+- [x] Seed section — `seed/philosophical` review pass (internal links rewired 2026-05-03)
 - [ ] Vocabulary shadow — `positioning/close-affinity/seed/being-as-tension`
 
 ### Conventions to document in `posting-guide.md`
@@ -34,11 +34,12 @@ Tasks triggered by post publication. Updated as posts go live.
 - [ ] Tweet: Properties exist through interaction, not in isolation. Relational quantum mechanics takes what the physics already says and drops the outside view. splectrum.world/blog/2026/05/the-relational-reality-of-rqm/ #RQM #Rovelli #QuantumMechanics #RelationalPhysics
 
 ## May 4 — The World of SPLectrum as Public Conscious Persona goes live
+- [x] Final editing review (2026-05-03: foundational philosophy, dropped version number, tone fixes)
+- [x] Tweet drafted: The World of SPLectrum now has its own voice — a Public Conscious Persona. Blog, reference library, and human-AI collaboration working together. Twelve posts live, many more scheduled, and a foundational philosophy finding its feet. splectrum.world/blog/2026/05/blog-as-public-conscious-persona/ #SPLectrum #HAICC #HumanAI #Philosophy
 - [ ] Update anchor page (About or Collaborative AI) to link to GitHub Pages reference library
-- [ ] Final editing review near publication
-- [ ] Tweet: What if the blog is a conscious persona — thoughts surfacing, shaped into conversation, spoken in public? A bit of SPLectrum engineering. splectrum.world/blog/2026/05/the-blog-as-public-conscious-persona/ #CollaborativeAI #Engineering #SPLectrum
 
 ## May 8 — SPLectrum and First Principles goes live
+- [x] Cold review and fixes (2026-05-03/04: exclamation marks, observer removed, P4 examples, copy fixes, status set to ready)
 - [ ] Tweet: Six lines. Being implies language. Language is relational. A walk through the SPLectrum seed — first principles with a bit more meat on the bone. splectrum.world/blog/2026/05/splectrum-and-first-principles/ #Philosophy #FirstPrinciples #Language #SPLectrum
 
 ## May 12 — The Birth of P0 — Being Is Tension goes live
