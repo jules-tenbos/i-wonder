@@ -68,6 +68,7 @@ Individual thinkers referenced across the positioning section. Each page collect
 ## S
 
 - [Sapolsky, Robert (1957–)](s/sapolsky/) · neuroscientist<br>human behavioural biology, integrative across layers
+- [Sartre, Jean-Paul (1905–1980)](s/sartre) · philosopher<br>existentialism, radical freedom, consciousness as nothingness, engagement
 - [Saussure, Ferdinand de (1857–1913)](s/saussure) · linguist<br>structural linguistics, the differential sign, langue and parole
 - [Solé, Ricard (1962–)](s/sole) · complex systems scientist<br>liquid brains, solid brains, criticality, phase transitions
 - [Spinoza, Baruch (1632–1677)](s/spinoza) · philosopher<br>substance monism, determination as negation, conatus

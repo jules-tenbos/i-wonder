@@ -54,9 +54,13 @@ Tasks triggered by post publication. Updated as posts go live.
 - [x] Tweet drafted: The World of SPLectrum now has its own voice — a Public Conscious Persona. Blog, reference library, and human-AI collaboration working together. Twelve posts live, many more scheduled, and a foundational philosophy finding its feet. splectrum.world/blog/2026/05/blog-as-public-conscious-persona/ #SPLectrum #HAICC #HumanAI #Philosophy
 - [ ] Update anchor page (About or Collaborative AI) to link to GitHub Pages reference library
 
-## May 8 — SPLectrum and First Principles goes live
+## May 6 — SPLectrum and First Principles goes live
 - [x] Cold review and fixes (2026-05-03/04: exclamation marks, observer removed, P4 examples, copy fixes, status set to ready)
-- [ ] Tweet: Six lines. Being implies language. Language is relational. A walk through the SPLectrum seed — first principles with a bit more meat on the bone. splectrum.world/blog/2026/05/splectrum-and-first-principles/ #Philosophy #FirstPrinciples #Language #SPLectrum
+- [x] Post split into two (2026-05-06: existential core P0–P2, social core P3–P5)
+- [ ] Tweet: Six lines. Being implies language. Language is relational. The first three seed principles — the existential core — stress-tested. splectrum.world/blog/2026/05/splectrum-and-first-principles/ #Philosophy #FirstPrinciples #Language #SPLectrum
+
+## May 8 — First Principles — the Social Core goes live
+- [ ] Tweet (Friday): From the individual to the shared. How subjects build knowledge together, how languages interrelate, and how complexity grows — the social core of the seed. splectrum.world/blog/2026/05/first-principles-the-social-core/ #Philosophy #FirstPrinciples #SPLectrum
 
 ## May 12 — The Birth of P0 — Being Is Tension goes live
 - [ ] Draft tweet

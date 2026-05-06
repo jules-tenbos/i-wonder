@@ -5,7 +5,7 @@ date: 2026-05-08
 labels: [seed, philosophy, SPLectrum]
 description: "The second half of the seed principles — sharing, interrelation and growing complexity. From the individual subject to the social and evolutionary core."
 status: ready
-words: 495
+words: 658
 vocabulary: /vocabulary/site/home/blog/first-principles-the-social-core/
 ---
 <img src="https://images.unsplash.com/photo-1736348877782-fa7ae2a9bd69?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="First principles" />
@@ -13,6 +13,10 @@ vocabulary: /vocabulary/site/home/blog/first-principles-the-social-core/
 In the [previous post](/blog/2026/05/splectrum-and-first-principles/) I walked through the existential core of the seed — the first three principles. Being and language arise together (P0), language is relational (P1), and every subject experiences reality through its own medium (P2). That left us at the individual: one subject, one lived reality, no view from nowhere.
 
 But subjects don't exist in isolation. The next three principles are about what happens when they meet — how knowledge gets shared, how languages interrelate, and how the whole thing grows. This is the social and evolutionary core.
+
+The first post ended on P2's battleground: no reality without subject, no outside view from nowhere. But the outside view doesn't go away easily. It persists tacitly — in how we think about truth, about objectivity, about what counts as knowledge. And that tacit persistence has consequences for how we understand sharing.
+
+If you hold on to an outside view, sharing becomes referential — passing descriptions of a reality that exists independently of whoever describes it. The better the description, the closer to truth. But if reality is lived, not observed from outside, then sharing is something else entirely. It is subjects meeting through their environments, converging on a vocabulary that works — not because it copies something out there, but because it lets them go on together. A community is not something that happens out there, seen from above. It is born from within — subjects sharing, each from their own private medium, no outside view. That is the shift P3 makes.
 
 ***P3 - Language is where subjects share knowledge about reality.***
 Where P2 deals with the dynamic between being and the other, P3 deals with the dynamic between beings embedded in 'the other', the environment it's in. From the individual interaction emerge the 'being as a group' interactions. The interactions between subjects are indirect. Each subject interacts with its environment, and reads the communication of other subjects from their effect on its environment. This language of indirect transmission is shared, it converges to a shared understanding — knowledge. The interactions shape the vocabulary and the way the relational is constructed. Vocabulary as a set of concepts, concepts as a form of being themselves (in the world of meaning). Concepts hide complexity and make it easy to create relational patterns and express thoughts. Sharing and evolving this language is about creating our reality as a community — a reality created at the grassroots level.

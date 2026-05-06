@@ -1,11 +1,14 @@
 ---
 layout: default
 title: "Phenomenology"
+description: "The study of experience from the inside — how the world shows up for a subject. From Husserl's foundations through Heidegger, Merleau-Ponty and Jonas."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > Phenomenology
 
 # Phenomenology
+
+Phenomenology matters to SPLectrum because it insists that experience is where inquiry starts — not a distraction from the real, but the real itself. The [seed](/seed/)'s P2, where language is the medium through which a subject experiences reality, is a phenomenological claim. So is the insistence on no outside view: there is no reality to describe that is not already someone's experience. Phenomenology provides the philosophical ground for taking lived experience seriously, and its trajectory — from [Husserl](/positioning/persons/h/husserl)'s consciousness through [Heidegger](/positioning/persons/h/heidegger)'s being-in-the-world to [Merleau-Ponty](/positioning/persons/m/merleau-ponty)'s body — traces a path that SPLectrum continues toward the relational and the shared.
 
 The study of experience from the inside. Phenomenology does not ask what the world is made of — it asks how the world shows up for a subject. Founded by [Husserl](/positioning/persons/h/husserl) as a rigorous science of consciousness, it became one of the dominant movements of twentieth-century philosophy, branching into existentialism, hermeneutics, and the philosophy of embodiment.
 
@@ -23,7 +26,7 @@ Bracket the natural attitude — the everyday assumption that the world exists i
 
 **[Merleau-Ponty](/positioning/persons/m/merleau-ponty)** placed the body at the centre. Perception is not a mental act applied to sense data — it is the body's lived engagement with its surroundings. The habitual body carries its history forward; the world arrives already structured by the body's orientation within it. His late work on flesh and chiasm dissolves the subject-object boundary entirely.
 
-**Sartre** took phenomenology into existentialism. Consciousness is pure intentionality — always directed outward, always free, with no fixed essence behind it. "Existence precedes essence": we are not defined by what we are but by what we do. His divergence from Merleau-Ponty — radical freedom versus embodied ambiguity — defined two paths within French phenomenology.
+**[Sartre](/positioning/persons/s/sartre)** took phenomenology into existentialism. Consciousness is pure intentionality — always directed outward, always free, with no fixed essence behind it. "Existence precedes essence": we are not defined by what we are but by what we do. His divergence from Merleau-Ponty — radical freedom versus embodied ambiguity — defined two paths within French phenomenology.
 
 **[Jonas](/positioning/persons/j/jonas)** extended phenomenology into biology. The organism is where selfhood begins — metabolism as the first act of self-constitution, the boundary maintained from within. Phenomenology meets the philosophy of life.
 
@@ -33,8 +36,14 @@ Phenomenology is not a doctrine but a method — and the method has been taken i
 
 ---
 
+## Where phenomenology stops
+
+Phenomenology starts from the subject — and largely stays there. Even at its most relational (Merleau-Ponty's intercorporeality, Husserl's intersubjectivity), the method works outward from one subject's experience. How a community constitutes shared reality, how languages evolve between subjects, how complexity grows from the grassroots — these are questions phenomenology opens but does not answer. SPLectrum takes the phenomenological insistence on lived experience and extends it through P3 (sharing), P4 (interrelation), and P5 (growing complexity) into territory that phenomenology pointed toward but left unexplored.
+
+---
+
 ## Persons
 
-[Husserl](/positioning/persons/h/husserl) · [Heidegger](/positioning/persons/h/heidegger) · [Merleau-Ponty](/positioning/persons/m/merleau-ponty) · [Jonas](/positioning/persons/j/jonas)
+[Husserl](/positioning/persons/h/husserl) · [Heidegger](/positioning/persons/h/heidegger) · [Merleau-Ponty](/positioning/persons/m/merleau-ponty) · [Sartre](/positioning/persons/s/sartre) · [Jonas](/positioning/persons/j/jonas)
 
 See also: [The seed and Philosophy](/seed/philosophical) · [The seed and Historicity](/seed/historicity) · [The Turn in Western Philosophy](/positioning/seed/the-turn-in-western-philosophy)
