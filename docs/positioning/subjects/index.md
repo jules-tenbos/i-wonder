@@ -9,6 +9,10 @@ title: "Subjects A–Z"
 
 Movements, theories, and themes referenced across the positioning section. Each entry collects appearances across thinkers and positioning pieces.
 
+## D
+
+- [Domain specific languages (DSL)](d/domain-specific-languages) — languages born from languages, purpose-built vocabularies carrying domain meaning
+
 ## G
 
 - [German idealism](g/german-idealism) — Fichte, Schelling, Hegel: overcoming Kant's limits, the productivity of negation
