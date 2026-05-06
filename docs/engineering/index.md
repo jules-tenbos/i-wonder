@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Engineering"
+description: "SPLectrum engineering — the SPLectrum philosophy and human-AI collaboration translated into an engineering approach. Mycelium, SPLectrum and HAICC."
 ---
 
 [Home](/) > Engineering

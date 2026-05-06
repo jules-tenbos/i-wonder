@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "The seed and Historicity"
+description: "The SPLectrum seed and historicity — the subject retains, accumulates and experiences. Reality as the memory of what was before."
 ---
 
 [Home](/) > [The SPLectrum Seed](/seed/) > The seed and Historicity

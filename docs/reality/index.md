@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Reality"
+description: "Reality through the lens of interrelational pluralism — community-constituted, accessed from inside, language-held. A foundational approach."
 ---
 
 [Home](/) > Reality

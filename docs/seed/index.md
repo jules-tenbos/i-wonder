@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "The SPLectrum Seed"
+description: "The SPLectrum seed and its many facets — six principles on language and relation, articulated across philosophy, science, engineering and beyond."
 ---
 
 [Home](/) > The SPLectrum Seed

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "When category theory and the seed meet"
+description: "When category theory and the SPLectrum seed meet — the mathematics of relation maps onto the seed's primitives. A first encounter, open territory ahead."
 ---
 
 [Home](/) > [The SPLectrum Seed](/seed/) > When category theory and the seed meet

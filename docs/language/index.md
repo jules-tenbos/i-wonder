@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Language"
+description: "Language in SPLectrum's broadest sense. Natural, formal, software, mathematical — all relational, all with equal standing."
 ---
 
 [Home](/) > Language

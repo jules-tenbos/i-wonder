@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "The seed and Interrelational Pluralism"
+description: "The SPLectrum seed and interrelational pluralism — languages with equal standing. A fertile ground of mutual understanding and diversity."
 ---
 
 [Home](/) > [The SPLectrum Seed](/seed/) > The seed and Interrelational Pluralism

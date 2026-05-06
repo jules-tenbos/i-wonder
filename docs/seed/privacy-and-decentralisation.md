@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "The seed, Privacy and Decentralisation"
+description: "The SPLectrum seed, privacy and decentralisation — a subject feels and thinks in private, a community exists from the subjects' shared reality."
 ---
 
 [Home](/) > [The SPLectrum Seed](/seed/) > The seed, Privacy and Decentralisation

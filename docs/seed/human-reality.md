@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "The seed and Human Reality"
+description: "The SPLectrum seed and human reality — we experience individually but live collectively, reality community-constituted through shared language."
 ---
 
 [Home](/) > [The SPLectrum Seed](/seed/) > The seed and Human Reality

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "The seed and Philosophy"
+description: "The SPLectrum seed and philosophy — how historical thinkers from Heidegger to Wittgenstein to Peirce map onto the six principles, one by one."
 ---
 
 [Home](/) > [The SPLectrum Seed](/seed/) > The seed and Philosophy

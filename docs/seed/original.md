@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "The original principles"
+description: "The six SPLectrum seed principles in their original form. The foundation in bare form, the seed of interrelational pluralism."
 ---
 
 [Home](/) > [The SPLectrum Seed](/seed/) > The original principles

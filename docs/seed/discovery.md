@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "The seed and Discovery"
+description: "The SPLectrum seed and discovery — creation conforms to discovery. The power already there in potential, insight the key that unlocks it."
 ---
 
 [Home](/) > [The SPLectrum Seed](/seed/) > The seed and Discovery
