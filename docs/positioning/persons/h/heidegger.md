@@ -1,11 +1,14 @@
 ---
 layout: default
-title: "Heidegger"
+title: "Martin Heidegger (1889–1976)"
+description: "Heidegger displaced the subject-object split — we are always already in a world, disclosed through involvement, not observation."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Heidegger
 
-# Heidegger
+# Martin Heidegger (1889–1976)
+
+Heidegger matters to SPLectrum because he broke the spectator model of knowledge. Being-in-the-world — always already involved, always already understanding — is the move from observer to participant that runs through SPLectrum's [seed](/seed/). His account of [language](/language/) as the medium through which Being discloses itself resonates directly with P2: language as the medium through which a subject experiences reality. He is a pivotal figure in [the turn in Western philosophy](/positioning/seed/the-turn-in-western-philosophy), and his treatment of [being as tension](/positioning/seed/being-as-tension) between disclosure and concealment connects to SPLectrum's P0.
 
 [Martin Heidegger](https://plato.stanford.edu/entries/heidegger/) (1889–1976). Asked the question of Being — not what exists, but what it means *to be*. His answer displaced the subject-object split that had structured Western philosophy since Descartes. We do not first exist and then encounter a world; we are always already in a world, disclosed through our involvement with it. Heidegger served as rector of Freiburg University in 1933–34 under the Nazi regime, joined the NSDAP, and never publicly recanted. The *Black Notebooks* (published 2014 onward) revealed antisemitic passages. The relationship between his philosophy and his politics remains one of the most debated questions in twentieth-century intellectual history.
 
@@ -31,13 +34,25 @@ title: "Heidegger"
 
 ---
 
+## The political stain
+
+Heidegger's involvement with Nazism cannot be separated from his philosophy, however much one might wish to. He joined the NSDAP in 1933, served as rector of Freiburg under the regime, and never publicly recanted. The *Black Notebooks* revealed antisemitic passages woven into his philosophical reflections. Whether the philosophy is contaminated by the politics or survives despite it remains an open question. SPLectrum draws on specific concepts — being-in-the-world, disclosure, language as medium — without endorsing the thinker whole. The debt is acknowledged; the stain is not excused.
+
+---
+
+## Where Heidegger stops
+
+Heidegger's later work grows increasingly solitary — Being withdraws, poetry replaces argument, and the thinker waits. The participatory structure of being-in-the-world gives way to a quietism where only a few poets and thinkers can hear Being speak. SPLectrum takes the early insight — that we are always already involved, always already in language — and moves it toward the [relational](/seed/) and the plural, where [Rorty](/positioning/persons/r/rorty) and [Wittgenstein](/positioning/persons/w/wittgenstein) pick up what Heidegger set down.
+
+---
+
 ## Key works
 
-- *Being and Time* (1927) — the analytic of Dasein, being-in-the-world, temporality
-- *The Origin of the Work of Art* (1935/36) — truth as unconcealment, the work of art as world-disclosing
-- *Letter on Humanism* (1947) — language as the house of Being, against Sartre's existentialism
-- *The Question Concerning Technology* (1954) — technology as a mode of revealing, the danger of *Gestell*
-- *On the Way to Language* (1959) — language speaks, not the subject; language as the medium of disclosure
+- [*Being and Time*](https://en.wikipedia.org/wiki/Being_and_Time) (1927) — the analytic of Dasein, being-in-the-world, temporality
+- [*The Origin of the Work of Art*](https://en.wikipedia.org/wiki/The_Origin_of_the_Work_of_Art) (1935/36) — truth as unconcealment, the work of art as world-disclosing
+- [*Letter on Humanism*](https://en.wikipedia.org/wiki/Letter_on_%22Humanism%22) (1947) — language as the house of Being, against Sartre's existentialism
+- [*The Question Concerning Technology*](https://en.wikipedia.org/wiki/The_Question_Concerning_Technology) (1954) — technology as a mode of revealing, the danger of *Gestell*
+- [*On the Way to Language*](https://en.wikipedia.org/wiki/On_the_Way_to_Language) (1959) — language speaks, not the subject; language as the medium of disclosure
 
 ---
 

@@ -1,11 +1,14 @@
 ---
 layout: default
-title: "Merleau-Ponty"
+title: "Maurice Merleau-Ponty (1908–1961)"
+description: "Merleau-Ponty placed the body at the centre of experience — perception is the body's lived engagement with the world, not a mental act."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Merleau-Ponty
 
-# Merleau-Ponty
+# Maurice Merleau-Ponty (1908–1961)
+
+Merleau-Ponty matters to SPLectrum because he brought the body back into language. The lived body as medium, the habitual body as accumulated experience, intercorporeality as the space between subjects — these map directly onto SPLectrum's [seed](/seed/): language as medium (P2), [historicity](/seed/historicity) carried in the body itself, and the relational space where subjects share (P3). His work on the chiasm — subject and object as folds in the same tissue — prefigures the non-dualist stance that SPLectrum builds on. He is a key figure in [the turn in Western philosophy](/positioning/seed/the-turn-in-western-philosophy).
 
 [Maurice Merleau-Ponty](https://plato.stanford.edu/entries/merleau-ponty/) (1908–1961). Phenomenologist who placed the body at the centre of experience. A central figure in post-war French intellectual life — he co-founded *Les Temps Modernes* with Sartre in 1945 and held the chair of philosophy at the Collège de France from 1952, the youngest person ever appointed. He and Sartre started from the same phenomenological tradition and diverged fundamentally: Sartre toward radical freedom and consciousness, Merleau-Ponty toward embodiment and ambiguity. They broke over politics in the early 1950s. He died suddenly at 53, leaving his late work unfinished. Where Husserl worked from consciousness inward, Merleau-Ponty worked from the body outward — perception is not a mental act applied to sensory data but the body's lived engagement with the world.
 
@@ -25,13 +28,25 @@ title: "Merleau-Ponty"
 
 ---
 
+## The unfinished turn
+
+Merleau-Ponty died at 53, mid-sentence. *The Visible and the Invisible* survives as working notes — suggestive, incomplete, pointing toward an ontology he did not live to articulate. The chiasm and the concept of flesh hint at a framework where subject and world are not two things that meet but two folds in a single fabric. Whether this would have led somewhere systematic or remained deliberately open is unknowable. What survives is the direction: away from dualism, toward a reality that is woven rather than split.
+
+---
+
+## Where Merleau-Ponty stops
+
+The body grounds everything in Merleau-Ponty — but his account stays with the individual body. Intercorporeality opens the door to the space between subjects, yet the social and the linguistic remain underdeveloped. How bodies form communities, how shared language emerges from bodily encounter — these are questions he left on the table. SPLectrum picks them up through P3 (language as shared medium) and the [seed's account of human reality](/seed/human-reality), where what Merleau-Ponty began with the body extends into the relational web between subjects.
+
+---
+
 ## Key works
 
-- *The Structure of Behavior* (1942) — behaviour as meaningful form, against stimulus-response reductionism
-- *Phenomenology of Perception* (1945) — the lived body, perception, spatiality, the habitual body
+- [*The Structure of Behavior*](https://en.wikipedia.org/wiki/The_Structure_of_Behavior) (1942) — behaviour as meaningful form, against stimulus-response reductionism
+- [*Phenomenology of Perception*](https://en.wikipedia.org/wiki/Phenomenology_of_Perception) (1945) — the lived body, perception, spatiality, the habitual body
 - *The Primacy of Perception* (1947) — lecture summarising the core position
-- *Signs* (1960) — essays on language, politics, and expression
-- *The Visible and the Invisible* (1964, posthumous, unfinished) — flesh, the chiasm, reversibility
+- [*Signs*](https://en.wikipedia.org/wiki/Signs_(Merleau-Ponty)) (1960) — essays on language, politics, and expression
+- [*The Visible and the Invisible*](https://en.wikipedia.org/wiki/The_Visible_and_the_Invisible) (1964, posthumous, unfinished) — flesh, the chiasm, reversibility
 
 ---
 
