@@ -17,6 +17,32 @@ Tasks triggered by post publication. Updated as posts go live.
 - [ ] Post `status:` field convention — values seen: `ready`, `final revision`, `Mandatory review`, `review needed`. Codify the set and what each means.
 - [ ] Off-cadence scheduling — engineering posts and pair posts on in-between days when ready
 
+### NEXT: Trailing slash migration (2026-05-07)
+
+- [ ] Execute trailing slash migration — plan at `plan/trailing-slash-migration.md`
+- [ ] ~120 page moves, ~120 redirect files, all internal links updated, sitemap updated
+- [ ] Local test before push
+
+### From session 2026-05-06
+
+- [x] Word counts added to all 57 post front matters
+- [x] "Reference library" replaced with "section of the site" / "See also" across all posts and pages
+- [x] Grammar fixes in alter ego and Wittgenstein posts
+- [x] First-principles post split into two (05/06 existential core, 05/08 social core)
+- [x] Vocabulary pages created/updated for both first-principles posts
+- [x] DSL subject page created
+- [x] Category theory subject page created; language page downscaled to applied
+- [x] All person pages brought up to standard (title, description, intro, closing, works linked)
+- [x] New person pages: Descartes, Hume, Kant, Leibniz, Frege, Russell, Sartre, James, Dewey
+- [x] All subject pages brought up to standard (description, intro, closing)
+- [x] Internal links: replaced external SEP links with internal person/subject links across posts
+- [x] Posts reviewed and edited: 07/03, 17/03, 22/03, 27/03, 01/04, 06/04, 11/04, 16/04, 21/04, 26/04, 01/05, 04/05, 06/05, 08/05, 04/06
+- [x] CSS: li spacing, kw span for index pages
+- [x] Page structure guide created (process/page-structure.md)
+- [x] Sitemap updated with all new pages, roadmap removed
+- [x] Draft created: "Compiling in the Body" (needs neuroscience fact-checking)
+- [ ] Post length review — several posts still over 900 (RQM at 1249, between-subjects at 1141)
+
 ### From session 2026-05-05/06 (SEO)
 
 - [x] SEO standards doc created (`tone-of-voice/seo-standards.md`)
@@ -29,9 +55,10 @@ Tasks triggered by post publication. Updated as posts go live.
 - [x] Descriptions added: all 8 seed sub-pages
 - [x] Posts rescheduled: freed May 16/20 for seed-and-language and seed-and-historicity
 - [x] Skeleton posts created for The Seed and Language (May 16) and The Seed and Historicity (May 20)
-- [ ] Remaining descriptions: positioning pages (persons, subjects, seed trajectories), language/reality sub-pages
+- [x] Remaining descriptions: positioning pages (persons, subjects) — done 2026-05-06
+- [ ] Remaining descriptions: seed trajectories, language/reality sub-pages
 - [ ] Remaining descriptions: scheduled blog posts (at ready state)
-- [ ] Post length review — 600 word guideline, most early posts over
+- [x] Post length review — 600 word guideline, word counts added to front matter 2026-05-06
 
 ### From session 2026-04-29 / 2026-04-30
 

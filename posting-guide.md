@@ -29,8 +29,15 @@ layout: post
 title: "Post Title"
 date: YYYY-MM-DD
 labels: [series, category, persona]
+description: "One-sentence description for SEO and listings"
+status: ready
+words: NNN
 ---
 ```
+
+- **description** — one sentence, used in meta tags and blog listings
+- **status** — `storyline`, `draft`, `review needed`, `Mandatory review`, `final revision`, `final review`, `ready`
+- **words** — body word count (target 600 average, range 300–900). Update after edits.
 
 Filename: `YYYY-MM-DD-slug.md` in `docs/_posts/`.
 
@@ -206,8 +213,8 @@ When reviewing existing or new posts, check:
 1. **Front matter** — layout: post, title, date, labels (max 3, from series/category/persona)
 2. **Image** — no inline float styles (CSS handles sizing). Just `<img src="..." alt="..." />`
 3. **Internal links** — use absolute paths (`/seed`, `/engineering/splectrum/mycelium/`). No old Blogger URLs, no `jules-tenbos.github.io`, no `.html` extensions
-4. **External links** — max 5 total. People → SEP/Wikipedia. Works → accessible version. Topics → Wikipedia/SEP. Open in new tab handled by JavaScript
-5. **Series footer** — `<small>This post is part of the [series name](/blog/label/series). More in the <a href="/area/page">page name</a> of the reference library.</small>` Link to the specific ref lib page, not just the area
+4. **External links** — People and subjects with internal person/subject pages → use internal links. External (SEP/Wikipedia) only for names without a page. Works → Wikipedia links on person pages, not in posts
+5. **Series footer** — `<small>This post is part of the [series name](/blog/label/series). See also <a href="/area/page">Page Title</a>.</small>` Use "See also" with the page title, not "More in the reference library"
 6. **Photo credit** — `<small>Photo: <a href="...">Name</a> / Unsplash</small>` separated by `---`
 7. **No old Blogger artefacts** — no `Blogger-ID:`, no `Labels:` line (use front matter), no bold date lines in body, no `/search/label/`, no `/p/xxx.html`
 8. **Voice** — matches the persona label. Author voice for thought/comment, SPLectrum voice for seed/engineering, narrator for named sources
