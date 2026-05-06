@@ -14,6 +14,10 @@ Individual thinkers referenced across the positioning section. Each page collect
 
 - [Bergson, Henri (1859–1941)](b/bergson) · philosopher<br>duration, creative evolution, intuition, the élan vital
 
+## D
+
+- [Dewey, John (1859–1952)](d/dewey) · philosopher<br>pragmatism, democracy, inquiry as community problem-solving, experience as transaction
+
 ## F
 
 - [Feyerabend, Paul (1924–1994)](f/feyerabend) · philosopher of science<br>against method, theoretical pluralism, incommensurability
@@ -32,6 +36,7 @@ Individual thinkers referenced across the positioning section. Each page collect
 
 ## J
 
+- [James, William (1842–1910)](j/james) · philosopher, psychologist<br>pragmatism, radical empiricism, stream of consciousness, pluralism
 - [Jonas, Hans (1903–1993)](j/jonas) · philosopher<br>the phenomenon of life, metabolism as selfhood, inwardness, responsibility
 
 ## K

@@ -1,13 +1,16 @@
 ---
 layout: default
-title: "Peirce"
+title: "Charles Sanders Peirce (1839–1914)"
+description: "Peirce founded pragmatism and semiotics — meaning as practical consequence, truth as convergence of inquiry, signs as triadic."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Peirce
 
-# Peirce
+# Charles Sanders Peirce (1839–1914)
 
-[Charles Sanders Peirce](https://plato.stanford.edu/entries/peirce/) (1839–1914). Founder of pragmatism and semiotics. A practising scientist (U.S. Coast and Geodetic Survey), he lectured briefly at Johns Hopkins but was effectively blacklisted from academic employment and spent his last decades in poverty and isolation in Milford, Pennsylvania, producing thousands of pages of unpublished manuscripts — financially supported by William James. His work was largely unknown in his lifetime and had to be reconstructed posthumously. He coined "pragmatism"; when James popularised it in ways Peirce considered distortions, Peirce renamed his position "pragmaticism" — a word he said was "ugly enough to be safe from kidnappers." Peirce placed inquiry — the self-correcting process of moving from doubt to belief — at the centre of philosophy. Truth is not a fixed correspondence but what the community of inquirers would converge on in the long run. Meaning, likewise, is not in the sign alone but in the interpretive process the sign sets in motion.
+Peirce matters to SPLectrum on several fronts. His community of inquirers — truth as what inquiry converges on, not what a solitary observer discovers — resonates directly with the [seed](/seed/)'s P3: shared knowledge constituted through shared language. His semiotics, where meaning is always triadic (sign, object, interpretant), prefigures SPLectrum's relational treatment of language (P1). And his fallibilism — any belief could be revised — is the epistemic stance the seed assumes: no final vocabulary, no view from nowhere. Peirce is the source [pragmatism](/positioning/subjects/p/pragmatism) flows from, and his influence runs through [James](/positioning/persons/j/james), [Dewey](/positioning/persons/d/dewey) and [Rorty](/positioning/persons/r/rorty) into SPLectrum's own thinking.
+
+[Charles Sanders Peirce](https://plato.stanford.edu/entries/peirce/) (1839–1914). Founder of pragmatism and semiotics. A practising scientist (U.S. Coast and Geodetic Survey), he lectured briefly at Johns Hopkins but was effectively blacklisted from academic employment and spent his last decades in poverty and isolation in Milford, Pennsylvania, producing thousands of pages of unpublished manuscripts — financially supported by [William James](/positioning/persons/j/james). His work was largely unknown in his lifetime and had to be reconstructed posthumously. He coined "pragmatism"; when [James](/positioning/persons/j/james) popularised it in ways Peirce considered distortions, Peirce renamed his position "pragmaticism" — a word he said was "ugly enough to be safe from kidnappers." Peirce placed inquiry — the self-correcting process of moving from doubt to belief — at the centre of philosophy. Truth is not a fixed correspondence but what the community of inquirers would converge on in the long run. Meaning, likewise, is not in the sign alone but in the interpretive process the sign sets in motion.
 
 ---
 
@@ -27,14 +30,20 @@ title: "Peirce"
 
 ---
 
+## Where Peirce stops
+
+Peirce built the most rigorous version of pragmatism — but rigour came at the cost of accessibility and application. His categories (Firstness, Secondness, Thirdness) are powerful but abstract; his semiotics is architecturally complete but never finished. The community of inquirers is an ideal — what inquiry *would* converge on — not a description of how actual communities constitute shared reality through language. And his work remained largely unpublished and unsystematised in his lifetime. SPLectrum draws on Peirce's foundations — the triadic sign, the social nature of truth, fallibilism — but extends them through the [seed](/seed/) into a constructive account of how language actually works between subjects (P3) and how languages interrelate (P4).
+
+---
+
 ## Key works
 
-- *On a New List of Categories* (1867) — Firstness, Secondness, Thirdness
-- *The Fixation of Belief* (1877) — four methods of settling opinion; inquiry as the self-correcting method
-- *How to Make Our Ideas Clear* (1878) — the pragmatic maxim
+- [*On a New List of Categories*](https://en.wikipedia.org/wiki/On_a_New_List_of_Categories) (1867) — Firstness, Secondness, Thirdness
+- [*The Fixation of Belief*](https://en.wikipedia.org/wiki/The_Fixation_of_Belief) (1877) — four methods of settling opinion; inquiry as the self-correcting method
+- [*How to Make Our Ideas Clear*](https://en.wikipedia.org/wiki/How_to_Make_Our_Ideas_Clear) (1878) — the pragmatic maxim
 - *Collected Papers* (1931–58, posthumous) — eight volumes assembled by different editors from manuscripts; for decades the only access to the bulk of the work, though notoriously unreliable in dating and grouping
 - *Writings of Charles S. Peirce: A Chronological Edition* (1982 onward, still in progress) — the scholarly replacement, restoring chronological order and editorial accuracy
 
 ---
 
-See also: [The seed and Philosophy](/seed/philosophical)
+See also: [Pragmatism](/positioning/subjects/p/pragmatism) · [The seed and Philosophy](/seed/philosophical) · [The Turn in Western Philosophy](/positioning/seed/the-turn-in-western-philosophy)
