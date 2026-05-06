@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Persons A–Z"
+description: "Thinkers referenced across SPLectrum's positioning work — from Bergson and Fichte to Whitehead and Wittgenstein"
 ---
 
 [Home](/) > [Positioning](/positioning/) > Persons
