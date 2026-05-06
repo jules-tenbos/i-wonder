@@ -1,11 +1,14 @@
 ---
 layout: default
 title: "Structuralism"
+description: "Meaning as difference, systems of relations — the movement that analysed culture, language and thought as structures, not collections of independent elements."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > Structuralism
 
 # Structuralism
+
+Structuralism matters to SPLectrum because it established the relational view of meaning that the [seed](/seed/) builds on. [Saussure](/positioning/persons/s/saussure)'s differential sign — meaning through difference, not content — is the linguistic ancestor of P1: language is relational. The structuralist method — study the system of relations, not the individual elements — prefigures SPLectrum's insistence that language is not a collection of labels but a web of relations. But structuralism froze the system: *langue* is static, synchronic, closed. SPLectrum's seed puts the system in motion — languages grow (P5), interrelate (P4), are lived (P2) and shared (P3). Post-structuralism saw the instability; SPLectrum sees the growth.
 
 The intellectual movement that analyses cultural and intellectual phenomena as systems of relations rather than collections of independent elements. Originating in [Saussure](/positioning/persons/s/saussure)'s structural linguistics, structuralism spread across anthropology, literary theory, philosophy, and the human sciences in the mid-twentieth century. Its core insight: meaning is not in the element but in the difference between elements.
 
@@ -33,8 +36,14 @@ The commitment to relation over substance. Whether the structure is stable (clas
 
 ---
 
+## Where structuralism stops
+
+Structuralism found the relational — but locked it in a cage. The system is given, stable, synchronic: a snapshot, not a process. There is no account of how structures arise, how they evolve, how one system gives birth to another. Post-structuralism saw the instability but responded with deconstruction — showing that the cage cannot hold, without building anything in its place. SPLectrum takes the relational insight and puts it in motion: languages are not static systems but living, growing, interrelating (P4, P5). They are constituted through sharing between subjects (P3), not given as abstract structures. And the subject — absent from structuralism, dissolved by post-structuralism — is where SPLectrum's P2 starts: the lived experience of the relational, from the inside.
+
+---
+
 ## Persons
 
 [Saussure](/positioning/persons/s/saussure) · [Lyotard](/positioning/persons/l/lyotard)
 
-See also: [The seed and Philosophy](/seed/philosophical)
+See also: [The seed and Philosophy](/seed/philosophical) · [Being as Tension](/positioning/seed/being-as-tension)
