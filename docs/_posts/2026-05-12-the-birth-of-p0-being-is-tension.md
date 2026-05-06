@@ -4,6 +4,7 @@ title: "The Birth of P0 — Being Is Tension"
 date: 2026-05-12
 labels: [seed, philosophy, comment]
 status: review mandatory
+words: 1006
 ---
 <img src="https://images.unsplash.com/photo-1556197908-96ed0fa30b65?q=80&w=2070&auto=format&fit=crop" alt="The Birth of P0 — Being Is Tension" />
 
@@ -59,7 +60,7 @@ Nine independent formulations. Different traditions, different centuries, differ
 
 My formulation as ***Being is tension across the interface*** came to me as I imagined a water droplet suspended in air. The droplet as the differentiation, the tension in the interface to keep the droplet together as liquid, suspended in a gas. Being suspended in its complement. The interface is where being meets the world.
 
-<small>This post is part of the [seed series](/blog/label/seed). More on the seed in the <a href="/seed">seed area of the reference library</a>.</small>
+<small>This post is part of the [seed series](/blog/label/seed). More on the seed in the <a href="/seed">seed section of the reference library</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@xcrap">xcrap</a> / Unsplash</small>

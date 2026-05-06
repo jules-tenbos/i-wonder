@@ -5,6 +5,7 @@ date: 2026-03-12
 labels: [seed, philosophy, comment]
 description: "Language is for living. A dinner party unpacks the seed — cooking, tasting, sharing, all in their own relational language."
 status: ready
+words: 496
 ---
 <img src="https://images.unsplash.com/photo-1519671282429-b44660ead0a7?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Friends gathered around a dinner table"/>
 
@@ -24,7 +25,7 @@ Everyone has their own unique way they experience the world, how they relate to 
 
 The simplicity of six lines — the seed — versus the complexity of what follows from it. Does that hold? Isn't there a way around it? All well and good me saying this, but is there actually support for this way of thinking? Let's find out — that is what unpacking is about. What do these six lines allow me to say? And is it supported by what other people think? And yes, this will involve philosophers with their special vocabulary and ways of thinking, but also biologists, physicists, people in the arts, religion, all walks of life. Let's go on that journey!
 
-<small>This post is part of the [seed series](/blog/label/seed). More on the seed in the <a href="/seed">seed area of the reference library</a>.</small>
+<small>This post is part of the [seed series](/blog/label/seed). More on the seed in the <a href="/seed">seed section of the reference library</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@kchance8">Kelsey Chance</a> / Unsplash</small>

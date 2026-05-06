@@ -5,6 +5,7 @@ date: 2026-04-11
 labels: [language, engineering, SPLectrum]
 description: "From binary to Python, how higher level languages make the power of binary accessible — growing in expression, not in power."
 status: ready
+words: 1103
 ---
 <img src="https://images.unsplash.com/photo-1625459201773-9b2386f53ca2?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Software code" />
 
@@ -50,7 +51,7 @@ Assemblers and compilers aren't unique to software. Language mapping and transfo
 
 The primordial hardwired language brings the raw power of execution. Higher languages bring the power of thought through the clarity and simplicity of its concepts and grammar. As thinking evolves, so do languages. It's only natural.
 
-<small>This post is part of the [language series](/blog/label/language). More in <a href="/language/software-languages">software languages</a> of the reference library.</small>
+<small>This post is part of the [language series](/blog/label/language). See also <a href="/language/software-languages">Software languages</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@carlgonz">Carl Gonzalez</a> / Unsplash</small>

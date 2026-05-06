@@ -4,6 +4,7 @@ title: "No Life Without Death"
 date: 2026-07-16
 labels: [preamble,thought]
 status: final review
+words: 499
 ---
 <img src="https://images.unsplash.com/photo-1518495973542-4542c06a5843?q=80&w=350&h=230&auto=format&fit=crop" alt="No Life Without Death" />
 

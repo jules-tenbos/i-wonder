@@ -4,6 +4,7 @@ title: "Bateson and Biosemiotics"
 date: 2026-11-16
 labels: [positioning, philosophy]
 status: storyline
+words: 68
 ---
 <img src="https://images.unsplash.com/photo-1610079732288-72a77bd816c9?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Foundation"/>
 

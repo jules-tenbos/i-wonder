@@ -5,6 +5,7 @@ date: 2026-03-27
 labels: [positioning, philosophy, Rorty]
 description: "Rorty broke the mirror of nature — no language represents reality, all vocabularies are contingent. Philosophy becomes conversation, not arbitration."
 status: ready
+words: 544
 ---
 <img src="https://images.unsplash.com/photo-1592211762325-eea5e40adbd4?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Shattered glass" />
 
@@ -26,7 +27,7 @@ But the dam was breached. The relational view of reality gained more and more tr
 
 Next up in the serie: let's go back in time a bit, to [Merleau-Ponty](https://plato.stanford.edu/entries/merleau-ponty/) who put the body back into the picture.
 
-<small>This post is part of the [positioning series](/blog/label/positioning). More in the <a href="/positioning/seed/the-turn-in-western-philosophy">philosophical trajectory</a> of the reference library.</small>
+<small>This post is part of the [positioning series](/blog/label/positioning). See also <a href="/positioning/seed/the-turn-in-western-philosophy">The Turn in Western Philosophy</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@batuhan_dogan">Batuhan Doğan</a> / Unsplash</small>

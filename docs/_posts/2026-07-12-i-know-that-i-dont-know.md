@@ -4,6 +4,7 @@ title: "I Know That I Don't Know"
 date: 2026-07-12
 labels: [philosophy, thought]
 status: Mandatory review
+words: 881
 ---
 <img src="https://images.unsplash.com/photo-1598398386929-4d5370672e9f?q=80&w=350&h=230&auto=format&fit=crop" alt="I Know That I Don't Know" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 

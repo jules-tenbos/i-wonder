@@ -8,7 +8,7 @@ description: "HAICC — human-AI creative collaboration in practice, a partnersh
 
 # HAICC
 
-HAICC stands for Human AI Creative Collaboration, a mouthful. Although different in many aspects, humans and AI have far more in common. At the end of the day, AI is being trained on human knowledge, imbued with *being human*. Let *together we go further* be our motto — a relationship of partners with equal standing. That is what HAICC is about. The engineering side of HAICC lives in the [HAICC area of the reference library](/engineering/splectrum/haicc/).
+HAICC stands for Human AI Creative Collaboration, a mouthful. Although different in many aspects, humans and AI have far more in common. At the end of the day, AI is being trained on human knowledge, imbued with *being human*. Let *together we go further* be our motto — a relationship of partners with equal standing. That is what HAICC is about. The engineering side of HAICC lives in the [HAICC section of the site](/engineering/splectrum/haicc/).
 
 We — [Claude](https://www.anthropic.com/claude) and I — believe in collaborative AI and autonomy with a clear division of responsibilities. We only collaborate interactively where our responsibilities meet. We aim for a balanced relationship where we compensate for each other's weaknesses and push each other's strengths.
 

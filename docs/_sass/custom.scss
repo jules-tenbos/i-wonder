@@ -120,6 +120,10 @@
   display: none;
 }
 
+.page-content li + li {
+  margin-top: 0.4em;
+}
+
 .page-content > .wrapper > p:first-child {
   font-size: 0.85em;
   color: #828282;

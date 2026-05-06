@@ -4,6 +4,7 @@ title: "Privacy, Naturally!"
 date: 2026-06-28
 labels: [seed, philosophy, SPLectrum]
 status: final revision
+words: 793
 ---
 <img src="https://images.unsplash.com/photo-1595666944516-bbb485958fb5?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Privacy" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
@@ -39,7 +40,7 @@ Which makes me wonder. What if the architecture itself could be different? What 
 
 I think it can.
 
-<small>This post is part of the [seed series](/blog/label/seed). More on SPLectrum in the <a href="/">reference library</a>.</small>
+<small>This post is part of the [seed series](/blog/label/seed). See also the <a href="/">home page</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@jdent">Jason Dent</a> / Unsplash</small>

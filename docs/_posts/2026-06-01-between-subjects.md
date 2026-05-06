@@ -4,6 +4,7 @@ title: "Between Subjects"
 date: 2026-06-01
 labels: [seed, philosophy, SPLectrum]
 status: Mandatory review
+words: 1141
 ---
 <img src="https://plus.unsplash.com/premium_photo-1735775900005-9cb5aa14c323?q=80&w=350&h=230&auto=format&fit=crop" alt="Between Subjects" />
 
@@ -37,7 +38,7 @@ The human web evolves through this cycle. We synchronise, knowledge deepens, new
 
 Community is luminous, not dense. Relational, not collective. It holds together precisely because the sources stay sources. And all this follows from the seed — from six principles.
 
-<small>This post is part of the [seed series](/blog/label/seed). More in the <a href="/seed/human-reality">seed and human reality</a> of the reference library.</small>
+<small>This post is part of the [seed series](/blog/label/seed). See also <a href="/seed/human-reality">The seed and Human Reality</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@giuliasq">Giulia Squillace</a> / Unsplash</small>

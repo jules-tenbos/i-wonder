@@ -4,6 +4,7 @@ title: "From Seed to Interrelational Pluralism"
 date: 2026-09-01
 labels: [seed, philosophy, SPLectrum]
 status: storyline
+words: 111
 ---
 
 Stall-setting post. Extends *Embracing Anti-Foundationalism* (August 24). Names the position: interrelational pluralism.

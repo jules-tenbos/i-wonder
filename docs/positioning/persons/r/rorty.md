@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Rorty"
+title: "Richard Rorty (1931–2007)"
+description: "Rorty abandoned the mirror of nature for conversation — knowledge is what a community finds useful to say, not a copy of reality."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Rorty
@@ -29,11 +30,11 @@ title: "Rorty"
 
 ## Key works
 
-- *Philosophy and the Mirror of Nature* (1979) — the critique of representationalism
-- *Consequences of Pragmatism* (1982) — essays on pragmatism, truth, and the end of philosophy as mirror
-- *Contingency, Irony, and Solidarity* (1989) — contingency of language, the liberal ironist, private and public
-- *Objectivity, Relativism, and Truth* (1991) — solidarity, anti-representationalism, science as solidarity
-- *Philosophy as Cultural Politics* (2007) — the last essays; philosophy's place in the conversation
+- [*Philosophy and the Mirror of Nature*](https://en.wikipedia.org/wiki/Philosophy_and_the_Mirror_of_Nature) (1979) — the critique of representationalism
+- [*Consequences of Pragmatism*](https://en.wikipedia.org/wiki/Consequences_of_Pragmatism) (1982) — essays on pragmatism, truth, and the end of philosophy as mirror
+- [*Contingency, Irony, and Solidarity*](https://en.wikipedia.org/wiki/Contingency,_Irony,_and_Solidarity) (1989) — contingency of language, the liberal ironist, private and public
+- [*Objectivity, Relativism, and Truth*](https://en.wikipedia.org/wiki/Objectivity,_Relativism,_and_Truth) (1991) — solidarity, anti-representationalism, science as solidarity
+- [*Philosophy as Cultural Politics*](https://en.wikipedia.org/wiki/Philosophy_as_Cultural_Politics) (2007) — the last essays; philosophy's place in the conversation
 
 ---
 

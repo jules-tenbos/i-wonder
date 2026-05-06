@@ -5,6 +5,7 @@ date: 2026-04-06
 labels: [positioning, philosophy, western philosophy]
 description: "Five centuries of Western philosophy â€” from Descartes' mirror to Rorty's conversation. How the outside view of reality gave way to the relational."
 status: ready
+words: 770
 ---
 <img src="https://images.unsplash.com/photo-1658731041632-3a78727eaf7e?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Stepping stones" />
 
@@ -32,7 +33,7 @@ By this time the ground was prepared for Wittgenstein, Merleau-Ponty and Rorty â
 
 And philosophy was not alone. Physics was making the same move, independently. Next to be covered in the positioning series.
 
-<small>This post is part of the [positioning series](/blog/label/positioning). More in the <a href="/positioning/seed/the-turn-in-western-philosophy">philosophical trajectory</a> of the reference library.</small>
+<small>This post is part of the [positioning series](/blog/label/positioning). See also <a href="/positioning/seed/the-turn-in-western-philosophy">The Turn in Western Philosophy</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@popovkin">Popovkin</a> / Unsplash</small>

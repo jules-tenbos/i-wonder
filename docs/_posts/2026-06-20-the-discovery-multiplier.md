@@ -4,6 +4,7 @@ title: "The Discovery Multiplier"
 date: 2026-06-20
 labels: [discovery, HAICC, SPLectrum]
 status: Mandatory review
+words: 421
 ---
 <img src="https://images.unsplash.com/photo-1559523527-b05d4e6775f8?q=80&w=350&h=230&auto=format&fit=crop" alt="The Discovery Multiplier" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
@@ -17,7 +18,7 @@ The process model is ancient. Scan — surface what the landscape currently make
 
 This shape recurs at every scale where discoverers multiply. Not progress toward a goal — discovery accelerating because the discoverers multiply. AI is the next threshold in that sequence. Not the culmination. A threshold. The pairing is operational now. The pattern it follows is as old as interaction itself. The full picture — the evolutionary curve seen from the perimeter — is where this leads.
 
-<small>This post is part of the [discovery series](/blog/label/discovery). More on HAICC in the <a href="/engineering/">engineering area of the reference library</a>.</small>
+<small>This post is part of the [discovery series](/blog/label/discovery). More on HAICC in the <a href="/engineering/">engineering section of the reference library</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@jaydenyoonzk">Jayden Yoon ZK</a> / Unsplash</small>

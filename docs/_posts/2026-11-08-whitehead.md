@@ -4,6 +4,7 @@ title: "Whitehead"
 date: 2026-11-08
 labels: [positioning, philosophy]
 status: storyline
+words: 57
 ---
 
 Positioning post. Non-SPLectrum voice, outside voice. Signpost: constructive, broader-than-human.

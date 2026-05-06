@@ -4,6 +4,7 @@ title: "How a Crash Put Me on Course"
 date: 2026-07-01
 labels: [preamble,thought]
 status: final review
+words: 510
 ---
 <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhhxdSBQj8Q7-VQ7u-BDlsD4CmooB0c4GyYZnpSjSFJs2KNyEkXWISyhhkT0dsfm-mDsZ-b3RqEDXDOz72LYzU131k3qoW6UKLYGNZjL8Pa0aL2UEPOpTXq1N-F_adeRxQwdjmi2pmgYhiLkAjz9yMK0WT9Z14NC-bO9P-pCf47FiSQK6GPYFYR_OVJ" alt="How a Crash Put Me on Course" />
 

@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Wittgenstein"
+title: "Ludwig Wittgenstein (1889–1951)"
+description: "Wittgenstein turned from logical structure to language games and forms of life — meaning is use, not representation."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Wittgenstein
@@ -53,11 +54,11 @@ Language is framed as human natural history: "Commanding, questioning, recountin
 
 ## Key works
 
-- *Tractatus Logico-Philosophicus* (1921) — the early picture theory; the thing he dismantled
-- *Philosophical Investigations* (1953, posthumous) — the later philosophy; language games, forms of life, meaning as use
-- *Remarks on the Foundations of Mathematics* (1956, posthumous) — agreement in mathematical practice as the clearest case of agreement in judgments
-- *The Blue and Brown Books* (1958, posthumous) — transitional lectures, language games first introduced
-- *On Certainty* (1969, posthumous) — hinge propositions: certainties that function as the framework within which doubt is possible
+- [*Tractatus Logico-Philosophicus*](https://en.wikipedia.org/wiki/Tractatus_Logico-Philosophicus) (1921) — the early picture theory; the thing he dismantled
+- [*Philosophical Investigations*](https://en.wikipedia.org/wiki/Philosophical_Investigations) (1953, posthumous) — the later philosophy; language games, forms of life, meaning as use
+- [*Remarks on the Foundations of Mathematics*](https://en.wikipedia.org/wiki/Remarks_on_the_Foundations_of_Mathematics) (1956, posthumous) — agreement in mathematical practice as the clearest case of agreement in judgments
+- [*The Blue and Brown Books*](https://en.wikipedia.org/wiki/Blue_and_Brown_Books) (1958, posthumous) — transitional lectures, language games first introduced
+- [*On Certainty*](https://en.wikipedia.org/wiki/On_Certainty) (1969, posthumous) — hinge propositions: certainties that function as the framework within which doubt is possible
 
 ---
 

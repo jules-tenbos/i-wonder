@@ -4,6 +4,7 @@ title: "Am I a Libertarian?"
 date: 2026-08-16
 labels: [preamble,philosophy, thought]
 status: final review
+words: 593
 ---
 <img src="https://images.unsplash.com/photo-1763079163086-fd758f86f831?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Liberty"/>
 

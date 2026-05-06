@@ -4,6 +4,7 @@ title: "Oakeshott"
 date: 2026-10-24
 labels: [positioning, philosophy]
 status: storyline
+words: 60
 ---
 
 Positioning post. Non-SPLectrum voice, outside voice.

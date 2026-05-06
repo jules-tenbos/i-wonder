@@ -5,6 +5,7 @@ date: 2026-05-08
 labels: [seed, philosophy, SPLectrum]
 description: "Walking through the six seed principles — being, language, subject, shared reality, interrelation and complexity. The foundation stress-tested."
 status: ready
+words: 1282
 vocabulary: /vocabulary/site/home/blog/splectrum-and-first-principles/
 ---
 <img src="https://images.unsplash.com/photo-1736348877782-fa7ae2a9bd69?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="First principles" />
@@ -39,7 +40,7 @@ Languages are living things — in fertile ground they will grow and multiply. T
 
 A lot said, not all explained. This is just the beginning.
 
-<small>This post is part of the [seed series](/blog/label/seed). More on the seed in the <a href="/seed">seed area of the reference library</a>.</small>
+<small>This post is part of the [seed series](/blog/label/seed). More on the seed in the <a href="/seed">seed section of the reference library</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@funen99">Funen99</a> / Unsplash</small>

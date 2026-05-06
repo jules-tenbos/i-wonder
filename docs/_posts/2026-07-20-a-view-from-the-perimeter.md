@@ -4,6 +4,7 @@ title: "A View from the Perimeter"
 date: 2026-07-20
 labels: [discovery, science, SPLectrum]
 status: Mandatory review
+words: 653
 ---
 <img src="https://images.unsplash.com/photo-1559523527-b05d4e6775f8?q=80&w=350&h=230&auto=format&fit=crop" alt="A View from the Perimeter" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
@@ -19,7 +20,7 @@ The discontinuities are not breaks. They are thresholds. [Decoherence](https://e
 
 Science, industry, technology, the information society — the same pattern continuing. Each one another threshold in interaction density. Science: systematic interaction with reality producing shared knowledge — P3 at scale. Industry: mechanised interaction with material reality. The information society: interaction freed from presence, time, distance. Not a human achievement story. The same curve, the same pattern, happening to pass through where we stand. If the pattern holds in the physical, a question remains: what does it look like from the thinking side?
 
-<small>This post is part of the [discovery series](/blog/label/discovery). More in the <a href="/reality/">reality area of the reference library</a>.</small>
+<small>This post is part of the [discovery series](/blog/label/discovery). More in the <a href="/reality/">reality section of the reference library</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@jaydenyoonzk">Jayden Yoon ZK</a> / Unsplash</small>

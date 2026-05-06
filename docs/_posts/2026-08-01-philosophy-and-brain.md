@@ -4,6 +4,7 @@ title: "Philosophy and the Brain"
 date: 2026-08-01
 labels: [preamble,philosophy, thought]
 status: final review
+words: 510
 ---
 <img src="https://images.unsplash.com/photo-1620028193494-671878b176b7?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Brain"/>
 

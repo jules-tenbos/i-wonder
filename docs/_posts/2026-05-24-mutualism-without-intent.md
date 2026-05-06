@@ -4,6 +4,7 @@ title: "Mutualism Without Intent"
 date: 2026-05-24
 labels: [positioning, SPLectrum, comment]
 status: Mandatory review
+words: 856
 ---
 <img src="https://images.unsplash.com/photo-1612142739712-bee0e474ed06?q=80&w=350&h=230&auto=format&fit=crop" alt="Mutualism Without Intent" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
@@ -25,7 +26,7 @@ And the practical consequence is quieter than the rhetoric suggests. The shift i
 
 Mutualism as a coloured view is not a very helpful narrative. The patterns it describes are real — they are everywhere in living systems and they will be everywhere in the systems we build. But the ethical language draped over them obscures more than it reveals. The case for decentralisation does not rest on cooperation as a value. It rests on the structure of reality: subjects with their experiences, interrelation, equal standing, and the patterns that emerge from those conditions. Every shared experience is already peer-to-peer. The rest is emergence.
 
-<small>This post is part of the [positioning series](/blog/label/positioning). More on positioning in the <a href="/positioning/">positioning area of the reference library</a>.</small>
+<small>This post is part of the [positioning series](/blog/label/positioning). More on positioning in the <a href="/positioning/">positioning section of the reference library</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@bekkybekks">Bekky Bekks</a> / Unsplash</small>

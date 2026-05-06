@@ -4,6 +4,7 @@ title: "Decentralised Process Models"
 date: 2026-07-04
 labels: [positioning, HAICC, neuroscience]
 status: Mandatory review
+words: 664
 ---
 <img src="https://images.unsplash.com/photo-1664447990726-355422d41054?q=80&w=350&h=230&auto=format&fit=crop" alt="Decentralised Process Models" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
@@ -35,7 +36,7 @@ These are the directions HAICC wants to explore. How processes embed in the fabr
 
 The brain doesn't orchestrate. Neither does the fabric.
 
-<small>This post is part of the [positioning series](/blog/label/positioning). More in the <a href="/engineering/">engineering section of the reference library</a>.</small>
+<small>This post is part of the [positioning series](/blog/label/positioning). See also <a href="/engineering/">Engineering</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@googledeepmind">Google DeepMind</a> / Unsplash</small>

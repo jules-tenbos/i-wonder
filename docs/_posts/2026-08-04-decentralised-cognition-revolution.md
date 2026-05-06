@@ -5,6 +5,7 @@ date: 2026-08-04
 published: false
 labels: [HAICC, thought]
 status: Mandatory review
+words: 599
 ---
 <img src="https://images.unsplash.com/photo-1650648065204-0b8d52b18447?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="The Decentralised Cognition Revolution" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
@@ -30,7 +31,7 @@ Evolution has always been revelationary — bringing out new ways of life, new l
 
 The Decentralised Cognition Revolution. That's the name I find myself using. Not the cognitive revolution, becoming aware of our capability of abstract thinking, or the cognition revolution - there is nothing new there. The awareness of decentralisation, putting it everywhere, being aware it is everywhere. Exciting times ahead!
 
-<small>More on HAICC — Human-AI Creative Collaboration — in the <a href="/engineering/">engineering area of the reference library</a>.</small>
+<small>More on HAICC — Human-AI Creative Collaboration — in the <a href="/engineering/">engineering section of the reference library</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@stbuccia">stbuccia</a> / Unsplash</small>

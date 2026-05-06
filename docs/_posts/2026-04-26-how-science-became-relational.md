@@ -5,6 +5,7 @@ date: 2026-04-26
 labels: [positioning, science]
 description: "From Newton's clockwork to quantum uncertainty — how physics moved from the outside observer to the participant, and left an open question."
 status: ready
+words: 993
 vocabulary: /vocabulary/site/home/blog/how-science-became-relational/
 ---
 <img src="https://images.unsplash.com/photo-1641143215652-971a31701a89?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Light and physics" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
@@ -39,7 +40,7 @@ The strangeness didn't stay theoretical. Bell's theorem showed that quantum corr
 
 The result is a split that defines modern physics. On one side, spectacular success — atomic spectra, semiconductors, lasers, nuclear physics, three of the four fundamental forces unified within quantum field theory. On the other, an impasse — no agreed picture of reality, no resolution of the observer's role, and gravity still outside the quantum framework. The most productive theory in history, and no worldview to go with it.
 
-<small>This post is part of the [positioning series](/blog/label/positioning). More in the <a href="/positioning/seed/the-turn-in-science">scientific positioning</a> of the reference library.</small>
+<small>This post is part of the [positioning series](/blog/label/positioning). See also <a href="/positioning/seed/the-turn-in-science">The Turn in Science</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@grianghraf">Grianghraf</a> / Unsplash</small>

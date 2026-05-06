@@ -5,6 +5,7 @@ date: 2026-05-01
 labels: [positioning, science]
 description: "Relational quantum mechanics drops the privileged observer — properties arise through interaction, shared reality produced by decoherence."
 status: ready
+words: 1549
 ---
 <img src="https://images.unsplash.com/photo-1729119578993-21bcc7a04314?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Quantum" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
@@ -52,7 +53,7 @@ This is not a philosophical position imposed on the physics. It is what the phys
 
 This view of reality, anchored in physics, is very much what SPLectrum wants to adopt into the vocabulary that is being built from the seed.
 
-<small>This post is part of the [positioning series](/blog/label/positioning). More in the <a href="/positioning/seed/the-turn-in-science">scientific positioning</a> of the reference library.</small>
+<small>This post is part of the [positioning series](/blog/label/positioning). See also <a href="/positioning/seed/the-turn-in-science">The Turn in Science</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@whisperingshiba">Whispering Shiba</a> / Unsplash</small>

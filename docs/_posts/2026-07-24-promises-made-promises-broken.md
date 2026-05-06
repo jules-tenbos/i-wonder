@@ -4,6 +4,7 @@ title: "Promises Made, Promises Broken"
 date: 2026-07-24
 labels: [preamble,thought]
 status: final review
+words: 461
 ---
 <img src="https://images.unsplash.com/photo-1505228395891-9a51e7e86bf6?q=80&w=350&h=230&auto=format&fit=crop" alt="Promises Made, Promises Broken" />
 

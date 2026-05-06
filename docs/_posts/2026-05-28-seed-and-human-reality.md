@@ -4,6 +4,7 @@ title: The Seed and Human Reality
 date: 2026-05-28
 labels: [seed, philosophy, SPLectrum]
 status: Mandatory review
+words: 542
 ---
 <img src="https://images.unsplash.com/photo-1569292567777-e5d61a759322?q=80&w=350&h=230&auto=format&fit=crop" alt="The Seed and Human Reality" />
 
@@ -21,7 +22,7 @@ Now the shared space. It follows from P2 that we never interact directly. Think 
 
 But what happens *between* us when subjects meet? The seed gives the structural fact — we don't interact directly. What that leaves room for is the next move.
 
-<small>This post is part of the [seed series](/blog/label/seed). More in the <a href="/seed/human-reality">seed and human reality</a> of the reference library.</small>
+<small>This post is part of the [seed series](/blog/label/seed). See also <a href="/seed/human-reality">The seed and Human Reality</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@joelmott">Joel Mott</a> / Unsplash</small>

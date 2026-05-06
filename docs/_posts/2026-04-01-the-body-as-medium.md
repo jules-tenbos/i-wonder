@@ -5,6 +5,7 @@ date: 2026-04-01
 labels: [positioning, philosophy, Merleau-Ponty]
 description: "Merleau-Ponty put experience back in the body — perception is not passive intake but active engagement. Meaning begins in gesture, not in thought."
 status: ready
+words: 694
 ---
 <img src="https://images.unsplash.com/photo-1506869640319-fe1a24fd76dc?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Friends connecting over shared experience"/>
 
@@ -28,7 +29,7 @@ Merleau-Ponty died three years later, in 1961. The full impact of the later Witt
 
 Next up: we step back and look at the turn as a whole — from Kant to the present.
 
-<small>This post is part of the [positioning series](/blog/label/positioning). More in the <a href="/positioning/seed/the-turn-in-western-philosophy">philosophical trajectory</a> of the reference library.</small>
+<small>This post is part of the [positioning series](/blog/label/positioning). See also <a href="/positioning/seed/the-turn-in-western-philosophy">The Turn in Western Philosophy</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@iamchang">Chang Duong</a> / Unsplash</small>

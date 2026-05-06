@@ -4,6 +4,7 @@ title: "Evolution and the Brain"
 date: 2026-08-08
 labels: [science, thought]
 status: final review
+words: 564
 ---
 <img src="https://images.unsplash.com/flagged/photo-1552863473-6e5ffe5e052f?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Evolution"/>
 
@@ -19,7 +20,7 @@ In recent millennia, cultural evolution has accelerated dramatically. Writing, p
 
 None of this is a road to guaranteed paradise. The brain is old, it is powerful, and it is also a device that will cheerfully confirm your own biases for you all day long. But the combination of a brain that reconfigures itself in response to use, a culture that now accumulates knowledge at an unprecedented rate, and tools that can extend the thinking further still — that is a journey worth taking seriously. I am ready for it, excited to see how much of the shape of our future is still open.
 
-<small>This post is from an earlier moment in the walk (03/12/2024). For how this connects to the wider picture of evolutionary transitions, see <a href="/reality/evolution/">reality / evolution</a> in the reference library.</small>
+<small>This post is from an earlier moment in the walk (03/12/2024). For how this connects to the wider picture of evolutionary transitions, see <a href="/reality/evolution/">Evolution</a>.</small>
 
 <small>This post is part of the [preamble](/blog/label/preamble), about happening before SPLectrum saw the light of day.</small>
 

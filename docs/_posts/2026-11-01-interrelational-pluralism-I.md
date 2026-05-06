@@ -4,6 +4,7 @@ title: "Interrelational Pluralism I"
 date: 2026-11-01
 labels: [seed, philosophy, SPLectrum]
 status: storyline
+words: 61
 ---
 
 First synthesis post. SPLectrum voice.

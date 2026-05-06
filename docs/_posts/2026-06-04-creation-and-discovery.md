@@ -4,6 +4,7 @@ title: "Creation and Discovery"
 date: 2026-06-04
 labels: [discovery, philosophy, SPLectrum]
 status: Mandatory review
+words: 525
 ---
 <img src="https://images.unsplash.com/photo-1559523527-b05d4e6775f8?q=80&w=350&h=230&auto=format&fit=crop" alt="Creation and Discovery" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
@@ -17,7 +18,7 @@ The observation is not new. [Whitehead's](https://plato.stanford.edu/entries/whi
 
 A plectrum discovers a note. The note was always available. The discovery is the creation of music. The spectrum of available notes was always there — the plectrum explores it. Different plectrums, different explorations, different music. Same spectrum. SPLectrum: the full range of what is available, explored through the act of contact. The name already contains the argument. And if creation conforms to discovery, a question follows: what does that mean for how we organise it?
 
-<small>This post is part of the [discovery series](/blog/label/discovery). More in the <a href="/seed">seed area of the reference library</a>.</small>
+<small>This post is part of the [discovery series](/blog/label/discovery). More in the <a href="/seed">seed section of the reference library</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@jaydenyoonzk">Jayden Yoon ZK</a> / Unsplash</small>

@@ -4,6 +4,7 @@ title: "The Seed and Language"
 date: 2026-05-16
 labels: [seed, philosophy]
 status: storyline
+words: 40
 ---
 
 Storyline points:

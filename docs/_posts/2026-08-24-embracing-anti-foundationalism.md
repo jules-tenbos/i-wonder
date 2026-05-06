@@ -4,6 +4,7 @@ title: "Embracing Anti-Foundationalism"
 date: 2026-08-24
 labels: [preamble, philosophy, comment]
 status: final review
+words: 653
 ---
 <img src="https://images.unsplash.com/photo-1610079732288-72a77bd816c9?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Foundation"/>
 
@@ -33,7 +34,7 @@ Webs. Not foundations, not pyramids, not a chain of reasons going back to someth
 
 Anti-foundationalism was the word I took away. For what it opened up, I was still to find out.
 
-<small>This post is from an earlier moment in the walk. For where the relational reading sits now, see the <a href="/reality/">reality area of the reference library</a>.</small>
+<small>This post is from an earlier moment in the walk. For where the relational reading sits now, see the <a href="/reality/">reality section of the reference library</a>.</small>
 
 <small>This post is part of the [preamble](/blog/label/preamble), about happening before SPLectrum saw the light of day.</small>
 

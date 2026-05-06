@@ -5,6 +5,7 @@ date: 2026-03-07
 labels: [seed, philosophy, SPLectrum]
 description: "SPLectrum is born, a philosophy grown from seed — six principles on the creation and dynamics of language, subjects and relation."
 status: ready
+words: 589
 ---
 <img src="https://images.unsplash.com/photo-1613502719426-cba8fcd9e51c?q=80&w=300&h=320&auto=format&fit=crop&crop=top" alt="Mycelium threads branching through soil"/>
 
@@ -36,11 +37,11 @@ Don't think that the seed came to me as some declaration from above. Yes — rel
 
 I mentioned a detour into software engineering and collaborative AI. I have to give credit where credit is due: nowadays AI is my full-time partner in crime. It is my alter ego in fact. It is doing so much legwork, leaving me the freedom to think and explore ideas. Which greatly helped the arrival of the seed, no doubt there. Six lines — in a nutshell a foundation principle — to structure my explorations going forward.
 
-Now, where will the seed take us? How will it be unpacked? Are there some more examples of what I mean with language? How far can it be stretched? Expect a long journey, it will be from philosophy into engineering, from science into arts, from [Relational QM](https://en.wikipedia.org/wiki/Relational_quantum_mechanics) all the way to the Bee Dance and beyond. However, don't expect a theory of everything explaining all. Just the opposite. It makes the case that nobody knows all, but everyone knows something and we should respect that. Don't impose and tell others what to think, how to behave. Be yourself, but also listen to what others have to say.
+Now, where will the seed take us? How will it be unpacked? Are there some more examples of what I mean with language? How far can it be stretched? Expect a long journey, it will be from philosophy into engineering, from science into arts, from Relational QM all the way to the Bee Dance and beyond. However, don't expect a theory of everything explaining all. Just the opposite. It makes the case that nobody knows all, but everyone knows something and we should respect that. Don't impose and tell others what to think, how to behave. Be yourself, but also listen to what others have to say.
 
 I wonder where this goes.
 
-<small>This post is part of the [seed series](/blog/label/seed). More on the seed in the <a href="/seed">seed area of the reference library</a>.</small>
+<small>This post is part of the [seed series](/blog/label/seed). More on the seed in the <a href="/seed">seed section of the site</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@landonparenteau">Landon Parenteau</a> / Unsplash</small>
