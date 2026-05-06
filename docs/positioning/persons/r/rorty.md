@@ -6,7 +6,7 @@ description: "Rorty abandoned the mirror of nature for conversation — knowledg
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Rorty
 
-# Rorty
+# Richard Rorty (1931–2007)
 
 [Richard Rorty](https://plato.stanford.edu/entries/rorty/) (1931–2007). Philosopher who abandoned the idea that philosophy mirrors reality. Trained in analytic philosophy (Chicago, Yale PhD), he began as a respectable analytic philosopher of mind — then published *Philosophy and the Mirror of Nature* (1979) and effectively burned his bridges with the analytic establishment. He moved from Princeton's philosophy department to Virginia's humanities programme, and later to Stanford's comparative literature department — a disciplinary migration that reflected his conviction that philosophy belongs in the conversation of the humanities, not above it. Attacked from both sides — analytic philosophers accused him of irrationalism, Habermasians argued he gave up too much by abandoning truth — he remained one of the most debated philosophers of his generation. Drawing on Wittgenstein, Heidegger, and Dewey, Rorty argued that knowledge is not a matter of accurate representation but of what a community finds useful to say.
 
