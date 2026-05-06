@@ -1,11 +1,14 @@
 ---
 layout: default
-title: "Habermas"
+title: "Jürgen Habermas (1929–2025)"
+description: "Habermas relocated rationality from the individual to the space between subjects — communicative action, discourse ethics, the public sphere."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Habermas
 
-# Habermas
+# Jürgen Habermas (1929–2025)
+
+Habermas matters to SPLectrum because he placed rationality in the space between subjects — not in the individual mind, not in an outside reality, but in communication itself. That is close to the [seed](/seed/)'s P3: language is where subjects share knowledge about reality. His discourse ethics — norms valid only if accepted by all affected — resonates with P4's equal standing. And his diagnosis of system colonising lifeworld speaks to SPLectrum's concern with pathological sharing, where the relational is captured by centralised structures. But Habermas and [Rorty](/positioning/persons/r/rorty) famously disagreed: Habermas thought you need universal standards to ground communication; Rorty thought the conversation is all you get. SPLectrum sits between them — no universal standards, but language has structure (P1), and that structure can be made explicit.
 
 [Jürgen Habermas](https://plato.stanford.edu/entries/habermas/) (1929–2025). Philosopher, social theorist, and one of the most prominent public intellectuals in post-war Europe. Assistant to Adorno at the Frankfurt Institute for Social Research, he became the central figure of the second generation of critical theory. Where his predecessors — Horkheimer and Adorno — saw reason as irredeemably instrumental, Habermas argued that a different kind of reason was available: communicative, intersubjective, grounded in the structures of language use. He relocated rationality from the individual subject to the space between subjects.
 
@@ -25,14 +28,20 @@ title: "Habermas"
 
 ---
 
-## Key works
+## Where Habermas stops
 
-- *The Structural Transformation of the Public Sphere* (1962) — the rise and decline of public discourse
-- *Knowledge and Human Interests* (1968) — three types of knowledge-constitutive interests: technical, practical, emancipatory
-- *The Theory of Communicative Action* (1981) — communicative vs strategic rationality, lifeworld and system
-- *Moral Consciousness and Communicative Action* (1983) — discourse ethics
-- *Between Facts and Norms* (1992) — law, democracy, and the discourse principle
+Habermas grounded communication in universal validity claims — truth, rightness, sincerity — that every speaker implicitly raises. This gives communication structure, but it also smuggles in the outside view: there is a standard (the ideal speech situation) against which all actual conversation falls short. SPLectrum's seed refuses this move. There is no ideal speech situation — there are languages, each with its own grammar and standing (P4), and the convergence happens at the grassroots, not against a transcendental standard. Habermas also kept the subject rational and linguistic in the narrow sense — the body, the pre-linguistic, the lived experience that [Merleau-Ponty](/positioning/persons/m/merleau-ponty) and [Heidegger](/positioning/persons/h/heidegger) made central, play no structural role in his account. SPLectrum's P2 — language as the medium through which a subject *experiences* reality — needs the body back in.
 
 ---
 
-See also: [The seed and Philosophy](/seed/philosophical)
+## Key works
+
+- [*The Structural Transformation of the Public Sphere*](https://en.wikipedia.org/wiki/The_Structural_Transformation_of_the_Public_Sphere) (1962) — the rise and decline of public discourse
+- [*Knowledge and Human Interests*](https://en.wikipedia.org/wiki/Knowledge_and_Human_Interests) (1968) — three types of knowledge-constitutive interests: technical, practical, emancipatory
+- [*The Theory of Communicative Action*](https://en.wikipedia.org/wiki/The_Theory_of_Communicative_Action) (1981) — communicative vs strategic rationality, lifeworld and system
+- *Moral Consciousness and Communicative Action* (1983) — discourse ethics
+- [*Between Facts and Norms*](https://en.wikipedia.org/wiki/Between_Facts_and_Norms) (1992) — law, democracy, and the discourse principle
+
+---
+
+See also: [The seed and Philosophy](/seed/philosophical) · [The seed, Privacy and Decentralisation](/seed/privacy-and-decentralisation)

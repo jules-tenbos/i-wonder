@@ -1,11 +1,14 @@
 ---
 layout: default
-title: "Robert Sapolsky"
+title: "Robert Sapolsky (1957–)"
+description: "Sapolsky traces behaviour across every layer — genes, hormones, brain, development, culture, evolution. No layer is privileged, no layer is sufficient alone."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Sapolsky
 
-# Robert Sapolsky
+# Robert Sapolsky (1957–)
+
+Sapolsky matters to SPLectrum because his multi-layer method is P5 in practice: complexity built through layers, each with its own language, none reducible to another. His insistence that no single layer explains behaviour — not genes, not hormones, not culture alone — resonates with P4: languages have equal standing, no meta-explanation ranks from above. The Forest Troop baboons — where a culture outlasted the individuals who created it — is a vivid example of P3: shared reality constituted at the grassroots, persisting through the medium of social interaction. And his integrative stance, refusing to privilege any one layer, connects to SPLectrum's refusal of the outside view (P2): understanding behaviour means inhabiting all the layers simultaneously, not stepping outside to a single vantage point. Sapolsky works from science where SPLectrum works from philosophy, but the structural parallels are striking.
 
 [Robert Sapolsky](https://en.wikipedia.org/wiki/Robert_Sapolsky) (1957–). Neuroendocrinologist, primatologist, and science writer. John A. and Cynthia Fry Gunn Professor at Stanford, with joint appointments in Biological Sciences, Neurology & Neurological Sciences, and Neurosurgery. MacArthur Fellowship, 1987.
 
@@ -25,10 +28,20 @@ Sapolsky's work traces human behaviour across every layer that shapes it — gen
 
 ---
 
+## Where Sapolsky stops
+
+Sapolsky's layers are biological, developmental, evolutionary, cultural — but not linguistic. How each layer constitutes its own language, how those languages interrelate (P4), how the medium of each layer shapes what can be expressed within it — these are not his questions. His multi-layer explanation is descriptive: here is what each layer contributes. SPLectrum's [seed](/seed/) asks the structural question: how do the layers relate *as languages*? And his challenge to free will — every decision is the output of prior causes — stays within the causal frame. SPLectrum's P0 (being implies language) suggests a different framing: the organism is not just caused but constituted through its relational medium. The question is not whether we are free but what kind of language game "freedom" belongs to.
+
+---
+
 ## Key works
 
-- *Why Zebras Don't Get Ulcers* (1994, updated 2004) — the physiology of stress, chronic activation, and its consequences
-- *A Primate's Memoir* (2002) — fieldwork with baboons in Kenya, science as narrative
-- *Behave: The Biology of Humans at Our Best and Worst* (2017) — the multi-layer explanation applied to aggression, compassion, and everything between
-- *Determined: A Science of Life Without Free Will* (2023) — the case against free will from neuroscience and biology
+- [*Why Zebras Don't Get Ulcers*](https://en.wikipedia.org/wiki/Why_Zebras_Don%27t_Get_Ulcers) (1994, updated 2004) — the physiology of stress, chronic activation, and its consequences
+- [*A Primate's Memoir*](https://en.wikipedia.org/wiki/A_Primate%27s_Memoir) (2002) — fieldwork with baboons in Kenya, science as narrative
+- [*Behave*](https://en.wikipedia.org/wiki/Behave_(book)) (2017) — the multi-layer explanation applied to aggression, compassion, and everything between
+- [*Determined*](https://en.wikipedia.org/wiki/Determined:_A_Science_of_Life_Without_Free_Will) (2023) — the case against free will from neuroscience and biology
 - [Human Behavioural Biology](human-behavioural-biology) — Stanford lecture series (full course, 25 lectures)
+
+---
+
+See also: [The seed and Philosophy](/seed/philosophical) · [The seed and Human Reality](/seed/human-reality)

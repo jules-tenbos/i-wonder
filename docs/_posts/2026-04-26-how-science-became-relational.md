@@ -5,16 +5,16 @@ date: 2026-04-26
 labels: [positioning, science]
 description: "From Newton's clockwork to quantum uncertainty — how physics moved from the outside observer to the participant, and left an open question."
 status: ready
-words: 993
+words: 929
 vocabulary: /vocabulary/site/home/blog/how-science-became-relational/
 ---
 <img src="https://images.unsplash.com/photo-1641143215652-971a31701a89?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Light and physics" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
-Where the turn in Western philosophy is attributed to Kant with Descartes firing the starting shot, the start of the scientific revolution is associated with Copernicus, who moved from an earth-centric to a sun-centric view. It can be argued that Descartes' contribution is at least as important — the mind-body split created a mechanistic world that was 'written in the language of mathematics' to put it in the words of Galileo. No need for purpose or intent, no stones falling because they seek their natural place. The mind-body split freed science to treat the physical world as pure mechanism — no teleology, no hidden intentions, no souls in stones.
+Where the turn in Western philosophy is attributed to [Kant](/positioning/persons/k/kant) with [Descartes](/positioning/persons/d/descartes) firing the starting shot, the start of the scientific revolution is associated with Copernicus, who moved from an earth-centric to a sun-centric view. It can be argued that [Descartes](/positioning/persons/d/descartes)' contribution is at least as important — the mind-body split created a mechanistic world that was 'written in the language of mathematics' to put it in the words of Galileo. No need for purpose or intent, no stones falling because they seek their natural place. The mind-body split freed science to treat the physical world as pure mechanism — no teleology, no hidden intentions, no souls in stones.
 
 Newton gave this approach its mechanics. Unifying celestial and earthly gravity. Working with particles with definite positions and velocities caused by forces acting between them. Laws that are deterministic, universal. The same everywhere and at every scale. A worldview in absolute space with absolute time. In short, a fully deterministic picture of reality.
 
-There was the contrasting view of <a href="https://plato.stanford.edu/entries/leibniz/">Leibniz</a>, who rejected absolute space entirely. In his opinion space is not a container, but the ordering of things that coexist. No space without things. But without a mathematical theory, this relational view remained scientifically inert. It would take another 200 years for the tools to become available.
+There was the contrasting view of [Leibniz](/positioning/persons/l/leibniz), who rejected absolute space entirely. In his opinion space is not a container, but the ordering of things that coexist. No space without things. But without a mathematical theory, this relational view remained scientifically inert. It would take another 200 years for the tools to become available.
 
 In the meantime, classical mechanics grew into a rich mathematical framework. Over two centuries Euler, Lagrange, Fourier, Hamilton and many others extended Newton's toolbox. The approach was spectacularly productive. But it was Laplace that brought the worldview to its logical endpoint — an intellect that knows all positions and forces at one instant could calculate everything, past and future. The clockwork universe.
 
@@ -28,13 +28,13 @@ Einstein took this further with the photoelectric effect: light itself comes in 
 
 But the wave nature brought a consequence nobody expected. Heisenberg showed that position and momentum cannot both be definite at the same time — not a limit of instruments, a feature of nature. A wave with a precise frequency is spread out over all of space; a wave localised in space is a mixture of many frequencies. Once particles are waves, this trade-off is unavoidable. Some properties don't have definite values until measured.
 
-And what the waves describe became the next question. Born's interpretation: the wave function gives probabilities, not certainties. Schrödinger thought he was describing a real wave; Born read it as a probability amplitude. The equation is deterministic; what it describes is probabilistic. Classical mechanics tells you what *is* there. Quantum mechanics tells you what *could* be there if you look.
+And what the waves describe became the next question. Schrödinger thought he was describing a real wave; Born read it as a probability amplitude, not certainties. The equation is deterministic; what it describes is probabilistic. Classical mechanics tells you what *is* there. Quantum mechanics tells you what *could* be there if you look.
 
-The success of QM was thanks to the impressive results it yielded. But as a theory that works it created at the same time a big interpretative nightmare: a lack of a satisfactory worldview. This persisted for decades, not in a small part because the debate fell into entrenched camps.
+The success of QM was thanks to the impressive results it yielded. But at the same time it created a big interpretative nightmare: a lack of a satisfactory worldview, which persisted for decades.
 
 What is the wave function — a real physical thing, or a tool for calculating probabilities? What happens when you measure — does the wave function collapse, and if so, how? Why do measurements produce definite outcomes when the equations describe superpositions? Bohr and Heisenberg offered complementarity as a response. Einstein rejected the underlying randomness — *"God does not play dice."* Bohm proposed hidden variables. Everett proposed that all outcomes happen in branching worlds. No consensus emerged. None has emerged since. "Shut up and calculate."
 
-At the heart of every interpretation is the same question: what is the role of the observer? Is it a privileged role? In classical physics, the observer stands outside the system and reads off its properties - privileged. In quantum mechanics, that picture is broken. Measurement enters the description of the system. The choice of what to measure shapes which properties manifest themselves. The description depends on who is doing the describing. The observer is no longer outside the physics. The observer is part of it. What about the privileged role?
+At the heart of every interpretation: what is the role of the observer? Is it a privileged role? In classical physics, the observer stands outside the system and reads off its properties - privileged. In quantum mechanics the observer stands inside, is part of the system. What about the privileged role?
 
 The strangeness didn't stay theoretical. Bell's theorem showed that quantum correlations violate any classical explanation — and Aspect's experiments confirmed it. He shared the 2022 Nobel Prize with Clauser and Zeilinger. The questions about what QM means are not just philosophy. They are experimentally real. The whole is not the sum of the parts. Separability fails.
 

@@ -1,13 +1,16 @@
 ---
 layout: default
-title: "Fichte"
+title: "Johann Gottlieb Fichte (1762–1814)"
+description: "Fichte made self-positing the starting point — the I posits itself and its other, being begins with differentiation, the ground is an act not a substance."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Fichte
 
-# Fichte
+# Johann Gottlieb Fichte (1762–1814)
 
-[Johann Gottlieb Fichte](https://plato.stanford.edu/entries/johann-fichte/) (1762–1814). The philosopher who made self-positing the starting point of philosophy. Kant's immediate successor — he held Kant's chair at Jena and became the bridge between critical philosophy and what would become German idealism through Schelling and Hegel. Where Kant left the thing-in-itself as an unknowable beyond, Fichte eliminated it — there is no being apart from the act that posits it. The *I* posits itself, and in doing so posits the *not-I* as its necessary counterpart. Being begins with differentiation.
+Fichte matters to SPLectrum because he made differentiation the origin of being. The I posits itself by positing what it is not — being begins with an act of distinction, not with a substance. This is the philosophical move that the [seed](/seed/)'s P0 echoes: being implies language, and language is what holds the difference between being and the other. Fichte's not-I is the seed's "other." His striving — the I encountering resistance and expanding through it — prefigures the dynamic character of language in SPLectrum: relational (P1), growing (P5), never complete. He stands at the origin of [German idealism](/positioning/subjects/g/german-idealism), bridging [Kant](/positioning/persons/k/kant)'s critical philosophy and [Hegel](/positioning/persons/h/hegel)'s dialectic.
+
+[Johann Gottlieb Fichte](https://plato.stanford.edu/entries/johann-fichte/) (1762–1814). The philosopher who made self-positing the starting point of philosophy. [Kant](/positioning/persons/k/kant)'s immediate successor — he held Kant's chair at Jena and became the bridge between critical philosophy and what would become [German idealism](/positioning/subjects/g/german-idealism) through Schelling and [Hegel](/positioning/persons/h/hegel). Where [Kant](/positioning/persons/k/kant) left the thing-in-itself as an unknowable beyond, Fichte eliminated it — there is no being apart from the act that posits it. The *I* posits itself, and in doing so posits the *not-I* as its necessary counterpart. Being begins with differentiation.
 
 ---
 
@@ -25,12 +28,18 @@ title: "Fichte"
 
 ---
 
+## Where Fichte stops
+
+Fichte made being dynamic — an act, not a substance. But the act is the I's act, and the I is absolute. The not-I exists only as posited by the I; the world is ultimately the I's self-limitation. This is idealism in its purest form: everything is grounded in subjectivity. SPLectrum's seed starts from a similar place — being and the other arising together through differentiation (P0) — but refuses the priority. There is no absolute I; being and the other are co-constitutive, neither prior. And the relational (P1) is not the I striving against its limit but the medium in which both exist. [Hegel](/positioning/persons/h/hegel) historicised what Fichte left static; SPLectrum pluralises what Hegel left singular.
+
+---
+
 ## Key works
 
-- *Foundations of the Entire Wissenschaftslehre* (1794/95) — the self-positing I, the not-I, the triadic foundation
-- *The Vocation of Man* (1800) — from doubt through knowledge to faith; the practical consequence
+- [*Foundations of the Entire Wissenschaftslehre*](https://en.wikipedia.org/wiki/Wissenschaftslehre) (1794/95) — the self-positing I, the not-I, the triadic foundation
+- [*The Vocation of Man*](https://en.wikipedia.org/wiki/The_Vocation_of_Man) (1800) — from doubt through knowledge to faith; the practical consequence
 - *Addresses to the German Nation* (1808) — education and national identity (controversial, later appropriated)
 
 ---
 
-See also: [The seed and Philosophy](/seed/philosophical) · [Being as Tension](/positioning/seed/being-as-tension)
+See also: [German idealism](/positioning/subjects/g/german-idealism) · [The seed and Philosophy](/seed/philosophical) · [Being as Tension](/positioning/seed/being-as-tension)

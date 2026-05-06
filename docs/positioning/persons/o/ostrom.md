@@ -1,11 +1,14 @@
 ---
 layout: default
-title: "Ostrom"
+title: "Elinor Ostrom (1933–2012)"
+description: "Ostrom showed that communities govern shared resources from within — polycentric, self-organised, no tragedy inevitable."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Ostrom
 
-# Ostrom
+# Elinor Ostrom (1933–2012)
+
+Ostrom matters to SPLectrum because she demonstrated in practice what the [seed](/seed/) states in principle: shared reality is constituted from the grassroots, not imposed from above. Her commons governance — communities self-organising to manage shared resources through communication, trust and locally adapted rules — is P3 in action: subjects sharing knowledge about reality and constituting it together. Her polycentric governance — multiple overlapping centres, no single hierarchy — resonates with P4: equal standing, no meta-authority ranking from outside. And her insistence on institutional diversity — no single best way, the answer is always local — connects to SPLectrum's refusal of the one-size-fits-all vocabulary. Where philosophers argued about pluralism, Ostrom went to the communities and documented it.
 
 [Elinor Ostrom](https://en.wikipedia.org/wiki/Elinor_Ostrom) (1933–2012). Political scientist who demonstrated that communities can and do govern shared resources without either privatisation or state control. Based at Indiana University, Bloomington, she co-founded the Workshop in Political Theory and Policy Analysis with her husband Vincent Ostrom in 1973 — a deliberately interdisciplinary, collaborative research environment whose institutional form reflected the polycentric governance she studied. The first woman to win the Nobel Prize in Economics (2009) — and a political scientist, not an economist, which was itself a statement about disciplinary boundaries. Her method was distinctive: comparative case study across hundreds of real-world commons (fisheries, forests, irrigation systems, pastures), combined with game-theoretic experiments in the lab. She didn't theorise from armchairs; she went to the communities.
 
@@ -25,13 +28,19 @@ title: "Ostrom"
 
 ---
 
+## Where Ostrom stops
+
+Ostrom showed that communities self-govern — but her analysis stays at the institutional level. How the shared understanding emerges, how the language of the community constitutes its reality, how the rules express a form of life — these are not her questions. Her design principles describe the conditions for successful governance, not the linguistic medium through which governance happens. SPLectrum's seed picks up where Ostrom's institutions meet language: the rules, the vocabulary, the shared concepts are themselves languages (P1), constituted through sharing (P3), interrelating with other institutional languages (P4). Ostrom documented the garden; SPLectrum asks what the soil is made of.
+
+---
+
 ## Key works
 
-- *Governing the Commons: The Evolution of Institutions for Collective Action* (1990) — the fieldwork, the design principles, the critique of the tragedy narrative
+- [*Governing the Commons*](https://en.wikipedia.org/wiki/Governing_the_Commons) (1990) — the fieldwork, the design principles, the critique of the tragedy narrative
 - *Rules, Games, and Common-Pool Resources* (1994, with Roy Gardner and James Walker) — formal models and experimental evidence
-- *Understanding Institutional Diversity* (2005) — the Institutional Analysis and Development framework
+- [*Understanding Institutional Diversity*](https://en.wikipedia.org/wiki/Understanding_Institutional_Diversity) (2005) — the Institutional Analysis and Development framework
 - *Working Together: Collective Action, the Commons, and Multiple Methods in Practice* (2010, with Amy Poteete and Marco Janssen) — methods for studying commons governance
 
 ---
 
-See also: [The seed, Privacy and Decentralisation](/seed/privacy-and-decentralisation)
+See also: [The seed and Philosophy](/seed/philosophical) · [The seed, Privacy and Decentralisation](/seed/privacy-and-decentralisation)

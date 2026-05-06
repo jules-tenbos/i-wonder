@@ -1,11 +1,14 @@
 ---
 layout: default
-title: "Nagel"
+title: "Thomas Nagel (1937–)"
+description: "Nagel insisted that subjective experience is real and irreducible — there is something it is like to be a conscious subject, and no objective account captures it."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Nagel
 
-# Nagel
+# Thomas Nagel (1937–)
+
+Nagel matters to SPLectrum because he made the strongest case from within analytic philosophy that subjective experience cannot be eliminated. "What is it like to be a bat?" is P2 as a question: the subject's experience is irreducible, inaccessible from outside, structurally first-person. His "view from nowhere" names exactly the standpoint the [seed](/seed/) denies — the outside view that P2 rules out. Where [Rorty](/positioning/persons/r/rorty) dissolved the view from nowhere by rejecting the question, Nagel took it seriously and showed that the tension between subjective and objective cannot be resolved by choosing one side. SPLectrum agrees with the diagnosis but draws a different conclusion: the answer is not to hold the tension but to recognise that language — relational (P1), lived (P2), shared (P3) — is the medium in which subjective and objective are already entangled.
 
 [Thomas Nagel](https://plato.stanford.edu/entries/nagel/) (1937–). University Professor (emeritus) at NYU, previously at Princeton. One of the most widely read analytic philosophers — accessible without being popularising. Working within the analytic tradition at a time when physicalism and functionalism dominated philosophy of mind, Nagel was the internal critic: he argued that the tradition had left out the most important thing. Subjective experience is real, irreducible, and inaccessible from outside. There is something it is *like* to be a conscious subject — and that something cannot be captured by any objective description.
 
@@ -27,14 +30,20 @@ title: "Nagel"
 
 ---
 
-## Key works
+## Where Nagel stops
 
-- *"What Is It Like to Be a Bat?"* (1974) — the essay that framed the problem
-- *Mortal Questions* (1979) — essays on death, the absurd, moral luck, and the subjective
-- *The View from Nowhere* (1986) — subjective and objective, the tension at the heart of philosophy
-- *The Last Word* (1997) — reason's authority, against subjectivism about reason
-- *Mind and Cosmos* (2012) — against neo-Darwinian reductionism, the case for teleological naturalism
+Nagel showed that the subjective is irreducible — but he stayed with the gap. The view from nowhere cannot be reached; the subjective cannot be captured objectively; the tension is permanent. He holds both sides apart rather than asking how they are already woven together. SPLectrum's seed doesn't bridge the gap — it dissolves the framing. There is no view from nowhere to reach for (P2). Subjective experience is not inaccessible — it is private (P2) and partially shared through language (P3). The "hard problem" of consciousness, which Nagel helped define, arises from assuming that objective description is the standard and subjective experience is the anomaly. Flip the picture — as SPLectrum does — and lived experience is primary, shared reality is the overlap, and the problem changes shape.
 
 ---
 
-See also: [The seed, Privacy and Decentralisation](/seed/privacy-and-decentralisation)
+## Key works
+
+- [*"What Is It Like to Be a Bat?"*](https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F) (1974) — the essay that framed the problem
+- *Mortal Questions* (1979) — essays on death, the absurd, moral luck, and the subjective
+- [*The View from Nowhere*](https://en.wikipedia.org/wiki/The_View_from_Nowhere) (1986) — subjective and objective, the tension at the heart of philosophy
+- *The Last Word* (1997) — reason's authority, against subjectivism about reason
+- [*Mind and Cosmos*](https://en.wikipedia.org/wiki/Mind_and_Cosmos) (2012) — against neo-Darwinian reductionism, the case for teleological naturalism
+
+---
+
+See also: [Phenomenology](/positioning/subjects/p/phenomenology) · [The seed and Philosophy](/seed/philosophical) · [The seed, Privacy and Decentralisation](/seed/privacy-and-decentralisation)

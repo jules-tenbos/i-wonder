@@ -121,7 +121,13 @@
 }
 
 .page-content li + li {
-  margin-top: 0.4em;
+  margin-top: 0.6em;
+}
+
+.page-content li .kw {
+  display: block;
+  margin-top: 0.05em;
+  line-height: 1.3;
 }
 
 .page-content > .wrapper > p:first-child {

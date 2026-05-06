@@ -1,11 +1,14 @@
 ---
 layout: default
-title: "Rovelli"
+title: "Carlo Rovelli (1956–)"
+description: "Rovelli built relational quantum mechanics — properties exist only through interaction, no absolute state, no privileged observer."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Rovelli
 
-# Rovelli
+# Carlo Rovelli (1956–)
+
+Rovelli matters to SPLectrum because [relational quantum mechanics](/positioning/subjects/r/relational-quantum-mechanics) is the closest scientific parallel to the [seed](/seed/). Properties exist only through interaction (P1: language is relational). There is no observer-independent state (P2: no outside view). What is real is constituted through encounter, not sitting behind it. His anti-foundationalism — "the foundation of science is not certainty but radical uncertainty about our own knowledge" — resonates with SPLectrum's refusal of the final vocabulary. And his engagement with philosophy, from Nagarjuna to [Heidegger](/positioning/persons/h/heidegger) to the pre-Socratics, makes him a rare working physicist who takes the relational turn seriously across disciplines. Where [Kant](/positioning/persons/k/kant) asked how the mind structures experience, Rovelli asks how interaction structures reality — and the answer drops the privileged observer entirely.
 
 [Carlo Rovelli](https://en.wikipedia.org/wiki/Carlo_Rovelli) (1956–). Theoretical physicist and philosopher of science. Born in Verona, he was politically active in the Italian student movements of the 1970s — founding free radio stations, co-authoring a book on the Bologna protests, briefly detained for refusing military service. He studied physics at Bologna and Padova, held a joint appointment in physics and the history and philosophy of science at Pittsburgh, and has been based at Aix-Marseille University since 2000. Also affiliated with the Perimeter Institute, the Rotman Institute of Philosophy, and the Santa Fe Institute. One of the few working physicists with a sustained, serious engagement with philosophy — he has argued publicly that physics needs philosophy and philosophy needs physics ("Einstein would have never done relativity without having read all the philosophers"). The anti-authoritarian political stance and the anti-foundationalist physics are not unrelated — a consistent suspicion of fixed structures, whether political or physical.
 
@@ -25,14 +28,24 @@ title: "Rovelli"
 
 ---
 
+## Where Rovelli stops
+
+Rovelli's relational quantum mechanics drops the privileged observer — but it stays within physics. Properties exist through interaction, but interaction in RQM is physical: one system measuring another. SPLectrum's seed extends the relational beyond physical interaction into language: being implies language (P0), language is the medium of experience (P2), subjects share through language (P3). RQM says properties are relative to an observer; the seed says reality is constituted through the relational medium the subject lives in. The move is the same — no absolute state, no view from nowhere — but SPLectrum takes it into territory physics does not reach: meaning, sharing, the growth of complexity through interrelating languages (P4, P5). Rovelli points toward this himself through Nagarjuna and his philosophical writing, but the physics alone does not get there.
+
+---
+
 ## Key works
 
 - "Relational Quantum Mechanics" (*International Journal of Theoretical Physics* 35, 1996) — properties through interaction, no absolute state
-- *Quantum Gravity* (Cambridge University Press, 2004) — the textbook of loop quantum gravity
+- [*Quantum Gravity*](https://en.wikipedia.org/wiki/Quantum_Gravity_(book)) (Cambridge University Press, 2004) — the textbook of loop quantum gravity
 - *The First Scientist: Anaximander and His Legacy* (Westholme, 2011; revised as *Anaximander*, Penguin, 2023) — the birth of scientific thinking
-- *Seven Brief Lessons on Physics* (2015) — sold over two million copies, translated into 41 languages
-- *Reality Is Not What It Seems* (2016) — the journey to quantum gravity
-- *The Order of Time* (2018) — time dismantled and reconstructed
-- *Helgoland* (2021) — quantum mechanics, Nagarjuna, relational ontology
+- [*Seven Brief Lessons on Physics*](https://en.wikipedia.org/wiki/Seven_Brief_Lessons_on_Physics) (2015) — sold over two million copies, translated into 41 languages
+- [*Reality Is Not What It Seems*](https://en.wikipedia.org/wiki/Reality_Is_Not_What_It_Seems) (2016) — the journey to quantum gravity
+- [*The Order of Time*](https://en.wikipedia.org/wiki/The_Order_of_Time_(book)) (2018) — time dismantled and reconstructed
+- [*Helgoland*](https://en.wikipedia.org/wiki/Helgoland_(book)) (2021) — quantum mechanics, Nagarjuna, relational ontology
 - "Memory and Entropy" (*Entropy* 24(8):1022, 2022) — the thermodynamic basis of traces and memory
-- *White Holes* (2023) — black hole bouncing, time reversal at the singularity
+- [*White Holes*](https://en.wikipedia.org/wiki/White_Holes_(book)) (2023) — black hole bouncing, time reversal at the singularity
+
+---
+
+See also: [Relational quantum mechanics](/positioning/subjects/r/relational-quantum-mechanics) · [The Turn in Science](/positioning/seed/the-turn-in-science) · [The seed and Philosophy](/seed/philosophical)
