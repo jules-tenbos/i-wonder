@@ -1,15 +1,14 @@
 ---
 layout: default
-title: "Category Theory"
+title: "Applied Category Theory"
+description: "How category theory connects to SPLectrum's treatment of language — the Yoneda Lemma, relational power, and convergence with the seed."
 ---
 
-[Home](/) > [Language](/language/) > Category Theory
+[Home](/) > [Language](/language/) > Applied Category Theory
 
-# Category Theory
+# Applied Category Theory
 
-The mathematics of relation. Developed in the 1940s by [Eilenberg](https://en.wikipedia.org/wiki/Samuel_Eilenberg) and [Mac Lane](https://en.wikipedia.org/wiki/Saunders_Mac_Lane), category theory studies morphisms — arrows between things — rather than objects with internal properties. An object has no interior. It is known entirely by its arrows: how it relates to everything else.
-
-A category consists of objects, arrows between them, a rule for composing arrows, and an identity arrow for each object.
+How category theory connects to SPLectrum's treatment of language. For the mathematical foundations and philosophical positioning, see the [category theory](/positioning/subjects/c/category-theory) subject page.
 
 ## The Yoneda Lemma
 

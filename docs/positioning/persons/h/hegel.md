@@ -1,13 +1,16 @@
 ---
 layout: default
-title: "Hegel"
+title: "Georg Wilhelm Friedrich Hegel (1770–1831)"
+description: "Hegel put the limits of knowledge in motion — determination through negation, history as development, nothing simply left behind."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Hegel
 
-# Hegel
+# Georg Wilhelm Friedrich Hegel (1770–1831)
 
-[Georg Wilhelm Friedrich Hegel](https://plato.stanford.edu/entries/hegel/) (1770–1831). The philosopher of process, negation, and historical development. Held the chair of philosophy at Berlin — the most prestigious in the German-speaking world — and dominated his era so thoroughly that the entire generation after him (Marx, Kierkegaard, the left and right Hegelians) defined themselves in relation to him. Where Kant drew the limits of what can be known, Hegel put those limits in motion — every determination reveals what it excludes, and that exclusion drives the next determination. Thought does not arrive at truth; it develops through contradiction toward it.
+Hegel matters to SPLectrum because he put process at the centre. Where [Kant](/positioning/persons/k/kant) drew the limits of knowledge as fixed, Hegel made them move — every determination reveals what it excludes, and that exclusion drives development. This resonates with the [seed](/seed/)'s P5: complexity grows, evolution stays coupled to its history. Sublation — cancelling, preserving, and elevating at once — is the mechanism by which nothing is simply left behind, and that is how SPLectrum understands [historicity](/seed/historicity). Hegel also historicised the categories that Kant had treated as universal, opening the door to the plurality of languages and forms of life that [Wittgenstein](/positioning/persons/w/wittgenstein) and SPLectrum's P4 take as fundamental. He stands at the origin of [German idealism](/positioning/subjects/g/german-idealism) and of [process philosophy](/positioning/subjects/p/process-philosophy), two traditions SPLectrum draws on.
+
+[Georg Wilhelm Friedrich Hegel](https://plato.stanford.edu/entries/hegel/) (1770–1831). The philosopher of process, negation, and historical development. Held the chair of philosophy at Berlin — the most prestigious in the German-speaking world — and dominated his era so thoroughly that the entire generation after him (Marx, Kierkegaard, the left and right Hegelians) defined themselves in relation to him. Where [Kant](/positioning/persons/k/kant) drew the limits of what can be known, Hegel put those limits in motion — every determination reveals what it excludes, and that exclusion drives the next determination. Thought does not arrive at truth; it develops through contradiction toward it.
 
 ---
 
@@ -25,14 +28,20 @@ title: "Hegel"
 
 ---
 
+## Where Hegel stops
+
+Hegel's system is totalising — spirit arrives at absolute knowing, the dialectic completes itself, history has a direction. SPLectrum's seed resists this closure. P5 says complexity grows, but it does not arrive. There is no absolute knowing, no final vocabulary, no end of history. The seed is anti-foundational where Hegel is foundational: SPLectrum's [interrelational pluralism](/seed/interrelational-pluralism) holds that languages have equal standing (P4), where Hegel's dialectic ranks them as stages in a single development. And Hegel's subject is spirit — universal, self-developing, working through individuals. SPLectrum's subject is particular, embodied, relational — closer to [Merleau-Ponty](/positioning/persons/m/merleau-ponty) than to Hegel. What SPLectrum keeps is the process, the historicity, the insistence that nothing is simply left behind. What it drops is the system, the telos, and the absolute.
+
+---
+
 ## Key works
 
-- *Phenomenology of Spirit* (1807) — consciousness educated through its own experience, from sense-certainty through self-consciousness to absolute knowing; each stage collapsing under its own contradictions and sublated into the next
-- *Science of Logic* (1812–16) — the dialectic applied to the categories of pure thought
-- *Encyclopedia of the Philosophical Sciences* (1817) — the system in outline: logic, nature, spirit
-- *Philosophy of Right* (1820) — ethical life, the state, freedom as institutional reality
+- [*Phenomenology of Spirit*](https://en.wikipedia.org/wiki/Phenomenology_of_Spirit) (1807) — consciousness educated through its own experience, from sense-certainty through self-consciousness to absolute knowing
+- [*Science of Logic*](https://en.wikipedia.org/wiki/Science_of_Logic) (1812–16) — the dialectic applied to the categories of pure thought
+- [*Encyclopedia of the Philosophical Sciences*](https://en.wikipedia.org/wiki/Encyclopedia_of_the_Philosophical_Sciences) (1817) — the system in outline: logic, nature, spirit
+- [*Philosophy of Right*](https://en.wikipedia.org/wiki/Elements_of_the_Philosophy_of_Right) (1820) — ethical life, the state, freedom as institutional reality
 - *Lectures on the History of Philosophy* (posthumous) — philosophy as its own history
 
 ---
 
-See also: [The seed and Philosophy](/seed/philosophical) · [The seed and Historicity](/seed/historicity)
+See also: [German idealism](/positioning/subjects/g/german-idealism) · [Process philosophy](/positioning/subjects/p/process-philosophy) · [The seed and Philosophy](/seed/philosophical) · [The seed and Historicity](/seed/historicity)

@@ -10,6 +10,10 @@ description: "Movements, theories and themes of importance to SPLectrum — from
 
 These are subjects of importance to SPLectrum, referenced within the site.
 
+## C
+
+- [Category theory](c/category-theory) · mathematics<br>the mathematics of relation — objects known by their arrows, structure preserved through functors
+
 ## D
 
 - [Domain specific languages (DSL)](d/domain-specific-languages) · software engineering<br>languages born from languages, purpose-built vocabularies carrying domain meaning

@@ -16,12 +16,14 @@ Individual thinkers referenced across the positioning section. Each page collect
 
 ## D
 
+- [Descartes, René (1596–1650)](d/descartes) · philosopher, mathematician<br>the cogito, the mirror, the mind-body split, method
 - [Dewey, John (1859–1952)](d/dewey) · philosopher<br>pragmatism, democracy, inquiry as community problem-solving, experience as transaction
 
 ## F
 
 - [Feyerabend, Paul (1924–1994)](f/feyerabend) · philosopher of science<br>against method, theoretical pluralism, incommensurability
 - [Fichte, Johann Gottlieb (1762–1814)](f/fichte) · philosopher<br>self-positing I, the not-I, differentiation as origin
+- [Frege, Gottlob (1848–1925)](f/frege) · logician, philosopher<br>modern logic, sense and reference, the concept-script, anti-psychologism
 
 ## G
 
@@ -32,6 +34,7 @@ Individual thinkers referenced across the positioning section. Each page collect
 - [Habermas, Jürgen (1929–2025)](h/habermas) · philosopher, social theorist<br>communicative action, discourse ethics, lifeworld and system
 - [Hegel, Georg Wilhelm Friedrich (1770–1831)](h/hegel) · philosopher<br>dialectic, sublation, determinate negation, historical development
 - [Heidegger, Martin (1889–1976)](h/heidegger) · philosopher<br>being-in-the-world, disclosure, Dasein, readiness-to-hand
+- [Hume, David (1711–1776)](h/hume) · philosopher<br>empiricism, causation as habit, the bundle self, the is-ought problem
 - [Husserl, Edmund (1859–1938)](h/husserl) · philosopher<br>phenomenology, intentionality, time-consciousness, the lifeworld
 
 ## J
@@ -41,6 +44,7 @@ Individual thinkers referenced across the positioning section. Each page collect
 
 ## K
 
+- [Kant, Immanuel (1724–1804)](k/kant) · philosopher<br>the Copernican revolution, phenomena and noumena, the categories, the moral law
 - [Kuhn, Thomas (1922–1996)](k/kuhn) · philosopher of science, historian<br>paradigms, normal science, revolutions, incommensurability
 
 ## L
@@ -69,6 +73,7 @@ Individual thinkers referenced across the positioning section. Each page collect
 
 - [Rorty, Richard (1931–2007)](r/rorty) · philosopher<br>pragmatism, conversation over correspondence, contingency, solidarity
 - [Rovelli, Carlo (1956–)](r/rovelli) · theoretical physicist, philosopher<br>loop quantum gravity, relational QM, time, Nagarjuna
+- [Russell, Bertrand (1872–1970)](r/russell) · logician, philosopher<br>Principia Mathematica, logical atomism, the theory of descriptions, Russell's paradox
 
 ## S
 

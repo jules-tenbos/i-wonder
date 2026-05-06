@@ -1,0 +1,44 @@
+---
+layout: default
+title: "Gottlob Frege (1848–1925)"
+description: "Frege founded modern logic and the philosophy of language — sense and reference, the concept-script, language as the medium of logical structure."
+---
+
+[Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Frege
+
+# Gottlob Frege (1848–1925)
+
+Frege matters to SPLectrum as the origin of the analytical tradition's treatment of language — and as the clearest case of what SPLectrum moves beyond. Frege sought a logically perfect language: one that would mirror the structure of thought without ambiguity, context-dependence, or the imprecisions of natural speech. That project — language as a transparent medium for representing logical truths — is the mirror in its purest linguistic form. [Wittgenstein](/positioning/persons/w/wittgenstein)'s *Tractatus* pushed it to its limit; his *Investigations* abandoned it. [Rorty](/positioning/persons/r/rorty) buried it. SPLectrum's [seed](/seed/) starts from the other side: language is relational (P1), lived (P2), plural (P4) — not a mirror but a medium. Yet Frege's sense-reference distinction remains genuinely useful, and his insistence that meaning is not psychological but structural anticipates the relational turn he did not live to see.
+
+[Gottlob Frege](https://plato.stanford.edu/entries/frege/) (1848–1925). Mathematician, logician, philosopher — the founder of modern mathematical logic and, alongside [Russell](/positioning/persons/r/russell), the origin of the analytical tradition. Spent his entire career at the University of Jena, never rising above associate professor, largely ignored in his lifetime. His *Begriffsschrift* (1879) invented predicate logic — the formal system that replaced Aristotelian logic after two thousand years. His *Grundlagen der Arithmetik* (1884) attempted to derive arithmetic from logic alone. When Russell's paradox destroyed the foundations of that project in 1902, Frege was devastated. His late diaries reveal antisemitic views. His influence came almost entirely posthumously, through Russell, [Wittgenstein](/positioning/persons/w/wittgenstein), and the Vienna Circle.
+
+---
+
+## Key concepts
+
+**Sense and reference (*Sinn und Bedeutung*).** The morning star and the evening star refer to the same object (Venus) but have different senses — different ways of presenting the object. Meaning has two dimensions: what an expression picks out (reference) and how it presents what it picks out (sense). This distinction remains foundational in philosophy of language.
+
+**The concept-script (*Begriffsschrift*).** A formal notation for logical reasoning — the first system of predicate logic. Frege invented quantifiers (for all, there exists), variables, and the function-argument structure that replaced the subject-predicate logic inherited from Aristotle. Modern logic descends from this.
+
+**The context principle.** "It is only in the context of a sentence that a word has meaning." A word in isolation means nothing; meaning arises from the role the word plays in a complete thought. This principle — anti-atomistic, relational in spirit — anticipates later developments Frege himself would not have endorsed.
+
+**Anti-psychologism.** Meaning is not a mental image. Logic is not about how people happen to think — it is about the structure of thought itself, independent of any thinker. This aligns Frege with [Husserl](/positioning/persons/h/husserl)'s parallel attack on psychologism in the *Logical Investigations*.
+
+---
+
+## Where Frege stops
+
+Frege's project was to make language logically perfect — to purify it of everything that makes natural language messy, contextual, and alive. That is exactly what SPLectrum refuses. The seed's language is not formal but relational, not purified but lived, not one but many. Frege's context principle contains a relational insight — meaning in context, not in isolation — but he did not follow it where [Wittgenstein](/positioning/persons/w/wittgenstein) later took it: into language games, forms of life, and the plurality of vocabularies. Frege sought one perfect language; SPLectrum's P4 says languages have equal standing. The distance is as large as it gets.
+
+---
+
+## Key works
+
+- [*Begriffsschrift*](https://en.wikipedia.org/wiki/Begriffsschrift) (1879) — the concept-script; the founding of modern predicate logic
+- [*The Foundations of Arithmetic*](https://en.wikipedia.org/wiki/The_Foundations_of_Arithmetic) (1884) — the logicist programme; deriving arithmetic from logic
+- [*On Sense and Reference*](https://en.wikipedia.org/wiki/%C3%9Cber_Sinn_und_Bedeutung) (1892) — sense and reference; the morning star and the evening star
+- [*Basic Laws of Arithmetic*](https://en.wikipedia.org/wiki/Grundgesetze_der_Arithmetik) (1893/1903) — the formal system; destroyed by Russell's paradox
+
+---
+
+See also: [The Turn in Western Philosophy](/positioning/seed/the-turn-in-western-philosophy) · [The seed and Philosophy](/seed/philosophical)
