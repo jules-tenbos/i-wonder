@@ -30,6 +30,18 @@ Rorty walked through the door [Wittgenstein](/positioning/persons/w/wittgenstein
 
 ---
 
+## The ethnocentrism question
+
+Rorty's most controversial territory. We cannot escape our own community's standards — but this is not relativism, because there is no standpoint from which relativism could be stated either. "We have to start from where we are." Justification is always relative to an audience, and the best we can do is widen the audience — expand the circle of "us" — not pretend to step outside it. Critics from [Habermas](/positioning/persons/h/habermas) to Putnam argued this collapses into something indistinguishable from relativism. Rorty's reply was consistent: the charge only sticks if you assume a God's-eye view is available as the alternative. Drop that assumption, and ethnocentrism is simply honesty about where justification starts.
+
+---
+
+## Where Rorty stops
+
+Rorty's [anti-foundationalism](/positioning/seed/interrelational-pluralism) is therapeutic — he tears down the mirror but deliberately refuses to build something in its place. Philosophy should keep the conversation going, not close it with a new theory. That refusal is principled: any replacement foundation would just be another mirror. But it is also the gap that SPLectrum's constructive anti-foundationalism walks into — accepting the demolition while asking what can still be built relationally, without foundations, from the [seed](/seed/) outward.
+
+---
+
 ## Key works
 
 - [*Philosophy and the Mirror of Nature*](https://en.wikipedia.org/wiki/Philosophy_and_the_Mirror_of_Nature) (1979) — the critique of representationalism
