@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-06
 title: "Paul Feyerabend (1924–1994)"
 description: "Feyerabend showed that science has no single method — theoretical pluralism, anything goes, and every tradition has its own standards."
 ---

@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-06
 title: "Richard Rorty (1931–2007)"
 description: "Rorty abandoned the mirror of nature for conversation — knowledge is what a community finds useful to say, not a copy of reality."
 ---

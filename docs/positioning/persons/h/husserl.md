@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-06
 title: "Edmund Husserl (1859–1938)"
 description: "Husserl founded phenomenology — the systematic study of experience from the inside. Intentionality, time-consciousness, and the lifeworld."
 ---

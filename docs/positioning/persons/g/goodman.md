@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-06
 title: "Nelson Goodman (1906–1998)"
 description: "Goodman argued there is no one true description of the world — many versions, each constructed through its own symbol system, rightness over truth."
 ---

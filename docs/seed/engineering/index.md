@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-06
 title: "The applied seed - Engineering"
 description: "The SPLectrum seed translated into engineering — data entities, protocols, owners and personas. A low-friction mapping from philosophy to design."
 ---

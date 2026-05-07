@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-05
 title: "In Wonder - The Conversation"
 description: "In Wonder — SPLectrum's blog conversations. Exploring language, reality, philosophy, science and engineering from an interrelational pluralism view."
 ---

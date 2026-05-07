@@ -1,5 +1,6 @@
 ---
 layout: home
+lastmod: 2026-05-05
 title: "The World of SPLectrum"
 description: "SPLectrum is a foundational philosophy grown from seed, egalitarian towards all disciplines, the home of interrelational pluralism."
 ---

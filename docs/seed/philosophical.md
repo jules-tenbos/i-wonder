@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-06
 title: "The seed and Philosophy"
 description: "The SPLectrum seed and philosophy — how historical thinkers from Heidegger to Wittgenstein to Peirce map onto the six principles, one by one."
 ---

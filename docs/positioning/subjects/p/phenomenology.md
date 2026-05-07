@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-06
 title: "Phenomenology"
 description: "The study of experience from the inside — how the world shows up for a subject. From Husserl's foundations through Heidegger, Merleau-Ponty and Jonas."
 ---

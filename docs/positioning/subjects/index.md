@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-06
 title: "Subjects A–Z"
 description: "Movements, theories and themes of importance to SPLectrum — from domain specific languages and phenomenology to relational quantum mechanics"
 ---

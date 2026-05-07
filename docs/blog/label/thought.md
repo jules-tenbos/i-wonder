@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-05
 title: "Posts labelled thought"
 description: "Blog posts labelled thought on The World of SPLectrum."
 ---

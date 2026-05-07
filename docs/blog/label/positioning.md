@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-05
 title: "Posts labelled positioning"
 description: "Blog posts labelled positioning on The World of SPLectrum."
 ---

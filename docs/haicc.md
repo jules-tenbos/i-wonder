@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-06
 title: "HAICC"
 description: "HAICC — human-AI creative collaboration in practice, a partnership of equal standing, one SPLectrum voice from two strengths."
 ---

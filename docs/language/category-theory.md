@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-06
 title: "Applied Category Theory"
 description: "How category theory connects to SPLectrum's treatment of language — the Yoneda Lemma, relational power, and convergence with the seed."
 ---

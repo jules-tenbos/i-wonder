@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-06
 title: "Baruch Spinoza (1632–1677)"
 description: "Spinoza dissolved the distinction between God and nature — one substance, determination through negation, conatus as the striving to persist in being."
 ---

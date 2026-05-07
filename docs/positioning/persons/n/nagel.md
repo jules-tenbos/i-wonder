@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-06
 title: "Thomas Nagel (1937–)"
 description: "Nagel insisted that subjective experience is real and irreducible — there is something it is like to be a conscious subject, and no objective account captures it."
 ---

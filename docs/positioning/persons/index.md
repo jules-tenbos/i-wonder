@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-06
 title: "Persons A–Z"
 description: "Thinkers referenced across SPLectrum's positioning work — from Bergson and Fichte to Whitehead and Wittgenstein"
 ---

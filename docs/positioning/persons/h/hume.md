@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-06
 title: "David Hume (1711–1776)"
 description: "Hume woke philosophy from its dogmatic slumber — experience is all we have, causation is habit, and reason alone cannot ground knowledge."
 ---

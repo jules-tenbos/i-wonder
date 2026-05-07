@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-06
 title: "The seed and Discovery"
 description: "The SPLectrum seed and discovery — creation conforms to discovery. The power already there in potential, insight the key that unlocks it."
 ---

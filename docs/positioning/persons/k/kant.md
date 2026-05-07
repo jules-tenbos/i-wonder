@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-06
 title: "Immanuel Kant (1724–1804)"
 description: "Kant asked how the mind structures experience — the question that defined the turn, even as the outside view survived it."
 ---

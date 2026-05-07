@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-06
 title: "Karl Popper (1902–1994)"
 description: "Popper replaced verification with falsification — science advances by eliminating errors, not accumulating truths. The open society as political falsificationism."
 ---

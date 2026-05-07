@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-06
 title: "The seed, Privacy and Decentralisation"
 description: "The SPLectrum seed, privacy and decentralisation — a subject feels and thinks in private, a community exists from the subjects' shared reality."
 ---

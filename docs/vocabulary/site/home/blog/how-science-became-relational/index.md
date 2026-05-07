@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-03
 title: "From Clockwork to Open Questions — vocabulary"
 ---
 

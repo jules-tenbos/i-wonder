@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-06
 title: "Reality"
 description: "Reality through the lens of interrelational pluralism — community-constituted, accessed from inside, language-held. A foundational approach."
 ---

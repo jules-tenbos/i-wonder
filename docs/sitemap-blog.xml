@@ -8,7 +8,11 @@ permalink: /sitemap-blog.xml
 {%- assign pub = post.date | date: "%s" | plus: 0 -%}
 {%- assign now = site.time | date: "%s" | plus: 0 -%}
 {%- if now >= pub -%}
+{%- if post.lastmod -%}
+  <url><loc>https://splectrum.world{{ post.url }}</loc><lastmod>{{ post.lastmod }}</lastmod></url>
+{%- else -%}
   <url><loc>https://splectrum.world{{ post.url }}</loc><lastmod>{{ post.date | date: "%Y-%m-%d" }}</lastmod></url>
+{%- endif %}
 {% endif -%}
 {%- endfor %}
 </urlset>

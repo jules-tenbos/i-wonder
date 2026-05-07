@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-06
 title: "Gottfried Wilhelm Leibniz (1646–1716)"
 description: "Leibniz articulated the relational view of space two centuries before the tools existed to make it work — no space without things, no container without content."
 ---

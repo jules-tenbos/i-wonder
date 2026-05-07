@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-06
 title: "Structuralism"
 description: "Meaning as difference, systems of relations — the movement that analysed culture, language and thought as structures, not collections of independent elements."
 ---

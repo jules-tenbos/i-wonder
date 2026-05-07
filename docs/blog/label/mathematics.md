@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-05
 title: "Posts labelled mathematics"
 description: "Blog posts labelled mathematics on The World of SPLectrum."
 ---

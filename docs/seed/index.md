@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-06
 title: "The SPLectrum Seed"
 description: "The SPLectrum seed and its many facets — six principles on language and relation, articulated across philosophy, science, engineering and beyond."
 ---

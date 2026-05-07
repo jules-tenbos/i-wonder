@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-06
 title: "Robert Sapolsky (1957–)"
 description: "Sapolsky traces behaviour across every layer — genes, hormones, brain, development, culture, evolution. No layer is privileged, no layer is sufficient alone."
 ---

@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-06
 title: "Jean-Paul Sartre (1905–1980)"
 description: "Sartre took phenomenology into existentialism — radical freedom, consciousness as pure intentionality, existence before essence."
 ---

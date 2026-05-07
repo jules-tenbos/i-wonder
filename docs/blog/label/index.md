@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-04-24
 title: "Labels"
 description: "Browse blog posts by label on The World of SPLectrum."
 ---

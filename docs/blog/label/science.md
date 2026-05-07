@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-05
 title: "Posts labelled science"
 description: "Blog posts labelled science on The World of SPLectrum."
 ---

@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-06
 title: "When category theory and the seed meet"
 description: "When category theory and the SPLectrum seed meet — the mathematics of relation maps onto the seed's primitives. A first encounter, open territory ahead."
 ---

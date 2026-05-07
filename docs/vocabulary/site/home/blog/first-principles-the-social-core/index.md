@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-06
 title: "First Principles — the Social Core — vocabulary"
 description: "Vocabulary shadow for the social-core post — tracking which terms come from which language tradition."
 ---

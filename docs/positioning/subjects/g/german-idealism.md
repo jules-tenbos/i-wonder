@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-06
 title: "German idealism"
 description: "The movement that refused Kant's limits — Fichte, Schelling and Hegel overcoming the gap between subject and world, determination through negation."
 ---

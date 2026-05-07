@@ -2,6 +2,7 @@
 layout: post
 title: "The World of SPLectrum as Public Conscious Persona"
 date: 2026-05-04
+lastmod: 2026-05-06
 labels: [persona, HAICC, SPLectrum]
 description: "SPLectrum's public conscious persona — human-AI collaboration shaping raw thoughts into the voice for blog and website."
 status: ready

@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-06
 title: "Carlo Rovelli (1956–)"
 description: "Rovelli built relational quantum mechanics — properties exist only through interaction, no absolute state, no privileged observer."
 ---

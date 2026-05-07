@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-06
 title: "Engineering"
 description: "SPLectrum engineering — the SPLectrum philosophy and human-AI collaboration translated into an engineering approach. Mycelium, SPLectrum and HAICC."
 ---

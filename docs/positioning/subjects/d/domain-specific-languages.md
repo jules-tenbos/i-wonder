@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-06
 title: "Domain Specific Languages (DSL)"
 description: "Domain specific languages as purpose-built vocabularies — languages born from languages, each carrying meaning shaped by its domain."
 ---

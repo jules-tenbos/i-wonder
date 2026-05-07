@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-06
 title: "The seed and Human Reality"
 description: "The SPLectrum seed and human reality — we experience individually but live collectively, reality community-constituted through shared language."
 ---

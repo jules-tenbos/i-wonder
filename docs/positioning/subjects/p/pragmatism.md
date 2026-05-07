@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-06
 title: "Pragmatism"
 description: "Meaning by practical consequence, truth by convergence of inquiry — the tradition that refuses the spectator theory of knowledge."
 ---

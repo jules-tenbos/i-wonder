@@ -20,6 +20,6 @@ Equal standing (P4) applied to the positioning work itself. The thinkers' materi
 
 ## How to apply
 
-- Persons/subjects: no SPLectrum vocabulary, no seed references, no resonance/dissonance sections. Outside voice only.
+- Persons/subjects: no SPLectrum vocabulary, no seed references, no resonance/dissonance sections. Outside voice only. Use direct quotes with section references. State what the thinker said and did. Do not characterise their motivations or reframe their concepts in SPLectrum terms — leave that to the blog posts.
 - Seed/close/wider: brief listings, indicate where in SPLectrum the resonance sits. No analysis, no claims.
 - Fence: full engagement. Resonance and dissonance named and examined. SPLectrum's reading of the overlap and divergence is part of what the page offers.

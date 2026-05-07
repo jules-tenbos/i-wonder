@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-06
 title: "Maurice Merleau-Ponty (1908–1961)"
 description: "Merleau-Ponty placed the body at the centre of experience — perception is the body's lived engagement with the world, not a mental act."
 ---

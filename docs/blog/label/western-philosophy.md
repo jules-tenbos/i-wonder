@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-05
 title: "Posts labelled western philosophy"
 description: "Blog posts labelled western philosophy on The World of SPLectrum."
 ---

@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-06
 title: "The seed and Historicity"
 description: "The SPLectrum seed and historicity — the subject retains, accumulates and experiences. Reality as the memory of what was before."
 ---

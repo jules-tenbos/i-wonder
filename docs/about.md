@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-06
 title: "About"
 description: "Jules ten Bos exploring how reality works and how language shapes our reality — the human face behind SPLectrum and its human-AI collaboration."
 ---

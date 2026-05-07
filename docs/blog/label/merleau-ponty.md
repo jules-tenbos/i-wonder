@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-05
 title: "Posts labelled Merleau-Ponty"
 description: "Blog posts labelled Merleau-Ponty on The World of SPLectrum."
 ---

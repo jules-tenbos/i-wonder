@@ -2,6 +2,7 @@
 layout: post
 title: "Let's Talk Software Languages"
 date: 2026-04-11
+lastmod: 2026-05-06
 labels: [language, engineering, SPLectrum]
 description: "From binary to Python, how higher level languages make the power of binary accessible — growing in expression, not in power."
 status: ready

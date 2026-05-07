@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-05
 title: "P2P and Decentralisation"
 description: "Decentralisation and peer-to-peer — interrelational pluralism requires privacy and local practice, and SPLectrum engineering builds for it."
 ---

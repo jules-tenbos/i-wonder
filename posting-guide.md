@@ -171,7 +171,7 @@ The draft produces its outputs and is then deleted:
 1. Create/update reference pages in `docs/`
 2. Update the relevant vocabulary page under `docs/vocabulary/`
 3. Update reference library index pages
-4. Update `docs/sitemap-site.xml` if new pages were added
+4. Ensure new pages have `lastmod` in frontmatter (today's date) — the sitemap auto-generates from it
 5. Render diagrams to images if any
 6. Create clean post file in `docs/_posts/` (Jekyll front matter + prose, no notes)
 7. Delete draft from `drafts/`
@@ -267,13 +267,16 @@ Keep each surface doing its own job. If a page starts telling a story, that mate
 
 ### Sitemap lastmod
 
-Sitemap structure: `docs/sitemap.xml` is the index pointing at `sitemap-site.xml` (ref lib, manually maintained) and `sitemap-blog.xml` (blog posts, auto-generated from `site.posts`). Only the site sitemap needs hand edits.
+Both sitemaps are auto-generated from frontmatter:
 
-When a ref lib page changes substantively — new page, structural rework, major content update — add or bump `<lastmod>YYYY-MM-DD</lastmod>` on its entry in `docs/sitemap-site.xml`. Crawlers (Google confirmed re-reads regularly) use lastmod to prioritise re-crawl. Changes should be visible there.
+- `sitemap-site.xml` — generated from `site.pages`, uses `page.lastmod`
+- `sitemap-blog.xml` — generated from `site.posts`, uses `post.lastmod` (falls back to `post.date`)
 
-Skip lastmod bumps for minor changes (typos, link fixes, sentence polish). The goal is signal-of-substance, not coverage of every commit — noise dilutes the signal.
+**When editing a page or post:** bump `lastmod: YYYY-MM-DD` in the frontmatter. Cast the net wide — if in doubt, bump it. Crawlers use lastmod to prioritise re-crawl.
 
-New URLs added to the site sitemap get `<lastmod>` on first appearance. Moved URLs (structural rename) likewise get lastmod at the move date; the old URL is removed in the same sitemap edit.
+**New pages** get `lastmod` in their frontmatter on creation (today's date). No manual sitemap edits needed — the template picks them up automatically.
+
+**Excluding a page** from the sitemap: add `sitemap: false` to its frontmatter.
 
 ### Page template
 
@@ -300,6 +303,12 @@ Content...
 
 ## Links
 
+### Trailing slashes
+
+All internal links must use trailing slashes. `/seed/` not `/seed`. No exceptions.
+
+GitHub Pages serves everything at trailing-slash URLs. Non-slash URLs redirect. Google indexes the trailing-slash version and complains about the redirect. Sitemap entries, markdown links, HTML hrefs — always trailing slash.
+
 ### General
 - Maximum 5 links per post (internal + external combined)
 - Link on first mention, not every mention
@@ -308,7 +317,7 @@ Content...
 
 ### Internal links
 - No forward links to future/scheduled posts
-- Back-references to other posts: prefer series label link (`/blog/label/<series>`) over direct post links
+- Back-references to other posts: prefer series label link (`/blog/label/<series>/`) over direct post links
 - Reference library links for depth — the blog points into the library
 - Series/reference footer at the bottom when applicable
 

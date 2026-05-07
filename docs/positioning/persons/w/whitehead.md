@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-06
 title: "Alfred North Whitehead (1861–1947)"
 description: "Whitehead built reality from events, not substances — every actual entity constituted by its relations, creativity the universal of universals."
 ---

@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-06
 title: "Thomas Kuhn (1922–1996)"
 description: "Kuhn showed that science alternates between normal puzzle-solving and revolutionary paradigm shifts — incommensurability, not cumulative progress."
 ---

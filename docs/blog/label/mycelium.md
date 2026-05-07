@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-05
 title: "Posts labelled mycelium"
 description: "Blog posts labelled mycelium on The World of SPLectrum."
 ---

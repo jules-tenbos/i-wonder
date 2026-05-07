@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-06
 title: "William James (1842–1910)"
 description: "James made pragmatism public — truth is what works, experience is a stream, and the test of a philosophy is how it helps us live."
 ---

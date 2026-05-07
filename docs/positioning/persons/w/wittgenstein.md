@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-06
 title: "Ludwig Wittgenstein (1889–1951)"
 description: "Wittgenstein turned from logical structure to language games and forms of life — meaning is use, not representation."
 ---

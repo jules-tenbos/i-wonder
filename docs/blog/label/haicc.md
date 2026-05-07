@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-05
 title: "Posts labelled HAICC"
 description: "Blog posts labelled HAICC on The World of SPLectrum."
 ---

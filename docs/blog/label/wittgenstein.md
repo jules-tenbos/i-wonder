@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-05
 title: "Posts labelled Wittgenstein"
 description: "Blog posts labelled Wittgenstein on The World of SPLectrum."
 ---

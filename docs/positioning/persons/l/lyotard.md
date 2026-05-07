@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-06
 title: "Jean-François Lyotard (1924–1998)"
 description: "Lyotard diagnosed the collapse of grand narratives — what remains is a plurality of language games, each with its own rules, none entitled to subsume the others."
 ---

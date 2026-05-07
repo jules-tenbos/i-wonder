@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-06
 title: "Process philosophy"
 description: "Becoming over being, events over substances — the tradition that takes change as reality, not appearance. Hegel, Bergson, Whitehead."
 ---

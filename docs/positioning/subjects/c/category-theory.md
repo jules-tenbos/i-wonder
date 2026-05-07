@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-06
 title: "Category Theory"
 description: "The mathematics of relation — objects known entirely by their arrows, structure preserved through functors, meaning exhausted by relational profile."
 ---

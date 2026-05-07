@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-06
 title: "Vocabulary"
 description: "The vocabulary section is auxiliary to the language section and is a hub for the vocabularies in explicit use on this website."
 ---

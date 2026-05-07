@@ -2,6 +2,7 @@
 layout: post
 title: "Language, Experience and Reality"
 date: 2026-04-21
+lastmod: 2026-05-06
 labels: [reality, philosophy, SPLectrum]
 description: "Fire as lived experience — sight, heat, sound, all in language. Personal experience is primary, shared reality is the overlap."
 status: ready

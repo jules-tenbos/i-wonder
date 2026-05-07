@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-06
 title: "Bertrand Russell (1872–1970)"
 description: "Russell built the analytical tradition on logic — Principia Mathematica, the theory of descriptions, and the conviction that philosophy should be precise."
 ---

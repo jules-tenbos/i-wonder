@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-06
 title: "SPLectrum and First Principles — vocabulary"
 description: "Vocabulary shadow for the first-principles post — tracking which terms come from which language tradition."
 ---

@@ -1,5 +1,6 @@
 ---
 layout: default
+lastmod: 2026-05-06
 title: "Jürgen Habermas (1929–2025)"
 description: "Habermas relocated rationality from the individual to the space between subjects — communicative action, discourse ethics, the public sphere."
 ---
