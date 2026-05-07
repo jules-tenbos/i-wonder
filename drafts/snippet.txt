@@ -1,0 +1,12 @@
+
+
+
+
+
+
+
+In 1936, [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) proved mathematically that computation is fundamentally about symbols and interaction between symbols. A tape, a read/write head, a set of rules: if you see this symbol, write that symbol, move, change state. Nothing else. No numbers, no logic, no meaning built in. The meaning emerges from the rules. And the minimum is already universal. A simple setup that can compute anything there is to be computed.
+
+
+Assemblers and compilers aren't unique to software. Language mapping and transformation can equally be found in other places like in our bodies. Every word we speak is mapped to electrical signals, transformed into muscle movements, sound waves. Every sensation we receive — light, pressure, temperature — gets rewritten into nerve impulses and transformed into concepts we can think with. We speak different natural languages, do different language games — but eventually all of it comes from or is transformed into bodily activity. The parallel is structural, not metaphorical. An ecosystem of languages, each suited to its context, each absorbing complexity into its own vocabulary, all eventually becoming or originating from physical action.
+
