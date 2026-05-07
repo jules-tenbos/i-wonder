@@ -2,6 +2,7 @@
 layout: post
 title: "Mutualism Without Intent"
 date: 2026-05-24
+lastmod: 2026-05-24
 labels: [positioning, SPLectrum, comment]
 status: Mandatory review
 words: 856

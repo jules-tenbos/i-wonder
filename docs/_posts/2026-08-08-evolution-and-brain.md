@@ -2,6 +2,7 @@
 layout: post
 title: "Evolution and the Brain"
 date: 2026-08-08
+lastmod: 2026-08-08
 labels: [science, thought]
 status: final review
 words: 564

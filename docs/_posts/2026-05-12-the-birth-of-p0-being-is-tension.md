@@ -2,6 +2,7 @@
 layout: post
 title: "The Birth of P0 — Being Is Tension"
 date: 2026-05-12
+lastmod: 2026-05-12
 labels: [seed, philosophy, comment]
 status: review mandatory
 words: 1006

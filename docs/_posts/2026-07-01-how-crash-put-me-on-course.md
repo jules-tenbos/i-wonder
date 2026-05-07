@@ -2,6 +2,7 @@
 layout: post
 title: "How a Crash Put Me on Course"
 date: 2026-07-01
+lastmod: 2026-07-01
 labels: [preamble,thought]
 status: final review
 words: 510

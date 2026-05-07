@@ -2,6 +2,7 @@
 layout: post
 title: "Privacy, Naturally!"
 date: 2026-06-28
+lastmod: 2026-06-28
 labels: [seed, philosophy, SPLectrum]
 status: final revision
 words: 793

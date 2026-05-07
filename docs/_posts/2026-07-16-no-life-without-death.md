@@ -2,6 +2,7 @@
 layout: post
 title: "No Life Without Death"
 date: 2026-07-16
+lastmod: 2026-07-16
 labels: [preamble,thought]
 status: final review
 words: 499

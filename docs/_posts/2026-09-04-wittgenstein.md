@@ -2,6 +2,7 @@
 layout: post
 title: "Wittgenstein"
 date: 2026-09-04
+lastmod: 2026-09-04
 labels: [positioning, philosophy]
 status: storyline
 words: 56

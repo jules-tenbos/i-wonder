@@ -2,6 +2,7 @@
 layout: post
 title: The Seed and Human Reality
 date: 2026-05-28
+lastmod: 2026-05-28
 labels: [seed, philosophy, SPLectrum]
 status: Mandatory review
 words: 542

@@ -2,6 +2,7 @@
 layout: post
 title: "Bateson and Biosemiotics"
 date: 2026-11-16
+lastmod: 2026-11-16
 labels: [positioning, philosophy]
 status: storyline
 words: 68

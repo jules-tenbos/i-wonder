@@ -2,6 +2,7 @@
 layout: post
 title: "From Seed to Interrelational Pluralism"
 date: 2026-09-01
+lastmod: 2026-09-01
 labels: [seed, philosophy, SPLectrum]
 status: storyline
 words: 111

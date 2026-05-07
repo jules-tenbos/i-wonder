@@ -2,6 +2,7 @@
 layout: post
 title: "I Know That I Don't Know"
 date: 2026-07-12
+lastmod: 2026-07-12
 labels: [philosophy, thought]
 status: Mandatory review
 words: 881

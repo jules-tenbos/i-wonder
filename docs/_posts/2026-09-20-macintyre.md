@@ -2,6 +2,7 @@
 layout: post
 title: "MacIntyre"
 date: 2026-09-20
+lastmod: 2026-09-20
 labels: [positioning, philosophy]
 status: storyline
 words: 46

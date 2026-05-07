@@ -2,6 +2,7 @@
 layout: post
 title: "Whitehead"
 date: 2026-11-08
+lastmod: 2026-11-08
 labels: [positioning, philosophy]
 status: storyline
 words: 57

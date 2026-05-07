@@ -13,7 +13,7 @@ Posts live in `docs/_posts/` as Jekyll markdown with front matter. Future-dated 
 
 ## Cadence
 
-Blog cadence is buffered: four posts a month at four months out and beyond (1st, 8th, 16th, 24th), doubling to eight inside the two-month window (adding the 4th, 12th, 20th, 28th), with direct publication inside that as posts become ready. Posts wait in draft until their slot and can be moved easily as the storyline evolves — the schedule accommodates movement, not the other way around.
+Blog cadence is layered: roughly weekly as a minimum schedule looking four months ahead, every four days as a target schedule with a two-month ahead window, and when there is additional material posts slot in between — creating a local two-day cadence. Posts are rescheduled as needed so the storyline makes sense.
 
 - Schedule time: 10:00 UTC.
 - Active schedule tracked in `scheduled-tasks.md`.
@@ -88,11 +88,11 @@ Submissions stay in `submissions/` during this process; frontmatter tracks statu
 
 ### Scheduling strategy
 
-**Slots.** Four base slots per month: 1st, 8th, 16th, 24th. Inside the two-month window, four more open up: 4th, 12th, 20th, 28th. Inside that, direct publication as posts become ready.
+**Cadence.** Roughly weekly as a minimum looking four months ahead. Every four days as target with a two-month window. When there is additional material, posts slot in between — creating a local two-day cadence.
 
 **Composition.** Alternate categories for variety, or cluster the same topic for depth. Not too many heavy core posts in a row. Engineering posts spaced out. Thinking posts as breathers. Topical bunching when posts build on each other.
 
-**Movement.** The schedule accommodates movement, not the other way around. Posts can be moved as the storyline evolves.
+**Movement.** Posts are rescheduled as needed so the storyline makes sense.
 
 ## Production — Way of Working
 

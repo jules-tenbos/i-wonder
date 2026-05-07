@@ -2,6 +2,7 @@
 layout: post
 title: "Oakeshott"
 date: 2026-10-24
+lastmod: 2026-10-24
 labels: [positioning, philosophy]
 status: storyline
 words: 60

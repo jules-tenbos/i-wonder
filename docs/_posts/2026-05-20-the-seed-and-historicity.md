@@ -2,6 +2,7 @@
 layout: post
 title: "The Seed and Historicity"
 date: 2026-05-20
+lastmod: 2026-05-20
 labels: [seed, philosophy]
 status: storyline
 words: 72

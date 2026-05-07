@@ -2,6 +2,7 @@
 layout: post
 title: "The Seed and Category Theory — A First Encounter"
 date: 2026-06-24
+lastmod: 2026-06-24
 labels: [seed, mathematics, SPLectrum]
 status: Mandatory review
 words: 769

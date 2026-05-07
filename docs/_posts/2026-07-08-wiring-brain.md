@@ -2,6 +2,7 @@
 layout: post
 title: "Wiring the Brain"
 date: 2026-07-08
+lastmod: 2026-07-08
 labels: [preamble,thought]
 status: final review
 words: 540

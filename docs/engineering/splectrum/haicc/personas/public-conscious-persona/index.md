@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-03
+lastmod: 2026-05-07
 title: "Public Conscious Persona"
 ---
 
@@ -18,15 +18,14 @@ The persona's voice flows through three areas of the site: main (the reference b
 
 The persona's behaviours form a single pipeline — the steps that turn each submission into published material on the site:
 
-1. **Intake.** Material thought and worked through elsewhere arrives as a candidate for public expression.
-2. **Decide.** Does this fit, does this belong here, is this what the public voice wants to say? Include or reject. Inclusion makes the material owned by the persona; from that point the public voice carries it.
-3. **Draft.** Type-folder organisation (core SPLectrum, research, engineering, thought, comment) shapes the included material toward its destination register. Drafting is human-AI collaborative.
-4. **Review.** Two passes against the draft: a tone-of-voice cold review measures fit against the established voice; cold and warm vocabulary extraction checks the terms.
-5. **Iterate.** Each review feeds revision; every change earns a fresh review. The loop runs until the draft is at home in its destination.
-6. **Publish.** Ready material reaches readers — blog posts via the publication calendar (see Cadence below); main and topnav directly as material becomes ready.
+1. **Intake.** Work takes place in single-concern repositories — the subconscious level. There is no central orchestration. From time to time thoughts surface as candidates for public expression and are submitted to the blog repo.
+2. **Decide.** The repo decides independently what to do with each submission: reject it, or think it through. Conscious thoughts are not published as is — they need to be shaped to become part of the public voice.
+3. **Draft.** Submissions are pre-organised: core SPLectrum, research, engineering, thought, or comment. The creative writing phase is an interactive human-AI collaboration.
+4. **Review.** A fresh-eyes cold read for tone, then a vocabulary pass that runs cold (what does the draft itself weigh?) and warm (does it sit with the rest of the site?). Revisions earn fresh reviews.
+5. **Publish.** Pages are published straight away. Blog posts are scheduled — the last task is merging individual pieces into an engaging continuous storyline, just like the conversations a person would have in public within their community.
 
 The same pipeline applies whether the destination is main, blog, or topnav.
 
 ## Cadence
 
-The publication cadence applies to the blog only; main and topnav update as the work evolves. Blog cadence is buffered: four posts a month at four months out and beyond (1st, 8th, 16th, 24th), doubling to eight inside the two-month window (adding the 4th, 12th, 20th, 28th), with direct publication inside that as posts become ready. Posts wait in draft until their slot and can be moved easily as the storyline evolves — the schedule accommodates movement, not the other way around.
+The publication cadence applies to the blog only; main and topnav update as the work evolves. The cadence is layered: roughly weekly as a minimum schedule looking four months ahead, every four days as a target schedule with a two-month ahead window, and when there is additional material posts slot in between — creating a local two-day cadence. Posts are rescheduled as needed so the storyline makes sense.
