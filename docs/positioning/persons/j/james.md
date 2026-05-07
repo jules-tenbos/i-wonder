@@ -8,9 +8,9 @@ description: "James made pragmatism public — truth is what works, experience i
 
 # William James (1842–1910)
 
-James's radical empiricism — the insistence that relations are as real as the things they connect — resonates with the [seed](/seed/)'s relational stance. His "stream of consciousness" prefigures the lived, flowing character of experience that SPLectrum takes seriously. But his individualism and his tendency to ground truth in personal utility sit less comfortably with P3's shared reality. He opened doors that [Dewey](/positioning/persons/d/dewey) and [Rorty](/positioning/persons/r/rorty) walked through in directions closer to SPLectrum's own.
+James's radical empiricism — the insistence that relations are as real as the things they connect — resonates with the [seed](/seed/)'s relational stance. His "stream of consciousness" prefigures the lived, flowing character of experience that SPLectrum takes seriously. But his individualism and his tendency to ground truth in personal utility sit less comfortably with P3's shared reality. He opened doors that [Dewey](/positioning/persons/d/dewey/) and [Rorty](/positioning/persons/r/rorty/) walked through in directions closer to SPLectrum's own.
 
-[William James](https://plato.stanford.edu/entries/james/) (1842–1910). Philosopher and psychologist — one of the founders of [pragmatism](/positioning/subjects/p/pragmatism) and the most widely read American philosopher of his generation. Born into privilege (his father was an independently wealthy Swedenborgian theologian, his brother the novelist Henry James), he studied medicine at Harvard, suffered prolonged depression in his twenties, and found his way to philosophy through psychology. His *Principles of Psychology* (1890) established him as a leading psychologist before he turned fully to philosophy. He held the chair of philosophy at Harvard from 1885. Where [Peirce](/positioning/persons/p/peirce) was rigorous, technical and largely ignored, James was accessible, charismatic and enormously influential — he made pragmatism a public movement, for better and worse.
+[William James](https://plato.stanford.edu/entries/james/) (1842–1910). Philosopher and psychologist — one of the founders of [pragmatism](/positioning/subjects/p/pragmatism/) and the most widely read American philosopher of his generation. Born into privilege (his father was an independently wealthy Swedenborgian theologian, his brother the novelist Henry James), he studied medicine at Harvard, suffered prolonged depression in his twenties, and found his way to philosophy through psychology. His *Principles of Psychology* (1890) established him as a leading psychologist before he turned fully to philosophy. He held the chair of philosophy at Harvard from 1885. Where [Peirce](/positioning/persons/p/peirce/) was rigorous, technical and largely ignored, James was accessible, charismatic and enormously influential — he made pragmatism a public movement, for better and worse.
 
 ---
 
@@ -44,4 +44,4 @@ James kept pragmatism personal. Truth is what works *for me*, what helps *me* li
 
 ---
 
-See also: [Pragmatism](/positioning/subjects/p/pragmatism) · [The seed and Philosophy](/seed/philosophical)
+See also: [Pragmatism](/positioning/subjects/p/pragmatism/) · [The seed and Philosophy](/seed/philosophical/)

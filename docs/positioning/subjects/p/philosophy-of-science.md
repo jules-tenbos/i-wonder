@@ -7,7 +7,7 @@ title: "Philosophy of science"
 
 # Philosophy of science
 
-The philosophical study of what science is, how it works, and what it can know. The field moved from logical positivism's confidence in a single scientific method through [Popper](/positioning/persons/p/popper)'s falsificationism, [Kuhn](/positioning/persons/k/kuhn)'s paradigm shifts, and [Feyerabend](/positioning/persons/f/feyerabend)'s methodological pluralism — a trajectory from unity toward diversity, from certainty toward fallibilism.
+The philosophical study of what science is, how it works, and what it can know. The field moved from logical positivism's confidence in a single scientific method through [Popper](/positioning/persons/p/popper/)'s falsificationism, [Kuhn](/positioning/persons/k/kuhn/)'s paradigm shifts, and [Feyerabend](/positioning/persons/f/feyerabend/)'s methodological pluralism — a trajectory from unity toward diversity, from certainty toward fallibilism.
 
 ---
 
@@ -35,6 +35,6 @@ From a single method to no fixed method. From verification to falsification to p
 
 ## Persons
 
-[Popper](/positioning/persons/p/popper) · [Kuhn](/positioning/persons/k/kuhn) · [Feyerabend](/positioning/persons/f/feyerabend)
+[Popper](/positioning/persons/p/popper/) · [Kuhn](/positioning/persons/k/kuhn/) · [Feyerabend](/positioning/persons/f/feyerabend/)
 
-See also: [The seed and Philosophy](/seed/philosophical) · [The Turn in Science](/positioning/seed/the-turn-in-science)
+See also: [The seed and Philosophy](/seed/philosophical/) · [The Turn in Science](/positioning/seed/the-turn-in-science/)

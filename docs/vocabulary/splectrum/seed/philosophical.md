@@ -7,7 +7,7 @@ title: "Seed vocabulary — Philosophical"
 
 # Seed vocabulary — Philosophical
 
-The seed vocabulary as it appears in [the seed and Philosophy](/seed/philosophical).
+The seed vocabulary as it appears in [the seed and Philosophy](/seed/philosophical/).
 
 **Differentiation** (P0) — The act through which being comes into existence ([Fichte](https://plato.stanford.edu/entries/johann-fichte/)). The cut that separates being from not-being.
 

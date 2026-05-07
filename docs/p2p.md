@@ -8,7 +8,7 @@ description: "Decentralisation and peer-to-peer — interrelational pluralism re
 
 # P2P and Decentralisation
 
-Decentralisation is in full resonance with the SPLectrum worldview, [interrelational pluralism](/seed/interrelational-pluralism). From the privacy of the individual, the privacy of our families and local communities, decentralisation is a must-have for diverse communities to live together and avoid falling prey to central manipulation and mistaken polarisation.
+Decentralisation is in full resonance with the SPLectrum worldview, [interrelational pluralism](/seed/interrelational-pluralism/). From the privacy of the individual, the privacy of our families and local communities, decentralisation is a must-have for diverse communities to live together and avoid falling prey to central manipulation and mistaken polarisation.
 
 In engineering, decentralisation means peer-to-peer.
 

@@ -7,7 +7,7 @@ title: "Relational quantum mechanics"
 
 # Relational quantum mechanics
 
-An interpretation of quantum mechanics proposed by [Rovelli](/positioning/persons/r/rovelli) (1996). The quantum state of a system is relative to another physical system. Properties are established through interaction, not possessed independently. There is no observer-independent state.
+An interpretation of quantum mechanics proposed by [Rovelli](/positioning/persons/r/rovelli/) (1996). The quantum state of a system is relative to another physical system. Properties are established through interaction, not possessed independently. There is no observer-independent state.
 
 ---
 
@@ -51,7 +51,7 @@ Rovelli diagnosed the measurement problem as resting on a mistaken assumption: t
 
 ## Philosophical affinities
 
-Constructive empiricism (van Fraassen), ontic structural realism, and Nagarjuna's relational ontology — see [Rovelli](/positioning/persons/r/rovelli) for detail. QBism (Fuchs) shares the information-theoretic approach but privileges agents where RQM naturalises the observer. RQM and Rovelli's loop quantum gravity share the same commitment — no fixed background, no absolute structure — and were developed together: background independence in quantum gravity naturally suggests that quantum states should be relational too.
+Constructive empiricism (van Fraassen), ontic structural realism, and Nagarjuna's relational ontology — see [Rovelli](/positioning/persons/r/rovelli/) for detail. QBism (Fuchs) shares the information-theoretic approach but privileges agents where RQM naturalises the observer. RQM and Rovelli's loop quantum gravity share the same commitment — no fixed background, no absolute structure — and were developed together: background independence in quantum gravity naturally suggests that quantum states should be relational too.
 
 ---
 
@@ -90,6 +90,6 @@ RQM is at a crossroads (Calosi and Riedel, 2024 — *Foundations of Physics* spe
 
 ## Persons
 
-[Rovelli](/positioning/persons/r/rovelli)
+[Rovelli](/positioning/persons/r/rovelli/)
 
-See also: [The Turn in Science](/positioning/seed/the-turn-in-science)
+See also: [The Turn in Science](/positioning/seed/the-turn-in-science/)

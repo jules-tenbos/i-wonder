@@ -24,7 +24,7 @@ Now, don't take me the wrong way. The destination is not some claim of something
 
 Sometimes our greatest setbacks become our most important redirections. I'm not sure I recommend the method. But I'm grateful for what it set in motion.
 
-<small>This post is part of the [preamble](/blog/label/preamble), about happening before SPLectrum saw the light of day.</small>
+<small>This post is part of the [preamble](/blog/label/preamble/), about happening before SPLectrum saw the light of day.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@neonbrand">NeONBRAND</a> / Unsplash</small>

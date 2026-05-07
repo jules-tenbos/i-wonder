@@ -22,7 +22,7 @@ We train our brains to fit into society from birth — through family, school, l
 
 The brain remains one of the most fascinating frontiers — a biological computer that has evolved to understand itself, and that is only now starting to catch sight of how it does so.
 
-<small>This post is from an earlier moment in the walk(16/01/2022). This post is part of the [preamble](/blog/label/preamble), about happening before SPLectrum saw the light of day.</small>
+<small>This post is from an earlier moment in the walk(16/01/2022). This post is part of the [preamble](/blog/label/preamble/), about happening before SPLectrum saw the light of day.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@halgatewood">Hal Gatewood</a> / Unsplash</small>

@@ -12,15 +12,15 @@ The vocabulary of [SPLectrum and First Principles](/blog/2026/05/splectrum-and-f
 
 | Term / phrase | Language | Comment |
 |---|---|---|
-| the seed / seed principles | SPLectrum | The six lines (P0–P5). See: [seed](/vocabulary/splectrum/seed/original) |
-| being / *being* | philosophy (Heidegger, Fichte) | Italicised in noun sense — "something different from the context it resides in". See: [being](/vocabulary/splectrum/seed/original) |
+| the seed / seed principles | SPLectrum | The six lines (P0–P5). See: [seed](/vocabulary/splectrum/seed/original/) |
+| being / *being* | philosophy (Heidegger, Fichte) | Italicised in noun sense — "something different from the context it resides in". See: [being](/vocabulary/splectrum/seed/original/) |
 | the other | philosophy (Fichte flavour) | Pair to *being*; the context being differs from. |
 | observer | philosophy | Equated with "subject" in P2; not restricted to humans. |
-| subject | philosophy | The view from inside a being; equated with "observer" in this post. See: [subject](/vocabulary/splectrum/seed/original) |
+| subject | philosophy | The view from inside a being; equated with "observer" in this post. See: [subject](/vocabulary/splectrum/seed/original/) |
 | lived experience | phenomenology (Husserl, Merleau-Ponty) | Used under P2 in contrast to "representation". |
 | representation | philosophy | Contrast term — the post argues against representation as the model of knowing. |
 | RQM (relational quantum mechanics) | external | Referenced via the writer's prior post. |
-| domain specific languages (DSL) | external | See: [DSL](/positioning/subjects/d/domain-specific-languages) (internal page). |
+| domain specific languages (DSL) | external | See: [DSL](/positioning/subjects/d/domain-specific-languages/) (internal page). |
 | collaborative AI | external | From the engineering origin; not unpacked in the post. |
 {: .vocabulary-shadow}
 

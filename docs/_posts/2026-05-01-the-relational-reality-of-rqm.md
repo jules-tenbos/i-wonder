@@ -23,11 +23,11 @@ The decoherent histories approach (Griffiths, Gell-Mann & Hartle) was an importa
 
 But the insight stopped before the relational reading. Decoherent histories focused on the shared, stable side — how the classical emerges. The other side of the coin, entanglement, remained a separate topic, a quantum puzzle rather than part of the same picture. Entanglement is what you have before decoherence has anchored the properties. If decoherence produces the anchored and shared, then entanglement is simply what is not yet anchored — properties coupled but floating outside the decohered context.
 
-[RQM](/positioning/subjects/r/relational-quantum-mechanics) took the same approach — what does the physics tell us? — but from the other side. Where decoherent histories focused on the shared and stable, RQM started from the coherent, the entangled. Its move was simple: drop the artificial observer status. The observer is not special. The observer is any physical system. A perspective, not a privilege.
+[RQM](/positioning/subjects/r/relational-quantum-mechanics/) took the same approach — what does the physics tell us? — but from the other side. Where decoherent histories focused on the shared and stable, RQM started from the coherent, the entangled. Its move was simple: drop the artificial observer status. The observer is not special. The observer is any physical system. A perspective, not a privilege.
 
 Properties are not things systems have in themselves — they are facts established through interaction. Drop the assumption of observer-independent facts, and the paradoxes of quantum mechanics dissolve. No new constraints introduced, no hidden variables, no branching universes, no irreducible agents.
 
-This approach was published in 1996 by [Carlo Rovelli](/positioning/persons/r/rovelli), alongside his main research interest of loop quantum gravity where spacetime itself is quantised and relational. The connection is natural: if spacetime is relational, quantum states should be too.
+This approach was published in 1996 by [Carlo Rovelli](/positioning/persons/r/rovelli/), alongside his main research interest of loop quantum gravity where spacetime itself is quantised and relational. The connection is natural: if spacetime is relational, quantum states should be too.
 
 RQM was initially ignored, largely the case with all reality views on quantum mechanics. But it persisted and slowly built momentum. A small community formed: Laudisa in Milan, Smerlak, Bitbol in Paris. The SEP entry in 2002 gave it institutional recognition. Then in 2010, Bas van Fraassen — one of the world's leading philosophers of science — published "Rovelli's World," a 27-page engagement that identified the central challenge: if facts are relative to observers, what connects different observers' accounts? That question would drive RQM's development for the next fifteen years.
 
@@ -45,7 +45,7 @@ And RQM's own understanding kept evolving. In 2021, Di Biagio and Rovelli introd
 
 The picture that emerges is this: reality is relational — properties exist through interaction, not in isolation. Knowledge about that reality becomes shareable through decoherence anchoring — the physical process that produces stable, shared facts from relational ones. Where decoherence is present, we have the classical world we recognise — definite, shared, reproducible. Where it is absent, we have the quantum world — entangled, local, floating. Both are relational. The difference is in the anchoring.
 
-<small>This post is part of the [positioning series](/blog/label/positioning). See also <a href="/positioning/seed/the-turn-in-science">The Turn in Science</a>.</small>
+<small>This post is part of the [positioning series](/blog/label/positioning/). See also <a href="/positioning/seed/the-turn-in-science/">The Turn in Science</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@whisperingshiba">Whispering Shiba</a> / Unsplash</small>

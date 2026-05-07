@@ -8,7 +8,7 @@ description: "Heidegger displaced the subject-object split — we are always alr
 
 # Martin Heidegger (1889–1976)
 
-Heidegger matters to SPLectrum because he broke the spectator model of knowledge. Being-in-the-world — always already involved, always already understanding — is the move from observer to participant that runs through SPLectrum's [seed](/seed/). His account of [language](/language/) as the medium through which Being discloses itself resonates directly with P2: language as the medium through which a subject experiences reality. He is a pivotal figure in [the turn in Western philosophy](/positioning/seed/the-turn-in-western-philosophy), and his treatment of [being as tension](/positioning/seed/being-as-tension) between disclosure and concealment connects to SPLectrum's P0.
+Heidegger matters to SPLectrum because he broke the spectator model of knowledge. Being-in-the-world — always already involved, always already understanding — is the move from observer to participant that runs through SPLectrum's [seed](/seed/). His account of [language](/language/) as the medium through which Being discloses itself resonates directly with P2: language as the medium through which a subject experiences reality. He is a pivotal figure in [the turn in Western philosophy](/positioning/seed/the-turn-in-western-philosophy/), and his treatment of [being as tension](/positioning/seed/being-as-tension/) between disclosure and concealment connects to SPLectrum's P0.
 
 [Martin Heidegger](https://plato.stanford.edu/entries/heidegger/) (1889–1976). Asked the question of Being — not what exists, but what it means *to be*. His answer displaced the subject-object split that had structured Western philosophy since Descartes. We do not first exist and then encounter a world; we are always already in a world, disclosed through our involvement with it. Heidegger served as rector of Freiburg University in 1933–34 under the Nazi regime, joined the NSDAP, and never publicly recanted. The *Black Notebooks* (published 2014 onward) revealed antisemitic passages. The relationship between his philosophy and his politics remains one of the most debated questions in twentieth-century intellectual history.
 
@@ -42,7 +42,7 @@ Heidegger's involvement with Nazism cannot be separated from his philosophy, how
 
 ## Where Heidegger stops
 
-Heidegger's later work grows increasingly solitary — Being withdraws, poetry replaces argument, and the thinker waits. The participatory structure of being-in-the-world gives way to a quietism where only a few poets and thinkers can hear Being speak. SPLectrum takes the early insight — that we are always already involved, always already in language — and moves it toward the [relational](/seed/) and the plural, where [Rorty](/positioning/persons/r/rorty) and [Wittgenstein](/positioning/persons/w/wittgenstein) pick up what Heidegger set down.
+Heidegger's later work grows increasingly solitary — Being withdraws, poetry replaces argument, and the thinker waits. The participatory structure of being-in-the-world gives way to a quietism where only a few poets and thinkers can hear Being speak. SPLectrum takes the early insight — that we are always already involved, always already in language — and moves it toward the [relational](/seed/) and the plural, where [Rorty](/positioning/persons/r/rorty/) and [Wittgenstein](/positioning/persons/w/wittgenstein/) pick up what Heidegger set down.
 
 ---
 
@@ -56,4 +56,4 @@ Heidegger's later work grows increasingly solitary — Being withdraws, poetry r
 
 ---
 
-See also: [The seed and Philosophy](/seed/philosophical) · [Being as Tension](/positioning/seed/being-as-tension) · [The Turn in Western Philosophy](/positioning/seed/the-turn-in-western-philosophy)
+See also: [The seed and Philosophy](/seed/philosophical/) · [Being as Tension](/positioning/seed/being-as-tension/) · [The Turn in Western Philosophy](/positioning/seed/the-turn-in-western-philosophy/)

@@ -9,7 +9,7 @@ title: "Mycelium Fabric"
 
 The static architecture of the mycelium data fabric — what it is made of and how its structure determines behaviour.
 
-Mycelium is a data fabric. It weaves data and process together into process-colocated data structures — structures where the process that operates on data lives alongside the data itself. These structures exist as [git-constituted subject realities](./subject-reality.md) — where [git](/engineering/substrate/git) provides the boundary, the memory, and the exchange.
+Mycelium is a data fabric. It weaves data and process together into process-colocated data structures — structures where the process that operates on data lives alongside the data itself. These structures exist as [git-constituted subject realities](./subject-reality.md) — where [git](/engineering/substrate/git/) provides the boundary, the memory, and the exchange.
 
 Each subject reality has a partial view of available data. The totality of data is never a physical repository — it is only a logical totality, the sum of everything across the fabric. What actually exists is always fabric expressed as subject realities within git repos.
 

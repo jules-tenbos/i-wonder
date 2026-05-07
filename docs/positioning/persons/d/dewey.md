@@ -10,7 +10,7 @@ description: "Dewey brought pragmatism into the social — inquiry as community 
 
 Dewey matters to SPLectrum because he moved pragmatism from the individual to the social. Inquiry is not a solitary mind mirroring reality — it is a community solving problems together, and the knowledge that emerges belongs to the community, not to any single observer. This resonates directly with the [seed](/seed/)'s P3: language is where subjects share knowledge about reality. Dewey's insistence that experience is transaction — organism and environment shaping each other — prefigures SPLectrum's relational stance. And his commitment to democracy as a way of life, not just a political system, connects to P4's equal standing: no voice ranks above another.
 
-[John Dewey](https://plato.stanford.edu/entries/dewey/) (1859–1952). Philosopher, psychologist, educational reformer — the most publicly influential American philosopher of the twentieth century. Born in Burlington, Vermont, studied at Johns Hopkins (where [Peirce](/positioning/persons/p/peirce) was a marginal presence), taught at Michigan, Chicago and Columbia. At Chicago he founded the Laboratory School (1896), putting his educational philosophy into practice. His career spanned seven decades and an extraordinary range: logic, aesthetics, ethics, political philosophy, education, psychology. He was politically active throughout — supporting women's suffrage, labour rights, civil liberties — and remained productive into his nineties. Where [James](/positioning/persons/j/james) made pragmatism popular, Dewey made it systematic and social.
+[John Dewey](https://plato.stanford.edu/entries/dewey/) (1859–1952). Philosopher, psychologist, educational reformer — the most publicly influential American philosopher of the twentieth century. Born in Burlington, Vermont, studied at Johns Hopkins (where [Peirce](/positioning/persons/p/peirce/) was a marginal presence), taught at Michigan, Chicago and Columbia. At Chicago he founded the Laboratory School (1896), putting his educational philosophy into practice. His career spanned seven decades and an extraordinary range: logic, aesthetics, ethics, political philosophy, education, psychology. He was politically active throughout — supporting women's suffrage, labour rights, civil liberties — and remained productive into his nineties. Where [James](/positioning/persons/j/james/) made pragmatism popular, Dewey made it systematic and social.
 
 ---
 
@@ -44,4 +44,4 @@ Dewey brought pragmatism into the social and the democratic, but he stayed at th
 
 ---
 
-See also: [Pragmatism](/positioning/subjects/p/pragmatism) · [The seed and Philosophy](/seed/philosophical)
+See also: [Pragmatism](/positioning/subjects/p/pragmatism/) · [The seed and Philosophy](/seed/philosophical/)

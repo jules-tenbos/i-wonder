@@ -38,7 +38,7 @@ The human web evolves through this cycle. We synchronise, knowledge deepens, new
 
 Community is luminous, not dense. Relational, not collective. It holds together precisely because the sources stay sources. And all this follows from the seed — from six principles.
 
-<small>This post is part of the [seed series](/blog/label/seed). See also <a href="/seed/human-reality">The seed and Human Reality</a>.</small>
+<small>This post is part of the [seed series](/blog/label/seed/). See also <a href="/seed/human-reality/">The seed and Human Reality</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@giuliasq">Giulia Squillace</a> / Unsplash</small>

@@ -21,7 +21,7 @@ Mueller argues this process is structurally identical to [semiosis](https://en.w
 
 ## Structural parallels
 
-Several of OPH's structural commitments occupy the same territory as the [seed](../../seed):
+Several of OPH's structural commitments occupy the same territory as the [seed](../../seed/):
 
 **Meaning as constitutive.** OPH's central claim — meaning assignment is the fundamental operation, not something layered on top of matter — parallels the seed's P0: being implies language. Language is not added after the fact. It is co-primordial.
 
@@ -41,5 +41,5 @@ Without coupling, the framework needs a global vantage point to hold the picture
 
 ## Where the insights deserve better ground
 
-Meaning as constitutive, objectivity as convergence, the observer as central — these observations surface independently across multiple frameworks. They deserve to be developed from minimal foundational footing. The [seed](../../seed) reduces to two foundational principles — differentiation (P0) and relational character (P1) — which [category theory](../../language/category-theory) can formalise. Everything else follows. Minimal axioms resist circularity because there is less to presuppose.
+Meaning as constitutive, objectivity as convergence, the observer as central — these observations surface independently across multiple frameworks. They deserve to be developed from minimal foundational footing. The [seed](../../seed/) reduces to two foundational principles — differentiation (P0) and relational character (P1) — which [category theory](../../language/category-theory/) can formalise. Everything else follows. Minimal axioms resist circularity because there is less to presuppose.
 

@@ -36,7 +36,7 @@ Anti-foundationalism was the word I took away. For what it opened up, I was stil
 
 <small>This post is from an earlier moment in the walk. For where the relational reading sits now, see the <a href="/reality/">reality section of the reference library</a>.</small>
 
-<small>This post is part of the [preamble](/blog/label/preamble), about happening before SPLectrum saw the light of day.</small>
+<small>This post is part of the [preamble](/blog/label/preamble/), about happening before SPLectrum saw the light of day.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@sunburned_surveyor">Sunburned Surveyor</a> / Unsplash</small>

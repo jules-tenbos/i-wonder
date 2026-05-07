@@ -8,9 +8,9 @@ description: "The movement that refused Kant's limits — Fichte, Schelling and 
 
 # German idealism
 
-German idealism matters to SPLectrum because it put the subject into the constitution of reality — and refused to leave a gap between mind and world. [Kant](/positioning/persons/k/kant) had drawn the limit; the idealists dissolved it. [Fichte](/positioning/persons/f/fichte)'s self-positing I — being as an act, not a substance — resonates with the [seed](/seed/)'s P0: being implies language, neither prior. [Hegel](/positioning/persons/h/hegel)'s sublation — nothing simply left behind, everything preserved and elevated — is how SPLectrum understands [historicity](/seed/historicity). And [Spinoza](/positioning/persons/s/spinoza)'s determination through negation, which the idealists made dynamic, connects to the seed's treatment of differentiation as the origin of language. The systematic ambition SPLectrum does not share; the questions it does.
+German idealism matters to SPLectrum because it put the subject into the constitution of reality — and refused to leave a gap between mind and world. [Kant](/positioning/persons/k/kant/) had drawn the limit; the idealists dissolved it. [Fichte](/positioning/persons/f/fichte/)'s self-positing I — being as an act, not a substance — resonates with the [seed](/seed/)'s P0: being implies language, neither prior. [Hegel](/positioning/persons/h/hegel/)'s sublation — nothing simply left behind, everything preserved and elevated — is how SPLectrum understands [historicity](/seed/historicity/). And [Spinoza](/positioning/persons/s/spinoza/)'s determination through negation, which the idealists made dynamic, connects to the seed's treatment of differentiation as the origin of language. The systematic ambition SPLectrum does not share; the questions it does.
 
-The philosophical movement that arose in response to Kant's critical philosophy, spanning roughly 1780–1830. Behind it stands [Spinoza](/positioning/persons/s/spinoza) — his substance monism and his principle that determination is negation were taken up by all the idealists, each transforming what Spinoza had cast as eternal into something historical and dynamic. Where Kant had drawn the limits of knowledge — the thing-in-itself forever beyond reach — [Fichte](/positioning/persons/f/fichte), Schelling, and [Hegel](/positioning/persons/h/hegel) refused the limit. Each in different ways sought to overcome the gap between subject and object, mind and world, knowledge and reality.
+The philosophical movement that arose in response to Kant's critical philosophy, spanning roughly 1780–1830. Behind it stands [Spinoza](/positioning/persons/s/spinoza/) — his substance monism and his principle that determination is negation were taken up by all the idealists, each transforming what Spinoza had cast as eternal into something historical and dynamic. Where Kant had drawn the limits of knowledge — the thing-in-itself forever beyond reach — [Fichte](/positioning/persons/f/fichte/), Schelling, and [Hegel](/positioning/persons/h/hegel/) refused the limit. Each in different ways sought to overcome the gap between subject and object, mind and world, knowledge and reality.
 
 ---
 
@@ -20,7 +20,7 @@ Kant's thing-in-itself — the reality beyond all appearance — is itself a pro
 
 ## Key developments
 
-**[Kant](/positioning/persons/k/kant)** set the problem. The *Critique of Pure Reason* (1781) established that we do not know things as they are in themselves — we know them as they appear to us, structured by the categories of the understanding and the forms of intuition (space and time). The thing-in-itself remains forever beyond reach. This was both a liberation (we can know the phenomenal world with certainty) and a prison (the noumenal world is closed to us). The idealists accepted the liberation and rejected the prison.
+**[Kant](/positioning/persons/k/kant/)** set the problem. The *Critique of Pure Reason* (1781) established that we do not know things as they are in themselves — we know them as they appear to us, structured by the categories of the understanding and the forms of intuition (space and time). The thing-in-itself remains forever beyond reach. This was both a liberation (we can know the phenomenal world with certainty) and a prison (the noumenal world is closed to us). The idealists accepted the liberation and rejected the prison.
 
 **Fichte** made the subject the starting point. The I posits itself, and in doing so posits the not-I as its counterpart. Being begins with self-positing — an act, not a substance. The ground is dynamic: the I strives against its own limit, and this striving is what produces both self-consciousness and world.
 
@@ -42,6 +42,6 @@ The idealists overcame Kant's gap — but replaced it with systems that claim to
 
 ## Persons
 
-[Kant](/positioning/persons/k/kant) (origin) · [Fichte](/positioning/persons/f/fichte) · [Hegel](/positioning/persons/h/hegel) · [Spinoza](/positioning/persons/s/spinoza) (precursor)
+[Kant](/positioning/persons/k/kant/) (origin) · [Fichte](/positioning/persons/f/fichte/) · [Hegel](/positioning/persons/h/hegel/) · [Spinoza](/positioning/persons/s/spinoza/) (precursor)
 
-See also: [The seed and Philosophy](/seed/philosophical) · [Being as Tension](/positioning/seed/being-as-tension) · [The Turn in Western Philosophy](/positioning/seed/the-turn-in-western-philosophy)
+See also: [The seed and Philosophy](/seed/philosophical/) · [Being as Tension](/positioning/seed/being-as-tension/) · [The Turn in Western Philosophy](/positioning/seed/the-turn-in-western-philosophy/)

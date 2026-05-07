@@ -41,7 +41,7 @@ Now, where will the seed take us? How will it be unpacked? Are there some more e
 
 I wonder where this goes.
 
-<small>This post is part of the [seed series](/blog/label/seed). More on the seed in the <a href="/seed">seed section of the site</a>.</small>
+<small>This post is part of the [seed series](/blog/label/seed/). More on the seed in the <a href="/seed/">seed section of the site</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@landonparenteau">Landon Parenteau</a> / Unsplash</small>

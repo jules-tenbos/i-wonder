@@ -10,11 +10,11 @@ vocabulary: /vocabulary/site/home/blog/how-science-became-relational/
 ---
 <img src="https://images.unsplash.com/photo-1641143215652-971a31701a89?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Light and physics" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
-Where the turn in Western philosophy is attributed to [Kant](/positioning/persons/k/kant) with [Descartes](/positioning/persons/d/descartes) firing the starting shot, the start of the scientific revolution is associated with Copernicus, who moved from an earth-centric to a sun-centric view. It can be argued that [Descartes](/positioning/persons/d/descartes)' contribution is at least as important — the mind-body split created a mechanistic world that was 'written in the language of mathematics' to put it in the words of Galileo. No need for purpose or intent, no stones falling because they seek their natural place. The mind-body split freed science to treat the physical world as pure mechanism — no teleology, no hidden intentions, no souls in stones.
+Where the turn in Western philosophy is attributed to [Kant](/positioning/persons/k/kant/) with [Descartes](/positioning/persons/d/descartes/) firing the starting shot, the start of the scientific revolution is associated with Copernicus, who moved from an earth-centric to a sun-centric view. It can be argued that [Descartes](/positioning/persons/d/descartes/)' contribution is at least as important — the mind-body split created a mechanistic world that was 'written in the language of mathematics' to put it in the words of Galileo. No need for purpose or intent, no stones falling because they seek their natural place. The mind-body split freed science to treat the physical world as pure mechanism — no teleology, no hidden intentions, no souls in stones.
 
 Newton gave this approach its mechanics. Unifying celestial and earthly gravity. Working with particles with definite positions and velocities caused by forces acting between them. Laws that are deterministic, universal. The same everywhere and at every scale. A worldview in absolute space with absolute time. In short, a fully deterministic picture of reality.
 
-There was the contrasting view of [Leibniz](/positioning/persons/l/leibniz), who rejected absolute space entirely. In his opinion space is not a container, but the ordering of things that coexist. No space without things. But without a mathematical theory, this relational view remained scientifically inert. It would take another 200 years for the tools to become available.
+There was the contrasting view of [Leibniz](/positioning/persons/l/leibniz/), who rejected absolute space entirely. In his opinion space is not a container, but the ordering of things that coexist. No space without things. But without a mathematical theory, this relational view remained scientifically inert. It would take another 200 years for the tools to become available.
 
 In the meantime, classical mechanics grew into a rich mathematical framework. Over two centuries Euler, Lagrange, Fourier, Hamilton and many others extended Newton's toolbox. The approach was spectacularly productive. But it was Laplace that brought the worldview to its logical endpoint — an intellect that knows all positions and forces at one instant could calculate everything, past and future. The clockwork universe.
 
@@ -40,7 +40,7 @@ The strangeness didn't stay theoretical. Bell's theorem showed that quantum corr
 
 The result is a split that defines modern physics. On one side, spectacular success — atomic spectra, semiconductors, lasers, nuclear physics, three of the four fundamental forces unified within quantum field theory. On the other, an impasse — no agreed picture of reality, no resolution of the observer's role, and gravity still outside the quantum framework. The most productive theory in history, and no worldview to go with it.
 
-<small>This post is part of the [positioning series](/blog/label/positioning). See also <a href="/positioning/seed/the-turn-in-science">The Turn in Science</a>.</small>
+<small>This post is part of the [positioning series](/blog/label/positioning/). See also <a href="/positioning/seed/the-turn-in-science/">The Turn in Science</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@grianghraf">Grianghraf</a> / Unsplash</small>

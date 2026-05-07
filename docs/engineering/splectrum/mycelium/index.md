@@ -13,7 +13,7 @@ A mycelium repository is a data tree structure in a distributed version control 
 
 The git repository is the hard boundary — a distinct entity with its own identity, history, and integrity. The repository IS the subject's reality. There is no central data world. Only subject realities exist. The totality of data is a logical concept, never a physical repository. Shared reality is produced through shared data state, not through process.
 
-Mycelium operates at the intersection of three committed languages: [AVRO](/engineering/substrate/avro) (structure), [Git](/engineering/substrate/git) (historicity), and [Kafka](/engineering/substrate/kafka) (mobility). Each addresses one orthogonal concern. None is mycelium. Mycelium is where they meet.
+Mycelium operates at the intersection of three committed languages: [AVRO](/engineering/substrate/avro/) (structure), [Git](/engineering/substrate/git/) (historicity), and [Kafka](/engineering/substrate/kafka/) (mobility). Each addresses one orthogonal concern. None is mycelium. Mycelium is where they meet.
 
 - [Fabric](fabric) — the static substrate: identifier points, property bags, contexts
 - [Identifier Grammar](identifier-grammar) — dot/underscore primitives, property bags, namespace resolution, defined vs applied

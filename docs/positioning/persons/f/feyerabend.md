@@ -8,9 +8,9 @@ description: "Feyerabend showed that science has no single method — theoretica
 
 # Paul Feyerabend (1924–1994)
 
-Feyerabend matters to SPLectrum because he made the case for pluralism from inside the [philosophy of science](/positioning/subjects/p/philosophy-of-science). No single method, no privileged vocabulary, no tradition that ranks above another — this is P4 applied to knowledge itself. His theoretical pluralism — competing theories expose what a dominant one hides — resonates with the [seed](/seed/)'s insistence that languages have equal standing in potential. And his incommensurability, developed alongside [Kuhn](/positioning/persons/k/kuhn), connects to SPLectrum's view that different languages carve reality differently without one being reducible to another. Where [Popper](/positioning/persons/p/popper) sought a universal demarcation criterion, Feyerabend showed that the history of science consistently violates whatever criterion you set. SPLectrum stands with Feyerabend on this: no meta-language, no view from nowhere.
+Feyerabend matters to SPLectrum because he made the case for pluralism from inside the [philosophy of science](/positioning/subjects/p/philosophy-of-science/). No single method, no privileged vocabulary, no tradition that ranks above another — this is P4 applied to knowledge itself. His theoretical pluralism — competing theories expose what a dominant one hides — resonates with the [seed](/seed/)'s insistence that languages have equal standing in potential. And his incommensurability, developed alongside [Kuhn](/positioning/persons/k/kuhn/), connects to SPLectrum's view that different languages carve reality differently without one being reducible to another. Where [Popper](/positioning/persons/p/popper/) sought a universal demarcation criterion, Feyerabend showed that the history of science consistently violates whatever criterion you set. SPLectrum stands with Feyerabend on this: no meta-language, no view from nowhere.
 
-[Paul Feyerabend](https://plato.stanford.edu/entries/feyerabend/) (1924–1994). Philosopher of science who argued that science has no single method — and that this is a strength, not a weakness. Wounded on the Eastern Front in WWII, he studied under [Popper](/positioning/persons/p/popper) in London and then spent his career dismantling the very programme Popper had taught him. Against the rationalist tradition that sought universal rules for scientific inquiry, Feyerabend showed that the breakthroughs in the history of science consistently violated the methodological principles that were supposed to govern them.
+[Paul Feyerabend](https://plato.stanford.edu/entries/feyerabend/) (1924–1994). Philosopher of science who argued that science has no single method — and that this is a strength, not a weakness. Wounded on the Eastern Front in WWII, he studied under [Popper](/positioning/persons/p/popper/) in London and then spent his career dismantling the very programme Popper had taught him. Against the rationalist tradition that sought universal rules for scientific inquiry, Feyerabend showed that the breakthroughs in the history of science consistently violated the methodological principles that were supposed to govern them.
 
 ---
 
@@ -22,7 +22,7 @@ Feyerabend matters to SPLectrum because he made the case for pluralism from insi
 
 **Theoretical pluralism.** Science advances not by refining a single theory but by proliferating alternatives. Competing theories expose what a dominant theory hides — anomalies become visible only against a different background. A monopoly of ideas is as dangerous as a monopoly of power.
 
-**Incommensurability.** Theories operating within different frameworks may not be fully translatable into each other. The terms change meaning across paradigms — "mass" in Newton is not "mass" in Einstein. Feyerabend (alongside [Kuhn](/positioning/persons/k/kuhn), who developed the idea independently) argued that this is not a failure of science but a feature of how deep change works.
+**Incommensurability.** Theories operating within different frameworks may not be fully translatable into each other. The terms change meaning across paradigms — "mass" in Newton is not "mass" in Einstein. Feyerabend (alongside [Kuhn](/positioning/persons/k/kuhn/), who developed the idea independently) argued that this is not a failure of science but a feature of how deep change works.
 
 **Science as one tradition among many.** In *Science in a Free Society* and later work, Feyerabend argued that science has no inherent authority over other traditions — indigenous knowledge, religious practice, craft traditions. Each has its own standards, its own achievements. Privileging science is a political choice, not an epistemological necessity. This position earned him the label "the worst enemy of science" — a characterisation he wore lightly.
 
@@ -30,7 +30,7 @@ Feyerabend matters to SPLectrum because he made the case for pluralism from insi
 
 ## Where Feyerabend stops
 
-Feyerabend tore down the methodological monopoly but — like [Rorty](/positioning/persons/r/rorty) on the philosophical side — deliberately refused to build something in its place. "Anything goes" is a diagnostic, not a programme. His pluralism is negative: no rule can be fixed in advance. SPLectrum's pluralism is constructive: languages have equal standing (P4), they interrelate (P4), and together they form a web of growing complexity (P5). Feyerabend showed that the gate should be open; SPLectrum asks what grows in the garden when it is.
+Feyerabend tore down the methodological monopoly but — like [Rorty](/positioning/persons/r/rorty/) on the philosophical side — deliberately refused to build something in its place. "Anything goes" is a diagnostic, not a programme. His pluralism is negative: no rule can be fixed in advance. SPLectrum's pluralism is constructive: languages have equal standing (P4), they interrelate (P4), and together they form a web of growing complexity (P5). Feyerabend showed that the gate should be open; SPLectrum asks what grows in the garden when it is.
 
 ---
 
@@ -44,4 +44,4 @@ Feyerabend tore down the methodological monopoly but — like [Rorty](/positioni
 
 ---
 
-See also: [Philosophy of science](/positioning/subjects/p/philosophy-of-science) · [The seed and Philosophy](/seed/philosophical) · [The seed and Interrelational Pluralism](/seed/interrelational-pluralism)
+See also: [Philosophy of science](/positioning/subjects/p/philosophy-of-science/) · [The seed and Philosophy](/seed/philosophical/) · [The seed and Interrelational Pluralism](/seed/interrelational-pluralism/)

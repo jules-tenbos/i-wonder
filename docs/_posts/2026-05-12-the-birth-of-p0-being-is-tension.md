@@ -8,7 +8,7 @@ words: 1006
 ---
 <img src="https://images.unsplash.com/photo-1556197908-96ed0fa30b65?q=80&w=2070&auto=format&fit=crop" alt="The Birth of P0 — Being Is Tension" />
 
-When [SPLectrum was born](/blog/2026/03/splectrum-is-born/) the seed had only five principles about language and the relational. Then after having done the initial [positioning](/blog/label/positioning) posts the SPLectrum seed was ready for a bit of unpacking. I named that post [SPLectrum from First Principles](/blog/2026/05/splectrum-and-first-principles/). While preparing for the post I ran into a bit of bother: where does language come from? My thoughts drifted Heidegger's way - *being is always already disclosed* - and if that is the case, so must language, the relational. Ok, *being implies language* but I don't think I can say more. Since this principle is of a different nature from the other ones, I decided to call it P0 — the principle of language origin.
+When [SPLectrum was born](/blog/2026/03/splectrum-is-born/) the seed had only five principles about language and the relational. Then after having done the initial [positioning](/blog/label/positioning/) posts the SPLectrum seed was ready for a bit of unpacking. I named that post [SPLectrum from First Principles](/blog/2026/05/splectrum-and-first-principles/). While preparing for the post I ran into a bit of bother: where does language come from? My thoughts drifted Heidegger's way - *being is always already disclosed* - and if that is the case, so must language, the relational. Ok, *being implies language* but I don't think I can say more. Since this principle is of a different nature from the other ones, I decided to call it P0 — the principle of language origin.
 
 P0 started as a simple statement — a bare acknowledgment — but has since become a genuine creational principle. The act of placing a boundary *is* the act of creation. You don't create something and then put a boundary around it. The boundary is the creation. Before it, no thing. After it, something. Every instance of anything — a cell, a thought, a data unit, a self — repeats the same cut. P0 is not one principle among six. It is the ground from which the other five become possible.
 
@@ -60,7 +60,7 @@ Nine independent formulations. Different traditions, different centuries, differ
 
 My formulation as ***Being is tension across the interface*** came to me as I imagined a water droplet suspended in air. The droplet as the differentiation, the tension in the interface to keep the droplet together as liquid, suspended in a gas. Being suspended in its complement. The interface is where being meets the world.
 
-<small>This post is part of the [seed series](/blog/label/seed). More on the seed in the <a href="/seed">seed section of the reference library</a>.</small>
+<small>This post is part of the [seed series](/blog/label/seed/). More on the seed in the <a href="/seed/">seed section of the reference library</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@xcrap">xcrap</a> / Unsplash</small>

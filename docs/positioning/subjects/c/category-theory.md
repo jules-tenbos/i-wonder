@@ -28,13 +28,13 @@ Developed in the 1940s by [Samuel Eilenberg](https://en.wikipedia.org/wiki/Samue
 
 ## The philosophical resonance
 
-Category theory did not set out to be a philosophy, but it arrived at positions that philosophers had been working toward independently. [Wittgenstein](/positioning/persons/w/wittgenstein)'s meaning-as-use, [Rorty](/positioning/persons/r/rorty)'s anti-representationalism, the relational ontology of [process philosophy](/positioning/subjects/p/process-philosophy) — all converge on the same insight: what something *is* lives in how it relates, not in what it contains. Category theory gives this insight mathematical form.
+Category theory did not set out to be a philosophy, but it arrived at positions that philosophers had been working toward independently. [Wittgenstein](/positioning/persons/w/wittgenstein/)'s meaning-as-use, [Rorty](/positioning/persons/r/rorty/)'s anti-representationalism, the relational ontology of [process philosophy](/positioning/subjects/p/process-philosophy/) — all converge on the same insight: what something *is* lives in how it relates, not in what it contains. Category theory gives this insight mathematical form.
 
-The convergence is not accidental. When [Whitehead](/positioning/persons/w/whitehead) describes actual entities as constituted by their relations (prehensions), he is describing categorical structure in philosophical language. When the seed says being implies language (P0) and language is relational (P1), it is describing the conditions that category theory formalises. Different languages, same territory.
+The convergence is not accidental. When [Whitehead](/positioning/persons/w/whitehead/) describes actual entities as constituted by their relations (prehensions), he is describing categorical structure in philosophical language. When the seed says being implies language (P0) and language is relational (P1), it is describing the conditions that category theory formalises. Different languages, same territory.
 
 ## Applied category theory
 
-For how category theory connects to SPLectrum's treatment of language in practice, see the [applied category theory](/language/category-theory) page in the language section of the site.
+For how category theory connects to SPLectrum's treatment of language in practice, see the [applied category theory](/language/category-theory/) page in the language section of the site.
 
 ---
 
@@ -48,4 +48,4 @@ Category theory is structurally complete but experientially empty. It captures r
 
 [Samuel Eilenberg](https://en.wikipedia.org/wiki/Samuel_Eilenberg) · [Saunders Mac Lane](https://en.wikipedia.org/wiki/Saunders_Mac_Lane)
 
-See also: [Applied category theory](/language/category-theory) · [Seed](/seed/) · [Process philosophy](/positioning/subjects/p/process-philosophy)
+See also: [Applied category theory](/language/category-theory/) · [Seed](/seed/) · [Process philosophy](/positioning/subjects/p/process-philosophy/)

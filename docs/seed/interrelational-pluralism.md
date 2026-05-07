@@ -8,7 +8,7 @@ description: "The SPLectrum seed and interrelational pluralism — languages wit
 
 # The seed and Interrelational Pluralism
 
-This page builds on [The seed and Historicity](/seed/historicity) and [The seed and Human Reality](/seed/human-reality). Interrelational pluralism discloses the full dynamic of the seed — a creative engine driven by the six principles.
+This page builds on [The seed and Historicity](/seed/historicity/) and [The seed and Human Reality](/seed/human-reality/). Interrelational pluralism discloses the full dynamic of the seed — a creative engine driven by the six principles.
 
 **P0** stripped back: differentiation produces concept and language. This could be static — a difference that leaves no trace. The creational principle operates before experience enters the picture.
 
@@ -20,4 +20,4 @@ This page builds on [The seed and Historicity](/seed/historicity) and [The seed 
 
 Three P0 moments — concept, community, language — same principle at three scales. The engine and its variety: P5, the web growing in complexity, driven by the creative power of the interrelational.
 
-See the [seed series](/blog/label/seed) for the conversation around these principles. See [positioning](/positioning/) for the philosophical neighbourhood.
+See the [seed series](/blog/label/seed/) for the conversation around these principles. See [positioning](/positioning/) for the philosophical neighbourhood.

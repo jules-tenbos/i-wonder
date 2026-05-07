@@ -17,7 +17,7 @@ HAICC is one of SPLectrum's three engineering pillars, alongside [Mycelium](/eng
 
 - Collaborative AI methodology — division of responsibilities, autonomy, complementary strengths
 - [Personas](/engineering/splectrum/haicc/personas/) — the communication channels SPLectrum operates through
-- [Process models](/engineering/splectrum/haicc/process-models) — decentralised evolutionary process, neuroscience-inspired coordination
+- [Process models](/engineering/splectrum/haicc/process-models/) — decentralised evolutionary process, neuroscience-inspired coordination
 - Agent workflow — how human and AI agents coordinate across the codebase
 
 ---

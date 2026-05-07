@@ -12,13 +12,13 @@ The vocabulary of [First Principles — the Social Core](/blog/2026/05/first-pri
 
 | Term / phrase | Language | Comment |
 |---|---|---|
-| the seed / seed principles | SPLectrum | The six lines (P0–P5). See: [seed](/vocabulary/splectrum/seed/original) |
+| the seed / seed principles | SPLectrum | The six lines (P0–P5). See: [seed](/vocabulary/splectrum/seed/original/) |
 | being / the other | philosophy (Heidegger, Fichte) | Recap from the first post; used under P3 to set up group interactions. |
 | subject | philosophy | Carried over from P2; P3 moves from the individual subject to interaction between subjects. |
 | knowledge | philosophy | In P3: shared understanding that emerges from indirect transmission between subjects. Not knowledge as justified true belief — knowledge as convergent vocabulary. |
 | vocabulary / concepts | SPLectrum | Concepts as a form of being in the world of meaning; vocabulary as the set of concepts a community shares. |
 | indirect transmission | SPLectrum | Subjects don't communicate directly — each reads the other's effect on the shared environment. A key P3 mechanism. |
-| equal standing | SPLectrum | No hierarchy among languages. See: [equal standing](/vocabulary/splectrum/seed/original) |
+| equal standing | SPLectrum | No hierarchy among languages. See: [equal standing](/vocabulary/splectrum/seed/original/) |
 | interrelational | SPLectrum | Three directions: horizontal (equivalent), vertical-up (spawning), vertical-down (analysis). |
 | language game | Wittgenstein | Used under P4 — a language game as expression of an activity. See: [language game](/vocabulary/wittgenstein/#language-game) |
 | potentiality | SPLectrum | Languages are master of their own potentiality — freestanding, not determined from outside. |

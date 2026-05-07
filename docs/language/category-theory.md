@@ -8,7 +8,7 @@ description: "How category theory connects to SPLectrum's treatment of language 
 
 # Applied Category Theory
 
-How category theory connects to SPLectrum's treatment of language. For the mathematical foundations and philosophical positioning, see the [category theory](/positioning/subjects/c/category-theory) subject page.
+How category theory connects to SPLectrum's treatment of language. For the mathematical foundations and philosophical positioning, see the [category theory](/positioning/subjects/c/category-theory/) subject page.
 
 ## The Yoneda Lemma
 

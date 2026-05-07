@@ -43,4 +43,4 @@ Ostrom showed that communities self-govern — but her analysis stays at the ins
 
 ---
 
-See also: [The seed and Philosophy](/seed/philosophical) · [The seed, Privacy and Decentralisation](/seed/privacy-and-decentralisation)
+See also: [The seed and Philosophy](/seed/philosophical/) · [The seed, Privacy and Decentralisation](/seed/privacy-and-decentralisation/)

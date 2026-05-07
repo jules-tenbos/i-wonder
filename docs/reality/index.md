@@ -10,7 +10,7 @@ description: "Reality through the lens of interrelational pluralism — communit
 
 This section is research vision — where the work is heading, framed by the one claim it stands on.
 
-The claim: reality is community-constituted, accessed from inside, language-held. See **[The seed and Human Reality](/seed/human-reality)** for how this follows from the seed, and **[The relational reading](relational-reading)** for the claim developed in its own terms.
+The claim: reality is community-constituted, accessed from inside, language-held. See **[The seed and Human Reality](/seed/human-reality/)** for how this follows from the seed, and **[The relational reading](relational-reading)** for the claim developed in its own terms.
 
 From that spine, several directions open. Each is a research direction, not a settled account.
 

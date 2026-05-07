@@ -8,7 +8,7 @@ description: "Becoming over being, events over substances — the tradition that
 
 # Process philosophy
 
-Process philosophy matters to SPLectrum because the [seed](/seed/) is processual through and through. Being and language arise together (P0) — not as fixed entities but as ongoing differentiation. Language is relational (P1) — relations are events, not things. Complexity grows (P5) — evolution stays coupled to its history, nothing deconstructs back to its beginning. These are process claims. [Whitehead](/positioning/persons/w/whitehead)'s actual entities — constituted by their relations, arising through concrescence, perishing as data for what follows — are the closest metaphysical parallel to what the seed describes. [Hegel](/positioning/persons/h/hegel)'s sublation — nothing simply left behind — is how SPLectrum understands [historicity](/seed/historicity). And [Bergson](/positioning/persons/b/bergson)'s creative evolution — genuine novelty, not rearrangement — connects to SPLectrum's treatment of creation as [discovery](/seed/discovery).
+Process philosophy matters to SPLectrum because the [seed](/seed/) is processual through and through. Being and language arise together (P0) — not as fixed entities but as ongoing differentiation. Language is relational (P1) — relations are events, not things. Complexity grows (P5) — evolution stays coupled to its history, nothing deconstructs back to its beginning. These are process claims. [Whitehead](/positioning/persons/w/whitehead/)'s actual entities — constituted by their relations, arising through concrescence, perishing as data for what follows — are the closest metaphysical parallel to what the seed describes. [Hegel](/positioning/persons/h/hegel/)'s sublation — nothing simply left behind — is how SPLectrum understands [historicity](/seed/historicity/). And [Bergson](/positioning/persons/b/bergson/)'s creative evolution — genuine novelty, not rearrangement — connects to SPLectrum's treatment of creation as [discovery](/seed/discovery/).
 
 The philosophical tradition that takes becoming as primary over being, events over substances, process over permanence. Where the mainstream Western tradition from Parmenides onward sought the unchanging behind the changing, process philosophy argues that change is not appearance — it is reality. What endures is not a thing but a pattern of activity.
 
@@ -20,11 +20,11 @@ Replace substance with process. An entity is not a thing that undergoes change �
 
 ## Key developments
 
-**[Hegel](/positioning/persons/h/hegel)** made process the engine of thought. The dialectic — every determination generating its own negation, resolved through sublation — drives thought, history, and reality through stages of increasing concreteness. Nothing is simply negated; everything is preserved and elevated. The rational is actual — not as static fact but as ongoing development.
+**[Hegel](/positioning/persons/h/hegel/)** made process the engine of thought. The dialectic — every determination generating its own negation, resolved through sublation — drives thought, history, and reality through stages of increasing concreteness. Nothing is simply negated; everything is preserved and elevated. The rational is actual — not as static fact but as ongoing development.
 
-**[Bergson](/positioning/persons/b/bergson)** made duration the starting point. Lived time is continuous, qualitative, indivisible — not the spatialized time of clocks. Creative evolution produces genuine novelty — not the rearrangement of pre-existing elements but the emergence of what could not have been predicted. The élan vital drives life through matter, splitting into divergent lines.
+**[Bergson](/positioning/persons/b/bergson/)** made duration the starting point. Lived time is continuous, qualitative, indivisible — not the spatialized time of clocks. Creative evolution produces genuine novelty — not the rearrangement of pre-existing elements but the emergence of what could not have been predicted. The élan vital drives life through matter, splitting into divergent lines.
 
-**[Whitehead](/positioning/persons/w/whitehead)** built the systematic metaphysics. Reality consists of actual occasions — moments of experience that arise through concrescence (the drawing-together of past occasions), achieve satisfaction, and perish as data for future occasions. Creativity is the ultimate category: the many become one and are increased by one. Nothing exists in isolation — every entity is constituted by its relations.
+**[Whitehead](/positioning/persons/w/whitehead/)** built the systematic metaphysics. Reality consists of actual occasions — moments of experience that arise through concrescence (the drawing-together of past occasions), achieve satisfaction, and perish as data for future occasions. Creativity is the ultimate category: the many become one and are increased by one. Nothing exists in isolation — every entity is constituted by its relations.
 
 ## What holds the tradition together
 
@@ -40,6 +40,6 @@ Process philosophy replaces substance with event — but the three main figures 
 
 ## Persons
 
-[Hegel](/positioning/persons/h/hegel) · [Bergson](/positioning/persons/b/bergson) · [Whitehead](/positioning/persons/w/whitehead)
+[Hegel](/positioning/persons/h/hegel/) · [Bergson](/positioning/persons/b/bergson/) · [Whitehead](/positioning/persons/w/whitehead/)
 
-See also: [Category theory](/positioning/subjects/c/category-theory) · [German idealism](/positioning/subjects/g/german-idealism) · [The seed and Philosophy](/seed/philosophical) · [The seed and Historicity](/seed/historicity) · [The seed and Interrelational Pluralism](/seed/interrelational-pluralism)
+See also: [Category theory](/positioning/subjects/c/category-theory/) · [German idealism](/positioning/subjects/g/german-idealism/) · [The seed and Philosophy](/seed/philosophical/) · [The seed and Historicity](/seed/historicity/) · [The seed and Interrelational Pluralism](/seed/interrelational-pluralism/)

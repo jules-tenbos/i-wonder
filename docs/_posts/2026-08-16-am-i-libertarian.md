@@ -22,7 +22,7 @@ The underlying principle is individual liberty balanced with mutual respect. Tha
 
 <small>This post is from an earlier moment in the walk (09/12/2024). For where the decentralisation thread went, see <a href="/positioning/on-the-fence/mutualism/">mutualism</a> in the positioning area.</small>
 
-<small>This post is part of the [preamble](/blog/label/preamble), about happening before SPLectrum saw the light of day.</small>
+<small>This post is part of the [preamble](/blog/label/preamble/), about happening before SPLectrum saw the light of day.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@itsnath_jpeg">itsnath_jpeg</a> / Unsplash</small>

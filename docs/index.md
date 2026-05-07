@@ -27,7 +27,7 @@ SPLectrum is a foundational philosophy grown from seed — six principles on the
     <h3 class="area-title">Engineering</h3>
     <p class="area-desc">How SPLectrum builds — a journey across three pillars.</p>
   </a>
-  <a class="area-box" href="/vocabulary">
+  <a class="area-box" href="/vocabulary/">
     <h3 class="area-title">Vocabulary</h3>
     <p class="area-desc">Aiming for one vocabulary per language game — concepts made explicit.</p>
   </a>

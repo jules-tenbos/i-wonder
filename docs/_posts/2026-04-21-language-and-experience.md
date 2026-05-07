@@ -22,7 +22,7 @@ Looking at the flames of an open fire, we don't see undefined things. Everything
 
 But there is more than sight. There is the heat of the fire on our skin, the sound of burning. Our body absorbs the presence of fire through all its sensory channels, each channel processing input, assigning vocabulary. A dynamic game, a spectacle speaking to us through its presence while we speak back to it using our inner language that we associate with it. It is a language that is strictly personal — the way I experience fire may use a vocabulary common to others, but the inner sound of it is personal, only experienced by me in that specific way.
 
-This insight was developed within the continental tradition under [phenomenology](/positioning/subjects/p/phenomenology) and aptly characterised by three major philosophers: [Husserl](/positioning/persons/h/husserl), [Heidegger](/positioning/persons/h/heidegger) and [Merleau-Ponty](/positioning/persons/m/merleau-ponty).
+This insight was developed within the continental tradition under [phenomenology](/positioning/subjects/p/phenomenology/) and aptly characterised by three major philosophers: [Husserl](/positioning/persons/h/husserl/), [Heidegger](/positioning/persons/h/heidegger/) and [Merleau-Ponty](/positioning/persons/m/merleau-ponty/).
 
 Husserl fired the first shot: stop theorising about experience and examine what actually appears — the structures of experience as they are.
 
@@ -36,7 +36,7 @@ However, this personal experience ***is*** my reality — how ***I*** experience
 
 Flip the picture and personal experience isn't defective — it's primary. Shared reality is the overlap, the convergence, the part we manage to align through language exchange. The personal isn't a failed attempt at the objective. The objective is the shared part of the personal, the subjective. The practical limits are in the language we use to experience and share. Language shapes thinking, language shapes experience, language shapes the shared reality.
 
-<small>This post is part of the [reality series](/blog/label/reality). See also the <a href="/reality/">Reality</a> section of the site.</small>
+<small>This post is part of the [reality series](/blog/label/reality/). See also the <a href="/reality/">Reality</a> section of the site.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@hansphoto">Hans Photo</a> / Unsplash</small>

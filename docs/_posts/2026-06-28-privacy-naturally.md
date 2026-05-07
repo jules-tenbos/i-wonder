@@ -40,7 +40,7 @@ Which makes me wonder. What if the architecture itself could be different? What 
 
 I think it can.
 
-<small>This post is part of the [seed series](/blog/label/seed). See also the <a href="/">home page</a>.</small>
+<small>This post is part of the [seed series](/blog/label/seed/). See also the <a href="/">home page</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@jdent">Jason Dent</a> / Unsplash</small>

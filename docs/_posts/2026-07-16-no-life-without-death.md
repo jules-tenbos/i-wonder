@@ -22,7 +22,7 @@ We are not separate from life — we *are* life, expressing itself through our p
 
 The flame passes on, taking new forms, exploring new possibilities. Always changing, always growing. That is a way of lasting forever which doesn't require any of us to personally manage the trick.
 
-<small>This post is from an earlier moment in the walk(20/02/2022). This post is part of the [preamble](/blog/label/preamble), about happening before SPLectrum saw the light of day.</small>
+<small>This post is from an earlier moment in the walk(20/02/2022). This post is part of the [preamble](/blog/label/preamble/), about happening before SPLectrum saw the light of day.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@melissaaskew">Melissa Askew</a> / Unsplash</small>

@@ -22,7 +22,7 @@ None of this is a road to guaranteed paradise. The brain is old, it is powerful,
 
 <small>This post is from an earlier moment in the walk (03/12/2024). For how this connects to the wider picture of evolutionary transitions, see <a href="/reality/evolution/">Evolution</a>.</small>
 
-<small>This post is part of the [preamble](/blog/label/preamble), about happening before SPLectrum saw the light of day.</small>
+<small>This post is part of the [preamble](/blog/label/preamble/), about happening before SPLectrum saw the light of day.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@jplenio">Johannes Plenio</a> / Unsplash</small>

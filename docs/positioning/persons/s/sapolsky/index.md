@@ -44,4 +44,4 @@ Sapolsky's layers are biological, developmental, evolutionary, cultural — but 
 
 ---
 
-See also: [The seed and Philosophy](/seed/philosophical) · [The seed and Human Reality](/seed/human-reality)
+See also: [The seed and Philosophy](/seed/philosophical/) · [The seed and Human Reality](/seed/human-reality/)

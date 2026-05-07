@@ -10,7 +10,7 @@ vocabulary: /vocabulary/site/home/blog/splectrum-and-first-principles/
 ---
 <img src="https://images.unsplash.com/photo-1736348877782-fa7ae2a9bd69?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="First principles" />
 
-SPLectrum was conceived about a year ago. It started as an engineering project around [domain specific languages (DSL)](/positioning/subjects/d/domain-specific-languages) and collaborative AI. SPLectrum as a foundational philosophy was born only two months ago, when the seed principles materialised. Two months researching how the SPLectrum seed principles sit within the philosophical and scientific realm. This culminated last week with my post on relational quantum mechanics (RQM). I was feeling my way, not always high in confidence: who are you that you dare to push the principles of the seed, those 6 lines, to us as the entirety of your foundation to build on?
+SPLectrum was conceived about a year ago. It started as an engineering project around [domain specific languages (DSL)](/positioning/subjects/d/domain-specific-languages/) and collaborative AI. SPLectrum as a foundational philosophy was born only two months ago, when the seed principles materialised. Two months researching how the SPLectrum seed principles sit within the philosophical and scientific realm. This culminated last week with my post on relational quantum mechanics (RQM). I was feeling my way, not always high in confidence: who are you that you dare to push the principles of the seed, those 6 lines, to us as the entirety of your foundation to build on?
 
 The fact that my focus suddenly organised itself around a set of simple principles has been an odd event. The SPLectrum name comes from a collaborative AI software engineering project. Its philosophical contents come from years of interest in all things evolution — in the physical and mental realm. Both sides slowly drifted more and more into the language realm, the medium of expression. Then, suddenly, the seed fell into place. It was with relief that I noticed that this 'turn' fits well. The last few hundred years have seen a similar natural evolution in thinking in philosophy, but also in science. I don't know if I succeeded but the posts of the last two months attempted to lift the curtain on this. 
 
@@ -29,7 +29,7 @@ Language is a medium that binds things together — like glue, it tells a story 
 ***P2 - Language is the medium through which a subject experiences reality.***
 Expect a battleground here. No reality without subject, no outside view seen from nowhere. What you experience is what you get, what is. The funny part is that in everyday life we acknowledge this: 'He lives in a different world, a different reality'. But within science and philosophy there is a lot of pushback, tacit persistence of an outside view. What is often overlooked is that the lived experience of reality provides richness, where representation — the imperfect description of an outside reality — is in essence dead.
 
-<small>This post is part of the [seed series](/blog/label/seed). Continued in [First Principles — the Social Core](/blog/2026/05/first-principles-the-social-core/). See also the <a href="/seed">Seed</a> section of the site.</small>
+<small>This post is part of the [seed series](/blog/label/seed/). Continued in [First Principles — the Social Core](/blog/2026/05/first-principles-the-social-core/). See also the <a href="/seed/">Seed</a> section of the site.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@funen99">Funen99</a> / Unsplash</small>

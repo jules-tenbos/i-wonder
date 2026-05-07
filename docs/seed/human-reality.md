@@ -8,7 +8,7 @@ description: "The SPLectrum seed and human reality — we experience individuall
 
 # The seed and Human Reality
 
-How the seed relates to us as humans, to our daily life, to our perception of reality. Human reality is community-constituted — we experience individually but share through language, and the shared reality that forms is where we live. This page builds on [historicity](/seed/historicity) and extends into P3 and P4.
+How the seed relates to us as humans, to our daily life, to our perception of reality. Human reality is community-constituted — we experience individually but share through language, and the shared reality that forms is where we live. This page builds on [historicity](/seed/historicity/) and extends into P3 and P4.
 
 **P0 — Being implies language.**<br>
 When a community comes into existence, it is an act of creation — and like all creation in the seed, it involves differentiation. There is no "us" without what is not us.
@@ -30,4 +30,4 @@ We synchronise, knowledge deepens, new languages emerge from the overlap, and th
 
 {% include pending-link.html date="2026-05-16T00:00:00Z" text="See [The Seed and Human Reality](/blog/2026/05/seed-and-human-reality/) for the blog conversation." %}
 
-See the [seed series](/blog/label/seed) for the conversation around these principles.
+See the [seed series](/blog/label/seed/) for the conversation around these principles.

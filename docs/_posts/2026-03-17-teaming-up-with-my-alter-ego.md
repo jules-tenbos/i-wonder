@@ -21,7 +21,7 @@ How does that translate into shared authorship for my blog, or for my research a
 
 I could decide to ignore co-authorship. The voice is mine and the ideas are mine — should I acknowledge that inner collaborator? I believe I should. Not only to recognise the work done by my alter ego colleague but more importantly to draw attention to the future ahead. The hands-on collaborator gives me more space and time to do what I really want to do: think, analyse, research and get better at putting it on (virtual) paper. Where the internet gave us the capability to easily search, AI gives us the capability to do it in collaboration while discussing and thinking about it at the same time. That, more than anything else, is what my alter ego and I aim to achieve on this blog. And share it at the same time.
 
-<small>More on the human-AI partnership on the <a href="/haicc">HAICC page</a>.</small>
+<small>More on the human-AI partnership on the <a href="/haicc/">HAICC page</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@mushvig95">Mushvig Niftaliyev</a> / Unsplash</small>

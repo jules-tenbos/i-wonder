@@ -25,7 +25,7 @@ Everyone has their own unique way they experience the world, how they relate to 
 
 The simplicity of six lines — the seed — versus the complexity of what follows from it. Does that hold? Isn't there a way around it? All well and good me saying this, but is there actually support for this way of thinking? Let's find out — that is what unpacking is about. What do these six lines allow me to say? And is it supported by what other people think? And yes, this will involve philosophers with their special vocabulary and ways of thinking, but also biologists, physicists, people in the arts, religion, all walks of life. Let's go on that journey!
 
-<small>This post is part of the [seed series](/blog/label/seed). More on the seed in the <a href="/seed">seed section of the reference library</a>.</small>
+<small>This post is part of the [seed series](/blog/label/seed/). More on the seed in the <a href="/seed/">seed section of the reference library</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@kchance8">Kelsey Chance</a> / Unsplash</small>

@@ -36,7 +36,7 @@ These are the directions HAICC wants to explore. How processes embed in the fabr
 
 The brain doesn't orchestrate. Neither does the fabric.
 
-<small>This post is part of the [positioning series](/blog/label/positioning). See also <a href="/engineering/">Engineering</a>.</small>
+<small>This post is part of the [positioning series](/blog/label/positioning/). See also <a href="/engineering/">Engineering</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@googledeepmind">Google DeepMind</a> / Unsplash</small>

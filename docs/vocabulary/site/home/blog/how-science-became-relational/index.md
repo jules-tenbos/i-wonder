@@ -11,7 +11,7 @@ The vocabulary of {% include pending-link.html date="2026-04-26T00:00:00Z" text=
 
 | Term / phrase | Language | Comment |
 |---|---|---|
-| the turn | philosophy | Used for the philosophical pivot (Kant, Descartes) and extended to science. See: [the turn in Western philosophy](/positioning/seed/the-turn-in-western-philosophy), [the turn in science](/positioning/seed/the-turn-in-science) |
+| the turn | philosophy | Used for the philosophical pivot (Kant, Descartes) and extended to science. See: [the turn in Western philosophy](/positioning/seed/the-turn-in-western-philosophy/), [the turn in science](/positioning/seed/the-turn-in-science/) |
 | mind-body split | philosophy (Descartes) | The move that licensed a purely mechanical physical world. |
 | mechanism / mechanistic world | philosophy of science | Reality as machinery, no purpose inside. Narrowed from the everyday "how something works". |
 | deterministic | physics | Fixed outcomes from initial conditions; defining property of the classical picture, later contrasted with probabilistic QM. |
@@ -42,4 +42,4 @@ The vocabulary of {% include pending-link.html date="2026-04-26T00:00:00Z" text=
 
 - **Heavy on inherited vocabulary, no SPLectrum coinage.** The post does positioning work — locating SPLectrum within the science arc — and the table reflects that: every row sources from physics, philosophy of science, or general English. The framings the post uses that recur across the site (the turn, relational view, separability) all come from the conversation the post is participating in, not from the project.
 - **Two senses to watch.** *Classical* slides between the historical era ("classical mechanics", "classical physics") and the narrower local-realist sense ("any classical explanation" in the Bell paragraph). *Observer* slides between the everyday "reads off properties" and the measurement-coupled QM role. Both are common physics-philosophy ambiguities rather than page defects, but worth flagging on review.
-- **Cohesion landings with the ref lib.** "Separability fails" matches the closing line of [the turn in science](/positioning/seed/the-turn-in-science). "the turn" extends the site motif from philosophy into science. The Leibniz container-vs-ordering pair matches its handling on the same ref lib page.
+- **Cohesion landings with the ref lib.** "Separability fails" matches the closing line of [the turn in science](/positioning/seed/the-turn-in-science/). "the turn" extends the site motif from philosophy into science. The Leibniz container-vs-ordering pair matches its handling on the same ref lib page.

@@ -8,9 +8,9 @@ description: "The study of experience from the inside — how the world shows up
 
 # Phenomenology
 
-Phenomenology matters to SPLectrum because it insists that experience is where inquiry starts — not a distraction from the real, but the real itself. The [seed](/seed/)'s P2, where language is the medium through which a subject experiences reality, is a phenomenological claim. So is the insistence on no outside view: there is no reality to describe that is not already someone's experience. Phenomenology provides the philosophical ground for taking lived experience seriously, and its trajectory — from [Husserl](/positioning/persons/h/husserl)'s consciousness through [Heidegger](/positioning/persons/h/heidegger)'s being-in-the-world to [Merleau-Ponty](/positioning/persons/m/merleau-ponty)'s body — traces a path that SPLectrum continues toward the relational and the shared.
+Phenomenology matters to SPLectrum because it insists that experience is where inquiry starts — not a distraction from the real, but the real itself. The [seed](/seed/)'s P2, where language is the medium through which a subject experiences reality, is a phenomenological claim. So is the insistence on no outside view: there is no reality to describe that is not already someone's experience. Phenomenology provides the philosophical ground for taking lived experience seriously, and its trajectory — from [Husserl](/positioning/persons/h/husserl/)'s consciousness through [Heidegger](/positioning/persons/h/heidegger/)'s being-in-the-world to [Merleau-Ponty](/positioning/persons/m/merleau-ponty/)'s body — traces a path that SPLectrum continues toward the relational and the shared.
 
-The study of experience from the inside. Phenomenology does not ask what the world is made of — it asks how the world shows up for a subject. Founded by [Husserl](/positioning/persons/h/husserl) as a rigorous science of consciousness, it became one of the dominant movements of twentieth-century philosophy, branching into existentialism, hermeneutics, and the philosophy of embodiment.
+The study of experience from the inside. Phenomenology does not ask what the world is made of — it asks how the world shows up for a subject. Founded by [Husserl](/positioning/persons/h/husserl/) as a rigorous science of consciousness, it became one of the dominant movements of twentieth-century philosophy, branching into existentialism, hermeneutics, and the philosophy of embodiment.
 
 ---
 
@@ -20,15 +20,15 @@ Bracket the natural attitude — the everyday assumption that the world exists i
 
 ## Key developments
 
-**[Husserl](/positioning/persons/h/husserl)** established the foundations: intentionality (consciousness is always consciousness *of* something), time-consciousness (retention, protention, the flow of lived time), the lifeworld as the pre-theoretical ground beneath all science. His work on intersubjectivity — how other subjects are experienced, not inferred — opened the questions that his successors pursued in different directions.
+**[Husserl](/positioning/persons/h/husserl/)** established the foundations: intentionality (consciousness is always consciousness *of* something), time-consciousness (retention, protention, the flow of lived time), the lifeworld as the pre-theoretical ground beneath all science. His work on intersubjectivity — how other subjects are experienced, not inferred — opened the questions that his successors pursued in different directions.
 
-**[Heidegger](/positioning/persons/h/heidegger)** radicalised the project. Phenomenology becomes the question of Being. The subject is not consciousness but Dasein — the being that is always already in a world, always already understanding, always already involved. The reduction is replaced by disclosure: the world is not bracketed but revealed through engagement.
+**[Heidegger](/positioning/persons/h/heidegger/)** radicalised the project. Phenomenology becomes the question of Being. The subject is not consciousness but Dasein — the being that is always already in a world, always already understanding, always already involved. The reduction is replaced by disclosure: the world is not bracketed but revealed through engagement.
 
-**[Merleau-Ponty](/positioning/persons/m/merleau-ponty)** placed the body at the centre. Perception is not a mental act applied to sense data — it is the body's lived engagement with its surroundings. The habitual body carries its history forward; the world arrives already structured by the body's orientation within it. His late work on flesh and chiasm dissolves the subject-object boundary entirely.
+**[Merleau-Ponty](/positioning/persons/m/merleau-ponty/)** placed the body at the centre. Perception is not a mental act applied to sense data — it is the body's lived engagement with its surroundings. The habitual body carries its history forward; the world arrives already structured by the body's orientation within it. His late work on flesh and chiasm dissolves the subject-object boundary entirely.
 
-**[Sartre](/positioning/persons/s/sartre)** took phenomenology into existentialism. Consciousness is pure intentionality — always directed outward, always free, with no fixed essence behind it. "Existence precedes essence": we are not defined by what we are but by what we do. His divergence from Merleau-Ponty — radical freedom versus embodied ambiguity — defined two paths within French phenomenology.
+**[Sartre](/positioning/persons/s/sartre/)** took phenomenology into existentialism. Consciousness is pure intentionality — always directed outward, always free, with no fixed essence behind it. "Existence precedes essence": we are not defined by what we are but by what we do. His divergence from Merleau-Ponty — radical freedom versus embodied ambiguity — defined two paths within French phenomenology.
 
-**[Jonas](/positioning/persons/j/jonas)** extended phenomenology into biology. The organism is where selfhood begins — metabolism as the first act of self-constitution, the boundary maintained from within. Phenomenology meets the philosophy of life.
+**[Jonas](/positioning/persons/j/jonas/)** extended phenomenology into biology. The organism is where selfhood begins — metabolism as the first act of self-constitution, the boundary maintained from within. Phenomenology meets the philosophy of life.
 
 ## The tradition's reach
 
@@ -44,6 +44,6 @@ Phenomenology starts from the subject — and largely stays there. Even at its m
 
 ## Persons
 
-[Husserl](/positioning/persons/h/husserl) · [Heidegger](/positioning/persons/h/heidegger) · [Merleau-Ponty](/positioning/persons/m/merleau-ponty) · [Sartre](/positioning/persons/s/sartre) · [Jonas](/positioning/persons/j/jonas)
+[Husserl](/positioning/persons/h/husserl/) · [Heidegger](/positioning/persons/h/heidegger/) · [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) · [Sartre](/positioning/persons/s/sartre/) · [Jonas](/positioning/persons/j/jonas/)
 
-See also: [The seed and Philosophy](/seed/philosophical) · [The seed and Historicity](/seed/historicity) · [The Turn in Western Philosophy](/positioning/seed/the-turn-in-western-philosophy)
+See also: [The seed and Philosophy](/seed/philosophical/) · [The seed and Historicity](/seed/historicity/) · [The Turn in Western Philosophy](/positioning/seed/the-turn-in-western-philosophy/)

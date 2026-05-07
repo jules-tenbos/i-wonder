@@ -8,7 +8,7 @@ description: "Spinoza dissolved the distinction between God and nature — one s
 
 # Baruch Spinoza (1632–1677)
 
-Spinoza matters to SPLectrum because his *omnis determinatio est negatio* — determination is negation — is the philosophical ancestor of the [seed](/seed/)'s P0. Being as something different from the context it resides in: to be determined is to be not-everything-else. [Fichte](/positioning/persons/f/fichte) took this and made it dynamic (the I positing itself against the not-I); [Hegel](/positioning/persons/h/hegel) made it the engine of the dialectic. SPLectrum inherits the insight at P0: being and language arise together through differentiation. Spinoza's conatus — each thing striving to persist in its own being — resonates with [Jonas](/positioning/persons/j/jonas)'s metabolism as self-constitution and with the seed's treatment of being as actively sustained. And his substance monism, dissolving the [Descartes](/positioning/persons/d/descartes) split between mind and body, prefigures SPLectrum's refusal of dualisms.
+Spinoza matters to SPLectrum because his *omnis determinatio est negatio* — determination is negation — is the philosophical ancestor of the [seed](/seed/)'s P0. Being as something different from the context it resides in: to be determined is to be not-everything-else. [Fichte](/positioning/persons/f/fichte/) took this and made it dynamic (the I positing itself against the not-I); [Hegel](/positioning/persons/h/hegel/) made it the engine of the dialectic. SPLectrum inherits the insight at P0: being and language arise together through differentiation. Spinoza's conatus — each thing striving to persist in its own being — resonates with [Jonas](/positioning/persons/j/jonas/)'s metabolism as self-constitution and with the seed's treatment of being as actively sustained. And his substance monism, dissolving the [Descartes](/positioning/persons/d/descartes/) split between mind and body, prefigures SPLectrum's refusal of dualisms.
 
 [Baruch Spinoza](https://plato.stanford.edu/entries/spinoza/) (1632–1677). Rationalist philosopher who dissolved the distinction between God and nature into a single substance. Born into the Portuguese-Jewish community of Amsterdam, he was excommunicated (*cherem*) in 1656 at age 23 — one of the harshest bans in the history of the community. He earned his living as a lens grinder, refused a professorship at Heidelberg to preserve his intellectual independence, and died at 44, likely from lung disease related to glass dust. The *Ethics* was withheld from publication during his lifetime and published posthumously by friends. Everything that exists is a mode of one substance, understood under two of its infinite attributes — thought and extension — the only two accessible to us. There is no transcendent creator, no separate mind — only nature expressing itself in infinite ways.
 
@@ -18,7 +18,7 @@ Spinoza matters to SPLectrum because his *omnis determinatio est negatio* — de
 
 **Substance monism.** There is only one substance — God or Nature (*Deus sive Natura*). What we take to be individual things are modifications (modes) of this single substance. The distinction between creator and created collapses.
 
-**Determination is negation** (*omnis determinatio est negatio*). Every determination — every "this and not that" — works by excluding. To be something specific is to be not everything else. [Hegel](/positioning/persons/h/hegel) took this principle and made it the engine of the dialectic. For Spinoza it is a structural observation: finite things are defined by their limits.
+**Determination is negation** (*omnis determinatio est negatio*). Every determination — every "this and not that" — works by excluding. To be something specific is to be not everything else. [Hegel](/positioning/persons/h/hegel/) took this principle and made it the engine of the dialectic. For Spinoza it is a structural observation: finite things are defined by their limits.
 
 **The conatus.** Each thing strives to persist in its own being (*conatus*). This striving is not a choice — it is what the thing is. In humans, conatus manifests as desire, the effort to maintain and increase one's power of acting.
 
@@ -32,7 +32,7 @@ Spinoza matters to SPLectrum because his *omnis determinatio est negatio* — de
 
 ## Where Spinoza stops
 
-Spinoza's one substance is complete — eternal, infinite, fully determined. There is no genuine novelty, no historical development, no becoming. Everything that is follows necessarily from God's nature. This is the opposite of the seed's P5: complexity growing, evolution coupled to its history. [Hegel](/positioning/persons/h/hegel) historicised what Spinoza had frozen; [Bergson](/positioning/persons/b/bergson)'s creative evolution restored genuine novelty. And Spinoza's monism, for all its anti-dualist power, leaves no room for plurality: there is one substance, one truth, one system. SPLectrum's P4 — languages with equal standing — needs many, not one. The determination-through-negation insight is foundational; the system that houses it is too closed.
+Spinoza's one substance is complete — eternal, infinite, fully determined. There is no genuine novelty, no historical development, no becoming. Everything that is follows necessarily from God's nature. This is the opposite of the seed's P5: complexity growing, evolution coupled to its history. [Hegel](/positioning/persons/h/hegel/) historicised what Spinoza had frozen; [Bergson](/positioning/persons/b/bergson/)'s creative evolution restored genuine novelty. And Spinoza's monism, for all its anti-dualist power, leaves no room for plurality: there is one substance, one truth, one system. SPLectrum's P4 — languages with equal standing — needs many, not one. The determination-through-negation insight is foundational; the system that houses it is too closed.
 
 ---
 
@@ -44,4 +44,4 @@ Spinoza's one substance is complete — eternal, infinite, fully determined. The
 
 ---
 
-See also: [German idealism](/positioning/subjects/g/german-idealism) · [Being as Tension](/positioning/seed/being-as-tension) · [The seed and Philosophy](/seed/philosophical)
+See also: [German idealism](/positioning/subjects/g/german-idealism/) · [Being as Tension](/positioning/seed/being-as-tension/) · [The seed and Philosophy](/seed/philosophical/)

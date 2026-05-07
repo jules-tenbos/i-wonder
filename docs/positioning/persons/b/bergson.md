@@ -8,7 +8,7 @@ description: "Bergson put duration at the centre — lived time as continuous fl
 
 # Henri Bergson (1859–1941)
 
-Bergson matters to SPLectrum because he insisted that reality is continuous, creative, and irreducible to static categories. His duration — lived time where past and present interpenetrate — connects to the [seed](/seed/)'s treatment of [historicity](/seed/historicity): evolution stays coupled to its history (P5), nothing deconstructs back to its beginning. His creative evolution — genuine novelty, not rearrangement — resonates with SPLectrum's account of [creation as discovery](/seed/discovery). And his critique of the spatialising intellect echoes SPLectrum's suspicion of the outside view: the intellect freezes what is alive into static snapshots, the way representation freezes lived experience (P2). Bergson stands alongside [Whitehead](/positioning/persons/w/whitehead) and [Hegel](/positioning/persons/h/hegel) in the [process philosophy](/positioning/subjects/p/process-philosophy) tradition that SPLectrum draws on.
+Bergson matters to SPLectrum because he insisted that reality is continuous, creative, and irreducible to static categories. His duration — lived time where past and present interpenetrate — connects to the [seed](/seed/)'s treatment of [historicity](/seed/historicity/): evolution stays coupled to its history (P5), nothing deconstructs back to its beginning. His creative evolution — genuine novelty, not rearrangement — resonates with SPLectrum's account of [creation as discovery](/seed/discovery/). And his critique of the spatialising intellect echoes SPLectrum's suspicion of the outside view: the intellect freezes what is alive into static snapshots, the way representation freezes lived experience (P2). Bergson stands alongside [Whitehead](/positioning/persons/w/whitehead/) and [Hegel](/positioning/persons/h/hegel/) in the [process philosophy](/positioning/subjects/p/process-philosophy/) tradition that SPLectrum draws on.
 
 [Henri Bergson](https://plato.stanford.edu/entries/bergson/) (1859–1941). Philosopher of duration, intuition, and creative evolution. Nobel Prize in Literature, 1927. Bergson argued that reality is continuous flow — not a sequence of static states but an indivisible movement in which past and present interpenetrate. The intellect spatialises and freezes this flow; only intuition can grasp it as it is.
 
@@ -30,7 +30,7 @@ Bergson matters to SPLectrum because he insisted that reality is continuous, cre
 
 ## Where Bergson stops
 
-Bergson mistrusted language. The intellect spatialises; language is the intellect's tool; therefore language distorts duration. "The word turns against the sensation which gave rise to it." This puts him at odds with SPLectrum at the most fundamental level: the seed makes language the medium of reality (P1, P2), not the enemy of it. Bergson's intuition — the method that grasps duration from within — is powerful but private: there is no account of how intuitions are shared, how a community constitutes knowledge through language (P3), or how languages interrelate (P4). [Merleau-Ponty](/positioning/persons/m/merleau-ponty) would later show that the body bridges the gap Bergson left between intuition and expression. SPLectrum keeps Bergson's duration and his creative evolution but puts language back at the centre where Bergson pushed it away.
+Bergson mistrusted language. The intellect spatialises; language is the intellect's tool; therefore language distorts duration. "The word turns against the sensation which gave rise to it." This puts him at odds with SPLectrum at the most fundamental level: the seed makes language the medium of reality (P1, P2), not the enemy of it. Bergson's intuition — the method that grasps duration from within — is powerful but private: there is no account of how intuitions are shared, how a community constitutes knowledge through language (P3), or how languages interrelate (P4). [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) would later show that the body bridges the gap Bergson left between intuition and expression. SPLectrum keeps Bergson's duration and his creative evolution but puts language back at the centre where Bergson pushed it away.
 
 ---
 
@@ -44,4 +44,4 @@ Bergson mistrusted language. The intellect spatialises; language is the intellec
 
 ---
 
-See also: [Process philosophy](/positioning/subjects/p/process-philosophy) · [The seed and Philosophy](/seed/philosophical) · [The seed and Historicity](/seed/historicity)
+See also: [Process philosophy](/positioning/subjects/p/process-philosophy/) · [The seed and Philosophy](/seed/philosophical/) · [The seed and Historicity](/seed/historicity/)

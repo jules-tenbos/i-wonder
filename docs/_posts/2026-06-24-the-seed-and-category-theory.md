@@ -20,7 +20,7 @@ Standing the two languages alongside each other, a structural suspicion emerges 
 
 This is P4 in action. Two languages, equal standing, neither governing the other. The seed does not need category theory for validation. Category theory does not need the seed for grounding. They stand alongside each other. And where they meet, properties become visible. Not new power — new expression. The economy of the axioms. The formal weight behind the philosophical claims. Things that were always there, now seen because a second language illuminates them. P5: complexity grows in expression, not in power. The full power was always there. Category theory gives it another articulation. This is a first encounter — a light touch. The formal detail lives in the mathematics. The philosophical depth lives in the seed. What lives here is the meeting between them, and what that meeting makes visible.
 
-<small>This post is part of the [seed series](/blog/label/seed). More on category theory in the <a href="/language/category-theory">language section of the reference library</a>.</small>
+<small>This post is part of the [seed series](/blog/label/seed/). More on category theory in the <a href="/language/category-theory/">language section of the reference library</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@anniespratt">Annie Spratt</a> / Unsplash</small>

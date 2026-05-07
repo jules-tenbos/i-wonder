@@ -21,7 +21,7 @@ Posts labelled **thought**.
 <div class="blog-entry">
 {% if img_url %}<a href="{{ post.url }}"><img class="blog-thumb" src="{{ img_url | replace: 'w=350', 'w=80' | replace: 'h=230', 'h=80' }}" alt="" /></a>{% endif %}
 <div class="blog-entry-text">
-<strong><a href="{{ post.url }}">{{ post.title }}</a></strong> · {{ post.date | date: "%B %-d, %Y" }}{% for label in post.labels %}{% if series contains label %} · <a href="/blog/label/{{ label }}">{{ label }} series</a>{% endif %}{% endfor %}<br/>
+<strong><a href="{{ post.url }}">{{ post.title }}</a></strong> · {{ post.date | date: "%B %-d, %Y" }}{% for label in post.labels %}{% if series contains label %} · <a href="/blog/label/{{ label }}/">{{ label }} series</a>{% endif %}{% endfor %}<br/>
 {% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | truncatewords: 30 }}{% endif %}
 </div>
 </div>

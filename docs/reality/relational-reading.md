@@ -9,7 +9,7 @@ title: "The relational reading"
 
 Reality is accessed from inside. There is no outside view from which everything can be seen, no court in which the case can be finally decided. What a subject experiences is reality-within-a-language — the language of the community the subject belongs to, the language of the form of life the subject inhabits.
 
-This is what the seed translates into when taken up on the question of reality. See [The seed and Human Reality](/seed/human-reality) for the foundational translation.
+This is what the seed translates into when taken up on the question of reality. See [The seed and Human Reality](/seed/human-reality/) for the foundational translation.
 
 ## Nature is the primary witness
 

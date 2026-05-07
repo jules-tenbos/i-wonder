@@ -8,7 +8,7 @@ description: "Merleau-Ponty placed the body at the centre of experience — perc
 
 # Maurice Merleau-Ponty (1908–1961)
 
-Merleau-Ponty matters to SPLectrum because he brought the body back into language. The lived body as medium, the habitual body as accumulated experience, intercorporeality as the space between subjects — these map directly onto SPLectrum's [seed](/seed/): language as medium (P2), [historicity](/seed/historicity) carried in the body itself, and the relational space where subjects share (P3). His work on the chiasm — subject and object as folds in the same tissue — prefigures the non-dualist stance that SPLectrum builds on. He is a key figure in [the turn in Western philosophy](/positioning/seed/the-turn-in-western-philosophy).
+Merleau-Ponty matters to SPLectrum because he brought the body back into language. The lived body as medium, the habitual body as accumulated experience, intercorporeality as the space between subjects — these map directly onto SPLectrum's [seed](/seed/): language as medium (P2), [historicity](/seed/historicity/) carried in the body itself, and the relational space where subjects share (P3). His work on the chiasm — subject and object as folds in the same tissue — prefigures the non-dualist stance that SPLectrum builds on. He is a key figure in [the turn in Western philosophy](/positioning/seed/the-turn-in-western-philosophy/).
 
 [Maurice Merleau-Ponty](https://plato.stanford.edu/entries/merleau-ponty/) (1908–1961). Phenomenologist who placed the body at the centre of experience. A central figure in post-war French intellectual life — he co-founded *Les Temps Modernes* with Sartre in 1945 and held the chair of philosophy at the Collège de France from 1952, the youngest person ever appointed. He and Sartre started from the same phenomenological tradition and diverged fundamentally: Sartre toward radical freedom and consciousness, Merleau-Ponty toward embodiment and ambiguity. They broke over politics in the early 1950s. He died suddenly at 53, leaving his late work unfinished. Where Husserl worked from consciousness inward, Merleau-Ponty worked from the body outward — perception is not a mental act applied to sensory data but the body's lived engagement with the world.
 
@@ -36,7 +36,7 @@ Merleau-Ponty died at 53, mid-sentence. *The Visible and the Invisible* survives
 
 ## Where Merleau-Ponty stops
 
-The body grounds everything in Merleau-Ponty — but his account stays with the individual body. Intercorporeality opens the door to the space between subjects, yet the social and the linguistic remain underdeveloped. How bodies form communities, how shared language emerges from bodily encounter — these are questions he left on the table. SPLectrum picks them up through P3 (language as shared medium) and the [seed's account of human reality](/seed/human-reality), where what Merleau-Ponty began with the body extends into the relational web between subjects.
+The body grounds everything in Merleau-Ponty — but his account stays with the individual body. Intercorporeality opens the door to the space between subjects, yet the social and the linguistic remain underdeveloped. How bodies form communities, how shared language emerges from bodily encounter — these are questions he left on the table. SPLectrum picks them up through P3 (language as shared medium) and the [seed's account of human reality](/seed/human-reality/), where what Merleau-Ponty began with the body extends into the relational web between subjects.
 
 ---
 
@@ -50,4 +50,4 @@ The body grounds everything in Merleau-Ponty — but his account stays with the 
 
 ---
 
-See also: [The seed and Philosophy](/seed/philosophical) · [The seed and Historicity](/seed/historicity) · [The seed, Privacy and Decentralisation](/seed/privacy-and-decentralisation)
+See also: [The seed and Philosophy](/seed/philosophical/) · [The seed and Historicity](/seed/historicity/) · [The seed, Privacy and Decentralisation](/seed/privacy-and-decentralisation/)

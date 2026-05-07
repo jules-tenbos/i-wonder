@@ -8,9 +8,9 @@ description: "Meaning as difference, systems of relations — the movement that 
 
 # Structuralism
 
-Structuralism matters to SPLectrum because it established the relational view of meaning that the [seed](/seed/) builds on. [Saussure](/positioning/persons/s/saussure)'s differential sign — meaning through difference, not content — is the linguistic ancestor of P1: language is relational. The structuralist method — study the system of relations, not the individual elements — prefigures SPLectrum's insistence that language is not a collection of labels but a web of relations. But structuralism froze the system: *langue* is static, synchronic, closed. SPLectrum's seed puts the system in motion — languages grow (P5), interrelate (P4), are lived (P2) and shared (P3). Post-structuralism saw the instability; SPLectrum sees the growth.
+Structuralism matters to SPLectrum because it established the relational view of meaning that the [seed](/seed/) builds on. [Saussure](/positioning/persons/s/saussure/)'s differential sign — meaning through difference, not content — is the linguistic ancestor of P1: language is relational. The structuralist method — study the system of relations, not the individual elements — prefigures SPLectrum's insistence that language is not a collection of labels but a web of relations. But structuralism froze the system: *langue* is static, synchronic, closed. SPLectrum's seed puts the system in motion — languages grow (P5), interrelate (P4), are lived (P2) and shared (P3). Post-structuralism saw the instability; SPLectrum sees the growth.
 
-The intellectual movement that analyses cultural and intellectual phenomena as systems of relations rather than collections of independent elements. Originating in [Saussure](/positioning/persons/s/saussure)'s structural linguistics, structuralism spread across anthropology, literary theory, philosophy, and the human sciences in the mid-twentieth century. Its core insight: meaning is not in the element but in the difference between elements.
+The intellectual movement that analyses cultural and intellectual phenomena as systems of relations rather than collections of independent elements. Originating in [Saussure](/positioning/persons/s/saussure/)'s structural linguistics, structuralism spread across anthropology, literary theory, philosophy, and the human sciences in the mid-twentieth century. Its core insight: meaning is not in the element but in the difference between elements.
 
 ---
 
@@ -28,7 +28,7 @@ Study the system, not the parts. A sign has no intrinsic content — it means wh
 
 ## Post-structuralism
 
-Structuralism's own logic led beyond it. If meaning is differential, it is also unstable — the play of differences never settles into a fixed structure. [Lyotard](/positioning/persons/l/lyotard)'s rejection of metanarratives, Derrida's deconstruction (meaning endlessly deferred), Foucault's archaeology (knowledge as historical formation, not timeless structure) — each pushed beyond the idea of a stable underlying system while retaining the insight that meaning is relational.
+Structuralism's own logic led beyond it. If meaning is differential, it is also unstable — the play of differences never settles into a fixed structure. [Lyotard](/positioning/persons/l/lyotard/)'s rejection of metanarratives, Derrida's deconstruction (meaning endlessly deferred), Foucault's archaeology (knowledge as historical formation, not timeless structure) — each pushed beyond the idea of a stable underlying system while retaining the insight that meaning is relational.
 
 ## What holds the tradition together
 
@@ -44,6 +44,6 @@ Structuralism found the relational — but locked it in a cage. The system is gi
 
 ## Persons
 
-[Saussure](/positioning/persons/s/saussure) · [Lyotard](/positioning/persons/l/lyotard)
+[Saussure](/positioning/persons/s/saussure/) · [Lyotard](/positioning/persons/l/lyotard/)
 
-See also: [The seed and Philosophy](/seed/philosophical) · [Being as Tension](/positioning/seed/being-as-tension)
+See also: [The seed and Philosophy](/seed/philosophical/) · [Being as Tension](/positioning/seed/being-as-tension/)

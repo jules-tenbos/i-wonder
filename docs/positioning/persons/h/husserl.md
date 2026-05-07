@@ -8,7 +8,7 @@ description: "Husserl founded phenomenology — the systematic study of experien
 
 # Edmund Husserl (1859–1938)
 
-Husserl matters to SPLectrum as the source of [phenomenology](/positioning/subjects/p/phenomenology) — the discipline that takes experience seriously as a starting point rather than something to be explained away. His account of time-consciousness, where every present moment carries traces of the past and anticipation of the future, connects directly to SPLectrum's treatment of [historicity](/seed/historicity). The lifeworld — the pre-theoretical ground beneath all science — resonates with the [seed](/seed/)'s insistence that reality is lived, not represented. And his work on intersubjectivity opened the door that [Merleau-Ponty](/positioning/persons/m/merleau-ponty) and others walked through toward the relational space between subjects.
+Husserl matters to SPLectrum as the source of [phenomenology](/positioning/subjects/p/phenomenology/) — the discipline that takes experience seriously as a starting point rather than something to be explained away. His account of time-consciousness, where every present moment carries traces of the past and anticipation of the future, connects directly to SPLectrum's treatment of [historicity](/seed/historicity/). The lifeworld — the pre-theoretical ground beneath all science — resonates with the [seed](/seed/)'s insistence that reality is lived, not represented. And his work on intersubjectivity opened the door that [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) and others walked through toward the relational space between subjects.
 
 [Edmund Husserl](https://plato.stanford.edu/entries/husserl/) (1859–1938). Founder of phenomenology — the systematic study of experience from the inside. Trained as a mathematician (PhD under Weierstrass), he turned to philosophy through Brentano's lectures on intentionality — a conversion that shows in the rigour of his method. He taught at Göttingen and then Freiburg, where Heidegger was his assistant and eventual successor. As a Jew, he was stripped of his teaching rights in 1936 under Nazi racial laws. Where the natural sciences bracket the subject to study the world, Husserl brackets the world to study the subject. The phenomenological reduction strips away assumptions about external reality and returns to what is given in experience itself.
 
@@ -32,13 +32,13 @@ Husserl matters to SPLectrum as the source of [phenomenology](/positioning/subje
 
 ## The abyss that remained
 
-Husserl opened the door to lived experience — but he kept consciousness on one side and the world on the other. The phenomenological reduction brackets the world in order to study the subject; the world is constituted *by* consciousness, not encountered *with* it. There remains what Husserl himself called an abyss between consciousness and reality. [Merleau-Ponty](/positioning/persons/m/merleau-ponty) closed this gap by putting experience in the body. [Heidegger](/positioning/persons/h/heidegger) dissolved it by placing Dasein always already in the world. Both started from Husserl and moved beyond him precisely at this point.
+Husserl opened the door to lived experience — but he kept consciousness on one side and the world on the other. The phenomenological reduction brackets the world in order to study the subject; the world is constituted *by* consciousness, not encountered *with* it. There remains what Husserl himself called an abyss between consciousness and reality. [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) closed this gap by putting experience in the body. [Heidegger](/positioning/persons/h/heidegger/) dissolved it by placing Dasein always already in the world. Both started from Husserl and moved beyond him precisely at this point.
 
 ---
 
 ## Where Husserl stops
 
-Husserl's phenomenology stays with the transcendental ego — a purified consciousness doing the constituting. The method is rigorous but solitary: even intersubjectivity is constituted from within the ego's own experience. The social, the bodily, the historical all remain secondary to the constitutive acts of consciousness. SPLectrum picks up what Husserl's successors developed — the body as medium ([Merleau-Ponty](/positioning/persons/m/merleau-ponty)), being-in-the-world ([Heidegger](/positioning/persons/h/heidegger)), conversation over representation ([Rorty](/positioning/persons/r/rorty)) — while keeping Husserl's insistence that experience is where inquiry starts.
+Husserl's phenomenology stays with the transcendental ego — a purified consciousness doing the constituting. The method is rigorous but solitary: even intersubjectivity is constituted from within the ego's own experience. The social, the bodily, the historical all remain secondary to the constitutive acts of consciousness. SPLectrum picks up what Husserl's successors developed — the body as medium ([Merleau-Ponty](/positioning/persons/m/merleau-ponty/)), being-in-the-world ([Heidegger](/positioning/persons/h/heidegger/)), conversation over representation ([Rorty](/positioning/persons/r/rorty/)) — while keeping Husserl's insistence that experience is where inquiry starts.
 
 ---
 
@@ -52,4 +52,4 @@ Husserl's phenomenology stays with the transcendental ego — a purified conscio
 
 ---
 
-See also: [The seed and Philosophy](/seed/philosophical) · [The seed and Historicity](/seed/historicity) · [The seed, Privacy and Decentralisation](/seed/privacy-and-decentralisation)
+See also: [The seed and Philosophy](/seed/philosophical/) · [The seed and Historicity](/seed/historicity/) · [The seed, Privacy and Decentralisation](/seed/privacy-and-decentralisation/)

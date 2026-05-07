@@ -28,7 +28,7 @@ The next posts will fill in each area. New promise made — let's see what happe
 
 *It took me another two years to figure out that it was language that I was after. And it was a software project and AI that pointed it out to me.*
 
-<small>This post is from an earlier moment in the walk(24/11/2024). This post is part of the [preamble](/blog/label/preamble), about happening before SPLectrum saw the light of day.</small>
+<small>This post is from an earlier moment in the walk(24/11/2024). This post is part of the [preamble](/blog/label/preamble/), about happening before SPLectrum saw the light of day.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@jaleel_akbash">Jaleel Akbash</a> / Unsplash</small>

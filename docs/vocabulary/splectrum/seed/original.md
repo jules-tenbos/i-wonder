@@ -7,7 +7,7 @@ title: "Seed vocabulary — Original"
 
 # Seed vocabulary — Original
 
-The seed vocabulary as it appears in [the original principles](/seed/original).
+The seed vocabulary as it appears in [the original principles](/seed/original/).
 
 **Being** — That which is different from *the other* — a unit of difference.
 

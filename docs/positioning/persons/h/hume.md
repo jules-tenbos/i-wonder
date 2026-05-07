@@ -8,7 +8,7 @@ description: "Hume woke philosophy from its dogmatic slumber — experience is a
 
 # David Hume (1711–1776)
 
-Hume matters to SPLectrum as the thinker who forced the crisis that made the turn possible. By showing that experience cannot ground necessary truths — that causation is habit, not logic — he made it impossible to continue in [Descartes](/positioning/persons/d/descartes)' direction. [Kant](/positioning/persons/k/kant) called it being woken from dogmatic slumber. Without Hume's challenge, Kant would not have asked how the mind structures experience, and the entire trajectory through [Heidegger](/positioning/persons/h/heidegger), [Wittgenstein](/positioning/persons/w/wittgenstein) and [Rorty](/positioning/persons/r/rorty) would not have unfolded. Hume's empiricism — experience is all we have — also resonates with the [seed](/seed/)'s P2: the subject accesses reality only through its own medium. The difference is that Hume kept the subject passive; SPLectrum makes the subject relational.
+Hume matters to SPLectrum as the thinker who forced the crisis that made the turn possible. By showing that experience cannot ground necessary truths — that causation is habit, not logic — he made it impossible to continue in [Descartes](/positioning/persons/d/descartes/)' direction. [Kant](/positioning/persons/k/kant/) called it being woken from dogmatic slumber. Without Hume's challenge, Kant would not have asked how the mind structures experience, and the entire trajectory through [Heidegger](/positioning/persons/h/heidegger/), [Wittgenstein](/positioning/persons/w/wittgenstein/) and [Rorty](/positioning/persons/r/rorty/) would not have unfolded. Hume's empiricism — experience is all we have — also resonates with the [seed](/seed/)'s P2: the subject accesses reality only through its own medium. The difference is that Hume kept the subject passive; SPLectrum makes the subject relational.
 
 [David Hume](https://plato.stanford.edu/entries/hume/) (1711–1776). Philosopher, historian, essayist — the most important philosopher to write in English, and largely ignored in his own time as a philosopher. Born in Edinburgh, he wrote *A Treatise of Human Nature* at 26 and declared it "fell dead-born from the press." He made his living as a librarian, diplomat, and historian — his *History of England* was a bestseller. He was sociable, witty, and deeply sceptical of everything, including his own scepticism. He died calmly and cheerfully as an avowed atheist, scandalising contemporaries who expected a deathbed conversion. His philosophical influence came largely after his death, through Kant and the tradition that followed.
 
@@ -30,7 +30,7 @@ Hume matters to SPLectrum as the thinker who forced the crisis that made the tur
 
 ## Where Hume stops
 
-Hume showed that experience cannot ground necessary truths — but he left the subject passive, receiving impressions from an external world he could not prove existed. The relational character of experience, the active constitution of reality through language, the social dimension of knowledge — none of these are Hume's questions. He cleared the ground but did not build. [Kant](/positioning/persons/k/kant) built the first structure on that ground; the [pragmatists](/positioning/subjects/p/pragmatism) and [phenomenologists](/positioning/subjects/p/phenomenology) built differently. SPLectrum builds differently still — but on ground Hume cleared.
+Hume showed that experience cannot ground necessary truths — but he left the subject passive, receiving impressions from an external world he could not prove existed. The relational character of experience, the active constitution of reality through language, the social dimension of knowledge — none of these are Hume's questions. He cleared the ground but did not build. [Kant](/positioning/persons/k/kant/) built the first structure on that ground; the [pragmatists](/positioning/subjects/p/pragmatism/) and [phenomenologists](/positioning/subjects/p/phenomenology/) built differently. SPLectrum builds differently still — but on ground Hume cleared.
 
 ---
 
@@ -43,4 +43,4 @@ Hume showed that experience cannot ground necessary truths — but he left the s
 
 ---
 
-See also: [The Turn in Western Philosophy](/positioning/seed/the-turn-in-western-philosophy) · [The seed and Philosophy](/seed/philosophical)
+See also: [The Turn in Western Philosophy](/positioning/seed/the-turn-in-western-philosophy/) · [The seed and Philosophy](/seed/philosophical/)
