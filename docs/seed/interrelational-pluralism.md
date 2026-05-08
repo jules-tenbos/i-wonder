@@ -11,13 +11,19 @@ description: "The SPLectrum seed and interrelational pluralism — languages wit
 
 This page builds on [The seed and Historicity](/seed/historicity/) and [The seed and Human Reality](/seed/human-reality/). Interrelational pluralism discloses the full dynamic of the seed — a creative engine driven by the six principles.
 
-**P0** stripped back: differentiation produces concept and language. This could be static — a difference that leaves no trace. The creational principle operates before experience enters the picture.
+**P0 — Being implies language.**<br/>
+Stripped back: differentiation produces concept and language. This could be static — a difference that leaves no trace. The creational principle operates before experience enters the picture.
 
-**P1–P3** build the path from language through subject to community. A language's reach depends on its relations (P1). Historicity turns interaction into experience, producing subjects (P2). Subjects sharing a language synchronise, and through synchronisation a shared reality forms (P3) — a common historicity. The community takes on a life of its own: P0 fires again, subjects becoming a group through differentiation.
+**P1 — Language is relational**<br/>
+**P2 — Language is the medium through which a subject experiences reality**<br/>
+**P3 — Language is where subjects share knowledge about reality.**<br/>
+Together they build the path from language through subject to community. A language's reach depends on its relations (P1). Historicity turns interaction into experience, producing subjects (P2). Subjects sharing a language synchronise, and through synchronisation a shared reality forms (P3) — a common historicity. The community takes on a life of its own: P0 fires again, subjects becoming a group through differentiation.
 
-**P4** is where interrelational pluralism gets its name and its power. Languages interrelate with equal standing. Where the overlap is sufficient, shared reality forms — mutual understanding. This is the precondition. What follows is evolution at the fringes: subjects working within the shared reality extend it into new territory, and the extension differentiates into new language through P0. The full stack runs — not P4 alone but subjects with historicity, working the overlap, creating language. The more languages, the more overlaps, the more creation.
+**P4 — Languages are interrelational and have equal standing in potential.**<br/>
+This is where interrelational pluralism gets its name and its power. Languages interrelate with equal standing. Where the overlap is sufficient, shared reality forms — mutual understanding. This is the precondition. What follows is evolution at the fringes: subjects working within the shared reality extend it into new territory, and the extension differentiates into new language through P0. The full stack runs — not P4 alone but subjects with historicity, working the overlap, creating language. The more languages, the more overlaps, the more creation.
 
-**P5** is the engine running across the full stack. Each new language creates new overlaps, each overlap is a potential origin, each origin feeds back. The growing complexity is driven, not accumulated — evolution, not description.
+**P5 — Together they form a web of growing complexity.**<br/>
+This is the engine running across the full stack. Each new language creates new overlaps, each overlap is a potential origin, each origin feeds back. The growing complexity is driven, not accumulated — evolution, not description.
 
 Three P0 moments — concept, community, language — same principle at three scales. The engine and its variety: P5, the web growing in complexity, driven by the creative power of the interrelational.
 

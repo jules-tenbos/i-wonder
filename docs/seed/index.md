@@ -17,6 +17,9 @@ P0–P5 in bare form. Five principles on relational, with a sixth creational add
 **[The seed and Philosophy](philosophical)**<br>
 How historical thinkers fit into the picture, convergences mapped principle by principle.
 
+**[The seed and Language](language)**<br>
+What language is in the seed's terms — P0 and P1 as the structural base, contingency, and why pluralism follows.
+
 **[The seed and Historicity](historicity)**<br>
 An experiencing subject requires historicity — why historicity is an essential part of the seed.
 

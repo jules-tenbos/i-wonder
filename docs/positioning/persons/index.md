@@ -13,6 +13,7 @@ Individual thinkers referenced across the positioning section. Each page collect
 
 ## B
 
+- [Brandom, Robert (1950–)](b/brandom) · philosopher<span class="kw">inferentialism, deontic scorekeeping, commitment over representation, expressive rationality</span>
 - [Bergson, Henri (1859–1941)](b/bergson) · philosopher<span class="kw">duration, creative evolution, intuition, the élan vital</span>
 
 ## D
@@ -80,6 +81,7 @@ Individual thinkers referenced across the positioning section. Each page collect
 ## S
 
 - [Sapolsky, Robert (1957–)](s/sapolsky/) · neuroscientist<span class="kw">human behavioural biology, integrative across layers</span>
+- [Sellars, Wilfrid (1912–1989)](s/sellars) · philosopher<span class="kw">the myth of the given, the space of reasons, psychological nominalism, the manifest and scientific images</span>
 - [Sartre, Jean-Paul (1905–1980)](s/sartre) · philosopher<span class="kw">existentialism, radical freedom, consciousness as nothingness, engagement</span>
 - [Saussure, Ferdinand de (1857–1913)](s/saussure) · linguist<span class="kw">structural linguistics, the differential sign, langue and parole</span>
 - [Solé, Ricard (1962–)](s/sole) · complex systems scientist<span class="kw">liquid brains, solid brains, criticality, phase transitions</span>
