@@ -29,7 +29,7 @@ Sellars matters to SPLectrum because his critique of the given closes the door o
 
 ## Where Sellars stops
 
-Sellars's space of reasons is built around human discursive practice — beings who give and ask for reasons. Like [Brandom](/positioning/persons/b/brandom/) after him, the framework is anthropocentric. The seed's broad sense of language — cellular signalling, gravitational binding, any relational activity — extends beyond what Sellars's apparatus was designed to cover. His critique of the given holds within any language (no content is pre-relational), but the normative vocabulary of justification and entitlement is specific to the discursive case.
+Sellars's space of reasons is built around human discursive practice — beings who give and ask for reasons. Like [Brandom](/positioning/persons/b/brandom/) after him, the framework is anthropocentric. The SPLectrum seed's broad sense of language — cellular signalling, gravitational binding, any relational activity — extends beyond what Sellars's apparatus was designed to cover. His critique of the given holds within any language (no content is pre-relational), but the normative vocabulary of justification and entitlement is specific to the discursive case.
 
 ---
 

@@ -9,7 +9,7 @@ description: "Dewey brought pragmatism into the social — inquiry as community 
 
 # John Dewey (1859–1952)
 
-Dewey matters to SPLectrum because he moved pragmatism from the individual to the social. Inquiry is not a solitary mind mirroring reality — it is a community solving problems together, and the knowledge that emerges belongs to the community, not to any single observer. This resonates directly with the [seed](/seed/)'s P3: language is where subjects share knowledge about reality. Dewey's insistence that experience is transaction — organism and environment shaping each other — prefigures SPLectrum's relational stance. And his commitment to democracy as a way of life, not just a political system, connects to P4's equal standing: no voice ranks above another.
+Dewey moved pragmatism from the individual to the social. Inquiry is not a solitary mind mirroring reality — it is a community solving problems together, and the knowledge that emerges belongs to the community, not to any single observer. His insistence that experience is transaction — organism and environment shaping each other — dissolved the spectator theory of knowledge. And his commitment to democracy as a way of life, not just a political system, made equal participation structural rather than aspirational. SPLectrum reads its own account of shared reality in Dewey's light.
 
 [John Dewey](https://plato.stanford.edu/entries/dewey/) (1859–1952). Philosopher, psychologist, educational reformer — the most publicly influential American philosopher of the twentieth century. Born in Burlington, Vermont, studied at Johns Hopkins (where [Peirce](/positioning/persons/p/peirce/) was a marginal presence), taught at Michigan, Chicago and Columbia. At Chicago he founded the Laboratory School (1896), putting his educational philosophy into practice. His career spanned seven decades and an extraordinary range: logic, aesthetics, ethics, political philosophy, education, psychology. He was politically active throughout — supporting women's suffrage, labour rights, civil liberties — and remained productive into his nineties. Where [James](/positioning/persons/j/james/) made pragmatism popular, Dewey made it systematic and social.
 
@@ -31,7 +31,7 @@ Dewey matters to SPLectrum because he moved pragmatism from the individual to th
 
 ## Where Dewey stops
 
-Dewey brought pragmatism into the social and the democratic, but he stayed at the level of practice and institution. The structure of language itself — how the medium of sharing constitutes what is shared — is not his question. He assumed communication as a given rather than asking what makes it possible. SPLectrum picks up where Dewey's community of inquiry meets the [seed](/seed/)'s account of language: not just that inquiry is social, but that the language through which it happens is relational (P1), mediates each subject's reality (P2), and is where shared knowledge is constituted (P3).
+Dewey brought pragmatism into the social and the democratic, but he stayed at the level of practice and institution. The structure of language itself — how the medium of sharing constitutes what is shared — is not his question. He assumed communication as a given rather than asking what makes it possible. SPLectrum picks up where Dewey's community of inquiry left off: not just that inquiry is social, but that the language through which it happens constitutes what can be shared and how.
 
 ---
 

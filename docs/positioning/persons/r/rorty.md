@@ -9,7 +9,7 @@ description: "Rorty abandoned the mirror of nature for conversation — knowledg
 
 # Richard Rorty (1931–2007)
 
-Rorty walked through the door [Wittgenstein](/positioning/persons/w/wittgenstein/) opened — and kept going. His rejection of the mirror of nature, his insistence on conversation over correspondence, and his [pragmatist](/positioning/subjects/p/pragmatism/) reading of truth as what a community finds useful to say all resonate deeply with SPLectrum's relational stance. The blog itself, as a conversational form, owes something to Rorty. He is a key voice in [the turn in Western philosophy](/positioning/seed/the-turn-in-western-philosophy/) and in SPLectrum's [philosophical reading of the seed](/seed/philosophical/).
+Rorty walked through the door [Wittgenstein](/positioning/persons/w/wittgenstein/) opened — and kept going. His rejection of the mirror of nature, his insistence on conversation over correspondence, and his [pragmatist](/positioning/subjects/p/pragmatism/) reading of truth as what a community finds useful to say carried Wittgenstein's later move into the philosophy of mind, of science, and of culture. The blog itself, as a conversational form, owes something to Rorty. SPLectrum sits downstream of his anti-representationalism.
 
 [Richard Rorty](https://plato.stanford.edu/entries/rorty/) (1931–2007). Philosopher who abandoned the idea that philosophy mirrors reality. Trained in analytic philosophy (Chicago, Yale PhD), he began as a respectable analytic philosopher of mind — then published *Philosophy and the Mirror of Nature* (1979) and effectively burned his bridges with the analytic establishment. He moved from Princeton's philosophy department to Virginia's humanities programme, and later to Stanford's comparative literature department — a disciplinary migration that reflected his conviction that philosophy belongs in the conversation of the humanities, not above it. Attacked from both sides — analytic philosophers accused him of irrationalism, Habermasians argued he gave up too much by abandoning truth — he remained one of the most debated philosophers of his generation. Drawing on Wittgenstein, Heidegger, and Dewey, Rorty argued that knowledge is not a matter of accurate representation but of what a community finds useful to say.
 
@@ -39,7 +39,7 @@ Rorty's most controversial territory. We cannot escape our own community's stand
 
 ## Where Rorty stops
 
-Rorty's [anti-foundationalism](/positioning/seed/interrelational-pluralism/) is therapeutic — he tears down the mirror but deliberately refuses to build something in its place. Philosophy should keep the conversation going, not close it with a new theory. That refusal is principled: any replacement foundation would just be another mirror. But it is also the gap that SPLectrum's constructive anti-foundationalism walks into — accepting the demolition while asking what can still be built relationally, without foundations, from the [seed](/seed/) outward.
+Rorty's anti-foundationalism is therapeutic — he tears down the mirror but deliberately refuses to build something in its place. Philosophy should keep the conversation going, not close it with a new theory. That refusal is principled: any replacement foundation would just be another mirror. It is also the gap SPLectrum walks into — accepting the demolition while asking what can still be built relationally, without foundations.
 
 ---
 

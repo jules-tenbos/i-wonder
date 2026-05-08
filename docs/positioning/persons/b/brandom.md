@@ -31,7 +31,7 @@ Brandom gives SPLectrum the sharpest discursive case for P1. His inferentialism 
 
 ## Where Brandom stops
 
-Brandom's picture is anthropocentric. The apparatus — commitment, entitlement, scorekeeping — is built around discursive practice: beings who can give and ask for reasons. It does not obviously extend to relational activity below or beyond the discursive. Cellular signalling, gravitational binding, the trace a footprint leaves in mud — these meet the seed's conditions for language (P0, P1) but have no apparatus of commitment and entitlement. P4 keeps this honest: Brandom's account is load-bearing for one important class of languages, not the whole story. Other languages do relational work without the discursive apparatus, and they have equal standing in principle.
+Brandom's picture is anthropocentric. The apparatus — commitment, entitlement, scorekeeping — is built around discursive practice: beings who can give and ask for reasons. It does not obviously extend to relational activity below or beyond the discursive. Cellular signalling, gravitational binding, the trace a footprint leaves in mud — these meet the SPLectrum seed's conditions for language (P0, P1) but have no apparatus of commitment and entitlement. P4 keeps this honest: Brandom's account is load-bearing for one important class of languages, not the whole story. Other languages do relational work without the discursive apparatus, and they have equal standing in principle.
 
 The other limit is scope. Brandom's "objectivity emerges from commitment-tracking" is friendly to P3 but not identical with it. P3 covers convergence through any kind of language interaction — not only discursive convergence. The structural shape is similar; the scope is different.
 

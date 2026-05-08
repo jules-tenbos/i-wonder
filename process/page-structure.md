@@ -7,10 +7,10 @@ Standard structure for positioning person and subject pages. Use these as templa
 1. **Front matter**: title as "Firstname Lastname (born–died)", description, layout
 2. **Breadcrumb**: Home > Positioning > Persons > Name
 3. **Heading**: full name with dates
-4. **Intro paragraph**: why this person matters to SPLectrum, with internal links to seed, positioning pieces, other persons
+4. **Intro paragraph**: what the thinker did and why it matters. Let the thinker speak first; seed connection as a quiet pointer at the end, not the frame. No P-tags, no SPLectrum vocabulary. Internal links to other persons, seed pages where natural
 5. **Biographical paragraph**: external SEP link, life and career, one paragraph
-6. **Key concepts**: bold term + explanation, one paragraph each
-7. **Closing sections**: boundary or limitation sections — where the thinker stops, what SPLectrum picks up. These name the gap constructively, linking to other persons or seed pages where relevant
+6. **Key concepts**: bold term + explanation, one paragraph each. Outside voice — no seed references
+7. **Closing sections**: where the thinker stops. Walk through what they actually do, name the limit, then show where the seed parts company. Earn the divergence — don't just claim proximity. Drop P-tags; keep it compact
 8. **Key works**: list with Wikipedia links, at the end before See also
 9. **See also**: internal links to related seed, positioning, vocabulary pages
 

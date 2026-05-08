@@ -34,6 +34,7 @@ Individual thinkers referenced across the positioning section. Each page collect
 ## H
 
 - [Habermas, Jürgen (1929–2025)](h/habermas) · philosopher, social theorist<span class="kw">communicative action, discourse ethics, lifeworld and system</span>
+- [Heraclitus (c. 535–c. 475 BCE)](h/heraclitus) · philosopher<span class="kw">flux and constancy, unity of opposites, logos, fire</span>
 - [Hegel, Georg Wilhelm Friedrich (1770–1831)](h/hegel) · philosopher<span class="kw">dialectic, sublation, determinate negation, historical development</span>
 - [Heidegger, Martin (1889–1976)](h/heidegger) · philosopher<span class="kw">being-in-the-world, disclosure, Dasein, readiness-to-hand</span>
 - [Hume, David (1711–1776)](h/hume) · philosopher<span class="kw">empiricism, causation as habit, the bundle self, the is-ought problem</span>
