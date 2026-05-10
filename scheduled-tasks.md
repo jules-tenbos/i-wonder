@@ -17,11 +17,7 @@ Tasks triggered by post publication. Updated as posts go live.
 - [ ] Post `status:` field convention — values seen: `ready`, `final revision`, `Mandatory review`, `review needed`. Codify the set and what each means.
 - [ ] Off-cadence scheduling — engineering posts and pair posts on in-between days when ready
 
-### NEXT: Trailing slash migration (2026-05-07)
-
-- [ ] Execute trailing slash migration — plan at `plan/trailing-slash-migration.md`
-- [ ] ~120 page moves, ~120 redirect files, all internal links updated, sitemap updated
-- [ ] Local test before push
+### ~~Trailing slash migration (2026-05-07) — completed~~
 
 ### From session 2026-05-06
 
@@ -89,15 +85,19 @@ Tasks triggered by post publication. Updated as posts go live.
 ## May 8 — First Principles — the Social Core goes live
 - [ ] Tweet (Friday): From the individual to the shared. How subjects build knowledge together, how languages interrelate, and how complexity grows — the social core of the seed. splectrum.world/blog/2026/05/first-principles-the-social-core/ #Philosophy #FirstPrinciples #SPLectrum
 
-## May 12 — The Birth of P0 — Being Is Tension goes live
+## May 10 — The Birth of P0 — Being Is Tension goes live
+- [x] Description added, status set to ready, published
+- [ ] Tweet: drafted, needs posting. Three options in session notes.
+
+## May 12 — The Seed, Language and Historicity goes live (combined post)
+- [x] Language and historicity merged into one post
+- [x] Standalone historicity post removed
+- [ ] Final review (status: draft)
 - [ ] Draft tweet
 
-## May 16 — The Seed and Language goes live (new post, skeleton)
-- [ ] Write post (status: storyline)
-- [ ] Draft tweet
-
-## May 20 — The Seed and Historicity goes live (new post, skeleton)
-- [ ] Write post (status: storyline)
+## May 20 — From Seed to Interrelational Pluralism goes live
+- [x] Research notes added: stance definition, pluralistic landscape, principle-by-principle multiplicity mapping, philosophical precedents, case for interrelational vantage point
+- [ ] Write post from notes (status: storyline)
 - [ ] Draft tweet
 
 ## May 24 — Mutualism Without Intent goes live
