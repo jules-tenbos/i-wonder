@@ -5,7 +5,7 @@ date: 2026-05-12
 lastmod: 2026-05-07
 labels: [seed, philosophy, SPLectrum]
 description: "What language is in the seed's terms — contingency, the personal, and the retention that turns a point of existence into duration."
-status: draft
+status: final review
 words: 667
 ---
 <img src="https://plus.unsplash.com/premium_photo-1771261524262-4aa32195849f?q=80&w=350&h=230&auto=format&fit=crop" alt="The Seed and Language" />

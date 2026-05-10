@@ -1,14 +1,89 @@
 ---
 layout: post
 title: "From Seed to Interrelational Pluralism"
-date: 2026-05-20
-lastmod: 2026-05-20
+date: 2026-05-18
+lastmod: 2026-05-18
 labels: [seed, philosophy, SPLectrum]
 status: storyline
 words: 111
 ---
 
-Stall-setting post. Extends *Embracing Anti-Foundationalism* (August 24). Names the position: interrelational pluralism.
+I am quite excited to write this post, because this is where SPLectrum is showing the flag it is flying under. And what the seed is going to grow into. 
+
+From the previous posts about the SPLectrum seed it is clear that reality is multiple in fundamental ways. First every subject has a personal experience of reality - their reality. Secondly, within every community exists a different shared reality. And where subject and communities share, new realities are created.
+- **P0** — the creational is contingent. Rorty's *Contingency, Irony, and Solidarity* — language, selfhood, community are all contingent. Goodman's worldmaking — versions are constructed, not discovered.
+- **P1** — (no multiplicity statement — says what language is, not that there are many)
+- **P2** — experience is personal. Nagel's "What Is It Like to Be a Bat?" — structurally private. Husserl's phenomenological reduction — what remains is the subject's own experiencing.
+- **P3** — sharing has multiplicity of context (group). Wittgenstein's forms of life — each community its own language game. Kuhn's paradigms — incommensurable frameworks.
+- **P4** — language is creational. Whitehead's creativity as ultimate category — novelty as fundamental process. Connolly's pluralisation — emergence of new diversity.
+- **P5** — multiplicity is the driving force of evolution. James's pluralistic universe — reality open-ended, still in the making. Bergson's creative evolution — past accumulating, opening new possibilities.
+
+That brings two words to mind: pluralism and interrelational. And so SPLectrum's interrelational pluralism is born!
+
+Pluralism has quite a bit of resonance in philosophy.
+
+Every existing pluralism says "there are many." None says *why* there are many, *how* the many interact to produce more, or *why* the many keep growing. They describe plurality as a state. Interrelational pluralism names the mechanism: languages with equal standing interact, overlap, and through their overlap create new language. The plurality is not a given — it is produced, continuously, by the creative dynamic between the plural elements.
+
+## The pluralistic landscape — who says what
+
+**Metaphysical / Ontological** — *there are many kinds of things*
+- William James — first self-avowed pluralist, "a pluralistic universe," radical empiricism
+- Whitehead — many actual occasions, creativity as ultimate category
+- Deleuze — multiplicity, becoming, creative difference
+- Dupré — "the disorder of things," causal entities at many levels
+- Cartwright — "the dappled world," science itself is disunified
+
+**Epistemological** — *there are many valid ways of knowing*
+- Feyerabend — against method, no privileged methodology
+- Goodman — ways of worldmaking, many versions, rightness over truth
+- Kuhn — paradigms, incommensurability (implicitly pluralist)
+
+**Linguistic / Meaning** — *there are many languages, meaning is relational*
+- Wittgenstein — language games, forms of life
+- Lyotard — no metanarrative, plurality of language games
+- Rorty — no privileged vocabulary, conversation not correspondence
+- Brandom — meaning as commitment in a web of inference
+
+**Value / Political** — *there are many incommensurable goods*
+- Isaiah Berlin — value pluralism, incommensurable goods
+- Connolly — pluralisation as process, not just existing diversity
+- Mouffe — agonistic pluralism, productive conflict
+
+**Convergence** — *shared reality through process, not correspondence*
+- Peirce — community of inquirers, truth as long-run convergence
+- Habermas — communicative action, discourse ethics
+
+**Relational** — *objects constituted by relations, not properties*
+- Rovelli — relational QM, no absolute observer
+- Category theory — objects known entirely by their arrows
+
+## Connolly's distinction
+
+William Connolly separates *pluralism* (existing diversity) from *pluralisation* (the emergence of new diversity). This is the closest existing move to what "interrelational" adds — the creative process, not just the state. Worth referencing.
+
+Pluralism is part of the essence of being thrown into the world. It is doing it a disservice to treat it as an archipelago of islands — ontological here, epistemological there, value over there, each with its own thinkers and its own defence. It was never separate. The interrelational vantage point sees what was always one.
+
+Approaching pluralism from this vantage point provides:
+
+1. **Simplicity** — one stance instead of many separate defences. The mechanism (languages interact with equal standing, creation at the overlap) does the work that Rorty, Nagel, Feyerabend, Goodman each did separately.
+2. **A natural interdisciplinary approach** — because it is one thing, you cross domains without needing to justify the crossing. The same engine runs from physics to philosophy to politics to engineering.
+3. **Sharp insights in the totality of what it means to exist** — privacy is constitutive, decentralisation is structural, convergence produces shared reality, the gradient runs from the simplest differentiation to the most articulate community. These follow from the stance, not from separate arguments.
+
+Welcome to the home of Interrelational Pluralism!
+
+**James** — direct match for "reality is multiple." Open-ended, unfinished, still in the making. Gets close to the creative dynamic. But no specific mechanism for how interaction produces new centers.
+
+**Whitehead** — closest to the full stance. Many actual occasions (multiple), prehension (interaction), creativity as ultimate category (produce more). Has the engine. But wrapped in heavy metaphysical apparatus (eternal objects, God) the seed doesn't need.
+
+**Deleuze** — "pluralism = monism": one reality whose essence is to differ. Close to P0 (being is differentiation). But internal differentiation within the one, not many interacting languages with equal standing.
+
+**Goodman** — many versions, each constructed through symbol systems. Multiple: yes. But versions are static — no account of interaction producing new ones.
+
+**Feyerabend, Kuhn** — many methods/paradigms, none privileged. Scoped to knowledge, not reality.
+
+**Berlin** — many incommensurable values. Scoped to values. "Incommensurable" means they don't interact productively.
+
+**Rorty** — many vocabularies, none privileged. Scoped to human conversation.
 
 **Storyline points:**
 

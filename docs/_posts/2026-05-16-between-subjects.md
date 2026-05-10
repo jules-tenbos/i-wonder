@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Between Subjects"
-date: 2026-05-18
+date: 2026-05-16
 lastmod: 2026-05-18
 labels: [seed, philosophy, SPLectrum]
 status: Mandatory review
