@@ -58,7 +58,7 @@ The Nagarjuna formulation comes from the Indian Buddhist philosophy<br/>
 ***Nagarjuna — śūnyatā, nothing exists without relation***<br/>
 No being has inherent self-nature. Everything arises in dependence on conditions, on relation. Emptiness is not nothingness — it is the absence of independent existence. Being is constitutively relational. The tension is between the appearance of independent existence and the reality of dependent origination.
 
-My formulation as ***Being is tension across the interface*** came to me as I imagined a water droplet suspended in air. The droplet as the differentiation, the tension in the interface to keep the droplet together as liquid, suspended in a gas. Being suspended in its complement. The interface is where being meets the world.
+My formulation - ***Being is tension across the interface*** - came to me as I imagined a water droplet suspended in air. The droplet as the differentiation, the tension in the interface to keep the droplet together as liquid, suspended in a gas. Being suspended in its complement. The interface is where being meets the world.
 
 <small>This post is part of the [seed series](/blog/label/seed/). More on the seed in the <a href="/seed/">seed section of the reference library</a>.</small>
 

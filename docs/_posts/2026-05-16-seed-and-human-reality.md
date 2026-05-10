@@ -9,7 +9,7 @@ words: 542
 ---
 <img src="https://images.unsplash.com/photo-1569292567777-e5d61a759322?q=80&w=350&h=230&auto=format&fit=crop" alt="The Seed and Human Reality" />
 
-Having the seed as foundation offers unique opportunities. There is already so much implicitly present in those 6 principles that tells us about the nature of things, without having to speculate. This is the advantage when one starts from an axiomatic base. And why gaining confidence in the principles through careful positioning is so important.
+Having the seed as foundation offers unique opportunities. So much is implicitly present in what is common to all languages, in those 6 principles. Using an axiomatic base to explore the nature of things there is no need to speculate. But gaining confidence in the principles through careful positioning is so important.
 
 These unique opportunities are the reason that there is a seed section on the site. There are already several interpretations on the site and more will follow. The aim is to slot category theory in as a formal language for the seed — and the more that can be extracted at the foundational level, the more flows directly into that formal layer.
 

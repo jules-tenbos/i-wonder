@@ -29,6 +29,7 @@ Individual thinkers referenced across the positioning section. Each page collect
 
 ## G
 
+- [Gadamer, Hans-Georg (1900–2002)](g/gadamer) · philosopher<span class="kw">philosophical hermeneutics, prejudice, effective history, fusion of horizons</span>
 - [Goodman, Nelson (1906–1998)](g/goodman) · philosopher<span class="kw">ways of worldmaking, symbol systems, rightness over truth, irrealism</span>
 
 ## H

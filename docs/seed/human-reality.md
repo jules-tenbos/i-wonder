@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-06
+lastmod: 2026-05-08
 title: "The seed and Human Reality"
 description: "The SPLectrum seed and human reality — we experience individually but live collectively, reality community-constituted through shared language."
 ---
@@ -18,10 +18,10 @@ When a community comes into existence, it is an act of creation — and like all
 What a language gives access to depends on what it relates to. A language's reach is the relations it holds — different relations, different reach.
 
 **P2 — Language is the medium through which a subject experiences reality.**<br>
-This is the keystone for human reality. We are at the centre of our experience — a body, sensing, always already in some language. Experience is the dynamic of retention — it creates memory. Knowledge is the interpretation of that memory, in whatever language holds it. Reality is the totality after interpretation: the world as it has disclosed itself to you.
+This is the keystone for human reality. We are at the centre of our experience — a body, sensing, in some language from the start. There is no prelinguistic vantage point; language is the condition we find ourselves in, not one we enter. Experience is the dynamic of retention — it creates memory. Knowledge is the interpretation of that memory, in whatever language holds it. Reality is the totality after interpretation: the world as it has disclosed itself to you.
 
 **P3 — Language is where subjects share knowledge about reality.**<br>
-It follows from P2 that we never interact directly — what we experience as conversation is emergent. Sharing is the synchronisation of language between us; as languages synchronise they also evolve, and evolved language deepens the knowledge of what was already retained. Through this synchronisation, a shared realm forms — and this is where P0 comes back: the group that has synchronised enough to share a reality is a community, and its formation is an act of creation that draws a boundary.
+It follows from P2 that we never interact directly — nothing transfers from one subject to another. What we experience as conversation is emergent: the back-and-forth of language bringing two private realities into convergence. Sharing is the synchronisation of language between us; as languages synchronise they also evolve, and evolved language deepens the knowledge of what was already retained. Through this synchronisation, a shared realm forms — and this is where P0 comes back: the group that has synchronised enough to share a reality is a community, and its formation is an act of creation that draws a boundary.
 
 **P4 — Languages are interrelational and have equal standing in potential.**<br>
 P4 is the creational principle for languages themselves. Where languages overlap, that overlap becomes a starting point for new language. Every overlap is a potential origin. None is privileged in principle, however different in current reach. This is the seed's pluralism — structural, not optional.

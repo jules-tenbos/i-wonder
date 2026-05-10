@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-06
+lastmod: 2026-05-08
 title: "The original principles"
 description: "The six SPLectrum seed principles in their original form. The foundation in bare form, the seed of interrelational pluralism."
 ---
@@ -9,7 +9,7 @@ description: "The six SPLectrum seed principles in their original form. The foun
 
 # The original principles
 
-The seed principles in their original incarnation. The relational principles came first (P1–P5), last came the creational principle P0.
+The seed principles in their original incarnation — the bare spine. The relational principles came first (P1–P5), last came the creational principle P0. The other seed pages are committed expressions of these principles across different views.
 
 **P0 — Being implies language.**<br>
 Being is what stands apart from its context — the other. The tension between being and the other is the origin of language. The two come into existence together, neither prior.
@@ -18,7 +18,7 @@ Being is what stands apart from its context — the other. The tension between b
 What a language gives access to depends on what it relates to. A language's reach is the relations it holds — different relations, different reach.
 
 **P2 — Language is the medium through which a subject experiences reality.**<br>
-Language puts the subject in interaction — the only way the subject is in. Experience requires accumulation. A subject's reality points to the totality of this. Knowledge is its insight factor.
+Language puts the subject in interaction — the only way the subject is in. Experience requires accumulation. A subject's reality is the totality of what has been retained. Knowledge is what the subject comes to recognise within that accumulation.
 
 **P3 — Language is where subjects share knowledge about reality.**<br>
 Subjects converge through indirect language interaction. Convergence is the source of shared reality, and of the only objectivity available.

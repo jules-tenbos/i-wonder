@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-06
+lastmod: 2026-05-08
 title: "The seed and Philosophy"
 description: "The SPLectrum seed and philosophy — how historical thinkers from Heidegger to Wittgenstein to Peirce map onto the six principles, one by one."
 ---
@@ -9,7 +9,7 @@ description: "The SPLectrum seed and philosophy — how historical thinkers from
 
 # The seed and Philosophy
 
-How historical thinkers fit into the picture of the seed, principle by principle. P0 is creational — the boundary expresses the differentiation; P1–P5 describe properties shared by all languages.
+The seed's principles have independent precedent across Western philosophy — convergences, not borrowings. What follows maps these principle by principle. P0 is creational — the boundary expresses the differentiation; P1–P5 describe properties shared by all languages.
 
 **P0 — Being implies language.**<br>
 Being is always already disclosed in the world ([Heidegger](/positioning/persons/h/heidegger/)). Being comes into existence through the act of differentiation — there is no being without not-being ([Fichte](/positioning/persons/f/fichte/)). The act of differentiation works only with what is already there: separation requires the other to precede it. [Hegel](/positioning/persons/h/hegel/)'s dialectic makes this its engine: every new determination sublates prior ones. [Spinoza](/positioning/persons/s/spinoza/): *omnis determinatio est negatio* — every determination requires what it negates. [Whitehead](/positioning/persons/w/whitehead/)'s actual occasions concresce from prior ones. Where there is being there is a world, and the relational between them is language. See [Being as Tension](/positioning/seed/being-as-tension/) — nine formulations of differentiation across traditions.
@@ -27,6 +27,6 @@ Shared language creates shared understanding — knowledge — because interacti
 Languages inter-relate horizontally (between peers) and vertically (one spawning another, or one decomposed into another) — these mechanisms are always present. No language is privileged in principle, however different in current reach. [Feyerabend](/positioning/persons/f/feyerabend/): no privileged method. [Lyotard](/positioning/persons/l/lyotard/): plurality of language games with no metanarrative. [Goodman](/positioning/persons/g/goodman/)'s ways of worldmaking: multiple versions rather than the one true description.
 
 **P5 — Together they form a web of growing complexity.**<br>
-Complexity grows through proliferation and articulation: more languages, more perspectives, more ways of relating. Each new being implies language (P0), extending the web — concepts explained with concepts, turtles all the way down. Each new concept is a fresh being-other combination, exposing a relation; through this growth, aspects of the world become disclosed. [Whitehead](/positioning/persons/w/whitehead/)'s process philosophy: creativity as ultimate category. [Bergson](/positioning/persons/b/bergson/)'s creative evolution. [Popper](/positioning/persons/p/popper/) and [Kuhn](/positioning/persons/k/kuhn/) on how scientific knowledge actually grows.
+Complexity grows through proliferation and articulation: more languages, more perspectives, more ways of relating. Each new being implies language (P0), extending the web — concepts explained with concepts, turtles all the way down. Each new concept is a fresh being-other combination, exposing a relation; through this growth, aspects of the world become disclosed. [Whitehead](/positioning/persons/w/whitehead/)'s process philosophy: creativity as ultimate category. [Bergson](/positioning/persons/b/bergson/)'s creative evolution. Both place creativity at the foundation — the process that generates complexity, not something added to a finished world. From the empirical side, [Popper](/positioning/persons/p/popper/) and [Kuhn](/positioning/persons/k/kuhn/) trace the same growth through the actual history of scientific knowledge.
 
 See the [seed series](/blog/label/seed/) for the conversation around these principles.

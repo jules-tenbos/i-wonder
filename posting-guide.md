@@ -219,6 +219,16 @@ When reviewing existing or new posts, check:
 7. **No old Blogger artefacts** — no `Blogger-ID:`, no `Labels:` line (use front matter), no bold date lines in body, no `/search/label/`, no `/p/xxx.html`
 8. **Voice** — matches the persona label. Author voice for thought/comment, SPLectrum voice for seed/engineering, narrator for named sources
 
+## Tweets
+
+Each post gets a tweet on publication. Draft alongside the post, tracked in `scheduled-tasks.md`.
+
+- Max 280 characters total (text + URL + hashtags)
+- Always include the post URL: `splectrum.world/blog/YYYY/MM/slug/`
+- 3–4 hashtags, always including `#SPLectrum`
+- Always state the character count when drafting
+- Offer 2–3 options with different angles
+
 ## Images
 
 - Use Unsplash URLs with size/crop parameters (e.g. `w=350&h=230&fit=crop&crop=center`)
