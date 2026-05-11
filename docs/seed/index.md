@@ -24,10 +24,10 @@ What language is in the seed's terms — P0 and P1 as the structural base, conti
 An experiencing subject requires historicity — why historicity is an essential part of the seed.
 
 **[The seed and Human Reality](human-reality)**<br>
-Human reality as community-constituted — multi-membership, and the apparatus that lets the relational reading hold across disciplines, forms of life, and non-life. A universal reality translation is planned.
+Human reality as community-constituted — how subjects share, synchronise, and form shared reality.
 
 **[The seed and Interrelational Pluralism](interrelational-pluralism)**<br>
-Disclosing the full dynamic of the seed — the creative engine driven by the six principles.
+The full dynamic of the seed — where SPLectrum gets its philosophical name.
 
 **[The seed, Privacy and Decentralisation](privacy-and-decentralisation)**<br>
 Privacy as the essence of subject experience, and decentralisation as how communities naturally form.

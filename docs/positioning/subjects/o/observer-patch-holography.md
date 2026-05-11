@@ -2,6 +2,7 @@
 layout: default
 lastmod: 2026-05-03
 title: "Observer Patch Holography"
+description: "A framework for fundamental physics built on observer consistency — local patches, overlap repair, and objectivity as emergent fixed point"
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > Observer Patch Holography

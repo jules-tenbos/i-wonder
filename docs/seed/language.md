@@ -15,8 +15,8 @@ This page focuses on the language side of creation. Language is the key componen
 Being and language arise together through differentiation. But being is only ever known through its accompanying language: the relational produced by the act of differentiation. The seed takes a broad view. Language is not limited to human communication, but we as humans are.
 
 **P1 — Language is relational.**<br/>
-A language is contingent on the creation that produced it. It tells us what it tells us — no more. A different creation gives a different language. This contingency is not a defect — it is structural. There is no language that escapes it by being more careful or more formal ([Rorty](/positioning/persons/r/rorty/)).<br/>
-Although we mostly experience language as a shared resource — something objective, already there — every experience of it remains personal. Understanding starts as a private act of creation. To understand something is to have created a language for it, to understand its relations to others. Meaning is not representation — it is position in a web of relations ([Brandom](/positioning/persons/b/brandom/)).<br/>
+A language is contingent on the creation that produced it. It tells us what it tells us — no more. A different creation gives a different language. This contingency is not a defect — it is structural. There is no language that escapes it by being more careful or more formal.<br/>
+Although we mostly experience language as a shared resource — something objective, already there — every experience of it remains personal. Understanding starts as a private act of creation. To understand something is to have created a language for it, to understand its relations to others. Meaning is not representation — it is position in a web of relations.<br/>
 As a human, you can only create, communicate and understand in your own language. Likewise for other forms of life — they create and understand in theirs. A subject is always inside its own language, never above or outside it.
 
 **P3 — Language is where subjects share knowledge about reality.**<br/>

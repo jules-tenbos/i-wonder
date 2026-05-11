@@ -24,7 +24,7 @@ This is the keystone for human reality. We are at the centre of our experience �
 It follows from P2 that we never interact directly — nothing transfers from one subject to another. What we experience as conversation is emergent: the back-and-forth of language bringing two private realities into convergence. Sharing is the synchronisation of language between us; as languages synchronise they also evolve, and evolved language deepens the knowledge of what was already retained. Through this synchronisation, a shared realm forms — and this is where P0 comes back: the group that has synchronised enough to share a reality is a community, and its formation is an act of creation that draws a boundary.
 
 **P4 — Languages are interrelational and have equal standing in potential.**<br>
-P4 is the creational principle for languages themselves. Where languages overlap, that overlap becomes a starting point for new language. Every overlap is a potential origin. None is privileged in principle, however different in current reach. This is the seed's pluralism — structural, not optional.
+P4 is where P0 fires again — at the scale of language itself. Where languages overlap, that overlap becomes a starting point for new language. Every overlap is a potential origin. None is privileged in principle, however different in current reach. This is the seed's pluralism — structural, not optional.
 
 **P5 — Together they form a web of growing complexity.**<br>
 We synchronise, knowledge deepens, new languages emerge from the overlap, and those in turn synchronise with others. The complexity is in the relating, not in any single community.
