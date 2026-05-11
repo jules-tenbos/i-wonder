@@ -1,63 +1,17 @@
 # Seed Philosophy Buildup — Task List
 
-Work list for the Sep–Dec 2026 run. Position: interrelational pluralism.
+Position: interrelational pluralism. Named and landed (May 20 post).
 
-## Done
+## Current
 
-- [x] Position named: interrelational pluralism
-- [x] Positioning section restructured: persons A-Z, subjects A-Z, seed trajectories moved
-- [x] Positioning voice doc created (tone-of-voice/positioning-voice.md)
-- [x] Wittgenstein persons page created (positioning/persons/w/wittgenstein.md)
-- [x] Seed and Interrelational Pluralism page created (seed/interrelational-pluralism.md)
-- [x] Seed and Historicity page reworked — P2 grounded in Husserl, Merleau-Ponty, Hegel; P3 light bridge to human reality
-- [x] Seed and Human Reality intro updated — community-constituted, builds on historicity, extends into P3/P4
-- [x] Seed and Interrelational Pluralism page tightened — builds on historicity and human reality, discloses full dynamic
-- [x] Positioning seed entry for interrelational pluralism created — four strands (metaphysical, epistemological, value, political)
-- [x] Site strapline: "The home of Interrelational Pluralism" in _config.yml description
-- [x] Homepage updated — interrelational pluralism and AI woven in, roadmap removed
-- [x] About page updated — seed as foundation for a worldview of interrelational pluralism
-- [x] P2P page reframed — decentralisation and interrelational pluralism, engineering focus, seed-claiming removed
-- [x] Title front matter added to all pages site-wide (SEO fix)
-- [x] Redirect pages fixed (directory-based index.html for trailing slash support)
-- [x] Cross-links between seed sub-pages fixed to absolute paths
-- [x] "Pluralism" seeded in human-reality.md and May 16/20 posts
-- [x] Full thinkers list created (plan/seed-buildup-thinkers.md)
-- [x] 20 posts scheduled Sep–Nov with storyline points
-- [x] Buildup plan updated throughout (plan/seed-philosophy-buildup-plan.md)
-- [x] Homepage rewritten: foundational philosophy, decentralisation sentence (2026-05-03)
-- [x] Layout: `layout: default` added site-wide, fixing double titles (2026-05-03)
-- [x] Post font size fixed (inline 1.05em override in head.html) (2026-05-03)
-- [x] Blog listing enriched: thumbnails, dates, series, excerpts — homepage, blog page, all 20 label pages (2026-05-03/04)
-- [x] Seed privacy-and-decentralisation page created (2026-05-03)
-- [x] Arrow of time positioning page created (2026-05-04)
-- [x] From arrow to historicity positioning page created (2026-05-04)
-- [x] RQM subject page created (2026-05-04)
-- [x] Mutualism split: subjects (pure concept) and on-the-fence (SPLectrum engagement) (2026-05-04)
-- [x] 23 person entries created and cold-reviewed (2026-05-03/04)
-- [x] 9 subject entries created and cold-reviewed (2026-05-03/04)
-- [x] All seed pages: internal links to person entries, external links moved to person pages (2026-05-03)
-- [x] Person pages: duplicate SEP links stripped, single link per page (2026-05-04)
-- [x] Interrelational standardised (no hyphen) site-wide (2026-05-05)
-- [x] Sitemap updated with all new pages (2026-05-03/04)
+- [ ] **IP-load-bearing positioning entries** — Berlin, Arendt, Connolly as priorities. These thinkers do heavy work on the interrelational pluralism positioning page and need their own person pages.
+- [ ] **Human reality page** — P3 section could be strengthened; may need rework to match historicity/pluralism standard
+- [ ] **May posts final review pass** — May 12, 14, 16, 18, 20 at final review; May 24 at mandatory review
+- [ ] **Historical posts editorial notes** — posts republished after interrelational pluralism was named need editorial notes to place them in context
+- [ ] **Positioning research for interrelational pluralism** — the neighbourhood mapping (thinker-by-thinker positioning posts and person pages) was tentatively scheduled Sep–Dec but can start earlier now that the position has landed
 
-## In progress
+## Positioning pages — persons still needed
 
-- [ ] **Human reality page** — P3 section could be strengthened with Gadamer/Habermas/Peirce (moved from historicity); overall page may need similar rework to match new historicity/pluralism standard
-
-## New posts — May 2026 (from historicity discussion notes)
-
-- [ ] **May 16 — The Seed and Language** (working title) — the structural base: being-in-language (P0/P1), contingency as structural, trace, relational identity, language as commitment not representation. Prerequisite for the historicity post.
-- [ ] **May 20 — The Seed and Historicity** (working title) — subject, retention, duration, self-creation through language accumulation. Extends from the seed-and-language base into the first movement: how we see reality through our languages. Refers to the classical science angle (time-symmetric laws, entropy, Rovelli). Also needs a corresponding seed reference page update.
-
-## Positioning pages — persons (research + create)
-
-Seed section persons — all done (2026-05-03/04):
-- [x] Wittgenstein — created (pre-session), cold-reviewed and expanded
-- [x] Bergson, Feyerabend, Fichte, Goodman, Habermas, Hegel, Heidegger, Husserl
-- [x] Jonas, Kuhn, Lyotard, Merleau-Ponty, Nagel, Ostrom, Peirce, Polanyi
-- [x] Popper, Rorty, Rovelli, Sapolsky (expanded), Saussure, Solé, Spinoza, Whitehead
-
-Still needed (scheduled for Sep–Nov posts):
 - [ ] Putnam (+Davidson)
 - [ ] James
 - [ ] MacIntyre
@@ -71,21 +25,18 @@ Still needed (scheduled for Sep–Nov posts):
 - [ ] Nagarjuna
 - [ ] Bateson + Biosemiotics
 
-Full candidate list: plan/positioning-entries-needed.md and plan/seed-buildup-thinkers.md
+## Blog posts — tentative
 
-## Blog posts
+Schedule is tentative, not authoritative. The flag-planting post was brought forward to May 20, giving more freedom of subject. The positioning research posts (originally Sep–Dec) may be brought forward. Shape and cadence to be decided as the work evolves.
 
-- [ ] Sep 1: *From Seed to Interrelational Pluralism* (stall)
-- [ ] Sep 4–28: 7 positioning posts (Wittgenstein, Putnam, James, Rorty, MacIntyre, Berlin, Hayek)
-- [ ] Oct 4–28: 7 positioning posts (Kuhn, Dewey, Gadamer, Arendt, Polanyi, Oakeshott, Cassirer)
-- [ ] Nov 1: Interrelational Pluralism I (synthesis)
-- [ ] Nov 4: Interrelational Pluralism II (synthesis)
-- [ ] Nov 8–16: 3 positioning posts (Whitehead, Peirce, Bateson+biosemiotics)
-- [ ] December: further synthesis, seed/philosophical.md rewrite, closing post
+Tentative structure:
+- Positioning posts: one per thinker, non-SPLectrum voice, each with a person page
+- Synthesis posts: what the position takes, where it diverges, the branches worked out
+- December: seed/philosophical.md rewrite, closing post, transition to 2027
 
 ## End state (Dec 2026)
 
-- [ ] Interrelational pluralism as a named philosophical position
+- [ ] Interrelational pluralism defended and mapped against its neighbourhood
 - [ ] Neighbourhood mapped across persons A-Z
 - [ ] Rewrite seed/philosophical.md
 - [ ] Closing post — year end, transition to 2027 phase

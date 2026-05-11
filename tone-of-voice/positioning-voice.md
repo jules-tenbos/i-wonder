@@ -25,5 +25,6 @@ Equal standing (P4) applied to the positioning work itself. The thinkers' materi
 ## How to apply
 
 - Persons/subjects: the body (bio, key concepts) is outside voice — no SPLectrum vocabulary, no seed references. State what the thinker said and did. The intro and closer may reference the seed as quiet pointers, not claims. Do not reframe the thinker's concepts in SPLectrum terms — leave that to the blog posts.
+- The specific failure mode to watch for: sentences that frame a thinker as confirming or leading to the seed. That reads as shouting. The connection should be visible from the placement, not asserted in the prose. Use "converges with", "sits close to" — not "the seed's answer", "before the seed did". If removing the SPLectrum reference wouldn't lose anything substantive, remove it. The page should stand on its own.
 - Seed/close/wider: brief listings, indicate where in SPLectrum the resonance sits. No analysis, no claims.
 - Fence: full engagement. Resonance and dissonance named and examined. SPLectrum's reading of the overlap and divergence is part of what the page offers.
