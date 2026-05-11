@@ -23,7 +23,7 @@ The crowning achievement of Newton's classical mechanics and the mathematical to
 
 Maxwell's equations predicted a fixed speed of light, the same for all observers. Waves travelling at constant speed. This inspired Einstein — first came special relativity, where space and time are coupled and localised, then general relativity, which treats gravity as geometry. Absolute spacetime had disappeared, now it was tied to a local observer.
 
-But Maxwell's theory also exposed a shortcoming. The Rayleigh-Jeans radiation law, derived from Maxwell's equations, predicted that energy should increase without limit at high frequencies — the ultraviolet catastrophe. It doesn't. Planck found that the experimental data only made sense if energy comes in discrete packets — quanta. The smooth, continuous world of classical physics had a grain.
+But Maxwell's theory also exposed a shortcoming. The Rayleigh-Jeans radiation law, derived from classical physics, predicted that energy should increase without limit at high frequencies — the ultraviolet catastrophe. It doesn't. Planck found that the experimental data only made sense if energy comes in discrete packets — quanta. The smooth, continuous world of classical physics had a grain.
 
 Einstein took this further with the photoelectric effect: light itself comes in quanta. And de Broglie turned it around — if waves behave as particles, particles also behave as waves. This duality made the wave treatment of particles natural, leading to Schrödinger's wave equation.
 

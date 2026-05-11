@@ -34,6 +34,8 @@ Recently, and suddenly, thanks to a detour into software engineering and collabo
 > **P5 - Together they form a web of growing complexity.**<br>
 > Relational density increases as knowledge grows.
 
+*P0 was not part of the original seed — it was added later during unpacking, as told in [The Birth of P0](/blog/2026/05/the-birth-of-p0-being-is-tension/). The seed is shown here in its current form.*
+
 Don't think that the seed came to me as some declaration from above. Yes — relational, knowledge, reality and complexity were on my mind, but the distillation had to be worked on. That takes time. Distillation here means getting clearer insights into specific aspects, not explicitly planning and writing the lines. That just happened — to my surprise. 
 
 I mentioned a detour into software engineering and collaborative AI. I have to give credit where credit is due: nowadays AI is my full-time partner in crime. It is my alter ego in fact. It is doing so much legwork, leaving me the freedom to think and explore ideas. Which greatly helped the arrival of the seed, no doubt there. Six lines — in a nutshell a foundation principle — to structure my explorations going forward.
