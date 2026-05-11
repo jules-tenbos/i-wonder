@@ -11,6 +11,10 @@ description: "Movements, theories and themes of importance to SPLectrum — from
 
 These are subjects of importance to SPLectrum, referenced within the site.
 
+## A
+
+- [Autopoiesis](a/autopoiesis) · biology, systems theory<span class="kw">self-making systems, operational closure, structural coupling: Maturana, Varela, Luhmann</span>
+
 ## C
 
 - [Category theory](c/category-theory) · mathematics<span class="kw">the mathematics of relation — objects known by their arrows, structure preserved through functors</span>

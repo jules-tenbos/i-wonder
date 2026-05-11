@@ -13,7 +13,7 @@ This is the post where SPLectrum shows the flag it is flying under. From the pre
 
 Pluralism has a long history in philosophy, but it is compartmentalised. Metaphysical pluralists say there are many kinds of things. Epistemological pluralists say there are many valid ways of knowing. Value pluralists say there are many incommensurable goods. Political pluralists say power is dispersed, plurality constitutive. Each strand has its own thinkers and its own defence — James, Whitehead, Feyerabend, Goodman, Berlin, Wittgenstein, Arendt — and each arrives independently at the same structural observation: many, none privileged.
 
-But they stay in their lanes. The [pluralistic landscape](/positioning/seed/interrelational-pluralism/) feels separate because each tradition reached for the strand its own concerns demanded. It was never separate. Pluralism is part of the essence of being thrown into the world. It is doing it a disservice to treat it as an archipelago of islands.
+But they stay in their lanes. The [pluralistic landscape](/positioning/close-affinity/pluralism/) feels separate because each tradition reached for the strand its own concerns demanded. The [structural mechanism](/positioning/seed/interrelational-pluralism/) surfaces independently across all of them. It was never separate. Pluralism is part of the essence of being thrown into the world. It is doing it a disservice to treat it as an archipelago of islands.
 
 Most pluralisms describe a state: there are many. They do not say why there are many, how the many interact to produce more, or why the many keep growing. The interrelational vantage point sees what was always one, and names the mechanism.
 

@@ -14,7 +14,12 @@ Individual thinkers referenced across the positioning section. Each page collect
 ## B
 
 - [Brandom, Robert (1950–)](b/brandom) · philosopher<span class="kw">inferentialism, deontic scorekeeping, commitment over representation, expressive rationality</span>
+- [Bateson, Gregory (1904–1980)](b/bateson) · anthropologist, cyberneticist<span class="kw">ecology of mind, difference that makes a difference, schismogenesis, the pattern which connects</span>
 - [Bergson, Henri (1859–1941)](b/bergson) · philosopher<span class="kw">duration, creative evolution, intuition, the élan vital</span>
+
+## C
+
+- [Connolly, William E. (1938–)](c/connolly) · political theorist<span class="kw">deep pluralism, pluralisation, agonistic respect, politics of becoming, resonance machines</span>
 
 ## D
 
@@ -53,11 +58,13 @@ Individual thinkers referenced across the positioning section. Each page collect
 
 ## L
 
+- [Luhmann, Niklas (1927–1998)](l/luhmann) · sociologist<span class="kw">social systems, functional differentiation, communication, autopoiesis, structural coupling</span>
 - [Leibniz, Gottfried Wilhelm (1646–1716)](l/leibniz) · philosopher, mathematician<span class="kw">relational space, monads, pre-established harmony, the universal characteristic</span>
 - [Lyotard, Jean-François (1924–1998)](l/lyotard) · philosopher<span class="kw">the postmodern condition, the differend, language games, metanarratives</span>
 
 ## M
 
+- [Maturana, Humberto (1928–2021)](m/maturana) · biologist, philosopher<span class="kw">autopoiesis, biology of cognition, the observer, structural determinism</span>
 - [Merleau-Ponty, Maurice (1908–1961)](m/merleau-ponty) · philosopher<span class="kw">phenomenology of the body, perception, the habitual body, intercorporeality</span>
 
 ## N
@@ -88,6 +95,10 @@ Individual thinkers referenced across the positioning section. Each page collect
 - [Saussure, Ferdinand de (1857–1913)](s/saussure) · linguist<span class="kw">structural linguistics, the differential sign, langue and parole</span>
 - [Solé, Ricard (1962–)](s/sole) · complex systems scientist<span class="kw">liquid brains, solid brains, criticality, phase transitions</span>
 - [Spinoza, Baruch (1632–1677)](s/spinoza) · philosopher<span class="kw">substance monism, determination as negation, conatus</span>
+
+## V
+
+- [Varela, Francisco (1946–2001)](v/varela) · biologist, cognitive scientist<span class="kw">autopoiesis, enactivism, neurophenomenology, the embodied mind</span>
 
 ## W
 
