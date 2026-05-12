@@ -43,4 +43,4 @@ Process philosophy replaces substance with event — but the three main figures 
 
 [Hegel](/positioning/persons/h/hegel/) · [Bergson](/positioning/persons/b/bergson/) · [Whitehead](/positioning/persons/w/whitehead/)
 
-See also: [Category theory](/positioning/subjects/c/category-theory/) · [German idealism](/positioning/subjects/g/german-idealism/) · [The seed and Philosophy](/seed/philosophical/) · [The seed and Historicity](/seed/historicity/) · [The seed and Interrelational Pluralism](/seed/interrelational-pluralism/)
+See also: [Category theory](/positioning/subjects/c/ct/) · [German idealism](/positioning/subjects/g/german-idealism/) · [The seed and Philosophy](/seed/philosophical/) · [The seed and Historicity](/seed/historicity/) · [The seed and Interrelational Pluralism](/seed/interrelational-pluralism/)

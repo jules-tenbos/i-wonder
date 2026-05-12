@@ -46,7 +46,7 @@ All languages have this in common: none of them self-founding. It takes one lang
 
 The primordial hardwired language brings the raw power of execution. Higher languages bring the power of thought through the clarity and simplicity of its concepts and grammar. As thinking evolves, so do languages. It's only natural.
 
-<small>This post is part of the [language series](/blog/label/language/). See also <a href="/language/software-languages/">Software languages</a>.</small>
+<small>This post is part of the [language series](/blog/label/language/). See also <a href="/language/types/software/">Software languages</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@carlgonz">Carl Gonzalez</a> / Unsplash</small>

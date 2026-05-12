@@ -17,7 +17,7 @@ These are subjects of importance to SPLectrum, referenced within the site.
 
 ## C
 
-- [Category theory](c/category-theory) · mathematics<span class="kw">the mathematics of relation — objects known by their arrows, structure preserved through functors</span>
+- [Category theory](c/ct/) · mathematics<span class="kw">structure through relationships rather than internal composition — objects known entirely by their arrows</span>
 
 ## D
 

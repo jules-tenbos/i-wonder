@@ -7,7 +7,6 @@ labels: [positioning, science]
 description: "From Newton's clockwork to quantum uncertainty — how physics moved from the outside observer to the participant, and left an open question."
 status: ready
 words: 929
-vocabulary: /vocabulary/site/home/blog/how-science-became-relational/
 ---
 <img src="https://images.unsplash.com/photo-1641143215652-971a31701a89?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Light and physics" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 

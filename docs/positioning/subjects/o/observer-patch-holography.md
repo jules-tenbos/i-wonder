@@ -43,5 +43,5 @@ Without coupling, the framework needs a global vantage point to hold the picture
 
 ## Where the insights deserve better ground
 
-Meaning as constitutive, objectivity as convergence, the observer as central — these observations surface independently across multiple frameworks. They deserve to be developed from minimal foundational footing. The [seed](../../seed/) reduces to two foundational principles — differentiation (P0) and relational character (P1) — which [category theory](../../language/category-theory/) can formalise. Everything else follows. Minimal axioms resist circularity because there is less to presuppose.
+Meaning as constitutive, objectivity as convergence, the observer as central — these observations surface independently across multiple frameworks. They deserve to be developed from minimal foundational footing. The [seed](../../seed/) reduces to two foundational principles — differentiation (P0) and relational character (P1) — which [category theory](/positioning/subjects/c/ct/) can formalise. Everything else follows. Minimal axioms resist circularity because there is less to presuppose.
 

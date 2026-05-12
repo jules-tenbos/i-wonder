@@ -65,4 +65,4 @@ Language is framed as human natural history: "Commanding, questioning, recountin
 
 ---
 
-See also: [Wittgenstein vocabulary](/vocabulary/wittgenstein/) · [The Turn in Western Philosophy](/positioning/seed/the-turn-in-western-philosophy/)
+See also: [Wittgenstein vocabulary](/vocabulary/a-z/w/wittgenstein/) · [The Turn in Western Philosophy](/positioning/seed/the-turn-in-western-philosophy/)

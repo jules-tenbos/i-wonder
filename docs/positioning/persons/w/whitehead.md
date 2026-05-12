@@ -49,4 +49,4 @@ Whitehead's system is speculative and totalising in a way SPLectrum's seed isn't
 
 ---
 
-See also: [Process philosophy](/positioning/subjects/p/process-philosophy/) · [Category theory](/positioning/subjects/c/category-theory/) · [The seed and Philosophy](/seed/philosophical/) · [The seed and Interrelational Pluralism](/seed/interrelational-pluralism/)
+See also: [Process philosophy](/positioning/subjects/p/process-philosophy/) · [Category theory](/positioning/subjects/c/ct/) · [The seed and Philosophy](/seed/philosophical/) · [The seed and Interrelational Pluralism](/seed/interrelational-pluralism/)

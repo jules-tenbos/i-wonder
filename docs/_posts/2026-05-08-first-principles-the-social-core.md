@@ -7,7 +7,6 @@ labels: [seed, philosophy, SPLectrum]
 description: "The second half of the seed principles — sharing, interrelation and growing complexity. From the individual subject to the social and evolutionary core."
 status: ready
 words: 634
-vocabulary: /vocabulary/site/home/blog/first-principles-the-social-core/
 ---
 <img src="https://images.unsplash.com/photo-1736348877782-fa7ae2a9bd69?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="First principles" />
 

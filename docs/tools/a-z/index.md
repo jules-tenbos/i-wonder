@@ -10,3 +10,7 @@ description: "Alphabetical lookup of tools in SPLectrum's world."
 # Tools A–Z
 
 Items with a recognised tool-use in the SPLectrum world. Each entry describes what work the item does when held as a tool. The criterion is functional — a tool is what it does.
+
+## C
+
+- [Category theory](c/category-theory/) — relational analysis across languages, seed formalisation, the float principle.

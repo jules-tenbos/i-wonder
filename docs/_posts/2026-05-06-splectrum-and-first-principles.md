@@ -7,7 +7,6 @@ labels: [seed, philosophy, SPLectrum]
 description: "Walking through the first three seed principles — being, relation, and the individual subject's experience of reality. The existential core."
 status: ready
 words: 748
-vocabulary: /vocabulary/site/home/blog/splectrum-and-first-principles/
 ---
 <img src="https://images.unsplash.com/photo-1736348877782-fa7ae2a9bd69?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="First principles" />
 

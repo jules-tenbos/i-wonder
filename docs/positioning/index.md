@@ -5,7 +5,7 @@ title: "Positioning"
 description: "Thinkers, traditions and subjects with influence on SPLectrum — an interdisciplinary landscape of knowledge, all with equal standing."
 ---
 
-[Home](/) > Positioning{% include vocabulary-link.html shadow="/vocabulary/site/home/positioning/" %}
+[Home](/) > Positioning
 
 # Positioning - The Landscape
 

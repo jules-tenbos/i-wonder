@@ -10,3 +10,5 @@ description: "Cross-cutting concepts in SPLectrum's treatment of vocabulary."
 # Vocabulary — Concepts
 
 Cross-cutting concepts in SPLectrum's treatment of vocabulary.
+
+- [Structure](structure/) — concepts, relations, vocabulary, language; the category-theoretic view.

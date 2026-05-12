@@ -36,7 +36,7 @@ Privacy as the essence of subject experience, and decentralisation as how commun
 SPLectrum's attempt at a seamless translation of the seed into engineering design.
 
 **[When category theory and the seed meet](category-theory)**<br>
-Mathematical convergence and its impact.
+P0 and P1 are CT's own primitives. Given those two, CT implements the structural dynamics of the remaining principles.
 
 **[The seed and Discovery](discovery)**<br>
 The unwalked relational paths — where creation meets discovery.

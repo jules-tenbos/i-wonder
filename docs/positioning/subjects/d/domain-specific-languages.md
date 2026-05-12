@@ -15,7 +15,7 @@ Domain specific languages matter to SPLectrum because they are P4 made concrete.
 
 The idea of a purpose-built vocabulary is not an invention of computing. Philosophers have always done this. [Heidegger](/positioning/persons/h/heidegger/) built a DSL for Being — Dasein, Zuhandenheit, Geworfenheit, Erschlossenheit — terms that carry meaning only within his framework. [Wittgenstein](/positioning/persons/w/wittgenstein/)'s later work runs on its own vocabulary — language games, forms of life, family resemblance — each term doing specific work that no existing word could do. [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) coined le corps propre, la chair, the chiasm. Every thinker who finds that ordinary language cannot say what needs saying builds a domain specific language for their domain of thought.
 
-What software engineering adds is not the pattern itself but the formal treatment: explicit grammar, defined operators, parsable syntax. The question SPLectrum finds interesting is what happens when that formal treatment is brought to bear on domains of meaning more broadly — not to replace the richness of natural language but to bring more precision where it helps. [Category theory](/language/category-theory/) is one example: a formal language for structure and relation that reaches across mathematics, logic and philosophy. DSLs are another aspect of the same impulse.
+What software engineering adds is not the pattern itself but the formal treatment: explicit grammar, defined operators, parsable syntax. The question SPLectrum finds interesting is what happens when that formal treatment is brought to bear on domains of meaning more broadly — not to replace the richness of natural language but to bring more precision where it helps. [Category theory](/positioning/subjects/c/ct/) is one example: a formal language for structure and relation that reaches across mathematics, logic and philosophy. DSLs are another aspect of the same impulse.
 
 ## Languages born from languages
 
@@ -49,4 +49,4 @@ And the direction of travel points forward. Where existing DSLs tend to be forma
 
 [Martin Fowler](https://en.wikipedia.org/wiki/Martin_Fowler_(software_engineer)) — popularised the internal/external distinction in [*Domain-Specific Languages*](https://en.wikipedia.org/wiki/Domain-specific_language) (2010, Addison-Wesley)
 
-See also: [Software languages](/language/software-languages/) · [Category theory](/language/category-theory/) · [Seed](/seed/) · [Engineering](/engineering/)
+See also: [Software languages](/language/types/software/) · [Category theory](/positioning/subjects/c/ct/) · [Seed](/seed/) · [Engineering](/engineering/)

@@ -10,3 +10,7 @@ description: "Categorisation overviews of kinds of language."
 # Language — Types
 
 Categorisation overviews of kinds of language.
+
+- [Natural languages](natural/) — human language, ambiguity, context, language games.
+- [Formal languages](formal/) — mathematical, logical, type theory, formal systems.
+- [Software languages](software/) — taxonomy, relation to formal language theory.
