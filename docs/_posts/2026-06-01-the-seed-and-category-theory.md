@@ -33,7 +33,7 @@ What opens up from there is substantial. The 1-categorical level doesn't disappe
 
 The journey begins here.
 
-<small>This post is part of the [category-theory series](/blog/label/category-theory/). More on category theory in the [seed section](/seed/category-theory/) and the [math tools](/math-tools/) reference.</small>
+<small>This post is part of the [category-theory series](/blog/label/category-theory/). More on category theory in the [seed section](/seed/category-theory/) and the [tools](/tools/) reference.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@anniespratt">Annie Spratt</a> / Unsplash</small>

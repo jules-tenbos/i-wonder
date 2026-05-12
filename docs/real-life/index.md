@@ -1,12 +1,12 @@
 ---
 layout: default
-lastmod: 2026-05-10
-title: "In Real Life"
-description: "SPLectrum in practice — accessible, bigger units for real-world application."
+lastmod: 2026-05-12
+title: "Real Life"
+description: "SPLectrum in practice — structural-scale applied analysis on real-world domains."
 ---
 
-[Home](/) > In Real Life
+[Home](/) > Real Life
 
-# In Real Life
+# Real Life - The Practice
 
-SPLectrum in practice. Bigger units than the conversational blog, accessible without the full philosophical apparatus. Coming soon.
+Structural-scale applied analysis — SPLectrum's frame brought to bear on real-world domains. Substantial pieces, distinct from the blog's working stream. Where the blog tries ideas out, Real Life is the curated, developed home.

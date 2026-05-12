@@ -7,7 +7,7 @@ description: "Reality through the lens of interrelational pluralism — communit
 
 [Home](/) > Reality
 
-# Reality
+# Reality - The Building
 
 This section is research vision — where the work is heading, framed by the one claim it stands on.
 

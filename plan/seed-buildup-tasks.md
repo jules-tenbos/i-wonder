@@ -4,11 +4,17 @@ Position: interrelational pluralism. Named and landed (May 20 post).
 
 ## Current
 
+- [x] **May 12 post final review** — voice edits applied: dropped P1 tag, softened convergence claim, trimmed Rorty (2026-05-12)
+- [ ] **May posts final review pass** — May 14, 16, 18, 20 at final review; May 24 at mandatory review
 - [ ] **IP-load-bearing positioning entries** — Berlin, Arendt, Connolly as priorities. These thinkers do heavy work on the interrelational pluralism positioning page and need their own person pages.
 - [ ] **Human reality page** — P3 section could be strengthened; may need rework to match historicity/pluralism standard
-- [ ] **May posts final review pass** — May 12, 14, 16, 18, 20 at final review; May 24 at mandatory review
 - [ ] **Historical posts editorial notes** — posts republished after interrelational pluralism was named need editorial notes to place them in context
 - [ ] **Positioning research for interrelational pluralism** — the neighbourhood mapping (thinker-by-thinker positioning posts and person pages) was tentatively scheduled Sep–Dec but can start earlier now that the position has landed
+
+## Schedule changes (2026-05-12)
+
+- Privacy Naturally moved from June 28 to May 28
+- Category theory "First Encounter" post replaced by 5-post series (June 1–28), see `category-theory-rework-tasks.md`
 
 ## Positioning pages — persons still needed
 

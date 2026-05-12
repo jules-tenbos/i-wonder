@@ -7,7 +7,7 @@ description: "Thinkers, traditions and subjects with influence on SPLectrum — 
 
 [Home](/) > Positioning{% include vocabulary-link.html shadow="/vocabulary/site/home/positioning/" %}
 
-# Positioning
+# Positioning - The Landscape
 
 This section deals with the outside voice, the context that SPLectrum is embedded within. SPLectrum stays at a distance, and only takes part when a mix of resonance and dissonance is discussed in the pieces.
 

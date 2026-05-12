@@ -5,9 +5,9 @@ title: "The SPLectrum Seed"
 description: "The SPLectrum seed and its many facets — six principles on language and relation, articulated across philosophy, science, engineering and beyond."
 ---
 
-[Home](/) > The SPLectrum Seed
+[Home](/) > The Seed
 
-# The SPLectrum Seed
+# The Seed - The Foundation
 
 The foundation of SPLectrum. Six principles on language and what languages all have in common. The [broad sense of language](/language/) is in play here — far beyond human communication, into all relational activity. This section looks at the seed principles through the spectacles of different disciplines.
 

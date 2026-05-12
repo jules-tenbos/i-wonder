@@ -9,7 +9,7 @@ The seed series was constrained: what can be said using only six principles. Pos
 - **Subject freedom.** Posts are no longer sequenced toward naming the position. Any topic that interrelational pluralism has something to say about is fair game — philosophy, science, politics, engineering, art, everyday life.
 - **Positioning research.** The neighbourhood mapping (thinker-by-thinker posts and person pages) was tentatively scheduled Sep–Dec but can start whenever the material is ready. The position exists; the neighbourhood work strengthens it, it doesn't create it.
 - **Historical posts.** Posts republished after interrelational pluralism was named need editorial notes placing them in context — they were written before the position landed.
-- **New site areas.** In Real Life and Math Tools are signposted on the homepage. These are post-seed areas — they build on the position rather than unpacking it.
+- **New site areas.** Real Life and Tools are signposted on the homepage. These are post-seed areas — they build on the position rather than unpacking it.
 
 ## Neighbourhood mapping
 

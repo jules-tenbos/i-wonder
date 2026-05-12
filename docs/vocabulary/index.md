@@ -7,7 +7,7 @@ description: "The vocabulary section is auxiliary to the language section and is
 
 [Home](/) > Vocabulary
 
-# Vocabulary
+# Vocabulary - The Conceptual
 
 Concepts made explicit, one vocabulary per language game. Making the words of a game explicit lets the game be studied, compared, and kept free of implicit drift.
 

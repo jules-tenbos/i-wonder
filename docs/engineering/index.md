@@ -7,7 +7,7 @@ description: "SPLectrum engineering — the SPLectrum philosophy and human-AI co
 
 [Home](/) > Engineering
 
-# Engineering
+# Engineering - The Technology
 
 SPLectrum engineering starts from a set of [engineering commitments](engineering-commitments).
 
