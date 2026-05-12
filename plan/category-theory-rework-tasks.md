@@ -9,24 +9,23 @@
 
 ## Blocked on sections rework
 
-These tasks depend on the Language / Vocabulary / Tools sections being restructured per the 9-box homepage discussion. Folder structure (`a-z / concepts / types`) is in place; page migrations and content still to do.
+Page migrations and new A-Z entries depend on the 9-box sections rework (see `sections-rework-tasks.md`). Once migrations are done:
 
-- [ ] **Language section CT page** — move `/language/category-theory/` to `/language/a-z/c/category-theory/` (language-aspect: CT as a language with its own grammar). Refocus content on the approach: float principle, meaning patterns, how CT is used to reason about languages. Current page has old Yoneda/convergence/relational-power content.
-- [ ] **Language section page migrations** — move existing `/language/natural-languages/`, `/language/formal-languages/`, `/language/software-languages/` into `/language/types/`. Move `/language/what-is-a-language/` to `/language/concepts/what-is-a-language/`.
-- [ ] **Tools CT entry** — create `/tools/a-z/c/category-theory/` (tool-aspect: what CT does when held as a tool for relational analysis).
-- [ ] **Vocabulary CT entry** — create `/vocabulary/a-z/c/category-theory/` (vocabulary-aspect: CT's specific vocabulary — morphism, functor, natural transformation, etc.).
-- [ ] **Cross-links** — category theory entries in all three A-Zs cross-link to each other and to the seed page and positioning subject page.
+- [ ] **Language CT page** — refocus `/language/a-z/c/category-theory/` content on the approach: float principle, meaning patterns, how CT reasons about languages
+- [ ] **Tools CT entry** — write `/tools/a-z/c/category-theory/` (tool-aspect: what CT does as a tool for relational analysis)
+- [ ] **Vocabulary CT entry** — write `/vocabulary/a-z/c/category-theory/` (vocabulary-aspect: morphism, functor, natural transformation, etc.)
+- [ ] **Cross-links** — CT entries in all three A-Zs cross-link to each other and to the seed page and positioning subject page
+- [ ] **Prior art section** — Lambek, DisCoCat, Institutions material (removed from seed page) lands on Language CT or Tools CT entry
 
 ## Independent of sections rework
 
-- [ ] **Positioning subject page** `/positioning/subjects/c/category-theory` — update: expand higher categories section, reframe "where category theory stops" (CT captures the carrier of meaning patterns, not meaning itself), add foldback as structural insight. Draft proposes targeted updates, not full rewrite.
-- [ ] **Seed index description** — currently "Mathematical convergence and its impact" — undersells the rewritten page. Update to reflect the structural claim.
-- [ ] **Post images** — Posts 2–5 (Wrapper, Is Like Is, Meaning Patterns Travel, Friction) have IMAGE_TBD. Post 1 has Annie Spratt image. Decide: one shared image (series identity) or five different.
-- [ ] **Open questions from rework doc** — Post 3 title ("Is Like, Is" vs "Same Restaurant" vs other). Post 1 word count (760, could trim). Image strategy.
-- [ ] **Prior art section** — removed from seed page in the narrower rewrite. Lambek, DisCoCat, Institutions material can land on the Tools CT entry or the Language CT entry when those sections exist.
+- [ ] **Positioning subject page** `/positioning/subjects/c/category-theory` — expand higher categories section, reframe "where CT stops", add foldback. Targeted updates, not full rewrite.
+- [ ] **Seed index description** — currently "Mathematical convergence and its impact" — update to reflect the structural claim
+- [ ] **Post images** — Posts 2–5 have IMAGE_TBD. Decide: one shared image (series identity) or five different.
+- [ ] **Open questions** — Post 3 title ("Is Like, Is" vs "Same Restaurant"). Image strategy.
 
-## Deferred (later in the programme)
+## Deferred
 
-- [ ] **Companion posts** — "Meaning Patterns Travel" thought post variant (separate from the series post), "RQM as test case" positioning piece, "Token/type and signifier/signified as the same meaning pattern" vocabulary entry.
-- [ ] **Submissions file** `submissions/language-games-category-theory.md` — CT applied to SPLectrum's own language registers. May become a Tools concept page or a blog post when the Tools section exists.
-- [ ] **Draft cleanup** — `drafts/seed-and-category-theory.md` and `drafts/seed-and-category-theory-notes.md` can be removed once all material has landed.
+- [ ] **Companion posts** — "RQM as test case" positioning piece, "Token/type and signifier/signified" vocabulary entry
+- [ ] **Submissions file** `submissions/language-games-category-theory.md` — may become a Tools concept page or blog post
+- [ ] **Draft cleanup** — `drafts/seed-and-category-theory.md` and `drafts/seed-and-category-theory-notes.md` removable once all material has landed
