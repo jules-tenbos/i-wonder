@@ -100,6 +100,17 @@ Full list of thinkers relevant to the interrelational pluralism positioning work
 |---------|------------|--------|
 | McDaniel | Fragmentation of being, multiple ways of existing | Candidate |
 
+## Person/subject pages created (2026-05-11)
+
+| Thinker | Page |
+|---------|------|
+| Bateson | Person page — ecology of mind, difference, schismogenesis |
+| Maturana | Person page — biology of cognition, autopoiesis, the observer |
+| Varela | Person page — autopoiesis, enactivism, neurophenomenology |
+| Luhmann | Person page — social systems, functional differentiation |
+| Connolly | Person page — deep pluralism, pluralisation, agonistic respect |
+| Autopoiesis | Subject page — self-making systems, structural coupling |
+
 ## Already positioned (trajectory pieces, not standalone)
 
 | Thinker | Where covered | Standalone needed? |

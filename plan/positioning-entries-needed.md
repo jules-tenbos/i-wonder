@@ -45,7 +45,7 @@ Persons and subjects referenced on the site without their own entry. Prioritised
 - David Wheeler — software languages post
 - Eilenberg, Samuel — category theory
 - Mac Lane, Saunders — category theory
-- Maturana, Humberto — decentralised cognition post
+- ~~Maturana, Humberto~~ — done (person page created 2026-05-11)
 - Gerald Edelman — discovery multiplier post
 - Suzanne Simard — mutualism post
 - Peter Kropotkin — mutualism subject page

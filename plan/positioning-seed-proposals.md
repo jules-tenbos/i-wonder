@@ -1,5 +1,19 @@
 # Positioning seed section — proposed updates and new pages
 
+## Progress
+
+| # | Item | Status |
+|---|------|--------|
+| 1 | Shared-reality / community-formation piece | Open — new positioning/seed page to write |
+| 2 | Voice softenings on Turn in Western Philosophy | Done |
+| 3 | Voice softening on Turn in Science | Done |
+| 4 | IP voice softenings + coverage decision | Done — IP split into structural seed + content close-affinity |
+| 5 | Arrow of Time internal linking | Open — depends on person pages (Boltzmann, Eddington, etc.) |
+| 6 | Handoff sentence on From Arrow to Historicity | Open — depends on #1 |
+| 7 | Hold the privacy piece | Parked — waiting for seed page to settle |
+
+---
+
 A review of the six trajectory pieces under `/positioning/seed/` plus the section landing, with proposals for updates to existing pages and consideration of where new pages would help. Companion to the earlier `/seed/` review; the two are best read together.
 
 The positioning seed pages do trajectory work — tracing the historical and intellectual paths leading to the seed's territory. They sit one tier "warmer" than persons/subjects pages (where the thinker speaks for themselves) and one tier "cooler" than on-the-fence pages (where SPLectrum engages as a contender). The voice question for these pages is harder than for either neighbour: enough of a SPLectrum reading to do trajectory work, not so much that the thinkers are claimed for the framework.
