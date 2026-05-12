@@ -13,6 +13,7 @@ description: "Browse blog posts by label on The World of SPLectrum."
   <div>
     <h3>Series</h3>
     <ul>
+      <li><a href="category-theory">category-theory</a> ({{ site.posts | where_exp: "p", "p.labels contains 'category-theory'" | size }})</li>
       <li><a href="discovery">discovery</a> ({{ site.posts | where_exp: "p", "p.labels contains 'discovery'" | size }})</li>
       <li><a href="language">language</a> ({{ site.posts | where_exp: "p", "p.labels contains 'language'" | size }})</li>
       <li><a href="mycelium">mycelium</a> ({{ site.posts | where_exp: "p", "p.labels contains 'mycelium'" | size }})</li>
