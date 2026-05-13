@@ -4,10 +4,11 @@ Position: interrelational pluralism. Named and landed (May 20 post).
 
 ## Current
 
-- [x] **May 14 post (The Seed and Human Reality)** — reworked: spectacles metaphor throughout, P2 tag removed, number agreement fixed, footer link clarified (2026-05-12)
-- [x] **May 16 post (Between Subjects)** — reviewed: constitutive strawman dropped, burial account standalone, P2 relational-layer added (2026-05-12)
-- [x] **May 18 post (Community as Luminosity)** — reviewed: substrate-as-condition fix, P-tags removed, image updated (2026-05-12)
-- [x] **May 20 post (From Seed to IP)** — reviewed: relativism paragraph consolidated, essence→structure, personification fixed (2026-05-12)
+- [x] **May 14 post (The Seed and Human Reality)** — reworked: spectacles metaphor, P2 tag removed, description added, ready (2026-05-12)
+- [x] **May 16 post (Between Subjects)** — reviewed, description added, ready (2026-05-12)
+- [x] **May 18 post (Community as Luminosity)** — reviewed, description added, ready (2026-05-12)
+- [x] **May 20 post (From Seed to IP)** — reviewed, description added, ready (2026-05-12)
+- [x] **Convergence audit** — 11 cross-tradition/thinker-to-seed uses replaced with affinity/echoes across 9 files; seed-internal P3 vocabulary and thinker-owned concepts left intact (2026-05-12)
 - [ ] **May 24 post** — at mandatory review
 - [ ] **IP-load-bearing positioning entries** — Berlin, Arendt as priorities (Connolly done). These thinkers do heavy work on the interrelational pluralism positioning page and need their own person pages.
 - [ ] **Human reality page** — P3 section could be strengthened; may need rework to match historicity/pluralism standard
