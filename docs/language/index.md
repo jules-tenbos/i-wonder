@@ -18,3 +18,4 @@ Each of the kinds below is a language in that structural sense. The content vari
 - [Natural languages](types/natural/) — human language, ambiguity, context, language games.
 - [Formal languages](types/formal/) — mathematical, logical, type theory, formal systems.
 - [Software languages](types/software/) — taxonomy, relation to formal language theory.
+- [Domain-specific languages](types/dsl/) — SPLectrum's reading of DSLs, what the engineering record demonstrates, where the thinking is heading.
