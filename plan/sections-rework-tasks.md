@@ -6,7 +6,7 @@ Based on the 9-box homepage discussion. See `9-box-homepage-discussion.md` in Wi
 
 - [x] **DSL positioning subject page** — 8-page cluster at `/positioning/subjects/d/domain-specific-languages/` (2026-05-13)
 - [x] **DSL language type page** — SPLectrum-voiced page at `/language/types/dsl/` (2026-05-13). Covers P4 reading, engineering evidence, three aspirational threads (SLM, decomposition, engineering implications)
-- [ ] **`/vocabulary/concepts/what-is-a-vocabulary/`** — grammar criterion from 9-box discussion
+- [x] **`/vocabulary/concepts/what-is-a-vocabulary/`** — two-views framing (static/dynamic), labels as constitutive. Language page updated as companion (2026-05-13)
 
 ## Real Life section
 
