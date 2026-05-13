@@ -17,7 +17,7 @@ Two languages have met before. The seed, arrived at philosophically. Category th
 
 Category theory starts with two primitives: objects, and arrows between them. An object has no interior worth speaking of. It is known entirely by its arrows — how it relates to everything else. That maps onto the seed's opening moves cleanly. P0: differentiation brings being into existence. P1: the differentiation is relational. Once those are in place, categorical territory begins. The Yoneda Lemma — the foundational result that the totality of an object's relationships is a complete characterisation of the object — is P2 stated formally. There is nothing more to know than the relational structure.
 
-Real convergence. But 1-categorical. Asking "are these equal?" where the seed asks "how do they relate?"
+Real affinity. But 1-categorical. Asking "are these equal?" where the seed asks "how do they relate?"
 
 The seed doesn't stop at the surface. P3 says convergence to shared reality is process — subjects iterate, compare, refine. That's arrows between arrows, not arrows between objects. Two dimensions, not one. P4 says languages have equal standing — no language sits above the others as meta. Comparisons between languages are themselves linguistic acts that can be compared. The recursion runs all the way up. P5 says complexity grows in expression, not in power — the dynamics are at every level. A 1-categorical reading flattens all of this into snapshots. The seed lives one dimension up at minimum, and naturally all the way up.
 

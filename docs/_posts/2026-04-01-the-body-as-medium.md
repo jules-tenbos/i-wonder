@@ -22,7 +22,7 @@ And the body doesn't just transmit — it participates. Perception is not passiv
 
 Merleau-Ponty distinguished between living speech and settled speech — language in the act of creating and language already sedimented into habit. The living kind is where new meaning is born, in the gesture of expression. The settled kind is what we build on — the vocabulary already there. Every act of speaking moves between the two: drawing on what is settled, reaching for what is not yet said.
 
-Merleau-Ponty arrived here through phenomenology — through careful description of lived experience from outside — decades before neuroscience had the tools to look at it from the inside. When mirror neurons were discovered in the 1990s, researchers found proof of what he had described: the direct, bodily understanding of another's actions without needing to reason about them. Independent paths, converging.
+Merleau-Ponty arrived here through phenomenology — through careful description of lived experience from outside — decades before neuroscience had the tools to look at it from the inside. When mirror neurons were discovered in the 1990s, researchers found proof of what he had described: the direct, bodily understanding of another's actions without needing to reason about them. Independent paths, the same territory.
 
 In 1958, at a conference in Royaumont outside Paris, analytical and continental philosophers met face to face. Merleau-Ponty listened to Ryle — a leading figure of ordinary language philosophy — and responded: "I do not see much that separates us." Two traditions, standing in different places, recognising the same landscape.
 

@@ -49,4 +49,4 @@ In philosophy, debates around category theory continue — particularly the ques
 
 ## Elsewhere on the site
 
-For SPLectrum's working use of category theory, see [Category theory](/tools/a-z/c/category-theory/) in the Tools section. For the convergence between category theory and the seed, see [When category theory and the seed meet](/seed/category-theory/).
+For SPLectrum's working use of category theory, see [Category theory](/tools/a-z/c/category-theory/) in the Tools section. For the affinity between category theory and the seed, see [When category theory and the seed meet](/seed/category-theory/).

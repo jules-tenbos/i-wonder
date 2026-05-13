@@ -9,7 +9,7 @@ description: "Category theory as a tool — what it does when held as an instrum
 
 # Category theory
 
-Category theory held as a tool — an instrument for relational analysis. For the field on its own terms, see the [positioning subject page](/positioning/subjects/c/ct/). For the convergence with the seed, see [when category theory and the seed meet](/seed/category-theory/).
+Category theory held as a tool — an instrument for relational analysis. For the field on its own terms, see the [positioning subject page](/positioning/subjects/c/ct/). For where category theory meets the seed, see [when category theory and the seed meet](/seed/category-theory/).
 
 ## Three features that carry the weight
 

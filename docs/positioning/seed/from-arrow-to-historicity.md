@@ -38,7 +38,7 @@ The philosophical tradition describes the same territory from a different starti
 
 [Hegel](/positioning/persons/h/hegel/)'s **sublation** (*Aufhebung*) captures the logic: every new determination preserves what it supersedes. The dialectic does not work without accumulation — it is accumulation. Nothing is simply left behind; the history of the process is carried forward in every determination (*Science of Logic*, 1812–16).
 
-The convergence across disciplines is striking. Thermodynamics establishes that traces require irreversibility (Reichenbach, Albert, Rovelli). Biology shows that some systems actively sustain their own retention at thermodynamic cost (Schrödinger, Prigogine). Phenomenology describes what retention looks like from the inside — temporal thickness, bodily accumulation, the preservation of the past in every present moment (Husserl, Merleau-Ponty). Dialectics provides the logic of accumulation without loss (Hegel).
+The affinity across disciplines is striking. Thermodynamics establishes that traces require irreversibility (Reichenbach, Albert, Rovelli). Biology shows that some systems actively sustain their own retention at thermodynamic cost (Schrödinger, Prigogine). Phenomenology describes what retention looks like from the inside — temporal thickness, bodily accumulation, the preservation of the past in every present moment (Husserl, Merleau-Ponty). Dialectics provides the logic of accumulation without loss (Hegel).
 
 Each tradition approaches the phenomenon from its own direction. What they share is the recognition that historicity — the capacity to carry a past forward into a present — is not a given. It requires conditions, and those conditions are not universally met.
 

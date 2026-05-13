@@ -9,7 +9,7 @@ description: "Sellars dismantled the myth of the given — no content arrives pr
 
 # Wilfrid Sellars (1912–1989)
 
-Sellars matters to SPLectrum because his critique of the given closes the door on any starting point outside language. If no content arrives meaningful before conceptual work has been done, then language is not a layer placed on top of raw experience — it is constitutive of experience. This converges with P1 and P2: language is relational, and it is the medium through which a subject experiences reality. [Brandom](/positioning/persons/b/brandom/) built his inferentialism directly on Sellars's foundations.
+Sellars matters to SPLectrum because his critique of the given closes the door on any starting point outside language. If no content arrives meaningful before conceptual work has been done, then language is not a layer placed on top of raw experience — it is constitutive of experience. This echoes P1 and P2: language is relational, and it is the medium through which a subject experiences reality. [Brandom](/positioning/persons/b/brandom/) built his inferentialism directly on Sellars's foundations.
 
 [Wilfrid Sellars](https://plato.stanford.edu/entries/sellars/) (1912–1989). Philosopher at the University of Minnesota and later the University of Pittsburgh, where he established the tradition that Brandom would continue. Son of the philosopher Roy Wood Sellars. His work bridged the analytic and pragmatist traditions, combining rigorous logical analysis with a deep concern for the normative structure of knowledge. His influence was slow to build — *Empiricism and the Philosophy of Mind* (1956) was decades ahead of its reception — but it reshaped the landscape of epistemology and philosophy of language.
 

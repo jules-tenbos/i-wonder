@@ -44,15 +44,15 @@ The evolution of thinking appears to follow a similar threshold pattern, with th
 
 Each threshold compresses the pace. The pattern resembles the physical curve — the same kind of exponential, running through the medium of thought.
 
-## Scientific convergence
+## Shared structural territory
 
-The sciences are converging on the same structural observation, independently:
+Several sciences point at the same structural observation, independently:
 
 - **[Relational quantum mechanics](https://en.wikipedia.org/wiki/Relational_quantum_mechanics)** — properties exist only relative to other systems.
 - **Neuroscience and [embodied cognition](https://en.wikipedia.org/wiki/Embodied_cognition)** — meaning grounded in the body's sensorimotor interaction.
 - **Biology and biosemiotics** — semiosis as fundamental property of all living systems.
 - **AI and neural networks** — meaning entirely in relations between nodes.
 
-The convergence is no longer philosophical. The sciences are arriving there from within.
+Similar structural observations recur across the sciences, from within their own domains.
 
 

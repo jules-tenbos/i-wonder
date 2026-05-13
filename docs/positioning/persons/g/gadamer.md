@@ -33,7 +33,7 @@ Gadamer made the case that understanding is never neutral — it is always alrea
 
 ## Where Gadamer stops
 
-Gadamer's hermeneutics is deeply historical and deeply social. Understanding is always situated, always shaped by tradition, always a dialogue. But his territory is the human encounter with meaning — texts, conversation, tradition, art. The horizon is a human horizon; the dialogue is between human participants (or between a reader and a text). The broader gradient that runs from cellular retention to human understanding is not his question. His account of how accumulated history shapes anticipation converges with the SPLectrum seed's account of historicity, but where the seed extends the mechanism beyond human subjects, Gadamer stays within the interpretive life of human communities.
+Gadamer's hermeneutics is deeply historical and deeply social. Understanding is always situated, always shaped by tradition, always a dialogue. But his territory is the human encounter with meaning — texts, conversation, tradition, art. The horizon is a human horizon; the dialogue is between human participants (or between a reader and a text). The broader gradient that runs from cellular retention to human understanding is not his question. His account of how accumulated history shapes anticipation echoes the SPLectrum seed's account of historicity, but where the seed extends the mechanism beyond human subjects, Gadamer stays within the interpretive life of human communities.
 
 ---
 

@@ -4,6 +4,7 @@ title: "Between Subjects"
 date: 2026-05-16
 lastmod: 2026-05-12
 labels: [seed, philosophy, SPLectrum]
+description: "Experience must be personal before it can be shared, and it never arrives in the other unmediated. The gap between subjects is real — and ownness is buried under everything we share."
 status: ready
 words: 474
 ---

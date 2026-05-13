@@ -4,7 +4,8 @@ title: "From Seed to Interrelational Pluralism"
 date: 2026-05-20
 lastmod: 2026-05-12
 labels: [seed, philosophy, SPLectrum]
-status: final review
+description: "SPLectrum names its position: reality is multiple, the multiple interact, and through their interaction create more. Interrelational pluralism — the mechanism that runs through every strand of pluralism."
+status: ready
 words: 717
 ---
 <img src="https://images.unsplash.com/photo-1750969185331-e03829f72c7d?q=80&w=350&h=230&auto=format&fit=crop" alt="From Seed to Interrelational Pluralism" />
