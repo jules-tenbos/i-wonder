@@ -4,8 +4,12 @@ Position: interrelational pluralism. Named and landed (May 20 post).
 
 ## Current
 
-- [ ] **May posts final review pass** — May 14, 16, 18, 20 at final review; May 24 at mandatory review
-- [ ] **IP-load-bearing positioning entries** — Berlin, Arendt, Connolly as priorities. These thinkers do heavy work on the interrelational pluralism positioning page and need their own person pages.
+- [x] **May 14 post (The Seed and Human Reality)** — reworked: spectacles metaphor throughout, P2 tag removed, number agreement fixed, footer link clarified (2026-05-12)
+- [x] **May 16 post (Between Subjects)** — reviewed: constitutive strawman dropped, burial account standalone, P2 relational-layer added (2026-05-12)
+- [x] **May 18 post (Community as Luminosity)** — reviewed: substrate-as-condition fix, P-tags removed, image updated (2026-05-12)
+- [x] **May 20 post (From Seed to IP)** — reviewed: relativism paragraph consolidated, essence→structure, personification fixed (2026-05-12)
+- [ ] **May 24 post** — at mandatory review
+- [ ] **IP-load-bearing positioning entries** — Berlin, Arendt as priorities (Connolly done). These thinkers do heavy work on the interrelational pluralism positioning page and need their own person pages.
 - [ ] **Human reality page** — P3 section could be strengthened; may need rework to match historicity/pluralism standard
 - [ ] **Historical posts editorial notes** — posts republished after interrelational pluralism was named need editorial notes to place them in context
 - [ ] **Positioning research for interrelational pluralism** — the neighbourhood mapping (thinker-by-thinker positioning posts and person pages) was tentatively scheduled Sep–Dec but can start earlier now that the position has landed
@@ -13,7 +17,7 @@ Position: interrelational pluralism. Named and landed (May 20 post).
 ## Schedule changes (2026-05-12)
 
 - Privacy Naturally moved from June 28 to May 28
-- Category theory "First Encounter" post replaced by 5-post series (June 1–28), see `category-theory-rework-tasks.md`
+- Category theory "First Encounter" post replaced by 5-post series (June 1–28)
 
 ## Positioning pages — persons still needed
 
