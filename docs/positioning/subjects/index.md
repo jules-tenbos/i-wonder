@@ -21,7 +21,7 @@ These are subjects of importance to SPLectrum, referenced within the site.
 
 ## D
 
-- [Domain specific languages (DSL)](d/domain-specific-languages) · software engineering<span class="kw">languages born from languages, purpose-built vocabularies carrying domain meaning</span>
+- [Domain-specific languages (DSL)](d/domain-specific-languages/) · software engineering, notation<span class="kw">purpose-built vocabularies for specific problem areas — from SQL and regular expressions to musical notation and chemical nomenclature</span>
 
 ## G
 
