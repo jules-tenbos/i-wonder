@@ -9,7 +9,7 @@ description: "Purpose-built vocabularies beyond software — from Lavoisier's ch
 
 # The Pattern Beyond Software
 
-The practice of building a purpose-built vocabulary for a specific domain is not an invention of software engineering. It is a recurring pattern across the sciences, the arts, and philosophy — wherever a domain becomes well enough understood (or resistant enough to ordinary language) that its practitioners develop their own terms, symbols, and rules of combination. Software engineering's contribution is the formal treatment: explicit grammar, defined operators, parsable syntax, and a body of practice around design and implementation. But the impulse is far older.
+The practice of building a purpose-built vocabulary for a specific domain is not an invention of software engineering. It is a recurring pattern across the sciences, the arts, and philosophy — emerging under different conditions in different fields. Sometimes the trigger is clarity: a domain becomes well enough understood that its structure can be formalised (Linnaeus's taxonomy, modern chemical nomenclature). Sometimes it is resistance: ordinary language cannot articulate what the domain requires (Heidegger's vocabulary for Being, Merleau-Ponty's for embodied perception). Sometimes it is scale or precision: the domain's complexity outgrows what informal notation can handle (mathematical symbolism, musical staff notation). Software engineering's contribution is the formal treatment: explicit grammar, defined operators, parsable syntax, and a body of practice around design and implementation. But the impulse is far older.
 
 ## Iverson's argument
 
@@ -69,13 +69,13 @@ Philosophy has repeatedly produced purpose-built vocabularies for domains that o
 
 [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) coined *le corps propre* (the lived body, as distinct from the objective body), *la chair* (flesh, the element from which both perceiver and perceived are made), and the chiasm (the intertwining of touching and being touched). Each term carves out a phenomenon that the inherited philosophical vocabulary — subject, object, mind, body — could not articulate without distortion.
 
-In each case, the philosopher found that ordinary language, and the inherited technical language of the discipline, could not say what needed saying. The response was to build a purpose-built vocabulary — terms with defined meanings, used consistently within the work, forming a system that makes the domain's structure visible. The parallel with software DSLs is structural: where the domain resists ordinary language, a specialised vocabulary develops.
+In each case, the philosopher found that ordinary language, and the inherited technical language of the discipline, could not say what needed saying. The response was to build a purpose-built vocabulary — terms with defined meanings, used consistently within the work, governed by rules of combination, forming a system that makes the domain's structure visible. The parallel with software DSLs is structural: in both cases, expressive gaps produce specialised vocabularies with defined terms, consistent usage, and combinatorial rules that reflect the domain's structure.
 
 ## The underlying pattern
 
-What these cases share is a common trajectory. A domain — chemistry, biology, mathematics, music, philosophy, computation — reaches a point where its inherited language cannot express what its practitioners need to say. The response is a purpose-built vocabulary: terms, symbols, or constructs designed for the domain, carrying meaning within it, governed by rules of combination that reflect the domain's structure.
+What these cases share is not a single trigger but a common response. A domain — chemistry, biology, mathematics, music, philosophy, computation — reaches a point where its inherited language cannot express what its practitioners need to say. The gap may come from clarity (the domain's structure is now understood well enough to formalise), from resistance (ordinary language distorts the phenomena), or from scale (the complexity exceeds what informal notation can manage). The response is the same: a purpose-built vocabulary — terms, symbols, or constructs designed for the domain, carrying meaning within it, governed by rules of combination that reflect the domain's structure.
 
-The formal treatment that software engineering brought to this pattern — explicit grammar, parsable syntax, defined semantics, implementation frameworks — is one chapter in a much longer story. The impulse to build a language when ordinary language falls short is not a technical invention. It is what happens when a domain matures.
+The formal treatment that software engineering brought to this pattern — explicit grammar, parsable syntax, defined semantics, implementation frameworks — is one chapter in a much longer story. The impulse to build a language when ordinary language falls short is not a technical invention.
 
 ## Sources
 

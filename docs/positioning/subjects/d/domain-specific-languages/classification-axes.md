@@ -19,7 +19,7 @@ An **internal DSL** (also called an embedded DSL) lives inside a host language. 
 
 An **external DSL** has its own grammar and its own parser. It stands independently of any host language and bears full responsibility for its syntax and semantics. SQL defines its own grammar for relational querying; regular expressions define their own syntax for pattern matching.
 
-The choice between internal and external determines what trade-offs are available. An internal DSL inherits the host's ecosystem — IDE support, debugger, package management — but is bounded by the host's syntactic surface. An external DSL has full syntactic freedom but must build its tooling from scratch.
+The choice between internal and external determines what trade-offs are available. An internal DSL inherits the host's ecosystem — IDE support, debugger, package management — but is bounded by the host's syntactic surface. An external DSL has full syntactic freedom but must build its tooling from scratch. The distinction describes implementation strategy, but the felt weight can vary independently: some embedded DSLs are heavyweight enough to feel like standalone languages (Gradle's Kotlin DSL), while some external DSLs are minimal enough to barely register as languages (a configuration format with three keywords).
 
 See [Internal DSLs](/positioning/subjects/d/domain-specific-languages/internal-dsls/) and [External DSLs](/positioning/subjects/d/domain-specific-languages/external-dsls/) for full treatment.
 
@@ -49,10 +49,6 @@ A **technical** DSL is intended for programmers working in a specific domain. AN
 
 The intended audience shapes every design choice: syntax (how much it can assume about the user's background), error messages (what vocabulary they can use), and tooling (whether an IDE is assumed).
 
-## Standalone vs embedded
-
-This axis largely overlaps with external vs internal but is worth noting separately. Some embedded DSLs are heavyweight — Gradle's Kotlin DSL is a substantial language that happens to run inside Kotlin. Some standalone DSLs are minimal — a simple configuration file format with three keywords is external but barely a language. The internal/external distinction describes implementation strategy; standalone/embedded describes how the language feels to use.
-
 ## Markup vs modelling vs programming
 
 A high-level classification used in survey literature:
@@ -77,7 +73,7 @@ Non-Turing-completeness is often what makes a DSL safe to run in contexts where 
 
 These axes are not orthogonal. Declarative DSLs tend to be non-Turing-complete. External DSLs tend to be standalone. User-facing DSLs tend to be declarative. But the correlations are tendencies, not rules, and the interesting DSLs are often the ones that sit in unexpected positions — a Turing-complete declarative language, an internal DSL that feels standalone, a notational system that became executable.
 
-A concrete example: SQL is external, declarative, executable, technical (though with user-facing aspirations in its original design), standalone, a programming DSL, and not Turing-complete. Each classification says something different about it, and together they give a more complete picture than any single axis.
+A concrete example: SQL is external, declarative, executable, technical (though with user-facing aspirations in its original design), a programming DSL, and not Turing-complete. Each classification says something different about it, and together they give a more complete picture than any single axis.
 
 ## Sources
 

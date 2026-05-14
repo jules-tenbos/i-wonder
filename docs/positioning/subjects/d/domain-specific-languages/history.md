@@ -51,7 +51,7 @@ DSLs were no longer exotic tools for compiler researchers or Unix power users. E
 
 [Ruby](https://en.wikipedia.org/wiki/Ruby_(programming_language))'s syntactic flexibility — optional parentheses, blocks, method_missing — made it a natural host for internal DSLs. [Rails](https://en.wikipedia.org/wiki/Ruby_on_Rails) (Hansson, 2004) used internal DSLs for routing, database migration, and model declaration. [RSpec](https://rspec.info/) used them for test specification. [Rake](https://en.wikipedia.org/wiki/Rake_(software)) used them for build configuration. The Ruby community made internal DSLs a visible and named practice.
 
-[Sergey Dmitriev](https://www.onboard.jetbrains.com/articles/04/10/lop/) coined "language-oriented programming" in 2004, arguing that software development should be organised around domain-specific languages rather than general-purpose ones.
+[Sergey Dmitriev](https://www.onboard.jetbrains.com/articles/04/10/lop/) popularised "language-oriented programming" in 2004, arguing that software development should be organised around domain-specific languages rather than general-purpose ones.
 
 [Martin Fowler](https://en.wikipedia.org/wiki/Martin_Fowler_(software_engineer))'s *[Domain-Specific Languages](https://martinfowler.com/dsl.html)* (2010) consolidated the field. The book established the [internal/external distinction](/positioning/subjects/d/domain-specific-languages/classification-axes/), catalogued the implementation patterns (semantic model, symbol table, expression builder), and gave practitioners a shared vocabulary for discussing DSL design. It remains the most cited reference in the field.
 
