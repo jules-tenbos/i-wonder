@@ -35,6 +35,6 @@ It's tempting to claim I designed it this way, but the honest version is that th
 
 And then there's the reflexive bit, which I can't quite let go of. The homepage contains a Real Life box. The homepage is itself a Real Life thing — a structural artifact produced by the worldview it presents. The grid doesn't sit outside the structure it organises. It's inside it. Self-including. The anti-foundationalist in me finds this satisfying; the pragmatist in me suspects it's the kind of observation that matters exactly once and then you move on.
 
-For the structural treatment — rows, columns, what follows — see [The 9-Box Homepage](/real-life/the-9-box-homepage/) in Real Life.
+For the structural treatment — rows, columns, what follows — see [The 9-Box Homepage](/real-life/spl/the-9-box-homepage/) in Real Life.
 
 <small>This post is part of the [SPLectrum series](/blog/label/SPLectrum/).</small>

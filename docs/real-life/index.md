@@ -15,4 +15,4 @@ The Real Life section contains contributions about interrelational pluralism in 
 
 The way SPLectrum applies its philosophy to its own work.
 
-- [The 9-Box Homepage](the-9-box-homepage/) — an expression of the relational structure of the World of SPLectrum site.
+- [The 9-Box Homepage](spl/the-9-box-homepage/) — an expression of the relational structure of the World of SPLectrum site.

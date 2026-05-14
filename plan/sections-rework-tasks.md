@@ -10,6 +10,6 @@ Based on the 9-box homepage discussion. See `9-box-homepage-discussion.md` in Wi
 
 ## Real Life section
 
-- [ ] **Landing page content** — expand beyond current stub
-- [ ] **"The 9-Box Homepage" page** — Real Life piece on the homepage as structural artifact (draft in discussion doc)
-- [ ] **"Noticing the Grid" blog post** — conversational companion to the Real Life page (draft in discussion doc)
+- [x] **Landing page content** — reworked: applied IP intro, SPLectrum Practices as first domain (2026-05-14)
+- [x] **"The 9-Box Homepage" page** — Real Life piece at `/real-life/the-9-box-homepage/` with SVG grid diagram (2026-05-14)
+- [x] **"Noticing the Grid" blog post** — scheduled May 22, status: review needed (2026-05-14)
