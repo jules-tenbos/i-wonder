@@ -65,10 +65,6 @@ The eleventh thesis on Feuerbach: *"The philosophers have only interpreted the w
 
 The *Manifesto* opens: *"The history of all hitherto existing society is the history of class struggles."* Marx's political writings — *The Class Struggles in France* (1850), *The Eighteenth Brumaire of Louis Bonaparte* (1852), *The Civil War in France* (1871) — apply the analysis to specific historical episodes. His positive political vision is comparatively under-articulated, by design — he was wary of writing "recipes for the cook-shops of the future." Where he is explicit, the best-known formulation is from the *Critique of the Gotha Programme* (1875): *"From each according to his ability, to each according to his needs!"*
 
-## The collaboration with Engels
-
-Forty years of intellectual partnership and personal friendship, from 1844 to Marx's death. Joint works include *The Holy Family* (1845), *The German Ideology* (1845–46), and the *Manifesto* (1848). Engels supported the Marx family financially throughout the London years. After Marx's death, Engels edited and published *Capital* Volumes II and III from Marx's manuscripts — an editorial role substantial enough that the relationship between manuscript and published text has become a scholarly question in its own right.
-
 ## Where Marx stops
 
 Marx's critique is more fully developed than his construction. How the transition from capitalism to communism would proceed — and how a communist society would organise production, resolve disputes, and prevent the re-emergence of domination — is sketched rather than specified. His materialist conception of history, in its compressed 1859 form, has been read as more deterministic than his historical and political writings warrant; the tension between the structural account and the contingent, agent-centred analysis of the political works runs through his own writing, not only through later interpretations. And the unpublished status of his most philosophically ambitious early work — the *1844 Manuscripts*, *The German Ideology*, the *Grundrisse* — means that the Marx who was read in the nineteenth century and the Marx who was read in the twentieth are substantially different figures, assembled from different portions of the archive.
@@ -86,4 +82,4 @@ Marx's critique is more fully developed than his construction. How the transitio
 
 ---
 
-See also: [Proudhon](/positioning/persons/p/proudhon/) · [Hegel](/positioning/persons/h/hegel/) · [Spencer](/positioning/persons/s/spencer/)
+See also: [Hegel](/positioning/persons/h/hegel/) · [Proudhon](/positioning/persons/p/proudhon/)
