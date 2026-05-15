@@ -56,6 +56,7 @@ Individual thinkers referenced across the positioning section. Each page present
 ## K
 
 - [Kant, Immanuel (1724–1804)](k/kant) · philosopher<span class="kw">the Copernican revolution, phenomena and noumena, the categories, the moral law</span>
+- [Kropotkin, Peter (1842–1921)](k/kropotkin) · geographer, anarchist theorist<span class="kw">mutual aid, anarchist communism, decentralised production, cooperation as evolutionary factor</span>
 - [Kuhn, Thomas (1922–1996)](k/kuhn) · philosopher of science, historian<span class="kw">paradigms, normal science, revolutions, incommensurability</span>
 
 ## L

@@ -53,7 +53,7 @@ Agnosticism as Huxley framed it is a method, not a creed — a principle of inte
 
 Huxley campaigned to establish science as a publicly taught and publicly funded discipline in Britain. He helped found the Imperial College lineage (Royal School of Mines, Normal School of Science, Royal College of Science). His *Lessons in Elementary Physiology* (1866) and *Physiography* (1877) were widely used textbooks; the latter sold over 100,000 copies.
 
-The X Club (1864–93), an informal dining society of nine evolution-sympathetic scientists including [John Tyndall](https://en.wikipedia.org/wiki/John_Tyndall), [Joseph Hooker](https://en.wikipedia.org/wiki/Joseph_Dalton_Hooker), [Spencer](/positioning/persons/s/spencer/), and [John Lubbock](https://en.wikipedia.org/wiki/John_Lubbock,_1st_Baron_Avebury), was an instrument of the same campaign to break the hold of Oxbridge classics and clerical natural theology on British scientific institutions.
+The X Club (1864–93), an informal dining society of nine evolution-sympathetic scientists including [John Tyndall](https://en.wikipedia.org/wiki/John_Tyndall), [Joseph Hooker](https://en.wikipedia.org/wiki/Joseph_Dalton_Hooker), [Herbert Spencer](/positioning/persons/s/spencer/), and [John Lubbock](https://en.wikipedia.org/wiki/John_Lubbock,_1st_Baron_Avebury), was an instrument of the same campaign to break the hold of Oxbridge classics and clerical natural theology on British scientific institutions.
 
 ## *Evolution and Ethics* (1893)
 
@@ -76,4 +76,4 @@ Huxley was a polemicist as much as a scientist — the public defence of Darwini
 
 ---
 
-See also: [Darwin](/positioning/persons/d/darwin/) · [Spencer](/positioning/persons/s/spencer/) · [Philosophy of science](/positioning/subjects/p/philosophy-of-science/)
+See also: [Darwin](/positioning/persons/d/darwin/) · [Spencer](/positioning/persons/s/spencer/) · [Hume](/positioning/persons/h/hume/) · [Kant](/positioning/persons/k/kant/) · [Philosophy of science](/positioning/subjects/p/philosophy-of-science/)
