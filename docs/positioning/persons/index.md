@@ -103,6 +103,10 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Spencer, Herbert (1820–1903)](s/spencer) · philosopher, sociologist<span class="kw">synthetic philosophy, survival of the fittest, social organism, evolution as universal principle</span>
 - [Spinoza, Baruch (1632–1677)](s/spinoza) · philosopher<span class="kw">substance monism, determination as negation, conatus</span>
 
+## T
+
+- [Trivers, Robert (1943–2026)](t/trivers) · evolutionary biologist<span class="kw">reciprocal altruism, parental investment, parent-offspring conflict, self-deception</span>
+
 ## V
 
 - [Van Beneden, Pierre-Joseph (1809–1894)](v/van-beneden) · zoologist, paleontologist<span class="kw">commensalism, mutualism, parasitology, interspecific relations as gradient</span>
