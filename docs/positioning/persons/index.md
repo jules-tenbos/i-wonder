@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-06
+lastmod: 2026-05-15
 title: "Persons A–Z"
 description: "Thinkers referenced across the positioning section — from Bergson and Fichte to Whitehead and Wittgenstein"
 ---

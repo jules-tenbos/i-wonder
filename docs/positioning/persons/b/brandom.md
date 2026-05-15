@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-07
+lastmod: 2026-05-15
 title: "Robert Brandom (1950–)"
 description: "Brandom replaced representation with inference — meaning is what follows from what you say, not what your words stand for."
 ---

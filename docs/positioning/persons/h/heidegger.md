@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-06
+lastmod: 2026-05-15
 title: "Martin Heidegger (1889–1976)"
 description: "Heidegger displaced the subject-object split — we are always already in a world, disclosed through involvement, not observation."
 ---

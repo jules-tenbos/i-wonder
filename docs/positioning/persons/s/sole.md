@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-06
+lastmod: 2026-05-15
 title: "Ricard Solé (1962–)"
 description: "Solé maps cognitive architectures from liquid to solid — phase transitions, criticality, and the general laws underlying complex adaptive systems."
 ---

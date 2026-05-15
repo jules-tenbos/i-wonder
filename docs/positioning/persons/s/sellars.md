@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-07
+lastmod: 2026-05-15
 title: "Wilfrid Sellars (1912–1989)"
 description: "Sellars dismantled the myth of the given — no content arrives pre-conceptual, everything is already inside the inferential practice."
 ---

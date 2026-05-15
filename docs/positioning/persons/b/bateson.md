@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-11
+lastmod: 2026-05-15
 title: "Gregory Bateson (1904–1980)"
 description: "Bateson placed mind in the pattern, not in the head — differences propagating through circuits, connecting crab to lobster to primrose to us."
 ---

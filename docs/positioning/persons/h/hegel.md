@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-06
+lastmod: 2026-05-15
 title: "Georg Wilhelm Friedrich Hegel (1770–1831)"
 description: "Hegel put the limits of knowledge in motion — determination through negation, history as development, nothing simply left behind."
 ---

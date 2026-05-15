@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-11
+lastmod: 2026-05-15
 title: "Niklas Luhmann (1927–1998)"
 description: "Luhmann built a theory of society from communications, not people — functionally differentiated, operationally closed, with no privileged subsystem."
 ---

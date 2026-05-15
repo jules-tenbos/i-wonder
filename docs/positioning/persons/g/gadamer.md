@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-09
+lastmod: 2026-05-15
 title: "Hans-Georg Gadamer (1900–2002)"
 description: "Gadamer argued that all understanding is historically situated — we never approach anything from a neutral standpoint. Prejudice is the ground of knowledge, not its enemy."
 ---

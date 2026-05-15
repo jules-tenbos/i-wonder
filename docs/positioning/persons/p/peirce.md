@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-06
+lastmod: 2026-05-15
 title: "Charles Sanders Peirce (1839–1914)"
 description: "Peirce founded pragmatism and semiotics — meaning as practical consequence, truth as convergence of inquiry, signs as triadic."
 ---

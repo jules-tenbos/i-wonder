@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-06
+lastmod: 2026-05-15
 title: "Gottlob Frege (1848–1925)"
 description: "Frege founded modern logic and the philosophy of language — sense and reference, the concept-script, language as the medium of logical structure."
 ---

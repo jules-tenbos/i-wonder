@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-06
+lastmod: 2026-05-15
 title: "Positioning"
 description: "Thinkers, traditions and subjects with influence on SPLectrum — an interdisciplinary landscape of knowledge, all with equal standing."
 ---

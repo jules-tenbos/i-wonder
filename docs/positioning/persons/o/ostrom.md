@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-06
+lastmod: 2026-05-15
 title: "Elinor Ostrom (1933–2012)"
 description: "Ostrom showed that communities govern shared resources from within — polycentric, self-organised, no tragedy inevitable."
 ---

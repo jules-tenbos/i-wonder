@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-08
+lastmod: 2026-05-15
 title: "Heraclitus (c. 535–c. 475 BCE)"
 description: "Heraclitus saw flux and constancy as inseparable — the river stays the same because the water flows. The logos holds."
 ---

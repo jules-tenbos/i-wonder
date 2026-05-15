@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-11
+lastmod: 2026-05-15
 title: "Francisco Varela (1946–2001)"
 description: "Varela moved cognition from representation to enaction — the bringing forth of a world through embodied action. Co-originator of autopoiesis."
 ---

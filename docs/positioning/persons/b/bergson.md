@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-06
+lastmod: 2026-05-15
 title: "Henri Bergson (1859–1941)"
 description: "Bergson put duration at the centre — lived time as continuous flow, creative evolution as genuine novelty, intuition against the spatialising intellect."
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-06
+lastmod: 2026-05-15
 title: "John Dewey (1859–1952)"
 description: "Dewey brought pragmatism into the social — inquiry as community problem-solving, experience as transaction, democracy as a way of life."
 ---

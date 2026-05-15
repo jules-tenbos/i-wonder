@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-06
+lastmod: 2026-05-15
 title: "Ferdinand de Saussure (1857–1913)"
 description: "Saussure founded structural linguistics — the sign has no content in itself, meaning arises only through differences within a system."
 ---

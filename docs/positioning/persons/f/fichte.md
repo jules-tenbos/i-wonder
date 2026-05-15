@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-06
+lastmod: 2026-05-15
 title: "Johann Gottlieb Fichte (1762–1814)"
 description: "Fichte made self-positing the starting point — the I posits itself and its other, being begins with differentiation, the ground is an act not a substance."
 ---

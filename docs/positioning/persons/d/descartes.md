@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-06
+lastmod: 2026-05-15
 title: "René Descartes (1596–1650)"
 description: "Descartes fired the starting shot — the thinking subject at the centre, but the mirror and the mind-body split persisted for centuries."
 ---

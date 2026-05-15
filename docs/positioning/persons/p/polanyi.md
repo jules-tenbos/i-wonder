@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-06
+lastmod: 2026-05-15
 title: "Michael Polanyi (1891–1976)"
 description: "Polanyi showed that all knowledge rests on what cannot be fully articulated — tacit knowing, indwelling, the knower as participant not observer."
 ---

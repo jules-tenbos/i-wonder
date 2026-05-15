@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-11
+lastmod: 2026-05-15
 title: "Humberto Maturana (1928–2021)"
 description: "Maturana placed cognition inside the organism — perception is not representation but the maintenance of viability. Co-originator of autopoiesis."
 ---

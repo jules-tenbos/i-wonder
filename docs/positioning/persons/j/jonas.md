@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-06
+lastmod: 2026-05-15
 title: "Hans Jonas (1903–1993)"
 description: "Jonas bridged phenomenology and biology — the organism as self-constitution, metabolism as the first act of freedom, inwardness from the simplest cell."
 ---
