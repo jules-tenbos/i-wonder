@@ -9,7 +9,7 @@ lastmod: 2026-05-15
 
 # John Maynard Smith (1920–2004)
 
-Maynard Smith was a theoretical evolutionary biologist who brought mathematical rigour to questions about animal behaviour, sexual reproduction, and the structure of evolutionary history. He trained first as an aeronautical engineer, then retrained as a geneticist under [J. B. S. Haldane](https://en.wikipedia.org/wiki/J._B._S._Haldane). His two most influential contributions — [evolutionary game theory](https://en.wikipedia.org/wiki/Evolutionary_game_theory) and the concept of the evolutionarily stable strategy (ESS), and the framework of major evolutionary transitions developed with [Eörs Szathmáry](https://en.wikipedia.org/wiki/Eörs_Szathmáry) — each opened a field that continues after him.
+Maynard Smith was a theoretical evolutionary biologist who brought mathematical rigour to questions about animal behaviour, sexual reproduction, and the structure of evolutionary history. He trained first as an aeronautical engineer, then retrained as a geneticist under [J. B. S. Haldane](https://en.wikipedia.org/wiki/J._B._S._Haldane). Two of his most influential contributions — [evolutionary game theory](https://en.wikipedia.org/wiki/Evolutionary_game_theory) and the concept of the evolutionarily stable strategy (ESS), and the framework of major evolutionary transitions developed with [Eörs Szathmáry](https://en.wikipedia.org/wiki/Eörs_Szathmáry) — each opened a field that continues after him.
 
 ---
 
@@ -29,7 +29,7 @@ The ESS was first presented as a verbal argument in the 1972 essay collection *O
 
 *"An ESS or evolutionarily stable strategy is a strategy such that, if all the members of a population adopt it, no mutant strategy can invade."*
 
-The Hawk–Dove game — two strategies competing over a resource, one escalating, one retreating — became the paradigmatic example. The framework has had broad uptake outside biology: behavioural ecology, economics, anthropology, evolutionary psychology, political science.
+The Hawk–Dove game — two strategies competing over a resource, one escalating, one retreating — became the paradigmatic example. The framework has had broad uptake across biology and beyond: behavioural ecology in its native domain; economics, anthropology, evolutionary psychology, and political science outside it.
 
 ## The evolution of sex
 
@@ -74,4 +74,4 @@ The ESS framework models evolution as a game between strategies — powerful for
 
 ---
 
-See also: [Darwin](/positioning/persons/d/darwin/) · [Darwinism](/positioning/subjects/d/darwinism/) · [Mutualism](/positioning/subjects/m/mutualism/)
+See also: [Mutualism](/positioning/subjects/m/mutualism/) · [Maturana](/positioning/persons/m/maturana/) · [Solé](/positioning/persons/s/sole/)
