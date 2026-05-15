@@ -9,7 +9,7 @@ lastmod: 2026-05-15
 
 # Stuart Kauffman (1939–)
 
-Kauffman is a theoretical biologist and complex-systems researcher whose central claim is that self-organisation does much of the work conventionally attributed to natural selection — that there is "order for free" in complex systems, arising from the dynamics of interaction rather than from selection alone. His career spans Boolean network models of gene regulation, autocatalytic sets as a theory of life's origin, NK fitness landscapes, and — in his later philosophical work — the adjacent possible and the argument that the unfolding of the biosphere is not reducible to physics. Originally a medical doctor; a foundational figure in the [Santa Fe Institute](https://en.wikipedia.org/wiki/Santa_Fe_Institute) generation of complexity science.
+Kauffman is a theoretical biologist and complex-systems researcher whose central claim is that self-organisation does much of the work conventionally attributed to natural selection — that there is "order for free" in complex systems, arising from the dynamics of interaction rather than from selection alone. His career spans Boolean network models of gene regulation, autocatalytic sets as a theory of life's origin, NK fitness landscapes, and — in his later philosophical work — the adjacent possible and the argument that the unfolding of the biosphere is not reducible to physics. As he put it: *"There is 'order for free' out there, a spontaneous crystallisation of order out of complex systems, with no need for natural selection or any other external force."* Originally a medical doctor; a foundational figure in the [Santa Fe Institute](https://en.wikipedia.org/wiki/Santa_Fe_Institute) generation of complexity science.
 
 ---
 
@@ -23,7 +23,7 @@ Faculty at the University of Chicago, then the University of Pennsylvania, where
 
 From the mid-1960s Kauffman developed random Boolean networks (RBNs) as simplified models of gene regulation. Two load-bearing hypotheses emerged:
 
-**Cell types are attractors.** Different stable activity patterns of the same gene regulatory network correspond to different cell types in the same organism. The number of cell types in an organism should scale approximately as the square root of the number of genes — a prediction that held across a surprising range of organisms.
+**Cell types are attractors.** Different stable activity patterns of the same gene regulatory network correspond to different cell types in the same organism. The number of cell types in an organism should scale approximately as the square root of the number of genes — a prediction that fit early gene-count estimates across a range of organisms, though the picture has grown more complicated with modern genomic data.
 
 **Genetic regulatory networks operate at criticality** — at the boundary between ordered and chaotic dynamical regimes, where information storage and transmission are maximised. The hypothesis places living systems at the "edge of chaos," a phrase that became associated with the Santa Fe generation more broadly.
 
@@ -59,7 +59,7 @@ Kauffman's central framing — that self-organisation does much of the work conv
 
 ## Where Kauffman stops
 
-Kauffman's programme describes the conditions under which order arises spontaneously — Boolean networks at criticality, autocatalytic sets reaching closure, fitness landscapes with tunable ruggedness. The models are structural: they show that order can emerge without selection, that collectively autocatalytic sets can reproduce without a self-replicator, that landscape topology governs the difficulty of adaptation. What the models do not address is the lived side — how the order that arises is experienced, how it constitutes meaning for the organisms within it, how the adjacent possible is navigated by subjects with perspectives. His programme operates at the level of dynamics and structure; the question of what it is like to be inside the process sits outside it.
+Kauffman's programme describes the conditions under which order arises spontaneously — Boolean networks at criticality, autocatalytic sets reaching closure, fitness landscapes with tunable ruggedness. The models are structural: they show that order can emerge without selection, that collectively autocatalytic sets can reproduce without a self-replicator, that landscape topology governs the difficulty of adaptation. What the models do not address is the lived side — how the order that arises is experienced, how the adjacent possible is navigated from within. His programme operates at the level of dynamics and structure; lived experience sits outside it.
 
 ---
 
@@ -73,4 +73,4 @@ Kauffman's programme describes the conditions under which order arises spontaneo
 
 ---
 
-See also: [Darwinism](/positioning/subjects/d/darwinism/) · [Solé](/positioning/persons/s/sole/) · [Mutualism](/positioning/subjects/m/mutualism/)
+See also: [Solé](/positioning/persons/s/sole/) · [Mutualism](/positioning/subjects/m/mutualism/) · [Maturana](/positioning/persons/m/maturana/)
