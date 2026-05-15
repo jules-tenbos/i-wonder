@@ -68,6 +68,7 @@ Individual thinkers referenced across the positioning section. Each page present
 ## M
 
 - [Malthus, Thomas (1766–1834)](m/malthus) · political economist, demographer<span class="kw">principle of population, moral restraint, rent, effective demand</span>
+- [Marx, Karl (1818–1883)](m/marx) · philosopher, political economist<span class="kw">critique of political economy, materialist conception of history, alienation, Capital</span>
 - [Maturana, Humberto (1928–2021)](m/maturana) · biologist, philosopher<span class="kw">autopoiesis, biology of cognition, the observer, structural determinism</span>
 - [Merleau-Ponty, Maurice (1908–1961)](m/merleau-ponty) · philosopher<span class="kw">phenomenology of the body, perception, the habitual body, intercorporeality</span>
 
