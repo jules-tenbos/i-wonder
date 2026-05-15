@@ -31,7 +31,7 @@ The formula was meant to apply across the cosmic, the biological, the psychologi
 
 ## "Survival of the fittest"
 
-The phrase was introduced in *Principles of Biology* (1864), in response to Darwin's *Origin*. Spencer's own framing: *"This survival of the fittest, which I have here sought to express in mechanical terms, is that which Mr. Darwin has called 'natural selection, or the preservation of favoured races in the struggle for life.'"* He coined it as a paraphrase of Darwin, not as a cruelty doctrine. Darwin adopted the phrase from the fifth edition of *Origin* (1869) onwards, after [Wallace](https://en.wikipedia.org/wiki/Alfred_Russel_Wallace) urged him to use it to head off the personifying readings of "natural selection."
+The phrase was introduced in *Principles of Biology* (1864), in response to Darwin's *Origin*. Spencer's own framing: *"This survival of the fittest, which I have here sought to express in mechanical terms, is that which Mr. Darwin has called 'natural selection, or the preservation of favoured races in the struggle for life.'"* He coined it as a paraphrase of Darwin, not as a cruelty doctrine. Darwin adopted the phrase from the fifth edition of *Origin* (1869) onwards, after [Wallace](/positioning/persons/w/wallace/) urged him to use it to head off the personifying readings of "natural selection."
 
 ## Political thought
 
