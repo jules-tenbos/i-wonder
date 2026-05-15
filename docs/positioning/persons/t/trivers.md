@@ -53,7 +53,7 @@ With Austin Burt: *Genes in Conflict: The Biology of Selfish Genetic Elements* (
 
 ## Where Trivers stops
 
-Trivers' contributions are individually powerful and share a single method: identify a conflict of interest that earlier accounts had overlooked, model its evolutionary logic, and derive testable predictions. The method works within a framework where organisms (or genes) are treated as agents with fitness interests. Whether the conflict-of-interest framing describes the mechanisms at work or imports an economic vocabulary onto biological systems — the same question that runs through [evolutionary game theory](/positioning/subjects/m/mutualism/) more broadly — is not one Trivers engages with. His self-deception theory, the most psychologically ambitious of the five contributions, explains why self-deception exists but not how the boundary between self-knowledge and self-concealment is drawn in practice — the phenomenological side of the question sits outside his programme.
+Trivers' contributions are individually powerful and share a single method: identify a conflict of interest that earlier accounts had overlooked, model its evolutionary logic, and derive testable predictions. The models operate at the level of the dyad or the gene — two players, one conflict. The ecology beyond the dyad — how networks of reciprocal and conflicting relationships produce emergent social structures — is not his territory. His self-deception theory, the most psychologically ambitious of the five contributions, explains why self-deception exists but not how the boundary between self-knowledge and self-concealment is drawn in practice — the phenomenological side of the question sits outside his programme.
 
 ---
 
@@ -68,4 +68,4 @@ Trivers' contributions are individually powerful and share a single method: iden
 
 ---
 
-See also: [Darwin](/positioning/persons/d/darwin/) · [Mutualism](/positioning/subjects/m/mutualism/)
+See also: [Darwin](/positioning/persons/d/darwin/) · [Darwinism](/positioning/subjects/d/darwinism/) · [Mutualism](/positioning/subjects/m/mutualism/)
