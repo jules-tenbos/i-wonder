@@ -17,7 +17,7 @@ Wallace was a naturalist, geographer, and social critic who arrived at natural s
 
 Born 8 January 1823 in Usk, Monmouthshire, Wales. Trained as a surveyor with his brother William from his mid-teens — the spatial-mapping habit shaped his later science. In 1844 he met [Henry Walter Bates](https://en.wikipedia.org/wiki/Henry_Walter_Bates), who introduced him to entomology and natural history. From 1848 to 1852 he and Bates collected in the Amazon and Rio Negro basins, parting to cover separate territory. On the return voyage the *Helen* caught fire mid-Atlantic; most of Wallace's specimens were lost. He was adrift in a lifeboat for ten days before rescue.
 
-From 1854 to 1862 — eight years — he collected in the Malay Archipelago (present-day Indonesia, Malaysia, and surrounding islands), gathering over 125,000 specimens including more than a thousand species new to science. The fieldwork produced the observations on which his major contributions rest.
+From 1854 to 1862 — eight years — he collected in the Malay Archipelago (present-day Indonesia, Malaysia, and surrounding islands), gathering over 125,000 specimens, many representing species new to science. The fieldwork produced the observations on which his major contributions rest.
 
 He returned to England in 1862. In 1881 he founded the Land Nationalisation Society. A ten-month lecture tour of the United States followed in 1886–87. Honours included the Royal Geographical Society's Founder's Medal (1892), the Linnean Society's Gold Medal (1892), the Royal Society's Copley Medal (1908), and the Order of Merit (1908). He died at Broadstone, Dorset, on 7 November 1913.
 
@@ -29,7 +29,7 @@ The mechanism came in 1858. During a malarial fever on the Moluccan island of Te
 
 Darwin received the letter and recognised the mechanism he had been sitting on for twenty years. [Charles Lyell](/positioning/persons/l/lyell/) and [Joseph Hooker](https://en.wikipedia.org/wiki/Joseph_Dalton_Hooker) arranged for Darwin's earlier papers and Wallace's essay to be read jointly at the Linnean Society of London on 1 July 1858. Darwin's *On the Origin of Species* appeared the following year. The exact dates of the Ternate dispatch and Darwin's receipt have been refined and contested in recent scholarship; the traditional chronology is not fully settled.
 
-Wallace accepted the arrangement and remained on good terms with Darwin. His own *Darwinism* (1889) — the title itself a generous gesture — presented the theory with refinements of his own.
+Wallace accepted the arrangement and remained on good terms with Darwin. His own *Darwinism* (1889) presented the theory with refinements of his own.
 
 ## Biogeography
 
@@ -49,7 +49,7 @@ Wallace was publicly active across a wider range of causes than most Victorian n
 
 ## Where Wallace stops
 
-Wallace's contribution to natural selection was real and independent — but his published development of the theory was briefer and less sustained than Darwin's, and the further questions he opened (the limits of selection for the human case, the spiritualist alternative) he did not develop into a testable programme. His biogeography established the field's foundations but predated plate tectonics; the causal explanations he could offer for faunal distributions were limited by the geology available to him. And the range of his public interests — land reform, vaccination, Mars, spiritualism — gave his later career a breadth that cost him focus in the eyes of scientific contemporaries and contributed to the parenthetical reception Berry describes.
+Wallace's contribution to natural selection was real and independent — but his published development of the theory was briefer and less sustained than Darwin's, and the further questions he opened (the limits of selection for the human case, the spiritualist alternative) he did not develop into a research programme others could take up. His biogeography established the field's foundations but predated plate tectonics; the causal explanations he could offer for faunal distributions were limited by the geology available to him. And the range of his public interests — land reform, vaccination, Mars, spiritualism — gave his later career a breadth that cost him focus in the eyes of scientific contemporaries and contributed to the parenthetical reception Berry describes.
 
 ---
 
@@ -65,4 +65,4 @@ Wallace's contribution to natural selection was real and independent — but his
 
 ---
 
-See also: [Darwin](/positioning/persons/d/darwin/) · [Huxley](/positioning/persons/h/huxley/) · [Mutualism](/positioning/subjects/m/mutualism/)
+See also: [Darwin](/positioning/persons/d/darwin/) · [Huxley](/positioning/persons/h/huxley/) · [Kropotkin](/positioning/persons/k/kropotkin/)
