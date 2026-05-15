@@ -29,6 +29,25 @@ Score each criterion 1–5 using Google PQ anchors. Comments are where the revie
 
 ---
 
+## Linking — internal vs external
+
+The site links internally in most sections. The exception is positioning persons and subjects, which link externally only — to authoritative external sources (Stanford Encyclopedia, Wikipedia, institutional pages). The applied sections (blog, real life, engineering) have their own mix of internal and external, specified further when needed.
+
+### The threshold test
+
+When a name or subject enters the text, a threshold decision is made: does it live internally (has or will have its own persons/subjects page) or is it an external reference only? This decision governs whether the link points inward or outward.
+
+- **Internal link** = the name lives on the site. A persons or subjects page exists or is being committed to.
+- **External link** = the name is cited as context. No internal page exists or is planned.
+
+Don't mention persons or subjects for the sake of it — only if important enough to warrant a persons/subjects entry or an external citation that serves the page.
+
+### Best effort and transitions
+
+Threshold decisions are best effort at the time of writing. When a name crosses the threshold in either direction — gaining an internal page, or having one removed — the change is applied site-wide. No half-states where the same name is internal on one page and external on another.
+
+---
+
 ## SEO standards
 
 Every published page should be discoverable by someone who doesn't yet know SPLectrum exists. SEO is making sure the page carries enough structural signal for search engines to match it to the right query.
@@ -44,7 +63,6 @@ Every published page should be discoverable by someone who doesn't yet know SPLe
 - Landing/hub pages may start lighter and grow organically.
 
 ### Internal linking
-- Aim for 3–5 internal links per post and per reference page.
 - Link text should be descriptive, not "click here".
 
 ### Titles
