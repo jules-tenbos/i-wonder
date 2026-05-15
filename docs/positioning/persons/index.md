@@ -116,5 +116,6 @@ Individual thinkers referenced across the positioning section. Each page present
 
 ## W
 
+- [Wallace, Alfred Russel (1823–1913)](w/wallace) · naturalist, geographer<span class="kw">co-discovery of natural selection, biogeography, the Wallace Line, spiritualism</span>
 - [Whitehead, Alfred North (1861–1947)](w/whitehead) · philosopher, mathematician<span class="kw">process, actual occasions, creativity, prehension</span>
 - [Wittgenstein, Ludwig (1889–1951)](w/wittgenstein) · philosopher<span class="kw">language games, forms of life, meaning as use</span>
