@@ -23,6 +23,7 @@ Individual thinkers referenced across the positioning section. Each page present
 
 ## D
 
+- [Darwin, Charles (1809–1882)](d/darwin) · naturalist<span class="kw">natural selection, the Beagle voyage, one long argument, barnacles to earthworms</span>
 - [Descartes, René (1596–1650)](d/descartes) · philosopher, mathematician<span class="kw">the cogito, the mirror, the mind-body split, method</span>
 - [Dewey, John (1859–1952)](d/dewey) · philosopher<span class="kw">pragmatism, democracy, inquiry as community problem-solving, experience as transaction</span>
 
@@ -79,6 +80,7 @@ Individual thinkers referenced across the positioning section. Each page present
 
 - [Peirce, Charles Sanders (1839–1914)](p/peirce) · philosopher, logician<span class="kw">pragmatism, semiotics, the community of inquirers, fallibilism</span>
 - [Polanyi, Michael (1891–1976)](p/polanyi) · chemist, philosopher<span class="kw">tacit knowledge, personal knowledge, indwelling, the republic of science</span>
+- [Proudhon, Pierre-Joseph (1809–1865)](p/proudhon) · social theorist<span class="kw">mutualism, federalism, property as relation, anarchism</span>
 - [Popper, Karl (1902–1994)](p/popper) · philosopher of science<span class="kw">falsificationism, conjecture and refutation, the open society</span>
 
 ## R
@@ -98,6 +100,7 @@ Individual thinkers referenced across the positioning section. Each page present
 
 ## V
 
+- [Van Beneden, Pierre-Joseph (1809–1894)](v/van-beneden) · zoologist, paleontologist<span class="kw">commensalism, mutualism, parasitology, interspecific relations as gradient</span>
 - [Varela, Francisco (1946–2001)](v/varela) · biologist, cognitive scientist<span class="kw">autopoiesis, enactivism, neurophenomenology, the embodied mind</span>
 
 ## W

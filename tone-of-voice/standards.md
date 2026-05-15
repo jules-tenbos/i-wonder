@@ -31,7 +31,7 @@ Score each criterion 1–5 using Google PQ anchors. Comments are where the revie
 
 ## Linking — internal vs external
 
-The site links internally in most sections. The exception is positioning persons and subjects, which link externally only — to authoritative external sources (Stanford Encyclopedia, Wikipedia, institutional pages). The applied sections (blog, real life, engineering) have their own mix of internal and external, specified further when needed.
+The site links internally in most sections. Positioning persons and subjects use internal links where an internal page exists, external links (Stanford Encyclopedia, Wikipedia, institutional pages) where not. The applied sections (blog, real life, engineering) have their own mix of internal and external, specified further when needed.
 
 ### The threshold test
 
@@ -44,7 +44,7 @@ Don't mention persons or subjects for the sake of it — only if important enoug
 
 ### Best effort and transitions
 
-Threshold decisions are best effort at the time of writing. When a name crosses the threshold in either direction — gaining an internal page, or having one removed — the change is applied site-wide. No half-states where the same name is internal on one page and external on another.
+Threshold decisions are best effort at the time of writing. When a completed set of new person or subject pages is reviewed, external links to those names are replaced with internal links across the site. When a name crosses the threshold in either direction — gaining an internal page, or having one removed — the change is applied site-wide. No half-states where the same name is internal on one page and external on another.
 
 ---
 
