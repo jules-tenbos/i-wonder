@@ -17,13 +17,13 @@ Lyell was the geologist who carried [James Hutton](https://en.wikipedia.org/wiki
 
 Born 14 November 1797 at Kinnordy, Forfarshire, Scotland. His family moved to the New Forest near Southampton before he was two; his formation was principally English. His father was an amateur botanist with a well-stocked library; early exposure to natural-history texts included geology.
 
-Educated at Exeter College, Oxford, studying classics but attending [William Buckland](https://en.wikipedia.org/wiki/William_Buckland)'s geological lectures alongside. Trained as a barrister; called to the bar in 1825. He practised law intermittently before turning to geology full-time in 1827, partly under pressure from worsening eyesight. His first geological paper appeared in 1822; he served as joint secretary of the Geological Society of London from 1823. Field travel in France, Italy — notably Sicily and Mount Etna, which became central to his case — Spain, Germany, and later North America.
+Educated at Exeter College, Oxford, studying classics but attending [William Buckland](https://en.wikipedia.org/wiki/William_Buckland)'s geological lectures alongside. Trained as a barrister; called to the bar in 1825. He practised law intermittently before turning to geology full-time in 1827, partly under pressure from worsening eyesight. His first geological paper appeared in 1822; he served as joint secretary of the Geological Society of London from 1823. Field travel in France, Italy (notably Sicily and Mount Etna), Spain, Germany, and later North America.
 
 Professor of Geology at King's College London from 1831. Married Mary Horner in July 1832; she travelled and worked with him throughout his career. Knighted in 1848; made a baronet in 1864. He died on 22 February 1875 in London, while revising the twelfth edition of *Principles of Geology*. Buried in Westminster Abbey.
 
 ## *Principles of Geology* (1830–1833)
 
-Three volumes, published by John Murray. The work that made Lyell's reputation and changed the discipline. Its central argument: geological phenomena are to be explained by causes now in operation, observed at their present intensities, acting over immense periods of time. The polemic was directed against catastrophism — the view that the Earth's major features result from sudden, violent events unlike anything currently observed.
+Three volumes, published by John Murray. The work that made Lyell's reputation and changed the discipline. Its central argument: geological phenomena are to be explained by causes now in operation, observed at their present intensities, acting over immense periods of time. The polemic was directed against catastrophism — the view, associated above all with [Georges Cuvier](https://en.wikipedia.org/wiki/Georges_Cuvier), that the Earth's major features result from sudden, violent events unlike anything currently observed.
 
 The principle was not new. Hutton had proposed it in *Theory of the Earth* (1788); the phrase "the present is the key to the past," often attributed to Lyell, is a later slogan whose underlying idea belongs to the Scottish Enlightenment. Nor did Lyell coin the term "uniformitarianism" — that was [William Whewell](https://en.wikipedia.org/wiki/William_Whewell) in an 1832 review, alongside "catastrophism." Lyell's contribution was the systematic synthesis: case-building from Etna and the Tertiary, accumulating evidence from fieldwork across Europe, and presenting the argument in a form that carried conviction.
 
@@ -45,7 +45,7 @@ Lyell was not a secular hero against religious catastrophists. He was himself a 
 
 ## Where Lyell stops
 
-Lyell's uniformitarianism committed him not only to uniformity of natural law and of process — claims modern geology accepts — but also to uniformity of rate: that past processes operated at the same intensity as present ones. Modern geology recognises both slow processes and catastrophic events — asteroid impacts, mass extinctions, large volcanic eruptions — as part of the Earth's history. The specific commitment to uniformity of rate is no longer the consensus position. His stratigraphic method was quantitative and productive; his theoretical framework for Earth history was too steady-state for what the evidence eventually showed.
+Lyell's uniformitarianism bundled four commitments: uniformity of natural law, of process, of rate, and of state. He never relinquished the last two — that past processes operated at the same intensity as present ones, and that the Earth's overall condition has remained broadly steady over time. The first two have been absorbed into geology as foundational assumptions. The commitment to uniformity of rate and state he held throughout his career, declining to allow for processes more intense or more catastrophic than those currently observed. His stratigraphic method was quantitative and productive; his theoretical framework for Earth history was too steady-state for what it was asked to explain.
 
 ---
 
@@ -57,4 +57,4 @@ Lyell's uniformitarianism committed him not only to uniformity of natural law an
 
 ---
 
-See also: [Darwin](/positioning/persons/d/darwin/) · [Wallace](/positioning/persons/w/wallace/) · [Philosophy of science](/positioning/subjects/p/philosophy-of-science/)
+See also: [Darwin](/positioning/persons/d/darwin/) · [Philosophy of science](/positioning/subjects/p/philosophy-of-science/)
