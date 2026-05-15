@@ -31,11 +31,14 @@ Updated 2026-05-12. Tasks triggered by post publication and ongoing work.
 
 | Date | Title | Status |
 |------|-------|--------|
-| Jun 4 | Creation and Discovery | Mandatory review |
-| Jun 12 | Diversified Discovery | Mandatory review |
-| Jun 20 | The Discovery Multiplier | Mandatory review |
-| Jun 24 | The Seed and Category Theory | Mandatory review |
-| Jun 28 | Privacy, Naturally! | final revision |
+| Jun 1 | Noticing the Grid | review needed |
+| Jun 4 | The Seed and Category Theory | mandatory review |
+| Jun 8 | The Wrapper | mandatory review |
+| Jun 12 | Is Like, Is | mandatory review |
+| Jun 16 | Meaning Patterns Travel | mandatory review |
+| Jun 20 | The Friction with 1-Categorical Thinking | mandatory review |
+| Jun 24 | A View from the Perimeter | Mandatory review |
+| Jun 28 | A View from the Perimeter — The Thinking Side | Mandatory review |
 
 ### July
 
@@ -46,9 +49,7 @@ Updated 2026-05-12. Tasks triggered by post publication and ongoing work.
 | Jul 8 | Wiring the Brain | final review |
 | Jul 12 | I Know That I Don't Know | Mandatory review |
 | Jul 16 | No Life Without Death | final review |
-| Jul 20 | A View from the Perimeter | Mandatory review |
 | Jul 24 | Promises Made, Promises Broken | final review |
-| Jul 28 | A View from the Perimeter — The Thinking Side | Mandatory review |
 
 ### August
 
@@ -57,8 +58,11 @@ Updated 2026-05-12. Tasks triggered by post publication and ongoing work.
 | Aug 1 | Philosophy and the Brain | final review |
 | Aug 4 | The Decentralised Cognition Revolution | Mandatory review |
 | Aug 8 | Evolution and the Brain | final review |
+| Aug 12 | Creation and Discovery | Mandatory review |
 | Aug 16 | Am I a Libertarian? | final review |
+| Aug 20 | Diversified Discovery | Mandatory review |
 | Aug 24 | Embracing Anti-Foundationalism | final review |
+| Aug 28 | The Discovery Multiplier | Mandatory review |
 
 ## Parked work
 

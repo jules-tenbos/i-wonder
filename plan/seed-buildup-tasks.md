@@ -20,20 +20,27 @@ Position: interrelational pluralism. Named and landed (May 20 post).
 - Privacy Naturally moved from June 28 to May 28
 - Category theory "First Encounter" post replaced by 5-post series (June 1–28)
 
+## Schedule changes (2026-05-15)
+
+- Discovery posts (3) moved from Jun 4/12/20 to Aug 12/20/28
+- Category theory posts compressed to Jun 4–20 (every 4 days)
+- Noticing the Grid moved from May 22 to Jun 1
+- Perimeter posts (2) moved from Jul 20/28 to Jun 24/28
+
 ## Positioning pages — persons still needed
 
 - [ ] Putnam (+Davidson)
-- [ ] James
+- [x] ~~James~~ — person page exists
 - [ ] MacIntyre
 - [ ] Berlin
 - [ ] Hayek
-- [ ] Dewey
-- [ ] Gadamer
+- [x] ~~Dewey~~ — person page exists
+- [x] ~~Gadamer~~ — person page exists
 - [ ] Arendt
 - [ ] Oakeshott
 - [ ] Cassirer
 - [ ] Nagarjuna
-- [ ] Bateson + Biosemiotics
+- [x] ~~Bateson~~ — person page exists (biosemiotics subject TBD)
 
 ## Blog posts — tentative
 

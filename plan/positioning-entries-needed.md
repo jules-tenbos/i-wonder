@@ -22,7 +22,7 @@ Persons and subjects referenced on the site without their own entry. Prioritised
 - Landauer, Rolf — arrow of time, information thermodynamics
 - Anderson, Philip — arrow of time, emergence, "More is Different"
 - Gibbs, Josiah Willard — arrow of time, statistical mechanics
-- Leibniz — turn in science, relational space
+- ~~Leibniz~~ — done (person page exists)
 - Maxwell, James Clerk — turn in science, electromagnetism
 - Heisenberg — turn in science, uncertainty
 - Bohr — turn in science, complementarity
@@ -30,7 +30,7 @@ Persons and subjects referenced on the site without their own entry. Prioritised
 - Bohm, David — turn in science, hidden variables
 - De Broglie, Louis — turn in science, wave-particle duality
 - Planck, Max — turn in science, quantisation
-- Hume, David — blog posts, empiricism
+- ~~Hume, David~~ — done (person page exists)
 - Deleuze, Gilles — turn in science
 - Latour, Bruno — turn in science
 - Stengers, Isabelle — turn in science
@@ -48,10 +48,33 @@ Persons and subjects referenced on the site without their own entry. Prioritised
 - ~~Maturana, Humberto~~ — done (person page created 2026-05-11)
 - Gerald Edelman — discovery multiplier post
 - Suzanne Simard — mutualism post
-- Peter Kropotkin — mutualism subject page
-- Pierre-Joseph Proudhon — mutualism subject page
-- Robert Trivers — mutualism subject page
-- John Maynard Smith — mutualism subject page
+- ~~Peter Kropotkin~~ — done (mutualism unit, 2026-05-15)
+- ~~Pierre-Joseph Proudhon~~ — done (mutualism unit, 2026-05-15)
+- ~~Robert Trivers~~ — done (mutualism unit, 2026-05-15)
+- ~~John Maynard Smith~~ — done (mutualism unit, 2026-05-15)
+
+## Persons — created in mutualism unit (2026-05-15)
+
+Not previously on this list but now live:
+
+- ~~Proudhon, Pierre-Joseph~~ — done
+- ~~Van Beneden, Pierre-Joseph~~ — done
+- ~~Darwin, Charles~~ — done
+- ~~Malthus, Thomas~~ — done
+- ~~Spencer, Herbert~~ — done
+- ~~Huxley, Thomas Henry~~ — done
+- ~~Kropotkin, Peter~~ — done
+- ~~Marx, Karl~~ — done
+- ~~Trivers, Robert~~ — done
+- ~~Maynard Smith, John~~ — done
+- ~~Kauffman, Stuart~~ — done
+- ~~Wallace, Alfred Russel~~ — done
+- ~~Lyell, Charles~~ — done
+
+## Subjects — created or updated in mutualism unit (2026-05-15)
+
+- ~~Mutualism~~ — rewritten (2026-05-15)
+- ~~Darwinism~~ — initial single-page treatment (2026-05-15), section build-out planned
 
 ## Subjects — candidates
 
