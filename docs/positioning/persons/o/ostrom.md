@@ -9,7 +9,7 @@ description: "Ostrom showed that communities govern shared resources from within
 
 # Elinor Ostrom (1933–2012)
 
-Ostrom demonstrated in practice what philosophers argued in theory: shared reality is constituted from the grassroots, not imposed from above. Her commons governance showed communities self-organising to manage shared resources through communication, trust and locally adapted rules. Her polycentric governance — multiple overlapping centres, no single hierarchy — showed that coordination happens through interaction, not top-down command. And her insistence on institutional diversity — no single best way, the answer is always local — documented pluralism where others theorised it. SPLectrum reads its own account of shared reality in her light.
+Ostrom demonstrated in practice what philosophers argued in theory: shared reality is constituted from the grassroots, not imposed from above. Her commons governance showed communities self-organising to manage shared resources through communication, trust and locally adapted rules. Her polycentric governance — multiple overlapping centres, no single hierarchy — showed that coordination happens through interaction, not top-down command. And her insistence on institutional diversity — no single best way, the answer is always local — documented pluralism where others theorised it.
 
 [Elinor Ostrom](https://en.wikipedia.org/wiki/Elinor_Ostrom) (1933–2012). Political scientist who demonstrated that communities can and do govern shared resources without either privatisation or state control. Based at Indiana University, Bloomington, she co-founded the Workshop in Political Theory and Policy Analysis with her husband Vincent Ostrom in 1973 — a deliberately interdisciplinary, collaborative research environment whose institutional form reflected the polycentric governance she studied. The first woman to win the Nobel Prize in Economics (2009) — and a political scientist, not an economist, which was itself a statement about disciplinary boundaries. Her method was distinctive: comparative case study across hundreds of real-world commons (fisheries, forests, irrigation systems, pastures), combined with game-theoretic experiments in the lab. She didn't theorise from armchairs; she went to the communities.
 
@@ -31,7 +31,7 @@ Ostrom demonstrated in practice what philosophers argued in theory: shared reali
 
 ## Where Ostrom stops
 
-Ostrom showed that communities self-govern — but her analysis stays at the institutional level. How the shared understanding emerges, how the language of the community constitutes its reality, how the rules express a form of life — these are not her questions. Her design principles describe the conditions for successful governance, not the linguistic medium through which governance happens. Ostrom documented the garden; SPLectrum asks what the soil is made of.
+Ostrom showed that communities self-govern — but her analysis stays at the institutional level. How the shared understanding emerges, how the language of the community constitutes its reality, how the rules express a form of life — these are not her questions. Her design principles describe the conditions for successful governance, not the linguistic medium through which governance happens. How shared understanding emerges, how the language of a community constitutes its reality — these sit beneath the level her framework operates at.
 
 ---
 
@@ -44,4 +44,4 @@ Ostrom showed that communities self-govern — but her analysis stays at the ins
 
 ---
 
-See also: [The seed and Philosophy](/seed/philosophical/) · [The seed, Privacy and Decentralisation](/seed/privacy-and-decentralisation/)
+See also: [Connolly](/positioning/persons/c/connolly/) · [Habermas](/positioning/persons/h/habermas/) · [Dewey](/positioning/persons/d/dewey/)

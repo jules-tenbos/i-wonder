@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "A View from the Perimeter"
-date: 2026-07-20
-lastmod: 2026-07-20
+date: 2026-06-24
+lastmod: 2026-06-24
 labels: [discovery, science, SPLectrum]
 status: Mandatory review
 words: 653

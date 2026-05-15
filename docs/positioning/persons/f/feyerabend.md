@@ -9,7 +9,7 @@ description: "Feyerabend showed that science has no single method — theoretica
 
 # Paul Feyerabend (1924–1994)
 
-Feyerabend made the case for pluralism from inside the [philosophy of science](/positioning/subjects/p/philosophy-of-science/). No single method, no privileged vocabulary, no tradition that ranks above another. His theoretical pluralism — competing theories expose what a dominant one hides — showed that monopoly of ideas is as dangerous as monopoly of power. His incommensurability, developed alongside [Kuhn](/positioning/persons/k/kuhn/), showed that different frameworks carve reality differently without one being reducible to another. Where [Popper](/positioning/persons/p/popper/) sought a universal demarcation criterion, Feyerabend showed that the history of science consistently violates whatever criterion you set. SPLectrum sits downstream of that refusal.
+Feyerabend made the case for pluralism from inside the [philosophy of science](/positioning/subjects/p/philosophy-of-science/). No single method, no privileged vocabulary, no tradition that ranks above another. His theoretical pluralism — competing theories expose what a dominant one hides — showed that monopoly of ideas is as dangerous as monopoly of power. His incommensurability, developed alongside [Kuhn](/positioning/persons/k/kuhn/), showed that different frameworks carve reality differently without one being reducible to another. Where [Popper](/positioning/persons/p/popper/) sought a universal demarcation criterion, Feyerabend showed that the history of science consistently violates whatever criterion you set.
 
 [Paul Feyerabend](https://plato.stanford.edu/entries/feyerabend/) (1924–1994). Philosopher of science who argued that science has no single method — and that this is a strength, not a weakness. Wounded on the Eastern Front in WWII, he studied under [Popper](/positioning/persons/p/popper/) in London and then spent his career dismantling the very programme Popper had taught him. Against the rationalist tradition that sought universal rules for scientific inquiry, Feyerabend showed that the breakthroughs in the history of science consistently violated the methodological principles that were supposed to govern them.
 
@@ -31,7 +31,7 @@ Feyerabend made the case for pluralism from inside the [philosophy of science](/
 
 ## Where Feyerabend stops
 
-Feyerabend tore down the methodological monopoly but — like [Rorty](/positioning/persons/r/rorty/) on the philosophical side — deliberately refused to build something in its place. "Anything goes" is a diagnostic, not a programme. His pluralism is negative: no rule can be fixed in advance. SPLectrum's is constructive: languages interrelate, and together they form a web of growing complexity. Feyerabend showed that the gate should be open; SPLectrum asks what grows in the garden when it is.
+Feyerabend tore down the methodological monopoly but — like [Rorty](/positioning/persons/r/rorty/) on the philosophical side — deliberately refused to build something in its place. "Anything goes" is a diagnostic, not a programme. His pluralism is negative: no rule can be fixed in advance. Whether a constructive pluralism can be built from the same insight — what happens when the gate is open and the garden grows — is a question his framework deliberately leaves unanswered.
 
 ---
 
@@ -45,4 +45,4 @@ Feyerabend tore down the methodological monopoly but — like [Rorty](/positioni
 
 ---
 
-See also: [Philosophy of science](/positioning/subjects/p/philosophy-of-science/) · [The seed and Philosophy](/seed/philosophical/) · [The seed and Interrelational Pluralism](/seed/interrelational-pluralism/)
+See also: [Philosophy of science](/positioning/subjects/p/philosophy-of-science/) · [Kuhn](/positioning/persons/k/kuhn/) · [Popper](/positioning/persons/p/popper/) · [Connolly](/positioning/persons/c/connolly/)

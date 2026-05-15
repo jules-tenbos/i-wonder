@@ -9,7 +9,7 @@ description: "Descartes fired the starting shot — the thinking subject at the 
 
 # René Descartes (1596–1650)
 
-Descartes placed the thinking subject at the centre of philosophy. The mirror of nature — the idea that the mind accurately represents an external reality — starts here. So does the mind-body split that severed thinking from the body, experience from the world. But Descartes also made the move that made the turn possible: without the thinking subject at the centre, [Kant](/positioning/persons/k/kant/) could not have asked his question, and [Heidegger](/positioning/persons/h/heidegger/), [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) and [Rorty](/positioning/persons/r/rorty/) could not have dismantled the picture Descartes built. The origin of the problem is also the origin of the path out of it. SPLectrum sits downstream of that dismantling.
+Descartes placed the thinking subject at the centre of philosophy. The mirror of nature — the idea that the mind accurately represents an external reality — starts here. So does the mind-body split that severed thinking from the body, experience from the world. But Descartes also made the move that made the turn possible: without the thinking subject at the centre, [Kant](/positioning/persons/k/kant/) could not have asked his question, and [Heidegger](/positioning/persons/h/heidegger/), [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) and [Rorty](/positioning/persons/r/rorty/) could not have dismantled the picture Descartes built. The origin of the problem is also the origin of the path out of it.
 
 [René Descartes](https://plato.stanford.edu/entries/descartes/) (1596–1650). Philosopher, mathematician, scientist — often called the father of modern philosophy. Educated by Jesuits at La Flèche, he spent much of his adult life in the Netherlands, seeking the freedom to think undisturbed. His method of radical doubt — stripping away everything that could be doubted until only the thinking subject remained — produced the most famous sentence in philosophy: "I think, therefore I am" (*cogito ergo sum*). From there he rebuilt, using God as guarantor that clear and distinct ideas correspond to reality. He also founded analytic geometry, linking algebra to spatial reasoning. He died in Stockholm in 1650, having been invited by Queen Christina of Sweden — the cold, the early hours, and possibly arsenic.
 
@@ -29,7 +29,7 @@ Descartes placed the thinking subject at the centre of philosophy. The mirror of
 
 ## Where Descartes stops
 
-Descartes placed the subject at the centre but immediately put a mirror in its hand. The outside view was saved, not abandoned. God guarantees that the mirror works; clear and distinct ideas correspond to reality as it is. And the mind-body split created a gap between thinking and living that philosophy spent centuries trying to close. What Descartes opened, the turn in Western philosophy progressively dismantled — through [Kant](/positioning/persons/k/kant/), [Heidegger](/positioning/persons/h/heidegger/), [Wittgenstein](/positioning/persons/w/wittgenstein/), and [Rorty](/positioning/persons/r/rorty/). SPLectrum inherits the dismantling, not the mirror.
+Descartes placed the subject at the centre but immediately put a mirror in its hand. The outside view was saved, not abandoned. God guarantees that the mirror works; clear and distinct ideas correspond to reality as it is. And the mind-body split created a gap between thinking and living that philosophy spent centuries trying to close. What Descartes opened, the turn in Western philosophy progressively dismantled — through [Kant](/positioning/persons/k/kant/), [Heidegger](/positioning/persons/h/heidegger/), [Wittgenstein](/positioning/persons/w/wittgenstein/), and [Rorty](/positioning/persons/r/rorty/). The mirror is broken; the thinking subject remains, but differently situated.
 
 ---
 
@@ -41,4 +41,4 @@ Descartes placed the subject at the centre but immediately put a mirror in its h
 
 ---
 
-See also: [The Turn in Western Philosophy](/positioning/seed/the-turn-in-western-philosophy/) · [The seed and Philosophy](/seed/philosophical/)
+See also: [Kant](/positioning/persons/k/kant/) · [Spinoza](/positioning/persons/s/spinoza/) · [Heidegger](/positioning/persons/h/heidegger/)

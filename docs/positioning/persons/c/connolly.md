@@ -9,7 +9,7 @@ description: "Connolly separated pluralism from pluralisation — existing diver
 
 # William E. Connolly (1938–)
 
-Connolly turned pluralism from a noun into a verb. Most pluralisms describe what is already there — the existing configuration of recognised groups, values, identities. Connolly's central move is to separate pluralism from *pluralisation*: the ongoing process by which new constituencies, new forms of life, and new differences press for recognition against the existing settlement. The ethos he commends is one that holds the existing arrangement open to its own further differentiation. That structural distinction — plurality as process, not state — resonates closely with SPLectrum's interrelational account.
+Connolly turned pluralism from a noun into a verb. Most pluralisms describe what is already there — the existing configuration of recognised groups, values, identities. Connolly's central move is to separate pluralism from *pluralisation*: the ongoing process by which new constituencies, new forms of life, and new differences press for recognition against the existing settlement. The ethos he commends is one that holds the existing arrangement open to its own further differentiation. That structural distinction — plurality as process, not state — is the move that separates his work from most political pluralisms.
 
 [William E. Connolly](https://en.wikipedia.org/wiki/William_E._Connolly) (b. 1938). Krieger-Eisenhower Professor of Political Science at Johns Hopkins University. Editor of *Political Theory* (1980–86). His early *The Terms of Political Discourse* (1974, Lippincott Award 1999) developed and applied W.B. Gallie's "essentially contested concepts" to political-discourse analysis. The pluralism work begins in the 1990s with *Identity\Difference* (1991) and develops through a sustained sequence: *The Ethos of Pluralization* (1995), *Why I Am Not a Secularist* (1999), *Neuropolitics* (2002), *Pluralism* (2005), *A World of Becoming* (2011), *The Fragility of Things* (2013), *Facing the Planetary* (2017).
 
@@ -33,7 +33,7 @@ Connolly turned pluralism from a noun into a verb. Most pluralisms describe what
 
 ## Where Connolly stops
 
-Connolly names the process — pluralisation — and the dispositions that sustain it — agonistic respect, critical responsiveness. He also names the failure mode — resonance machines that collapse plurality into mutual amplification. He has failure-mode mechanism — resonance machines — and dispositional accounts of what sustains plurality. What he does not develop is a generative mechanism for pluralisation itself: the structural account of how interaction across differences produces new differences. Where that mechanism would sit, Connolly draws on process philosophy (Whitehead, Deleuze) rather than developing it independently. The SPLectrum seed derives the mechanism from the relational character of language itself: where languages overlap, the overlap is a site of differentiation, and what emerges is new language. Connolly has the process, the dispositions, and the failure modes. The seed has the mechanism.
+Connolly names the process — pluralisation — and the dispositions that sustain it — agonistic respect, critical responsiveness. He also names the failure mode — resonance machines that collapse plurality into mutual amplification. He has failure-mode mechanism — resonance machines — and dispositional accounts of what sustains plurality. What he does not develop is a generative mechanism for pluralisation itself: the structural account of how interaction across differences produces new differences. Where that mechanism would sit, Connolly draws on process philosophy (Whitehead, Deleuze) rather than developing it independently. He has the process, the dispositions, and the failure modes. What he does not have is a structural account of how the interaction across differences generates the new differences — the generative mechanism itself.
 
 ---
 
@@ -49,4 +49,4 @@ Connolly names the process — pluralisation — and the dispositions that susta
 
 ---
 
-See also: [Whitehead](/positioning/persons/w/whitehead/) · [Pluralism](/positioning/close-affinity/pluralism/) · [Interrelational Pluralism — structural trajectory](/positioning/seed/interrelational-pluralism/)
+See also: [Whitehead](/positioning/persons/w/whitehead/) · [James](/positioning/persons/j/james/) · [Lyotard](/positioning/persons/l/lyotard/)

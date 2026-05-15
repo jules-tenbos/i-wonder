@@ -9,7 +9,7 @@ description: "Sellars dismantled the myth of the given — no content arrives pr
 
 # Wilfrid Sellars (1912–1989)
 
-Sellars matters to SPLectrum because his critique of the given closes the door on any starting point outside language. If no content arrives meaningful before conceptual work has been done, then language is not a layer placed on top of raw experience — it is constitutive of experience. This echoes P1 and P2: language is relational, and it is the medium through which a subject experiences reality. [Brandom](/positioning/persons/b/brandom/) built his inferentialism directly on Sellars's foundations.
+Sellars closed the door on any starting point outside language. His critique of the given showed that no content arrives meaningful before conceptual work has been done — language is not a layer placed on top of raw experience but is constitutive of experience. If that holds, then the question of what language is and how it works becomes foundational, not supplementary. [Brandom](/positioning/persons/b/brandom/) built his inferentialism directly on Sellars's foundations.
 
 [Wilfrid Sellars](https://plato.stanford.edu/entries/sellars/) (1912–1989). Philosopher at the University of Minnesota and later the University of Pittsburgh, where he established the tradition that Brandom would continue. Son of the philosopher Roy Wood Sellars. His work bridged the analytic and pragmatist traditions, combining rigorous logical analysis with a deep concern for the normative structure of knowledge. His influence was slow to build — *Empiricism and the Philosophy of Mind* (1956) was decades ahead of its reception — but it reshaped the landscape of epistemology and philosophy of language.
 
@@ -29,7 +29,7 @@ Sellars matters to SPLectrum because his critique of the given closes the door o
 
 ## Where Sellars stops
 
-Sellars's space of reasons is built around human discursive practice — beings who give and ask for reasons. Like [Brandom](/positioning/persons/b/brandom/) after him, the framework is anthropocentric. The SPLectrum seed's broad sense of language — cellular signalling, gravitational binding, any relational activity — extends beyond what Sellars's apparatus was designed to cover. His critique of the given holds within any language (no content is pre-relational), but the normative vocabulary of justification and entitlement is specific to the discursive case.
+Sellars's space of reasons is built around human discursive practice — beings who give and ask for reasons. Like [Brandom](/positioning/persons/b/brandom/) after him, the framework is anthropocentric. Relational activity beyond the discursive — biological signalling, material interaction — sits outside what the normative vocabulary of justification and entitlement was designed to cover. His critique of the given may hold more broadly (no content is pre-relational), but the apparatus he built to cash it out is specific to beings who give and ask for reasons.
 
 ---
 
@@ -42,4 +42,4 @@ Sellars's space of reasons is built around human discursive practice — beings 
 
 ---
 
-See also: [Brandom](/positioning/persons/b/brandom/) · [The seed and Language](/seed/language/) · [The seed and Philosophy](/seed/philosophical/)
+See also: [Brandom](/positioning/persons/b/brandom/) · [Rorty](/positioning/persons/r/rorty/) · [Kant](/positioning/persons/k/kant/) · [Wittgenstein](/positioning/persons/w/wittgenstein/)

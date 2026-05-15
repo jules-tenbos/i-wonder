@@ -9,7 +9,7 @@ description: "Wittgenstein turned from logical structure to language games and f
 
 # Ludwig Wittgenstein (1889–1951)
 
-Wittgenstein's later turn — from language as logical picture of reality to [language games](/language/) and forms of life — recast the philosophy of language for the twentieth century. SPLectrum sits downstream of that move: meaning as practice rather than representation is one of the things the [seed](/seed/) inherits from him.
+Wittgenstein's later turn — from language as logical picture of reality to language games and forms of life — recast the philosophy of language for the twentieth century. Meaning as practice rather than representation, plurality of grammars rather than one logical form — the shift is one of the deepest in modern philosophy.
 
 [Ludwig Wittgenstein](https://plato.stanford.edu/entries/wittgenstein/) (1889–1951). Born into one of the wealthiest families in Vienna — his father was a steel magnate — he gave away his entire inheritance. He studied engineering in Manchester, became obsessed with the foundations of mathematics, and went to Cambridge to study with Russell. He served in the Austrian army in WWI, writing the *Tractatus* in the trenches and as a prisoner of war. Believing he had solved all the problems of philosophy, he left the field — worked as a village schoolteacher in Austria and a gardener in a monastery. He returned to Cambridge in 1929, spent the rest of his life dismantling his own early work, and the result — the *Philosophical Investigations* — was published posthumously. Tormented, charismatic, and impossible to work with: the life and the philosophy are unusually entangled.
 
@@ -65,4 +65,4 @@ Language is framed as human natural history: "Commanding, questioning, recountin
 
 ---
 
-See also: [Wittgenstein vocabulary](/vocabulary/a-z/w/wittgenstein/) · [The Turn in Western Philosophy](/positioning/seed/the-turn-in-western-philosophy/)
+See also: [Rorty](/positioning/persons/r/rorty/) · [Brandom](/positioning/persons/b/brandom/) · [Saussure](/positioning/persons/s/saussure/)

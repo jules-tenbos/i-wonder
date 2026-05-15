@@ -9,7 +9,7 @@ description: "Frege founded modern logic and the philosophy of language — sens
 
 # Gottlob Frege (1848–1925)
 
-Frege sought a logically perfect language: one that would mirror the structure of thought without ambiguity, context-dependence, or the imprecisions of natural speech. That project — language as a transparent medium for representing logical truths — is the mirror in its purest linguistic form. [Wittgenstein](/positioning/persons/w/wittgenstein/)'s *Tractatus* pushed it to its limit; his *Investigations* abandoned it. [Rorty](/positioning/persons/r/rorty/) buried it. Yet Frege's sense-reference distinction remains genuinely useful, and his insistence that meaning is not psychological but structural anticipates the relational turn he did not live to see. SPLectrum starts from the other side of that turn.
+Frege sought a logically perfect language: one that would mirror the structure of thought without ambiguity, context-dependence, or the imprecisions of natural speech. That project — language as a transparent medium for representing logical truths — is the mirror in its purest linguistic form. [Wittgenstein](/positioning/persons/w/wittgenstein/)'s *Tractatus* pushed it to its limit; his *Investigations* abandoned it. [Rorty](/positioning/persons/r/rorty/) buried it. Yet Frege's sense-reference distinction remains genuinely useful, and his insistence that meaning is not psychological but structural anticipates the relational turn he did not live to see.
 
 [Gottlob Frege](https://plato.stanford.edu/entries/frege/) (1848–1925). Mathematician, logician, philosopher — the founder of modern mathematical logic and, alongside [Russell](/positioning/persons/r/russell/), the origin of the analytical tradition. Spent his entire career at the University of Jena, never rising above associate professor, largely ignored in his lifetime. His *Begriffsschrift* (1879) invented predicate logic — the formal system that replaced Aristotelian logic after two thousand years. His *Grundlagen der Arithmetik* (1884) attempted to derive arithmetic from logic alone. When Russell's paradox destroyed the foundations of that project in 1902, Frege was devastated. His late diaries reveal antisemitic views. His influence came almost entirely posthumously, through Russell, [Wittgenstein](/positioning/persons/w/wittgenstein/), and the Vienna Circle.
 
@@ -29,7 +29,7 @@ Frege sought a logically perfect language: one that would mirror the structure o
 
 ## Where Frege stops
 
-Frege's project was to make language logically perfect — to purify it of everything that makes natural language messy, contextual, and alive. His context principle contains a relational insight — meaning in context, not in isolation — but he did not follow it where [Wittgenstein](/positioning/persons/w/wittgenstein/) later took it: into language games, forms of life, and the plurality of vocabularies. Frege sought one perfect language; SPLectrum's account of language is relational, lived, and plural. The distance is as large as it gets.
+Frege's project was to make language logically perfect — to purify it of everything that makes natural language messy, contextual, and alive. His context principle contains a relational insight — meaning in context, not in isolation — but he did not follow it where [Wittgenstein](/positioning/persons/w/wittgenstein/) later took it: into language games, forms of life, and the plurality of vocabularies. Frege sought one perfect language; the tradition that followed moved toward plurality, lived practice, and the relational. The distance between his programme and where the philosophy of language ended up is as large as it gets.
 
 ---
 
@@ -42,4 +42,4 @@ Frege's project was to make language logically perfect — to purify it of every
 
 ---
 
-See also: [The Turn in Western Philosophy](/positioning/seed/the-turn-in-western-philosophy/) · [The seed and Philosophy](/seed/philosophical/)
+See also: [Russell](/positioning/persons/r/russell/) · [Wittgenstein](/positioning/persons/w/wittgenstein/) · [Husserl](/positioning/persons/h/husserl/)

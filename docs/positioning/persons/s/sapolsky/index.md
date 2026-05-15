@@ -9,7 +9,7 @@ description: "Sapolsky traces behaviour across every layer — genes, hormones, 
 
 # Robert Sapolsky (1957–)
 
-Sapolsky's multi-layer method traces behaviour across every level — genes, hormones, brain, development, culture, evolution — and insists that no single layer explains it. None is reducible to another, none is privileged. The Forest Troop baboons — where a culture outlasted the individuals who created it — showed shared reality constituted at the grassroots, persisting through social interaction. His integrative stance refuses to step outside to a single vantage point: understanding behaviour means inhabiting all the layers simultaneously. Sapolsky works from science where SPLectrum works from philosophy, but the structural parallels are visible.
+Sapolsky's multi-layer method traces behaviour across every level — genes, hormones, brain, development, culture, evolution — and insists that no single layer explains it. None is reducible to another, none is privileged. The Forest Troop baboons — where a culture outlasted the individuals who created it — showed shared reality constituted at the grassroots, persisting through social interaction. His integrative stance refuses to step outside to a single vantage point: understanding behaviour means inhabiting all the layers simultaneously.
 
 [Robert Sapolsky](https://en.wikipedia.org/wiki/Robert_Sapolsky) (1957–). Neuroendocrinologist, primatologist, and science writer. John A. and Cynthia Fry Gunn Professor at Stanford, with joint appointments in Biological Sciences, Neurology & Neurological Sciences, and Neurosurgery. MacArthur Fellowship, 1987.
 
@@ -31,7 +31,7 @@ Sapolsky's work traces human behaviour across every layer that shapes it — gen
 
 ## Where Sapolsky stops
 
-Sapolsky's layers are biological, developmental, evolutionary, cultural — but not linguistic. How each layer constitutes its own language, how those languages interrelate, how the medium of each layer shapes what can be expressed within it — these are not his questions. His multi-layer explanation is descriptive: here is what each layer contributes. SPLectrum asks the structural question: how do the layers relate *as languages*? And his challenge to free will — every decision is the output of prior causes — stays within the causal frame. The SPLectrum seed suggests a different framing: the organism is not just caused but constituted through its relational medium. The question is not whether we are free but what kind of language game "freedom" belongs to.
+Sapolsky's layers are biological, developmental, evolutionary, cultural — but not linguistic. How each layer constitutes its own form of expression, how those forms relate to each other, how the medium of each layer shapes what can be expressed within it — these are not his questions. His multi-layer explanation is descriptive: here is what each layer contributes. How the layers relate structurally — whether they are separate causal channels or expressions within a shared medium — is not a question the framework asks. And his challenge to free will stays within the causal frame: every decision is the output of prior causes. Whether the organism is not just caused but constituted through its relational medium — whether "freedom" names a different kind of question than causation can answer — sits outside his programme.
 
 ---
 
@@ -45,4 +45,4 @@ Sapolsky's layers are biological, developmental, evolutionary, cultural — but 
 
 ---
 
-See also: [The seed and Philosophy](/seed/philosophical/) · [The seed and Human Reality](/seed/human-reality/)
+See also: [Maturana](/positioning/persons/m/maturana/) · [Bateson](/positioning/persons/b/bateson/) · [Jonas](/positioning/persons/j/jonas/)

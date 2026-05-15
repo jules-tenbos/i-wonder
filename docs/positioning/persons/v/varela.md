@@ -29,7 +29,7 @@ Varela took the insight he built with Maturana — that cognition is not represe
 
 ## Where Varela stops
 
-Varela's enactivism places the organism and its world in mutual constitution — they arise together through embodied action. The limit is that this co-arising stays between one organism and its environment. The social dimension — how multiple autonomous subjects bring forth a *shared* world — is acknowledged but not developed with the same precision. *The Embodied Mind* gestures toward ethical and social implications; Thompson's later *Mind in Life* (2007) extends the framework toward intersubjectivity. But the move from individual enaction to shared reality through language — the territory the SPLectrum seed occupies with its account of convergence, shared language, and interrelational creation — is not one Varela's framework takes.
+Varela's enactivism places the organism and its world in mutual constitution — they arise together through embodied action. The limit is that this co-arising stays between one organism and its environment. The social dimension — how multiple autonomous subjects bring forth a *shared* world — is acknowledged but not developed with the same precision. *The Embodied Mind* gestures toward ethical and social implications; Thompson's later *Mind in Life* (2007) extends the framework toward intersubjectivity. But how multiple autonomous subjects enact a shared world — how individual sense-making becomes collective reality through language — is not a move his framework takes.
 
 ---
 
@@ -44,4 +44,4 @@ Varela's enactivism places the organism and its world in mutual constitution —
 
 ---
 
-See also: [Autopoiesis](/positioning/subjects/a/autopoiesis/) · [Maturana](/positioning/persons/m/maturana/) · [Bateson](/positioning/persons/b/bateson/) · [Interrelational Pluralism — structural trajectory](/positioning/seed/interrelational-pluralism/)
+See also: [Autopoiesis](/positioning/subjects/a/autopoiesis/) · [Maturana](/positioning/persons/m/maturana/) · [Bateson](/positioning/persons/b/bateson/) · [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) · [Husserl](/positioning/persons/h/husserl/)

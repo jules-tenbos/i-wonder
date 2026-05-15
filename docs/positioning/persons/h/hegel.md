@@ -9,7 +9,7 @@ description: "Hegel put the limits of knowledge in motion — determination thro
 
 # Georg Wilhelm Friedrich Hegel (1770–1831)
 
-Hegel put process at the centre. Where [Kant](/positioning/persons/k/kant/) drew the limits of knowledge as fixed, Hegel made them move — every determination reveals what it excludes, and that exclusion drives development. Sublation — cancelling, preserving, and elevating at once — is the mechanism by which nothing is simply left behind. He historicised the categories that Kant had treated as universal, opening the door to the plurality of languages and forms of life that [Wittgenstein](/positioning/persons/w/wittgenstein/) later took as fundamental. He stands at the origin of [German idealism](/positioning/subjects/g/german-idealism/) and of [process philosophy](/positioning/subjects/p/process-philosophy/); SPLectrum reads its account of [historicity](/seed/historicity/) in his light.
+Hegel put process at the centre. Where [Kant](/positioning/persons/k/kant/) drew the limits of knowledge as fixed, Hegel made them move — every determination reveals what it excludes, and that exclusion drives development. Sublation — cancelling, preserving, and elevating at once — is the mechanism by which nothing is simply left behind. He historicised the categories that Kant had treated as universal, opening the door to the plurality of languages and forms of life that [Wittgenstein](/positioning/persons/w/wittgenstein/) later took as fundamental. He stands at the origin of [German idealism](/positioning/subjects/g/german-idealism/) and of [process philosophy](/positioning/subjects/p/process-philosophy/).
 
 [Georg Wilhelm Friedrich Hegel](https://plato.stanford.edu/entries/hegel/) (1770–1831). The philosopher of process, negation, and historical development. Held the chair of philosophy at Berlin — the most prestigious in the German-speaking world — and dominated his era so thoroughly that the entire generation after him (Marx, Kierkegaard, the left and right Hegelians) defined themselves in relation to him. Where [Kant](/positioning/persons/k/kant/) drew the limits of what can be known, Hegel put those limits in motion — every determination reveals what it excludes, and that exclusion drives the next determination. Thought does not arrive at truth; it develops through contradiction toward it.
 
@@ -31,7 +31,7 @@ Hegel put process at the centre. Where [Kant](/positioning/persons/k/kant/) drew
 
 ## Where Hegel stops
 
-Hegel's system is totalising — spirit arrives at absolute knowing, the dialectic completes itself, history has a direction. The SPLectrum seed resists this closure. Complexity grows, but it does not arrive. There is no absolute knowing, no final vocabulary, no end of history. Where Hegel's dialectic ranks languages as stages in a single development, SPLectrum holds them as having equal standing. And Hegel's subject is spirit — universal, self-developing, working through individuals. SPLectrum's subject is particular, embodied, relational — closer to [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) than to Hegel. What carries over is the process, the historicity, the insistence that nothing is simply left behind. What does not is the system, the telos, and the absolute.
+Hegel's system is totalising — spirit arrives at absolute knowing, the dialectic completes itself, history has a direction. Whether complexity can grow without arriving — whether the process and the historicity can be kept while the closure is dropped — is the question his successors have wrestled with ever since. His dialectic ranks forms of life as stages in a single development; whether they might instead have equal standing, each with its own grammar, is not a question the system can ask. And his subject is spirit — universal, self-developing, working through individuals. Whether the subject might be particular, embodied, relational — closer to [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) than to Hegel — is what the phenomenological tradition explored after him. What carries over is the process, the historicity, the insistence that nothing is simply left behind. What does not is the system, the telos, and the absolute.
 
 ---
 
@@ -45,4 +45,4 @@ Hegel's system is totalising — spirit arrives at absolute knowing, the dialect
 
 ---
 
-See also: [German idealism](/positioning/subjects/g/german-idealism/) · [Process philosophy](/positioning/subjects/p/process-philosophy/) · [The seed and Philosophy](/seed/philosophical/) · [The seed and Historicity](/seed/historicity/)
+See also: [German idealism](/positioning/subjects/g/german-idealism/) · [Process philosophy](/positioning/subjects/p/process-philosophy/) · [Fichte](/positioning/persons/f/fichte/) · [Kant](/positioning/persons/k/kant/)

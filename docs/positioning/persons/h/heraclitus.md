@@ -9,7 +9,7 @@ description: "Heraclitus saw flux and constancy as inseparable — the river sta
 
 # Heraclitus (c. 535–c. 475 BCE)
 
-Heraclitus matters to SPLectrum because he put constancy-through-flux at the centre of thinking two and a half thousand years ago. His river stays the same *because* the water flows — not despite it. That structural insight echoes [historicity](/seed/historicity/): what persists is not what stays put but what retains its form through change. His *logos* — the account that holds the flux together — sits close to where SPLectrum puts language.
+Heraclitus put constancy-through-flux at the centre of thinking two and a half thousand years ago. His river stays the same *because* the water flows — not despite it. What persists is not what stays put but what retains its form through change. His *logos* — the account that holds the flux together — is the earliest articulation of a pattern that recurs across the history of philosophy.
 
 [Heraclitus](https://plato.stanford.edu/entries/heraclitus/) (c. 535–c. 475 BCE). Pre-Socratic philosopher from Ephesus. Known as "the Obscure" even in antiquity — his prose was deliberately dense, aphoristic, and layered with wordplay. Nothing survives as a complete work; what we have are roughly 130 fragments, quoted and paraphrased by later writers. Despite the fragmentary record, his influence runs through the entire history of Western philosophy. [Hegel](/positioning/persons/h/hegel/) claimed him as a predecessor. [Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche) called him the philosopher he felt closest to. [Heidegger](/positioning/persons/h/heidegger/) returned to him repeatedly. The Stoics adopted his *logos* as a cosmological principle.
 
@@ -43,8 +43,8 @@ Heraclitus is best encountered through his own words ([fragments](https://en.wik
 
 ## Where Heraclitus stops
 
-Heraclitus saw the pattern but had no account of how it is held. The *logos* holds — but by what? In the SPLectrum seed, a subject is a being with the capacity to retain — to carry the trace of interaction forward. That capacity is what makes it a subject rather than mere being. Heraclitus's river illustrates the persistence but does not name what holds it. That step waits for [historicity](/seed/historicity/).
+Heraclitus saw the pattern but had no account of how it is held. The *logos* holds — but by what? What capacity a being needs in order to retain — to carry the trace of interaction forward, to persist as a subject rather than mere being — is not a question the fragments address. Heraclitus's river illustrates the persistence but does not name what holds it. That step waits for later thinkers.
 
 ---
 
-See also: [The seed and Historicity](/seed/historicity/) · [The seed and Philosophy](/seed/philosophical/)
+See also: [Hegel](/positioning/persons/h/hegel/) · [Bergson](/positioning/persons/b/bergson/) · [Whitehead](/positioning/persons/w/whitehead/)

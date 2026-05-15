@@ -2,7 +2,7 @@
 
 How we sound and how we think. Derived from cold observation of the writing itself, not from how we think we should write. Reviewed April 2026 across all published posts.
 
-The voice is one person across all personas. What changes is how much that person steps forward and what register the material demands. The shared qualities hold everywhere. The persona profiles describe how each mode sounds and thinks differently.
+The voice is one person across all registers. What changes is how much that person steps forward and what the material demands. The shared qualities hold everywhere. The register profiles below describe how the voice sounds and thinks differently depending on the work. The site uses "persona" as a label convention on blog posts (SPLectrum, comment, thought, named source); the analytical distinction here is register, not identity.
 
 ---
 
@@ -11,7 +11,7 @@ The voice is one person across all personas. What changes is how much that perso
 The site has three axes, each with its own voice:
 
 - **Topnav (About / HAICC / P2P) — the personal axis.** Author voice, Jules speaking directly as himself. The person behind the project.
-- **Homepage boxes (seed + five areas) — the informational axis.** Narrator, reference voice. The material speaks, not a person. Impersonal, structural.
+- **Homepage boxes (nine areas in a 3×3 grid) — the informational axis.** Narrator, reference voice. The material speaks, not a person. Impersonal, structural.
 - **Posts (blog) — the conversational axis.** Thinking in motion. Voice follows persona label — author for thought/comment, personal SPLectrum for seed/engineering, narrator for other persona posts.
 
 Three legitimate paths in, each with its own register and purpose. Someone arriving via topnav meets the person; someone entering via a homepage box meets the structured material; someone reading a post joins the ongoing conversation. The three axes reinforce each other through deliberate cross-links but don't collapse into one voice.
@@ -73,7 +73,7 @@ Conversational but unhurried. Thinking aloud in good company — not lecturing, 
 
 ---
 
-## Persona: SPLectrum
+## Register: SPLectrum
 
 The framework voice — speaks *from within* the project.
 
@@ -89,7 +89,7 @@ The framework voice — speaks *from within* the project.
 
 ---
 
-## Persona: comment
+## Register: comment
 
 The behind-the-scenes voice — talks about the *process*.
 
@@ -105,7 +105,7 @@ The behind-the-scenes voice — talks about the *process*.
 
 ---
 
-## Persona: thought
+## Register: thought
 
 Personal, loosely offered, exploratory.
 
@@ -120,7 +120,7 @@ Personal, loosely offered, exploratory.
 
 ---
 
-## Persona: named source
+## Register: named source
 
 Biographical narrative — the material leads, the person recedes.
 
@@ -152,13 +152,26 @@ Panoramic narrator walking through intellectual history.
 
 ---
 
-## Cross-persona observations
+## Cross-register observations
 
-**The "I" varies in prominence, never in kind.** The same person across all personas — curious, anti-hierarchical, concrete-minded, drawn to structural parallels. What changes is how much this person steps forward.
+**The "I" varies in prominence, never in kind.** The same person across all registers — curious, anti-hierarchical, concrete-minded, drawn to structural parallels. What changes is how much this person steps forward.
 
-**The engineering voice is a distinct register within SPLectrum.** Same habits of thinking, but with technical vocabulary and structural precision. Bridges philosophical axiom and software architecture in the same sentence.
+**The engineering voice is a distinct register within SPLectrum.** Same habits of thinking, but with technical vocabulary and structural precision. Bridges philosophical axiom and software architecture in the same sentence. The vocabulary shift (Being → Entity, Language → Protocol, Subject → Owner, Reality → Data state) is documented in the section-specific guidance above.
 
 **What the voice never loses:** the sense that the reader is being spoken to, not spoken at. The voice never ascends to a place where it cannot be interrupted.
+
+---
+
+## Section-specific guidance
+
+Section-specific guidance lives in dedicated docs. The voice rules in this document apply everywhere; the section docs add section-specific constraints.
+
+**By row:**
+- **Applied row** (In Wonder, Real Life, Engineering) — `real-life-section.md` covers Real Life's structural-analysis register. In Wonder follows the blog register. Engineering uses the SPLectrum register with a vocabulary shift (Being → Entity, Language → Protocol, Subject → Owner, Reality → Data state; see the register profile above).
+- **Foundational row** (Positioning, Seed, Reality) — `positioning-section.md` covers the positioning register (persons/subjects A-Z voice, fence engagement, learning tone). Seed and Reality follow the SPLectrum register.
+- **Structural row** (Language, Vocabulary, Tools) — `bottom-row-section.md` covers all three: shared a-z/concepts/types shape, A-Z criteria per section, cross-bleeding by aspect.
+
+**Per box** where the row-level guidance isn't enough, the section docs carry box-specific detail (e.g. positioning's close-affinity vs on-the-fence distinction, the Language/Vocabulary grammar criterion).
 
 ---
 

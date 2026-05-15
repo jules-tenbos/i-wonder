@@ -9,7 +9,7 @@ description: "Heidegger displaced the subject-object split — we are always alr
 
 # Martin Heidegger (1889–1976)
 
-Heidegger broke the spectator model of knowledge. Being-in-the-world — always already involved, always already understanding — replaced the subject contemplating objects with a being inseparable from its world. In the later work, language becomes the medium through which Being discloses itself: not a tool humans use but something they dwell in. SPLectrum sits downstream of his refusal of the observer position and his treatment of language as medium.
+Heidegger broke the spectator model of knowledge. Being-in-the-world — always already involved, always already understanding — replaced the subject contemplating objects with a being inseparable from its world. In the later work, language becomes the medium through which Being discloses itself: not a tool humans use but something they dwell in.
 
 [Martin Heidegger](https://plato.stanford.edu/entries/heidegger/) (1889–1976). Asked the question of Being — not what exists, but what it means *to be*. His answer displaced the subject-object split that had structured Western philosophy since Descartes. We do not first exist and then encounter a world; we are always already in a world, disclosed through our involvement with it. Heidegger served as rector of Freiburg University in 1933–34 under the Nazi regime, joined the NSDAP, and never publicly recanted. The *Black Notebooks* (published 2014 onward) revealed antisemitic passages. The relationship between his philosophy and his politics remains one of the most debated questions in twentieth-century intellectual history.
 
@@ -37,13 +37,13 @@ Heidegger broke the spectator model of knowledge. Being-in-the-world — always 
 
 ## The political stain
 
-Heidegger's involvement with Nazism cannot be separated from his philosophy, however much one might wish to. He joined the NSDAP in 1933, served as rector of Freiburg under the regime, and never publicly recanted. The *Black Notebooks* revealed antisemitic passages woven into his philosophical reflections. Whether the philosophy is contaminated by the politics or survives despite it remains an open question. SPLectrum draws on specific concepts — being-in-the-world, disclosure, language as medium — without endorsing the thinker whole. The debt is acknowledged; the stain is not excused.
+Heidegger's involvement with Nazism cannot be separated from his philosophy, however much one might wish to. He joined the NSDAP in 1933, served as rector of Freiburg under the regime, and never publicly recanted. The *Black Notebooks* revealed antisemitic passages woven into his philosophical reflections. Whether the philosophy is contaminated by the politics or survives despite it remains an open question. The specific concepts — being-in-the-world, disclosure, language as medium — have been taken up widely and independently of the thinker. The debt is acknowledged; the stain is not excused.
 
 ---
 
 ## Where Heidegger stops
 
-Heidegger's later work grows increasingly solitary — Being withdraws, poetry replaces argument, and the thinker waits. The participatory structure of being-in-the-world gives way to a quietism where only a few poets and thinkers can hear Being speak. [Rorty](/positioning/persons/r/rorty/) and [Wittgenstein](/positioning/persons/w/wittgenstein/) pick up the early insight — always already involved, always already in language — and carry it toward the relational and the plural. SPLectrum sits downstream of that move.
+Heidegger's later work grows increasingly solitary — Being withdraws, poetry replaces argument, and the thinker waits. The participatory structure of being-in-the-world gives way to a quietism where only a few poets and thinkers can hear Being speak. [Rorty](/positioning/persons/r/rorty/) and [Wittgenstein](/positioning/persons/w/wittgenstein/) pick up the early insight — always already involved, always already in language — and carry it toward the relational and the plural. Whether the participatory structure can be recovered without the quietism is a question his later work does not ask.
 
 ---
 
@@ -57,4 +57,4 @@ Heidegger's later work grows increasingly solitary — Being withdraws, poetry r
 
 ---
 
-See also: [The seed and Philosophy](/seed/philosophical/) · [Being as Tension](/positioning/seed/being-as-tension/) · [The Turn in Western Philosophy](/positioning/seed/the-turn-in-western-philosophy/)
+See also: [Phenomenology](/positioning/subjects/p/phenomenology/) · [Husserl](/positioning/persons/h/husserl/) · [Rorty](/positioning/persons/r/rorty/) · [Wittgenstein](/positioning/persons/w/wittgenstein/)

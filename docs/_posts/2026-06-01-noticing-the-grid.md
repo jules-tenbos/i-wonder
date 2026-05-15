@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Noticing the Grid"
-date: 2026-05-22
+date: 2026-06-01
 lastmod: 2026-05-13
 labels: [SPLectrum, comment]
 description: "The homepage had been showing its hand for months. I just hadn't noticed the columns."

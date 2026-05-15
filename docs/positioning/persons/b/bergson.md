@@ -9,7 +9,7 @@ description: "Bergson put duration at the centre — lived time as continuous fl
 
 # Henri Bergson (1859–1941)
 
-Bergson insisted that reality is continuous, creative, and irreducible to static categories. Duration — lived time where past and present interpenetrate — replaces the time of clocks; creative evolution replaces mechanical unfolding with the production of genuine novelty; intuition is the method that grasps movement from within rather than freezing it from outside. He stands alongside [Whitehead](/positioning/persons/w/whitehead/) and [Hegel](/positioning/persons/h/hegel/) in the [process philosophy](/positioning/subjects/p/process-philosophy/) tradition that SPLectrum reads in its own light.
+Bergson insisted that reality is continuous, creative, and irreducible to static categories. Duration — lived time where past and present interpenetrate — replaces the time of clocks; creative evolution replaces mechanical unfolding with the production of genuine novelty; intuition is the method that grasps movement from within rather than freezing it from outside. He stands alongside [Whitehead](/positioning/persons/w/whitehead/) and [Hegel](/positioning/persons/h/hegel/) in the [process philosophy](/positioning/subjects/p/process-philosophy/) tradition.
 
 [Henri Bergson](https://plato.stanford.edu/entries/bergson/) (1859–1941). Philosopher of duration, intuition, and creative evolution. Nobel Prize in Literature, 1927. Bergson argued that reality is continuous flow — not a sequence of static states but an indivisible movement in which past and present interpenetrate. The intellect spatialises and freezes this flow; only intuition can grasp it as it is.
 
@@ -31,7 +31,7 @@ Bergson insisted that reality is continuous, creative, and irreducible to static
 
 ## Where Bergson stops
 
-Bergson mistrusted language. The intellect spatialises; language is the intellect's tool; therefore language distorts duration. "The word turns against the sensation which gave rise to it." This is where his path and SPLectrum's part company: the SPLectrum seed makes language the medium of reality, not its enemy. Bergson's intuition — the method that grasps duration from within — is powerful but private: there is no account of how intuitions are shared, how a community constitutes knowledge through language, or how different languages interrelate. [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) would later show that the body bridges the gap Bergson left between intuition and expression. Bergson's duration and creative evolution carry over into the SPLectrum seed; his distrust of language does not.
+Bergson mistrusted language. The intellect spatialises; language is the intellect's tool; therefore language distorts duration. "The word turns against the sensation which gave rise to it." Whether language distorts duration or is itself a form of duration — a living medium rather than a static tool — is not a question Bergson asks. His intuition is powerful but private: there is no account of how intuitions are shared, how a community constitutes knowledge through language, or how different forms of expression relate to each other. [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) would later show that the body bridges the gap Bergson left between intuition and expression. Duration and creative evolution remain structurally powerful; the distrust of language limits what can be built on them.
 
 ---
 
@@ -45,4 +45,4 @@ Bergson mistrusted language. The intellect spatialises; language is the intellec
 
 ---
 
-See also: [Process philosophy](/positioning/subjects/p/process-philosophy/) · [The seed and Philosophy](/seed/philosophical/) · [The seed and Historicity](/seed/historicity/)
+See also: [Process philosophy](/positioning/subjects/p/process-philosophy/) · [Whitehead](/positioning/persons/w/whitehead/) · [Merleau-Ponty](/positioning/persons/m/merleau-ponty/)

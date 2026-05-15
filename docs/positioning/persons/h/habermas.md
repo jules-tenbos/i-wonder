@@ -9,7 +9,7 @@ description: "Habermas relocated rationality from the individual to the space be
 
 # Jürgen Habermas (1929–2025)
 
-Habermas placed rationality in the space between subjects — not in the individual mind, not in an outside reality, but in communication itself. His discourse ethics made norms valid only if accepted by all affected in rational discourse. His diagnosis of system colonising lifeworld named what happens when centralised structures capture the relational. And his disagreement with [Rorty](/positioning/persons/r/rorty/) — Habermas thought you need universal standards to ground communication; Rorty thought the conversation is all you get — marks one of the defining tensions in twentieth-century philosophy. SPLectrum sits downstream of both, refusing universal standards while insisting that language has structure.
+Habermas placed rationality in the space between subjects — not in the individual mind, not in an outside reality, but in communication itself. His discourse ethics made norms valid only if accepted by all affected in rational discourse. His diagnosis of system colonising lifeworld named what happens when centralised structures capture the relational. And his disagreement with [Rorty](/positioning/persons/r/rorty/) — Habermas thought you need universal standards to ground communication; Rorty thought the conversation is all you get — marks one of the defining tensions in twentieth-century philosophy.
 
 [Jürgen Habermas](https://plato.stanford.edu/entries/habermas/) (1929–2025). Philosopher, social theorist, and one of the most prominent public intellectuals in post-war Europe. Assistant to Adorno at the Frankfurt Institute for Social Research, he became the central figure of the second generation of critical theory. Where his predecessors — Horkheimer and Adorno — saw reason as irredeemably instrumental, Habermas argued that a different kind of reason was available: communicative, intersubjective, grounded in the structures of language use. He relocated rationality from the individual subject to the space between subjects.
 
@@ -31,7 +31,7 @@ Habermas placed rationality in the space between subjects — not in the individ
 
 ## Where Habermas stops
 
-Habermas grounded communication in universal validity claims — truth, rightness, sincerity — that every speaker implicitly raises. This gives communication structure, but it also smuggles in the outside view: there is a standard (the ideal speech situation) against which all actual conversation falls short. The SPLectrum seed refuses this move. There is no ideal speech situation — there are languages, each with its own grammar and standing, and convergence happens at the grassroots, not against a transcendental standard. Habermas also kept the subject rational and linguistic in the narrow sense — the body, the pre-linguistic, the lived experience that [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) and [Heidegger](/positioning/persons/h/heidegger/) made central, play no structural role in his account.
+Habermas grounded communication in universal validity claims — truth, rightness, sincerity — that every speaker implicitly raises. This gives communication structure, but it also smuggles in the outside view: there is a standard (the ideal speech situation) against which all actual conversation falls short. Whether communication needs a transcendental standard or whether convergence can happen without one — from the grassroots, through the interaction itself — is a question his framework answers in advance rather than leaving open. He also kept the subject rational and linguistic in the narrow sense — the body, the pre-linguistic, the lived experience that [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) and [Heidegger](/positioning/persons/h/heidegger/) made central, play no structural role in his account.
 
 ---
 
@@ -45,4 +45,4 @@ Habermas grounded communication in universal validity claims — truth, rightnes
 
 ---
 
-See also: [The seed and Philosophy](/seed/philosophical/) · [The seed, Privacy and Decentralisation](/seed/privacy-and-decentralisation/)
+See also: [Rorty](/positioning/persons/r/rorty/) · [Luhmann](/positioning/persons/l/luhmann/) · [Dewey](/positioning/persons/d/dewey/) · [Ostrom](/positioning/persons/o/ostrom/)

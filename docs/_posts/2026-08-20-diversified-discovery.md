@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Diversified Discovery"
-date: 2026-06-12
-lastmod: 2026-06-12
+date: 2026-08-20
+lastmod: 2026-08-20
 labels: [discovery, philosophy, SPLectrum]
 status: Mandatory review
 words: 441

@@ -9,7 +9,7 @@ description: "Leibniz articulated the relational view of space two centuries bef
 
 # Gottfried Wilhelm Leibniz (1646–1716)
 
-Leibniz gave the earliest clear articulation of the relational view — space is not a container but the ordering of things that coexist. No things, no space. He said this against Newton's absolute space and lost the argument for two centuries, until Einstein's general relativity made space-time local and relational. The relational intuition was there; the mathematics wasn't. But Leibniz was a rationalist in the [Descartes](/positioning/persons/d/descartes/) line — pre-established harmony, God as guarantor, monads that mirror the universe but never interact. The system is closed where SPLectrum is open, determined where SPLectrum is plural.
+Leibniz gave the earliest clear articulation of the relational view — space is not a container but the ordering of things that coexist. No things, no space. He said this against Newton's absolute space and lost the argument for two centuries, until Einstein's general relativity made space-time local and relational. The relational intuition was there; the mathematics wasn't. But Leibniz was a rationalist in the [Descartes](/positioning/persons/d/descartes/) line — pre-established harmony, God as guarantor, monads that mirror the universe but never interact. The relational intuition was right; the system around it was closed and determined where openness and plurality were needed.
 
 [Gottfried Wilhelm Leibniz](https://plato.stanford.edu/entries/leibniz/) (1646–1716). Philosopher, mathematician, diplomat, librarian, polymath — one of the last people who could plausibly claim to know everything knowable. Born in Leipzig, he spent most of his career in Hanover as adviser to the House of Brunswick, pursuing philosophy and mathematics alongside political and diplomatic work. He co-invented calculus (independently of Newton, leading to one of the bitterest priority disputes in the history of science — Leibniz's notation won). He designed calculating machines, proposed a universal logical language, corresponded with over a thousand people across Europe, and left behind a vast unpublished archive that scholars are still working through. His philosophy is a system of extraordinary ambition: monads, pre-established harmony, the best of all possible worlds (satirised by Voltaire in *Candide*). He died in Hanover largely forgotten; only his secretary attended the funeral.
 
@@ -19,7 +19,7 @@ Leibniz gave the earliest clear articulation of the relational view — space is
 
 **The relational view of space.** Space is not an absolute container — it is the ordering of things that coexist. No things, no space. Time, likewise, is the ordering of things that succeed one another. This was Leibniz's position in the famous correspondence with Clarke (Newton's proxy). Newton won the physics; Leibniz won the philosophy — and eventually the physics too, through Einstein.
 
-**Monads.** The basic units of reality — simple substances without parts, without extension, without windows. Each monad mirrors the entire universe from its own perspective. There is no interaction between monads — their apparent coordination is pre-established by God. A closed, determined, hierarchical system. The monad's self-contained perspective has a distant echo in how SPLectrum treats the subject's experience — but the absence of interaction is precisely what the SPLectrum seed denies.
+**Monads.** The basic units of reality — simple substances without parts, without extension, without windows. Each monad mirrors the entire universe from its own perspective. There is no interaction between monads — their apparent coordination is pre-established by God. A closed, determined, hierarchical system. The monad's self-contained perspective captures something real about subjectivity — each perspective is irreducibly its own — but the absence of interaction removes the relational at the very moment the framework seems to establish it.
 
 **Pre-established harmony.** Monads don't interact — they only appear to. God arranged their internal programmes at creation so that they unfold in perfect coordination. This solves the mind-body problem by eliminating interaction altogether. Elegant, but it removes the relational at the very moment it seems to establish it.
 
@@ -31,7 +31,7 @@ Leibniz gave the earliest clear articulation of the relational view — space is
 
 ## Where Leibniz stops
 
-Leibniz articulated the relational view of space but embedded it in a system that is the opposite of relational. Monads have no windows — they don't interact, don't share, don't constitute reality together. The harmony is pre-established, not emergent — God guarantees the coordination that SPLectrum sees arising from the grassroots. And the universal characteristic — one language to settle all disputes — is exactly the dream that SPLectrum's pluralism rejects. The relational insight survived; the rationalist system around it did not.
+Leibniz articulated the relational view of space but embedded it in a system that is the opposite of relational. Monads have no windows — they don't interact, don't share, don't constitute reality together. The harmony is pre-established, not emergent — coordination guaranteed from above rather than arising from interaction. And the universal characteristic — one language to settle all disputes — is the opposite of a pluralism where multiple languages coexist with equal standing. The relational insight survived; the rationalist system around it did not.
 
 ---
 
@@ -44,4 +44,4 @@ Leibniz articulated the relational view of space but embedded it in a system tha
 
 ---
 
-See also: [The Turn in Science](/positioning/seed/the-turn-in-science/) · [The seed and Philosophy](/seed/philosophical/)
+See also: [Descartes](/positioning/persons/d/descartes/) · [Spinoza](/positioning/persons/s/spinoza/) · [Rovelli](/positioning/persons/r/rovelli/)

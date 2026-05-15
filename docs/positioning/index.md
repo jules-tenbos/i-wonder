@@ -9,24 +9,20 @@ description: "Thinkers, traditions and subjects with influence on SPLectrum — 
 
 # Positioning - The Landscape
 
-This section deals with the outside voice, the context that SPLectrum is embedded within. SPLectrum stays at a distance, and only takes part when a mix of resonance and dissonance is discussed in the pieces.
+Positioning contains reference material on people and subjects across all disciplines of importance to this site. Persons and subjects each have their own A–Z.
 
-Material in this section comes as positioning pieces. These can be about individual thinkers, frameworks, traditions, situational pieces, or specific research angles.
+**[Persons A–Z](persons/)** &nbsp;&nbsp;&nbsp;&nbsp; **[Subjects A–Z](subjects/)**
+
+The reference material is then compiled from specific angles and linked to SPLectrum. Three resonance rings group the material by proximity to the SPLectrum seed, plus the fence where dissonance is engaged.
 
 **[Seed](seed/)**<br>
-Trajectory pieces tracing the historical and intellectual paths leading to the seed.
+Pieces tracing the thinkers and subjects in closest affinity with the SPLectrum seed principles. Innermost resonance ring.
 
 **[Close affinity](close-affinity/)**<br>
-Positioning pieces with close affinity and high influence.
+Pieces at one remove from the seed — close, but not directly tracing the principles.
 
 **[Wider landscape](wider-landscape/)**<br>
-Positioning pieces that are at some distance from the centre, but still carry considerable influence.
+Pieces at greater distance from the centre, still on the side of compatibility.
 
 **[On the fence](on-the-fence/)**<br>
-Positioning pieces that are a mixture of resonance and dissonance, and of interest because of it.
-
-**[Persons A–Z](persons/)**<br>
-Individual thinkers across all positioning sections.
-
-**[Subjects A–Z](subjects/)**<br>
-Movements, theories, and themes across all positioning sections.
+The only surface where dissonance is engaged — resonance and dissonance both worked through.

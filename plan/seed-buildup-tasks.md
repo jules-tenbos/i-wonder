@@ -11,7 +11,7 @@ Position: interrelational pluralism. Named and landed (May 20 post).
 - [x] **Convergence audit** — 11 cross-tradition/thinker-to-seed uses replaced with affinity/echoes across 9 files; seed-internal P3 vocabulary and thinker-owned concepts left intact (2026-05-12)
 - [ ] **May 24 post** — at mandatory review
 - [ ] **IP-load-bearing positioning entries** — Berlin, Arendt as priorities (Connolly done). These thinkers do heavy work on the interrelational pluralism positioning page and need their own person pages.
-- [ ] **Human reality page** — P3 section could be strengthened; may need rework to match historicity/pluralism standard
+- [x] **Human reality page** — P3 reworked: dyadic framing replaced with multiplicity of context, "iterating at scale" for P0 move (2026-05-13)
 - [ ] **Historical posts editorial notes** — posts republished after interrelational pluralism was named need editorial notes to place them in context
 - [ ] **Positioning research for interrelational pluralism** — the neighbourhood mapping (thinker-by-thinker positioning posts and person pages) was tentatively scheduled Sep–Dec but can start earlier now that the position has landed
 

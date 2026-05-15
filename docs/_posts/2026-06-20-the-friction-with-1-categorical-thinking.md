@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Friction with 1-Categorical Thinking"
-date: 2026-06-28
+date: 2026-06-20
 lastmod: 2026-05-12
 labels: [category-theory, methodology, mathematics, SPLectrum]
 status: mandatory review

@@ -9,7 +9,7 @@ description: "Husserl founded phenomenology — the systematic study of experien
 
 # Edmund Husserl (1859–1938)
 
-Husserl founded [phenomenology](/positioning/subjects/p/phenomenology/) — the discipline that takes experience seriously as a starting point rather than something to be explained away. His account of time-consciousness, where every present moment carries traces of the past and anticipation of the future, gave philosophy a structural account of retention. The lifeworld — the pre-theoretical ground beneath all science — insisted that reality is lived before it is theorised. And his work on intersubjectivity opened the door that [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) and others walked through toward the relational space between subjects. SPLectrum's treatment of [historicity](/seed/historicity/) sits downstream of his time-consciousness.
+Husserl founded [phenomenology](/positioning/subjects/p/phenomenology/) — the discipline that takes experience seriously as a starting point rather than something to be explained away. His account of time-consciousness, where every present moment carries traces of the past and anticipation of the future, gave philosophy a structural account of retention. The lifeworld — the pre-theoretical ground beneath all science — insisted that reality is lived before it is theorised. And his work on intersubjectivity opened the door that [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) and others walked through toward the relational space between subjects.
 
 [Edmund Husserl](https://plato.stanford.edu/entries/husserl/) (1859–1938). Founder of phenomenology — the systematic study of experience from the inside. Trained as a mathematician (PhD under Weierstrass), he turned to philosophy through Brentano's lectures on intentionality — a conversion that shows in the rigour of his method. He taught at Göttingen and then Freiburg, where Heidegger was his assistant and eventual successor. As a Jew, he was stripped of his teaching rights in 1936 under Nazi racial laws. Where the natural sciences bracket the subject to study the world, Husserl brackets the world to study the subject. The phenomenological reduction strips away assumptions about external reality and returns to what is given in experience itself.
 
@@ -39,7 +39,7 @@ Husserl opened the door to lived experience — but he kept consciousness on one
 
 ## Where Husserl stops
 
-Husserl's phenomenology stays with the transcendental ego — a purified consciousness doing the constituting. The method is rigorous but solitary: even intersubjectivity is constituted from within the ego's own experience. The social, the bodily, the historical all remain secondary to the constitutive acts of consciousness. SPLectrum picks up what Husserl's successors developed — the body as medium ([Merleau-Ponty](/positioning/persons/m/merleau-ponty/)), being-in-the-world ([Heidegger](/positioning/persons/h/heidegger/)), conversation over representation ([Rorty](/positioning/persons/r/rorty/)) — while keeping Husserl's insistence that experience is where inquiry starts.
+Husserl's phenomenology stays with the transcendental ego — a purified consciousness doing the constituting. The method is rigorous but solitary: even intersubjectivity is constituted from within the ego's own experience. The social, the bodily, the historical all remain secondary to the constitutive acts of consciousness. His successors developed what he left undone — [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) put experience in the body, [Heidegger](/positioning/persons/h/heidegger/) placed it in the world, [Rorty](/positioning/persons/r/rorty/) replaced representation with conversation — while keeping his insistence that experience is where inquiry starts.
 
 ---
 
@@ -53,4 +53,4 @@ Husserl's phenomenology stays with the transcendental ego — a purified conscio
 
 ---
 
-See also: [The seed and Philosophy](/seed/philosophical/) · [The seed and Historicity](/seed/historicity/) · [The seed, Privacy and Decentralisation](/seed/privacy-and-decentralisation/)
+See also: [Phenomenology](/positioning/subjects/p/phenomenology/) · [Heidegger](/positioning/persons/h/heidegger/) · [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) · [Gadamer](/positioning/persons/g/gadamer/)

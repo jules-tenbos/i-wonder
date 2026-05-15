@@ -9,7 +9,7 @@ description: "Peirce founded pragmatism and semiotics — meaning as practical c
 
 # Charles Sanders Peirce (1839–1914)
 
-Peirce founded both [pragmatism](/positioning/subjects/p/pragmatism/) and modern semiotics. His community of inquirers replaced truth-as-correspondence with truth as what inquiry converges on when pursued far enough; his triadic sign (sign, object, interpretant) replaced the dyadic word-thing relation with a properly relational account of meaning; his fallibilism made revision the condition of inquiry rather than its enemy. The pragmatist line runs from him through [James](/positioning/persons/j/james/) and [Dewey](/positioning/persons/d/dewey/) to [Rorty](/positioning/persons/r/rorty/), and SPLectrum reads its own treatment of language and shared reality in that light.
+Peirce founded both [pragmatism](/positioning/subjects/p/pragmatism/) and modern semiotics. His community of inquirers replaced truth-as-correspondence with truth as what inquiry converges on when pursued far enough; his triadic sign (sign, object, interpretant) replaced the dyadic word-thing relation with a properly relational account of meaning; his fallibilism made revision the condition of inquiry rather than its enemy. The pragmatist line runs from him through [James](/positioning/persons/j/james/) and [Dewey](/positioning/persons/d/dewey/) to [Rorty](/positioning/persons/r/rorty/).
 
 [Charles Sanders Peirce](https://plato.stanford.edu/entries/peirce/) (1839–1914). Founder of pragmatism and semiotics. A practising scientist (U.S. Coast and Geodetic Survey), he lectured briefly at Johns Hopkins but was effectively blacklisted from academic employment and spent his last decades in poverty and isolation in Milford, Pennsylvania, producing thousands of pages of unpublished manuscripts — financially supported by [William James](/positioning/persons/j/james/). His work was largely unknown in his lifetime and had to be reconstructed posthumously. He coined "pragmatism"; when [James](/positioning/persons/j/james/) popularised it in ways Peirce considered distortions, Peirce renamed his position "pragmaticism" — a word he said was "ugly enough to be safe from kidnappers." Peirce placed inquiry — the self-correcting process of moving from doubt to belief — at the centre of philosophy. Truth is not a fixed correspondence but what the community of inquirers would converge on in the long run. Meaning, likewise, is not in the sign alone but in the interpretive process the sign sets in motion.
 
@@ -33,7 +33,7 @@ Peirce founded both [pragmatism](/positioning/subjects/p/pragmatism/) and modern
 
 ## Where Peirce stops
 
-Peirce built the most rigorous version of pragmatism — but rigour came at the cost of accessibility and application. His categories (Firstness, Secondness, Thirdness) are powerful but abstract; his semiotics is architecturally complete but never finished. The community of inquirers is an ideal — what inquiry *would* converge on — not a description of how actual communities constitute shared reality through language. And his work remained largely unpublished and unsystematised in his lifetime. SPLectrum picks up his triadic sign, the social nature of truth, and fallibilism, and carries them into a more concrete account of how language actually works between subjects and how languages interrelate.
+Peirce built the most rigorous version of pragmatism — but rigour came at the cost of accessibility and application. His categories (Firstness, Secondness, Thirdness) are powerful but abstract; his semiotics is architecturally complete but never finished. The community of inquirers is an ideal — what inquiry *would* converge on — not a description of how actual communities constitute shared reality through language. And his work remained largely unpublished and unsystematised in his lifetime. The triadic sign, the social nature of truth, and fallibilism are powerful structural resources — but how language actually works between subjects, how different sign systems relate to each other, sits beyond what he developed.
 
 ---
 
@@ -47,4 +47,4 @@ Peirce built the most rigorous version of pragmatism — but rigour came at the 
 
 ---
 
-See also: [Pragmatism](/positioning/subjects/p/pragmatism/) · [The seed and Philosophy](/seed/philosophical/) · [The Turn in Western Philosophy](/positioning/seed/the-turn-in-western-philosophy/)
+See also: [Pragmatism](/positioning/subjects/p/pragmatism/) · [James](/positioning/persons/j/james/) · [Dewey](/positioning/persons/d/dewey/) · [Brandom](/positioning/persons/b/brandom/)

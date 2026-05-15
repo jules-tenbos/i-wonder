@@ -9,7 +9,7 @@ description: "Kuhn showed that science alternates between normal puzzle-solving 
 
 # Thomas Kuhn (1922–1996)
 
-Kuhn showed that scientific communities constitute their own reality — and that the transition between paradigms is not refinement but replacement. Scientists trained in different paradigms inhabit different worlds: different problems, different methods, different meanings for the same words. Incommensurability — the impossibility of full translation between paradigms, developed alongside [Feyerabend](/positioning/persons/f/feyerabend/) — showed that different languages carve reality differently without one being reducible to another. SPLectrum reads its own account of language and shared reality in Kuhn's light.
+Kuhn showed that scientific communities constitute their own reality — and that the transition between paradigms is not refinement but replacement. Scientists trained in different paradigms inhabit different worlds: different problems, different methods, different meanings for the same words. Incommensurability — the impossibility of full translation between paradigms, developed alongside [Feyerabend](/positioning/persons/f/feyerabend/) — showed that different languages carve reality differently without one being reducible to another.
 
 [Thomas Kuhn](https://plato.stanford.edu/entries/thomas-kuhn/) (1922–1996). Historian and philosopher of science who changed how science understands its own development. Trained as a physicist (PhD from Harvard, 1949), his turn came from teaching a general education course on science for humanities students — reading Aristotle's physics, he realised it made no sense as bad modern physics but perfect sense as a different way of doing science. That experience became the origin of the paradigm concept. He taught at Berkeley, Princeton, and MIT. Against the picture of steady cumulative progress, Kuhn argued that science alternates between periods of normal science — puzzle-solving within an established framework — and revolutionary episodes that replace one framework with another.
 
@@ -33,7 +33,7 @@ Kuhn showed that scientific communities constitute their own reality — and tha
 
 ## Where Kuhn stops
 
-Kuhn showed that paradigm shifts transform the world scientists inhabit — but he stayed within science. The broader question — whether all communities, not just scientific ones, constitute their reality through shared language — is not one he asked. His paradigms are disciplinary: physics, chemistry, biology. SPLectrum's languages are wider: any form of life, any shared activity, any relational medium. And Kuhn deliberately refused to say whether paradigm change is progress toward truth. SPLectrum doesn't need to answer that question either — but it does ask what the structure of language itself makes possible.
+Kuhn showed that paradigm shifts transform the world scientists inhabit — but he stayed within science. The broader question — whether all communities, not just scientific ones, constitute their reality through shared language — is not one he asked. His paradigms are disciplinary: physics, chemistry, biology. Whether the same structural insight extends to any form of shared activity sits outside his programme. And Kuhn deliberately refused to say whether paradigm change is progress toward truth. Whether there is a structural account of what language itself makes possible — rather than a question about convergence on a single reality — is a question his framework leaves open.
 
 ---
 
@@ -46,4 +46,4 @@ Kuhn showed that paradigm shifts transform the world scientists inhabit — but 
 
 ---
 
-See also: [Philosophy of science](/positioning/subjects/p/philosophy-of-science/) · [The seed and Philosophy](/seed/philosophical/) · [The seed and Interrelational Pluralism](/seed/interrelational-pluralism/)
+See also: [Philosophy of science](/positioning/subjects/p/philosophy-of-science/) · [Popper](/positioning/persons/p/popper/) · [Feyerabend](/positioning/persons/f/feyerabend/) · [Wittgenstein](/positioning/persons/w/wittgenstein/)

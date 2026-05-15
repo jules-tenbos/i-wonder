@@ -31,7 +31,7 @@ Bateson dissolved the boundary between mind and nature by placing mind in the pa
 
 ## Where Bateson stops
 
-Bateson gives the grammar of connection — pattern, difference, circuit — but not the mechanism of creation. He can describe how patterns propagate and how systems differentiate, but he does not reach the move where interaction produces what was not there before. Schismogenesis is differentiation, not creation. The pattern connects; it does not explain why there are new patterns. That is the territory the seed's P0 and P4 occupy: differentiation as creative, interaction as generative. Bateson prepares the ground without taking the step.
+Bateson gives the grammar of connection — pattern, difference, circuit — but not the mechanism of creation. He can describe how patterns propagate and how systems differentiate, but he does not reach the move where interaction produces what was not there before. Schismogenesis is differentiation, not creation. The pattern connects; it does not explain why there are new patterns. Whether differentiation is itself generative — whether the interaction across differences produces genuinely new differences — is not a question his framework asks.
 
 ---
 
@@ -44,4 +44,4 @@ Bateson gives the grammar of connection — pattern, difference, circuit — but
 
 ---
 
-See also: [Autopoiesis](/positioning/subjects/a/autopoiesis/) · [Interrelational Pluralism — structural trajectory](/positioning/seed/interrelational-pluralism/) · [Pluralism](/positioning/close-affinity/pluralism/)
+See also: [Autopoiesis](/positioning/subjects/a/autopoiesis/) · [Maturana](/positioning/persons/m/maturana/) · [Varela](/positioning/persons/v/varela/) · [Luhmann](/positioning/persons/l/luhmann/)

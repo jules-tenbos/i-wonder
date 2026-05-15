@@ -9,7 +9,7 @@ description: "Goodman argued there is no one true description of the world — m
 
 # Nelson Goodman (1906–1998)
 
-Goodman built a rigorous case for the claim that there is no version-free world. His ways of worldmaking — worlds constructed through symbol systems, not discovered behind them — replaced truth-as-correspondence with rightness of fit. His general theory of symbol systems covered art, science, notation, and depiction — well beyond linguistics. Where [Rorty](/positioning/persons/r/rorty/) dismantled the mirror through conversation, Goodman dismantled it through construction. Both arrive at pluralism; Goodman's is more structural. SPLectrum reads its own pluralism in that light.
+Goodman built a rigorous case for the claim that there is no version-free world. His ways of worldmaking — worlds constructed through symbol systems, not discovered behind them — replaced truth-as-correspondence with rightness of fit. His general theory of symbol systems covered art, science, notation, and depiction — well beyond linguistics. Where [Rorty](/positioning/persons/r/rorty/) dismantled the mirror through conversation, Goodman dismantled it through construction. Both arrive at pluralism; Goodman's is more structural.
 
 [Nelson Goodman](https://plato.stanford.edu/entries/goodman/) (1906–1998). Harvard philosopher, art collector, and founder of Project Zero — a research group on arts education that still exists. Early collaborator with Quine (they co-authored "Steps Toward a Constructive Nominalism," 1947); where Quine moved toward naturalised epistemology, Goodman moved toward pluralism and irrealism. He argued that there is no one true description of the world — there are many, each constructed through a different symbol system. Worldmaking is not discovery of a pre-existing reality but the active construction of versions, each internally coherent but not reducible to each other.
 
@@ -31,7 +31,7 @@ Goodman built a rigorous case for the claim that there is no version-free world.
 
 ## Where Goodman stops
 
-Goodman's pluralism is constructive — he doesn't just tear down one world, he shows how many are built. But his worlds are static versions, not living languages. A version is a finished product: internally coherent, assessable for rightness. Goodman has no account of how versions are constituted socially, how they evolve, or how the act of making is itself relational. His symbol systems are structural but not lived — the body, the subject's experience, the grassroots constitution of shared reality are not his questions. SPLectrum takes Goodman's pluralism and puts it in motion.
+Goodman's pluralism is constructive — he doesn't just tear down one world, he shows how many are built. But his worlds are static versions, not living languages. A version is a finished product: internally coherent, assessable for rightness. Goodman has no account of how versions are constituted socially, how they evolve, or how the act of making is itself relational. His symbol systems are structural but not lived — the body, the subject's experience, the constitution of shared reality from the grassroots are not his questions. His pluralism is rigorous and structural; what it lacks is motion.
 
 ---
 
@@ -44,4 +44,4 @@ Goodman's pluralism is constructive — he doesn't just tear down one world, he 
 
 ---
 
-See also: [The seed and Philosophy](/seed/philosophical/) · [The seed and Interrelational Pluralism](/seed/interrelational-pluralism/)
+See also: [Rorty](/positioning/persons/r/rorty/) · [Connolly](/positioning/persons/c/connolly/) · [Kuhn](/positioning/persons/k/kuhn/)

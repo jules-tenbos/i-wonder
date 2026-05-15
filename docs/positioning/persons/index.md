@@ -2,14 +2,14 @@
 layout: default
 lastmod: 2026-05-06
 title: "Persons A–Z"
-description: "Thinkers referenced across SPLectrum's positioning work — from Bergson and Fichte to Whitehead and Wittgenstein"
+description: "Thinkers referenced across the positioning section — from Bergson and Fichte to Whitehead and Wittgenstein"
 ---
 
 [Home](/) > [Positioning](/positioning/) > Persons
 
 # Persons A–Z
 
-Individual thinkers referenced across the positioning section. Each page collects a thinker's key concepts, works, and links back to where they appear in the seed trajectories, close affinity, wider landscape, and on-the-fence pieces.
+Individual thinkers referenced across the positioning section. Each page presents a thinker's key concepts and works on their own terms, with see-also links to intellectual neighbours within the section.
 
 ## B
 

@@ -9,7 +9,7 @@ description: "Lyotard diagnosed the collapse of grand narratives — what remain
 
 # Jean-François Lyotard (1924–1998)
 
-Lyotard named the collapse of grand narratives. No single story — Enlightenment progress, scientific unity, Marxist emancipation — can legitimate all knowledge. What remains is a plurality of language games, each with its own rules, none entitled to subsume the others. His differend — a conflict with no shared rule of judgment — names what happens when one language game is imposed on another. Where [Rorty](/positioning/persons/r/rorty/) offered conversation, Lyotard insisted on the irreducible gap between games. SPLectrum operates in the condition he diagnosed.
+Lyotard named the collapse of grand narratives. No single story — Enlightenment progress, scientific unity, Marxist emancipation — can legitimate all knowledge. What remains is a plurality of language games, each with its own rules, none entitled to subsume the others. His differend — a conflict with no shared rule of judgment — names what happens when one language game is imposed on another. Where [Rorty](/positioning/persons/r/rorty/) offered conversation, Lyotard insisted on the irreducible gap between games.
 
 [Jean-François Lyotard](https://plato.stanford.edu/entries/lyotard/) (1924–1998). Philosopher who diagnosed the collapse of grand narratives. Politically active through the 1950s and 1960s in the Socialisme ou Barbarie group (with Castoriadis), engaged with the Algerian independence movement, he broke with Marxism precisely because he came to see it as a grand narrative that silenced the voices it claimed to represent. He taught at Paris VIII (Vincennes) and later at Emory and UC Irvine. His central argument: the overarching stories (Enlightenment progress, Marxist emancipation, scientific unity) that once claimed to legitimate all knowledge no longer convince. What remains is a plurality of language games, each with its own rules, none entitled to subsume the others.
 
@@ -31,7 +31,7 @@ Lyotard named the collapse of grand narratives. No single story — Enlightenmen
 
 ## Where Lyotard stops
 
-Lyotard diagnosed the collapse but refused to build on the ruins. The differend is irreducible — there is no way across, no shared ground, only the obligation to bear witness to what cannot be expressed. This is powerful as ethics but paralysing as construction. SPLectrum accepts the plurality but does not accept that the gap is unbridgeable. Sharing happens, even across incommensurable games, through the indirect convergence of vocabularies. The differend is real, but so is the grassroots construction of shared reality. Lyotard saw the problem; SPLectrum asks what grows when you stop treating it as only a problem.
+Lyotard diagnosed the collapse but refused to build on the ruins. The differend is irreducible — there is no way across, no shared ground, only the obligation to bear witness to what cannot be expressed. This is powerful as ethics but paralysing as construction. Whether sharing can happen across incommensurable games — whether the differend is the whole story or whether convergence also occurs, indirectly, through the grassroots interaction of vocabularies — is a question his framework forecloses. Lyotard diagnosed the condition; whether something can be built within it is the question he leaves open.
 
 ---
 
@@ -45,4 +45,4 @@ Lyotard diagnosed the collapse but refused to build on the ruins. The differend 
 
 ---
 
-See also: [The seed and Philosophy](/seed/philosophical/) · [The seed and Interrelational Pluralism](/seed/interrelational-pluralism/)
+See also: [Wittgenstein](/positioning/persons/w/wittgenstein/) · [Habermas](/positioning/persons/h/habermas/) · [Connolly](/positioning/persons/c/connolly/) · [Feyerabend](/positioning/persons/f/feyerabend/)

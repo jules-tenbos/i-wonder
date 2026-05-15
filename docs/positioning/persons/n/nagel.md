@@ -9,7 +9,7 @@ description: "Nagel insisted that subjective experience is real and irreducible 
 
 # Thomas Nagel (1937–)
 
-Nagel made the strongest case from within analytic philosophy that subjective experience cannot be eliminated. "What is it like to be a bat?" insists that the subject's experience is irreducible, inaccessible from outside, structurally first-person. His "view from nowhere" names the standpoint that no subject can actually occupy. Where [Rorty](/positioning/persons/r/rorty/) dissolved the view from nowhere by rejecting the question, Nagel took it seriously and showed that the tension between subjective and objective cannot be resolved by choosing one side. SPLectrum sits downstream of his insistence that the subjective is real — though it draws a different conclusion about what follows.
+Nagel made the strongest case from within analytic philosophy that subjective experience cannot be eliminated. "What is it like to be a bat?" insists that the subject's experience is irreducible, inaccessible from outside, structurally first-person. His "view from nowhere" names the standpoint that no subject can actually occupy. Where [Rorty](/positioning/persons/r/rorty/) dissolved the view from nowhere by rejecting the question, Nagel took it seriously and showed that the tension between subjective and objective cannot be resolved by choosing one side. His insistence that the subjective is real and irreducible remains one of the strongest positions in the field.
 
 [Thomas Nagel](https://plato.stanford.edu/entries/nagel/) (1937–). University Professor (emeritus) at NYU, previously at Princeton. One of the most widely read analytic philosophers — accessible without being popularising. Working within the analytic tradition at a time when physicalism and functionalism dominated philosophy of mind, Nagel was the internal critic: he argued that the tradition had left out the most important thing. Subjective experience is real, irreducible, and inaccessible from outside. There is something it is *like* to be a conscious subject — and that something cannot be captured by any objective description.
 
@@ -33,7 +33,7 @@ Nagel made the strongest case from within analytic philosophy that subjective ex
 
 ## Where Nagel stops
 
-Nagel showed that the subjective is irreducible — but he stayed with the gap. The view from nowhere cannot be reached; the subjective cannot be captured objectively; the tension is permanent. He holds both sides apart rather than asking how they are already woven together. The SPLectrum seed dissolves the framing rather than bridging the gap. Subjective experience is not inaccessible — it is private and partially shared through language. The "hard problem" of consciousness, which Nagel helped define, arises from assuming that objective description is the standard and subjective experience is the anomaly. Flip the picture and lived experience is primary, shared reality is the overlap, and the problem changes shape.
+Nagel showed that the subjective is irreducible — but he stayed with the gap. The view from nowhere cannot be reached; the subjective cannot be captured objectively; the tension is permanent. He holds both sides apart rather than asking how they are already woven together. Whether the gap is permanent or whether it looks different once the framing shifts — whether lived experience might be primary, and the "hard problem" an artifact of the objective-first assumption — is not a direction his programme pursues. He diagnosed the tension with exceptional clarity; whether the tension dissolves under a different starting point remains an open question.
 
 ---
 
@@ -47,4 +47,4 @@ Nagel showed that the subjective is irreducible — but he stayed with the gap. 
 
 ---
 
-See also: [Phenomenology](/positioning/subjects/p/phenomenology/) · [The seed and Philosophy](/seed/philosophical/) · [The seed, Privacy and Decentralisation](/seed/privacy-and-decentralisation/)
+See also: [Phenomenology](/positioning/subjects/p/phenomenology/) · [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) · [Jonas](/positioning/persons/j/jonas/)

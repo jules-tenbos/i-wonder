@@ -9,7 +9,7 @@ description: "Sartre took phenomenology into existentialism — radical freedom,
 
 # Jean-Paul Sartre (1905–1980)
 
-Where Sartre fits in SPLectrum's picture is a question for later. What is clear is that he stands on the other side of a key divergence within [phenomenology](/positioning/subjects/p/phenomenology/): where [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) moved toward the body and ambiguity, Sartre moved toward consciousness and radical freedom. That divergence matters, and SPLectrum will need to engage with it.
+Sartre took [phenomenology](/positioning/subjects/p/phenomenology/) in the direction of radical freedom and pure consciousness — the opposite direction from [Merleau-Ponty](/positioning/persons/m/merleau-ponty/), who moved toward the body and ambiguity. That divergence is one of the defining forks in twentieth-century philosophy: whether the subject is primarily free consciousness or primarily embodied engagement.
 
 [Jean-Paul Sartre](https://plato.stanford.edu/entries/sartre/) (1905–1980). Philosopher, novelist, playwright, political activist — the most publicly visible philosopher of the twentieth century. Studied at the École Normale Supérieure, encountered [Husserl](/positioning/persons/h/husserl/)'s phenomenology through Raymond Aron in a Berlin café in 1933, and spent a year in Berlin studying it. Served in the French army, was captured and held as a prisoner of war, returned to Paris and wrote prolifically under the Occupation. Published *Being and Nothingness* in 1943. Co-founded *Les Temps Modernes* with Merleau-Ponty in 1945 — their friendship and intellectual partnership defined post-war French philosophy until their public break in the early 1950s over politics. Awarded the Nobel Prize in Literature in 1964; refused it. Politically engaged throughout — resistance, Marxism, anti-colonialism, the 1968 student movements — in a way that made philosophy inseparable from public life.
 
@@ -47,4 +47,4 @@ Sartre and Merleau-Ponty started from the same place — [Husserl](/positioning/
 
 ---
 
-See also: [Phenomenology](/positioning/subjects/p/phenomenology/) · [The Turn in Western Philosophy](/positioning/seed/the-turn-in-western-philosophy/)
+See also: [Phenomenology](/positioning/subjects/p/phenomenology/) · [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) · [Husserl](/positioning/persons/h/husserl/) · [Heidegger](/positioning/persons/h/heidegger/)

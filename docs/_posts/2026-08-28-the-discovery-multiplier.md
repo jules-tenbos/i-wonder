@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "The Discovery Multiplier"
-date: 2026-06-20
-lastmod: 2026-06-20
+date: 2026-08-28
+lastmod: 2026-08-28
 labels: [discovery, HAICC, SPLectrum]
 status: Mandatory review
 words: 421

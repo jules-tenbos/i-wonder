@@ -9,7 +9,7 @@ description: "Rovelli built relational quantum mechanics — properties exist on
 
 # Carlo Rovelli (1956–)
 
-Rovelli built [relational quantum mechanics](/positioning/subjects/r/relational-quantum-mechanics/) — properties exist only through interaction, there is no observer-independent state, what is real is constituted through encounter rather than sitting behind it. His anti-foundationalism — "the foundation of science is not certainty but radical uncertainty about our own knowledge" — refused the final vocabulary from within physics. And his engagement with philosophy, from Nagarjuna to [Heidegger](/positioning/persons/h/heidegger/) to the pre-Socratics, makes him a rare working physicist who takes the relational turn seriously across disciplines. Where [Kant](/positioning/persons/k/kant/) asked how the mind structures experience, Rovelli asks how interaction structures reality — and the answer drops the privileged observer entirely. SPLectrum reads its relational stance in the same current.
+Rovelli built [relational quantum mechanics](/positioning/subjects/r/relational-quantum-mechanics/) — properties exist only through interaction, there is no observer-independent state, what is real is constituted through encounter rather than sitting behind it. His anti-foundationalism — "the foundation of science is not certainty but radical uncertainty about our own knowledge" — refused the final vocabulary from within physics. And his engagement with philosophy, from Nagarjuna to [Heidegger](/positioning/persons/h/heidegger/) to the pre-Socratics, makes him a rare working physicist who takes the relational turn seriously across disciplines. Where [Kant](/positioning/persons/k/kant/) asked how the mind structures experience, Rovelli asks how interaction structures reality — and the answer drops the privileged observer entirely.
 
 [Carlo Rovelli](https://en.wikipedia.org/wiki/Carlo_Rovelli) (1956–). Theoretical physicist and philosopher of science. Born in Verona, he was politically active in the Italian student movements of the 1970s — founding free radio stations, co-authoring a book on the Bologna protests, briefly detained for refusing military service. He studied physics at Bologna and Padova, held a joint appointment in physics and the history and philosophy of science at Pittsburgh, and has been based at Aix-Marseille University since 2000. Also affiliated with the Perimeter Institute, the Rotman Institute of Philosophy, and the Santa Fe Institute. One of the few working physicists with a sustained, serious engagement with philosophy — he has argued publicly that physics needs philosophy and philosophy needs physics ("Einstein would have never done relativity without having read all the philosophers"). The anti-authoritarian political stance and the anti-foundationalist physics are not unrelated — a consistent suspicion of fixed structures, whether political or physical.
 
@@ -31,7 +31,7 @@ Rovelli built [relational quantum mechanics](/positioning/subjects/r/relational-
 
 ## Where Rovelli stops
 
-Rovelli's relational quantum mechanics drops the privileged observer — but it stays within physics. Properties exist through interaction, but interaction in RQM is physical: one system measuring another. The move is the same as SPLectrum's — no absolute state, no view from nowhere — but SPLectrum takes it into territory physics does not reach: meaning, sharing, the growth of complexity through interrelating languages. Rovelli points toward this himself through Nagarjuna and his philosophical writing, but the physics alone does not get there.
+Rovelli's relational quantum mechanics drops the privileged observer — but it stays within physics. Properties exist through interaction, but interaction in RQM is physical: one system measuring another. The relational move — no absolute state, no view from nowhere — is made within physics. Whether it extends into territory physics does not reach — meaning, sharing, the growth of complexity through interaction — is a question Rovelli points toward through Nagarjuna and his philosophical writing, but the physics alone does not get there.
 
 ---
 
@@ -49,4 +49,4 @@ Rovelli's relational quantum mechanics drops the privileged observer — but it 
 
 ---
 
-See also: [Relational quantum mechanics](/positioning/subjects/r/relational-quantum-mechanics/) · [The Turn in Science](/positioning/seed/the-turn-in-science/) · [The seed and Philosophy](/seed/philosophical/)
+See also: [Relational quantum mechanics](/positioning/subjects/r/relational-quantum-mechanics/) · [Leibniz](/positioning/persons/l/leibniz/) · [Heraclitus](/positioning/persons/h/heraclitus/)

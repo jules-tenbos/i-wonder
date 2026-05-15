@@ -9,7 +9,7 @@ description: "Fichte made self-positing the starting point — the I posits itse
 
 # Johann Gottlieb Fichte (1762–1814)
 
-Fichte made differentiation the origin of being. The I posits itself by positing what it is not — being begins with an act of distinction, not with a substance. The not-I is not a second thing but the necessary other side of the same act, and the I's striving against it is what makes activity possible at all. He stands at the origin of [German idealism](/positioning/subjects/g/german-idealism/), bridging [Kant](/positioning/persons/k/kant/)'s critical philosophy and [Hegel](/positioning/persons/h/hegel/)'s dialectic; the [seed](/seed/)'s P0 — being implies language — sits in his light.
+Fichte made differentiation the origin of being. The I posits itself by positing what it is not — being begins with an act of distinction, not with a substance. The not-I is not a second thing but the necessary other side of the same act, and the I's striving against it is what makes activity possible at all. He stands at the origin of [German idealism](/positioning/subjects/g/german-idealism/), bridging [Kant](/positioning/persons/k/kant/)'s critical philosophy and [Hegel](/positioning/persons/h/hegel/)'s dialectic.
 
 [Johann Gottlieb Fichte](https://plato.stanford.edu/entries/johann-fichte/) (1762–1814). The philosopher who made self-positing the starting point of philosophy. [Kant](/positioning/persons/k/kant/)'s immediate successor — he held Kant's chair at Jena and became the bridge between critical philosophy and what would become [German idealism](/positioning/subjects/g/german-idealism/) through Schelling and [Hegel](/positioning/persons/h/hegel/). Where [Kant](/positioning/persons/k/kant/) left the thing-in-itself as an unknowable beyond, Fichte eliminated it — there is no being apart from the act that posits it. The *I* posits itself, and in doing so posits the *not-I* as its necessary counterpart. Being begins with differentiation.
 
@@ -31,7 +31,7 @@ Fichte made differentiation the origin of being. The I posits itself by positing
 
 ## Where Fichte stops
 
-Fichte made being dynamic — an act, not a substance. But the act is the I's act, and the I is absolute. The not-I exists only as posited by the I; the world is ultimately the I's self-limitation. This is idealism in its purest form: everything is grounded in subjectivity. The SPLectrum seed starts from a similar place — being and the other arising together through differentiation — but refuses the priority. Being and the other are co-constitutive, neither prior; the relational is not the I striving against its limit but the medium in which both exist. [Hegel](/positioning/persons/h/hegel/) historicised what Fichte left static; SPLectrum pluralises what Hegel left singular.
+Fichte made being dynamic — an act, not a substance. But the act is the I's act, and the I is absolute. The not-I exists only as posited by the I; the world is ultimately the I's self-limitation. This is idealism in its purest form: everything is grounded in subjectivity. Whether the differentiation can be made co-constitutive — being and the other arising together, neither prior — rather than grounded in the I's act, is a question Fichte does not ask. [Hegel](/positioning/persons/h/hegel/) historicised what Fichte left static; whether the result can also be pluralised — many languages, not one spirit — is where the line leads after Hegel.
 
 ---
 
@@ -43,4 +43,4 @@ Fichte made being dynamic — an act, not a substance. But the act is the I's ac
 
 ---
 
-See also: [German idealism](/positioning/subjects/g/german-idealism/) · [The seed and Philosophy](/seed/philosophical/) · [Being as Tension](/positioning/seed/being-as-tension/)
+See also: [German idealism](/positioning/subjects/g/german-idealism/) · [Kant](/positioning/persons/k/kant/) · [Hegel](/positioning/persons/h/hegel/) · [Spinoza](/positioning/persons/s/spinoza/)

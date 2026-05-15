@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Creation and Discovery"
-date: 2026-06-04
-lastmod: 2026-06-04
+date: 2026-08-12
+lastmod: 2026-08-12
 labels: [discovery, philosophy, SPLectrum]
 status: Mandatory review
 words: 525

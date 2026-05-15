@@ -9,7 +9,9 @@ description: "Applied interrelational pluralism — SPLectrum's framework brough
 
 # Real Life - The Practice
 
-The Real Life section contains contributions about interrelational pluralism in practice, from any angle that is deemed interesting. It may not always be the way you think about interrelational pluralism — here at SPLectrum we take a very wide view of it.
+Interrelational pluralism in practice — SPLectrum's framework brought to bear on real-world domains. The view of what counts as practice is wide; the angles taken may not always match the usual readings.
+
+Slowly building. The current sample doesn't yet reflect the breadth this section will carry — new material often develops first in the blog.
 
 ## SPLectrum Practices
 

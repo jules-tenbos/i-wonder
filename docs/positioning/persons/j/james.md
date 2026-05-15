@@ -9,7 +9,7 @@ description: "James made pragmatism public — truth is what works, experience i
 
 # William James (1842–1910)
 
-James made relations real. His radical empiricism — the insistence that relations are as real as the things they connect — dissolved the dualism of subject and object without retreating into idealism. His "stream of consciousness" replaced the discrete mental states of earlier psychology with a continuous flow. But his individualism and his tendency to ground truth in personal utility left the social dimension to others. He opened doors that [Dewey](/positioning/persons/d/dewey/) and [Rorty](/positioning/persons/r/rorty/) walked through toward the shared and the relational — the direction SPLectrum follows.
+James made relations real. His radical empiricism — the insistence that relations are as real as the things they connect — dissolved the dualism of subject and object without retreating into idealism. His "stream of consciousness" replaced the discrete mental states of earlier psychology with a continuous flow. But his individualism and his tendency to ground truth in personal utility left the social dimension to others. He opened doors that [Dewey](/positioning/persons/d/dewey/) and [Rorty](/positioning/persons/r/rorty/) walked through toward the shared and the relational.
 
 [William James](https://plato.stanford.edu/entries/james/) (1842–1910). Philosopher and psychologist — one of the founders of [pragmatism](/positioning/subjects/p/pragmatism/) and the most widely read American philosopher of his generation. Born into privilege (his father was an independently wealthy Swedenborgian theologian, his brother the novelist Henry James), he studied medicine at Harvard, suffered prolonged depression in his twenties, and found his way to philosophy through psychology. His *Principles of Psychology* (1890) established him as a leading psychologist before he turned fully to philosophy. He held the chair of philosophy at Harvard from 1885. Where [Peirce](/positioning/persons/p/peirce/) was rigorous, technical and largely ignored, James was accessible, charismatic and enormously influential — he made pragmatism a public movement, for better and worse.
 
@@ -31,7 +31,7 @@ James made relations real. His radical empiricism — the insistence that relati
 
 ## Where James stops
 
-James kept pragmatism personal. Truth is what works *for me*, what helps *me* live. The social dimension — how a community converges on shared truth — was left to Dewey. The structural question — what it means for language itself to be the medium of that convergence — was left further still. James's pluralism opens a door SPLectrum walks through, but his individualism means the relational and the shared need other sources.
+James kept pragmatism personal. Truth is what works *for me*, what helps *me* live. The social dimension — how a community converges on shared truth — was left to Dewey. The structural question — what it means for language itself to be the medium of that convergence — was left further still. His pluralism opens the door; his individualism means the relational and the shared need other sources.
 
 ---
 
@@ -45,4 +45,4 @@ James kept pragmatism personal. Truth is what works *for me*, what helps *me* li
 
 ---
 
-See also: [Pragmatism](/positioning/subjects/p/pragmatism/) · [The seed and Philosophy](/seed/philosophical/)
+See also: [Pragmatism](/positioning/subjects/p/pragmatism/) · [Peirce](/positioning/persons/p/peirce/) · [Dewey](/positioning/persons/d/dewey/) · [Connolly](/positioning/persons/c/connolly/)

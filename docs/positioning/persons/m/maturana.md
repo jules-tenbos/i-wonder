@@ -9,7 +9,7 @@ description: "Maturana placed cognition inside the organism — perception is no
 
 # Humberto Maturana (1928–2021)
 
-Maturana turned neurobiology into philosophy by taking one observation seriously: the nervous system does not represent an external world — it maintains its own coherence. From that, everything followed. Cognition is living. Observation is always from inside. Reality is not denied but relocated: it is what the observer brings forth, not what the observer mirrors. SPLectrum recognises the same structural move — experience is constitutive, not derivative.
+Maturana turned neurobiology into philosophy by taking one observation seriously: the nervous system does not represent an external world — it maintains its own coherence. From that, everything followed. Cognition is living. Observation is always from inside. Reality is not denied but relocated: it is what the observer brings forth, not what the observer mirrors.
 
 [Humberto Maturana Romesín](https://en.wikipedia.org/wiki/Humberto_Maturana) (1928–2021). Medicine at Universidad de Chile; anatomy and neurophysiology at University College London; biology PhD at Harvard, 1958; neurophysiology of vision at MIT with Warren McCulloch, co-authoring the landmark 1959 paper *"What the Frog's Eye Tells the Frog's Brain"* with Lettvin, McCulloch and Pitts — a paper that showed the frog's retina was not transmitting an image but detecting features relevant to the frog's survival. Returned to Chile in the 1960s, founded the Laboratory for Experimental Epistemology and the Biology of Cognition at the University of Chile. Co-founded Instituto Matríztico with Ximena Dávila in 2000. Recipient of Chile's National Science Award.
 
@@ -31,7 +31,7 @@ Maturana turned neurobiology into philosophy by taking one observation seriously
 
 ## Where Maturana stops
 
-Maturana placed the observer inside the system and refused to let it back out. That is the strength. The limit is that his account stays within the individual organism's viability. Structural coupling between organisms produces compatible change, but Maturana does not develop how *shared* organisation emerges — how two operationally closed systems produce something that belongs to neither alone. The biology of love gestures toward it (coexistence, mutual legitimacy), but as an emotional domain, not as a structural account of shared reality. SPLectrum picks up where the shared begins: language as the medium through which subjects constitute shared reality, not just coexist within it.
+Maturana placed the observer inside the system and refused to let it back out. That is the strength. The limit is that his account stays within the individual organism's viability. Structural coupling between organisms produces compatible change, but Maturana does not develop how *shared* organisation emerges — how two operationally closed systems produce something that belongs to neither alone. The biology of love gestures toward it (coexistence, mutual legitimacy), but as an emotional domain, not as a structural account of shared reality. How operationally closed systems produce shared meaning — not just compatible change but a reality that belongs to neither alone — is not a question his framework takes on.
 
 ---
 
@@ -45,4 +45,4 @@ Maturana placed the observer inside the system and refused to let it back out. T
 
 ---
 
-See also: [Autopoiesis](/positioning/subjects/a/autopoiesis/) · [Varela](/positioning/persons/v/varela/) · [Bateson](/positioning/persons/b/bateson/) · [Interrelational Pluralism — structural trajectory](/positioning/seed/interrelational-pluralism/)
+See also: [Autopoiesis](/positioning/subjects/a/autopoiesis/) · [Varela](/positioning/persons/v/varela/) · [Bateson](/positioning/persons/b/bateson/) · [Luhmann](/positioning/persons/l/luhmann/) · [Solé](/positioning/persons/s/sole/)

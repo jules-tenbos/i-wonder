@@ -9,7 +9,7 @@ description: "Brandom replaced representation with inference — meaning is what
 
 # Robert Brandom (1950–)
 
-Brandom gives SPLectrum the sharpest discursive case for P1. His inferentialism locates meaning in relations between commitments, not in word-to-world correspondence — language as binding, not representing. The move from representation to inference is the move SPLectrum generalises beyond the discursive: if meaning is relational even in the most articulate human practices, the non-representational reading of P1 is not a speculative leap but something already demonstrated in one important domain. He sits alongside [Wittgenstein](/positioning/persons/w/wittgenstein/), [Sellars](/positioning/persons/s/sellars/), and [Rorty](/positioning/persons/r/rorty/) in the non-representational tradition.
+Brandom built the most fully worked-out non-representational account of language in contemporary philosophy. His inferentialism locates meaning in relations between commitments, not in word-to-world correspondence — language as binding, not representing. If meaning is relational even in the most articulate human practices, the question becomes whether the same holds beyond the discursive. He sits alongside [Wittgenstein](/positioning/persons/w/wittgenstein/), [Sellars](/positioning/persons/s/sellars/), and [Rorty](/positioning/persons/r/rorty/) in the non-representational tradition.
 
 [Robert Brandom](https://plato.stanford.edu/entries/brandom/) (1950–). Philosopher at the University of Pittsburgh, student of Rorty and heir to the Sellarsian tradition. His career has been a sustained effort to work out what language looks like once you stop thinking of it as representation. The flagship project — *Making It Explicit* (1994), followed by the compact *Articulating Reasons* (2000) — took over a decade to write and runs to nearly eight hundred pages. *A Spirit of Trust* (2019) extends the framework into a reading of Hegel's *Phenomenology of Spirit* as a theory of recollective rationality.
 
@@ -31,9 +31,9 @@ Brandom gives SPLectrum the sharpest discursive case for P1. His inferentialism 
 
 ## Where Brandom stops
 
-Brandom's picture is anthropocentric. The apparatus — commitment, entitlement, scorekeeping — is built around discursive practice: beings who can give and ask for reasons. It does not obviously extend to relational activity below or beyond the discursive. Cellular signalling, gravitational binding, the trace a footprint leaves in mud — these meet the SPLectrum seed's conditions for language (P0, P1) but have no apparatus of commitment and entitlement. P4 keeps this honest: Brandom's account is load-bearing for one important class of languages, not the whole story. Other languages do relational work without the discursive apparatus, and they have equal standing in principle.
+Brandom's picture is anthropocentric. The apparatus — commitment, entitlement, scorekeeping — is built around discursive practice: beings who can give and ask for reasons. It does not obviously extend to relational activity below or beyond the discursive. Cellular signalling, gravitational binding, the trace a footprint leaves in mud — these are relational, but they have no apparatus of commitment and entitlement. Whether his account is load-bearing for one important class of relational activity or for relational activity in general is a question the framework does not address.
 
-The other limit is scope. Brandom's "objectivity emerges from commitment-tracking" is friendly to P3 but not identical with it. P3 covers convergence through any kind of language interaction — not only discursive convergence. The structural shape is similar; the scope is different.
+The other limit is scope. Brandom's "objectivity emerges from commitment-tracking" covers discursive convergence — agreement through the practice of giving and asking for reasons. Whether convergence also happens through other kinds of relational activity, and whether the structural shape is the same, sits outside his programme.
 
 ---
 
@@ -46,4 +46,4 @@ The other limit is scope. Brandom's "objectivity emerges from commitment-trackin
 
 ---
 
-See also: [The seed and Language](/seed/language/) · [The seed and Philosophy](/seed/philosophical/) · [Pragmatism](/positioning/subjects/p/pragmatism/)
+See also: [Pragmatism](/positioning/subjects/p/pragmatism/) · [Sellars](/positioning/persons/s/sellars/) · [Rorty](/positioning/persons/r/rorty/) · [Wittgenstein](/positioning/persons/w/wittgenstein/)
