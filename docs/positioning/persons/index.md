@@ -64,6 +64,7 @@ Individual thinkers referenced across the positioning section. Each page present
 
 - [Luhmann, Niklas (1927–1998)](l/luhmann) · sociologist<span class="kw">social systems, functional differentiation, communication, autopoiesis, structural coupling</span>
 - [Leibniz, Gottfried Wilhelm (1646–1716)](l/leibniz) · philosopher, mathematician<span class="kw">relational space, monads, pre-established harmony, the universal characteristic</span>
+- [Lyell, Charles (1797–1875)](l/lyell) · geologist<span class="kw">uniformitarianism, Principles of Geology, Tertiary classification, deep time</span>
 - [Lyotard, Jean-François (1924–1998)](l/lyotard) · philosopher<span class="kw">the postmodern condition, the differend, language games, metanarratives</span>
 
 ## M
