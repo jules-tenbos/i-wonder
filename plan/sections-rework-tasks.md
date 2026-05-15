@@ -29,3 +29,9 @@ Based on the 9-box homepage discussion. See `9-box-homepage-discussion.md` in Wi
 - [x] **Darwinism subject page** — initial single-page treatment (section build-out planned)
 - [x] **13 person pages created** — Proudhon, van Beneden, Darwin, Malthus, Spencer, Huxley, Kropotkin, Marx, Trivers, Maynard Smith, Kauffman, Wallace, Lyell
 - [x] **Darwinism placeholder** promoted to initial content
+- [x] **Link transition sweep** — external links flipped to internal across mutualism subject page and person pages
+
+### Remaining (next session)
+
+- [ ] **On the fence: mutualism** — positioning fence entry
+- [ ] **Blog post: mutualism** — blog treatment
