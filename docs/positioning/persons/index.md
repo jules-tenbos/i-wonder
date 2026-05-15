@@ -45,6 +45,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Hegel, Georg Wilhelm Friedrich (1770–1831)](h/hegel) · philosopher<span class="kw">dialectic, sublation, determinate negation, historical development</span>
 - [Heidegger, Martin (1889–1976)](h/heidegger) · philosopher<span class="kw">being-in-the-world, disclosure, Dasein, readiness-to-hand</span>
 - [Hume, David (1711–1776)](h/hume) · philosopher<span class="kw">empiricism, causation as habit, the bundle self, the is-ought problem</span>
+- [Huxley, Thomas Henry (1825–1895)](h/huxley) · biologist, public intellectual<span class="kw">Darwin's bulldog, agnosticism, Man's Place in Nature, Evolution and Ethics</span>
 - [Husserl, Edmund (1859–1938)](h/husserl) · philosopher<span class="kw">phenomenology, intentionality, time-consciousness, the lifeworld</span>
 
 ## J
@@ -65,6 +66,7 @@ Individual thinkers referenced across the positioning section. Each page present
 
 ## M
 
+- [Malthus, Thomas (1766–1834)](m/malthus) · political economist, demographer<span class="kw">principle of population, moral restraint, rent, effective demand</span>
 - [Maturana, Humberto (1928–2021)](m/maturana) · biologist, philosopher<span class="kw">autopoiesis, biology of cognition, the observer, structural determinism</span>
 - [Merleau-Ponty, Maurice (1908–1961)](m/merleau-ponty) · philosopher<span class="kw">phenomenology of the body, perception, the habitual body, intercorporeality</span>
 
@@ -96,6 +98,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Sartre, Jean-Paul (1905–1980)](s/sartre) · philosopher<span class="kw">existentialism, radical freedom, consciousness as nothingness, engagement</span>
 - [Saussure, Ferdinand de (1857–1913)](s/saussure) · linguist<span class="kw">structural linguistics, the differential sign, langue and parole</span>
 - [Solé, Ricard (1962–)](s/sole) · complex systems scientist<span class="kw">liquid brains, solid brains, criticality, phase transitions</span>
+- [Spencer, Herbert (1820–1903)](s/spencer) · philosopher, sociologist<span class="kw">synthetic philosophy, survival of the fittest, social organism, evolution as universal principle</span>
 - [Spinoza, Baruch (1632–1677)](s/spinoza) · philosopher<span class="kw">substance monism, determination as negation, conatus</span>
 
 ## V
