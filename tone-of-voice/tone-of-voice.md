@@ -71,6 +71,8 @@ Conversational but unhurried. Thinking aloud in good company — not lecturing, 
 
 **Alongside, not above.** Two ways of thinking placed next to each other. No ranking. Each position understood within its own context first.
 
+**SPLectrum as place, not actor.** SPLectrum is the architecture the reader inhabits — what they reach for, the vantage they look from — not a figure performing while the reader watches. The `is-like` principle (`editorial-principles.md`) expressed in grammatical position: SPLectrum is the building, the facilities, the vocabulary; the reader is the one who avails of what is there. Verbs of perception, action, and judgment belong to the reader, not to SPLectrum. "SPLectrum reads X as Y" becomes "Within SPLectrum, X is read as Y" or "From SPLectrum, X looks like Y." "The seed handles X" becomes "X is handled within the seed's architecture." "SPLectrum makes a move" becomes "The move available within SPLectrum is…" The grammar puts the reader in the active position, with SPLectrum as the structure they inhabit rather than the figure they observe. This applies wherever SPLectrum or the SPLectrum seed is referred to — ref lib, blog, positioning, fence work alike. The framing is the look-what-you-can-avail-of stance, not the see-what-he-does-isn't-he-good stance.
+
 ---
 
 ## Register: SPLectrum
@@ -85,6 +87,7 @@ The framework voice — speaks *from within* the project.
 - Seed principles (P0-P5) as explicit reference points
 - "Unpacking" as metaphor — the seed contains complexity to unfold
 - Explicit about disclaiming imposition
+- SPLectrum positioned grammatically as place inhabited, not actor performing (see "How the voice thinks" — *SPLectrum as place, not actor*)
 - Engineering vocabulary that doesn't appear in other personas
 
 ---
