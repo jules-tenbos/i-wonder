@@ -4,34 +4,30 @@ title: "Noticing the Grid"
 date: 2026-06-01
 lastmod: 2026-05-13
 labels: [SPLectrum, comment]
-description: "The homepage had been showing its hand for months. I just hadn't noticed the columns."
-status: review needed
-words: 465
+description: "I sketched out the homepage sections and saw a structure I hadn't put there on purpose."
+status: final revision
+words: 590
 ---
 
-<img src="/assets/images/9-box-grid-columns.svg" alt="The 9-box homepage grid — columns coloured by spine: blue for engaging/relational, amber for what-is/substantive, red for constructed/instrumental" />
+<img src="/assets/images/9-box-homepage-screenshot.png" alt="The SPLectrum homepage — nine boxes in a 3×3 grid, three rows coloured by concern: green for applied, pink for foundational, yellow for structural" />
 
-> *Writing this looking back on a conversation from a week ago, where the homepage finally showed me what it was.*
+> *Writing this looking back, at the moment the homepage showed me what it had become.*
 
-I'd been thinking of the homepage as nine boxes. Three rows, three columns, useful enough as a layout. The bottom row needed work — Language, Vocabulary, Tools, all underdeveloped — and I sat down with Claude to talk through how to structure them.
+I'd been building sections for months — adding boxes, moving things around, wanting each part to sit right. At some point I sketched it out and saw something I hadn't put there on purpose. A structure that had been assembling itself while I was busy making practical decisions. This is about that moment.
 
-Somewhere in the middle, after we'd settled the bottom-row shape, I sketched out the whole nine-box setup to give the discussion its context. Within a minute, the columns came back at me.
+It all started with a blog. I wanted to talk about my thoughts and findings. But I didn't want it floating in the air — I wanted it backed by reference material. These were the early days of SPLectrum, when it started to dawn. In fact blog and reference started as separate entities, and were then joined together under splectrum.world. The two parts were under one roof.
 
-Left column: In Wonder, Positioning, Language. Engagement, the relational, the outward.
+But then I wanted the reference material to be well separated, each block self-contained. Soon I stumbled into the three-pronged approach: the core that I build from, the stuff I build, and the 'prior art'. Thanks to human-AI collaboration I thought I would have enough capacity to bring 'prior art' sufficiently in house to give the understanding needed for what I am building. And so the three boxes were born — the reference site had become a proper site, clear separation, joined up with a conversational blog. I really want a blog that talks about happenings, conversations, no strings attached while the SPLectrum building gets erected.
 
-Centre column: Real Life, Seed, Vocabulary. The what-is spine.
+SPLectrum is all about language and meaning, the relational and the vocabulary, and I want this clearly visible as well. Suddenly another few sections were born. And despite all the philosophy and science I want it to be about real life, what we do — in come the applied sections.
 
-Right column: Engineering, Reality, Tools. What is built, what is wielded.
+And then it was 3×3. Nine boxes on the homepage, three rows and three columns — on desktop and tablet at least, mobile doesn't have the screen real estate and defaults to a linear list.
 
-I'd put that grid together over months without seeing what the columns did. I'd put Seed at the centre because it felt right, not because I'd reasoned my way to a substantive spine running down the middle. The grid had been ahead of me.
+Primary axes are the rows: the foundation sits in the middle, the structural below and the applied on top. Notice that the blog has nicely slotted into the applied layer: there are the conversations, how it translates into real life, how it gets applied in technology. The middle row is the heavy stuff — the foundation. At the centre the seed principles of SPLectrum, to its left the knowledgebase it draws from, to its right what gets built from it. The bottom layer is about structure — trying to make sense of vocabularies, and the interrelatedness of languages, all this requiring the right tooling.
 
-That's the moment the post is about — the small jolt of noticing a structure you've been making without seeing.
+With the seed at the centre the row pattern becomes a star. All is interrelated with its origin in the middle. Wow.
 
-The rows fall into place once the columns are visible. Top is *applied* — In Wonder is conversation, Real Life is structural, Engineering is technological. Three registers of putting insight to work. Middle is *framework* — Positioning sets the wider context, Seed gives the principles, Reality builds the knowledge-construct. Bottom is *machinery* — Language is the relational medium, Vocabulary is the concepts, Tools is what you reach for.
-
-Bottom is the machinery, middle is the framework, top is where both go to work. And the centre is the Seed.
-
-It's tempting to claim I designed it this way, but the honest version is that the worldview did the designing through me. Relational coherence isn't something you decide; it's something you notice you've been doing. The grid was the project showing its hand.
+It's tempting to claim I designed it this way, but the honest version is that the worldview did the designing through me. Relational coherence isn't something you decide; it's something you notice you've been doing.
 
 And then there's the reflexive bit, which I can't quite let go of. The homepage contains a Real Life box. The homepage is itself a Real Life thing — a structural artifact produced by the worldview it presents. The grid doesn't sit outside the structure it organises. It's inside it. Self-including. The anti-foundationalist in me finds this satisfying; the pragmatist in me suspects it's the kind of observation that matters exactly once and then you move on.
 
