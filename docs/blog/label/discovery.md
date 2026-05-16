@@ -11,5 +11,5 @@ description: "Blog posts labelled discovery on The World of SPLectrum."
 
 Posts labelled **discovery**.
 
-{% assign filtered = site.posts | where_exp: "post", "post.labels contains 'discovery'" %}
+{% assign filtered = site.posts | where_exp: "post", "post.labels contains 'discovery'" | reverse %}
 {% include blog-entries.html posts=filtered %}

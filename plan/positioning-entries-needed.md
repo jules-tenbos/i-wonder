@@ -17,6 +17,7 @@ Persons and subjects referenced on the site without their own entry. One list, d
 - Haldane, J. B. S. — population genetics, cost of natural selection, polymath; 2 links, integration
 - Mendel, Gregor — discrete hereditary factors, foundation of genetics; integration
 - Gould, Stephen Jay — punctuated equilibrium, Spandrels, Structure of Evolutionary Theory; after-synthesis
+- Wilson, E. O. — Sociobiology, sociobiology controversy, late-career group selection shift; after-synthesis, social-darwinism
 - Dobzhansky, Theodosius — Synthesis architect, Genetics and the Origin of Species, "nothing in biology makes sense"; integration
 - Wright, Sewall — adaptive landscape, genetic drift, population structure; integration
 - Hamilton, W. D. — inclusive fitness, kin selection; after-synthesis

@@ -11,5 +11,5 @@ description: "Blog posts labelled positioning on The World of SPLectrum."
 
 Posts labelled **positioning**.
 
-{% assign filtered = site.posts | where_exp: "post", "post.labels contains 'positioning'" %}
+{% assign filtered = site.posts | where_exp: "post", "post.labels contains 'positioning'" | reverse %}
 {% include blog-entries.html posts=filtered %}

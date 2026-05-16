@@ -11,5 +11,5 @@ description: "Blog posts labelled category-theory on The World of SPLectrum."
 
 Posts labelled **category-theory**.
 
-{% assign filtered = site.posts | where_exp: "post", "post.labels contains 'category-theory'" %}
+{% assign filtered = site.posts | where_exp: "post", "post.labels contains 'category-theory'" | reverse %}
 {% include blog-entries.html posts=filtered %}

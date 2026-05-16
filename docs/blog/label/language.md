@@ -11,5 +11,5 @@ description: "Blog posts labelled language on The World of SPLectrum."
 
 Posts labelled **language**.
 
-{% assign filtered = site.posts | where_exp: "post", "post.labels contains 'language'" %}
+{% assign filtered = site.posts | where_exp: "post", "post.labels contains 'language'" | reverse %}
 {% include blog-entries.html posts=filtered %}

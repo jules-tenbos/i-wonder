@@ -7,7 +7,7 @@ description: "SPLectrum is a foundational philosophy grown from seed, egalitaria
 
 # The Home of Interrelational Pluralism
 
-A foundational philosophy grown from a seed of six principles — on language, subjects, and relation. No discipline privileged. No meta-language above the rest. In a world of centralisation, the case for healthy decentralisation: privacy, local practice, and the equal standing of many ways of knowing.
+A foundational philosophy grown from a seed of six principles — on language, subjects, and relation. No discipline privileged. No meta-language above the rest. In a world of centralisation, the case for healthy decentralisation: privacy, local practice, and the equal standing of many ways of knowing. <span style="float:right">[New here? Reading path →](/start-here/)</span>
 
 <div class="area-grid">
   <a class="area-box" href="/blog/">

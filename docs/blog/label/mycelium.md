@@ -11,5 +11,5 @@ description: "Blog posts labelled mycelium on The World of SPLectrum."
 
 Posts labelled **mycelium**.
 
-{% assign filtered = site.posts | where_exp: "post", "post.labels contains 'mycelium'" %}
+{% assign filtered = site.posts | where_exp: "post", "post.labels contains 'mycelium'" | reverse %}
 {% include blog-entries.html posts=filtered %}

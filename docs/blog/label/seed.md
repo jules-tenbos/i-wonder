@@ -11,5 +11,5 @@ description: "Blog posts labelled seed on The World of SPLectrum."
 
 Posts labelled **seed**.
 
-{% assign filtered = site.posts | where_exp: "post", "post.labels contains 'seed'" %}
+{% assign filtered = site.posts | where_exp: "post", "post.labels contains 'seed'" | reverse %}
 {% include blog-entries.html posts=filtered %}
