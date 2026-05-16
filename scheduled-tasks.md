@@ -1,6 +1,6 @@
 # Scheduled Tasks
 
-Updated 2026-05-12. Tasks triggered by post publication and ongoing work.
+Updated 2026-05-16. Tasks triggered by post publication and ongoing work.
 
 ## Standing tasks
 
@@ -22,7 +22,7 @@ Updated 2026-05-12. Tasks triggered by post publication and ongoing work.
 | May 10 | The Birth of P0 | ready |
 | May 12 | The Seed, Language and Historicity | final review |
 | May 14 | The Seed and Human Reality | final review |
-| May 16 | Between Subjects | final review |
+| May 16 | Between Subjects | ready |
 | May 18 | Community as Luminosity | final review |
 | May 20 | From Seed to Interrelational Pluralism | final review |
 | May 24 | Mutualism Without Intent | Mandatory review |
@@ -31,7 +31,7 @@ Updated 2026-05-12. Tasks triggered by post publication and ongoing work.
 
 | Date | Title | Status |
 |------|-------|--------|
-| Jun 1 | Noticing the Grid | review needed |
+| Jun 1 | Noticing the Grid | final revision |
 | Jun 4 | The Seed and Category Theory | mandatory review |
 | Jun 8 | The Wrapper | mandatory review |
 | Jun 12 | Is Like, Is | mandatory review |

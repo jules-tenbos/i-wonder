@@ -12,7 +12,7 @@ Based on the 9-box homepage discussion. See `9-box-homepage-discussion.md` in Wi
 
 - [x] **Landing page content** — reworked: applied IP intro, SPLectrum Practices as first domain (2026-05-14)
 - [x] **"The 9-Box Homepage" page** — Real Life piece at `/real-life/the-9-box-homepage/` with SVG grid diagram (2026-05-14)
-- [x] **"Noticing the Grid" blog post** — moved to Jun 1, status: review needed (2026-05-15)
+- [x] **"Noticing the Grid" blog post** — moved to Jun 1, restructured around noticing moment, homepage screenshot, status: final revision (2026-05-16)
 
 ## Positioning section voice update (2026-05-15)
 
@@ -31,7 +31,7 @@ Based on the 9-box homepage discussion. See `9-box-homepage-discussion.md` in Wi
 - [x] **Darwinism placeholder** promoted to initial content
 - [x] **Link transition sweep** — external links flipped to internal across mutualism subject page and person pages
 
-### Remaining (next session)
+### Remaining
 
-- [ ] **On the fence: mutualism** — positioning fence entry
+- [x] **On the fence: mutualism** — three-page fence entry (hub + original mutualism + the recodings), place-vs-actor compliant (2026-05-16)
 - [ ] **Blog post: mutualism** — blog treatment
