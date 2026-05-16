@@ -21,6 +21,7 @@ These are subjects of importance to SPLectrum, referenced within the site.
 
 ## D
 
+- [Darwinism](d/darwinism/) · biology, history of science<span class="kw">evolution by natural selection — Darwin's theory, its integration with genetics, its extensions and disputes, and the traditions that bear its name</span>
 - [Domain-specific languages (DSL)](d/domain-specific-languages/) · software engineering, notation<span class="kw">purpose-built vocabularies for specific problem areas — from SQL and regular expressions to musical notation and chemical nomenclature</span>
 
 ## G

@@ -8,21 +8,22 @@ Updated 2026-05-16. Tasks triggered by post publication and ongoing work.
 - [ ] Review links in scheduled posts before publication
 - [ ] Post `status:` field convention — codify the set and what each means
 - [ ] Historical posts (Jul/Aug) need editorial notes — they will publish after interrelational pluralism has been named
+- [ ] Blog post: mutualism — blog treatment
+
+## Schedule changes (2026-05-15)
+
+- Discovery posts (3) moved from Jun 4/12/20 to Aug 12/20/28
+- Category theory posts compressed to Jun 4–20 (every 4 days)
+- Noticing the Grid moved from May 22 to Jun 1
+- Perimeter posts (2) moved from Jul 20/28 to Jun 24/28
+- Privacy Naturally moved from June 28 to May 28 (earlier change, 2026-05-12)
 
 ## Posts needing review before publication
 
-### May (seed series — two-day cadence)
+### May
 
 | Date | Title | Status |
 |------|-------|--------|
-| May 1 | The Relational Reality of RQM | ready |
-| May 4 | Public Conscious Persona | ready |
-| May 6 | SPLectrum and First Principles | ready |
-| May 8 | First Principles — the Social Core | ready |
-| May 10 | The Birth of P0 | ready |
-| May 12 | The Seed, Language and Historicity | final review |
-| May 14 | The Seed and Human Reality | final review |
-| May 16 | Between Subjects | ready |
 | May 18 | Community as Luminosity | final review |
 | May 20 | From Seed to Interrelational Pluralism | final review |
 | May 24 | Mutualism Without Intent | Mandatory review |

@@ -1,80 +1,88 @@
 # Positioning entries needed
 
-Persons and subjects referenced on the site without their own entry. Prioritised by how much work they do on existing pages.
+Persons and subjects referenced on the site without their own entry. One list, descending by site-wide importance: cross-section reach, link frequency, load-bearing weight on existing pages. Work down the list; flip external links to internal as each page is created.
 
-## Persons — priority (load-bearing on current pages)
+## Persons
 
-- Prigogine, Ilya — arrow of time, from-arrow-to-historicity, dissipative structures
-- Schrödinger, Erwin — arrow of time, from-arrow-to-historicity, What is Life?
-- Boltzmann, Ludwig — arrow of time, statistical mechanics, entropy
-- Reichenbach, Hans — from-arrow-to-historicity, branch systems, direction of time
-- Berlin, Isaiah — positioning/interrelational-pluralism, value pluralism
-- Arendt, Hannah — positioning/interrelational-pluralism, political pluralism
-- Shannon, Claude — arrow of time, information theory
-- Penrose, Roger — arrow of time, low-entropy beginning
-- Carroll, Sean — arrow of time, From Eternity to Here
-- Hawking, Stephen — arrow of time, three arrows, psychological arrow
-- Albert, David — from-arrow-to-historicity, Past Hypothesis
-
-## Persons — second tier (named but less central)
-
-- Eddington, Arthur — arrow of time, named the concept
-- Landauer, Rolf — arrow of time, information thermodynamics
-- Anderson, Philip — arrow of time, emergence, "More is Different"
-- Gibbs, Josiah Willard — arrow of time, statistical mechanics
-- ~~Leibniz~~ — done (person page exists)
-- Maxwell, James Clerk — turn in science, electromagnetism
-- Heisenberg — turn in science, uncertainty
-- Bohr — turn in science, complementarity
-- Everett, Hugh — turn in science, many-worlds
-- Bohm, David — turn in science, hidden variables
-- De Broglie, Louis — turn in science, wave-particle duality
-- Planck, Max — turn in science, quantisation
-- ~~Hume, David~~ — done (person page exists)
-- Deleuze, Gilles — turn in science
-- Latour, Bruno — turn in science
-- Stengers, Isabelle — turn in science
-- Dahl, Robert — positioning/interrelational-pluralism
-- Laski, Harold — positioning/interrelational-pluralism
-- Democritus — positioning/interrelational-pluralism
-- Empedocles — positioning/interrelational-pluralism
-
-## Persons — third tier (passing references, blog posts)
-
-- Alan Turing — software languages post
-- David Wheeler — software languages post
-- Eilenberg, Samuel — category theory
-- Mac Lane, Saunders — category theory
-- ~~Maturana, Humberto~~ — done (person page created 2026-05-11)
-- Gerald Edelman — discovery multiplier post
-- Suzanne Simard — mutualism post
-- ~~Peter Kropotkin~~ — done (mutualism unit, 2026-05-15)
-- ~~Pierre-Joseph Proudhon~~ — done (mutualism unit, 2026-05-15)
-- ~~Robert Trivers~~ — done (mutualism unit, 2026-05-15)
-- ~~John Maynard Smith~~ — done (mutualism unit, 2026-05-15)
-
-## Persons — created in mutualism unit (2026-05-15)
-
-Not previously on this list but now live:
-
-- ~~Proudhon, Pierre-Joseph~~ — done
-- ~~Van Beneden, Pierre-Joseph~~ — done
-- ~~Darwin, Charles~~ — done
-- ~~Malthus, Thomas~~ — done
-- ~~Spencer, Herbert~~ — done
-- ~~Huxley, Thomas Henry~~ — done
-- ~~Kropotkin, Peter~~ — done
-- ~~Marx, Karl~~ — done
-- ~~Trivers, Robert~~ — done
-- ~~Maynard Smith, John~~ — done
-- ~~Kauffman, Stuart~~ — done
-- ~~Wallace, Alfred Russel~~ — done
-- ~~Lyell, Charles~~ — done
-
-## Subjects — created or updated in mutualism unit (2026-05-15)
-
-- ~~Mutualism~~ — rewritten (2026-05-15)
-- ~~Darwinism~~ — initial single-page treatment (2026-05-15), section build-out planned
+- Dawkins, Richard — gene-centric view, memes, universal Darwinism; 4 wiki links across mechanism, after-synthesis, cultural-extensions
+- Mayr, Ernst — biological species concept, organism-as-target-of-selection, Synthesis architect; 3 links across mechanism, integration, after-synthesis
+- Fisher, R. A. — population genetics founder, runaway sexual selection, fundamental theorem; also eugenics; 3 links across mechanism, integration, social-darwinism
+- Lewontin, Richard — three-conditions formalisation, Spandrels critique, anti-reductionism; 2 links across mechanism, cultural-extensions
+- Prigogine, Ilya — dissipative structures, irreversibility; arrow of time, from-arrow-to-historicity
+- Schrödinger, Erwin — What is Life?, wave equation; arrow of time, from-arrow-to-historicity
+- Boltzmann, Ludwig — statistical mechanics, entropy, H-theorem; arrow of time
+- Berlin, Isaiah — value pluralism, incommensurability of values; interrelational-pluralism (priority for seed buildup)
+- Arendt, Hannah — plurality as the human condition, political pluralism; interrelational-pluralism (priority for seed buildup)
+- Dennett, Daniel — Darwin's Dangerous Idea, universal Darwinism, consciousness, intentionality; cultural-extensions
+- Haldane, J. B. S. — population genetics, cost of natural selection, polymath; 2 links, integration
+- Mendel, Gregor — discrete hereditary factors, foundation of genetics; integration
+- Gould, Stephen Jay — punctuated equilibrium, Spandrels, Structure of Evolutionary Theory; after-synthesis
+- Dobzhansky, Theodosius — Synthesis architect, Genetics and the Origin of Species, "nothing in biology makes sense"; integration
+- Wright, Sewall — adaptive landscape, genetic drift, population structure; integration
+- Hamilton, W. D. — inclusive fitness, kin selection; after-synthesis
+- Kimura, Motoo — neutral theory of molecular evolution; after-synthesis
+- Williams, George C. — Adaptation and Natural Selection, gene-centric critique of group selection; after-synthesis
+- Putnam, Hilary (+Davidson) — internal realism, conceptual relativity; interrelational-pluralism (scheduled Sep)
+- MacIntyre, Alasdair — tradition-constituted rationality; interrelational-pluralism (scheduled Sep)
+- Hayek, Friedrich — knowledge problem, spontaneous order; interrelational-pluralism (scheduled Sep)
+- Oakeshott, Michael — practical knowledge, critique of rationalism; interrelational-pluralism (scheduled Oct)
+- Cassirer, Ernst — symbolic forms: language, myth, science, art; interrelational-pluralism (scheduled Oct)
+- Nagarjuna — emptiness (sunyata), dependent origination; interrelational-pluralism (candidate)
+- Reichenbach, Hans — branch systems, direction of time; from-arrow-to-historicity
+- Shannon, Claude — information theory; arrow of time
+- Penrose, Roger — low-entropy beginning, Penrose diagrams; arrow of time
+- Hawking, Stephen — three arrows, psychological arrow; arrow of time
+- Albert, David — Past Hypothesis; from-arrow-to-historicity
+- Margulis, Lynn — endosymbiosis, symbiotic view of cellular evolution, Gaia; common-descent
+- Pinker, Steven — evolutionary psychology advocate, The Blank Slate; cultural-extensions
+- Huxley, Julian — coined "Modern Synthesis", Evolution: The Modern Synthesis (1942); mechanism, social-darwinism
+- Galton, Francis — coined "eugenics", regression/correlation, biometrics; social-darwinism
+- Woese, Carl — three domains, ribosomal-RNA reorganisation of life; common-descent
+- Pearson, Karl — biometrics, statistics, also eugenics; integration, social-darwinism
+- Maxwell, James Clerk — electromagnetism, statistical mechanics; turn in science
+- Heisenberg, Werner — uncertainty principle; turn in science
+- Planck, Max — quantisation; turn in science
+- Sober, Elliott — multi-level selection, philosopher of biology; mechanism
+- Wilson, David Sloan — multi-level selection, contemporary group selection; mechanism
+- Eldredge, Niles — punctuated equilibrium (with Gould); after-synthesis
+- Fodor, Jerry — modularity of mind, critique of adaptationism; cultural-extensions
+- Hull, David — Science as a Process, selection theory applied to science; cultural-extensions
+- Sperber, Dan — cultural transmission critique, epidemiology of representations; cultural-extensions
+- Eddington, Arthur — named "arrow of time"; arrow of time
+- Eilenberg, Samuel — category theory (with Mac Lane)
+- Mac Lane, Saunders — category theory (with Eilenberg)
+- Carroll, Sean — From Eternity to Here; arrow of time
+- Bohr, Niels — complementarity; turn in science
+- Everett, Hugh — many-worlds interpretation; turn in science
+- Landauer, Rolf — information thermodynamics; arrow of time
+- Anderson, Philip — emergence, "More is Different"; arrow of time
+- Gibbs, Josiah Willard — statistical mechanics; arrow of time
+- Bohm, David — hidden variables, implicate order; turn in science
+- De Broglie, Louis — wave-particle duality; turn in science
+- Simpson, George Gaylord — paleontology in the Synthesis, Tempo and Mode; integration
+- Hofstadter, Richard — Social Darwinism in American Thought (1944); social-darwinism
+- Veblen, Thorstein — institutional economics, "Why is economics not an evolutionary science?"; cultural-extensions
+- Schumpeter, Joseph — creative destruction; cultural-extensions
+- Boyd, Robert & Richerson, Peter — dual-inheritance theory, Culture and the Evolutionary Process; cultural-extensions
+- Henrich, Joseph — cumulative culture, The Secret of Our Success; cultural-extensions
+- Cosmides, Leda & Tooby, John — founders of evolutionary psychology, The Adapted Mind; cultural-extensions
+- von Baer, Karl Ernst — embryological laws, pre-Darwinian shared developmental patterns; common-descent
+- Doolittle, W. Ford — tree-of-life critique, horizontal gene transfer; common-descent
+- de Vries, Hugo — Mendel's rediscoverer, mutation theory; integration
+- Bateson, William — coined "genetics", Mendelian advocate; integration
+- Stebbins, G. Ledyard — botany in the Synthesis; integration
+- Sumner, William Graham — American Social Darwinism case study; social-darwinism
+- Deleuze, Gilles — multiplicity, difference, rhizome; turn in science
+- Latour, Bruno — actor-network theory, modes of existence; turn in science
+- Stengers, Isabelle — cosmopolitics, ecology of practices; turn in science
+- Dahl, Robert — pluralist democracy; interrelational-pluralism
+- Laski, Harold — political pluralism; interrelational-pluralism
+- Democritus — atomism; interrelational-pluralism
+- Empedocles — four elements, love and strife; interrelational-pluralism
+- Turing, Alan — computability, Turing machine; software languages post
+- Wheeler, David — subroutine invention; software languages post
+- Edelman, Gerald — neural Darwinism, neuronal group selection; discovery multiplier post
+- Simard, Suzanne — mycorrhizal networks, mother trees; mutualism post
 
 ## Subjects — candidates
 
