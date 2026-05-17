@@ -71,7 +71,16 @@ Conversational but unhurried. Thinking aloud in good company — not lecturing, 
 
 **Alongside, not above.** Two ways of thinking placed next to each other. No ranking. Each position understood within its own context first.
 
-**SPLectrum as place, not actor.** SPLectrum is the architecture the reader inhabits — what they reach for, the vantage they look from — not a figure performing while the reader watches. The `is-like` principle (`editorial-principles.md`) expressed in grammatical position: SPLectrum is the building, the facilities, the vocabulary; the reader is the one who avails of what is there. Verbs of perception, action, and judgment belong to the reader, not to SPLectrum. "SPLectrum reads X as Y" becomes "Within SPLectrum, X is read as Y" or "From SPLectrum, X looks like Y." "The seed handles X" becomes "X is handled within the seed's architecture." "SPLectrum makes a move" becomes "The move available within SPLectrum is…" The grammar puts the reader in the active position, with SPLectrum as the structure they inhabit rather than the figure they observe. This applies wherever SPLectrum or the SPLectrum seed is referred to — ref lib, blog, positioning, fence work alike. The framing is the look-what-you-can-avail-of stance, not the see-what-he-does-isn't-he-good stance.
+**SPLectrum as a structure of insights, not actor or container.** SPLectrum is a foundational structure of insights into the relational nature of language and being. Its principles articulate features of a common dynamic at the relational layer — what is there as insight. SPLectrum is not a figure that performs, not a place observations show up in, and not a system that runs.
+
+Grammatical practice:
+
+- *Avoid actor grammar.* Verbs of perception, action, and judgment do not belong to SPLectrum. Not "SPLectrum reads X as Y," not "the SPLectrum reading shows," not "SPLectrum sees," not "the seed says."
+- *Avoid container/system grammar.* SPLectrum is not a place X happens in or a system that runs. Not "within the SPLectrum context, X happens," not "within the SPLectrum seed, X shows up," not "from SPLectrum, X looks like Y," not "P5 operates here," not "where P3 shows up."
+- *Reference principles as insight-vocabulary.* Where a principle does load-bearing work in the writing, reference it directly: "this is what P1 articulates — relation determining what something is." Sparingly, where it carries weight; not as per-feature attribution at every turn.
+- *Describe the common dynamic directly.* "Below the language game sits a dynamic of X, Y, Z." Don't route observations of the world through SPLectrum as if they showed up there; describe them at the relational layer.
+
+This applies wherever SPLectrum or the SPLectrum seed is referred to — ref lib, blog, positioning, fence work alike. Both actor and container grammar are easy to slip into; both need explicit watch.
 
 ---
 
@@ -87,7 +96,7 @@ The framework voice — speaks *from within* the project.
 - Seed principles (P0-P5) as explicit reference points
 - "Unpacking" as metaphor — the seed contains complexity to unfold
 - Explicit about disclaiming imposition
-- SPLectrum positioned grammatically as place inhabited, not actor performing (see "How the voice thinks" — *SPLectrum as place, not actor*)
+- SPLectrum positioned grammatically as structure of insights, not actor or container (see "How the voice thinks" — *SPLectrum as a structure of insights*)
 - Engineering vocabulary that doesn't appear in other personas
 
 ---

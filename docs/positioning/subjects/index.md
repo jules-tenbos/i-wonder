@@ -30,7 +30,7 @@ These are subjects of importance to SPLectrum, referenced within the site.
 
 ## M
 
-- [Mutualism](m/mutualism) · biology, complex systems<span class="kw">the mutualism narrative through complex adaptive systems</span>
+- [Mutualism](m/mutualism/) · biology, social and economic thought<span class="kw">relationships of mutual benefit across two parallel traditions — ecological and socio-political — from their shared nineteenth century origins to the present</span>
 
 ## O
 

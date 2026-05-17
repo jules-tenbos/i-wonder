@@ -27,6 +27,16 @@ The discipline is that each surface does one job. SPLectrum-side reading of a th
 
 Full, honest, independent account. Present the thinker or subject on their own terms — what they said, what they did, what the subject is. Use their own words where possible, attribute interpretations.
 
+**Full breadth, not curated narrative.** A subject is everything that constitutes it — its core development, the persons and works that carry it, its internal conflicts and controversies, its contested receptions, its mutations and appropriations, its influence on adjacent traditions. Influence is part of a subject. Coverage is comprehensive on the breadth axis; depth is managed by internal and external linking, not by omission.
+
+A mutualism subject page that names Proudhon and the American individualists but elides Marx's attack on Proudhon, the IWA period, Bakunin's split, and the contested libertarian / free-market-socialist reception of Tucker is a coloured version, not the subject on its own terms. The conflictual, appropriated, and mutated parts are not "outside" mutualism; they are mutualism in the world. The instinct that produces the curation is the same one that puts SPLectrum vocabulary on the page — filtering for what fits a tidier narrative. The tidier narrative is not the subject.
+
+Test: would a reader who doesn't know SPLectrum exists find this an honest, full account of the subject? If conflicts, attacks, and contested appropriations are absent or compressed past recognition, the page is curated.
+
+Touchstone over comprehensive applies — but at the depth level, not the breadth level. Mention the strand; link to the persons or subjects where depth lives. The breadth is non-negotiable; the depth is delegated to the link network.
+
+The same discipline applies on persons pages. A person is everything that constitutes them — their work, their conflicts, who they influenced, who attacked them, contested receptions of their work, posthumous appropriations. Coverage is full; depth via linking.
+
 **No SPLectrum vocabulary anywhere on the page.** Not in the body, not in the intro, not in the closer, not in see-also. If the connection to the seed needs a label to land somewhere, it is being asked to do work that another bucket is built to do. Trust the architecture.
 
 A "where X stops" or "what X doesn't address" closer can still exist where it is useful, but framed as the thinker's own boundaries — the questions sitting outside their programme — not as the gap between them and SPLectrum. Stating that Solé's framework stays with the physical and computational, and that questions of how decentralised systems constitute shared meaning sit outside his programme, is descriptive and useful. Framing the same content as "SPLectrum asks what he doesn't" turns the page into a SPLectrum-side reading.
@@ -63,7 +73,19 @@ Brief framing of what the ring is for (one or two paragraphs at most), followed 
 
 ## On the fence
 
-The only positioning surface where dissonance is engaged. The structural test: material whose vocabulary or language is in conflict with SPLectrum's own — it cannot sit side by side, and the page does conflict-work rather than the assembly-work the resonance rings do. Resonance and dissonance both examined — what overlaps, what diverges, what the friction reveals. Equal standing maintained: SPLectrum engages as an equal, not as judge.
+The only positioning surface where dissonance is engaged. Fence pages are particular and not easy — the discipline is precise and the failure modes are predictable.
+
+**Layered framing.** Below any specific language game sits a common dynamic at the relational layer. SPLectrum's principles articulate features of that common dynamic. A framework's vocabulary often carries a colouring — a narrative of the pathway by which observations come about — that locates the pathway at a different layer from where it actually operates. The fence is where this mismatch is named. It is not where two competing vocabularies meet on the same plane.
+
+**Equal standing.** The framework's colouring is internally coherent within the frame that supports it. The fence does not declare the framework wrong; it describes how the colouring narrates the pathway differently from what is observable at the relational layer. Persons working within a tradition are honoured in their own terms — the fence is with what travels forward in the vocabulary, not with the thinkers.
+
+**Reasoning discipline.** Don't conflate the observation with the narrative of its pathway. The observations a framework makes can be real and shared empirical ground; the narrative of how those observations come about is a separate matter. Where that narrative is misapplied — for example, agent-level intent invoked to explain system-level emergent patterns — the colouring is wrong, not optional. Avoid framings like *"the dynamic doesn't need the colouring to do so"* — that treats the colouring as an optional ingredient. The colouring is a (wrong) narrative of the pathway; describe it as such.
+
+**Reference, don't re-walk.** Fence pages assume the subject is known. Refer to the subject pages where the tradition lives in full; bring forward only the material load-bearing to the diagnosis. Touchstone over comprehensive applies more strictly than on a ref lib page, because the subject is already covered. Long walks through thinkers and movements belong in the subject pages — not the fence.
+
+**Show, don't tell.** Fence work feels exposed and pulls toward self-justification. Resist. Do the diagnosis; don't narrate the doing. Avoid sentences that explain what the page is doing or justify its discipline (*"the fence is with what travels forward, not with the persons,"* *"the page exposes X, not Y,"* *"what creates friction is what carries them"*). Embody the framing; do not state it. See `editorial-principles.md` for the broader principle.
+
+**Place grammar.** Actor grammar and container/system grammar are both easy to slip into on fence work; the container trap is especially common because the writing engages with another framework. See `tone-of-voice.md` for the full discipline.
 
 ## See also on person/subject pages
 
@@ -88,5 +110,5 @@ The reference function rests on the same discipline. A site whose person pages a
 - Person/subject pages: the entire page is outside voice — no SPLectrum vocabulary, no seed references, no quiet pointers. State what the thinker said and did. Don't reframe the thinker's concepts in SPLectrum terms.
 - The failure mode to watch for on person/subject pages: sentences that frame a thinker as confirming or leading to the seed, or that put SPLectrum and the thinker in a sentence together. Each is a signal that the SPLectrum-side reading is intruding where another bucket is built to hold it.
 - Seed / close / wider: topic-driven pieces walking through thinkers and subjects under a chosen angle, with SPLectrum threaded alongside. Resonance only — limits noted as additive (where the seed picks up), not as dissonance. Landing pages frame the ring briefly and index the pieces.
-- Fence: full engagement, the only surface where dissonance lives. Resonance and dissonance both named and worked through.
+- Fence: the only surface where dissonance is engaged. Layered framing, equal standing, reasoning discipline, reference-not-re-walk, show-don't-tell, place grammar — see the On the fence subsection above for the full discipline.
 - See also on person/subject pages: within-positioning interlinking primary; SPLectrum-side links separate or omitted; empty is honest.

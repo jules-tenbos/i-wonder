@@ -78,6 +78,10 @@ Ref lib pages serve as touchstones — reference points that touch on the topic 
 - Three named thinkers usually enough. Four starts to read as a parade; five is a list.
 - When in doubt, cut. Missing depth is fixable; cluttered pages are hard to clean up.
 
+### Show, don't tell — no meta-commentary about method
+
+Pages do their work; they do not narrate their work. Sentences that explain what the page is doing, justify its discipline, or gloss the structural move belong to briefs, drafts, and editorial notes — not to the page itself. Watch for patterns like *"the page exposes X, not Y,"* *"the fence is with W, not with the persons,"* *"the phenomena are not in question — what creates friction is what carries them,"* *"its internal logic is sound within it."* Each is the writer narrating method rather than embodying it. Trust the writing to carry the framing through observation, description, and structural placement.
+
 ### Signpost the road ahead
 
 When something is planned ahead or under active development, say so. Don't treat "more coming" as a defect to hide behind silence. Pointing at the road ahead is part of the site's honesty about what it is.
