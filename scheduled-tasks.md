@@ -26,18 +26,13 @@ Updated 2026-05-16. Tasks triggered by post publication and ongoing work.
 |------|-------|--------|
 | May 18 | Community as Luminosity | final review |
 | May 20 | From Seed to Interrelational Pluralism | final review |
-| May 24 | Mutualism Without Intent | Mandatory review |
+| May 24 | Noticing the Grid | final revision |
 
 ### June
 
 | Date | Title | Status |
 |------|-------|--------|
-| Jun 1 | Noticing the Grid | final revision |
-| Jun 4 | The Seed and Category Theory | mandatory review |
-| Jun 8 | The Wrapper | mandatory review |
-| Jun 12 | Is Like, Is | mandatory review |
-| Jun 16 | Meaning Patterns Travel | mandatory review |
-| Jun 20 | The Friction with 1-Categorical Thinking | mandatory review |
+| Jun 1 | How a Crash Put Me on Course | final review |
 | Jun 24 | A View from the Perimeter | Mandatory review |
 | Jun 28 | A View from the Perimeter — The Thinking Side | Mandatory review |
 
@@ -45,11 +40,12 @@ Updated 2026-05-16. Tasks triggered by post publication and ongoing work.
 
 | Date | Title | Status |
 |------|-------|--------|
-| Jul 1 | How a Crash Put Me on Course | final review |
+| Jul 1 | *open slot* | |
 | Jul 4 | Decentralised Process Models | Mandatory review |
 | Jul 8 | Wiring the Brain | final review |
 | Jul 12 | I Know That I Don't Know | Mandatory review |
 | Jul 16 | No Life Without Death | final review |
+| Jul 20 | Mutualism Without Intent | review |
 | Jul 24 | Promises Made, Promises Broken | final review |
 
 ### August
@@ -64,6 +60,16 @@ Updated 2026-05-16. Tasks triggered by post publication and ongoing work.
 | Aug 20 | Diversified Discovery | Mandatory review |
 | Aug 24 | Embracing Anti-Foundationalism | final review |
 | Aug 28 | The Discovery Multiplier | Mandatory review |
+
+### September
+
+| Date | Title | Status |
+|------|-------|--------|
+| Sep 1 | The Seed and Category Theory | mandatory review |
+| Sep 4 | The Wrapper | mandatory review |
+| Sep 8 | Is Like, Is | mandatory review |
+| Sep 12 | Meaning Patterns Travel | mandatory review |
+| Sep 16 | The Friction with 1-Categorical Thinking | mandatory review |
 
 ## Parked work
 

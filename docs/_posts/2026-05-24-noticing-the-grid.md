@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Noticing the Grid"
-date: 2026-06-01
+date: 2026-05-24
 lastmod: 2026-05-13
 labels: [SPLectrum, comment]
 description: "I sketched out the homepage sections and saw a structure I hadn't put there on purpose."
