@@ -36,7 +36,7 @@ Epistemology is where the position does its most distinctive work. Knowledge is 
 
 And yes, the relativism worry comes up. If no language is privileged, does anything go? P4 and P5 put the apparatus on the table. Communities are not isolated — they overlap, share substrate, relate. But relatedness is not agreement, and not authority to direct. One community's judgment of another may itself be a community-bound misreading; there is no clean view from outside. Where genuine difference remains, no community has cross-community right to direct — what we have is the work of sharing, convergence where it is possible, and remedial response where it isn't, aimed at minimising cross-community harm rather than at punishment or transcendent judgment. That is not relativism. Naive relativism treats communities as bubbles; P4 says they aren't. Objectivity is community-bound, but communities are not.
 
-This position starts from the human case — because that is where we are, and where the material is richest. The principles do not stop there, but we will.
+This position starts from the human case — because that is where we are, and where the material is richest. The principles do not stop there, but we will, for now.
 
 Welcome to the home of Interrelational Pluralism.
 
