@@ -35,7 +35,7 @@ Test: would a reader who doesn't know SPLectrum exists find this an honest, full
 
 Touchstone over comprehensive applies — but at the depth level, not the breadth level. Mention the strand; link to the persons or subjects where depth lives. The breadth is non-negotiable; the depth is delegated to the link network.
 
-The same discipline applies on persons pages. A person is everything that constitutes them — their work, their conflicts, who they influenced, who attacked them, contested receptions of their work, posthumous appropriations. Coverage is full; depth via linking.
+**Person pages: scope is the person and their work.** A person page covers life, formation, writings, lifetime conflicts and collaborations, and contested questions about their own corpus and archive. Where a thinker's work has given rise to a tradition that travels under their name — Marxism, for instance — that tradition's afterlife (schools formed, contested theory-receptions, appropriations and mutations) belongs on the subject page that holds the tradition. The person page may name that subject's existence; it does not develop it. Coverage is full on the person-and-work axis; depth via linking.
 
 **No SPLectrum vocabulary anywhere on the page.** Not in the body, not in the intro, not in the closer, not in see-also. If the connection to the seed needs a label to land somewhere, it is being asked to do work that another bucket is built to do. Trust the architecture.
 
@@ -109,6 +109,7 @@ The reference function rests on the same discipline. A site whose person pages a
 
 - Person/subject pages: the entire page is outside voice — no SPLectrum vocabulary, no seed references, no quiet pointers. State what the thinker said and did. Don't reframe the thinker's concepts in SPLectrum terms.
 - The failure mode to watch for on person/subject pages: sentences that frame a thinker as confirming or leading to the seed, or that put SPLectrum and the thinker in a sentence together. Each is a signal that the SPLectrum-side reading is intruding where another bucket is built to hold it.
+- Person pages stay bounded to the person and their work. Where a thinker's work has given rise to a tradition under their name, the tradition's afterlife — schools, contested theory-receptions, appropriations, mutations — belongs on the subject page, not the person page.
 - Seed / close / wider: topic-driven pieces walking through thinkers and subjects under a chosen angle, with SPLectrum threaded alongside. Resonance only — limits noted as additive (where the seed picks up), not as dissonance. Landing pages frame the ring briefly and index the pieces.
 - Fence: the only surface where dissonance is engaged. Layered framing, equal standing, reasoning discipline, reference-not-re-walk, show-don't-tell, place grammar — see the On the fence subsection above for the full discipline.
 - See also on person/subject pages: within-positioning interlinking primary; SPLectrum-side links separate or omitted; empty is honest.
