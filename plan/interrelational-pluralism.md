@@ -11,7 +11,6 @@ SPLectrum has landed on its position: interrelational pluralism. Named May 20, 2
 
 ## Open tasks
 
-- [ ] **May 24 post** — at mandatory review
 - [ ] **IP-load-bearing positioning entries** — Berlin, Arendt as priorities (Connolly done). Tracked in `plan/positioning-entries-needed.md`.
 - [ ] **Historical posts editorial notes** — posts republished after IP was named need editorial notes
 - [ ] **Positioning research** — neighbourhood mapping, tentatively Sep–Dec, can start earlier

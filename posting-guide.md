@@ -15,7 +15,7 @@ Posts live in `docs/_posts/` as Jekyll markdown with front matter. Future-dated 
 
 Blog cadence is layered: roughly weekly as a minimum schedule looking four months ahead, every four days as a target schedule with a two-month ahead window, and when there is additional material posts slot in between — creating a local two-day cadence. Posts are rescheduled as needed so the storyline makes sense.
 
-- Schedule time: 10:00 UTC.
+- Schedule time: 02:00 UTC.
 - Active schedule tracked in `scheduled-tasks.md`.
 - Main and topnav update as the work evolves, not on a cadence.
 
@@ -190,7 +190,7 @@ Syntax:
 
 The include compares `site.time` (build time) against the `date` parameter. If the build is on or after the publish date, the sentence is emitted into the page; otherwise, nothing. This guarantees the link can only appear in a build that also includes the target post.
 
-A daily rebuild runs at 10:00 UTC via `.github/workflows/daily-rebuild.yml`, re-evaluating all pending links against the current date.
+A daily rebuild runs at 02:00 UTC via `.github/workflows/daily-rebuild.yml`, re-evaluating all pending links against the current date.
 
 **Local preview of pending links.** The include honours Jekyll's `--future` flag — when set, all pending links emit regardless of date (same flag that exposes future-dated posts). To preview everything as it will eventually look:
 
