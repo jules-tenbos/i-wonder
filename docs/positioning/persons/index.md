@@ -103,6 +103,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Sartre, Jean-Paul (1905–1980)](s/sartre) · philosopher<span class="kw">existentialism, radical freedom, consciousness as nothingness, engagement</span>
 - [Saussure, Ferdinand de (1857–1913)](s/saussure) · linguist<span class="kw">structural linguistics, the differential sign, langue and parole</span>
 - [Solé, Ricard (1962–)](s/sole) · complex systems scientist<span class="kw">liquid brains, solid brains, criticality, phase transitions</span>
+- [Stengers, Isabelle (1949–)](s/stengers) · philosopher of science<span class="kw">cosmopolitics, ecology of practices, reciprocal capture, Thinking with Whitehead</span>
 - [Spencer, Herbert (1820–1903)](s/spencer) · philosopher, sociologist<span class="kw">synthetic philosophy, survival of the fittest, social organism, evolution as universal principle</span>
 - [Spinoza, Baruch (1632–1677)](s/spinoza) · philosopher<span class="kw">substance monism, determination as negation, conatus</span>
 

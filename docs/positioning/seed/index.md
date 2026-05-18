@@ -16,3 +16,4 @@ Trajectory pieces that trace the historical and intellectual paths leading to th
 - [The Arrow of Time](the-arrow-of-time) — from time-symmetric particles to entropy and emergence: a prerequisite to historicity
 - [From Arrow to Historicity](from-arrow-to-historicity) — how irreversibility, traces, and retention connect across thermodynamics, biology, and philosophy
 - [Interrelational Pluralism](interrelational-pluralism) — the structural mechanism of creative interaction across frameworks
+- [Two-Pronged Anti-Representationalism](two-pronged-anti-representationalism) — Whitehead from nature, Rorty from language: two halves of one gesture against the mirror
