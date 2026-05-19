@@ -1,6 +1,6 @@
 # Scheduled Tasks
 
-Updated 2026-05-18. Tasks triggered by post publication and ongoing work.
+Updated 2026-05-19. Tasks triggered by post publication and ongoing work.
 
 ## Standing tasks
 
@@ -23,7 +23,6 @@ Updated 2026-05-18. Tasks triggered by post publication and ongoing work.
 
 | Date | Title | Status |
 |------|-------|--------|
-| May 18 | Community as Luminosity | ready |
 | May 20 | From Seed to Interrelational Pluralism | ready |
 | May 24 | Noticing the Grid | ready |
 | May 28 | Privacy Naturally | mandatory review |

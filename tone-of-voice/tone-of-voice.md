@@ -1,192 +1,55 @@
 # Tone of Voice
 
-How we sound and how we think. Derived from cold observation of the writing itself, not from how we think we should write. Reviewed April 2026 across all published posts.
-
-The voice is one person across all registers. What changes is how much that person steps forward and what the material demands. The shared qualities hold everywhere. The register profiles below describe how the voice sounds and thinks differently depending on the work. The site uses "persona" as a label convention on blog posts (SPLectrum, comment, thought, named source); the analytical distinction here is register, not identity.
+The voice is one person across all registers. What changes is how much that person steps forward and what the material demands. The site has three axes — the personal (topnav: Jules speaking directly), the informational (homepage boxes: the material speaks), and the conversational (blog: thinking in motion). Three paths in, reinforcing each other through cross-links, not collapsing into one voice.
 
 ---
 
-## Three axes of the site (voice split)
+## Four guiding moves
 
-The site has three axes, each with its own voice:
+These hold throughout the site. Where writing slips, the writer returns here.
 
-- **Topnav (About / HAICC / P2P) — the personal axis.** Author voice, Jules speaking directly as himself. The person behind the project.
-- **Homepage boxes (nine areas in a 3×3 grid) — the informational axis.** Narrator, reference voice. The material speaks, not a person. Impersonal, structural.
-- **Posts (blog) — the conversational axis.** Thinking in motion. Voice follows persona label — author for thought/comment, personal SPLectrum for seed/engineering, narrator for other persona posts.
+**Is-like, not is.** Prefer resonance, analogy, family-resemblance over identification. "Rhymes with," "resonates with," "is in the family of" — not "is the same as," "amounts to," "is really." Setting examples, not declaring. When the underlying material is genuinely diverse, the surface should reflect that diversity.
 
-Three legitimate paths in, each with its own register and purpose. Someone arriving via topnav meets the person; someone entering via a homepage box meets the structured material; someone reading a post joins the ongoing conversation. The three axes reinforce each other through deliberate cross-links but don't collapse into one voice.
+**Let analogies carry structural insights.** When working with complementarity, duality, or relational structure, find the right figures (particle-wave, yin-yang, foreground-background) and trust them. The duality lives in the relation between two whole figures, not in part-to-part mapping. The touching is what makes them work; forcing exact correspondence loses what was being carried.
 
-**Vocabulary consistency is an informational-axis requirement, not a site-wide one.** Ref lib pages need consistent vocabulary across pages — readers jump between pages and expect terms to mean the same thing; that's how the cumulative structural message lands. Topnav and blog pages are standalone bubbles — each is its own act of communication and can use whatever vocabulary best serves the message, including aspirational or colloquial framings that wouldn't fit the ref lib. No imposition either way: use the vocabulary that helps the reader on that page.
+**Touchstone, not comprehensive.** Pages are reference points that touch on the topic enough to hold the point, then stop. Lighter wins over heavier as long as the point lands. Three named thinkers usually enough; four starts to read as a parade. Missing depth is fixable; cluttered pages aren't. When in doubt, cut.
 
-**Within the informational axis, positioning is "the outside voice".** Most ref lib areas carry SPLectrum's own work (seed, reality, engineering, language, vocabulary) — the project speaking from its own territory. Positioning is different: it holds existing thought on its own terms, honouring each tradition, framework, or thinker as they come rather than bending them toward SPLectrum's framing. Still narrator voice, still informational axis — but the subject matter is external, and the stance is one of listening-and-placing, not claiming.
+**No claims.** Don't claim the framework "shows" or "proves." Don't assert from above. Don't speak for thinkers; let them speak. Default to "this suggests," "from here we can see," "one way of reading." Offering, not imposing.
 
 ---
 
-## Shared foundation
+## Registers
 
-### How the voice sounds
+**Personal — topnav (About, HAICC, P2P).** Author voice; Jules speaking directly. Confidence allowed; the check is honesty over performance. First person as anchor — declares its position rather than pretending to speak from nowhere.
 
-Conversational but unhurried. Thinking aloud in good company — not lecturing, not performing. The register sits between informal and semi-formal: contractions freely, sentences starting with "But" and "And," yet the vocabulary stretches into philosophical and technical territory when the subject demands it. The voice never code-switches into academic prose. Even discussing Heisenberg or Fichte, it stays in one register — the one a thoughtful person would use at a dinner table with friends who happen to be interested.
+**SPLectrum — framework register.** Where the seed and its work are exposited. Assured but invitational — "let's see if this holds." Principles as insight-vocabulary, sparingly. SPLectrum is a structure of insights, not an actor or container: no "the seed says," no "within SPLectrum, X happens," no "SPLectrum reads X as Y." Describe the common dynamic directly; don't route observations through SPLectrum as if they showed up there. Engineering posts use the SPLectrum register with a vocabulary shift (Being → Entity, Language → Protocol, Subject → Owner, Reality → Data state).
 
-### Consistent patterns
+**Positioning — persons and subjects (A–Z).** Outside voice. Hold the subject on its own terms, in full breadth. No SPLectrum vocabulary anywhere on the page — not in the body, not in the intro, not in see-also. If the connection to the seed needs a label to land, it is being asked to do work that another surface is built to do.
 
-**First person as anchor.** The voice declares its position rather than pretending to speak from nowhere. In expository posts the "I" recedes but the perspective remains situated.
+**Positioning — seed, close affinity, wider landscape, on the fence.** Where SPLectrum-side reading lives. Seed, close affinity, and wider landscape are resonance rings on the side of compatibility — limits noted as additive ("the principles go beyond here"), not adversarial ("fails to address"). On the fence is the only surface where dissonance is engaged; it describes colourings without ranking. Matter-of-fact, structural register throughout.
 
-**Concrete to abstract and back.** The writing begins with something tangible — a dinner party, a fire, binary code on a 6502 — climbs toward a principle, then often returns to the concrete for a closing beat. This is the dominant structural rhythm.
+**Blog post — conversational axis.** Thinking in motion. Voice follows persona label: SPLectrum (framework in conversational form), comment (behind-the-scenes, most casual), thought (personal, exploratory, raw), named source (biographical narrative; the material leads, the voice absorbs the subject's energy and vocabulary).
 
-**Short declarative sentences for emphasis.** When a key idea arrives, the sentence gets shorter. "Then it tore." "I think it can." These land hard on what matters.
-
-**Dashes and asides.** Em-dashes and mid-sentence qualifications create the texture of real-time thought. The writer interrupts, corrects, adds a caveat, continues. The reader sees the thinking being refined.
-
-**Italics for weight, not decoration.** Sparingly, always carrying semantic work.
-
-**No jargon without immediate unpacking.** The voice builds shared vocabulary within each post.
-
-**Linking to sources, not asserting authority.** Shows its work conversationally. "Here is where I found this, go look for yourself."
-
-**Rhetorical questions used genuinely.** They function as pivot points where the writing changes direction, not as setups for predetermined answers.
-
-### What the voice avoids
-
-- Certainty and declaration from above — even the seed is presented as needing stress-testing
-- Academic apparatus — no footnotes, no "as Smith (2021) argues"
-- Polemic and adversarial framing — disagreement framed as "I see it differently," anger aimed at structures not people
-- Exclamation marks — the content carries its own weight
-- Hedging to the point of emptiness — qualifications are genuine, not defensive
-- Enthusiasm markers that label instead of showing — "fascinating" and "exciting" add nothing when the content already carries energy
-
-### How the voice thinks
-
-**Synthetic, not narrowly analytic.** The voice draws connections across domains — software engineering and phenomenology, quantum physics and dinner parties — and treats them as structural, not metaphorical. Pattern recognition across domains is the deepest characteristic.
-
-**Evolutionary.** Ideas build across posts. The voice returns to earlier formulations, revises them, openly narrates the process of revision. It thinks in layers, not in leaps.
-
-**Anti-hierarchical.** No God's-eye view in epistemology, no central authority in engineering, no imposed values in community. This shapes the rhetoric — the voice never talks down, never says "obviously" or "clearly," treats the reader as a peer.
-
-**Simplicity of foundation, complexity of expression.** Drawn to minimal starting points and loves watching what unfolds from them.
-
-**Observational, not evaluative.** Describes what is there, not what it means for us. If something supports the position, that is visible without labelling it.
-
-**Relational, not factual.** The default is: how do things connect? What happens between them? Facts are positions in a relation — the insight lives in the connections.
-
-**Alongside, not above.** Two ways of thinking placed next to each other. No ranking. Each position understood within its own context first.
-
-**SPLectrum as a structure of insights, not actor or container.** SPLectrum is a foundational structure of insights into the relational nature of language and being. Its principles articulate features of a common dynamic at the relational layer — what is there as insight. SPLectrum is not a figure that performs, not a place observations show up in, and not a system that runs.
-
-Grammatical practice:
-
-- *Avoid actor grammar.* Verbs of perception, action, and judgment do not belong to SPLectrum. Not "SPLectrum reads X as Y," not "the SPLectrum reading shows," not "SPLectrum sees," not "the seed says."
-- *Avoid container/system grammar.* SPLectrum is not a place X happens in or a system that runs. Not "within the SPLectrum context, X happens," not "within the SPLectrum seed, X shows up," not "from SPLectrum, X looks like Y," not "P5 operates here," not "where P3 shows up."
-- *Reference principles as insight-vocabulary.* Where a principle does load-bearing work in the writing, reference it directly: "this is what P1 articulates — relation determining what something is." Sparingly, where it carries weight; not as per-feature attribution at every turn.
-- *Describe the common dynamic directly.* "Below the language game sits a dynamic of X, Y, Z." Don't route observations of the world through SPLectrum as if they showed up there; describe them at the relational layer.
-
-This applies wherever SPLectrum or the SPLectrum seed is referred to — ref lib, blog, positioning, fence work alike. Both actor and container grammar are easy to slip into; both need explicit watch.
+Section-specific application notes (fence discipline, bottom-row scope, real-life structural treatment) live in section docs.
 
 ---
 
-## Register: SPLectrum
+## Craft habits
 
-The framework voice — speaks *from within* the project.
-
-**How it sounds:** Assured but invitational. "Let's see if this holds." More structured exposition: numbered principles, bolded terms, clear walk-throughs. Sentences slightly longer, more carefully constructed. Engineering posts are the most technically dense, with design vocabulary ("fabric," "pillar," "commitment," "conformance," "low friction"). Philosophical SPLectrum posts are more lyrical.
-
-**How it thinks:** Principles first, examples second. Begins with the seed and works outward. Systematising — shows how principles generate structure across domains. The engineering voice moves from philosophical axiom to engineering constraint in a single step. This is where the voice is most original: philosophy and engineering in the same breath without apology.
-
-**Distinctive features:**
-- Seed principles (P0-P5) as explicit reference points
-- "Unpacking" as metaphor — the seed contains complexity to unfold
-- Explicit about disclaiming imposition
-- SPLectrum positioned grammatically as structure of insights, not actor or container (see "How the voice thinks" — *SPLectrum as a structure of insights*)
-- Engineering vocabulary that doesn't appear in other personas
-
----
-
-## Register: comment
-
-The behind-the-scenes voice — talks about the *process*.
-
-**How it sounds:** Most casual, personal, meta-reflective. Shorter sentences. Lighter tone. Direct address to reader. More colloquial expressions. Steps back from the framework to talk about how ideas arrived, how collaboration works, how the thinking changed.
-
-**How it thinks:** Thinks about thinking. Self-aware about the project as a project. The most human voice: acknowledging struggle, crediting collaboration, narrating surprise. Deliberately stays at ground level.
-
-**Distinctive features:**
-- Most direct address to the reader
-- Most personal disclosure
-- Least philosophical vocabulary
-- Can narrate the live evolution of the framework
+- **Avoid bipolar framing.** No dangerous/safe, right/wrong, good/bad patterns. Observe and comment, don't judge. When a bipolar construction appears in a draft, find the neutral description that carries the same observation.
+- **Show, don't tell.** Pages do their work; they don't narrate their work. Watch for sentences like "the page exposes X, not Y" or "what creates friction is what carries them" — these belong to briefs and editorial notes, not to the page itself.
+- **Signpost the road ahead.** When something is planned but not yet developed, say so briefly. One sentence, not a roadmap. Concrete forward pointers, not filler.
+- **Make load-bearing vocabulary explicit.** Watch for terms used with specific technical meaning — candidates for explicit documentation. Don't let loaded terms drift in implicitly.
+- Em-dashes and asides for the texture of real-time thought.
+- Italics for weight, never decoration; carrying semantic work.
+- No exclamation marks; the content carries its own weight.
+- No "obviously" or "clearly"; treat the reader as a peer.
+- No academic apparatus (no footnotes, no "as Smith (2021) argues"). Linking to sources, not asserting authority.
+- Rhetorical questions used genuinely, as pivot points.
+- Short declarative sentences for emphasis when a key idea arrives.
 
 ---
 
-## Register: thought
+## Way of working
 
-Personal, loosely offered, exploratory.
-
-**How it sounds:** Raw and honest. The voice of someone with strong intuitions but holding them lightly. Can be fragmentary — shorter paragraphs, line breaks as pauses. More emotionally exposed than other personas.
-
-**How it thinks:** Pre-systematic in the early posts, but the persona also works for seed-derived observations offered tentatively. The curiosity and anti-hierarchical instinct are present; the organising principle may or may not be.
-
-**Distinctive features:**
-- Most emotionally direct
-- Can use structural scaffolding (headings, bullets) without it being a weakness
-- The voice of someone thinking, not of someone who has thought
-
----
-
-## Register: named source
-
-Biographical narrative — the material leads, the person recedes.
-
-**How it sounds:** Storyteller recounting an intellectual drama. Vivid, punchy sentences for key moments. The voice is not neutral — it has admiration, energy, momentum. Each post absorbs its subject's character: Wittgenstein gets narrative plot arc, Rorty gets combative compression, Merleau-Ponty gets warmth and sensory language.
-
-**How it thinks:** Interpretive. Traces a movement and notes the resonance with SPLectrum, but holds the framing lightly. Does not argue the thinker was "really saying what we say." The thinking connects across domains without forcing the connection.
-
-**Distinctive features:**
-- Plot arc structure — beginning, crisis, resolution
-- The voice picks up the subject's own energy and vocabulary
-- Serialised handoffs between posts in a series
-- Restraint about applying the seed — lets the reader see the resonance
-
----
-
-## Positioning / science posts (no persona label)
-
-Panoramic narrator walking through intellectual history.
-
-**How it sounds:** Most expository, most impersonal. "I" recedes significantly. Denser prose, more names, less personal aside. The science posts in particular stay within the scientific narrative and use no seed references. Closest to a careful essayist.
-
-**How it thinks:** Historically structured — traces evolution over centuries, marking transitions. Can be compressed and rapid-fire (eight philosophers in 800 words) or sustained analytical argument (RQM building a case step by step). Handles competing positions with evenhandedness before making a case.
-
-**Distinctive features:**
-- Most reference-dense
-- Least first person
-- Deliberate restraint — does not apply the seed, lets the convergence show itself
-- The most argumentatively structured writing in the corpus
-
----
-
-## Cross-register observations
-
-**The "I" varies in prominence, never in kind.** The same person across all registers — curious, anti-hierarchical, concrete-minded, drawn to structural parallels. What changes is how much this person steps forward.
-
-**The engineering voice is a distinct register within SPLectrum.** Same habits of thinking, but with technical vocabulary and structural precision. Bridges philosophical axiom and software architecture in the same sentence. The vocabulary shift (Being → Entity, Language → Protocol, Subject → Owner, Reality → Data state) is documented in the section-specific guidance above.
-
-**What the voice never loses:** the sense that the reader is being spoken to, not spoken at. The voice never ascends to a place where it cannot be interrupted.
-
----
-
-## Section-specific guidance
-
-Section-specific guidance lives in dedicated docs. The voice rules in this document apply everywhere; the section docs add section-specific constraints.
-
-**By row:**
-- **Applied row** (In Wonder, Real Life, Engineering) — `real-life-section.md` covers Real Life's structural-analysis register. In Wonder follows the blog register. Engineering uses the SPLectrum register with a vocabulary shift (Being → Entity, Language → Protocol, Subject → Owner, Reality → Data state; see the register profile above).
-- **Foundational row** (Positioning, Seed, Reality) — `positioning-section.md` covers the positioning register (persons/subjects A-Z voice, fence engagement, learning tone). Seed and Reality follow the SPLectrum register.
-- **Structural row** (Language, Vocabulary, Tools) — `bottom-row-section.md` covers all three: shared a-z/concepts/types shape, A-Z criteria per section, cross-bleeding by aspect.
-
-**Per box** where the row-level guidance isn't enough, the section docs carry box-specific detail (e.g. positioning's close-affinity vs on-the-fence distinction, the Language/Vocabulary grammar criterion).
-
----
-
-## Way of working — voice
-
-This is a living document. Reviewed against actual writing through cold reads — fresh sessions with only this guide and the posts, no memory of the conversations that produced them. The cold read produces observations, not corrections. The judgement about what to update stays collaborative.
+This is a living document. Simpler-while-load-bearing is better. If a paragraph is not doing structural work, it probably doesn't belong — move it to a section doc, or cut it.

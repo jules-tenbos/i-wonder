@@ -79,4 +79,4 @@ Sole-authored or with other collaborators:
 
 ---
 
-See also: [Whitehead](/positioning/persons/w/whitehead/) · [Process philosophy](/positioning/subjects/p/process-philosophy/)
+See also: [Whitehead](/positioning/persons/w/whitehead/) · [Cosmopolitics](/positioning/subjects/c/cosmopolitics/) · [Philosophy of organism](/positioning/subjects/p/philosophy-of-organism/) · [Process philosophy](/positioning/subjects/p/process-philosophy/)

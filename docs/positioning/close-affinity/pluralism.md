@@ -17,7 +17,9 @@ Pluralism — the conviction that reality is irreducibly many — surfaces indep
 
 **[William James](/positioning/persons/j/james/) (1909)** — the first self-avowed pluralist. The world as a "pluriverse" — not a block universe, not a chaos, but a patchwork of interconnected, distinct parts. Each part is real, each connection is real, and the whole is never fully given. James gets open-endedness and the sense that reality is still in the making. What he does not provide is a specific mechanism for how interaction produces new centres.
 
-**[Whitehead](/positioning/persons/w/whitehead/) (1929)** — the closest to the full dynamic. Many actual occasions, prehension as interaction, creativity as ultimate category. Whitehead has the engine — many, interacting, producing more — and his creativity-as-ultimate answers "why many": because creative advance is what reality does. The question is what it costs. Eternal objects, God as the ground of novelty, a speculative cosmology — the apparatus does more work than the observation requires.
+**[Whitehead](/positioning/persons/w/whitehead/) (1929)** — the closest to the full dynamic. Many actual occasions, prehension as interaction, creativity as ultimate category. Whitehead has the engine — many, interacting, producing more — and his creativity-as-ultimate answers "why many": because creative advance is what reality does. His account locates the source of ordered novelty in eternal objects valuated by God, supplied as the initial aim of each occasion — a structural commitment to an organising principle standing beyond what it organises.
+
+**[Isabelle Stengers](/positioning/persons/s/stengers/) (1990s–present)** — carries the process-relational line forward into the contemporary moment. A long collaboration with Ilya Prigogine on chaos and self-organisation (*Order Out of Chaos*, 1984) preceded her sustained engagement with Whitehead — *Thinking with Whitehead* (2002, English 2011) reads him as a live resource, not a historical curiosity, recovering the process-relational programme for present-day work. *Cosmopolitics* (originally seven volumes, 1996–97; English 2010–11) is the contemporary extension: the practice of bringing different worlds into negotiation without imposing a meta-frame. Multiple practices, multiple worlds, no privileged perspective — pluralism as ongoing activity, not metaphysical state. *In Catastrophic Times* (2009, English 2015) takes the refusal of monoculture — of one science, one rationality — into ecological emergency, as a survival commitment rather than a tolerance principle.
 
 **[Empedocles](https://plato.stanford.edu/entries/empedocles/)** and **[Democritus](https://plato.stanford.edu/entries/democritus/)** — the earliest Western pluralists. Reality is not one substance but many. The plurality is asserted, and the relations between elements do the work, but there is no account of how interaction creates new kinds.
 
@@ -63,12 +65,12 @@ The following are not dimensions of pluralism in the same sense as the above —
 
 Most pluralisms say "there are many" and stop there — plurality as a state, described but not explained. Whitehead is the exception: his creativity-as-ultimate-category does answer "why many." The question is not whether a mechanism exists in the landscape, but what it costs and how far it reaches.
 
-Interrelational pluralism names the same dynamic — languages with equal standing interact, overlap, and through their overlap create new language — but it falls out of the structure of language-as-relational without further commitments. P0 and P1 already give differentiation and relation; the creative mechanism follows, and P5 falls out rather than being an extra postulate. The contrast with Whitehead is parsimony, not presence vs absence of engine.
+Interrelational pluralism names the same dynamic — languages with equal standing interact, overlap, and through their overlap create new language — but it falls out of the structure of language-as-relational without further commitments. P0 and P1 already give differentiation and relation; the creative mechanism follows, and P5 falls out rather than being an extra postulate. The divergence with Whitehead is on where ordered novelty comes from: Whitehead locates it in eternal objects valuated by God; interrelational pluralism locates it at language boundaries, where P0 fires again.
 
 What each strand reaches from its own concerns, the [seed](/seed/interrelational-pluralism/) assembles together:
 
 - James's open-endedness — but with the mechanism he lacks.
-- Whitehead's creative engine — with the same dynamic, at lower metaphysical cost.
+- Whitehead's creative engine — with the same dynamic, diverging on the source of ordered novelty.
 - Feyerabend and Goodman's "no privilege" — extended from epistemology across reality.
 - Berlin's irreducible values — but interacting, not merely colliding.
 - Connolly's pluralisation — grounded in a structural account of how it works.

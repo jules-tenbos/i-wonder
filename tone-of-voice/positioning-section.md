@@ -83,7 +83,7 @@ The only positioning surface where dissonance is engaged. Fence pages are partic
 
 **Reference, don't re-walk.** Fence pages assume the subject is known. Refer to the subject pages where the tradition lives in full; bring forward only the material load-bearing to the diagnosis. Touchstone over comprehensive applies more strictly than on a ref lib page, because the subject is already covered. Long walks through thinkers and movements belong in the subject pages — not the fence.
 
-**Show, don't tell.** Fence work feels exposed and pulls toward self-justification. Resist. Do the diagnosis; don't narrate the doing. Avoid sentences that explain what the page is doing or justify its discipline (*"the fence is with what travels forward, not with the persons,"* *"the page exposes X, not Y,"* *"what creates friction is what carries them"*). Embody the framing; do not state it. See `editorial-principles.md` for the broader principle.
+**Show, don't tell.** Fence work feels exposed and pulls toward self-justification. Resist. Do the diagnosis; don't narrate the doing. Avoid sentences that explain what the page is doing or justify its discipline (*"the fence is with what travels forward, not with the persons,"* *"the page exposes X, not Y,"* *"what creates friction is what carries them"*). Embody the framing; do not state it. See `tone-of-voice.md` § Craft habits for the broader principle.
 
 **Place grammar.** Actor grammar and container/system grammar are both easy to slip into on fence work; the container trap is especially common because the writing engages with another framework. See `tone-of-voice.md` for the full discipline.
 

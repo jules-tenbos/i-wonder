@@ -17,6 +17,7 @@ These are subjects of importance to SPLectrum, referenced within the site.
 
 ## C
 
+- [Cosmopolitics](c/cosmopolitics) · philosophy of science, political ecology<span class="kw">Stengers: ecology of practices, reciprocal capture, the idiot, cosmos as constructed not given</span>
 - [Category theory](c/ct/) · mathematics<span class="kw">structure through relationships rather than internal composition — objects known entirely by their arrows</span>
 
 ## D

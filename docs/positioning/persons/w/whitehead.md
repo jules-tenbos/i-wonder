@@ -9,7 +9,7 @@ description: "Whitehead built reality from events, not substances — every actu
 
 # Alfred North Whitehead (1861–1947)
 
-Whitehead built the most thorough relational ontology in Western philosophy. Nothing exists in isolation — every actual entity is constituted by its relations to every other, and reality is [process](/positioning/subjects/p/process-philosophy/), not substance: events arising, achieving satisfaction, perishing, taken up by what follows. His rejection of the bifurcation of nature, and [Rorty](/positioning/persons/r/rorty/)'s dismantling of the mirror from the language side, are the two halves of the same move against representational thinking.
+Whitehead built the most thorough relational ontology in Western philosophy. Nothing exists in isolation — every actual entity is constituted by its relations to every other, and reality is [process](/positioning/subjects/p/process-philosophy/), not substance: events arising, achieving satisfaction, perishing, taken up by what follows. His rejection of the bifurcation of nature — the split between the world physics measures and the world we experience — is the diagnostic move from which everything else in his system follows.
 
 [Alfred North Whitehead](https://plato.stanford.edu/entries/whitehead/) (1861–1947). Three distinct careers, each producing major work. The first thirty years at Cambridge (Trinity College) as a mathematician — *Principia Mathematica* with Russell, foundational work in logic and algebra. Then London (Imperial College, University of London), where he turned toward philosophy of science, developing a relational theory of space and time as an alternative to Einstein's. At 63 he moved to Harvard, where he built the speculative metaphysical system of *Process and Reality*. Nothing exists in isolation — every actual entity is constituted by its relations to other actual entities. Reality is not made of enduring substances but of events that arise, achieve their satisfaction, and perish, each one taking up what came before and contributing to what comes after.
 
@@ -35,7 +35,7 @@ Whitehead built the most thorough relational ontology in Western philosophy. Not
 
 ## Where Whitehead stops
 
-Whitehead's system is speculative and totalising. It aims to describe everything: every actual occasion, from an electron to God, fits one categorical scheme. The ambition is magnificent and is also the problem. He stays with the individual occasion as the unit of analysis — the social constitution of shared reality through language is not his question. And his God, however unconventional, introduces a principle of order that a more pluralist framework might not need.
+Whitehead's system is speculative and totalising — it aims to describe everything, from an electron to God, within one categoreal scheme. He stays with the individual occasion as the unit of analysis; the social constitution of shared reality through language is not his question. His God, however unconventional, is structural to a metaphysical project that requires a principle of order — not a contingent residue.
 
 ---
 
