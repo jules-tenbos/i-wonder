@@ -14,6 +14,10 @@ SPLectrum has landed on its position: interrelational pluralism. Named May 20, 2
 - [ ] **IP-load-bearing positioning entries** — Berlin, Arendt as priorities (Connolly done). Tracked in `plan/positioning-entries-needed.md`.
 - [ ] **Historical posts editorial notes** — posts republished after IP was named need editorial notes
 - [ ] **Positioning research** — neighbourhood mapping, tentatively Sep–Dec, can start earlier
+- [x] **Whitehead cycle phase 1 complete** — Stengers person page, philosophy of organism subject page, cosmopolitics subject page, two-pronged anti-representationalism seed-ring piece, interrelational pluralism revisions (parsimony dropped, Stengers added to close-affinity). See `plan/whitehead.md` for remaining blog posts and post-blog revisions.
+- [x] **Process philosophy subject page expanded** — full breadth (Heraclitus through Stengers), SPLectrum vocabulary stripped, contestations and reception added.
+- [x] **Hume person page reworked** — moral and political philosophy added, teleological framing stripped.
+- [x] **Tone-of-voice docs merged** — `editorial-principles.md` merged into `tone-of-voice.md`, deleted. Touchstone bullet refined.
 
 ## Positioning seed section — open work
 
