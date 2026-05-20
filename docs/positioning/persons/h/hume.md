@@ -1,47 +1,66 @@
 ---
 layout: default
-lastmod: 2026-05-15
+lastmod: 2026-05-19
 title: "David Hume (1711–1776)"
-description: "Hume woke philosophy from its dogmatic slumber — experience is all we have, causation is habit, and reason alone cannot ground knowledge."
+description: "Hume grounded morality in sentiment, causation in habit, convention in coordination — philosopher, historian, essayist, and cheerful sceptic."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Hume
 
 # David Hume (1711–1776)
 
-Hume forced the crisis that made the turn possible. By showing that experience cannot ground necessary truths — that causation is habit, not logic — he made it impossible to continue in [Descartes](/positioning/persons/d/descartes/)' direction. [Kant](/positioning/persons/k/kant/) called it being woken from dogmatic slumber. Without Hume's challenge, Kant would not have asked how the mind structures experience, and the entire trajectory through [Heidegger](/positioning/persons/h/heidegger/), [Wittgenstein](/positioning/persons/w/wittgenstein/) and [Rorty](/positioning/persons/r/rorty/) would not have unfolded. Hume's empiricism — experience is all we have — placed the subject at the centre of knowledge, but kept it passive. The tradition that followed made it relational.
+Hume is the most important philosopher to write in English — empiricist epistemologist, moral psychologist, political theorist, philosophical historian. His reach extends well beyond the epistemological scepticism he is most often cited for. Morality grounded in sentiment, justice grounded in convention, political authority grounded in custom — all sit alongside the empiricist critique of causation and the bundle theory of self as parts of a single philosophical anthropology.
 
-[David Hume](https://plato.stanford.edu/entries/hume/) (1711–1776). Philosopher, historian, essayist — the most important philosopher to write in English, and largely ignored in his own time as a philosopher. Born in Edinburgh, he wrote *A Treatise of Human Nature* at 26 and declared it "fell dead-born from the press." He made his living as a librarian, diplomat, and historian — his *History of England* was a bestseller. He was sociable, witty, and deeply sceptical of everything, including his own scepticism. He died calmly and cheerfully as an avowed atheist, scandalising contemporaries who expected a deathbed conversion. His philosophical influence came largely after his death, through Kant and the tradition that followed.
+[David Hume](https://plato.stanford.edu/entries/hume/) (1711–1776). Born in Edinburgh, he wrote *A Treatise of Human Nature* at 26 and declared it "fell dead-born from the press." The *Treatise* is in three books — Book I on understanding, Book II on the passions, Book III on morals — and it is Book III, together with the later *Enquiry Concerning the Principles of Morals* and the *Essays*, where much of his most original work lives. He made his living as a librarian, diplomat, and historian; his *History of England* was a bestseller. Sociable, witty, and deeply sceptical of everything including his own scepticism. He died calmly and cheerfully as an avowed atheist, scandalising contemporaries who expected a deathbed conversion.
 
 ---
 
-## Key concepts
+## Epistemology and metaphysics
 
 **Impressions and ideas.** All mental content derives from experience. Impressions are the vivid deliverances of sense and feeling; ideas are their faint copies. Any idea that cannot be traced back to an impression is empty — a word without content. This is Hume's empiricist criterion of meaning.
 
 **The problem of causation.** We never observe causation itself — only constant conjunction. One billiard ball strikes another; we see the sequence but not the connection. Causation is a habit of the mind, not a feature of reality. This demolished the rationalist claim that reason alone can discover necessary truths about the world.
 
-**The is-ought problem.** Moral conclusions cannot be derived from factual premises alone. "You cannot derive an 'ought' from an 'is'." This remains one of the most cited arguments in moral philosophy.
-
-**The bundle theory of self.** There is no enduring self behind the flow of experience. "When I enter most intimately into what I call myself, I always stumble on some particular perception or other." The self is a bundle of perceptions, not a substance.
+**The bundle theory of self.** There is no enduring self behind the flow of experience. The self is a bundle of perceptions — "I always stumble on some particular perception or other" — not a substance.
 
 **Naturalism.** Despite his scepticism, Hume was not a nihilist. Nature compels us to believe in causation, in the external world, in the self — even when reason cannot justify these beliefs. Custom and habit do the work that reason cannot. Philosophy's task is not to replace natural belief but to understand it.
 
 ---
 
+## Moral philosophy
+
+**Reason as servant of the passions.** "Reason is, and ought only to be the slave of the passions" (*Treatise* 2.3.3). Reason cannot motivate action; the passions move us, and reason calculates means. This situates the whole of Hume's ethics in sentiment rather than rational principle.
+
+**Sentiment-based morality.** Morality is grounded in feeling, not reason. The sentiments of approbation and disapprobation — felt responses to character and conduct — are the foundation of moral judgment. Sympathy is the affective mechanism by which we enter into the sentiments of others and form shared moral assessments.
+
+**The is-ought problem.** Moral conclusions cannot be derived from factual premises alone. You cannot derive an "ought" from an "is." This remains one of the most cited arguments in moral philosophy.
+
+**Natural and artificial virtues.** The natural virtues — compassion, kindness, generosity — arise directly from human sentiment. The artificial virtues — justice, fidelity, allegiance — are different in kind: they are sustained by convention rather than natural feeling. Justice is not a law of nature but a regularity that emerges because each individual finds it useful to follow it.
+
+---
+
+## Political philosophy and convention
+
+**Convention.** Justice, property, promises, and political authority are not products of natural law or deliberate agreement — they are conventions that emerge through repeated interaction as patterns each individual finds useful. The canonical example: two rowers in a boat learn to coordinate their strokes without explicit agreement. Custom makes the conventional feel natural and binding over time.
+
+**Anti-contract argument.** In "Of the Original Contract" (1748), Hume rejects Locke and Hobbes directly. No society was ever founded on a social contract; political authority emerges from habit, custom, force, and acquiescence over long time. Legitimacy is established by usage, not consent.
+
+---
+
 ## Where Hume stops
 
-Hume showed that experience cannot ground necessary truths — but he left the subject passive, receiving impressions from an external world he could not prove existed. The relational character of experience, the active constitution of reality through language, the social dimension of knowledge — none of these are Hume's questions. He cleared the ground but did not build. [Kant](/positioning/persons/k/kant/) built the first structure on that ground; the [pragmatists](/positioning/subjects/p/pragmatism/) and [phenomenologists](/positioning/subjects/p/phenomenology/) built differently. All on ground Hume cleared.
+Hume stayed within sense-impression empiricism: the mind receives impressions and forms habits from their conjunction. How minds might actively structure experience — [Kant](/positioning/persons/k/kant/)'s later question — sits outside his programme. His account of convention is roughly coordination-and-utility based; how shared meaning is constituted in language — later Wittgensteinian terrain — is not his question. His picture stays at the individual scale aggregated through repeated interaction; the social constitution of knowledge as a primary phenomenon is not part of his frame. His scepticism is mitigated by naturalism, but he does not pursue the consequences of his scepticism into a positive metaphysics.
 
 ---
 
 ## Key works
 
-- [*A Treatise of Human Nature*](https://en.wikipedia.org/wiki/A_Treatise_of_Human_Nature) (1739–40) — impressions, ideas, causation, the self, the passions
+- [*A Treatise of Human Nature*](https://en.wikipedia.org/wiki/A_Treatise_of_Human_Nature) (1739–40) — Book I: understanding; Book II: passions; Book III: morals. The convention-based account of justice and the artificial virtues lives in Book III.
 - [*An Enquiry Concerning Human Understanding*](https://en.wikipedia.org/wiki/An_Enquiry_Concerning_Human_Understanding) (1748) — the reworked epistemology; causation, miracles, the problem of induction
 - [*An Enquiry Concerning the Principles of Morals*](https://en.wikipedia.org/wiki/An_Enquiry_Concerning_the_Principles_of_Morals) (1751) — Hume's own favourite; morality grounded in sentiment
+- [*Essays, Moral, Political, and Literary*](https://en.wikipedia.org/wiki/Essays,_Moral,_Political,_and_Literary) (1741–77) — accumulated over decades; "Of the Original Contract," "Of the First Principles of Government," the political-economic essays
 - [*Dialogues Concerning Natural Religion*](https://en.wikipedia.org/wiki/Dialogues_Concerning_Natural_Religion) (1779, posthumous) — the design argument dismantled
 
 ---
 
-See also: [Kant](/positioning/persons/k/kant/) · [Descartes](/positioning/persons/d/descartes/) · [Rorty](/positioning/persons/r/rorty/)
+See also: [Kant](/positioning/persons/k/kant/) · [Descartes](/positioning/persons/d/descartes/) · [Pragmatism](/positioning/subjects/p/pragmatism/)

@@ -12,7 +12,7 @@ These hold throughout the site. Where writing slips, the writer returns here.
 
 **Let analogies carry structural insights.** When working with complementarity, duality, or relational structure, find the right figures (particle-wave, yin-yang, foreground-background) and trust them. The duality lives in the relation between two whole figures, not in part-to-part mapping. The touching is what makes them work; forcing exact correspondence loses what was being carried.
 
-**Touchstone, not comprehensive.** Pages are reference points that touch on the topic enough to hold the point, then stop. Lighter wins over heavier as long as the point lands. Three named thinkers usually enough; four starts to read as a parade. Missing depth is fixable; cluttered pages aren't. When in doubt, cut.
+**Touchstone, not comprehensive.** Pages are reference points that touch on the topic enough to hold the point, then stop. Lighter wins over heavier as long as the point lands. The discipline bites against decorative naming where the category is already established, not against structural walk-throughs where each contributor adds an angle the others don't carry. Missing depth is fixable; cluttered pages aren't. When in doubt, cut.
 
 **No claims.** Don't claim the framework "shows" or "proves." Don't assert from above. Don't speak for thinkers; let them speak. Default to "this suggests," "from here we can see," "one way of reading." Offering, not imposing.
 

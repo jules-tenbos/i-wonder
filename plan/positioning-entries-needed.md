@@ -84,6 +84,11 @@ Persons and subjects referenced on the site without their own entry. One list, d
 - Wheeler, David — subroutine invention; software languages post
 - Edelman, Gerald — neural Darwinism, neuronal group selection; discovery multiplier post
 - Simard, Suzanne — mycorrhizal networks, mother trees; mutualism post
+- Smith, Adam — moral sentiments, impartial spectator, Wealth of Nations; Hume person page (direct inheritor)
+- Locke, John — empiricism, social contract, primary/secondary qualities; Hume person page
+- Hobbes, Thomas — social contract, Leviathan, mechanistic materialism; Hume person page
+- Hutcheson, Francis — moral sense theory, Hume's predecessor in Scottish moral philosophy; Hume person page
+- Reid, Thomas — common sense philosophy, Hume's contemporary critic; Hume person page
 
 ## Subjects — candidates
 
