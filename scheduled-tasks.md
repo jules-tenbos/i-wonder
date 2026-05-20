@@ -17,15 +17,15 @@ Updated 2026-05-20. Tasks triggered by post publication and ongoing work.
 - Category theory series (5 posts) moved from Jun 4–20 to Sep 1–16
 - Earlier changes: discovery posts to Aug, perimeter posts to Jun 24/28, Privacy Naturally to May 28
 
-## Posts needing review before publication
+## Post schedule
 
 ### May
 
 | Date | Title | Status |
 |------|-------|--------|
 | May 20 | From Seed to Interrelational Pluralism | ready |
-| May 24 | Noticing the Grid | ready |
-| May 28 | Privacy Naturally | mandatory review |
+| May 22 | Noticing the Grid | ready |
+| May 24 | Privacy, Naturally! | ready |
 
 ### June
 
@@ -39,7 +39,6 @@ Updated 2026-05-20. Tasks triggered by post publication and ongoing work.
 
 | Date | Title | Status |
 |------|-------|--------|
-| Jul 1 | *open slot* | |
 | Jul 4 | Decentralised Process Models | Mandatory review |
 | Jul 8 | Wiring the Brain | final review |
 | Jul 12 | I Know That I Don't Know | Mandatory review |
@@ -69,6 +68,24 @@ Updated 2026-05-20. Tasks triggered by post publication and ongoing work.
 | Sep 8 | Is Like, Is | mandatory review |
 | Sep 12 | Meaning Patterns Travel | mandatory review |
 | Sep 16 | The Friction with 1-Categorical Thinking | mandatory review |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Parked work
 
