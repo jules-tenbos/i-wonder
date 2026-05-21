@@ -3,7 +3,7 @@ layout: post
 title: "Philosophy as Conversation"
 date: 2026-03-27
 lastmod: 2026-05-06
-labels: [positioning, philosophy, Rorty]
+labels: [positioning, philosophy]
 description: "Rorty broke the mirror of nature — no language represents reality, all vocabularies are contingent. Philosophy becomes conversation, not arbitration."
 status: ready
 words: 544

@@ -3,7 +3,7 @@ layout: post
 title: "The Birth of P0 — Being Is Tension across the Interface"
 date: 2026-05-10
 lastmod: 2026-05-07
-labels: [seed, philosophy, comment]
+labels: [seed, philosophy]
 description: "How P0 became a creational principle — the act of placing a boundary is the act of creation. Nine traditions, one structural insight."
 status: ready
 words: 887

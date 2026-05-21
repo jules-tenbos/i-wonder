@@ -3,7 +3,8 @@ layout: post
 title: "Privacy, Naturally!"
 date: 2026-05-24
 lastmod: 2026-05-28
-labels: [seed, philosophy, SPLectrum]
+labels: [seed, philosophy]
+description: "Privacy isn't a right that needs granting — it's a structural fact. Every subject experiences reality through its own medium. The real question is why sharing became pathological."
 status: ready
 words: 793
 ---

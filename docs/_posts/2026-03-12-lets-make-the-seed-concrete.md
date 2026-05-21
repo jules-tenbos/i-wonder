@@ -3,7 +3,7 @@ layout: post
 title: "Let's Make the Seed Concrete"
 date: 2026-03-12
 lastmod: 2026-05-06
-labels: [seed, philosophy, comment]
+labels: [seed, philosophy]
 description: "Language is for living. A dinner party unpacks the seed — cooking, tasting, sharing, all in their own relational language."
 status: ready
 words: 496

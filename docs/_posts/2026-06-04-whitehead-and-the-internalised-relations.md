@@ -3,7 +3,7 @@ layout: post
 title: "Whitehead and the Internalised Relations"
 date: 2026-06-04
 lastmod: 2026-05-20
-labels: [seed, philosophy, SPLectrum]
+labels: [seed, philosophy]
 description: ""
 status: storyline
 words: 0

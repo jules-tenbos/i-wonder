@@ -3,7 +3,7 @@ layout: post
 title: "Language, Experience and Reality"
 date: 2026-04-21
 lastmod: 2026-05-06
-labels: [reality, philosophy, SPLectrum]
+labels: [seed, philosophy]
 description: "Fire as lived experience — sight, heat, sound, all in language. Personal experience is primary, shared reality is the overlap."
 status: ready
 words: 738
@@ -37,7 +37,7 @@ However, this personal experience ***is*** my reality — how ***I*** experience
 
 Flip the picture and personal experience isn't defective — it's primary. Shared reality is the overlap, the convergence, the part we manage to align through language exchange. The personal isn't a failed attempt at the objective. The objective is the shared part of the personal, the subjective. The practical limits are in the language we use to experience and share. Language shapes thinking, language shapes experience, language shapes the shared reality.
 
-<small>This post is part of the [reality series](/blog/label/reality/). See also the <a href="/reality/">Reality</a> section of the site.</small>
+<small>This post is part of the [seed series](/blog/label/seed/). See also <a href="/reality/">Reality</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@hansphoto">Hans Photo</a> / Unsplash</small>

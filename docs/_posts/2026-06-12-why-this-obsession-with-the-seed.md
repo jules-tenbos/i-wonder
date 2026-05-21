@@ -3,7 +3,7 @@ layout: post
 title: "Why this Obsession with the Seed?"
 date: 2026-06-12
 lastmod: 2026-05-20
-labels: [seed, philosophy, SPLectrum]
+labels: [seed, philosophy]
 description: ""
 status: storyline
 words: 0

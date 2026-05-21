@@ -3,7 +3,7 @@ layout: post
 title: "Diversified Discovery"
 date: 2026-09-20
 lastmod: 2026-08-20
-labels: [discovery, philosophy, SPLectrum]
+labels: [evolution, philosophy]
 status: Mandatory review
 words: 441
 ---
@@ -19,7 +19,7 @@ The inverse holds. Monoculture — biological, cultural, linguistic, technologic
 
 Decentralisation, then, is not an ethical position or a political programme. It is diversified discovery — the natural organisation of exploration in a relational space where no single position sees everything. The architecture the engineering already builds takes this shape. Multiple processes, multiple positions, multiple paths through the same fabric. The pattern emerges from the relational space itself, not because someone decided cooperation is a virtue. The relational space rewards diversification because that is how discovery works.
 
-<small>This post is part of the [discovery series](/blog/label/discovery/). More in the <a href="/seed/">seed section of the reference library</a>.</small>
+<small>This post is part of the [evolution series](/blog/label/evolution/). See also <a href="/seed/">the seed</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@jaydenyoonzk">Jayden Yoon ZK</a> / Unsplash</small>

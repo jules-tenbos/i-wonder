@@ -3,7 +3,7 @@ layout: post
 title: "Embracing Anti-Foundationalism"
 date: 2026-07-24
 lastmod: 2026-08-24
-labels: [preamble, philosophy, comment]
+labels: [preamble, philosophy]
 status: final review
 words: 653
 ---

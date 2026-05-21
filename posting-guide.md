@@ -28,7 +28,7 @@ Jekyll front matter:
 layout: post
 title: "Post Title"
 date: YYYY-MM-DD
-labels: [series, category, persona]
+labels: [category, series]
 description: "One-sentence description for SEO and listings"
 status: ready
 words: NNN
@@ -210,14 +210,14 @@ When scheduling a post, scan ref lib pages for ones that would benefit from a po
 
 When reviewing existing or new posts, check:
 
-1. **Front matter** — layout: post, title, date, labels (max 3, from series/category/persona)
+1. **Front matter** — layout: post, title, date, labels (1–2 category, 0–1 series, max 3)
 2. **Image** — no inline float styles (CSS handles sizing). Just `<img src="..." alt="..." />`
 3. **Internal links** — use absolute paths (`/seed`, `/engineering/splectrum/mycelium/`). No old Blogger URLs, no `jules-tenbos.github.io`, no `.html` extensions
 4. **External links** — People and subjects with internal person/subject pages → use internal links. External (SEP/Wikipedia) only for names without a page. Works → Wikipedia links on person pages, not in posts
 5. **Series footer** — `<small>This post is part of the [series name](/blog/label/series). See also <a href="/area/page">Page Title</a>.</small>` Use "See also" with the page title, not "More in the reference library"
 6. **Photo credit** — `<small>Photo: <a href="...">Name</a> / Unsplash</small>` separated by `---`
 7. **No old Blogger artefacts** — no `Blogger-ID:`, no `Labels:` line (use front matter), no bold date lines in body, no `/search/label/`, no `/p/xxx.html`
-8. **Voice** — matches the persona label. Author voice for thought/comment, SPLectrum voice for seed/engineering, narrator for named sources
+8. **Voice** — consistent with the post's series and category
 
 ## Tweets
 
@@ -257,13 +257,22 @@ Credit footer:
 
 ## Labels
 
-Three dimensions: **series, category, persona**.
+Two dimensions: **category** and **series**.
 
-- **Series** — groups posts into a journey (e.g., positioning, language)
-- **Category** — the domain (e.g., philosophy, science, engineering, HAICC)
-- **Persona** — who is speaking: SPLectrum (official voice), comment (observing existing work), thought (original, loosely offered), or a named source (Wittgenstein, RQM, etc.)
+- **Category** (1–2) — the domain: philosophy, science, engineering, mathematics
+- **Series** (0–1, optional) — groups posts into a journey: category-theory, evolution, language, positioning, preamble, seed
 
-Not every post has all three. Max 3 labels.
+Every post has at least one category. Series is added only when the post belongs to a named journey. Max 3 labels total.
+
+### Adding a new label
+
+Three things to update:
+
+1. **Label page** — create `docs/blog/label/<label>.md` (copy an existing one, change the label name)
+2. **Label index** — add the label to the right section (Series/Category) in `docs/blog/label/index.md`
+3. **Series lists** — if the new label is a series, add it to the hardcoded series list in two places:
+   - `docs/_layouts/post.html` (the `{% assign series = ... %}` line) — controls the post page header
+   - `docs/_includes/blog-entries.html` (the `{% assign series = ... %}` line) — controls the blog listing
 
 ## Reference Library
 

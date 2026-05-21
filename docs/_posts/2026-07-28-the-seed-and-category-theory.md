@@ -3,7 +3,7 @@ layout: post
 title: "The Seed and Category Theory"
 date: 2026-07-28
 lastmod: 2026-05-12
-labels: [category-theory, seed, mathematics, philosophy, SPLectrum]
+labels: [category-theory, seed, mathematics, philosophy]
 status: mandatory review
 words: 760
 ---

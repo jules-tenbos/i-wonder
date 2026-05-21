@@ -3,7 +3,7 @@ layout: post
 title: "Philosophy and the Brain"
 date: 2026-07-01
 lastmod: 2026-08-01
-labels: [preamble,philosophy, thought]
+labels: [preamble,philosophy]
 status: final review
 words: 510
 ---

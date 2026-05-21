@@ -3,7 +3,7 @@ layout: post
 title: "Promises Made, Promises Broken"
 date: 2026-06-24
 lastmod: 2026-07-24
-labels: [preamble,thought]
+labels: [preamble]
 status: final review
 words: 461
 ---

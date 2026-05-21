@@ -3,7 +3,7 @@ layout: post
 title: The Seed and Human Reality
 date: 2026-05-14
 lastmod: 2026-05-14
-labels: [seed, philosophy, SPLectrum]
+labels: [seed, philosophy]
 description: "We are born wearing human-coloured spectacles — anthropocentrism shapes what reaches us. From personal experience to the shared space, this post opens the sequence toward interrelational pluralism."
 status: ready
 words: 591

@@ -3,7 +3,7 @@ layout: post
 title: "The Body as Medium"
 date: 2026-04-01
 lastmod: 2026-05-06
-labels: [positioning, philosophy, Merleau-Ponty]
+labels: [positioning, philosophy]
 description: "Merleau-Ponty put experience back in the body — perception is not passive intake but active engagement. Meaning begins in gesture, not in thought."
 status: ready
 words: 694

@@ -3,7 +3,7 @@ layout: post
 title: "The Seed, Language and Historicity"
 date: 2026-05-12
 lastmod: 2026-05-12
-labels: [seed, philosophy, SPLectrum]
+labels: [seed, philosophy]
 description: "What language is in the seed's terms — contingency, the personal, and the retention that turns a point of existence into duration."
 status: final review
 words: 640

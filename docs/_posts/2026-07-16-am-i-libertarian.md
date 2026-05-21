@@ -3,7 +3,7 @@ layout: post
 title: "Am I a Libertarian?"
 date: 2026-07-16
 lastmod: 2026-08-16
-labels: [preamble,philosophy, thought]
+labels: [preamble,philosophy]
 status: final review
 words: 593
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "First Principles — the Social Core"
 date: 2026-05-08
 lastmod: 2026-05-07
-labels: [seed, philosophy, SPLectrum]
+labels: [seed, philosophy]
 description: "The second half of the seed principles — sharing, interrelation and growing complexity. From the individual subject to the social and evolutionary core."
 status: ready
 words: 634

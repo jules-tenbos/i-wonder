@@ -3,7 +3,7 @@ layout: post
 title: "The Friction with 1-Categorical Thinking"
 date: 2026-08-28
 lastmod: 2026-05-12
-labels: [category-theory, methodology, mathematics, SPLectrum]
+labels: [category-theory, philosophy, mathematics]
 status: mandatory review
 words: 600
 ---

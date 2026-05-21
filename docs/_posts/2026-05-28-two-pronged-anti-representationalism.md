@@ -3,12 +3,12 @@ layout: post
 title: "Two-Pronged Anti-Representationalism"
 date: 2026-05-28
 lastmod: 2026-05-20
-labels: [seed, philosophy, SPLectrum]
-description: ""
+labels: [seed, philosophy]
+ddescription: ""
 status: storyline
 words: 389
 ---
-<img src="" alt="Two-Pronged Anti-Representationalism" />
+<img src="https://images.unsplash.com/photo-1506351541065-2de5d60265b3?q=80&w=350&h=230&auto=format&fit=crop" alt="Two-Pronged Anti-Representationalism" />
 
 Whitehead and Rorty don't show up in the same sentence often. Process metaphysics and pragmatism keep to their own neighbourhoods. So it takes a moment to notice that both of them refuse representationalism. Worth sitting with the pairing.
 
@@ -25,4 +25,4 @@ This matters because if you only refuse representationalism from one side, you'v
 <small>This post is part of the [seed series](/blog/label/seed/). See also <a href="/seed/">the seed</a>.</small>
 
 ---
-<small>Photo: <a href="">Name</a> / Unsplash</small>
+<small>Photo: <a href="https://unsplash.com/@vincentvanzalinge">vincentvanzalinge</a> / Unsplash</small>

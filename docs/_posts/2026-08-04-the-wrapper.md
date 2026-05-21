@@ -3,7 +3,7 @@ layout: post
 title: "The Wrapper"
 date: 2026-08-04
 lastmod: 2026-05-12
-labels: [category-theory, seed, mathematics, philosophy, SPLectrum]
+labels: [category-theory, seed, mathematics, philosophy]
 status: mandatory review
 words: 610
 ---

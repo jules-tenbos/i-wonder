@@ -3,7 +3,7 @@ layout: post
 title: "Teaming Up With My Alter Ego"
 date: 2026-03-17
 lastmod: 2026-05-06
-labels: [HAICC, comment]
+labels: [engineering]
 description: "Human-AI collaboration as shared authorship in action — one voice, two contributors, an alter ego for research, thinking and writing."
 status: ready
 words: 567

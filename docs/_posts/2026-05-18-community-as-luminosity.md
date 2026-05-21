@@ -3,7 +3,7 @@ layout: post
 title: "Community as Luminosity"
 date: 2026-05-18
 lastmod: 2026-05-12
-labels: [seed, philosophy, SPLectrum]
+labels: [seed, philosophy]
 description: "What fills the gap between subjects is not a medium but mutual radiation. Community is luminous, not dense — held together because the sources stay sources."
 status: ready
 words: 527

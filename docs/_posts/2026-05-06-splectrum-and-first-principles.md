@@ -3,7 +3,7 @@ layout: post
 title: "SPLectrum and First Principles"
 date: 2026-05-06
 lastmod: 2026-05-07
-labels: [seed, philosophy, SPLectrum]
+labels: [seed, philosophy]
 description: "Walking through the first three seed principles — being, relation, and the individual subject's experience of reality. The existential core."
 status: ready
 words: 748

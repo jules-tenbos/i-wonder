@@ -3,8 +3,7 @@ layout: post
 title: "The Decentralised Cognition Revolution"
 date: 2026-09-04
 lastmod: 2026-08-04
-published: false
-labels: [HAICC, thought]
+labels: [engineering]
 status: Mandatory review
 words: 599
 ---
