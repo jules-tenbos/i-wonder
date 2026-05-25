@@ -32,6 +32,9 @@ The full dynamic of the seed — where SPLectrum gets its philosophical name.
 **[The seed, Privacy and Decentralisation](privacy-and-decentralisation)**<br>
 Privacy as the essence of subject experience, and decentralisation as how communities naturally form.
 
+**[The seed and Complex Adaptive Systems](complex-adaptive-systems)**<br>
+The seed expressed in CAS vocabulary — agents, adaptation, self-organization, emergence. Where the rhymes are clean and where they stop.
+
 **[The applied seed - Engineering](engineering)**<br>
 SPLectrum's attempt at a seamless translation of the seed into engineering design.
 

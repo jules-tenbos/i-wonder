@@ -27,7 +27,7 @@ TIME magazine listed him among the hundred greatest scientists and thinkers of t
 
 ## Reciprocal altruism (1971)
 
-"The Evolution of Reciprocal Altruism," *Quarterly Review of Biology* 46. Published while still a graduate student. Addressed a problem unsolved since [Darwin](/positioning/persons/d/darwin/): how can natural selection favour cooperation between unrelated individuals? The mechanism: cooperation can evolve where individuals interact repeatedly, recognise each other, and reciprocate — with conditions on detecting and punishing cheaters. The paper opened the path to game-theoretic treatments of cooperation (later developed by [Robert Axelrod](https://en.wikipedia.org/wiki/Robert_Axelrod)) and to evolutionary accounts of moral emotions — gratitude, indignation, guilt — as adaptations regulating reciprocal exchange.
+"The Evolution of Reciprocal Altruism," *Quarterly Review of Biology* 46. Published while still a graduate student. Addressed a problem unsolved since [Darwin](/positioning/persons/d/darwin/): how can natural selection favour cooperation between unrelated individuals? The mechanism: cooperation can evolve where individuals interact repeatedly, recognise each other, and reciprocate — with conditions on detecting and punishing cheaters. The paper opened the path to game-theoretic treatments of cooperation (later developed by [Robert Axelrod](/positioning/persons/a/axelrod/)) and to evolutionary accounts of moral emotions — gratitude, indignation, guilt — as adaptations regulating reciprocal exchange.
 
 ## Parental investment and sexual selection (1972)
 

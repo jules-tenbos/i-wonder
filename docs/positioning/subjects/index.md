@@ -17,6 +17,7 @@ These are subjects of importance to SPLectrum, referenced within the site.
 
 ## C
 
+- [Complex adaptive systems](c/complex-adaptive-systems/) · cross-disciplinary<span class="kw">locally interacting agents producing global order: Holland, Kauffman, Gell-Mann, Santa Fe Institute</span>
 - [Cosmopolitics](c/cosmopolitics) · philosophy of science, political ecology<span class="kw">Stengers: ecology of practices, reciprocal capture, the idiot, cosmos as constructed not given</span>
 - [Category theory](c/ct/) · mathematics<span class="kw">structure through relationships rather than internal composition — objects known entirely by their arrows</span>
 

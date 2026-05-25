@@ -11,10 +11,19 @@ description: "Thinkers referenced across the positioning section — from Bergso
 
 Individual thinkers referenced across the positioning section. Each page presents a thinker's key concepts and works on their own terms, with see-also links to intellectual neighbours within the section.
 
+## A
+
+- [Ashby, W. Ross (1903–1972)](a/ashby) · psychiatrist, cyberneticist<span class="kw">the homeostat, requisite variety, the good regulator theorem, ultrastability</span>
+- [Axelrod, Robert (1943–)](a/axelrod) · political scientist<span class="kw">evolution of cooperation, iterated prisoner's dilemma, tit-for-tat, the BACH group</span>
+- [Arthur, W. Brian (1945–)](a/arthur) · economist<span class="kw">increasing returns, path dependence, complexity economics, technological evolution</span>
+
 ## B
 
 - [Brandom, Robert (1950–)](b/brandom) · philosopher<span class="kw">inferentialism, deontic scorekeeping, commitment over representation, expressive rationality</span>
+- [Barabási, Albert-László (1967–)](b/barabasi) · physicist, network scientist<span class="kw">scale-free networks, preferential attachment, network science, robustness and vulnerability</span>
+- [Bak, Per (1948–2002)](b/bak) · physicist<span class="kw">self-organized criticality, power-law dynamics, the sand-pile model, How Nature Works</span>
 - [Bateson, Gregory (1904–1980)](b/bateson) · anthropologist, cyberneticist<span class="kw">ecology of mind, difference that makes a difference, schismogenesis, the pattern which connects</span>
+- [Bertalanffy, Ludwig von (1901–1972)](b/bertalanffy) · biologist, systems thinker<span class="kw">general system theory, open systems, organismic biology, equifinality</span>
 - [Bergson, Henri (1859–1941)](b/bergson) · philosopher<span class="kw">duration, creative evolution, intuition, the élan vital</span>
 
 ## C
@@ -36,11 +45,14 @@ Individual thinkers referenced across the positioning section. Each page present
 ## G
 
 - [Gadamer, Hans-Georg (1900–2002)](g/gadamer) · philosopher<span class="kw">philosophical hermeneutics, prejudice, effective history, fusion of horizons</span>
+- [Gell-Mann, Murray (1929–2019)](g/gell-mann) · physicist<span class="kw">quarks, the Eightfold Way, effective complexity, Santa Fe Institute co-founder</span>
 - [Goodman, Nelson (1906–1998)](g/goodman) · philosopher<span class="kw">ways of worldmaking, symbol systems, rightness over truth, irrealism</span>
 
 ## H
 
 - [Habermas, Jürgen (1929–2025)](h/habermas) · philosopher, social theorist<span class="kw">communicative action, discourse ethics, lifeworld and system</span>
+- [Holling, C.S. (1930–2019)](h/holling) · ecologist<span class="kw">ecological resilience, the adaptive cycle, panarchy, resilience vs. stability</span>
+- [Holland, John (1929–2015)](h/holland) · computer scientist, complex systems researcher<span class="kw">genetic algorithms, adaptive agents, internal models, emergence, the CAS primitive</span>
 - [Heraclitus (c. 535–c. 475 BCE)](h/heraclitus) · philosopher<span class="kw">flux and constancy, unity of opposites, logos, fire</span>
 - [Hegel, Georg Wilhelm Friedrich (1770–1831)](h/hegel) · philosopher<span class="kw">dialectic, sublation, determinate negation, historical development</span>
 - [Heidegger, Martin (1889–1976)](h/heidegger) · philosopher<span class="kw">being-in-the-world, disclosure, Dasein, readiness-to-hand</span>
@@ -62,6 +74,8 @@ Individual thinkers referenced across the positioning section. Each page present
 
 ## L
 
+- [Langton, Christopher (1948–)](l/langton) · computer scientist<span class="kw">artificial life, edge of chaos, self-reproducing loops, the SFI artificial life workshops</span>
+- [Lorenz, Edward (1917–2008)](l/lorenz) · mathematician, meteorologist<span class="kw">deterministic chaos, sensitive dependence, the Lorenz attractor, the butterfly effect</span> · computer scientist<span class="kw">artificial life, edge of chaos, self-reproducing loops, the SFI artificial life workshops</span>
 - [Luhmann, Niklas (1927–1998)](l/luhmann) · sociologist<span class="kw">social systems, functional differentiation, communication, autopoiesis, structural coupling</span>
 - [Leibniz, Gottfried Wilhelm (1646–1716)](l/leibniz) · philosopher, mathematician<span class="kw">relational space, monads, pre-established harmony, the universal characteristic</span>
 - [Lyell, Charles (1797–1875)](l/lyell) · geologist<span class="kw">uniformitarianism, Principles of Geology, Tertiary classification, deep time</span>
@@ -74,6 +88,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Maynard Smith, John (1920–2004)](m/maynard-smith) · evolutionary biologist<span class="kw">evolutionary game theory, ESS, major transitions in evolution, the evolution of sex</span>
 - [Maturana, Humberto (1928–2021)](m/maturana) · biologist, philosopher<span class="kw">autopoiesis, biology of cognition, the observer, structural determinism</span>
 - [Merleau-Ponty, Maurice (1908–1961)](m/merleau-ponty) · philosopher<span class="kw">phenomenology of the body, perception, the habitual body, intercorporeality</span>
+- [Mitchell, Melanie (1969–)](m/mitchell) · computer scientist, complexity researcher<span class="kw">genetic algorithms, analogy-making, the CAS synthesis, complexity's limits and achievements</span>
 
 ## N
 
@@ -89,6 +104,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Polanyi, Michael (1891–1976)](p/polanyi) · chemist, philosopher<span class="kw">tacit knowledge, personal knowledge, indwelling, the republic of science</span>
 - [Proudhon, Pierre-Joseph (1809–1865)](p/proudhon) · social theorist<span class="kw">mutualism, federalism, property as relation, anarchism</span>
 - [Popper, Karl (1902–1994)](p/popper) · philosopher of science<span class="kw">falsificationism, conjecture and refutation, the open society</span>
+- [Prigogine, Ilya (1917–2003)](p/prigogine) · physical chemist<span class="kw">dissipative structures, non-equilibrium thermodynamics, order far from equilibrium, the arrow of time</span>
 
 ## R
 
@@ -99,6 +115,7 @@ Individual thinkers referenced across the positioning section. Each page present
 ## S
 
 - [Sapolsky, Robert (1957–)](s/sapolsky/) · neuroscientist<span class="kw">human behavioural biology, integrative across layers</span>
+- [Schelling, Thomas (1921–2016)](s/schelling) · economist, game theorist<span class="kw">focal points, the segregation model, micromotives and macrobehavior</span>
 - [Sellars, Wilfrid (1912–1989)](s/sellars) · philosopher<span class="kw">the myth of the given, the space of reasons, psychological nominalism, the manifest and scientific images</span>
 - [Sartre, Jean-Paul (1905–1980)](s/sartre) · philosopher<span class="kw">existentialism, radical freedom, consciousness as nothingness, engagement</span>
 - [Saussure, Ferdinand de (1857–1913)](s/saussure) · linguist<span class="kw">structural linguistics, the differential sign, langue and parole</span>
@@ -115,9 +132,12 @@ Individual thinkers referenced across the positioning section. Each page present
 
 - [Van Beneden, Pierre-Joseph (1809–1894)](v/van-beneden) · zoologist, paleontologist<span class="kw">commensalism, mutualism, parasitology, interspecific relations as gradient</span>
 - [Varela, Francisco (1946–2001)](v/varela) · biologist, cognitive scientist<span class="kw">autopoiesis, enactivism, neurophenomenology, the embodied mind</span>
+- [Von Foerster, Heinz (1911–2002)](v/von-foerster) · physicist, cyberneticist<span class="kw">second-order cybernetics, the observer in the system, eigenvalues of cognition, the Biological Computer Laboratory</span>
+- [Von Neumann, John (1903–1957)](v/von-neumann) · mathematician<span class="kw">game theory, von Neumann architecture, quantum mechanics, self-reproducing automata</span> · biologist, cognitive scientist<span class="kw">autopoiesis, enactivism, neurophenomenology, the embodied mind</span>
 
 ## W
 
 - [Wallace, Alfred Russel (1823–1913)](w/wallace) · naturalist, geographer<span class="kw">co-discovery of natural selection, biogeography, the Wallace Line, spiritualism</span>
 - [Whitehead, Alfred North (1861–1947)](w/whitehead) · philosopher, mathematician<span class="kw">process, actual occasions, creativity, prehension</span>
+- [Wiener, Norbert (1894–1964)](w/wiener) · mathematician<span class="kw">cybernetics, feedback, communication and control, the Macy conferences, the human use of human beings</span>
 - [Wittgenstein, Ludwig (1889–1951)](w/wittgenstein) · philosopher<span class="kw">language games, forms of life, meaning as use</span>

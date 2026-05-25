@@ -8,7 +8,6 @@ Persons and subjects referenced on the site without their own entry. One list, d
 - Mayr, Ernst — biological species concept, organism-as-target-of-selection, Synthesis architect; 3 links across mechanism, integration, after-synthesis
 - Fisher, R. A. — population genetics founder, runaway sexual selection, fundamental theorem; also eugenics; 3 links across mechanism, integration, social-darwinism
 - Lewontin, Richard — three-conditions formalisation, Spandrels critique, anti-reductionism; 2 links across mechanism, cultural-extensions
-- Prigogine, Ilya — dissipative structures, irreversibility; arrow of time, from-arrow-to-historicity
 - Schrödinger, Erwin — What is Life?, wave equation; arrow of time, from-arrow-to-historicity
 - Boltzmann, Ludwig — statistical mechanics, entropy, H-theorem; arrow of time
 - Berlin, Isaiah — value pluralism, incommensurability of values; interrelational-pluralism (priority for seed buildup)
@@ -75,7 +74,6 @@ Persons and subjects referenced on the site without their own entry. One list, d
 - Sumner, William Graham — American Social Darwinism case study; social-darwinism
 - Deleuze, Gilles — multiplicity, difference, rhizome; turn in science
 - Latour, Bruno — actor-network theory, modes of existence; turn in science
-- Stengers, Isabelle — cosmopolitics, ecology of practices; turn in science
 - Dahl, Robert — pluralist democracy; interrelational-pluralism
 - Laski, Harold — political pluralism; interrelational-pluralism
 - Democritus — atomism; interrelational-pluralism
@@ -93,8 +91,6 @@ Persons and subjects referenced on the site without their own entry. One list, d
 ## Subjects — candidates
 
 - Loop quantum gravity — closely tied to RQM, Rovelli's other programme
-- Complex adaptive systems — mutualism, Solé, decentralisation
 - Semiotics — Peirce, biosemiotics post
 - Embodied cognition — Merleau-Ponty, enactivism
-- Category theory — seed page, mathematical convergence
 - Thermodynamics / entropy — distinct from the positioning arrow-of-time page

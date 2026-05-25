@@ -40,7 +40,7 @@ done
 # Replace everything between "## Posts" marker and "## Parked" marker
 tmp=$(mktemp)
 awk -v sched="$schedule" '
-  /^## Posts/ { print "## Post schedule\n"; printf "%s", sched; skip=1; next }
+  /^## Post/ { print "## Post schedule\n"; printf "%s", sched; skip=1; next }
   /^## Parked/ { print ""; skip=0 }
   !skip { print }
 ' "$TASKS_FILE" > "$tmp"

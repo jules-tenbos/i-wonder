@@ -1,6 +1,6 @@
 # Scheduled Tasks
 
-Updated 2026-05-20. Tasks triggered by post publication and ongoing work.
+Updated 2026-05-25. Tasks triggered by post publication and ongoing work.
 
 ## Standing tasks
 
@@ -9,13 +9,15 @@ Updated 2026-05-20. Tasks triggered by post publication and ongoing work.
 - [ ] Post `status:` field convention — codify the set and what each means
 - [ ] Historical posts (Jul/Aug) need editorial notes — they will publish after interrelational pluralism has been named
 
-## Schedule changes (2026-05-17)
+## Schedule changes (2026-05-25)
 
-- Mutualism Without Intent moved from May 24 to Jul 20
-- Noticing the Grid moved from Jun 1 to May 24
-- How a Crash Put Me on Course moved from Jul 1 to Jun 1
-- Category theory series (5 posts) moved from Jun 4–20 to Sep 1–16
-- Earlier changes: discovery posts to Aug, perimeter posts to Jun 24/28, Privacy Naturally to May 28
+- Major reschedule: 4-day cadence filled through end of July
+- Three new posts added: Two-Pronged Anti-Representationalism (May 28), Whitehead's Process Theory (Jun 4), Building from the Seed (Jun 12)
+- Wiring the Brain moved from Jul 8 to Jun 8; No Life Without Death from Jul 16 to Jun 16
+- A View from the Perimeter moved from Jun 24 to Jun 20; Promises Made from Jul 24 to Jun 24
+- Four Aug posts moved to Jul; category theory series compressed to Jul 28–Aug 28
+- Discovery posts moved to Sep; Decentralised Cognition Revolution to Sep 4
+- Earlier changes: see git history
 
 ## Post schedule
 
@@ -23,69 +25,51 @@ Updated 2026-05-20. Tasks triggered by post publication and ongoing work.
 
 | Date | Title | Status |
 |------|-------|--------|
-| May 20 | From Seed to Interrelational Pluralism | ready |
-| May 22 | Noticing the Grid | ready |
-| May 24 | Privacy, Naturally! | ready |
+| May 28 | Two-Pronged Anti-Representationalism | storyline |
 
 ### June
 
 | Date | Title | Status |
 |------|-------|--------|
-| Jun 1 | How a Crash Put Me on Course | final review |
-| Jun 24 | A View from the Perimeter | Mandatory review |
+| Jun 1 | How a Crash Put Me on Course | ready |
+| Jun 4 | Whitehead's Process Theory | draft |
+| Jun 8 | Wiring the Brain | final review |
+| Jun 12 | Building from the Seed | draft |
+| Jun 16 | No Life Without Death | final review |
+| Jun 20 | A View from the Perimeter | Mandatory review |
+| Jun 24 | Promises Made, Promises Broken | final review |
 | Jun 28 | A View from the Perimeter — The Thinking Side | Mandatory review |
 
 ### July
 
 | Date | Title | Status |
 |------|-------|--------|
+| Jul 1 | Philosophy and the Brain | final review |
 | Jul 4 | Decentralised Process Models | Mandatory review |
-| Jul 8 | Wiring the Brain | final review |
+| Jul 8 | Evolution and the Brain | final review |
 | Jul 12 | I Know That I Don't Know | Mandatory review |
-| Jul 16 | No Life Without Death | final review |
+| Jul 16 | Am I a Libertarian? | final review |
 | Jul 20 | Mutualism Without Intent | review |
-| Jul 24 | Promises Made, Promises Broken | final review |
+| Jul 24 | Embracing Anti-Foundationalism | final review |
+| Jul 28 | The Seed and Category Theory | mandatory review |
 
 ### August
 
 | Date | Title | Status |
 |------|-------|--------|
-| Aug 1 | Philosophy and the Brain | final review |
-| Aug 4 | The Decentralised Cognition Revolution | Mandatory review |
-| Aug 8 | Evolution and the Brain | final review |
-| Aug 12 | Creation and Discovery | Mandatory review |
-| Aug 16 | Am I a Libertarian? | final review |
-| Aug 20 | Diversified Discovery | Mandatory review |
-| Aug 24 | Embracing Anti-Foundationalism | final review |
-| Aug 28 | The Discovery Multiplier | Mandatory review |
+| Aug 4 | The Wrapper | mandatory review |
+| Aug 12 | Is Like, Is | mandatory review |
+| Aug 20 | Meaning Patterns Travel | mandatory review |
+| Aug 28 | The Friction with 1-Categorical Thinking | mandatory review |
 
 ### September
 
 | Date | Title | Status |
 |------|-------|--------|
-| Sep 1 | The Seed and Category Theory | mandatory review |
-| Sep 4 | The Wrapper | mandatory review |
-| Sep 8 | Is Like, Is | mandatory review |
-| Sep 12 | Meaning Patterns Travel | mandatory review |
-| Sep 16 | The Friction with 1-Categorical Thinking | mandatory review |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| Sep 4 | The Decentralised Cognition Revolution | Mandatory review |
+| Sep 12 | Creation and Discovery | Mandatory review |
+| Sep 20 | Diversified Discovery | Mandatory review |
+| Sep 28 | The Discovery Multiplier | Mandatory review |
 
 ## Parked work
 
