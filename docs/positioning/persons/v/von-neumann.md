@@ -2,7 +2,7 @@
 layout: default
 title: "John von Neumann (1903–1957)"
 description: "Hungarian-American mathematician — game theory, the von Neumann architecture, quantum mechanics, self-reproducing automata. A founding figure across mathematics, computing, physics, and economics."
-lastmod: 2026-05-25
+lastmod: 2026-05-26
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Von Neumann
@@ -21,7 +21,7 @@ During World War II von Neumann contributed to the Manhattan Project, particular
 
 ## Quantum mechanics
 
-*Mathematische Grundlagen der Quantenmechanik* (*Mathematical Foundations of Quantum Mechanics*, 1932) gave quantum mechanics its rigorous mathematical framework. Von Neumann formulated the theory in terms of Hilbert spaces and self-adjoint operators — replacing the ad hoc matrix mechanics of [Heisenberg](https://en.wikipedia.org/wiki/Werner_Heisenberg) and the wave mechanics of [Schrödinger](https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger) with a unified mathematical structure.
+*Mathematische Grundlagen der Quantenmechanik* (*Mathematical Foundations of Quantum Mechanics*, 1932) gave quantum mechanics its rigorous mathematical framework. Von Neumann formulated the theory in terms of Hilbert spaces and self-adjoint operators — replacing the ad hoc matrix mechanics of [Heisenberg](https://en.wikipedia.org/wiki/Werner_Heisenberg) and the wave mechanics of [Schrödinger](/positioning/persons/s/schrodinger/) with a unified mathematical structure.
 
 The book also introduced the density matrix for describing mixed quantum states and the von Neumann entropy as the quantum analogue of Shannon entropy. His proof that hidden-variable theories are incompatible with quantum mechanics was influential for decades, though [John Bell](https://en.wikipedia.org/wiki/John_Stewart_Bell)'s later work (1964) showed that the proof rested on an assumption (non-contextuality) that could be relaxed.
 

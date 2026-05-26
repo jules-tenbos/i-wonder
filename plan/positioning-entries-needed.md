@@ -4,8 +4,6 @@ Persons and subjects referenced on the site without their own entry. One list, d
 
 ## Persons
 
-- Schrödinger, Erwin — What is Life?, wave equation; arrow of time, from-arrow-to-historicity
-- Boltzmann, Ludwig — statistical mechanics, entropy, H-theorem; arrow of time
 - Berlin, Isaiah — value pluralism, incommensurability of values; interrelational-pluralism (priority for seed buildup)
 - Arendt, Hannah — plurality as the human condition, political pluralism; interrelational-pluralism (priority for seed buildup)
 - Putnam, Hilary (+Davidson) — internal realism, conceptual relativity; interrelational-pluralism (scheduled Sep)
@@ -14,9 +12,6 @@ Persons and subjects referenced on the site without their own entry. One list, d
 - Oakeshott, Michael — practical knowledge, critique of rationalism; interrelational-pluralism (scheduled Oct)
 - Cassirer, Ernst — symbolic forms: language, myth, science, art; interrelational-pluralism (scheduled Oct)
 - Nagarjuna — emptiness (sunyata), dependent origination; interrelational-pluralism (candidate)
-- Reichenbach, Hans — branch systems, direction of time; from-arrow-to-historicity
-- Shannon, Claude — information theory; arrow of time
-- Penrose, Roger — low-entropy beginning, Penrose diagrams; arrow of time
 - Hawking, Stephen — three arrows, psychological arrow; arrow of time
 - Albert, David — Past Hypothesis; from-arrow-to-historicity
 - Pinker, Steven — evolutionary psychology advocate, The Blank Slate; cultural-extensions

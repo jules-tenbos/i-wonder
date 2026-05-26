@@ -14,7 +14,7 @@ Yet time clearly has a direction. Physics asks: where does that direction come f
 
 ## Statistical mechanics and entropy
 
-[Ludwig Boltzmann](https://en.wikipedia.org/wiki/Ludwig_Boltzmann) and [Josiah Willard Gibbs](https://en.wikipedia.org/wiki/Josiah_Willard_Gibbs) found the answer in numbers, independently developing statistical mechanics. Boltzmann (1870s) put it most directly. When every particle in a system can be tracked individually, every process is reversible. When the system is large enough that a description must work with aggregate quantities — temperature, pressure, volume — there are degrees of freedom that the description does not track. These hidden degrees of freedom are what [entropy](https://en.wikipedia.org/wiki/Entropy_(statistical_thermodynamics)) measures: S = k_B ln(Ω), the number of microstates consistent with the observed macrostate.
+[Ludwig Boltzmann](/positioning/persons/b/boltzmann/) and [Josiah Willard Gibbs](https://en.wikipedia.org/wiki/Josiah_Willard_Gibbs) found the answer in numbers, independently developing statistical mechanics. Boltzmann (1870s) put it most directly. When every particle in a system can be tracked individually, every process is reversible. When the system is large enough that a description must work with aggregate quantities — temperature, pressure, volume — there are degrees of freedom that the description does not track. These hidden degrees of freedom are what [entropy](https://en.wikipedia.org/wiki/Entropy_(statistical_thermodynamics)) measures: S = k_B ln(Ω), the number of microstates consistent with the observed macrostate.
 
 The [second law of thermodynamics](https://en.wikipedia.org/wiki/Second_law_of_thermodynamics) follows: entropy does not decrease in an isolated system, because there are overwhelmingly more high-entropy configurations than low-entropy ones. The system migrates toward what is statistically dominant. This gives time its direction.
 
@@ -28,7 +28,7 @@ Among emergent properties, entropy is distinctive. Temperature and pressure can 
 
 ## Information and trace
 
-Entropy connects to information. [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon) showed in *[A Mathematical Theory of Communication](https://en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication)* (1948) that information and thermodynamic entropy share the same mathematical form. [Rolf Landauer](https://en.wikipedia.org/wiki/Rolf_Landauer) made it physical in "[Irreversibility and Heat Generation in the Computing Process](https://en.wikipedia.org/wiki/Landauer%27s_principle)" (1961): erasing a bit of information requires a minimum dissipation of energy. Information has thermodynamic cost.
+Entropy connects to information. [Claude Shannon](/positioning/persons/s/shannon/) showed in *[A Mathematical Theory of Communication](https://en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication)* (1948) that information and thermodynamic entropy share the same mathematical form. [Rolf Landauer](https://en.wikipedia.org/wiki/Rolf_Landauer) made it physical in "[Irreversibility and Heat Generation in the Computing Process](https://en.wikipedia.org/wiki/Landauer%27s_principle)" (1961): erasing a bit of information requires a minimum dissipation of energy. Information has thermodynamic cost.
 
 As Landauer established, storing and erasing information are thermodynamic processes that require an entropy gradient.
 
@@ -48,7 +48,7 @@ All three arrows point the same way in our universe. Whether this alignment is n
 
 The arrow depends on a boundary condition: the early universe was in a state of extraordinarily low entropy. Without this, there would be no gradient for entropy to increase along, and no arrow.
 
-[Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose) quantified the improbability in *The Road to Reality* (2004): the gravitational entropy of the early universe was vanishingly small — matter was spread nearly uniformly, gravity had not yet clumped it into stars, galaxies, and black holes. The second law runs because we started from this special state. Why the initial state was so special is, as Penrose puts it, one of the deepest puzzles in physics.
+[Roger Penrose](/positioning/persons/r/penrose/) quantified the improbability in *The Road to Reality* (2004): the gravitational entropy of the early universe was vanishingly small — matter was spread nearly uniformly, gravity had not yet clumped it into stars, galaxies, and black holes. The second law runs because we started from this special state. Why the initial state was so special is, as Penrose puts it, one of the deepest puzzles in physics.
 
 [Sean Carroll](https://en.wikipedia.org/wiki/Sean_Carroll_(physicist)) explores the implications in *From Eternity to Here* (2010): "The reason we remember the past and not the future, the reason effects always follow causes and never vice versa, is because of entropy." The arrow of time is real but not fundamental — it is a consequence of a cosmological fact about how the universe began.
 

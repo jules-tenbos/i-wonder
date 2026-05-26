@@ -88,6 +88,9 @@ Updated 2026-05-26. Tasks triggered by post publication and ongoing work.
 - [x] 5 person pages created: Wynne-Edwards, Medawar, Hutchinson, Margulis, Mendel (biology cluster deepening)
 - [x] Wiki-to-internal link flips: integration-with-genetics (Mendel), after-the-synthesis (Margulis), common-descent (Margulis), macarthur (Hutchinson), williams (Wynne-Edwards, Medawar)
 - [x] Persons index updated with all five new entries; MacArthur see-also updated with Hutchinson
+- [x] 5 person pages created: Schrödinger, Boltzmann, Reichenbach, Shannon, Penrose (arrow-of-time cluster)
+- [x] Wiki-to-internal link flips: arrow-of-time seed (Boltzmann, Shannon, Penrose), from-arrow-to-historicity seed (Reichenbach, Schrödinger), wiener (Shannon ×2), von-neumann (Schrödinger)
+- [x] Persons index updated with all five new entries
 
 ## Parked work
 
@@ -98,5 +101,5 @@ Updated 2026-05-26. Tasks triggered by post publication and ongoing work.
 - [ ] Remaining descriptions: seed trajectories, language/reality sub-pages, scheduled blog posts
 - [ ] RQM post over word limit (1249 words)
 - [ ] Person page craft guidance — add "Where X stops" drafting process note to tone-of-voice/positioning-section.md § How to apply
-- [ ] Person pages next tranche — Schrödinger, Boltzmann (arrow-of-time cluster); Berlin, Arendt (interrelational-pluralism); then Huxley (Julian), Simpson, Stebbins. See plan/positioning-entries-needed.md
+- [ ] Person pages next tranche — Berlin, Arendt (interrelational-pluralism); then Hawking, Albert (arrow-of-time remainders); Huxley (Julian), Simpson, Stebbins. See plan/positioning-entries-needed.md
 - [ ] Cross-page audit convention — when a controversy appears on multiple person pages, check both sides voice it consistently (learned from Wilson/Lewontin and Hamilton/Wilson reviews)

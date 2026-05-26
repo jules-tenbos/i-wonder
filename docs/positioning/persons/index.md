@@ -24,6 +24,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Bak, Per (1948–2002)](b/bak) · physicist<span class="kw">self-organized criticality, power-law dynamics, the sand-pile model, How Nature Works</span>
 - [Bateson, Gregory (1904–1980)](b/bateson) · anthropologist, cyberneticist<span class="kw">ecology of mind, difference that makes a difference, schismogenesis, the pattern which connects</span>
 - [Bertalanffy, Ludwig von (1901–1972)](b/bertalanffy) · biologist, systems thinker<span class="kw">general system theory, open systems, organismic biology, equifinality</span>
+- [Boltzmann, Ludwig (1844–1906)](b/boltzmann) · physicist<span class="kw">statistical mechanics, entropy, the H-theorem, the Boltzmann equation, the arrow of time</span>
 - [Bergson, Henri (1859–1941)](b/bergson) · philosopher<span class="kw">duration, creative evolution, intuition, the élan vital</span>
 
 ## C
@@ -125,10 +126,12 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Polanyi, Michael (1891–1976)](p/polanyi) · chemist, philosopher<span class="kw">tacit knowledge, personal knowledge, indwelling, the republic of science</span>
 - [Proudhon, Pierre-Joseph (1809–1865)](p/proudhon) · social theorist<span class="kw">mutualism, federalism, property as relation, anarchism</span>
 - [Popper, Karl (1902–1994)](p/popper) · philosopher of science<span class="kw">falsificationism, conjecture and refutation, the open society</span>
+- [Penrose, Roger (1931–)](r/penrose) · mathematician, physicist<span class="kw">singularity theorems, low-entropy beginning, Penrose diagrams, twistor theory, non-computability of consciousness</span>
 - [Prigogine, Ilya (1917–2003)](p/prigogine) · physical chemist<span class="kw">dissipative structures, non-equilibrium thermodynamics, order far from equilibrium, the arrow of time</span>
 
 ## R
 
+- [Reichenbach, Hans (1891–1953)](r/reichenbach) · philosopher of science<span class="kw">the direction of time, branch systems, common cause principle, probability and induction</span>
 - [Rorty, Richard (1931–2007)](r/rorty) · philosopher<span class="kw">pragmatism, conversation over correspondence, contingency, solidarity</span>
 - [Rovelli, Carlo (1956–)](r/rovelli) · theoretical physicist, philosopher<span class="kw">loop quantum gravity, relational QM, time, Nagarjuna</span>
 - [Russell, Bertrand (1872–1970)](r/russell) · logician, philosopher<span class="kw">Principia Mathematica, logical atomism, the theory of descriptions, Russell's paradox</span>
@@ -136,6 +139,8 @@ Individual thinkers referenced across the positioning section. Each page present
 ## S
 
 - [Sapolsky, Robert (1957–)](s/sapolsky/) · neuroscientist<span class="kw">human behavioural biology, integrative across layers</span>
+- [Schrödinger, Erwin (1887–1961)](s/schrodinger) · physicist<span class="kw">wave mechanics, the Schrödinger equation, What is Life?, negative entropy, the cat</span>
+- [Shannon, Claude (1916–2001)](s/shannon) · mathematician, engineer<span class="kw">information theory, the bit, channel capacity, information entropy, Boolean circuit design</span>
 - [Schelling, Thomas (1921–2016)](s/schelling) · economist, game theorist<span class="kw">focal points, the segregation model, micromotives and macrobehavior</span>
 - [Sellars, Wilfrid (1912–1989)](s/sellars) · philosopher<span class="kw">the myth of the given, the space of reasons, psychological nominalism, the manifest and scientific images</span>
 - [Sartre, Jean-Paul (1905–1980)](s/sartre) · philosopher<span class="kw">existentialism, radical freedom, consciousness as nothingness, engagement</span>

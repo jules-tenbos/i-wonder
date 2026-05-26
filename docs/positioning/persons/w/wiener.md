@@ -2,7 +2,7 @@
 layout: default
 title: "Norbert Wiener (1894–1964)"
 description: "American mathematician — cybernetics, feedback, the science of communication and control in animal and machine. The founding figure of a tradition that shaped systems thinking, AI, and complex adaptive systems."
-lastmod: 2026-05-25
+lastmod: 2026-05-26
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Wiener
@@ -31,13 +31,13 @@ The core concepts:
 
 **Circular causality.** In a feedback system, cause and effect are not linear. The output changes the conditions that produced it; the system acts on itself. Wiener saw this as the structural break from classical mechanistic thinking: in a feedback system, you cannot separate cause from effect without destroying the phenomenon.
 
-**Information and entropy.** Wiener developed a connection between information and entropy independently of (and roughly contemporaneously with) [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon)'s information theory. His formulation: information is a measure of organisation; entropy is a measure of disorganisation. A message carries information to the extent that it reduces uncertainty. The connection to thermodynamics was deliberate — Wiener saw communication and thermodynamics as aspects of the same picture.
+**Information and entropy.** Wiener developed a connection between information and entropy independently of (and roughly contemporaneously with) [Claude Shannon](/positioning/persons/s/shannon/)'s information theory. His formulation: information is a measure of organisation; entropy is a measure of disorganisation. A message carries information to the extent that it reduces uncertainty. The connection to thermodynamics was deliberate — Wiener saw communication and thermodynamics as aspects of the same picture.
 
 **The human use of human beings.** *The Human Use of Human Beings: Cybernetics and Society* (1950) extended the framework into social and political territory. Wiener argued that automation and cybernetic technology could liberate or enslave, depending on whether they were designed to serve human purposes or to replace human judgment. The book anticipated debates about AI, automation, and labour displacement by decades.
 
 ## The Macy conferences
 
-The [Macy conferences on cybernetics](https://en.wikipedia.org/wiki/Macy_conferences) (1946–1953) were the institutional form of Wiener's cross-disciplinary vision. Ten meetings bringing together mathematicians, engineers, neurophysiologists, psychologists, anthropologists, and social scientists — including [Warren McCulloch](https://en.wikipedia.org/wiki/Warren_Sturgis_McCulloch), [Walter Pitts](https://en.wikipedia.org/wiki/Walter_Pitts), [Gregory Bateson](/positioning/persons/b/bateson/), [Margaret Mead](https://en.wikipedia.org/wiki/Margaret_Mead), [John von Neumann](/positioning/persons/v/von-neumann/), and [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon).
+The [Macy conferences on cybernetics](https://en.wikipedia.org/wiki/Macy_conferences) (1946–1953) were the institutional form of Wiener's cross-disciplinary vision. Ten meetings bringing together mathematicians, engineers, neurophysiologists, psychologists, anthropologists, and social scientists — including [Warren McCulloch](https://en.wikipedia.org/wiki/Warren_Sturgis_McCulloch), [Walter Pitts](https://en.wikipedia.org/wiki/Walter_Pitts), [Gregory Bateson](/positioning/persons/b/bateson/), [Margaret Mead](https://en.wikipedia.org/wiki/Margaret_Mead), [John von Neumann](/positioning/persons/v/von-neumann/), and [Claude Shannon](/positioning/persons/s/shannon/).
 
 The conferences established that feedback, information, and self-regulation could be studied as formal structures independent of their physical substrate. This move — substrate-independence as a research principle — passed through cybernetics into AI, cognitive science, and eventually CAS.
 

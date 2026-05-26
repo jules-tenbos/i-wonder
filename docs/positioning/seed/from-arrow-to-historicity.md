@@ -12,7 +12,7 @@ The [arrow of time](/positioning/seed/the-arrow-of-time/) establishes that irrev
 
 ## From irreversibility to traces
 
-[Hans Reichenbach](https://en.wikipedia.org/wiki/Hans_Reichenbach) provided the physical mechanism in *The Direction of Time* (1956). His concept of **branch systems** explains how traces form: a subsystem interacts with a larger system, acquires a low-entropy imprint through that interaction, and then evolves in quasi-isolation toward equilibrium. A footprint in sand, a fossil in rock, a crater on the moon — each is a branch system whose current ordered state is only explicable by reference to a past interaction.
+[Hans Reichenbach](/positioning/persons/r/reichenbach/) provided the physical mechanism in *The Direction of Time* (1956). His concept of **branch systems** explains how traces form: a subsystem interacts with a larger system, acquires a low-entropy imprint through that interaction, and then evolves in quasi-isolation toward equilibrium. A footprint in sand, a fossil in rock, a crater on the moon — each is a branch system whose current ordered state is only explicable by reference to a past interaction.
 
 The asymmetry of traces follows from the asymmetry of entropy. We find traces of the past, not of the future, because branch systems inherit their low-entropy initial states from interactions that occurred when the larger system was at lower entropy. As [David Albert](https://en.wikipedia.org/wiki/David_Albert) argues in *Time and Chance* (2000), the cosmological low-entropy initial condition — the Past Hypothesis — is what grounds the reliability of all records. A record is informative about the past only because the recording device was in an initialised ready state before the interaction.
 
@@ -22,7 +22,7 @@ Traces are where thermodynamics and information meet. As [Landauer](https://en.w
 
 A trace is passive — it is left behind. Retention is active — it is carried forward. The distinction marks a threshold in the literature.
 
-[Schrödinger](https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger) identified the threshold in *What is Life?* (1944): a living organism avoids equilibrium by feeding on negative entropy. It does not merely carry traces — it actively maintains its own order, importing low entropy from its environment and exporting high entropy in return. The organism is not a branch system drifting toward equilibrium; it is a system that sustains its own distance from equilibrium.
+[Schrödinger](/positioning/persons/s/schrodinger/) identified the threshold in *What is Life?* (1944): a living organism avoids equilibrium by feeding on negative entropy. It does not merely carry traces — it actively maintains its own order, importing low entropy from its environment and exporting high entropy in return. The organism is not a branch system drifting toward equilibrium; it is a system that sustains its own distance from equilibrium.
 
 [Prigogine](/positioning/persons/p/prigogine/) generalised the point. Dissipative structures maintain themselves far from equilibrium through continuous entropy exchange. In *From Being to Becoming* (1980), he frames this as the difference between a physics of being — deterministic, time-symmetric, without history — and a physics of becoming, where irreversibility makes structure, novelty, and evolution possible. "It is precisely through irreversible processes associated with the arrow of time that nature achieves its most delicate and complex structures" (*The End of Certainty*, 1997).
 
