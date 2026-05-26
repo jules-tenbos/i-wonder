@@ -91,6 +91,8 @@ Updated 2026-05-26. Tasks triggered by post publication and ongoing work.
 - [x] 5 person pages created: Schrödinger, Boltzmann, Reichenbach, Shannon, Penrose (arrow-of-time cluster)
 - [x] Wiki-to-internal link flips: arrow-of-time seed (Boltzmann, Shannon, Penrose), from-arrow-to-historicity seed (Reichenbach, Schrödinger), wiener (Shannon ×2), von-neumann (Schrödinger)
 - [x] Persons index updated with all five new entries
+- [x] Feedback fixes across all 15 new pages: Dennett closer softened, Eldredge reception added (hierarchy theory, turnover pulse), Heraclitus closer rewritten + intro reframed, MacArthur reception added (Simberloff/Hubbell) + Wilson island bio trimmed to pointer, Williams Wilson-loop closed + "suppress"→"displace", Medawar ageing framing harmonized + Popper linked, Hutchinson ratio reception added, Margulis reciprocal updates (Dawkins closer, Maynard Smith major transitions), Boltzmann elevation fix + "vindicated" removed, Penrose Escher/thesis separated + Dennett reclassified + framing fixes, Reichenbach elevation fix + chronology reordered, Schrödinger unstable synthesis removed + 1938 Graz letter + rendering fix, Shannon PhD/Princeton added + Tukey credited
+- [x] Plan updated with 11 threshold candidates from reviews + 2 subject candidates
 
 ## Parked work
 
