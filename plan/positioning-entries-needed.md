@@ -4,8 +4,6 @@ Persons and subjects referenced on the site without their own entry. One list, d
 
 ## Persons
 
-- Hamilton, W. D. — inclusive fitness, kin selection; refs on after-synthesis, wilson, dawkins, trivers
-- Haldane, J. B. S. — population genetics, cost of natural selection; refs on integration-with-genetics, dobzhansky, mayr, fisher, wright
 - Williams, George C. — Adaptation and Natural Selection, gene-centric critique of group selection; refs on after-synthesis, dawkins, fisher
 - Kimura, Motoo — neutral theory of molecular evolution; refs on after-synthesis, lewontin, wright
 - Eldredge, Niles — punctuated equilibrium (with Gould); refs on after-synthesis, gould

@@ -9,7 +9,7 @@ lastmod: 2026-05-15
 
 # John Maynard Smith (1920–2004)
 
-Maynard Smith was a theoretical evolutionary biologist who brought mathematical rigour to questions about animal behaviour, sexual reproduction, and the structure of evolutionary history. He trained first as an aeronautical engineer, then retrained as a geneticist under [J. B. S. Haldane](https://en.wikipedia.org/wiki/J._B._S._Haldane). Two of his most influential contributions — [evolutionary game theory](https://en.wikipedia.org/wiki/Evolutionary_game_theory) and the concept of the evolutionarily stable strategy (ESS), and the framework of major evolutionary transitions developed with [Eörs Szathmáry](https://en.wikipedia.org/wiki/Eörs_Szathmáry) — each opened a field that continues after him.
+Maynard Smith was a theoretical evolutionary biologist who brought mathematical rigour to questions about animal behaviour, sexual reproduction, and the structure of evolutionary history. He trained first as an aeronautical engineer, then retrained as a geneticist under [J. B. S. Haldane](/positioning/persons/h/haldane/). Two of his most influential contributions — [evolutionary game theory](https://en.wikipedia.org/wiki/Evolutionary_game_theory) and the concept of the evolutionarily stable strategy (ESS), and the framework of major evolutionary transitions developed with [Eörs Szathmáry](https://en.wikipedia.org/wiki/Eörs_Szathmáry) — each opened a field that continues after him.
 
 ---
 

@@ -55,6 +55,8 @@ Individual thinkers referenced across the positioning section. Each page present
 
 ## H
 
+- [Haldane, J. B. S. (1892–1964)](h/haldane) · geneticist, polymath<span class="kw">population genetics, cost of natural selection, enzyme kinetics, origin of life, Marxism</span>
+- [Hamilton, W. D. (1936–2000)](h/hamilton) · evolutionary biologist<span class="kw">inclusive fitness, Hamilton's rule, kin selection, sex and parasites, gene's-eye view</span>
 - [Habermas, Jürgen (1929–2025)](h/habermas) · philosopher, social theorist<span class="kw">communicative action, discourse ethics, lifeworld and system</span>
 - [Hazen, Robert (1948–)](h/hazen) · mineralogist, astrobiologist<span class="kw">mineral evolution, evolutionary system of mineralogy, mineral ecology, assembly theory exchange</span>
 - [Holling, C.S. (1930–2019)](h/holling) · ecologist<span class="kw">ecological resilience, the adaptive cycle, panarchy, resilience vs. stability</span>
