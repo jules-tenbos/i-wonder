@@ -4,24 +4,18 @@ Persons and subjects referenced on the site without their own entry. One list, d
 
 ## Persons
 
-- Dawkins, Richard — gene-centric view, memes, universal Darwinism; 4 wiki links across mechanism, after-synthesis, cultural-extensions
-- Mayr, Ernst — biological species concept, organism-as-target-of-selection, Synthesis architect; 3 links across mechanism, integration, after-synthesis
-- Fisher, R. A. — population genetics founder, runaway sexual selection, fundamental theorem; also eugenics; 3 links across mechanism, integration, social-darwinism
-- Lewontin, Richard — three-conditions formalisation, Spandrels critique, anti-reductionism; 2 links across mechanism, cultural-extensions
+- Hamilton, W. D. — inclusive fitness, kin selection; refs on after-synthesis, wilson, dawkins, trivers
+- Haldane, J. B. S. — population genetics, cost of natural selection; refs on integration-with-genetics, dobzhansky, mayr, fisher, wright
+- Williams, George C. — Adaptation and Natural Selection, gene-centric critique of group selection; refs on after-synthesis, dawkins, fisher
+- Kimura, Motoo — neutral theory of molecular evolution; refs on after-synthesis, lewontin, wright
+- Eldredge, Niles — punctuated equilibrium (with Gould); refs on after-synthesis, gould
+- MacArthur, Robert — island biogeography (with Wilson); refs on wilson
+- Dennett, Daniel — Darwin's Dangerous Idea, universal Darwinism, consciousness, intentionality; cultural-extensions, dawkins
+- Mendel, Gregor — discrete hereditary factors, foundation of genetics; integration
 - Schrödinger, Erwin — What is Life?, wave equation; arrow of time, from-arrow-to-historicity
 - Boltzmann, Ludwig — statistical mechanics, entropy, H-theorem; arrow of time
 - Berlin, Isaiah — value pluralism, incommensurability of values; interrelational-pluralism (priority for seed buildup)
 - Arendt, Hannah — plurality as the human condition, political pluralism; interrelational-pluralism (priority for seed buildup)
-- Dennett, Daniel — Darwin's Dangerous Idea, universal Darwinism, consciousness, intentionality; cultural-extensions
-- Haldane, J. B. S. — population genetics, cost of natural selection, polymath; 2 links, integration
-- Mendel, Gregor — discrete hereditary factors, foundation of genetics; integration
-- Gould, Stephen Jay — punctuated equilibrium, Spandrels, Structure of Evolutionary Theory; after-synthesis
-- Wilson, E. O. — Sociobiology, sociobiology controversy, late-career group selection shift; after-synthesis, social-darwinism
-- Dobzhansky, Theodosius — Synthesis architect, Genetics and the Origin of Species, "nothing in biology makes sense"; integration
-- Wright, Sewall — adaptive landscape, genetic drift, population structure; integration
-- Hamilton, W. D. — inclusive fitness, kin selection; after-synthesis
-- Kimura, Motoo — neutral theory of molecular evolution; after-synthesis
-- Williams, George C. — Adaptation and Natural Selection, gene-centric critique of group selection; after-synthesis
 - Putnam, Hilary (+Davidson) — internal realism, conceptual relativity; interrelational-pluralism (scheduled Sep)
 - MacIntyre, Alasdair — tradition-constituted rationality; interrelational-pluralism (scheduled Sep)
 - Hayek, Friedrich — knowledge problem, spontaneous order; interrelational-pluralism (scheduled Sep)

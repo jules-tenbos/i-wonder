@@ -33,12 +33,15 @@ Individual thinkers referenced across the positioning section. Each page present
 
 ## D
 
+- [Dawkins, Richard (1941–)](d/dawkins) · evolutionary biologist<span class="kw">the selfish gene, gene-centric view, memes, the extended phenotype, universal Darwinism</span>
 - [Darwin, Charles (1809–1882)](d/darwin) · naturalist<span class="kw">natural selection, the Beagle voyage, one long argument, barnacles to earthworms</span>
 - [Descartes, René (1596–1650)](d/descartes) · philosopher, mathematician<span class="kw">the cogito, the mirror, the mind-body split, method</span>
 - [Dewey, John (1859–1952)](d/dewey) · philosopher<span class="kw">pragmatism, democracy, inquiry as community problem-solving, experience as transaction</span>
+- [Dobzhansky, Theodosius (1900–1975)](d/dobzhansky) · geneticist, evolutionary biologist<span class="kw">Genetics and the Origin of Species, Modern Synthesis bridge, isolating mechanisms, nothing in biology</span>
 
 ## F
 
+- [Fisher, R. A. (1890–1962)](f/fisher) · statistician, geneticist<span class="kw">population genetics, fundamental theorem of natural selection, ANOVA, experimental design, eugenics</span>
 - [Feyerabend, Paul (1924–1994)](f/feyerabend) · philosopher of science<span class="kw">against method, theoretical pluralism, incommensurability</span>
 - [Fichte, Johann Gottlieb (1762–1814)](f/fichte) · philosopher<span class="kw">self-positing I, the not-I, differentiation as origin</span>
 - [Frege, Gottlob (1848–1925)](f/frege) · logician, philosopher<span class="kw">modern logic, sense and reference, the concept-script, anti-psychologism</span>
@@ -47,6 +50,7 @@ Individual thinkers referenced across the positioning section. Each page present
 
 - [Gadamer, Hans-Georg (1900–2002)](g/gadamer) · philosopher<span class="kw">philosophical hermeneutics, prejudice, effective history, fusion of horizons</span>
 - [Gell-Mann, Murray (1929–2019)](g/gell-mann) · physicist<span class="kw">quarks, the Eightfold Way, effective complexity, Santa Fe Institute co-founder</span>
+- [Gould, Stephen Jay (1941–2002)](g/gould) · paleontologist, evolutionary biologist<span class="kw">punctuated equilibrium, Spandrels critique, contingency, hierarchy theory, popular science</span>
 - [Goodman, Nelson (1906–1998)](g/goodman) · philosopher<span class="kw">ways of worldmaking, symbol systems, rightness over truth, irrealism</span>
 
 ## H
@@ -79,6 +83,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Langton, Christopher (1948–)](l/langton) · computer scientist<span class="kw">artificial life, edge of chaos, self-reproducing loops, the SFI artificial life workshops</span>
 - [Lorenz, Edward (1917–2008)](l/lorenz) · mathematician, meteorologist<span class="kw">deterministic chaos, sensitive dependence, the Lorenz attractor, the butterfly effect</span> · computer scientist<span class="kw">artificial life, edge of chaos, self-reproducing loops, the SFI artificial life workshops</span>
 - [Luhmann, Niklas (1927–1998)](l/luhmann) · sociologist<span class="kw">social systems, functional differentiation, communication, autopoiesis, structural coupling</span>
+- [Lewontin, Richard (1929–2021)](l/lewontin) · evolutionary biologist, geneticist<span class="kw">three-conditions formalisation, Spandrels critique, organism-environment dialectic, anti-reductionism</span>
 - [Leibniz, Gottfried Wilhelm (1646–1716)](l/leibniz) · philosopher, mathematician<span class="kw">relational space, monads, pre-established harmony, the universal characteristic</span>
 - [Lyell, Charles (1797–1875)](l/lyell) · geologist<span class="kw">uniformitarianism, Principles of Geology, Tertiary classification, deep time</span>
 - [Lyotard, Jean-François (1924–1998)](l/lyotard) · philosopher<span class="kw">the postmodern condition, the differend, language games, metanarratives</span>
@@ -88,6 +93,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Malthus, Thomas (1766–1834)](m/malthus) · political economist, demographer<span class="kw">principle of population, moral restraint, rent, effective demand</span>
 - [Marx, Karl (1818–1883)](m/marx) · philosopher, political economist<span class="kw">critique of political economy, materialist conception of history, alienation, Capital</span>
 - [Maynard Smith, John (1920–2004)](m/maynard-smith) · evolutionary biologist<span class="kw">evolutionary game theory, ESS, major transitions in evolution, the evolution of sex</span>
+- [Mayr, Ernst (1904–2005)](m/mayr) · evolutionary biologist, systematist<span class="kw">biological species concept, geographic speciation, Modern Synthesis architect, population thinking</span>
 - [Maturana, Humberto (1928–2021)](m/maturana) · biologist, philosopher<span class="kw">autopoiesis, biology of cognition, the observer, structural determinism</span>
 - [Merleau-Ponty, Maurice (1908–1961)](m/merleau-ponty) · philosopher<span class="kw">phenomenology of the body, perception, the habitual body, intercorporeality</span>
 - [Mitchell, Melanie (1969–)](m/mitchell) · computer scientist, complexity researcher<span class="kw">genetic algorithms, analogy-making, the CAS synthesis, complexity's limits and achievements</span>
@@ -143,6 +149,8 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Wallace, Alfred Russel (1823–1913)](w/wallace) · naturalist, geographer<span class="kw">co-discovery of natural selection, biogeography, the Wallace Line, spiritualism</span>
 - [Whitehead, Alfred North (1861–1947)](w/whitehead) · philosopher, mathematician<span class="kw">process, actual occasions, creativity, prehension</span>
 - [Wiener, Norbert (1894–1964)](w/wiener) · mathematician<span class="kw">cybernetics, feedback, communication and control, the Macy conferences, the human use of human beings</span>
+- [Wilson, E. O. (1929–2021)](w/wilson) · biologist<span class="kw">Sociobiology, island biogeography, the ants, biodiversity, group selection turn</span>
+- [Wright, Sewall (1889–1988)](w/wright) · geneticist<span class="kw">adaptive landscapes, genetic drift, shifting balance theory, path coefficients, population structure</span>
 - [Wittgenstein, Ludwig (1889–1951)](w/wittgenstein) · philosopher<span class="kw">language games, forms of life, meaning as use</span>
 
 ## Z

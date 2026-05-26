@@ -17,7 +17,7 @@ Trivers published five papers between 1971 and 1976 — reciprocal altruism, par
 
 Born 19 February 1943 in Washington, DC. His father Howard Trivers was a US State Department diplomat who took part in the Potsdam Conference, the 1947 Moscow Conference, and the 1949 Paris Conference; his mother Mildred Raynolds Trivers was a poet. Schools in Washington, Copenhagen, and Berlin during his father's postings; then Phillips Academy and Harvard.
 
-At Harvard he initially studied American history, then pivoted to biology. PhD in biology (1968–72) under [Ernst Mayr](https://en.wikipedia.org/wiki/Ernst_Mayr) and William Drury. He was diagnosed first with schizophrenia at twenty-one, later modified to bipolar disorder — a condition he discussed openly throughout his career.
+At Harvard he initially studied American history, then pivoted to biology. PhD in biology (1968–72) under [Ernst Mayr](/positioning/persons/m/mayr/) and William Drury. He was diagnosed first with schizophrenia at twenty-one, later modified to bipolar disorder — a condition he discussed openly throughout his career.
 
 Harvard faculty 1973–78, UC Santa Cruz 1978–94, Rutgers from 1994. He spent around thirteen years on and off in Jamaica from his graduate-school period onwards, beginning with an expedition studying green lizards (*Anolis*) with Ernest Williams. Two marriages to Jamaican women; five children.
 
@@ -45,7 +45,7 @@ With Dan E. Willard. "Natural Selection of Parental Ability to Vary the Sex Rati
 
 ## Self-deception (1976 onwards)
 
-First described in the foreword to [Richard Dawkins](https://en.wikipedia.org/wiki/Richard_Dawkins)' *The Selfish Gene* (1976); developed across later papers and brought together in *The Folly of Fools: The Logic of Deceit and Self-Deception in Human Life* (2011). The thesis: self-deception evolved as a strategy for deceiving others more effectively — concealing information from oneself removes the behavioural tells that would betray the deception. Self-deception treated as adaptive, not as failure of cognition.
+First described in the foreword to [Richard Dawkins](/positioning/persons/d/dawkins/)' *The Selfish Gene* (1976); developed across later papers and brought together in *The Folly of Fools: The Logic of Deceit and Self-Deception in Human Life* (2011). The thesis: self-deception evolved as a strategy for deceiving others more effectively — concealing information from oneself removes the behavioural tells that would betray the deception. Self-deception treated as adaptive, not as failure of cognition.
 
 ## Intragenomic conflict
 
