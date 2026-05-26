@@ -67,9 +67,29 @@ Persons and subjects referenced on the site without their own entry. One list, d
 - Hutcheson, Francis — moral sense theory, Hume's predecessor in Scottish moral philosophy; Hume person page
 - Reid, Thomas — common sense philosophy, Hume's contemporary critic; Hume person page
 
+### Surfaced from arrow-of-time reviews (2026-05-26)
+
+- Born, Max — probability interpretation of QM, Born rule; schrödinger (rival formalism pair)
+- Dirac, Paul — quantum field theory, Dirac equation, Nobel co-laureate with Schrödinger; schrödinger
+- Lovelock, James — Gaia hypothesis (with Margulis), Earth system science; margulis
+- Bennett, Charles — reversible computation, Maxwell's demon, information thermodynamics; shannon
+- Loschmidt, Josef — reversibility objection to Boltzmann; boltzmann
+- Zermelo, Ernst — recurrence objection to Boltzmann, set theory; boltzmann
+- Mach, Ernst — energeticist opposition to atomism, positivism; boltzmann, vienna circle
+- Carnap, Rudolf — logical empiricism, Erkenntnis co-editor with Reichenbach; reichenbach
+
+### Surfaced from biology cluster reviews (2026-05-26)
+
+- Wynne-Edwards threshold group: Sober, D. S. Wilson already listed above
+- Ohta, Tomoko — nearly neutral theory, Kimura's student; kimura
+- Gause, Georgy — competitive exclusion principle; hutchinson, macarthur
+- Vrba, Elisabeth — turnover pulse hypothesis (with Eldredge); eldredge
+
 ## Subjects — candidates
 
 - Loop quantum gravity — closely tied to RQM, Rovelli's other programme
 - Semiotics — Peirce, biosemiotics post
 - Embodied cognition — Merleau-Ponty, enactivism
 - Thermodynamics / entropy — distinct from the positioning arrow-of-time page
+- Statistical mechanics — Boltzmann, Gibbs; currently all on the Boltzmann person page, candidate for split when more figures arrive
+- Logical empiricism / Vienna Circle / Berlin Circle — threads through Reichenbach, Carnap, Schlick; Sellars and Quine relation
