@@ -2,7 +2,7 @@
 layout: default
 title: "Common Descent"
 description: "The historical kinship thesis — all living things share common ancestry. The tree of life, the evidence base from comparative anatomy to molecular phylogenetics, and the contemporary refinements to the classical tree picture."
-lastmod: 2026-05-16
+lastmod: 2026-05-26
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Darwinism](/positioning/subjects/d/darwinism/) > Common Descent
@@ -29,7 +29,7 @@ Darwin stated the thesis in the closing pages of *On the Origin of Species* (185
 
 **LUCA — the last universal common ancestor.** The hypothesis that all life descends from a single ancestral population is supported by the universality of the genetic code, shared biochemistry (ATP, DNA, ribosomes), and molecular phylogenetics. What LUCA was — a single organism, a population, a community exchanging genetic material — is uncertain. Recent genomic analyses suggest LUCA was a complex cell, possibly already possessing many of the metabolic pathways found in modern organisms. The question is actively researched.
 
-**Endosymbiosis.** [Lynn Margulis](https://en.wikipedia.org/wiki/Lynn_Margulis)' endosymbiotic hypothesis (1967) proposed that mitochondria and chloroplasts — the energy-producing organelles of eukaryotic cells — are descendants of free-living bacteria that were engulfed by an ancestral cell and became permanent residents. The hypothesis was initially controversial but is now mainstream, supported by the organelles' own DNA, double membranes, and bacterial-type ribosomes. Endosymbiosis complicates the strict branching-tree picture: eukaryotic cells are, in a sense, mergers of previously independent lineages.
+**Endosymbiosis.** [Lynn Margulis](/positioning/persons/m/margulis/)' endosymbiotic hypothesis (1967) proposed that mitochondria and chloroplasts — the energy-producing organelles of eukaryotic cells — are descendants of free-living bacteria that were engulfed by an ancestral cell and became permanent residents. The hypothesis was initially controversial but is now mainstream, supported by the organelles' own DNA, double membranes, and bacterial-type ribosomes. Endosymbiosis complicates the strict branching-tree picture: eukaryotic cells are, in a sense, mergers of previously independent lineages.
 
 **Horizontal gene transfer.** In prokaryotes (bacteria and archaea), genes transfer not only from parent to offspring (vertical transmission) but also between unrelated organisms (horizontal or lateral transfer) — through plasmids, transduction by viruses, and direct uptake from the environment. The extent of horizontal gene transfer, particularly in early life, has led some researchers — notably [W. Ford Doolittle](https://en.wikipedia.org/wiki/W._Ford_Doolittle) — to argue that the tree-of-life image breaks down at deep evolutionary timescales, replaced by something more like a web or network. Others maintain that the tree holds in modified form, with horizontal transfer as a complication rather than an overthrow. The debate concerns the image, not the underlying thesis of common descent.
 

@@ -15,7 +15,7 @@ MacArthur was an ecologist who, in a career cut short at forty-two, brought math
 
 ## Life
 
-Born 7 April 1930 in Toronto, Canada. His father, John Wood MacArthur, was a geneticist at the University of Toronto. Grew up in Marlboro, Vermont, after the family moved to the United States. BA in mathematics from Marlboro College (1951) — a grounding in mathematics that shaped everything that followed. PhD from Yale (1957), under [G. Evelyn Hutchinson](https://en.wikipedia.org/wiki/G._Evelyn_Hutchinson), the ecologist whose "Homage to Santa Rosalia" (1959) posed the question MacArthur spent his career answering: why are there so many kinds of animals?
+Born 7 April 1930 in Toronto, Canada. His father, John Wood MacArthur, was a geneticist at the University of Toronto. Grew up in Marlboro, Vermont, after the family moved to the United States. BA in mathematics from Marlboro College (1951) — a grounding in mathematics that shaped everything that followed. PhD from Yale (1957), under [G. Evelyn Hutchinson](/positioning/persons/h/hutchinson/), the ecologist whose "Homage to Santa Rosalia" (1959) posed the question MacArthur spent his career answering: why are there so many kinds of animals?
 
 Faculty at the University of Pennsylvania (1958–65), then Princeton (1965–72), where he was Henry Fairfield Osborn Professor of Biology. The Princeton ecology group under MacArthur became the field's leading centre. Diagnosed with renal cancer in 1971. Continued working through the illness; *Geographical Ecology* was completed during his final months. Died 1 November 1972 in Princeton, New Jersey, aged forty-two.
 
@@ -85,4 +85,4 @@ MacArthur's programme is mathematical and equilibrial. It models ecological comm
 
 ---
 
-See also: [Darwinism](/positioning/subjects/d/darwinism/) · [Wilson](/positioning/persons/w/wilson/) · [Darwin](/positioning/persons/d/darwin/) · [Holland](/positioning/persons/h/holland/)
+See also: [Darwinism](/positioning/subjects/d/darwinism/) · [Hutchinson](/positioning/persons/h/hutchinson/) · [Wilson](/positioning/persons/w/wilson/) · [Darwin](/positioning/persons/d/darwin/) · [Holland](/positioning/persons/h/holland/)

@@ -71,7 +71,7 @@ For the broader contested reception of gene-centrism as a tradition — multi-le
 
 ## Where Dawkins stops
 
-Dawkins' framework is gene-centric and replicator-based. Selection requires a replicator; the gene is the replicator; the organism is the vehicle. Cultural evolution, if it exists, requires cultural replicators — memes. The framework does not easily accommodate processes that are cumulative and adaptive but not replicator-based: niche construction, developmental plasticity, ecosystem-level dynamics, or cultural change that is transformative rather than replicative. The boundary of the programme is the boundary of the replicator concept.
+Dawkins' framework is gene-centric and replicator-based. Selection requires a replicator; the gene is the replicator; the organism is the vehicle. Cultural evolution, if it exists, requires cultural replicators — memes. The framework does not easily accommodate processes that are cumulative and adaptive but not replicator-based: niche construction, developmental plasticity, ecosystem-level dynamics, the mergers and incorporations between lineages that [Margulis'](/positioning/persons/m/margulis/) endosymbiosis programme centres, or cultural change that is transformative rather than replicative. The boundary of the programme is the boundary of the replicator concept.
 
 ---
 

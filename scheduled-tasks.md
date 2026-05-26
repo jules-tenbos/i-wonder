@@ -85,6 +85,9 @@ Updated 2026-05-26. Tasks triggered by post publication and ongoing work.
 - [x] 5 person pages created: Williams, Kimura, Eldredge, MacArthur, Dennett (next tranche from plan)
 - [x] Wiki-to-internal link flips: after-the-synthesis (Kimura, Williams, Eldredge), cultural-extensions (Dennett ×2), maynard-smith (Williams), mayr (Williams ×2), wilson (MacArthur ×3), dobzhansky (Eldredge)
 - [x] Persons index updated with all five new entries
+- [x] 5 person pages created: Wynne-Edwards, Medawar, Hutchinson, Margulis, Mendel (biology cluster deepening)
+- [x] Wiki-to-internal link flips: integration-with-genetics (Mendel), after-the-synthesis (Margulis), common-descent (Margulis), macarthur (Hutchinson), williams (Wynne-Edwards, Medawar)
+- [x] Persons index updated with all five new entries; MacArthur see-also updated with Hutchinson
 
 ## Parked work
 
@@ -95,5 +98,5 @@ Updated 2026-05-26. Tasks triggered by post publication and ongoing work.
 - [ ] Remaining descriptions: seed trajectories, language/reality sub-pages, scheduled blog posts
 - [ ] RQM post over word limit (1249 words)
 - [ ] Person page craft guidance — add "Where X stops" drafting process note to tone-of-voice/positioning-section.md § How to apply
-- [ ] Person pages next tranche — Schrödinger, Boltzmann (arrow-of-time cluster); Berlin, Arendt (interrelational-pluralism); then Mendel, Margulis, Huxley (Julian). See plan/positioning-entries-needed.md
+- [ ] Person pages next tranche — Schrödinger, Boltzmann (arrow-of-time cluster); Berlin, Arendt (interrelational-pluralism); then Huxley (Julian), Simpson, Stebbins. See plan/positioning-entries-needed.md
 - [ ] Cross-page audit convention — when a controversy appears on multiple person pages, check both sides voice it consistently (learned from Wilson/Lewontin and Hamilton/Wilson reviews)

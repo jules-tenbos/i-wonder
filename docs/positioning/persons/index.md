@@ -64,6 +64,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Hamilton, W. D. (1936–2000)](h/hamilton) · evolutionary biologist<span class="kw">inclusive fitness, Hamilton's rule, kin selection, sex and parasites, gene's-eye view</span>
 - [Habermas, Jürgen (1929–2025)](h/habermas) · philosopher, social theorist<span class="kw">communicative action, discourse ethics, lifeworld and system</span>
 - [Hazen, Robert (1948–)](h/hazen) · mineralogist, astrobiologist<span class="kw">mineral evolution, evolutionary system of mineralogy, mineral ecology, assembly theory exchange</span>
+- [Hutchinson, G. Evelyn (1903–1991)](h/hutchinson) · limnologist, ecologist<span class="kw">the niche concept, Santa Rosalia, biogeochemistry, formation of theoretical ecology</span>
 - [Holling, C.S. (1930–2019)](h/holling) · ecologist<span class="kw">ecological resilience, the adaptive cycle, panarchy, resilience vs. stability</span>
 - [Holland, John (1929–2015)](h/holland) · computer scientist, complex systems researcher<span class="kw">genetic algorithms, adaptive agents, internal models, emergence, the CAS primitive</span>
 - [Heraclitus (c. 535–c. 475 BCE)](h/heraclitus) · philosopher<span class="kw">flux and constancy, unity of opposites, logos, fire</span>
@@ -100,9 +101,12 @@ Individual thinkers referenced across the positioning section. Each page present
 
 - [Malthus, Thomas (1766–1834)](m/malthus) · political economist, demographer<span class="kw">principle of population, moral restraint, rent, effective demand</span>
 - [Marx, Karl (1818–1883)](m/marx) · philosopher, political economist<span class="kw">critique of political economy, materialist conception of history, alienation, Capital</span>
+- [Margulis, Lynn (1938–2011)](m/margulis) · biologist<span class="kw">endosymbiosis, serial endosymbiosis theory, symbiogenesis, Gaia hypothesis</span>
 - [MacArthur, Robert (1930–1972)](m/macarthur) · ecologist<span class="kw">island biogeography, species packing, r/K selection, warbler niche, mathematical ecology</span>
 - [Maynard Smith, John (1920–2004)](m/maynard-smith) · evolutionary biologist<span class="kw">evolutionary game theory, ESS, major transitions in evolution, the evolution of sex</span>
 - [Mayr, Ernst (1904–2005)](m/mayr) · evolutionary biologist, systematist<span class="kw">biological species concept, geographic speciation, Modern Synthesis architect, population thinking</span>
+- [Medawar, Peter (1915–1987)](m/medawar) · immunologist, biologist<span class="kw">immunological tolerance, mutation accumulation theory of ageing, transplantation, philosophy of science</span>
+- [Mendel, Gregor (1822–1884)](m/mendel) · friar, naturalist<span class="kw">laws of inheritance, pea plant experiments, discrete hereditary factors, dominance and recessiveness</span>
 - [Maturana, Humberto (1928–2021)](m/maturana) · biologist, philosopher<span class="kw">autopoiesis, biology of cognition, the observer, structural determinism</span>
 - [Merleau-Ponty, Maurice (1908–1961)](m/merleau-ponty) · philosopher<span class="kw">phenomenology of the body, perception, the habitual body, intercorporeality</span>
 - [Mitchell, Melanie (1969–)](m/mitchell) · computer scientist, complexity researcher<span class="kw">genetic algorithms, analogy-making, the CAS synthesis, complexity's limits and achievements</span>
@@ -160,6 +164,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Wiener, Norbert (1894–1964)](w/wiener) · mathematician<span class="kw">cybernetics, feedback, communication and control, the Macy conferences, the human use of human beings</span>
 - [Williams, George C. (1926–2010)](w/williams) · evolutionary biologist<span class="kw">Adaptation and Natural Selection, gene-level critique of group selection, senescence, sex, Darwinian medicine</span>
 - [Wilson, E. O. (1929–2021)](w/wilson) · biologist<span class="kw">Sociobiology, island biogeography, the ants, biodiversity, group selection turn</span>
+- [Wynne-Edwards, V. C. (1906–1997)](w/wynne-edwards) · zoologist<span class="kw">group selection, Animal Dispersion, population self-regulation, epideictic displays</span>
 - [Wright, Sewall (1889–1988)](w/wright) · geneticist<span class="kw">adaptive landscapes, genetic drift, shifting balance theory, path coefficients, population structure</span>
 - [Wittgenstein, Ludwig (1889–1951)](w/wittgenstein) · philosopher<span class="kw">language games, forms of life, meaning as use</span>
 

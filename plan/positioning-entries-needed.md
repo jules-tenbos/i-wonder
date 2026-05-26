@@ -4,7 +4,6 @@ Persons and subjects referenced on the site without their own entry. One list, d
 
 ## Persons
 
-- Mendel, Gregor — discrete hereditary factors, foundation of genetics; integration
 - Schrödinger, Erwin — What is Life?, wave equation; arrow of time, from-arrow-to-historicity
 - Boltzmann, Ludwig — statistical mechanics, entropy, H-theorem; arrow of time
 - Berlin, Isaiah — value pluralism, incommensurability of values; interrelational-pluralism (priority for seed buildup)
@@ -20,7 +19,6 @@ Persons and subjects referenced on the site without their own entry. One list, d
 - Penrose, Roger — low-entropy beginning, Penrose diagrams; arrow of time
 - Hawking, Stephen — three arrows, psychological arrow; arrow of time
 - Albert, David — Past Hypothesis; from-arrow-to-historicity
-- Margulis, Lynn — endosymbiosis, symbiotic view of cellular evolution, Gaia; common-descent
 - Pinker, Steven — evolutionary psychology advocate, The Blank Slate; cultural-extensions
 - Huxley, Julian — coined "Modern Synthesis", Evolution: The Modern Synthesis (1942); mechanism, social-darwinism
 - Galton, Francis — coined "eugenics", regression/correlation, biometrics; social-darwinism
