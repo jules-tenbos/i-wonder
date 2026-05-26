@@ -4,16 +4,12 @@ Persons and subjects referenced on the site without their own entry. One list, d
 
 ## Persons
 
-- ~~Berlin, Isaiah~~ — done 2026-05-26
-- ~~Arendt, Hannah~~ — done 2026-05-26
 - Putnam, Hilary (+Davidson) — internal realism, conceptual relativity; interrelational-pluralism (scheduled Sep)
 - MacIntyre, Alasdair — tradition-constituted rationality; interrelational-pluralism (scheduled Sep)
 - Hayek, Friedrich — knowledge problem, spontaneous order; interrelational-pluralism (scheduled Sep)
 - Oakeshott, Michael — practical knowledge, critique of rationalism; interrelational-pluralism (scheduled Oct)
 - Cassirer, Ernst — symbolic forms: language, myth, science, art; interrelational-pluralism (scheduled Oct)
 - Nagarjuna — emptiness (sunyata), dependent origination; interrelational-pluralism (candidate)
-- ~~Hawking, Stephen~~ — done 2026-05-26
-- ~~Albert, David~~ — done 2026-05-26
 - Pinker, Steven — evolutionary psychology advocate, The Blank Slate; cultural-extensions
 - Huxley, Julian — coined "Modern Synthesis", Evolution: The Modern Synthesis (1942); mechanism, social-darwinism
 - Galton, Francis — coined "eugenics", regression/correlation, biometrics; social-darwinism
