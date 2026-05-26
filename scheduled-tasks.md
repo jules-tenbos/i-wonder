@@ -71,6 +71,18 @@ Updated 2026-05-26. Tasks triggered by post publication and ongoing work.
 | Sep 20 | Diversified Discovery | Mandatory review |
 | Sep 28 | The Discovery Multiplier | Mandatory review |
 
+## Recent completions (2026-05-26)
+
+- [x] Assembly theory subject bundle — 9 sub-pages live (overview, conceptual move, biosignature claim, time as object, AIT debate, mineral exchange, other reception, extensions, development)
+- [x] Mineral evolution subject — 2-page bundle (overview + ten stages)
+- [x] Seed CAS page — rewritten to two-layer structure (P2 single subject, P3 multi-subject)
+- [x] 14 person pages created: Cronin, Walker, Hazen, Zenil (assembly theory cluster); Dawkins, Mayr, Fisher, Lewontin, Gould, Dobzhansky, Wilson, Wright, Haldane, Hamilton (evolution cluster)
+- [x] Wiki-to-internal link flips across Darwinism bundle and person pages
+- [x] Cross-page consistency fixes (Wilson/Lewontin sociobiology, Hamilton/Wilson inclusive fitness)
+- [x] Tone-of-voice: landing-page-registration guidance added to positioning-section.md § How to apply
+- [x] Plan cleanup: removed completed Whitehead and interrelational-pluralism plan files; added realism-research.md and reality-time.md
+- [x] Memory cleanup: removed stale project and reference memories
+
 ## Parked work
 
 - [ ] SPLectrum Engineering post (in `/drafts/`) — needs review before re-scheduling
@@ -80,3 +92,5 @@ Updated 2026-05-26. Tasks triggered by post publication and ongoing work.
 - [ ] Remaining descriptions: seed trajectories, language/reality sub-pages, scheduled blog posts
 - [ ] RQM post over word limit (1249 words)
 - [ ] Person page craft guidance — add "Where X stops" drafting process note to tone-of-voice/positioning-section.md § How to apply
+- [ ] Person pages next tranche — Williams, Kimura, Eldredge, MacArthur, Dennett; then Schrödinger, Boltzmann (arrow-of-time cluster); Berlin, Arendt (interrelational-pluralism). See plan/positioning-entries-needed.md
+- [ ] Cross-page audit convention — when a controversy appears on multiple person pages, check both sides voice it consistently (learned from Wilson/Lewontin and Hamilton/Wilson reviews)
