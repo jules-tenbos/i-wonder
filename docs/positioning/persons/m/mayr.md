@@ -19,7 +19,7 @@ Born 5 July 1904 in Kempten, Bavaria, Germany. Childhood interest in birds; coul
 
 Moved to the American Museum of Natural History in New York (1931), where he worked in the Department of Ornithology, eventually becoming curator. Appointed Alexander Agassiz Professor of Zoology at Harvard (1953), where he founded the Museum of Comparative Zoology's department of ornithology. Emeritus from 1975 but continued publishing into his late nineties. Died 3 February 2005, aged one hundred, in Bedford, Massachusetts.
 
-Awards include the National Medal of Science (1969), the Balzan Prize (1983), the International Prize for Biology (Japan, 1994), and the Crafoord Prize (1999, jointly with [John Maynard Smith](/positioning/persons/m/maynard-smith/) and George C. Williams).
+Awards include the National Medal of Science (1969), the Balzan Prize (1983), the International Prize for Biology (Japan, 1994), and the Crafoord Prize (1999, jointly with [John Maynard Smith](/positioning/persons/m/maynard-smith/) and [George C. Williams](/positioning/persons/w/williams/)).
 
 ---
 
@@ -61,7 +61,7 @@ Mayr introduced the distinction between typological thinking (species as fixed t
 
 ## The organism as the unit of selection
 
-Mayr maintained throughout his career that the organism, not the gene, is the primary target of natural selection. He argued that genes are selected only in the context of organisms, and that the gene-centric view ([Dawkins](/positioning/persons/d/dawkins/), Williams) is a bookkeeping device that obscures the biological reality. Selection, in Mayr's account, acts on phenotypes — whole organisms interacting with their environments — not on isolated genes.
+Mayr maintained throughout his career that the organism, not the gene, is the primary target of natural selection. He argued that genes are selected only in the context of organisms, and that the gene-centric view ([Dawkins](/positioning/persons/d/dawkins/), [Williams](/positioning/persons/w/williams/)) is a bookkeeping device that obscures the biological reality. Selection, in Mayr's account, acts on phenotypes — whole organisms interacting with their environments — not on isolated genes.
 
 The position put him at odds with gene-centrism from the 1970s onward. Mayr argued that gene-centric language mistakes the unit of accounting for the unit of causation: genes may be what is transmitted, but organisms are what is tested. The debate was never fully resolved and remains active in different forms within the extended evolutionary synthesis discussion.
 

@@ -2,7 +2,7 @@
 layout: default
 title: "Cultural Extensions"
 description: "The extension of evolutionary thinking beyond biology — memes and cultural replicators, cultural evolution as a research programme, evolutionary psychology, evolutionary economics, and the question of universal Darwinism."
-lastmod: 2026-05-16
+lastmod: 2026-05-26
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Darwinism](/positioning/subjects/d/darwinism/) > Cultural Extensions
@@ -15,7 +15,7 @@ Darwinian thinking has been extended beyond biology into the study of culture, p
 
 [Richard Dawkins](/positioning/persons/d/dawkins/) introduced the concept of the "meme" in *The Selfish Gene* (1976) — a unit of cultural transmission analogous to the gene: "Just as genes propagate themselves in the gene pool by leaping from body to body via sperms or eggs, so memes propagate themselves in the meme pool by leaping from brain to brain via a process which, in the broad sense, can be called imitation." Tunes, ideas, catchphrases, fashions, and techniques of making pots were Dawkins' examples.
 
-[Daniel Dennett](https://en.wikipedia.org/wiki/Daniel_Dennett) developed the idea philosophically in *Darwin's Dangerous Idea* (1995), and [Susan Blackmore](https://en.wikipedia.org/wiki/Susan_Blackmore)'s *The Meme Machine* (1999) attempted a book-length treatment of culture as meme replication. The critical reception was substantial. [Dan Sperber](https://en.wikipedia.org/wiki/Dan_Sperber) (*Explaining Culture*, 1996) argued that cultural transmission is not replication in the genetic sense — ideas are transformed in transmission, not copied; there is no clean replicator-vehicle distinction; the fidelity conditions that make genetic inheritance Darwinian do not hold for cultural transmission. [Scott Atran](https://en.wikipedia.org/wiki/Scott_Atran) made similar arguments from the study of religion.
+[Daniel Dennett](/positioning/persons/d/dennett/) developed the idea philosophically in *Darwin's Dangerous Idea* (1995), and [Susan Blackmore](https://en.wikipedia.org/wiki/Susan_Blackmore)'s *The Meme Machine* (1999) attempted a book-length treatment of culture as meme replication. The critical reception was substantial. [Dan Sperber](https://en.wikipedia.org/wiki/Dan_Sperber) (*Explaining Culture*, 1996) argued that cultural transmission is not replication in the genetic sense — ideas are transformed in transmission, not copied; there is no clean replicator-vehicle distinction; the fidelity conditions that make genetic inheritance Darwinian do not hold for cultural transmission. [Scott Atran](https://en.wikipedia.org/wiki/Scott_Atran) made similar arguments from the study of religion.
 
 As an empirical research programme, strong memetics — the study of culture through discrete, gene-like replicating units — has not been highly productive. The term "meme" has had a longer afterlife in popular usage (particularly internet culture) than in academic study. The concept is better understood as a suggestive analogy that opened a question — can culture be studied in Darwinian terms? — than as a framework that answered it.
 
@@ -47,7 +47,7 @@ The analogy between economic competition and natural selection is suggestive but
 
 ## Universal Darwinism
 
-The strongest claim about the scope of Darwinian thinking is universal Darwinism — the thesis that variation, selection, and retention constitute a substrate-neutral algorithm applicable wherever cumulative change occurs. Dawkins gestured toward this in his concept of "replicators"; Dennett developed it in *Darwin's Dangerous Idea* (1995), arguing that natural selection is a "universal acid" dissolving traditional boundaries between the biological and the cultural; [David Hull](https://en.wikipedia.org/wiki/David_Hull_(philosopher))'s *Science as a Process* (1988) applied selection theory to the evolution of scientific ideas.
+The strongest claim about the scope of Darwinian thinking is universal Darwinism — the thesis that variation, selection, and retention constitute a substrate-neutral algorithm applicable wherever cumulative change occurs. Dawkins gestured toward this in his concept of "replicators"; [Dennett](/positioning/persons/d/dennett/) developed it in *Darwin's Dangerous Idea* (1995), arguing that natural selection is a "universal acid" dissolving traditional boundaries between the biological and the cultural; [David Hull](https://en.wikipedia.org/wiki/David_Hull_(philosopher))'s *Science as a Process* (1988) applied selection theory to the evolution of scientific ideas.
 
 The opposing view holds that genuine Darwinian dynamics require specific conditions that not all cumulative-change domains meet. Sperber argued that culture lacks the high-fidelity replication that makes biological evolution Darwinian. Lewontin maintained that extending Darwinian logic beyond biology conflates the mechanism with a metaphor. The question is whether the variation-selection-retention pattern picks out a real, substrate-neutral process or whether "selection" in non-biological domains is an analogy that obscures more than it reveals.
 

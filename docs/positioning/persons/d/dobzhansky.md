@@ -51,7 +51,7 @@ Dobzhansky's broader influence was as a synthesiser and communicator — he made
 
 ## Where Dobzhansky stops
 
-Dobzhansky's programme is empirical population genetics applied to the species problem. It works at the level of genetic variation within and between populations, with reproductive isolation as the criterion for speciation. What the programme does not develop is the macroevolutionary scale — the patterns of origination, extinction, and diversification above the species level. The Synthesis that Dobzhansky helped build treated macroevolution as the cumulative product of microevolutionary processes; whether that extrapolation holds became the central question of the punctuated equilibrium debate that [Gould](/positioning/persons/g/gould/) and Eldredge opened a generation later.
+Dobzhansky's programme is empirical population genetics applied to the species problem. It works at the level of genetic variation within and between populations, with reproductive isolation as the criterion for speciation. What the programme does not develop is the macroevolutionary scale — the patterns of origination, extinction, and diversification above the species level. The Synthesis that Dobzhansky helped build treated macroevolution as the cumulative product of microevolutionary processes; whether that extrapolation holds became the central question of the punctuated equilibrium debate that [Gould](/positioning/persons/g/gould/) and [Eldredge](/positioning/persons/e/eldredge/) opened a generation later.
 
 ---
 

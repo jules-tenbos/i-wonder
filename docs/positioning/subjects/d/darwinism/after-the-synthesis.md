@@ -2,7 +2,7 @@
 layout: default
 title: "After the Synthesis"
 description: "Where the Modern Synthesis has been extended, contested, or supplemented — neutral theory, kin selection, punctuated equilibrium, evo-devo, niche construction, and the Extended Evolutionary Synthesis debate."
-lastmod: 2026-05-16
+lastmod: 2026-05-26
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Darwinism](/positioning/subjects/d/darwinism/) > After the Synthesis
@@ -13,7 +13,7 @@ The Modern Synthesis settled a framework for evolutionary biology by the late 19
 
 ## Neutral theory
 
-[Motoo Kimura](https://en.wikipedia.org/wiki/Motoo_Kimura)'s neutral theory of molecular evolution (1968) proposed that the majority of evolutionary changes at the molecular level — substitutions of one nucleotide for another in DNA — are selectively neutral. They are not favoured or disfavoured by natural selection; they spread through populations by genetic drift alone. The theory did not deny the importance of natural selection for adaptive evolution at the organismal level, but it argued that selection is not the primary cause of molecular variation. Most molecular differences between species, on this account, are noise rather than signal.
+[Motoo Kimura](/positioning/persons/k/kimura/)'s neutral theory of molecular evolution (1968) proposed that the majority of evolutionary changes at the molecular level — substitutions of one nucleotide for another in DNA — are selectively neutral. They are not favoured or disfavoured by natural selection; they spread through populations by genetic drift alone. The theory did not deny the importance of natural selection for adaptive evolution at the organismal level, but it argued that selection is not the primary cause of molecular variation. Most molecular differences between species, on this account, are noise rather than signal.
 
 The neutral theory was initially controversial but is now part of the standard framework. It reshaped how variation is understood: not all genetic difference is adaptive, and the background rate of neutral change provides a molecular clock useful for estimating divergence times between species. The nearly neutral theory, developed by [Tomoko Ohta](https://en.wikipedia.org/wiki/Tomoko_Ohta), extended Kimura's framework to include mutations of very slight effect, where drift and selection interact.
 
@@ -25,7 +25,7 @@ Inclusive fitness theory offered an account of the extreme sociality of hymenopt
 
 ## Gene-centric selection
 
-[George C. Williams](https://en.wikipedia.org/wiki/George_C._Williams_(biologist))'s *Adaptation and Natural Selection* (1966) mounted a rigorous critique of group selection — the idea that natural selection can act on groups of organisms, favouring groups whose members cooperate. Williams argued that most apparent cases of group-level adaptation could be explained more parsimoniously by individual- or gene-level selection, and that genuine group selection requires restrictive conditions rarely met in nature.
+[George C. Williams](/positioning/persons/w/williams/)'s *Adaptation and Natural Selection* (1966) mounted a rigorous critique of group selection — the idea that natural selection can act on groups of organisms, favouring groups whose members cooperate. Williams argued that most apparent cases of group-level adaptation could be explained more parsimoniously by individual- or gene-level selection, and that genuine group selection requires restrictive conditions rarely met in nature.
 
 [Richard Dawkins](/positioning/persons/d/dawkins/)' *The Selfish Gene* (1976) popularised and extended Williams' argument, framing organisms as "survival machines" built by genes for gene replication. The gene-centric view was influential both within biology and in public understanding of evolution. It also provoked sustained criticism. [Richard Lewontin](/positioning/persons/l/lewontin/) and [Stephen Jay Gould](/positioning/persons/g/gould/)'s "Spandrels of San Marco" (1979) argued that the adaptationist programme — the assumption that every trait is an adaptation shaped by selection — systematically overestimates the power of natural selection and neglects structural, developmental, and historical constraints on form. The Spandrels critique was directed at the broader adaptationist stance, not only at Dawkins, but the gene-centric framework became one of its primary targets. Lewontin's broader work on the organism-environment dialectic (*The Dialectical Biologist*, 1985, with Levins) argued that organisms and their environments are mutually constitutive — a position that anticipated niche construction theory by nearly two decades.
 
@@ -47,7 +47,7 @@ The relationship between multilevel selection and inclusive fitness remains deba
 
 ## Punctuated equilibrium
 
-[Niles Eldredge](https://en.wikipedia.org/wiki/Niles_Eldredge) and [Stephen Jay Gould](/positioning/persons/g/gould/) proposed punctuated equilibrium in 1972, based on a pattern in the fossil record: most species, once they appear, show little morphological change over most of their history (stasis), with significant change concentrated in geologically brief episodes associated with speciation events. Gould's phrase — "stasis is data" — captured the argument that the absence of change in the fossil record is not a failure of preservation but a real biological phenomenon requiring explanation.
+[Niles Eldredge](/positioning/persons/e/eldredge/) and [Stephen Jay Gould](/positioning/persons/g/gould/) proposed punctuated equilibrium in 1972, based on a pattern in the fossil record: most species, once they appear, show little morphological change over most of their history (stasis), with significant change concentrated in geologically brief episodes associated with speciation events. Gould's phrase — "stasis is data" — captured the argument that the absence of change in the fossil record is not a failure of preservation but a real biological phenomenon requiring explanation.
 
 Punctuated equilibrium was initially read as a challenge to Darwinian gradualism. The ensuing debate was heated and sometimes confused — critics accused Gould and Eldredge of denying natural selection, which they did not; proponents sometimes overstated the pattern's universality. Many in the field now read punctuated equilibrium as describing a real pattern in many lineages without overturning the Synthetic framework: speciation events may be associated with rapid selection in small isolated populations, consistent with (though emphasising different aspects of) the Synthesis's own mechanisms. Others, following Gould's later work in *The Structure of Evolutionary Theory* (2002), see it as requiring a more substantial rethinking of macroevolutionary theory.
 

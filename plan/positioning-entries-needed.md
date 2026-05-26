@@ -4,11 +4,6 @@ Persons and subjects referenced on the site without their own entry. One list, d
 
 ## Persons
 
-- Williams, George C. — Adaptation and Natural Selection, gene-centric critique of group selection; refs on after-synthesis, dawkins, fisher
-- Kimura, Motoo — neutral theory of molecular evolution; refs on after-synthesis, lewontin, wright
-- Eldredge, Niles — punctuated equilibrium (with Gould); refs on after-synthesis, gould
-- MacArthur, Robert — island biogeography (with Wilson); refs on wilson
-- Dennett, Daniel — Darwin's Dangerous Idea, universal Darwinism, consciousness, intentionality; cultural-extensions, dawkins
 - Mendel, Gregor — discrete hereditary factors, foundation of genetics; integration
 - Schrödinger, Erwin — What is Life?, wave equation; arrow of time, from-arrow-to-historicity
 - Boltzmann, Ludwig — statistical mechanics, entropy, H-theorem; arrow of time
@@ -36,7 +31,6 @@ Persons and subjects referenced on the site without their own entry. One list, d
 - Planck, Max — quantisation; turn in science
 - Sober, Elliott — multi-level selection, philosopher of biology; mechanism
 - Wilson, David Sloan — multi-level selection, contemporary group selection; mechanism
-- Eldredge, Niles — punctuated equilibrium (with Gould); after-synthesis
 - Fodor, Jerry — modularity of mind, critique of adaptationism; cultural-extensions
 - Hull, David — Science as a Process, selection theory applied to science; cultural-extensions
 - Sperber, Dan — cultural transmission critique, epidemiology of representations; cultural-extensions

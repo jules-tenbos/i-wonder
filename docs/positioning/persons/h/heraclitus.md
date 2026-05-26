@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-15
+lastmod: 2026-05-26
 title: "Heraclitus (c. 535–c. 475 BCE)"
 description: "Heraclitus saw flux and constancy as inseparable — the river stays the same because the water flows. The logos holds."
 ---
@@ -9,7 +9,7 @@ description: "Heraclitus saw flux and constancy as inseparable — the river sta
 
 # Heraclitus (c. 535–c. 475 BCE)
 
-Heraclitus put constancy-through-flux at the centre of thinking two and a half thousand years ago. His river stays the same *because* the water flows — not despite it. What persists is not what stays put but what retains its form through change. His *logos* — the account that holds the flux together — is the earliest articulation of a pattern that recurs across the history of philosophy.
+Heraclitus put constancy-through-flux at the centre of thinking two and a half thousand years ago. His river stays the same *because* the water flows — not despite it. What persists is not what stays put but what retains its form through change. His *logos* — the account that holds the flux together — has been claimed as foundational by traditions as different as dialectics, process philosophy, vitalism, and Stoic cosmology, each reading him differently.
 
 [Heraclitus](https://plato.stanford.edu/entries/heraclitus/) (c. 535–c. 475 BCE). Pre-Socratic philosopher from Ephesus. Known as "the Obscure" even in antiquity — his prose was deliberately dense, aphoristic, and layered with wordplay. Nothing survives as a complete work; what we have are roughly 130 fragments, quoted and paraphrased by later writers. Despite the fragmentary record, his influence runs through the entire history of Western philosophy. [Hegel](/positioning/persons/h/hegel/) claimed him as a predecessor. [Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche) called him the philosopher he felt closest to. [Heidegger](/positioning/persons/h/heidegger/) returned to him repeatedly. The Stoics adopted his *logos* as a cosmological principle.
 
@@ -29,7 +29,7 @@ Heraclitus put constancy-through-flux at the centre of thinking two and a half t
 
 ## Fragments worth reading
 
-Heraclitus is best encountered through his own words ([fragments](https://en.wikisource.org/wiki/Fragments_of_Heraclitus)). A selection:
+Heraclitus is best encountered through his own words ([fragments](https://en.wikisource.org/wiki/Fragments_of_Heraclitus)). Translations below follow Charles H. Kahn, *The Art and Thought of Heraclitus* (Cambridge, 1979). A selection:
 
 - *"On those stepping into the same rivers, ever-different waters flow."* (B12)
 - *"The road up and the road down are one and the same."* (B60)
@@ -43,8 +43,8 @@ Heraclitus is best encountered through his own words ([fragments](https://en.wik
 
 ## Where Heraclitus stops
 
-Heraclitus saw the pattern but had no account of how it is held. The *logos* holds — but by what? What capacity a being needs in order to retain — to carry the trace of interaction forward, to persist as a subject rather than mere being — is not a question the fragments address. Heraclitus's river illustrates the persistence but does not name what holds it. That step waits for later thinkers.
+The fragments point at the pattern but do not develop a systematic account of how the *logos* operates — how opposites generate each other, what mechanism or structure underlies the unity of the flux. The relation between the *logos* and the minds that miss or grasp it is gestured at but not theorised: most people fail to understand the *logos*, the wise attend to it, but what distinguishes one from the other is left as assertion, not argument. The deliberate obscurity of the prose — aphorism, wordplay, compression — is itself a philosophical stance, but the method's relation to the content it delivers is not worked through. Heraclitus shows; he does not explain.
 
 ---
 
-See also: [Hegel](/positioning/persons/h/hegel/) · [Bergson](/positioning/persons/b/bergson/) · [Whitehead](/positioning/persons/w/whitehead/)
+See also: [Hegel](/positioning/persons/h/hegel/) · [Heidegger](/positioning/persons/h/heidegger/) · [Bergson](/positioning/persons/b/bergson/) · [Whitehead](/positioning/persons/w/whitehead/)

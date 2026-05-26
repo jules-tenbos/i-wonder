@@ -2,7 +2,7 @@
 layout: default
 title: "John Maynard Smith (1920–2004)"
 description: "British evolutionary biologist — evolutionary game theory, the evolutionarily stable strategy, and the major transitions in evolution."
-lastmod: 2026-05-15
+lastmod: 2026-05-26
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Maynard Smith
@@ -19,7 +19,7 @@ Born 6 January 1920 in London. His father, Sidney Maynard Smith, a surgeon, died
 
 First degree in engineering at Trinity College, Cambridge. He worked on military aircraft design during the Second World War. After the war he took a second degree in genetics under Haldane at University College London, working on fruit fly (*Drosophila*) genetics. He joined the Communist Party as a young man and left after Hungary in 1956. He underwent a life shift from pacifism and from Christianity to atheism.
 
-In the early 1960s he was a founding member of the University of Sussex and founding dean of the School of Biological Sciences — a post he held while the school was built from scratch. He remained at Sussex for the rest of his career. Elected FRS in 1977. Awarded the Darwin Medal (1986), the Balzan Prize for Genetics and Evolution (1991), the Crafoord Prize (1999, jointly with [Ernst Mayr](/positioning/persons/m/mayr/) and [George C. Williams](https://en.wikipedia.org/wiki/George_C._Williams)), and the Kyoto Prize (2001). He died at home on 19 April 2004, aged eighty-four.
+In the early 1960s he was a founding member of the University of Sussex and founding dean of the School of Biological Sciences — a post he held while the school was built from scratch. He remained at Sussex for the rest of his career. Elected FRS in 1977. Awarded the Darwin Medal (1986), the Balzan Prize for Genetics and Evolution (1991), the Crafoord Prize (1999, jointly with [Ernst Mayr](/positioning/persons/m/mayr/) and [George C. Williams](/positioning/persons/w/williams/)), and the Kyoto Prize (2001). He died at home on 19 April 2004, aged eighty-four.
 
 ## Evolutionary game theory and the ESS
 

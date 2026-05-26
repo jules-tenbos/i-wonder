@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-15
+lastmod: 2026-05-26
 title: "Persons A–Z"
 description: "Thinkers referenced across the positioning section — from Bergson and Fichte to Whitehead and Wittgenstein"
 ---
@@ -37,7 +37,12 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Darwin, Charles (1809–1882)](d/darwin) · naturalist<span class="kw">natural selection, the Beagle voyage, one long argument, barnacles to earthworms</span>
 - [Descartes, René (1596–1650)](d/descartes) · philosopher, mathematician<span class="kw">the cogito, the mirror, the mind-body split, method</span>
 - [Dewey, John (1859–1952)](d/dewey) · philosopher<span class="kw">pragmatism, democracy, inquiry as community problem-solving, experience as transaction</span>
+- [Dennett, Daniel (1942–2024)](d/dennett) · philosopher<span class="kw">the intentional stance, Darwin's Dangerous Idea, consciousness explained, universal Darwinism, memes</span>
 - [Dobzhansky, Theodosius (1900–1975)](d/dobzhansky) · geneticist, evolutionary biologist<span class="kw">Genetics and the Origin of Species, Modern Synthesis bridge, isolating mechanisms, nothing in biology</span>
+
+## E
+
+- [Eldredge, Niles (1943–)](e/eldredge) · paleontologist<span class="kw">punctuated equilibrium, hierarchy theory, genealogical-ecological duality, stasis, turnover pulse</span>
 
 ## F
 
@@ -76,6 +81,7 @@ Individual thinkers referenced across the positioning section. Each page present
 ## K
 
 - [Kant, Immanuel (1724–1804)](k/kant) · philosopher<span class="kw">the Copernican revolution, phenomena and noumena, the categories, the moral law</span>
+- [Kimura, Motoo (1924–1994)](k/kimura) · population geneticist<span class="kw">neutral theory of molecular evolution, diffusion equations, molecular clock, drift vs selection</span>
 - [Kauffman, Stuart (1939–)](k/kauffman) · theoretical biologist<span class="kw">self-organisation, autocatalytic sets, NK landscapes, the adjacent possible</span>
 - [Kropotkin, Peter (1842–1921)](k/kropotkin) · geographer, anarchist theorist<span class="kw">mutual aid, anarchist communism, decentralised production, cooperation as evolutionary factor</span>
 - [Kuhn, Thomas (1922–1996)](k/kuhn) · philosopher of science, historian<span class="kw">paradigms, normal science, revolutions, incommensurability</span>
@@ -94,6 +100,7 @@ Individual thinkers referenced across the positioning section. Each page present
 
 - [Malthus, Thomas (1766–1834)](m/malthus) · political economist, demographer<span class="kw">principle of population, moral restraint, rent, effective demand</span>
 - [Marx, Karl (1818–1883)](m/marx) · philosopher, political economist<span class="kw">critique of political economy, materialist conception of history, alienation, Capital</span>
+- [MacArthur, Robert (1930–1972)](m/macarthur) · ecologist<span class="kw">island biogeography, species packing, r/K selection, warbler niche, mathematical ecology</span>
 - [Maynard Smith, John (1920–2004)](m/maynard-smith) · evolutionary biologist<span class="kw">evolutionary game theory, ESS, major transitions in evolution, the evolution of sex</span>
 - [Mayr, Ernst (1904–2005)](m/mayr) · evolutionary biologist, systematist<span class="kw">biological species concept, geographic speciation, Modern Synthesis architect, population thinking</span>
 - [Maturana, Humberto (1928–2021)](m/maturana) · biologist, philosopher<span class="kw">autopoiesis, biology of cognition, the observer, structural determinism</span>
@@ -151,6 +158,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Wallace, Alfred Russel (1823–1913)](w/wallace) · naturalist, geographer<span class="kw">co-discovery of natural selection, biogeography, the Wallace Line, spiritualism</span>
 - [Whitehead, Alfred North (1861–1947)](w/whitehead) · philosopher, mathematician<span class="kw">process, actual occasions, creativity, prehension</span>
 - [Wiener, Norbert (1894–1964)](w/wiener) · mathematician<span class="kw">cybernetics, feedback, communication and control, the Macy conferences, the human use of human beings</span>
+- [Williams, George C. (1926–2010)](w/williams) · evolutionary biologist<span class="kw">Adaptation and Natural Selection, gene-level critique of group selection, senescence, sex, Darwinian medicine</span>
 - [Wilson, E. O. (1929–2021)](w/wilson) · biologist<span class="kw">Sociobiology, island biogeography, the ants, biodiversity, group selection turn</span>
 - [Wright, Sewall (1889–1988)](w/wright) · geneticist<span class="kw">adaptive landscapes, genetic drift, shifting balance theory, path coefficients, population structure</span>
 - [Wittgenstein, Ludwig (1889–1951)](w/wittgenstein) · philosopher<span class="kw">language games, forms of life, meaning as use</span>

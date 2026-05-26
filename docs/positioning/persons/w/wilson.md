@@ -9,7 +9,7 @@ description: "American biologist — Sociobiology, island biogeography, the ants
 
 # E. O. Wilson (1929–2021)
 
-Wilson was an entomologist, biogeographer, and evolutionary biologist whose career moved through three distinct phases, each producing major work. The first was myrmecology — the study of ants — where he became the world authority and produced foundational work on chemical communication, caste systems, and social organisation. The second was island biogeography (with Robert MacArthur), which gave ecology a predictive mathematical framework. The third was sociobiology — the systematic study of the biological basis of social behaviour — which extended evolutionary analysis to human societies and provoked one of the most intense scientific controversies of the twentieth century. A late-career turn to group selection, explicitly abandoning the inclusive fitness framework he had helped popularise, reopened a debate many had considered settled.
+Wilson was an entomologist, biogeographer, and evolutionary biologist whose career moved through three distinct phases, each producing major work. The first was myrmecology — the study of ants — where he became the world authority and produced foundational work on chemical communication, caste systems, and social organisation. The second was island biogeography (with [Robert MacArthur](/positioning/persons/m/macarthur/)), which gave ecology a predictive mathematical framework. The third was sociobiology — the systematic study of the biological basis of social behaviour — which extended evolutionary analysis to human societies and provoked one of the most intense scientific controversies of the twentieth century. A late-career turn to group selection, explicitly abandoning the inclusive fitness framework he had helped popularise, reopened a debate many had considered settled.
 
 ---
 
@@ -35,9 +35,7 @@ Wilson's earliest and most sustained research programme. His work on ant taxonom
 
 ## Island biogeography
 
-*The Theory of Island Biogeography* (1967, with Robert MacArthur). The theory proposes that the number of species on an island represents a dynamic equilibrium between immigration (new species arriving) and extinction (resident species disappearing). Immigration rates decrease as more species accumulate (fewer new arrivals are genuinely new); extinction rates increase with species number (more competition, smaller populations). The equilibrium is predictable from island area and distance from the mainland.
-
-The theory gave ecology a mathematical framework with testable predictions. Wilson and Daniel Simberloff tested it experimentally by defaunating small mangrove islands in the Florida Keys and observing recolonisation — one of ecology's landmark field experiments. The framework was later applied to habitat fragments on continents, making it foundational to conservation biology.
+*The Theory of Island Biogeography* (1967, with [Robert MacArthur](/positioning/persons/m/macarthur/)). The theory proposes that the number of species on an island represents a dynamic equilibrium between immigration and extinction, predictable from island area and distance from the mainland. It gave ecology a mathematical framework with testable predictions and later became foundational to conservation biology. The [MacArthur person page](/positioning/persons/m/macarthur/) carries the fuller treatment of the theory, its experimental tests, and its reception.
 
 ---
 
@@ -75,7 +73,7 @@ Wilson's programme is biological and synthetic — it seeks to bring behaviour, 
 
 ## Key works
 
-- Wilson, E. O., & MacArthur, R. H., *The Theory of Island Biogeography* (Princeton, 1967) — the mathematical framework for species equilibrium
+- Wilson, E. O., & [MacArthur, R. H.](/positioning/persons/m/macarthur/), *The Theory of Island Biogeography* (Princeton, 1967) — the mathematical framework for species equilibrium
 - *Sociobiology: The New Synthesis* (Harvard, 1975) — the systematic evolutionary account of social behaviour
 - *On Human Nature* (Harvard, 1978) — the extension to humans, Pulitzer Prize
 - *Biophilia* (Harvard, 1984) — the innate human affinity for life
