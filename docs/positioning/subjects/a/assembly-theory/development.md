@@ -9,7 +9,7 @@ description: "How the Cronin-Walker collaboration started, the sequence of found
 
 # Development
 
-Assembly theory is the joint work of Lee Cronin and Sara Imari Walker, developed from 2017 onward with contributions from collaborators at Glasgow, Arizona State, and the Santa Fe Institute. This page holds the history, the people, and the reference list.
+Assembly theory is the joint work of [Lee Cronin](/positioning/persons/c/cronin/) and [Sara Imari Walker](/positioning/persons/w/walker/), developed from 2017 onward with contributions from collaborators at Glasgow, Arizona State, and the Santa Fe Institute. This page holds the history, the people, and the reference list.
 
 ---
 

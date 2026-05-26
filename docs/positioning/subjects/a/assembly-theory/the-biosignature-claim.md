@@ -33,7 +33,7 @@ Three techniques map molecular components to the theoretical assembly index.
 
 All three count molecular components, which then map to the theoretical assembly index. Mass spectrometry carries the most published empirical work; the other two extend the measurement base.
 
-Cronin: *"A key feature of the theory is that it is experimentally testable."* The experimental measurability is presented as a genuine contribution beyond what abstract complexity measures provide — a point load-bearing in the [AIT debate](/positioning/subjects/a/assembly-theory/the-algorithmic-information-theory-debate/).
+[Cronin](/positioning/persons/c/cronin/): *"A key feature of the theory is that it is experimentally testable."* The experimental measurability is presented as a genuine contribution beyond what abstract complexity measures provide — a point load-bearing in the [AIT debate](/positioning/subjects/a/assembly-theory/the-algorithmic-information-theory-debate/).
 
 ---
 

@@ -64,4 +64,4 @@ Cronin's work is grounded in chemistry — in making, measuring, and automating 
 
 ---
 
-See also: [Assembly theory](/positioning/subjects/a/assembly-theory/) · [Walker](/positioning/persons/w/walker/) · [Kauffman](/positioning/persons/k/kauffman/)
+See also: [Assembly theory](/positioning/subjects/a/assembly-theory/) · [Walker](/positioning/persons/w/walker/) · [Hazen](/positioning/persons/h/hazen/) · [Kauffman](/positioning/persons/k/kauffman/)

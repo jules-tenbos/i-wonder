@@ -9,13 +9,13 @@ description: "The exchange between Robert Hazen and collaborators and Walker, Cr
 
 # The Mineral Exchange
 
-The surface disagreement is technical: can inorganic minerals exceed the biosignature threshold? Beneath it sits a deeper conceptual question that makes this exchange productive rather than merely adversarial. Both Hazen and Walker/Cronin hold that construction history is materially load-bearing for complex objects; they disagree on where the biosignature cut falls and what counts as the right kind of measurement.
+The surface disagreement is technical: can inorganic minerals exceed the biosignature threshold? Beneath it sits a deeper conceptual question that makes this exchange productive rather than merely adversarial. Both [Hazen](/positioning/persons/h/hazen/) and [Walker](/positioning/persons/w/walker/)/[Cronin](/positioning/persons/c/cronin/) hold that construction history is materially load-bearing for complex objects; they disagree on where the biosignature cut falls and what counts as the right kind of measurement.
 
 ---
 
 ## Hazen's broader programme
 
-Robert Hazen (Carnegie Science, Smithsonian) and collaborators have developed an account of mineral evolution: the evolutionary system of mineralogy. Earth's 5,000+ mineral species could not have arisen from chondrite-style chemistry alone. Minerals diversified through stages over Earth's history, driven by progressively richer geological conditions — initial cooling, water cycles, plate tectonics, mantle activity, oxygenation (driven by life), and eventually biology acting back on mineralogy.
+[Robert Hazen](/positioning/persons/h/hazen/) (Carnegie Science, Smithsonian) and collaborators have developed an account of mineral evolution: the evolutionary system of mineralogy. Earth's 5,000+ mineral species could not have arisen from chondrite-style chemistry alone. Minerals diversified through stages over Earth's history, driven by progressively richer geological conditions — initial cooling, water cycles, plate tectonics, mantle activity, oxygenation (driven by life), and eventually biology acting back on mineralogy.
 
 The diversification required enabling conditions to accumulate over geological time. This is a path-matters claim about minerals, structurally similar to assembly theory's path-matters claim about molecules. The intellectual sympathy runs deeper than the specific dispute about threshold values.
 

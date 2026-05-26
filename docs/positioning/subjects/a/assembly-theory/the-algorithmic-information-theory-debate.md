@@ -17,7 +17,7 @@ The debate is active across multiple peer-reviewed venues and is not resolved.
 
 ## The critique
 
-Hector Zenil and collaborators — Felipe Abrahão, Santiago Hernández-Orozco, Narsis Kiani, Jesper Tegnér, Allen Uthamacumaran — have pursued the subsumption claim through multiple papers since 2024.
+[Hector Zenil](/positioning/persons/z/zenil/) and collaborators — Felipe Abrahão, Santiago Hernández-Orozco, Narsis Kiani, Jesper Tegnér, Allen Uthamacumaran — have pursued the subsumption claim through multiple papers since 2024.
 
 The central paper: Abrahão et al. (2024), *PLOS Complex Systems*: "Assembly Theory is an approximation to algorithmic complexity based on LZ compression that does not explain selection or evolution." Further papers: Uthamacumaran, Abrahão, Kiani, Zenil (2024), *npj Systems Biology and Applications*: "On the salient limitations of the methods of assembly theory and their classification of molecular biosignatures." Earlier work appeared in *Parallel Processing Letters*.
 
@@ -31,7 +31,7 @@ The framing claim: assembly theory makes broad unification claims that are unsup
 
 ## The defence
 
-Cronin, Walker, and the Glasgow / ASU teams responded formally in "Assembly theory and its relationship with computational complexity" (*npj Complexity*, 2025). Three main lines:
+[Cronin](/positioning/persons/c/cronin/), [Walker](/positioning/persons/w/walker/), and the Glasgow / ASU teams responded formally in "Assembly theory and its relationship with computational complexity" (*npj Complexity*, 2025). Three main lines:
 
 **LZ compression fails at the interesting cases.** The equivalence claim is technically correct for the restricted regime but does not hold where Kolmogorov complexity is most informative. LZ compression is computable and bounded; Kolmogorov complexity is not. Claiming that assembly theory is "just" LZ compression misses what the theory is doing with the measure.
 

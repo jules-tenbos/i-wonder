@@ -87,10 +87,6 @@ Persons and subjects referenced on the site without their own entry. One list, d
 - Hobbes, Thomas — social contract, Leviathan, mechanistic materialism; Hume person page
 - Hutcheson, Francis — moral sense theory, Hume's predecessor in Scottish moral philosophy; Hume person page
 - Reid, Thomas — common sense philosophy, Hume's contemporary critic; Hume person page
-- Cronin, Lee — Regius Chair of Chemistry, Glasgow; co-developer of assembly theory, Chemify; assembly-theory bundle (essential)
-- Walker, Sara Imari — theoretical physicist, astrobiologist, ASU / Santa Fe; co-developer of assembly theory; assembly-theory bundle (essential)
-- Hazen, Robert — Carnegie Science; evolutionary mineralogy, mineral evolution; assembly-theory /the-mineral-exchange (essential)
-- Zenil, Hector — algorithmic information theory, Kolmogorov complexity; assembly-theory /the-algorithmic-information-theory-debate (essential)
 
 ## Subjects — candidates
 

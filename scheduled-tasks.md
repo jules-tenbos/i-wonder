@@ -79,5 +79,4 @@ Updated 2026-05-26. Tasks triggered by post publication and ongoing work.
 - [ ] 12 parked posts in `/drafts/` — each needs review/rework before re-scheduling
 - [ ] Remaining descriptions: seed trajectories, language/reality sub-pages, scheduled blog posts
 - [ ] RQM post over word limit (1249 words)
-- [ ] Assembly theory bundle — Hazen and Zenil person pages still needed for cross-links
 - [ ] Person page craft guidance — add "Where X stops" drafting process note to tone-of-voice/positioning-section.md § How to apply

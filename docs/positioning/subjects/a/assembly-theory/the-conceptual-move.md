@@ -11,9 +11,9 @@ description: "The move that defines assembly theory: relocating complexity from 
 
 An object's complexity is not what it is made of or how it behaves but how many steps were needed to construct it from basic building blocks. The move is structural and specific: complexity is relocated from the properties of the finished object to the trajectory that produced it.
 
-Sara Walker's formulation: *"The information is in the path, not the initial conditions."*
+[Sara Walker's](/positioning/persons/w/walker/) formulation: *"The information is in the path, not the initial conditions."*
 
-The starting observation is Cronin's: complex molecules cannot just emerge into existence because the combinatorial space of possible constructions is too vast. A molecule of moderate complexity could in principle be assembled through an astronomically large number of different sequences of operations; most of those sequences will never be traversed. The fact that a particular complex molecule exists in quantity tells you something about the history that produced it — a history of selection, retention, and reuse.
+The starting observation is [Cronin's](/positioning/persons/c/cronin/): complex molecules cannot just emerge into existence because the combinatorial space of possible constructions is too vast. A molecule of moderate complexity could in principle be assembled through an astronomically large number of different sequences of operations; most of those sequences will never be traversed. The fact that a particular complex molecule exists in quantity tells you something about the history that produced it — a history of selection, retention, and reuse.
 
 The formal apparatus implements this move. Each element directly encodes the claim that construction history is what is being measured.
 

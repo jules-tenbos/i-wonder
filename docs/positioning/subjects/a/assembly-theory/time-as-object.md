@@ -11,7 +11,7 @@ description: "The metaphysical extension of assembly theory: time as a material 
 
 Assembly theory's boldest claim is not methodological but metaphysical. Time is not a backdrop against which objects exist, not an illusion to be reduced away, not merely emergent from thermodynamics — but a material property of objects with measurable size, encoded in their construction history.
 
-*"Time is the stuff out of which things in the Universe are made."* (Walker and Cronin, Aeon, 2023.)
+*"Time is the stuff out of which things in the Universe are made."* ([Walker](/positioning/persons/w/walker/) and [Cronin](/positioning/persons/c/cronin/), Aeon, 2023.)
 
 This is the version of the theory most contested — by hostile critics and sympathetic readers alike.
 

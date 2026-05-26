@@ -52,6 +52,7 @@ Individual thinkers referenced across the positioning section. Each page present
 ## H
 
 - [Habermas, Jürgen (1929–2025)](h/habermas) · philosopher, social theorist<span class="kw">communicative action, discourse ethics, lifeworld and system</span>
+- [Hazen, Robert (1948–)](h/hazen) · mineralogist, astrobiologist<span class="kw">mineral evolution, evolutionary system of mineralogy, mineral ecology, assembly theory exchange</span>
 - [Holling, C.S. (1930–2019)](h/holling) · ecologist<span class="kw">ecological resilience, the adaptive cycle, panarchy, resilience vs. stability</span>
 - [Holland, John (1929–2015)](h/holland) · computer scientist, complex systems researcher<span class="kw">genetic algorithms, adaptive agents, internal models, emergence, the CAS primitive</span>
 - [Heraclitus (c. 535–c. 475 BCE)](h/heraclitus) · philosopher<span class="kw">flux and constancy, unity of opposites, logos, fire</span>
@@ -143,3 +144,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Whitehead, Alfred North (1861–1947)](w/whitehead) · philosopher, mathematician<span class="kw">process, actual occasions, creativity, prehension</span>
 - [Wiener, Norbert (1894–1964)](w/wiener) · mathematician<span class="kw">cybernetics, feedback, communication and control, the Macy conferences, the human use of human beings</span>
 - [Wittgenstein, Ludwig (1889–1951)](w/wittgenstein) · philosopher<span class="kw">language games, forms of life, meaning as use</span>
+
+## Z
+
+- [Zenil, Hector (1979–)](z/zenil) · computer scientist, complexity researcher<span class="kw">algorithmic information theory, Kolmogorov complexity, coding theorem method, assembly theory critique</span>

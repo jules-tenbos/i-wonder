@@ -75,4 +75,4 @@ Walker's programme is theoretical. The empirical apparatus — mass spectrometry
 
 ---
 
-See also: [Assembly theory](/positioning/subjects/a/assembly-theory/) · [Cronin](/positioning/persons/c/cronin/) · [Kauffman](/positioning/persons/k/kauffman/)
+See also: [Assembly theory](/positioning/subjects/a/assembly-theory/) · [Cronin](/positioning/persons/c/cronin/) · [Hazen](/positioning/persons/h/hazen/) · [Kauffman](/positioning/persons/k/kauffman/)

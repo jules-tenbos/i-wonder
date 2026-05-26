@@ -39,7 +39,7 @@ Specific empirical work applying the formal apparatus to music is limited.
 
 ## Cosmological extensions
 
-Walker and Cronin propose, particularly in the Aeon essay (2023) and Walker's *Life As No One Knows It* (2024), that assembly theory has implications for cosmology. The future is the size of the universe; the universe expands in time as well as space; novelty becomes possible because the present is larger than the past.
+[Walker](/positioning/persons/w/walker/) and [Cronin](/positioning/persons/c/cronin/) propose, particularly in the Aeon essay (2023) and Walker's *Life As No One Knows It* (2024), that assembly theory has implications for cosmology. The future is the size of the universe; the universe expands in time as well as space; novelty becomes possible because the present is larger than the past.
 
 The cosmological framing reaches further than the formal apparatus currently supports. The claim that the universe's expansion in time — the growing space of possible constructions — is as fundamental as its expansion in space is speculative and contested. It connects to the [time-as-object](/positioning/subjects/a/assembly-theory/time-as-object/) claims at their most ambitious scale.
 
@@ -47,7 +47,7 @@ The cosmological framing reaches further than the formal apparatus currently sup
 
 ## TAP — Theory of the Adjacent Possible
 
-The collaboration with Stuart Kauffman, Lee Smolin, and Marina Cortês: Cortês, Kauffman, Liddle, Smolin (2023) "The TAP equation: evaluating combinatorial innovation in biocosmology."
+The collaboration with Stuart [Kauffman](/positioning/persons/k/kauffman/), Lee Smolin, and Marina Cortês: Cortês, Kauffman, Liddle, Smolin (2023) "The TAP equation: evaluating combinatorial innovation in biocosmology."
 
 TAP addresses the broader question of how novelty enters cosmological and biological history. The adjacent possible — the set of things that could come into existence given what already exists — grows as new things are created, opening paths that did not previously exist. TAP formalises this as an equation governing the rate of combinatorial innovation.
 

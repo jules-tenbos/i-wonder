@@ -25,7 +25,7 @@ This critique is distinct from both the AIT and mineral lines. It does not attac
 
 ## Chemistry-side critics
 
-Steven Benner and James Tour have published critiques and engaged in debate with Cronin from origin-of-life chemistry. Tour debated Cronin at Harvard on origin-of-life questions, with implications for assembly theory's biosignature claim. The debate has been widely viewed.
+Steven Benner and James Tour have published critiques and engaged in debate with [Cronin](/positioning/persons/c/cronin/) from origin-of-life chemistry. Tour debated Cronin at Harvard on origin-of-life questions, with implications for assembly theory's biosignature claim. The debate has been widely viewed.
 
 These critiques come from a different angle than the AIT or mineral challenges. They tend to dispute that any current framework — including assembly theory — addresses the actual chemical challenges of life's emergence. The questions about prebiotic chemistry, the origin of functional polymers, and the gap between measuring molecular complexity and explaining how life begins are not specific to assembly theory, but assembly theory's biosignature claim invites them.
 
@@ -57,9 +57,9 @@ The TAP (Theory of the Adjacent Possible) collaboration with Stuart Kauffman, Le
 
 The reception operates on at least three substantive axes:
 
-**The mathematical relationship to existing complexity measures.** Whether the assembly index is formally subsumed by Kolmogorov complexity and LZ compression, or whether its physical grounding makes it a distinct kind of measure. Active primarily between Zenil's group and the Glasgow / ASU teams.
+**The mathematical relationship to existing complexity measures.** Whether the assembly index is formally subsumed by Kolmogorov complexity and LZ compression, or whether its physical grounding makes it a distinct kind of measure. Active primarily between [Zenil's](/positioning/persons/z/zenil/) group and the Glasgow / ASU teams.
 
-**The empirical generality of the biosignature threshold.** Whether the threshold transfers across chemical regimes (organic and inorganic, covalent and ionic), and whether theoretical assembly index calculations are valid extensions of the framework. Active primarily between Hazen's group and the Walker / Cronin teams.
+**The empirical generality of the biosignature threshold.** Whether the threshold transfers across chemical regimes (organic and inorganic, covalent and ionic), and whether theoretical assembly index calculations are valid extensions of the framework. Active primarily between [Hazen's](/positioning/persons/h/hazen/) group and the [Walker](/positioning/persons/w/walker/) / [Cronin](/positioning/persons/c/cronin/) teams.
 
 **The scale of the metaphysical claims.** Whether the theory warrants the framing as a new fundamental account of time, a sequel to Einstein's unification, and a grounding of biology in physics — or whether the methodological contribution stands while the metaphysical claims overreach. Active across multiple critics, including sympathetic ones.
 
