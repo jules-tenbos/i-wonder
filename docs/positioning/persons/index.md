@@ -13,12 +13,15 @@ Individual thinkers referenced across the positioning section. Each page present
 
 ## A
 
+- [Albert, David (1954–)](a/albert) · philosopher of physics<span class="kw">the Past Hypothesis, foundations of statistical mechanics, the measurement problem, GRW</span>
+- [Arendt, Hannah (1906–1975)](a/arendt) · political theorist<span class="kw">plurality as the human condition, the vita activa, totalitarianism, the banality of evil</span>
 - [Ashby, W. Ross (1903–1972)](a/ashby) · psychiatrist, cyberneticist<span class="kw">the homeostat, requisite variety, the good regulator theorem, ultrastability</span>
 - [Axelrod, Robert (1943–)](a/axelrod) · political scientist<span class="kw">evolution of cooperation, iterated prisoner's dilemma, tit-for-tat, the BACH group</span>
 - [Arthur, W. Brian (1945–)](a/arthur) · economist<span class="kw">increasing returns, path dependence, complexity economics, technological evolution</span>
 
 ## B
 
+- [Berlin, Isaiah (1909–1997)](b/berlin) · philosopher, historian of ideas<span class="kw">value pluralism, incommensurability of values, two concepts of liberty, the Counter-Enlightenment</span>
 - [Brandom, Robert (1950–)](b/brandom) · philosopher<span class="kw">inferentialism, deontic scorekeeping, commitment over representation, expressive rationality</span>
 - [Barabási, Albert-László (1967–)](b/barabasi) · physicist, network scientist<span class="kw">scale-free networks, preferential attachment, network science, robustness and vulnerability</span>
 - [Bak, Per (1948–2002)](b/bak) · physicist<span class="kw">self-organized criticality, power-law dynamics, the sand-pile model, How Nature Works</span>
@@ -61,6 +64,7 @@ Individual thinkers referenced across the positioning section. Each page present
 
 ## H
 
+- [Hawking, Stephen (1942–2018)](h/hawking) · theoretical physicist<span class="kw">singularity theorems, Hawking radiation, black hole information paradox, no-boundary proposal, three arrows of time</span>
 - [Haldane, J. B. S. (1892–1964)](h/haldane) · geneticist, polymath<span class="kw">population genetics, cost of natural selection, enzyme kinetics, origin of life, Marxism</span>
 - [Hamilton, W. D. (1936–2000)](h/hamilton) · evolutionary biologist<span class="kw">inclusive fitness, Hamilton's rule, kin selection, sex and parasites, gene's-eye view</span>
 - [Habermas, Jürgen (1929–2025)](h/habermas) · philosopher, social theorist<span class="kw">communicative action, discourse ethics, lifeworld and system</span>

@@ -38,7 +38,7 @@ Eddington's thermodynamic arrow is not the only arrow discussed in physics. The 
 
 **The thermodynamic arrow** — entropy increases. This is the arrow established by Boltzmann and the second law. It is statistical, emergent, and dependent on the system having hidden degrees of freedom.
 
-**The cosmological arrow** — the universe expands. [Stephen Hawking](https://en.wikipedia.org/wiki/Stephen_Hawking) argued in *A Brief History of Time* (1988) that the three arrows must align in a universe containing intelligent beings — an anthropic argument. We could not observe an arrow pointing any other way.
+**The cosmological arrow** — the universe expands. [Stephen Hawking](/positioning/persons/h/hawking/) argued in *A Brief History of Time* (1988) that the three arrows must align in a universe containing intelligent beings — an anthropic argument. We could not observe an arrow pointing any other way.
 
 **The psychological arrow** — we remember the past, not the future. Hawking argued that this arrow is determined by the thermodynamic arrow: "Our subjective sense of the direction of time, the psychological arrow of time, is therefore determined within our brain by the thermodynamic arrow of time." Storing a memory increases entropy; memories therefore point toward lower-entropy states — toward the past.
 

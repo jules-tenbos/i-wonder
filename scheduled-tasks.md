@@ -103,5 +103,7 @@ Updated 2026-05-26. Tasks triggered by post publication and ongoing work.
 - [ ] Remaining descriptions: seed trajectories, language/reality sub-pages, scheduled blog posts
 - [ ] RQM post over word limit (1249 words)
 - [ ] Person page craft guidance — add "Where X stops" drafting process note to tone-of-voice/positioning-section.md § How to apply
-- [ ] Person pages next tranche — Berlin, Arendt (interrelational-pluralism); then Hawking, Albert (arrow-of-time remainders); Huxley (Julian), Simpson, Stebbins. See plan/positioning-entries-needed.md
+- [x] Person pages — Berlin, Arendt (interrelational-pluralism cluster, 2026-05-26)
+- [x] Person pages — Hawking, Albert (arrow-of-time remainders, 2026-05-26)
+- [ ] Person pages next tranche — Huxley (Julian), Simpson, Stebbins. See plan/positioning-entries-needed.md
 - [ ] Cross-page audit convention — when a controversy appears on multiple person pages, check both sides voice it consistently (learned from Wilson/Lewontin and Hamilton/Wilson reviews)

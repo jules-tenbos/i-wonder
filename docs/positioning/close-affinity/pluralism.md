@@ -39,11 +39,11 @@ Pluralism — the conviction that reality is irreducibly many — surfaces indep
 
 ## Value pluralism — *there are many incommensurable goods*
 
-**[Isaiah Berlin](https://plato.stanford.edu/entries/berlin/)** — fundamental human values are irreducible and often in conflict. Liberty and equality, justice and mercy — they cannot be ranked on a single scale. There is no harmonious resolution. Practical wisdom navigates the tension without dissolving it. Berlin's incommensurability is a positive structural claim: some goods cannot be cashed out in each other's terms, and no meta-ranking resolves them. That rhymes with P4 — equal standing in potential, no privilege in principle. Berlin saw the no-privilege half clearly. He did not pursue the other half: that incommensurable languages can still interact and produce new language at the points where they overlap. Incommensurability and creative interaction are not opposites.
+**[Isaiah Berlin](/positioning/persons/b/berlin/)** — fundamental human values are irreducible and often in conflict. Liberty and equality, justice and mercy — they cannot be ranked on a single scale. There is no harmonious resolution. Practical wisdom navigates the tension without dissolving it. Berlin's incommensurability is a positive structural claim: some goods cannot be cashed out in each other's terms, and no meta-ranking resolves them. That rhymes with P4 — equal standing in potential, no privilege in principle. Berlin saw the no-privilege half clearly. He did not pursue the other half: that incommensurable languages can still interact and produce new language at the points where they overlap. Incommensurability and creative interaction are not opposites.
 
 ## Political pluralism — *power is dispersed, plurality is constitutive*
 
-**[Hannah Arendt](https://plato.stanford.edu/entries/arendt/)** — plurality as the human condition. Action is possible only because we are many, each unique. The "web of relationships" that action creates is irreducible to any single will or plan. Politics exists because plurality exists.
+**[Hannah Arendt](/positioning/persons/a/arendt/)** — plurality as the human condition. Action is possible only because we are many, each unique. The "web of relationships" that action creates is irreducible to any single will or plan. Politics exists because plurality exists.
 
 **[Robert Dahl](https://en.wikipedia.org/wiki/Robert_A._Dahl)** and **[Harold Laski](https://en.wikipedia.org/wiki/Harold_Laski)** — against absolute sovereignty. Power dispersed among groups, none dominant in all domains. The state is one association among many, not the container of all authority.
 
