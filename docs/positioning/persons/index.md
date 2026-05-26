@@ -28,6 +28,7 @@ Individual thinkers referenced across the positioning section. Each page present
 
 ## C
 
+- [Cronin, Lee (1973–)](c/cronin) · chemist<span class="kw">polyoxometalate chemistry, chemical robots, digitised chemistry, Chemify, assembly theory</span>
 - [Connolly, William E. (1938–)](c/connolly) · political theorist<span class="kw">deep pluralism, pluralisation, agonistic respect, politics of becoming, resonance machines</span>
 
 ## D
@@ -137,6 +138,7 @@ Individual thinkers referenced across the positioning section. Each page present
 
 ## W
 
+- [Walker, Sara Imari](w/walker) · theoretical physicist, astrobiologist<span class="kw">the physics of life, assembly theory, time as material property, astrobiology, Santa Fe Institute</span>
 - [Wallace, Alfred Russel (1823–1913)](w/wallace) · naturalist, geographer<span class="kw">co-discovery of natural selection, biogeography, the Wallace Line, spiritualism</span>
 - [Whitehead, Alfred North (1861–1947)](w/whitehead) · philosopher, mathematician<span class="kw">process, actual occasions, creativity, prehension</span>
 - [Wiener, Norbert (1894–1964)](w/wiener) · mathematician<span class="kw">cybernetics, feedback, communication and control, the Macy conferences, the human use of human beings</span>

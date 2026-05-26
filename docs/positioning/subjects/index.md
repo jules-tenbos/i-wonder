@@ -13,6 +13,7 @@ These are subjects of importance to SPLectrum, referenced within the site.
 
 ## A
 
+- [Assembly theory](a/assembly-theory/) · complexity science, origin of life<span class="kw">complexity through construction history: Cronin, Walker, assembly index, biosignatures, time as object</span>
 - [Autopoiesis](a/autopoiesis) · biology, systems theory<span class="kw">self-making systems, operational closure, structural coupling: Maturana, Varela, Luhmann</span>
 
 ## C

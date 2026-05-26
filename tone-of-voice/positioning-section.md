@@ -113,3 +113,4 @@ The reference function rests on the same discipline. A site whose person pages a
 - Seed / close / wider: topic-driven pieces walking through thinkers and subjects under a chosen angle, with SPLectrum threaded alongside. Resonance only — limits noted as additive (where the seed picks up), not as dissonance. Landing pages frame the ring briefly and index the pieces.
 - Fence: the only surface where dissonance is engaged. Layered framing, equal standing, reasoning discipline, reference-not-re-walk, show-don't-tell, place grammar — see the On the fence subsection above for the full discipline.
 - See also on person/subject pages: within-positioning interlinking primary; SPLectrum-side links separate or omitted; empty is honest.
+- When creating a new person or subject page, add it to the landing page index (`/positioning/persons/` or `/positioning/subjects/`). The page does not exist for readers until it is linked from the index.
