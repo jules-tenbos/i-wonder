@@ -52,6 +52,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Dawkins, Richard (1941–)](d/dawkins) · evolutionary biologist<span class="kw">the selfish gene, gene-centric view, memes, the extended phenotype, universal Darwinism</span>
 - [De Broglie, Louis (1892–1987)](d/de-broglie) · physicist<span class="kw">wave-particle duality, the de Broglie hypothesis, matter waves, the pilot-wave theory</span>
 - [De Vries, Hugo (1848–1935)](d/de-vries) · botanist<span class="kw">the rediscovery of Mendel, mutation theory, intracellular pangenesis, the concept of the gene</span>
+- [Deleuze, Gilles (1925–1995)](d/deleuze) · philosopher<span class="kw">difference and repetition, the rhizome, multiplicity, assemblages, the fold, immanence</span>
 - [Dennett, Daniel (1942–2024)](d/dennett) · philosopher<span class="kw">the intentional stance, Darwin's Dangerous Idea, consciousness explained, universal Darwinism, memes</span>
 - [Descartes, René (1596–1650)](d/descartes) · philosopher, mathematician<span class="kw">the cogito, the mirror, the mind-body split, method</span>
 - [Dewey, John (1859–1952)](d/dewey) · philosopher<span class="kw">pragmatism, democracy, inquiry as community problem-solving, experience as transaction</span>
@@ -123,6 +124,7 @@ Individual thinkers referenced across the positioning section. Each page present
 
 - [Landauer, Rolf (1927–1999)](l/landauer) · physicist<span class="kw">Landauer's principle, the thermodynamics of computation, information as physical, Maxwell's demon resolved</span>
 - [Langton, Christopher (1948–)](l/langton) · computer scientist<span class="kw">artificial life, edge of chaos, self-reproducing loops, the SFI artificial life workshops</span>
+- [Latour, Bruno (1947–2022)](l/latour) · philosopher, sociologist of science<span class="kw">actor-network theory, We Have Never Been Modern, the Parliament of Things, cosmopolitics, modes of existence</span>
 - [Leibniz, Gottfried Wilhelm (1646–1716)](l/leibniz) · philosopher, mathematician<span class="kw">relational space, monads, pre-established harmony, the universal characteristic</span>
 - [Lewontin, Richard (1929–2021)](l/lewontin) · evolutionary biologist, geneticist<span class="kw">three-conditions formalisation, Spandrels critique, organism-environment dialectic, anti-reductionism</span>
 - [Lorenz, Edward (1917–2008)](l/lorenz) · mathematician, meteorologist<span class="kw">deterministic chaos, sensitive dependence, the Lorenz attractor, the butterfly effect</span>
@@ -196,6 +198,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Spinoza, Baruch (1632–1677)](s/spinoza) · philosopher<span class="kw">substance monism, determination as negation, conatus</span>
 - [Stebbins, G. Ledyard (1906–2000)](s/stebbins) · botanist, geneticist<span class="kw">Variation and Evolution in Plants, polyploidy, hybridisation, plant speciation, Modern Synthesis</span>
 - [Stengers, Isabelle (1949–)](s/stengers) · philosopher of science<span class="kw">cosmopolitics, ecology of practices, reciprocal capture, Thinking with Whitehead</span>
+- [Sumner, William Graham (1840–1910)](s/sumner) · sociologist, political economist<span class="kw">Social Darwinism, laissez-faire, What Social Classes Owe to Each Other, Folkways, ethnocentrism</span>
 
 ## T
 

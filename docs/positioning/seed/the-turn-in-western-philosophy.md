@@ -22,7 +22,7 @@ title: "The Turn in Western Philosophy"
 
 **[Saussure](https://plato.stanford.edu/entries/saussure/) (1916)** arrives independently from linguistics. Language is a system of differences — meaning is differential, not referential. The same structural observation Hegel reaches through dialectic, Saussure reaches through linguistics.
 
-**[Whitehead](https://plato.stanford.edu/entries/whitehead/) (1929)** arrives from mathematics and physics. Relations are constitutive of what things are. The actual world is a process. The persistent error is mistaking abstractions for the concrete thing. Bridges the philosophical and the physics trajectory — [Latour](https://en.wikipedia.org/wiki/Bruno_Latour), [Deleuze](https://plato.stanford.edu/entries/deleuze/), [Barad](https://en.wikipedia.org/wiki/Karen_Barad), [Stengers](https://en.wikipedia.org/wiki/Isabelle_Stengers) all draw on him.
+**[Whitehead](https://plato.stanford.edu/entries/whitehead/) (1929)** arrives from mathematics and physics. Relations are constitutive of what things are. The actual world is a process. The persistent error is mistaking abstractions for the concrete thing. Bridges the philosophical and the physics trajectory — [Latour](/positioning/persons/l/latour/), [Deleuze](/positioning/persons/d/deleuze/), [Barad](https://en.wikipedia.org/wiki/Karen_Barad), [Stengers](https://en.wikipedia.org/wiki/Isabelle_Stengers) all draw on him.
 
 ## Axis philosophers
 

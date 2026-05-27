@@ -28,7 +28,7 @@ Spencer's social application was laissez-faire: if nature produces fitness throu
 
 ## Late-19th-century Social Darwinism
 
-[William Graham Sumner](https://en.wikipedia.org/wiki/William_Graham_Sumner), often cited as the most prominent American Social Darwinist, argued in *What Social Classes Owe to Each Other* (1883) that social inequality reflected natural differences in fitness, and that attempts to redistribute wealth impeded the natural sorting of the capable from the incapable. Sumner drew explicitly on Spencer and presented the case in evolutionary terms.
+[William Graham Sumner](/positioning/persons/s/sumner/), often cited as the most prominent American Social Darwinist, argued in *What Social Classes Owe to Each Other* (1883) that social inequality reflected natural differences in fitness, and that attempts to redistribute wealth impeded the natural sorting of the capable from the incapable. Sumner drew explicitly on Spencer and presented the case in evolutionary terms.
 
 The broader movement applied evolutionary vocabulary — "struggle for existence," "survival of the fittest," "natural selection" — to questions of poverty, race, empire, and social policy. The connection between biological evolution and these political arguments was not logically required — the inference from "this is how nature works" to "this is how society should be organised" involves additional premises that the biology does not supply — but it was made routinely, by figures who believed themselves to be reasoning scientifically.
 

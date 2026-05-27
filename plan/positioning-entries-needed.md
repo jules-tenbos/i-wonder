@@ -4,9 +4,6 @@ Persons and subjects referenced on the site without their own entry. One list, d
 
 ## Persons
 
-- Sumner, William Graham — American Social Darwinism case study; social-darwinism
-- Deleuze, Gilles — multiplicity, difference, rhizome; turn in science
-- Latour, Bruno — actor-network theory, modes of existence; turn in science
 - Dahl, Robert — pluralist democracy; interrelational-pluralism
 - Laski, Harold — political pluralism; interrelational-pluralism
 - Democritus — atomism; interrelational-pluralism

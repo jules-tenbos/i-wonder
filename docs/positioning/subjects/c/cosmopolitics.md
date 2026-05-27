@@ -37,7 +37,7 @@ Stengers' cosmopolitics draws on her sustained reading of [Whitehead](/positioni
 
 ## The afterlife of the concept
 
-**Latour.** Both Stengers and [Bruno Latour](https://en.wikipedia.org/wiki/Bruno_Latour) use "cosmopolitics" but differ. Latour affirms a universal common world to be composed; Stengers rejects universality and stays with situated practice. The divergence runs through Latour's "Whose Cosmos, Which Cosmopolitics?" (*Common Knowledge* 10:3, 2004) and continues across both their corpora.
+**Latour.** Both Stengers and [Bruno Latour](/positioning/persons/l/latour/) use "cosmopolitics" but differ. Latour affirms a universal common world to be composed; Stengers rejects universality and stays with situated practice. The divergence runs through Latour's "Whose Cosmos, Which Cosmopolitics?" (*Common Knowledge* 10:3, 2004) and continues across both their corpora.
 
 **Pluriverse and the ontological turn.** Cosmopolitics has been taken up beyond Stengers' framing — [Donna Haraway](https://en.wikipedia.org/wiki/Donna_Haraway), Eduardo Viveiros de Castro, Mario Blaser, Arturo Escobar, Marisol de la Cadena, Walter Mignolo — across STS, anthropology, ecology, and decolonial thought. The "pluriverse" figure travels across this cluster.
 

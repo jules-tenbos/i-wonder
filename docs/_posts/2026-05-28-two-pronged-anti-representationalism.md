@@ -5,7 +5,7 @@ date: 2026-05-28
 lastmod: 2026-05-20
 labels: [seed, philosophy]
 description: ""
-status: final review
+status: ready
 words: 576
 ---
 <img src="https://images.unsplash.com/photo-1506351541065-2de5d60265b3?q=80&w=350&h=230&auto=format&fit=crop" alt="Two-Pronged Anti-Representationalism" />
