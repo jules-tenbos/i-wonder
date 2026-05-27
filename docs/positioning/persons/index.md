@@ -64,6 +64,7 @@ Individual thinkers referenced across the positioning section. Each page present
 ## E
 
 - [Eddington, Arthur (1882–1944)](e/eddington) · astrophysicist<span class="kw">named "the arrow of time", confirmed general relativity, stellar structure, the mass-luminosity relation</span>
+- [Edelman, Gerald (1929–2014)](e/edelman) · biologist<span class="kw">Neural Darwinism, neuronal group selection, reentrant signalling, the immunological Nobel, consciousness</span>
 - [Eilenberg, Samuel (1913–1998)](e/eilenberg) · mathematician<span class="kw">co-founder of category theory, Eilenberg-Steenrod axioms, homological algebra, automata theory</span>
 - [Einstein, Albert (1879–1955)](e/einstein) · physicist<span class="kw">special and general relativity, the photoelectric effect, Brownian motion, the EPR paradox, E = mc²</span>
 - [Eldredge, Niles (1943–)](e/eldredge) · paleontologist<span class="kw">punctuated equilibrium, hierarchy theory, genealogical-ecological duality, stasis, turnover pulse</span>
@@ -98,6 +99,8 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Hazen, Robert (1948–)](h/hazen) · mineralogist, astrobiologist<span class="kw">mineral evolution, evolutionary system of mineralogy, mineral ecology, assembly theory exchange</span>
 - [Hegel, Georg Wilhelm Friedrich (1770–1831)](h/hegel) · philosopher<span class="kw">dialectic, sublation, determinate negation, historical development</span>
 - [Heidegger, Martin (1889–1976)](h/heidegger) · philosopher<span class="kw">being-in-the-world, disclosure, Dasein, readiness-to-hand</span>
+- [Hobbes, Thomas (1588–1679)](h/hobbes) · philosopher<span class="kw">Leviathan, the social contract, the state of nature, mechanistic materialism, sovereignty</span>
+- [Hutcheson, Francis (1694–1746)](h/hutcheson) · philosopher<span class="kw">moral sense theory, the greatest happiness principle, the internal sense of beauty</span> · philosopher<span class="kw">being-in-the-world, disclosure, Dasein, readiness-to-hand</span>
 - [Heisenberg, Werner (1901–1976)](h/heisenberg) · physicist<span class="kw">matrix mechanics, the uncertainty principle, the Copenhagen interpretation, nuclear physics</span>
 - [Heraclitus (c. 535–c. 475 BCE)](h/heraclitus) · philosopher<span class="kw">flux and constancy, unity of opposites, logos, fire</span>
 - [Henrich, Joseph (1968–)](h/henrich) · anthropologist<span class="kw">cumulative culture, the WEIRDest people, cultural evolution, the cultural brain, gene-culture coevolution</span>
@@ -131,6 +134,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Latour, Bruno (1947–2022)](l/latour) · philosopher, sociologist of science<span class="kw">actor-network theory, We Have Never Been Modern, the Parliament of Things, cosmopolitics, modes of existence</span>
 - [Leibniz, Gottfried Wilhelm (1646–1716)](l/leibniz) · philosopher, mathematician<span class="kw">relational space, monads, pre-established harmony, the universal characteristic</span>
 - [Lewontin, Richard (1929–2021)](l/lewontin) · evolutionary biologist, geneticist<span class="kw">three-conditions formalisation, Spandrels critique, organism-environment dialectic, anti-reductionism</span>
+- [Locke, John (1632–1704)](l/locke) · philosopher<span class="kw">empiricism, the Essay Concerning Human Understanding, the social contract, natural rights, the tabula rasa</span>
 - [Lorenz, Edward (1917–2008)](l/lorenz) · mathematician, meteorologist<span class="kw">deterministic chaos, sensitive dependence, the Lorenz attractor, the butterfly effect</span>
 - [Luhmann, Niklas (1927–1998)](l/luhmann) · sociologist<span class="kw">social systems, functional differentiation, communication, autopoiesis, structural coupling</span>
 - [Lyell, Charles (1797–1875)](l/lyell) · geologist<span class="kw">uniformitarianism, Principles of Geology, Tertiary classification, deep time</span>
@@ -179,6 +183,7 @@ Individual thinkers referenced across the positioning section. Each page present
 ## R
 
 - [Reichenbach, Hans (1891–1953)](r/reichenbach) · philosopher of science<span class="kw">the direction of time, branch systems, common cause principle, probability and induction</span>
+- [Reid, Thomas (1710–1796)](r/reid) · philosopher<span class="kw">common-sense philosophy, direct realism, the critique of Hume's skepticism, the rejection of the theory of ideas</span>
 - [Richerson, Peter (1943–)](r/richerson) · evolutionary biologist<span class="kw">dual-inheritance theory (with Boyd), gene-culture coevolution, the ecological basis of cultural evolution</span>
 - [Rorty, Richard (1931–2007)](r/rorty) · philosopher<span class="kw">pragmatism, conversation over correspondence, contingency, solidarity</span>
 - [Rovelli, Carlo (1956–)](r/rovelli) · theoretical physicist, philosopher<span class="kw">loop quantum gravity, relational QM, time, Nagarjuna</span>
@@ -194,7 +199,9 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Schrödinger, Erwin (1887–1961)](s/schrodinger) · physicist<span class="kw">wave mechanics, the Schrödinger equation, What is Life?, negative entropy, the cat</span>
 - [Sellars, Wilfrid (1912–1989)](s/sellars) · philosopher<span class="kw">the myth of the given, the space of reasons, psychological nominalism, the manifest and scientific images</span>
 - [Shannon, Claude (1916–2001)](s/shannon) · mathematician, engineer<span class="kw">information theory, the bit, channel capacity, information entropy, Boolean circuit design</span>
+- [Simard, Suzanne (1960–)](s/simard) · forest ecologist<span class="kw">mycorrhizal networks, the wood wide web, mother trees, resource sharing through fungal connections</span>
 - [Simpson, George Gaylord (1902–1984)](s/simpson) · paleontologist<span class="kw">Tempo and Mode in Evolution, adaptive zones, rates of evolution, quantum evolution, Modern Synthesis</span>
+- [Smith, Adam (1723–1790)](s/smith-adam) · philosopher, political economist<span class="kw">The Wealth of Nations, The Theory of Moral Sentiments, the invisible hand, the impartial spectator</span>
 - [Sober, Elliott (1948–)](s/sober) · philosopher of biology<span class="kw">multilevel selection, units-of-selection debate, the nature of natural selection, parsimony, selection-of vs selection-for</span>
 - [Solé, Ricard (1962–)](s/sole) · complex systems scientist<span class="kw">liquid brains, solid brains, criticality, phase transitions</span>
 - [Sperber, Dan (1942–)](s/sperber) · cognitive scientist, anthropologist<span class="kw">epidemiology of representations, relevance theory, the critique of memetics, cultural attraction</span>
@@ -208,6 +215,7 @@ Individual thinkers referenced across the positioning section. Each page present
 
 - [Tooby, John (1952–2023)](t/tooby) · evolutionary psychologist<span class="kw">the adapted mind, the environment of evolutionary adaptedness, the Standard Social Science Model critique</span>
 - [Trivers, Robert (1943–2026)](t/trivers) · evolutionary biologist<span class="kw">reciprocal altruism, parental investment, parent-offspring conflict, self-deception</span>
+- [Turing, Alan (1912–1954)](t/turing) · mathematician<span class="kw">the Turing machine, computability, the Entscheidungsproblem, the Turing test, morphogenesis</span> · evolutionary biologist<span class="kw">reciprocal altruism, parental investment, parent-offspring conflict, self-deception</span>
 
 ## V
 
@@ -222,6 +230,7 @@ Individual thinkers referenced across the positioning section. Each page present
 
 - [Walker, Sara Imari](w/walker) · theoretical physicist, astrobiologist<span class="kw">the physics of life, assembly theory, time as material property, astrobiology, Santa Fe Institute</span>
 - [Wallace, Alfred Russel (1823–1913)](w/wallace) · naturalist, geographer<span class="kw">co-discovery of natural selection, biogeography, the Wallace Line, spiritualism</span>
+- [Wheeler, David (1927–2004)](w/wheeler-d) · computer scientist<span class="kw">the first assembler, the invention of the subroutine, the Wheeler jump, the EDSAC</span>
 - [Whitehead, Alfred North (1861–1947)](w/whitehead) · philosopher, mathematician<span class="kw">process, actual occasions, creativity, prehension</span>
 - [Wiener, Norbert (1894–1964)](w/wiener) · mathematician<span class="kw">cybernetics, feedback, communication and control, the Macy conferences, the human use of human beings</span>
 - [Williams, George C. (1926–2010)](w/williams) · evolutionary biologist<span class="kw">Adaptation and Natural Selection, gene-level critique of group selection, senescence, sex, Darwinian medicine</span>
