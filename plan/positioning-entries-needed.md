@@ -4,6 +4,10 @@ Persons and subjects referenced on the site without their own entry. One list, d
 
 ## Persons
 
+### Acute backbone (next session priority)
+
+- Morgan, Thomas Hunt — Drosophila genetics, the chromosome theory; named load-bearingly on Bateson (William) and de Vries; foundational 20C geneticist
+
 ### Surfaced from arrow-of-time reviews (2026-05-26)
 
 - Dirac, Paul — quantum field theory, Dirac equation, Nobel co-laureate with Schrödinger; schrödinger

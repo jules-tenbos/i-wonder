@@ -125,4 +125,5 @@ Updated 2026-05-26. Tasks triggered by post publication and ongoing work.
 - [x] Person pages — Dahl, Laski, Democritus, Empedocles (interrelational-pluralism, 2026-05-27)
 - [x] Person pages — Turing, Wheeler (David), Edelman, Simard (computation/neuroscience/ecology, 2026-05-27)
 - [x] Person pages — Smith (Adam), Locke, Hobbes, Hutcheson, Reid (Hume cluster, 2026-05-27)
+- [x] Session summary: 55 person pages created (2026-05-26/27), main plan list cleared, cross-links updated across 80+ existing pages, 4 subject-page candidates added, Pluralism and Pruning proposal submitted
 - [ ] Cross-page audit convention — when a controversy appears on multiple person pages, check both sides voice it consistently (learned from Wilson/Lewontin and Hamilton/Wilson reviews)
