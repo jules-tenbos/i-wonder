@@ -31,7 +31,7 @@ Computation involves logical operations. Some logical operations are logically i
 
 Landauer showed that this logical irreversibility has a thermodynamic consequence: the erased information must be dissipated as heat. The minimum dissipation per bit erased is k_B T ln 2. The result follows from the connection between information and entropy: a bit of information corresponds to a factor of 2 in the number of microstates consistent with the macrostate; erasing it reduces the information-theoretic entropy of the computation and must therefore increase the thermodynamic entropy of the environment by at least the same amount.
 
-The converse is also significant: logically reversible operations (operations that do not erase information) need not dissipate energy in principle. [Charles Bennett](https://en.wikipedia.org/wiki/Charles_H._Bennett_(physicist)) extended this in 1973, showing that any computation can be performed using only logically reversible operations (reversible computing), and that the fundamental thermodynamic cost of computation is therefore not in the computation itself but in the erasure — the act of clearing the tape, resetting the register, discarding intermediate results.
+The converse is also significant: logically reversible operations (operations that do not erase information) need not dissipate energy in principle. [Charles Bennett](/positioning/persons/b/bennett/) extended this in 1973, showing that any computation can be performed using only logically reversible operations (reversible computing), and that the fundamental thermodynamic cost of computation is therefore not in the computation itself but in the erasure — the act of clearing the tape, resetting the register, discarding intermediate results.
 
 ---
 

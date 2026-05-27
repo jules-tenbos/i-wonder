@@ -4,12 +4,6 @@ Persons and subjects referenced on the site without their own entry. One list, d
 
 ## Persons
 
-### Surfaced from biology cluster reviews (2026-05-26)
-
-- Ohta, Tomoko — nearly neutral theory, Kimura's student; kimura
-- Gause, Georgy — competitive exclusion principle; hutchinson, macarthur
-- Vrba, Elisabeth — turnover pulse hypothesis (with Eldredge); eldredge
-
 ### Surfaced from interrelational-pluralism reviews (2026-05-27)
 
 - Bradley, F. H. — British idealism; load-bearing for Oakeshott's Experience and Its Modes

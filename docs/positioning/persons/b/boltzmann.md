@@ -51,7 +51,7 @@ Both objections forced Boltzmann to clarify that the second law is statistical, 
 
 ## The energeticists' opposition
 
-Boltzmann's most sustained opponents were the energeticists — [Ernst Mach](https://en.wikipedia.org/wiki/Ernst_Mach), [Wilhelm Ostwald](https://en.wikipedia.org/wiki/Wilhelm_Ostwald), and [Georg Helm](https://en.wikipedia.org/wiki/Georg_Helm) — who argued that the atomic hypothesis was an unnecessary metaphysical speculation and that thermodynamics should be formulated in terms of observable energy transformations alone, without reference to unobservable particles. The debate came to a head at the 1895 Lübeck meeting of the German Natural Scientists and Physicians.
+Boltzmann's most sustained opponents were the energeticists — [Ernst Mach](/positioning/persons/m/mach/), [Wilhelm Ostwald](https://en.wikipedia.org/wiki/Wilhelm_Ostwald), and [Georg Helm](https://en.wikipedia.org/wiki/Georg_Helm) — who argued that the atomic hypothesis was an unnecessary metaphysical speculation and that thermodynamics should be formulated in terms of observable energy transformations alone, without reference to unobservable particles. The debate came to a head at the 1895 Lübeck meeting of the German Natural Scientists and Physicians.
 
 Boltzmann defended the atomic hypothesis on the grounds that it explained what energetics could not — the Maxwell-Boltzmann velocity distribution, the statistical nature of the second law, the behaviour of gases. The debate was partly scientific and partly philosophical: the energeticists objected not to specific predictions but to the explanatory framework. The confirmation of atoms after Boltzmann's death settled the dispute in his favour. Mach continued to resist the atomic hypothesis to the end of his life.
 

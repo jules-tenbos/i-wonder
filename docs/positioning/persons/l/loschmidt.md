@@ -19,7 +19,7 @@ Born 15 March 1821 in Putschirn (Počerny), Bohemia (now Czech Republic), into a
 
 Appointed Privatdozent at the University of Vienna (1866), then extraordinary professor (1868), then full professor of physical chemistry (1875). The academic career began when Loschmidt was in his mid-forties — late by any standard. His most productive period was the 1860s and 1870s.
 
-Loschmidt and Boltzmann were colleagues and friends at the University of Vienna. The reversibility objection was raised in a spirit of scientific engagement, not hostility — Loschmidt admired Boltzmann's work and sought to clarify its foundations, not to destroy it. Boltzmann took the objection seriously and responded substantively. Died 8 July 1895 in Vienna, the year before Boltzmann's other great critic, [Ernst Zermelo](https://en.wikipedia.org/wiki/Ernst_Zermelo), raised the recurrence objection.
+Loschmidt and Boltzmann were colleagues and friends at the University of Vienna. The reversibility objection was raised in a spirit of scientific engagement, not hostility — Loschmidt admired Boltzmann's work and sought to clarify its foundations, not to destroy it. Boltzmann took the objection seriously and responded substantively. Died 8 July 1895 in Vienna, the year before Boltzmann's other great critic, [Ernst Zermelo](/positioning/persons/z/zermelo/), raised the recurrence objection.
 
 ---
 
@@ -27,7 +27,7 @@ Loschmidt and Boltzmann were colleagues and friends at the University of Vienna.
 
 In 1865, Loschmidt published the first reliable estimate of the size of molecules in air. Using the kinetic theory of gases (the mean free path of molecules, as developed by [Clausius](https://en.wikipedia.org/wiki/Rudolf_Clausius) and [Maxwell](/positioning/persons/m/maxwell/)), together with data on the density and viscosity of air, he calculated that a molecule of air has a diameter of approximately one nanometre — remarkably close to modern values. From this he derived the number of molecules in a cubic centimetre of gas at standard temperature and pressure: approximately 2.6 × 10¹⁹ — now called Loschmidt's number (N_L). The related quantity — the number of molecules in a mole of substance — is [Avogadro's number](https://en.wikipedia.org/wiki/Avogadro_constant) (N_A ≈ 6.022 × 10²³), which in German-speaking countries was long called "Loschmidt's number" as well.
 
-The estimate was significant because it provided concrete physical evidence for the atomic hypothesis at a time when many physicists — including [Ernst Mach](https://en.wikipedia.org/wiki/Ernst_Mach) and the energeticists — denied that atoms were real entities. Loschmidt's calculation gave atoms a size and a number: they were not merely useful fictions but objects whose properties could be measured.
+The estimate was significant because it provided concrete physical evidence for the atomic hypothesis at a time when many physicists — including [Ernst Mach](/positioning/persons/m/mach/) and the energeticists — denied that atoms were real entities. Loschmidt's calculation gave atoms a size and a number: they were not merely useful fictions but objects whose properties could be measured.
 
 ---
 

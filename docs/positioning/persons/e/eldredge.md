@@ -49,7 +49,7 @@ The two hierarchies are linked at the level of the organism — organisms are bo
 
 ## The turnover pulse hypothesis
 
-Proposed in the 1990s and developed through subsequent work with colleagues including Elisabeth Vrba (whose own turnover pulse hypothesis addressed similar questions from the mammalian paleontological record). The claim: pulses of speciation and extinction cluster around episodes of environmental disruption — climate change, habitat fragmentation, sea-level shifts. Stasis holds during stable periods; environmental disruption breaks the stasis by fragmenting populations and opening ecological space.
+Proposed in the 1990s and developed through subsequent work with colleagues including [Elisabeth Vrba](/positioning/persons/v/vrba/) (whose own turnover pulse hypothesis addressed similar questions from the mammalian paleontological record). The claim: pulses of speciation and extinction cluster around episodes of environmental disruption — climate change, habitat fragmentation, sea-level shifts. Stasis holds during stable periods; environmental disruption breaks the stasis by fragmenting populations and opening ecological space.
 
 The hypothesis connects punctuated equilibrium to environmental history: it explains why change is concentrated in episodes rather than distributed continuously. It also connects macroevolutionary theory to paleoclimatology and Earth systems science. Critics have questioned whether the apparent clustering of turnover events reflects genuine biological pulses or artefacts of temporal binning in the stratigraphic record — a methodological challenge shared with other macroevolutionary pattern claims.
 

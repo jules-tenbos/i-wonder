@@ -27,7 +27,7 @@ Elected to the National Academy of Sciences (1950). Foreign Member of the Royal 
 
 "Concluding Remarks," *Cold Spring Harbor Symposia on Quantitative Biology* 22 (1957). Hutchinson formalised the ecological niche as an *n*-dimensional hypervolume in environmental space. Each axis represents an environmental variable relevant to a species' survival and reproduction — temperature range, food particle size, moisture, nesting site, and so on. The niche is the set of all environmental conditions under which a species can persist.
 
-Hutchinson distinguished the **fundamental niche** (the full range of conditions a species could occupy in the absence of competitors) from the **realised niche** (the subset it actually occupies when other species are present). The distinction made competitive exclusion — [Gause's](https://en.wikipedia.org/wiki/Georgy_Gause) principle that two species cannot coexist indefinitely on the same limiting resource — a precise, testable concept rather than a vague verbal claim.
+Hutchinson distinguished the **fundamental niche** (the full range of conditions a species could occupy in the absence of competitors) from the **realised niche** (the subset it actually occupies when other species are present). The distinction made competitive exclusion — [Gause's](/positioning/persons/g/gause/) principle that two species cannot coexist indefinitely on the same limiting resource — a precise, testable concept rather than a vague verbal claim.
 
 The hypervolume formulation gave ecology a mathematical object to work with. MacArthur's work on species packing, limiting similarity, and island biogeography all depend on the niche concept as Hutchinson formalised it.
 

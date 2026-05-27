@@ -84,6 +84,7 @@ Individual thinkers referenced across the positioning section. Each page present
 
 ## G
 
+- [Gause, Georgy (1910–1986)](g/gause) · biologist<span class="kw">the competitive exclusion principle, experimental population ecology, The Struggle for Existence</span>
 - [Gadamer, Hans-Georg (1900–2002)](g/gadamer) · philosopher<span class="kw">philosophical hermeneutics, prejudice, effective history, fusion of horizons</span>
 - [Galton, Francis (1822–1911)](g/galton) · polymath, statistician<span class="kw">eugenics, regression to the mean, correlation, the biometric programme, hereditary genius</span>
 - [Gell-Mann, Murray (1929–2019)](g/gell-mann) · physicist<span class="kw">quarks, the Eightfold Way, effective complexity, Santa Fe Institute co-founder</span>
@@ -171,6 +172,7 @@ Individual thinkers referenced across the positioning section. Each page present
 
 ## O
 
+- [Ohta, Tomoko (1933–)](o/ohta) · population geneticist<span class="kw">the nearly neutral theory of molecular evolution, slightly deleterious mutations, drift-selection interaction</span>
 - [Oakeshott, Michael (1901–1990)](o/oakeshott) · political philosopher<span class="kw">practical knowledge, the critique of rationalism, modes of experience, civil association, the conversation of mankind</span>
 - [Ostrom, Elinor (1933–2012)](o/ostrom) · political economist<span class="kw">governing the commons, polycentric governance, institutional diversity</span>
 
@@ -228,6 +230,7 @@ Individual thinkers referenced across the positioning section. Each page present
 
 - [Van Beneden, Pierre-Joseph (1809–1894)](v/van-beneden) · zoologist, paleontologist<span class="kw">commensalism, mutualism, parasitology, interspecific relations as gradient</span>
 - [Varela, Francisco (1946–2001)](v/varela) · biologist, cognitive scientist<span class="kw">autopoiesis, enactivism, neurophenomenology, the embodied mind</span>
+- [Vrba, Elisabeth (1942–2015)](v/vrba) · paleontologist<span class="kw">the turnover pulse hypothesis, the effect hypothesis, exaptation (with Gould), habitat theory, African mammalian macroevolution</span>
 - [Von Baer, Karl Ernst (1792–1876)](v/von-baer) · embryologist, naturalist<span class="kw">laws of embryology, the mammalian ovum, shared developmental patterns, pre-Darwinian common-descent evidence</span>
 - [Veblen, Thorstein (1857–1929)](v/veblen) · economist, sociologist<span class="kw">institutional economics, conspicuous consumption, the leisure class, "Why is economics not an evolutionary science?"</span>
 - [Von Foerster, Heinz (1911–2002)](v/von-foerster) · physicist, cyberneticist<span class="kw">second-order cybernetics, the observer in the system, eigenvalues of cognition, the Biological Computer Laboratory</span>
