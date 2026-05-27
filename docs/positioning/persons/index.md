@@ -27,6 +27,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Bak, Per (1948–2002)](b/bak) · physicist<span class="kw">self-organized criticality, power-law dynamics, the sand-pile model, How Nature Works</span>
 - [Barabási, Albert-László (1967–)](b/barabasi) · physicist, network scientist<span class="kw">scale-free networks, preferential attachment, network science, robustness and vulnerability</span>
 - [Bateson, Gregory (1904–1980)](b/bateson) · anthropologist, cyberneticist<span class="kw">ecology of mind, difference that makes a difference, schismogenesis, the pattern which connects</span>
+- [Bateson, William (1861–1926)](b/bateson-w) · biologist<span class="kw">coined "genetics", Mendel's champion, the Mendelian-biometrician debate, discontinuous variation</span>
 - [Bergson, Henri (1859–1941)](b/bergson) · philosopher<span class="kw">duration, creative evolution, intuition, the élan vital</span>
 - [Berlin, Isaiah (1909–1997)](b/berlin) · philosopher, historian of ideas<span class="kw">value pluralism, incommensurability of values, two concepts of liberty, the Counter-Enlightenment</span>
 - [Bertalanffy, Ludwig von (1901–1972)](b/bertalanffy) · biologist, systems thinker<span class="kw">general system theory, open systems, organismic biology, equifinality</span>
@@ -50,10 +51,12 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Darwin, Charles (1809–1882)](d/darwin) · naturalist<span class="kw">natural selection, the Beagle voyage, one long argument, barnacles to earthworms</span>
 - [Dawkins, Richard (1941–)](d/dawkins) · evolutionary biologist<span class="kw">the selfish gene, gene-centric view, memes, the extended phenotype, universal Darwinism</span>
 - [De Broglie, Louis (1892–1987)](d/de-broglie) · physicist<span class="kw">wave-particle duality, the de Broglie hypothesis, matter waves, the pilot-wave theory</span>
+- [De Vries, Hugo (1848–1935)](d/de-vries) · botanist<span class="kw">the rediscovery of Mendel, mutation theory, intracellular pangenesis, the concept of the gene</span>
 - [Dennett, Daniel (1942–2024)](d/dennett) · philosopher<span class="kw">the intentional stance, Darwin's Dangerous Idea, consciousness explained, universal Darwinism, memes</span>
 - [Descartes, René (1596–1650)](d/descartes) · philosopher, mathematician<span class="kw">the cogito, the mirror, the mind-body split, method</span>
 - [Dewey, John (1859–1952)](d/dewey) · philosopher<span class="kw">pragmatism, democracy, inquiry as community problem-solving, experience as transaction</span>
 - [Dobzhansky, Theodosius (1900–1975)](d/dobzhansky) · geneticist, evolutionary biologist<span class="kw">Genetics and the Origin of Species, Modern Synthesis bridge, isolating mechanisms, nothing in biology</span>
+- [Doolittle, W. Ford (1941–)](d/doolittle) · biochemist<span class="kw">the tree-of-life critique, horizontal gene transfer, the web of life, pattern pluralism</span>
 
 ## E
 

@@ -4,9 +4,6 @@ Persons and subjects referenced on the site without their own entry. One list, d
 
 ## Persons
 
-- Doolittle, W. Ford — tree-of-life critique, horizontal gene transfer; common-descent
-- de Vries, Hugo — Mendel's rediscoverer, mutation theory; integration
-- Bateson, William — coined "genetics", Mendelian advocate; integration
 - Sumner, William Graham — American Social Darwinism case study; social-darwinism
 - Deleuze, Gilles — multiplicity, difference, rhizome; turn in science
 - Latour, Bruno — actor-network theory, modes of existence; turn in science
