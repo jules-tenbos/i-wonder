@@ -28,6 +28,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Barabási, Albert-László (1967–)](b/barabasi) · physicist, network scientist<span class="kw">scale-free networks, preferential attachment, network science, robustness and vulnerability</span>
 - [Bateson, Gregory (1904–1980)](b/bateson) · anthropologist, cyberneticist<span class="kw">ecology of mind, difference that makes a difference, schismogenesis, the pattern which connects</span>
 - [Bateson, William (1861–1926)](b/bateson-w) · biologist<span class="kw">coined "genetics", Mendel's champion, the Mendelian-biometrician debate, discontinuous variation</span>
+- [Bennett, Charles (1943–)](b/bennett) · physicist<span class="kw">reversible computation, Maxwell's demon resolved via erasure, quantum teleportation, quantum key distribution</span>
 - [Bergson, Henri (1859–1941)](b/bergson) · philosopher<span class="kw">duration, creative evolution, intuition, the élan vital</span>
 - [Berlin, Isaiah (1909–1997)](b/berlin) · philosopher, historian of ideas<span class="kw">value pluralism, incommensurability of values, two concepts of liberty, the Counter-Enlightenment</span>
 - [Bertalanffy, Ludwig von (1901–1972)](b/bertalanffy) · biologist, systems thinker<span class="kw">general system theory, open systems, organismic biology, equifinality</span>
@@ -40,6 +41,7 @@ Individual thinkers referenced across the positioning section. Each page present
 
 ## C
 
+- [Carnap, Rudolf (1891–1970)](c/carnap) · philosopher<span class="kw">logical empiricism, the Aufbau, verificationism, the tolerance principle, probability and induction</span>
 - [Carroll, Sean (1966–)](c/carroll) · theoretical physicist<span class="kw">the arrow of time, the Past Hypothesis, many-worlds interpretation, the cosmological multiverse</span>
 - [Cassirer, Ernst (1874–1945)](c/cassirer) · philosopher<span class="kw">the philosophy of symbolic forms, the animal symbolicum, neo-Kantianism, substance and function, the Davos debate</span>
 - [Connolly, William E. (1938–)](c/connolly) · political theorist<span class="kw">deep pluralism, pluralisation, agonistic respect, politics of becoming, resonance machines</span>
@@ -54,6 +56,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Dawkins, Richard (1941–)](d/dawkins) · evolutionary biologist<span class="kw">the selfish gene, gene-centric view, memes, the extended phenotype, universal Darwinism</span>
 - [De Broglie, Louis (1892–1987)](d/de-broglie) · physicist<span class="kw">wave-particle duality, the de Broglie hypothesis, matter waves, the pilot-wave theory</span>
 - [De Vries, Hugo (1848–1935)](d/de-vries) · botanist<span class="kw">the rediscovery of Mendel, mutation theory, intracellular pangenesis, the concept of the gene</span>
+- [Dirac, Paul (1902–1984)](d/dirac) · physicist<span class="kw">the Dirac equation, quantum field theory, antimatter, bra-ket notation, the Principles of Quantum Mechanics</span>
 - [Deleuze, Gilles (1925–1995)](d/deleuze) · philosopher<span class="kw">difference and repetition, the rhizome, multiplicity, assemblages, the fold, immanence</span>
 - [Dennett, Daniel (1942–2024)](d/dennett) · philosopher<span class="kw">the intentional stance, Darwin's Dangerous Idea, consciousness explained, universal Darwinism, memes</span>
 - [Descartes, René (1596–1650)](d/descartes) · philosopher, mathematician<span class="kw">the cogito, the mirror, the mind-body split, method</span>
@@ -135,6 +138,8 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Leibniz, Gottfried Wilhelm (1646–1716)](l/leibniz) · philosopher, mathematician<span class="kw">relational space, monads, pre-established harmony, the universal characteristic</span>
 - [Lewontin, Richard (1929–2021)](l/lewontin) · evolutionary biologist, geneticist<span class="kw">three-conditions formalisation, Spandrels critique, organism-environment dialectic, anti-reductionism</span>
 - [Locke, John (1632–1704)](l/locke) · philosopher<span class="kw">empiricism, the Essay Concerning Human Understanding, the social contract, natural rights, the tabula rasa</span>
+- [Loschmidt, Josef (1821–1895)](l/loschmidt) · physicist, chemist<span class="kw">the reversibility objection to Boltzmann, Loschmidt's number, molecular size estimation</span>
+- [Lovelock, James (1919–2022)](l/lovelock) · independent scientist<span class="kw">the Gaia hypothesis, Earth system science, the electron capture detector, Daisyworld, planetary self-regulation</span>
 - [Lorenz, Edward (1917–2008)](l/lorenz) · mathematician, meteorologist<span class="kw">deterministic chaos, sensitive dependence, the Lorenz attractor, the butterfly effect</span>
 - [Luhmann, Niklas (1927–1998)](l/luhmann) · sociologist<span class="kw">social systems, functional differentiation, communication, autopoiesis, structural coupling</span>
 - [Lyell, Charles (1797–1875)](l/lyell) · geologist<span class="kw">uniformitarianism, Principles of Geology, Tertiary classification, deep time</span>
@@ -142,6 +147,7 @@ Individual thinkers referenced across the positioning section. Each page present
 
 ## M
 
+- [Mach, Ernst (1838–1916)](m/mach) · physicist, philosopher<span class="kw">Mach's principle, the critique of atomism, positivism, the economy of thought, the energeticist opposition</span>
 - [Mac Lane, Saunders (1909–2005)](m/mac-lane) · mathematician<span class="kw">co-founder of category theory, Categories for the Working Mathematician, mathematical structuralism</span>
 - [MacArthur, Robert (1930–1972)](m/macarthur) · ecologist<span class="kw">island biogeography, species packing, r/K selection, warbler niche, mathematical ecology</span>
 - [MacIntyre, Alasdair (1929–)](m/macintyre) · philosopher<span class="kw">tradition-constituted rationality, After Virtue, the Enlightenment failure, incommensurability of traditions</span>
@@ -155,7 +161,8 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Medawar, Peter (1915–1987)](m/medawar) · immunologist, biologist<span class="kw">immunological tolerance, mutation accumulation theory of ageing, transplantation, philosophy of science</span>
 - [Mendel, Gregor (1822–1884)](m/mendel) · friar, naturalist<span class="kw">laws of inheritance, pea plant experiments, discrete hereditary factors, dominance and recessiveness</span>
 - [Merleau-Ponty, Maurice (1908–1961)](m/merleau-ponty) · philosopher<span class="kw">phenomenology of the body, perception, the habitual body, intercorporeality</span>
-- [Mitchell, Melanie (1969–)](m/mitchell) · computer scientist, complexity researcher<span class="kw">genetic algorithms, analogy-making, the CAS synthesis, complexity's limits and achievements</span>
+- [Mitchell, Melanie (1969–)](m/mitchell)
+- [Morgan, Thomas Hunt (1866–1945)](m/morgan) · geneticist<span class="kw">the chromosome theory of heredity, Drosophila genetics, sex-linked inheritance, chromosome mapping, the fly room</span> · computer scientist, complexity researcher<span class="kw">genetic algorithms, analogy-making, the CAS synthesis, complexity's limits and achievements</span>
 
 ## N
 
@@ -215,7 +222,7 @@ Individual thinkers referenced across the positioning section. Each page present
 
 - [Tooby, John (1952–2023)](t/tooby) · evolutionary psychologist<span class="kw">the adapted mind, the environment of evolutionary adaptedness, the Standard Social Science Model critique</span>
 - [Trivers, Robert (1943–2026)](t/trivers) · evolutionary biologist<span class="kw">reciprocal altruism, parental investment, parent-offspring conflict, self-deception</span>
-- [Turing, Alan (1912–1954)](t/turing) · mathematician<span class="kw">the Turing machine, computability, the Entscheidungsproblem, the Turing test, morphogenesis</span> · evolutionary biologist<span class="kw">reciprocal altruism, parental investment, parent-offspring conflict, self-deception</span>
+- [Turing, Alan (1912–1954)](t/turing) · mathematician<span class="kw">the Turing machine, computability, the Entscheidungsproblem, the Turing test, morphogenesis</span>
 
 ## V
 
@@ -243,4 +250,5 @@ Individual thinkers referenced across the positioning section. Each page present
 
 ## Z
 
+- [Zermelo, Ernst (1871–1953)](z/zermelo) · mathematician<span class="kw">the recurrence objection to Boltzmann, the axiom of choice, Zermelo-Fraenkel set theory, the well-ordering theorem</span>
 - [Zenil, Hector (1979–)](z/zenil) · computer scientist, complexity researcher<span class="kw">algorithmic information theory, Kolmogorov complexity, coding theorem method, assembly theory critique</span>

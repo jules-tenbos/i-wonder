@@ -4,20 +4,6 @@ Persons and subjects referenced on the site without their own entry. One list, d
 
 ## Persons
 
-### Acute backbone (next session priority)
-
-- Morgan, Thomas Hunt — Drosophila genetics, the chromosome theory; named load-bearingly on Bateson (William) and de Vries; foundational 20C geneticist
-
-### Surfaced from arrow-of-time reviews (2026-05-26)
-
-- Dirac, Paul — quantum field theory, Dirac equation, Nobel co-laureate with Schrödinger; schrödinger
-- Lovelock, James — Gaia hypothesis (with Margulis), Earth system science; margulis
-- Bennett, Charles — reversible computation, Maxwell's demon, quantum information; named on Landauer; central to information-thermodynamics
-- Loschmidt, Josef — reversibility objection to Boltzmann; boltzmann
-- Zermelo, Ernst — recurrence objection to Boltzmann, set theory; boltzmann
-- Mach, Ernst — energeticist opposition to atomism, positivism; boltzmann, vienna circle
-- Carnap, Rudolf — logical empiricism, Erkenntnis co-editor with Reichenbach; reichenbach
-
 ### Surfaced from biology cluster reviews (2026-05-26)
 
 - Ohta, Tomoko — nearly neutral theory, Kimura's student; kimura
