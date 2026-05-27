@@ -37,9 +37,9 @@ The population geneticists had reconciled Darwin and Mendel mathematically. The 
 
 [Ernst Mayr](/positioning/persons/m/mayr/)'s *Systematics and the Origin of Species* (1942) contributed the biological species concept — species as reproductively isolated populations — and the theory of geographic speciation: new species arise when populations are isolated by geographic barriers and diverge under different selection pressures until they can no longer interbreed.
 
-[George Gaylord Simpson](https://en.wikipedia.org/wiki/George_Gaylord_Simpson)'s *Tempo and Mode in Evolution* (1944) brought paleontology into the synthesis, arguing that the patterns visible in the fossil record — including apparently rapid evolutionary change — were compatible with the gradual, gene-frequency-change processes of population genetics.
+[George Gaylord Simpson](/positioning/persons/s/simpson/)'s *Tempo and Mode in Evolution* (1944) brought paleontology into the synthesis, arguing that the patterns visible in the fossil record — including apparently rapid evolutionary change — were compatible with the gradual, gene-frequency-change processes of population genetics.
 
-[G. Ledyard Stebbins](https://en.wikipedia.org/wiki/G._Ledyard_Stebbins)' *Variation and Evolution in Plants* (1950) integrated plant biology, showing that the mechanisms identified by the animal-focused synthesists applied across the plant kingdom as well.
+[G. Ledyard Stebbins](/positioning/persons/s/stebbins/)' *Variation and Evolution in Plants* (1950) integrated plant biology, showing that the mechanisms identified by the animal-focused synthesists applied across the plant kingdom as well.
 
 ## What the Synthesis settled and what it didn't
 

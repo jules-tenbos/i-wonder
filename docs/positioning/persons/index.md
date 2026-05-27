@@ -76,6 +76,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Hegel, Georg Wilhelm Friedrich (1770–1831)](h/hegel) · philosopher<span class="kw">dialectic, sublation, determinate negation, historical development</span>
 - [Heidegger, Martin (1889–1976)](h/heidegger) · philosopher<span class="kw">being-in-the-world, disclosure, Dasein, readiness-to-hand</span>
 - [Hume, David (1711–1776)](h/hume) · philosopher<span class="kw">empiricism, causation as habit, the bundle self, the is-ought problem</span>
+- [Huxley, Julian (1887–1975)](h/huxley-j) · biologist<span class="kw">coined "the Modern Synthesis", Evolution: The Modern Synthesis, ethology, allometry, clines, UNESCO, eugenics</span>
 - [Huxley, Thomas Henry (1825–1895)](h/huxley) · biologist, public intellectual<span class="kw">Darwin's bulldog, agnosticism, Man's Place in Nature, Evolution and Ethics</span>
 - [Husserl, Edmund (1859–1938)](h/husserl) · philosopher<span class="kw">phenomenology, intentionality, time-consciousness, the lifeworld</span>
 
@@ -149,7 +150,9 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Sellars, Wilfrid (1912–1989)](s/sellars) · philosopher<span class="kw">the myth of the given, the space of reasons, psychological nominalism, the manifest and scientific images</span>
 - [Sartre, Jean-Paul (1905–1980)](s/sartre) · philosopher<span class="kw">existentialism, radical freedom, consciousness as nothingness, engagement</span>
 - [Saussure, Ferdinand de (1857–1913)](s/saussure) · linguist<span class="kw">structural linguistics, the differential sign, langue and parole</span>
+- [Simpson, George Gaylord (1902–1984)](s/simpson) · paleontologist<span class="kw">Tempo and Mode in Evolution, adaptive zones, rates of evolution, quantum evolution, Modern Synthesis</span>
 - [Solé, Ricard (1962–)](s/sole) · complex systems scientist<span class="kw">liquid brains, solid brains, criticality, phase transitions</span>
+- [Stebbins, G. Ledyard (1906–2000)](s/stebbins) · botanist, geneticist<span class="kw">Variation and Evolution in Plants, polyploidy, hybridisation, plant speciation, Modern Synthesis</span>
 - [Stengers, Isabelle (1949–)](s/stengers) · philosopher of science<span class="kw">cosmopolitics, ecology of practices, reciprocal capture, Thinking with Whitehead</span>
 - [Spencer, Herbert (1820–1903)](s/spencer) · philosopher, sociologist<span class="kw">synthetic philosophy, survival of the fittest, social organism, evolution as universal principle</span>
 - [Spinoza, Baruch (1632–1677)](s/spinoza) · philosopher<span class="kw">substance monism, determination as negation, conatus</span>

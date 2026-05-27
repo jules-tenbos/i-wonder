@@ -11,7 +11,6 @@ Persons and subjects referenced on the site without their own entry. One list, d
 - Cassirer, Ernst — symbolic forms: language, myth, science, art; interrelational-pluralism (scheduled Oct)
 - Nagarjuna — emptiness (sunyata), dependent origination; interrelational-pluralism (candidate)
 - Pinker, Steven — evolutionary psychology advocate, The Blank Slate; cultural-extensions
-- Huxley, Julian — coined "Modern Synthesis", Evolution: The Modern Synthesis (1942); mechanism, social-darwinism
 - Galton, Francis — coined "eugenics", regression/correlation, biometrics; social-darwinism
 - Woese, Carl — three domains, ribosomal-RNA reorganisation of life; common-descent
 - Pearson, Karl — biometrics, statistics, also eugenics; integration, social-darwinism
@@ -34,7 +33,6 @@ Persons and subjects referenced on the site without their own entry. One list, d
 - Gibbs, Josiah Willard — statistical mechanics; arrow of time
 - Bohm, David — hidden variables, implicate order; turn in science
 - De Broglie, Louis — wave-particle duality; turn in science
-- Simpson, George Gaylord — paleontology in the Synthesis, Tempo and Mode; integration
 - Hofstadter, Richard — Social Darwinism in American Thought (1944); social-darwinism
 - Veblen, Thorstein — institutional economics, "Why is economics not an evolutionary science?"; cultural-extensions
 - Schumpeter, Joseph — creative destruction; cultural-extensions
@@ -45,7 +43,6 @@ Persons and subjects referenced on the site without their own entry. One list, d
 - Doolittle, W. Ford — tree-of-life critique, horizontal gene transfer; common-descent
 - de Vries, Hugo — Mendel's rediscoverer, mutation theory; integration
 - Bateson, William — coined "genetics", Mendelian advocate; integration
-- Stebbins, G. Ledyard — botany in the Synthesis; integration
 - Sumner, William Graham — American Social Darwinism case study; social-darwinism
 - Deleuze, Gilles — multiplicity, difference, rhizome; turn in science
 - Latour, Bruno — actor-network theory, modes of existence; turn in science
