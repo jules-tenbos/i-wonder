@@ -69,6 +69,7 @@ Simpson's classification of evolutionary rates remains useful as descriptive voc
 - *The Meaning of Evolution* (Yale, 1949) — popular account; widely read outside the profession
 - *The Major Features of Evolution* (Columbia, 1953) — revised and expanded treatment, quantum evolution downplayed
 - *Principles of Animal Taxonomy* (Columbia, 1961) — classification theory
+- *The Geography of Evolution* (Chilton, 1965) — biogeographic patterns, faunal interchange, the role of barriers and corridors
 - *This View of Life* (Harcourt, Brace & World, 1964) — essays on evolution and the philosophy of biology
 
 ---

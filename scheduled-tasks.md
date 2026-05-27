@@ -106,4 +106,6 @@ Updated 2026-05-26. Tasks triggered by post publication and ongoing work.
 - [x] Person pages — Berlin, Arendt (interrelational-pluralism cluster, 2026-05-26)
 - [x] Person pages — Hawking, Albert (arrow-of-time remainders, 2026-05-26)
 - [x] Person pages — Huxley (Julian), Simpson, Stebbins (Modern Synthesis integration, 2026-05-27)
+- [x] Person pages — Putnam, MacIntyre, Hayek (interrelational-pluralism, 2026-05-27)
+- [x] Person pages — Oakeshott, Cassirer (interrelational-pluralism, 2026-05-27)
 - [ ] Cross-page audit convention — when a controversy appears on multiple person pages, check both sides voice it consistently (learned from Wilson/Lewontin and Hamilton/Wilson reviews)

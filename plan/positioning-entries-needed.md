@@ -4,11 +4,6 @@ Persons and subjects referenced on the site without their own entry. One list, d
 
 ## Persons
 
-- Putnam, Hilary (+Davidson) — internal realism, conceptual relativity; interrelational-pluralism (scheduled Sep)
-- MacIntyre, Alasdair — tradition-constituted rationality; interrelational-pluralism (scheduled Sep)
-- Hayek, Friedrich — knowledge problem, spontaneous order; interrelational-pluralism (scheduled Sep)
-- Oakeshott, Michael — practical knowledge, critique of rationalism; interrelational-pluralism (scheduled Oct)
-- Cassirer, Ernst — symbolic forms: language, myth, science, art; interrelational-pluralism (scheduled Oct)
 - Nagarjuna — emptiness (sunyata), dependent origination; interrelational-pluralism (candidate)
 - Pinker, Steven — evolutionary psychology advocate, The Blank Slate; cultural-extensions
 - Galton, Francis — coined "eugenics", regression/correlation, biometrics; social-darwinism
@@ -77,6 +72,13 @@ Persons and subjects referenced on the site without their own entry. One list, d
 - Ohta, Tomoko — nearly neutral theory, Kimura's student; kimura
 - Gause, Georgy — competitive exclusion principle; hutchinson, macarthur
 - Vrba, Elisabeth — turnover pulse hypothesis (with Eldredge); eldredge
+
+### Surfaced from interrelational-pluralism reviews (2026-05-27)
+
+- Aristotle — teleology, virtue, the original biologist-philosopher; MacIntyre's constructive account, biology pages, ethics (backbone across multiple clusters)
+- Aquinas, Thomas — Thomistic tradition, MacIntyre's home base; synthesis of Augustinian and Aristotelian traditions
+- Bradley, F. H. — British idealism; load-bearing for Oakeshott's Experience and Its Modes
+- Cohen, Hermann — founder of Marburg neo-Kantianism; Cassirer's teacher, foundational for the symbolic-forms framework
 
 ## Subjects — candidates
 

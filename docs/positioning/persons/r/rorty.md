@@ -33,7 +33,7 @@ Rorty walked through the door [Wittgenstein](/positioning/persons/w/wittgenstein
 
 ## The ethnocentrism question
 
-Rorty's most controversial territory. We cannot escape our own community's standards — but this is not relativism, because there is no standpoint from which relativism could be stated either. "We have to start from where we are." Justification is always relative to an audience, and the best we can do is widen the audience — expand the circle of "us" — not pretend to step outside it. Critics from [Habermas](/positioning/persons/h/habermas/) to Putnam argued this collapses into something indistinguishable from relativism. Rorty's reply was consistent: the charge only sticks if you assume a God's-eye view is available as the alternative. Drop that assumption, and ethnocentrism is simply honesty about where justification starts.
+Rorty's most controversial territory. We cannot escape our own community's standards — but this is not relativism, because there is no standpoint from which relativism could be stated either. "We have to start from where we are." Justification is always relative to an audience, and the best we can do is widen the audience — expand the circle of "us" — not pretend to step outside it. Critics from [Habermas](/positioning/persons/h/habermas/) to [Putnam](/positioning/persons/p/putnam/) argued this collapses into something indistinguishable from relativism. Rorty's reply was consistent: the charge only sticks if you assume a God's-eye view is available as the alternative. Drop that assumption, and ethnocentrism is simply honesty about where justification starts.
 
 ---
 

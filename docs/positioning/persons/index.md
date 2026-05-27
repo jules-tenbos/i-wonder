@@ -32,6 +32,7 @@ Individual thinkers referenced across the positioning section. Each page present
 
 ## C
 
+- [Cassirer, Ernst (1874–1945)](c/cassirer) · philosopher<span class="kw">the philosophy of symbolic forms, the animal symbolicum, neo-Kantianism, substance and function, the Davos debate</span>
 - [Cronin, Lee (1973–)](c/cronin) · chemist<span class="kw">polyoxometalate chemistry, chemical robots, digitised chemistry, Chemify, assembly theory</span>
 - [Connolly, William E. (1938–)](c/connolly) · political theorist<span class="kw">deep pluralism, pluralisation, agonistic respect, politics of becoming, resonance machines</span>
 
@@ -65,6 +66,7 @@ Individual thinkers referenced across the positioning section. Each page present
 ## H
 
 - [Hawking, Stephen (1942–2018)](h/hawking) · theoretical physicist<span class="kw">singularity theorems, Hawking radiation, black hole information paradox, no-boundary proposal, three arrows of time</span>
+- [Hayek, Friedrich (1899–1992)](h/hayek) · economist, political philosopher<span class="kw">the knowledge problem, spontaneous order, the price mechanism, the critique of central planning</span>
 - [Haldane, J. B. S. (1892–1964)](h/haldane) · geneticist, polymath<span class="kw">population genetics, cost of natural selection, enzyme kinetics, origin of life, Marxism</span>
 - [Hamilton, W. D. (1936–2000)](h/hamilton) · evolutionary biologist<span class="kw">inclusive fitness, Hamilton's rule, kin selection, sex and parasites, gene's-eye view</span>
 - [Habermas, Jürgen (1929–2025)](h/habermas) · philosopher, social theorist<span class="kw">communicative action, discourse ethics, lifeworld and system</span>
@@ -105,6 +107,7 @@ Individual thinkers referenced across the positioning section. Each page present
 
 ## M
 
+- [MacIntyre, Alasdair (1929–)](m/macintyre) · philosopher<span class="kw">tradition-constituted rationality, After Virtue, the Enlightenment failure, incommensurability of traditions</span>
 - [Malthus, Thomas (1766–1834)](m/malthus) · political economist, demographer<span class="kw">principle of population, moral restraint, rent, effective demand</span>
 - [Marx, Karl (1818–1883)](m/marx) · philosopher, political economist<span class="kw">critique of political economy, materialist conception of history, alienation, Capital</span>
 - [Margulis, Lynn (1938–2011)](m/margulis) · biologist<span class="kw">endosymbiosis, serial endosymbiosis theory, symbiogenesis, Gaia hypothesis</span>
@@ -123,10 +126,12 @@ Individual thinkers referenced across the positioning section. Each page present
 
 ## O
 
+- [Oakeshott, Michael (1901–1990)](o/oakeshott) · political philosopher<span class="kw">practical knowledge, the critique of rationalism, modes of experience, civil association, the conversation of mankind</span>
 - [Ostrom, Elinor (1933–2012)](o/ostrom) · political economist<span class="kw">governing the commons, polycentric governance, institutional diversity</span>
 
 ## P
 
+- [Putnam, Hilary (1926–2016)](p/putnam) · philosopher<span class="kw">internal realism, conceptual relativity, the fact/value dichotomy, the brain in a vat, pragmatic realism</span>
 - [Peirce, Charles Sanders (1839–1914)](p/peirce) · philosopher, logician<span class="kw">pragmatism, semiotics, the community of inquirers, fallibilism</span>
 - [Polanyi, Michael (1891–1976)](p/polanyi) · chemist, philosopher<span class="kw">tacit knowledge, personal knowledge, indwelling, the republic of science</span>
 - [Proudhon, Pierre-Joseph (1809–1865)](p/proudhon) · social theorist<span class="kw">mutualism, federalism, property as relation, anarchism</span>
