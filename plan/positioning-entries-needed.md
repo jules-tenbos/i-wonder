@@ -4,15 +4,6 @@ Persons and subjects referenced on the site without their own entry. One list, d
 
 ## Persons
 
-- Nagarjuna — emptiness (sunyata), dependent origination; interrelational-pluralism (candidate)
-- Pinker, Steven — evolutionary psychology advocate, The Blank Slate; cultural-extensions
-- Galton, Francis — coined "eugenics", regression/correlation, biometrics; social-darwinism
-- Woese, Carl — three domains, ribosomal-RNA reorganisation of life; common-descent
-- Pearson, Karl — biometrics, statistics, also eugenics; integration, social-darwinism
-- Maxwell, James Clerk — electromagnetism, statistical mechanics; turn in science
-- Heisenberg, Werner — uncertainty principle; turn in science
-- Planck, Max — quantisation; turn in science
-- Sober, Elliott — multi-level selection, philosopher of biology; mechanism
 - Wilson, David Sloan — multi-level selection, contemporary group selection; mechanism
 - Fodor, Jerry — modularity of mind, critique of adaptationism; cultural-extensions
 - Hull, David — Science as a Process, selection theory applied to science; cultural-extensions
@@ -75,10 +66,26 @@ Persons and subjects referenced on the site without their own entry. One list, d
 
 ### Surfaced from interrelational-pluralism reviews (2026-05-27)
 
-- Aristotle — teleology, virtue, the original biologist-philosopher; MacIntyre's constructive account, biology pages, ethics (backbone across multiple clusters)
-- Aquinas, Thomas — Thomistic tradition, MacIntyre's home base; synthesis of Augustinian and Aristotelian traditions
 - Bradley, F. H. — British idealism; load-bearing for Oakeshott's Experience and Its Modes
 - Cohen, Hermann — founder of Marburg neo-Kantianism; Cassirer's teacher, foundational for the symbolic-forms framework
+- Śaṅkara — Advaita Vedānta, canonical Hindu critic of Mādhyamaka emptiness; non-Western coverage, interlocutor for Nāgārjuna
+- Candrakīrti — Prāsaṅgika Madhyamaka, Prasannapadā; most influential MMK commentator
+- Garfield, Jay — primary modern translator/commentator on Nāgārjuna; load-bearing for Western Madhyamaka reception
+
+### Surfaced from physics/biology reviews (2026-05-27)
+
+- Faraday, Michael — experimental electromagnetism, the field concept; Maxwell's precursor, foundational independent of Maxwell page
+- Doolittle, W. Ford — tree-of-life critique, horizontal gene transfer; recurring on Stebbins and Woese; becoming standard biology-cluster critic figure
+- Bateson, William — coined "genetics", Mendelian advocate; Mendelian-biometrician conflict counterpart to Pearson (also listed above under integration)
+- Crick, Francis — DNA structure, central dogma, frozen-accident hypothesis; foundational biology figure
+
+### Surfaced from backbone reviews (2026-05-27)
+
+- Bohr, Niels — Copenhagen interpretation; named on Heisenberg, Planck, Einstein, Born; most-recurring missing QM figure (also listed in main list under turn-in-science)
+- Bell, John — Bell's theorem, Bell inequality; named on Einstein and Born; foundational for quantum foundations
+- Foot, Philippa — neo-Aristotelian naturalism, natural goodness; load-bearing for Aristotle's modern reception
+- Williams, Bernard — moral philosophy, critique of the ergon claim; named on Aristotle
+- Bohm, David — Bohmian mechanics, hidden variables; named on Born; quantum-foundations alternative (also listed in main list under turn-in-science)
 
 ## Subjects — candidates
 

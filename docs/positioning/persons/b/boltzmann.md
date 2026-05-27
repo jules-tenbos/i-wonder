@@ -27,7 +27,7 @@ Boltzmann suffered from what contemporaries described as depression and mood swi
 
 Boltzmann's programme, developed across the 1870s and 1880s, was to derive the macroscopic properties of matter — temperature, pressure, entropy — from the statistical behaviour of the microscopic constituents. The approach was developed independently and in parallel by [Josiah Willard Gibbs](https://en.wikipedia.org/wiki/Josiah_Willard_Gibbs) in the United States; the two arrived at compatible frameworks from different starting points.
 
-**The kinetic theory of gases.** Building on the work of [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell), Boltzmann developed the Maxwell-Boltzmann distribution — the probability distribution for the velocities of particles in an ideal gas at thermal equilibrium. The distribution predicts the range of molecular speeds in a gas at a given temperature and provides the statistical foundation for thermodynamic quantities.
+**The kinetic theory of gases.** Building on the work of [James Clerk Maxwell](/positioning/persons/m/maxwell/), Boltzmann developed the Maxwell-Boltzmann distribution — the probability distribution for the velocities of particles in an ideal gas at thermal equilibrium. The distribution predicts the range of molecular speeds in a gas at a given temperature and provides the statistical foundation for thermodynamic quantities.
 
 **The Boltzmann equation** (1872). A transport equation describing how the distribution of particle velocities in a gas evolves over time under the influence of collisions. The equation connects microscopic particle dynamics to macroscopic transport phenomena (viscosity, thermal conductivity, diffusion).
 

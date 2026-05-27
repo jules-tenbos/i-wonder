@@ -102,10 +102,15 @@ Updated 2026-05-26. Tasks triggered by post publication and ongoing work.
 - [ ] 12 parked posts in `/drafts/` — each needs review/rework before re-scheduling
 - [ ] Remaining descriptions: seed trajectories, language/reality sub-pages, scheduled blog posts
 - [ ] RQM post over word limit (1249 words)
+- [ ] Pluralism and Pruning — Real Life piece. Proposal in `submissions/pluralism-and-pruning.md`. Needs drafting.
 - [ ] Person page craft guidance — add "Where X stops" drafting process note to tone-of-voice/positioning-section.md § How to apply
 - [x] Person pages — Berlin, Arendt (interrelational-pluralism cluster, 2026-05-26)
 - [x] Person pages — Hawking, Albert (arrow-of-time remainders, 2026-05-26)
 - [x] Person pages — Huxley (Julian), Simpson, Stebbins (Modern Synthesis integration, 2026-05-27)
 - [x] Person pages — Putnam, MacIntyre, Hayek (interrelational-pluralism, 2026-05-27)
 - [x] Person pages — Oakeshott, Cassirer (interrelational-pluralism, 2026-05-27)
+- [x] Person pages — Nagarjuna, Pinker, Galton (mixed clusters, 2026-05-27)
+- [x] Person pages — Woese, Pearson, Maxwell (common-descent/integration/turn-in-science, 2026-05-27)
+- [x] Person pages — Heisenberg, Planck, Sober (turn-in-science/mechanism, 2026-05-27)
+- [x] Person pages — Einstein, Born, Aristotle, Aquinas (backbone figures, 2026-05-27)
 - [ ] Cross-page audit convention — when a controversy appears on multiple person pages, check both sides voice it consistently (learned from Wilson/Lewontin and Hamilton/Wilson reviews)

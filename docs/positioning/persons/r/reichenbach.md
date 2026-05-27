@@ -15,7 +15,7 @@ Reichenbach was a philosopher of science whose posthumous work *The Direction of
 
 ## Life
 
-Born 26 September 1891 in Hamburg, Germany. Studied civil engineering, then physics and mathematics at the universities of Berlin, Munich, and Göttingen. PhD in philosophy from the University of Erlangen (1915), with a dissertation on probability. Served in the German army during the First World War. Attended [Einstein's](https://en.wikipedia.org/wiki/Albert_Einstein) first lectures on general relativity in Berlin in 1917 — an encounter that shaped the direction of his philosophical work.
+Born 26 September 1891 in Hamburg, Germany. Studied civil engineering, then physics and mathematics at the universities of Berlin, Munich, and Göttingen. PhD in philosophy from the University of Erlangen (1915), with a dissertation on probability. Served in the German army during the First World War. Attended [Einstein's](/positioning/persons/e/einstein/) first lectures on general relativity in Berlin in 1917 — an encounter that shaped the direction of his philosophical work.
 
 Privatdozent in physics at the Technische Hochschule in Stuttgart (1920–26). Professor of philosophy at the University of Berlin (1926–33), where he joined the Berlin Circle — the logical empiricist group allied with the Vienna Circle. Founded and edited the journal *Erkenntnis* with Rudolf Carnap.
 

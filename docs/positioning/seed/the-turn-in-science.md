@@ -12,11 +12,11 @@ title: "The Turn in Science"
 
 **[Leibniz](https://plato.stanford.edu/entries/leibniz/) (1646–1716)** rejects absolute space entirely — space is not a container, it is the ordering of things that coexist. No space without things. A relational view, but without a mathematical theory it remains scientifically inert. It would take another 200 years.
 
-**[Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) (1865)** unifies electricity, magnetism, and light into a single framework of fields and waves. The source of the classical triumph — and its undoing. His equations predict a fixed speed of light and the [ultraviolet catastrophe](https://en.wikipedia.org/wiki/Ultraviolet_catastrophe).
+**[Maxwell](/positioning/persons/m/maxwell/) (1865)** unifies electricity, magnetism, and light into a single framework of fields and waves. The source of the classical triumph — and its undoing. His equations predict a fixed speed of light and the [ultraviolet catastrophe](https://en.wikipedia.org/wiki/Ultraviolet_catastrophe).
 
-**[Planck](https://en.wikipedia.org/wiki/Max_Planck)** resolves the catastrophe: energy comes in discrete packets. **[Einstein](https://plato.stanford.edu/entries/einstein-philscience/)** extends it: light itself comes in quanta, and builds relativity — space and time coupled, gravity as geometry. **[De Broglie](https://en.wikipedia.org/wiki/Louis_de_Broglie)** turns it around: particles behave as waves.
+**[Planck](/positioning/persons/p/planck/)** resolves the catastrophe: energy comes in discrete packets. **[Einstein](/positioning/persons/e/einstein/)** extends it: light itself comes in quanta, and builds relativity — space and time coupled, gravity as geometry. **[De Broglie](https://en.wikipedia.org/wiki/Louis_de_Broglie)** turns it around: particles behave as waves.
 
-**[Heisenberg](https://plato.stanford.edu/entries/qt-uncertainty/) (1927)** — position and momentum cannot both be definite. Not a limit of instruments, a feature of nature. **[Born](https://en.wikipedia.org/wiki/Max_Born)** — the wave function gives probabilities, not certainties. Classical mechanics tells you what is there. Quantum mechanics tells you what you will find if you look.
+**[Heisenberg](/positioning/persons/h/heisenberg/) (1927)** — position and momentum cannot both be definite. Not a limit of instruments, a feature of nature. **[Born](/positioning/persons/b/born/)** — the wave function gives probabilities, not certainties. Classical mechanics tells you what is there. Quantum mechanics tells you what you will find if you look.
 
 **The impasse.** [Bohr](https://plato.stanford.edu/entries/qm-copenhagen/) offers complementarity. [Bohm](https://plato.stanford.edu/entries/qm-bohm/) restores determinism through hidden variables at the cost of non-locality. [Everett](https://plato.stanford.edu/entries/qm-manyworlds/) proposes all outcomes happen in branching worlds. No consensus.
 
