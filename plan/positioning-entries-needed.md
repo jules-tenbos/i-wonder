@@ -4,25 +4,6 @@ Persons and subjects referenced on the site without their own entry. One list, d
 
 ## Persons
 
-- Sperber, Dan — cultural transmission critique, epidemiology of representations; cultural-extensions
-- Eddington, Arthur — named "arrow of time"; arrow of time
-- Eilenberg, Samuel — category theory (with Mac Lane)
-- Mac Lane, Saunders — category theory (with Eilenberg)
-- Carroll, Sean — From Eternity to Here; arrow of time
-- Bohr, Niels — complementarity; turn in science
-- Everett, Hugh — many-worlds interpretation; turn in science
-- Landauer, Rolf — information thermodynamics; arrow of time
-- Anderson, Philip — emergence, "More is Different"; arrow of time
-- Gibbs, Josiah Willard — statistical mechanics; arrow of time
-- Bohm, David — hidden variables, implicate order; turn in science
-- De Broglie, Louis — wave-particle duality; turn in science
-- Hofstadter, Richard — Social Darwinism in American Thought (1944); social-darwinism
-- Veblen, Thorstein — institutional economics, "Why is economics not an evolutionary science?"; cultural-extensions
-- Schumpeter, Joseph — creative destruction; cultural-extensions
-- Boyd, Robert & Richerson, Peter — dual-inheritance theory, Culture and the Evolutionary Process; cultural-extensions
-- Henrich, Joseph — cumulative culture, The Secret of Our Success; cultural-extensions
-- Cosmides, Leda & Tooby, John — founders of evolutionary psychology, The Adapted Mind; cultural-extensions
-- von Baer, Karl Ernst — embryological laws, pre-Darwinian shared developmental patterns; common-descent
 - Doolittle, W. Ford — tree-of-life critique, horizontal gene transfer; common-descent
 - de Vries, Hugo — Mendel's rediscoverer, mutation theory; integration
 - Bateson, William — coined "genetics", Mendelian advocate; integration
@@ -78,18 +59,27 @@ Persons and subjects referenced on the site without their own entry. One list, d
 
 ### Surfaced from backbone reviews (2026-05-27)
 
-- Bohr, Niels — Copenhagen interpretation; named on Heisenberg, Planck, Einstein, Born; most-recurring missing QM figure (also listed in main list under turn-in-science)
 - Bell, John — Bell's theorem, Bell inequality; named on Einstein and Born; foundational for quantum foundations
 - Foot, Philippa — neo-Aristotelian naturalism, natural goodness; load-bearing for Aristotle's modern reception
 - Williams, Bernard — moral philosophy, critique of the ergon claim; named on Aristotle
-- Bohm, David — Bohmian mechanics, hidden variables; named on Born; quantum-foundations alternative (also listed in main list under turn-in-science)
-
 ### Surfaced from philosophy-of-biology reviews (2026-05-27)
 
 - Price, George — Price equation; structurally load-bearing for multilevel selection; named on Wilson (D.S.)
 - Kitcher, Philip — philosophy of science; credit-economy critic on Hull; would recur across philosophy-of-science pages
 - Sperber, Dan — cultural-replication critic; named on Hull; would recur on culture/cognition pages (also listed in main list under cultural-extensions)
 - Ghiselin, Michael — species-as-individuals co-developer with Hull
+
+### Surfaced from CT/cultural-extensions reviews (2026-05-27)
+
+- Grothendieck, Alexander — refounding of algebraic geometry on categorical language; towering 20C mathematician; load-bearing on both Eilenberg and Mac Lane pages
+- Lawvere, F. William — categorical foundations programme, elementary topos theory; named on both CT pages; foundational for CT-as-foundation debate
+
+### Surfaced from QM-foundations reviews (2026-05-27)
+
+- Wheeler, John Archibald — Everett's PhD advisor; "it from bit," delayed-choice experiments, geometrodynamics; central to GR, quantum gravity, and quantum cosmology
+- Deutsch, David — quantum computing pioneer, Everett defender; named on Everett page; would recur on quantum-information pages
+- DeWitt, Bryce — coined "many-worlds" label, revived Everett; Wheeler-DeWitt equation; quantum cosmology
+- Bennett, Charles — reversible computation, Maxwell's demon, quantum information; named on Landauer; central to information-thermodynamics
 
 ## Subjects — candidates
 
@@ -99,3 +89,7 @@ Persons and subjects referenced on the site without their own entry. One list, d
 - Thermodynamics / entropy — distinct from the positioning arrow-of-time page
 - Statistical mechanics — Boltzmann, Gibbs; currently all on the Boltzmann person page, candidate for split when more figures arrive
 - Logical empiricism / Vienna Circle / Berlin Circle — threads through Reichenbach, Carnap, Schlick; Sellars and Quine relation
+- Cultural evolution — dual-inheritance theory, transmission biases, gene-culture coevolution, cultural group selection; anchored by Boyd, Richerson, Sperber, Henrich, Cavalli-Sforza; would hold the framework the person pages lean on
+- Emergence — Anderson, Kauffman, Holland, Mitchell, Gell-Mann all have pages; would complement the existing CAS page
+- Quantum foundations / interpretations of QM — Albert, Bohr, Born, Heisenberg, Carroll, Everett, Bohm, de Broglie all have pages; would consolidate the interpretive debate
+- Information thermodynamics — Maxwell, Boltzmann, Landauer, Shannon all have pages; the demon thread runs across multiple pages

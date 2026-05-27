@@ -25,7 +25,7 @@ Boltzmann suffered from what contemporaries described as depression and mood swi
 
 ## Statistical mechanics
 
-Boltzmann's programme, developed across the 1870s and 1880s, was to derive the macroscopic properties of matter — temperature, pressure, entropy — from the statistical behaviour of the microscopic constituents. The approach was developed independently and in parallel by [Josiah Willard Gibbs](https://en.wikipedia.org/wiki/Josiah_Willard_Gibbs) in the United States; the two arrived at compatible frameworks from different starting points.
+Boltzmann's programme, developed across the 1870s and 1880s, was to derive the macroscopic properties of matter — temperature, pressure, entropy — from the statistical behaviour of the microscopic constituents. The approach was developed independently and in parallel by [Josiah Willard Gibbs](/positioning/persons/g/gibbs/) in the United States; the two arrived at compatible frameworks from different starting points.
 
 **The kinetic theory of gases.** Building on the work of [James Clerk Maxwell](/positioning/persons/m/maxwell/), Boltzmann developed the Maxwell-Boltzmann distribution — the probability distribution for the velocities of particles in an ideal gas at thermal equilibrium. The distribution predicts the range of molecular speeds in a gas at a given temperature and provides the statistical foundation for thermodynamic quantities.
 
@@ -59,7 +59,7 @@ Boltzmann defended the atomic hypothesis on the grounds that it explained what e
 
 ## Where Boltzmann stops
 
-Boltzmann's framework explains why entropy increases: there are more ways for a system to be disordered than ordered. It does not explain why the universe began in a state of low entropy — why there was a gradient for entropy to increase along in the first place. The statistical mechanics explains the direction of time given a low-entropy boundary condition; it does not explain the boundary condition itself. [Roger Penrose](/positioning/persons/r/penrose/) quantified the improbability of the initial low-entropy state; [David Albert](/positioning/persons/a/albert/) named it the Past Hypothesis; [Sean Carroll](https://en.wikipedia.org/wiki/Sean_Carroll_(physicist)) explored its cosmological implications. The question Boltzmann's framework defers — why did the universe start in so special a state? — remains one of the deepest open questions in physics.
+Boltzmann's framework explains why entropy increases: there are more ways for a system to be disordered than ordered. It does not explain why the universe began in a state of low entropy — why there was a gradient for entropy to increase along in the first place. The statistical mechanics explains the direction of time given a low-entropy boundary condition; it does not explain the boundary condition itself. [Roger Penrose](/positioning/persons/r/penrose/) quantified the improbability of the initial low-entropy state; [David Albert](/positioning/persons/a/albert/) named it the Past Hypothesis; [Sean Carroll](/positioning/persons/c/carroll/) explored its cosmological implications. The question Boltzmann's framework defers — why did the universe start in so special a state? — remains one of the deepest open questions in physics.
 
 ---
 

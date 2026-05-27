@@ -57,7 +57,7 @@ A substantial peer. [Barabási](/positioning/persons/b/barabasi/)'s scale-free n
 
 ## Statistical mechanics
 
-The physics tradition that informs CAS most directly. [Philip Anderson](https://en.wikipedia.org/wiki/Philip_W._Anderson)'s "More Is Different" (1972) argued that each level of organisation has its own laws, not derivable from the level below — a founding statement for the view that emergence is real and not merely apparent. Anderson was an SFI co-founder; statistical mechanics supplied CAS with phase transitions, scaling laws, mean-field approximations, and the renormalisation group as conceptual tools.
+The physics tradition that informs CAS most directly. [Philip Anderson](/positioning/persons/a/anderson/)'s "More Is Different" (1972) argued that each level of organisation has its own laws, not derivable from the level below — a founding statement for the view that emergence is real and not merely apparent. Anderson was an SFI co-founder; statistical mechanics supplied CAS with phase transitions, scaling laws, mean-field approximations, and the renormalisation group as conceptual tools.
 
 **Sharp boundary:** Statistical mechanics studies systems of identical or near-identical components (gas molecules, spins on a lattice). CAS studies heterogeneous adaptive agents. The mathematics transfers; the ontology does not.
 

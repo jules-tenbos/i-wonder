@@ -44,7 +44,7 @@ The post-war reckoning with eugenics was slow and uneven. The scientific communi
 
 ## Hofstadter and the term
 
-[Richard Hofstadter](https://en.wikipedia.org/wiki/Richard_Hofstadter)'s *Social Darwinism in American Thought* (1944) gave the label "Social Darwinism" its broad mid-century currency. Hofstadter argued that evolutionary ideas had been used to justify laissez-faire economics and opposition to social reform in late-19th-century America, and that this represented a misapplication of biological theory to social questions.
+[Richard Hofstadter](/positioning/persons/h/hofstadter/)'s *Social Darwinism in American Thought* (1944) gave the label "Social Darwinism" its broad mid-century currency. Hofstadter argued that evolutionary ideas had been used to justify laissez-faire economics and opposition to social reform in late-19th-century America, and that this represented a misapplication of biological theory to social questions.
 
 Hofstadter's account has been influential but is not the last word. Historian [Robert Bannister](https://en.wikipedia.org/wiki/Robert_C._Bannister) (*Social Darwinism: Science and Myth in Anglo-American Social Thought*, 1979) argued that Hofstadter's category was retrospectively constructed — that many of the figures Hofstadter labelled "Social Darwinists" did not see themselves that way, and that the term as Hofstadter used it served particular mid-20th-century political purposes (specifically, the New Deal liberalism Hofstadter favoured). [Thomas Leonard](https://en.wikipedia.org/wiki/Thomas_C._Leonard) (*Illiberal Reformers*, 2016) complicated the picture further, showing that eugenic thinking was not confined to laissez-faire conservatives but was equally present among Progressive reformers.
 

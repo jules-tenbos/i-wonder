@@ -47,7 +47,7 @@ The label was applied later — Richard Hofstadter's *Social Darwinism in Americ
 
 ## Influence and eclipse
 
-Spencer's influence runs into the formation of sociology — [Émile Durkheim](https://en.wikipedia.org/wiki/Émile_Durkheim) engaged with him directly and critically; Talcott Parsons inherited the organic analogy and recast it as structural functionalism — into evolutionary economics through [Thorstein Veblen](https://en.wikipedia.org/wiki/Thorstein_Veblen), into libertarian political thought (often cited as a precursor by [Hayek](/positioning/persons/h/hayek/) and Nozick), and via the social-organism strand into later systems thinking.
+Spencer's influence runs into the formation of sociology — [Émile Durkheim](https://en.wikipedia.org/wiki/Émile_Durkheim) engaged with him directly and critically; Talcott Parsons inherited the organic analogy and recast it as structural functionalism — into evolutionary economics through [Thorstein Veblen](/positioning/persons/v/veblen/), into libertarian political thought (often cited as a precursor by [Hayek](/positioning/persons/h/hayek/) and Nozick), and via the social-organism strand into later systems thinking.
 
 The eclipse began in his own last decade. He had refused to revise the *Synthetic Philosophy* as the science underneath it dated, so the work was outpaced before he died. By the 1920s, Spencer was a name invoked mostly as a cautionary example — the thinker who tried to explain everything with one principle and whose system did not survive the advance of the sciences it claimed to unify.
 

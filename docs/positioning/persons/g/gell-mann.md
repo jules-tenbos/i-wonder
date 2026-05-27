@@ -15,7 +15,7 @@ Gell-Mann had two careers. The first, in particle physics, produced the quark mo
 
 ## Life
 
-Born 15 September 1929 in New York City. Entered Yale at fifteen; BS in physics (1948). PhD from MIT (1951) under [Victor Weisskopf](https://en.wikipedia.org/wiki/Victor_Weisskopf), on displaced charge and multiplet structure. Faculty at the University of Chicago (1952–55), then Caltech, where he spent the rest of his physics career as Robert Andrews Millikan Professor of Theoretical Physics. Nobel Prize in Physics, 1969. Co-founded the [Santa Fe Institute](https://www.santafe.edu) in 1984 with [George Cowan](https://en.wikipedia.org/wiki/George_Cowan), [Philip Anderson](https://en.wikipedia.org/wiki/Philip_W._Anderson), and others. Distinguished Fellow at SFI until his death. Died 24 May 2019 in Santa Fe.
+Born 15 September 1929 in New York City. Entered Yale at fifteen; BS in physics (1948). PhD from MIT (1951) under [Victor Weisskopf](https://en.wikipedia.org/wiki/Victor_Weisskopf), on displaced charge and multiplet structure. Faculty at the University of Chicago (1952–55), then Caltech, where he spent the rest of his physics career as Robert Andrews Millikan Professor of Theoretical Physics. Nobel Prize in Physics, 1969. Co-founded the [Santa Fe Institute](https://www.santafe.edu) in 1984 with [George Cowan](https://en.wikipedia.org/wiki/George_Cowan), [Philip Anderson](/positioning/persons/a/anderson/), and others. Distinguished Fellow at SFI until his death. Died 24 May 2019 in Santa Fe.
 
 ## Particle physics
 
