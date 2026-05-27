@@ -21,7 +21,7 @@ Pluralism — the conviction that reality is irreducibly many — surfaces indep
 
 **[Isabelle Stengers](/positioning/persons/s/stengers/) (1990s–present)** — carries the process-relational line forward into the contemporary moment. A long collaboration with Ilya Prigogine on chaos and self-organisation (*Order Out of Chaos*, 1984) preceded her sustained engagement with Whitehead — *Thinking with Whitehead* (2002, English 2011) reads him as a live resource, not a historical curiosity, recovering the process-relational programme for present-day work. *Cosmopolitics* (originally seven volumes, 1996–97; English 2010–11) is the contemporary extension: the practice of bringing different worlds into negotiation without imposing a meta-frame. Multiple practices, multiple worlds, no privileged perspective — pluralism as ongoing activity, not metaphysical state. *In Catastrophic Times* (2009, English 2015) takes the refusal of monoculture — of one science, one rationality — into ecological emergency, as a survival commitment rather than a tolerance principle.
 
-**[Empedocles](https://plato.stanford.edu/entries/empedocles/)** and **[Democritus](https://plato.stanford.edu/entries/democritus/)** — the earliest Western pluralists. Reality is not one substance but many. The plurality is asserted, and the relations between elements do the work, but there is no account of how interaction creates new kinds.
+**[Empedocles](/positioning/persons/e/empedocles/)** and **[Democritus](/positioning/persons/d/democritus/)** — the earliest Western pluralists. Reality is not one substance but many. The plurality is asserted, and the relations between elements do the work, but there is no account of how interaction creates new kinds.
 
 ## Epistemological pluralism — *there are many valid ways of knowing*
 
@@ -45,7 +45,7 @@ Pluralism — the conviction that reality is irreducibly many — surfaces indep
 
 **[Hannah Arendt](/positioning/persons/a/arendt/)** — plurality as the human condition. Action is possible only because we are many, each unique. The "web of relationships" that action creates is irreducible to any single will or plan. Politics exists because plurality exists.
 
-**[Robert Dahl](https://en.wikipedia.org/wiki/Robert_A._Dahl)** and **[Harold Laski](https://en.wikipedia.org/wiki/Harold_Laski)** — against absolute sovereignty. Power dispersed among groups, none dominant in all domains. The state is one association among many, not the container of all authority.
+**[Robert Dahl](/positioning/persons/d/dahl/)** and **[Harold Laski](/positioning/persons/l/laski/)** — against absolute sovereignty. Power dispersed among groups, none dominant in all domains. The state is one association among many, not the container of all authority.
 
 ## Adjacent structural moves
 

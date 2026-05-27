@@ -4,10 +4,6 @@ Persons and subjects referenced on the site without their own entry. One list, d
 
 ## Persons
 
-- Dahl, Robert — pluralist democracy; interrelational-pluralism
-- Laski, Harold — political pluralism; interrelational-pluralism
-- Democritus — atomism; interrelational-pluralism
-- Empedocles — four elements, love and strife; interrelational-pluralism
 - Turing, Alan — computability, Turing machine; software languages post
 - Wheeler, David — subroutine invention; software languages post
 - Edelman, Gerald — neural Darwinism, neuronal group selection; discovery multiplier post
@@ -20,10 +16,9 @@ Persons and subjects referenced on the site without their own entry. One list, d
 
 ### Surfaced from arrow-of-time reviews (2026-05-26)
 
-- Born, Max — probability interpretation of QM, Born rule; schrödinger (rival formalism pair)
 - Dirac, Paul — quantum field theory, Dirac equation, Nobel co-laureate with Schrödinger; schrödinger
 - Lovelock, James — Gaia hypothesis (with Margulis), Earth system science; margulis
-- Bennett, Charles — reversible computation, Maxwell's demon, information thermodynamics; shannon
+- Bennett, Charles — reversible computation, Maxwell's demon, quantum information; named on Landauer; central to information-thermodynamics
 - Loschmidt, Josef — reversibility objection to Boltzmann; boltzmann
 - Zermelo, Ernst — recurrence objection to Boltzmann, set theory; boltzmann
 - Mach, Ernst — energeticist opposition to atomism, positivism; boltzmann, vienna circle
@@ -31,7 +26,6 @@ Persons and subjects referenced on the site without their own entry. One list, d
 
 ### Surfaced from biology cluster reviews (2026-05-26)
 
-- Wynne-Edwards threshold group: Sober, D. S. Wilson already listed above
 - Ohta, Tomoko — nearly neutral theory, Kimura's student; kimura
 - Gause, Georgy — competitive exclusion principle; hutchinson, macarthur
 - Vrba, Elisabeth — turnover pulse hypothesis (with Eldredge); eldredge
@@ -47,8 +41,6 @@ Persons and subjects referenced on the site without their own entry. One list, d
 ### Surfaced from physics/biology reviews (2026-05-27)
 
 - Faraday, Michael — experimental electromagnetism, the field concept; Maxwell's precursor, foundational independent of Maxwell page
-- Doolittle, W. Ford — tree-of-life critique, horizontal gene transfer; recurring on Stebbins and Woese; becoming standard biology-cluster critic figure
-- Bateson, William — coined "genetics", Mendelian advocate; Mendelian-biometrician conflict counterpart to Pearson (also listed above under integration)
 - Crick, Francis — DNA structure, central dogma, frozen-accident hypothesis; foundational biology figure
 
 ### Surfaced from backbone reviews (2026-05-27)
@@ -56,11 +48,11 @@ Persons and subjects referenced on the site without their own entry. One list, d
 - Bell, John — Bell's theorem, Bell inequality; named on Einstein and Born; foundational for quantum foundations
 - Foot, Philippa — neo-Aristotelian naturalism, natural goodness; load-bearing for Aristotle's modern reception
 - Williams, Bernard — moral philosophy, critique of the ergon claim; named on Aristotle
+
 ### Surfaced from philosophy-of-biology reviews (2026-05-27)
 
 - Price, George — Price equation; structurally load-bearing for multilevel selection; named on Wilson (D.S.)
 - Kitcher, Philip — philosophy of science; credit-economy critic on Hull; would recur across philosophy-of-science pages
-- Sperber, Dan — cultural-replication critic; named on Hull; would recur on culture/cognition pages (also listed in main list under cultural-extensions)
 - Ghiselin, Michael — species-as-individuals co-developer with Hull
 
 ### Surfaced from CT/cultural-extensions reviews (2026-05-27)
@@ -73,7 +65,6 @@ Persons and subjects referenced on the site without their own entry. One list, d
 - Wheeler, John Archibald — Everett's PhD advisor; "it from bit," delayed-choice experiments, geometrodynamics; central to GR, quantum gravity, and quantum cosmology
 - Deutsch, David — quantum computing pioneer, Everett defender; named on Everett page; would recur on quantum-information pages
 - DeWitt, Bryce — coined "many-worlds" label, revived Everett; Wheeler-DeWitt equation; quantum cosmology
-- Bennett, Charles — reversible computation, Maxwell's demon, quantum information; named on Landauer; central to information-thermodynamics
 
 ## Subjects — candidates
 

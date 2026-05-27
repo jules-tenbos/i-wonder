@@ -122,4 +122,5 @@ Updated 2026-05-26. Tasks triggered by post publication and ongoing work.
 - [x] Person pages — Henrich, Cosmides, Tooby, von Baer (cultural-evolution/evolutionary-psychology/embryology, 2026-05-27)
 - [x] Person pages — Doolittle, de Vries, William Bateson (common-descent/integration, 2026-05-27)
 - [x] Person pages — Sumner, Deleuze, Latour (social-darwinism/turn-in-science, 2026-05-27)
+- [x] Person pages — Dahl, Laski, Democritus, Empedocles (interrelational-pluralism, 2026-05-27)
 - [ ] Cross-page audit convention — when a controversy appears on multiple person pages, check both sides voice it consistently (learned from Wilson/Lewontin and Hamilton/Wilson reviews)

@@ -48,7 +48,9 @@ Individual thinkers referenced across the positioning section. Each page present
 
 ## D
 
+- [Dahl, Robert (1915–2014)](d/dahl) · political scientist<span class="kw">pluralist democracy, polyarchy, Who Governs?, the dispersal of power</span>
 - [Darwin, Charles (1809–1882)](d/darwin) · naturalist<span class="kw">natural selection, the Beagle voyage, one long argument, barnacles to earthworms</span>
+- [Democritus (c. 460–c. 370 BCE)](d/democritus) · philosopher<span class="kw">atomism, the void, the earliest systematic materialism, plurality of being</span>
 - [Dawkins, Richard (1941–)](d/dawkins) · evolutionary biologist<span class="kw">the selfish gene, gene-centric view, memes, the extended phenotype, universal Darwinism</span>
 - [De Broglie, Louis (1892–1987)](d/de-broglie) · physicist<span class="kw">wave-particle duality, the de Broglie hypothesis, matter waves, the pilot-wave theory</span>
 - [De Vries, Hugo (1848–1935)](d/de-vries) · botanist<span class="kw">the rediscovery of Mendel, mutation theory, intracellular pangenesis, the concept of the gene</span>
@@ -64,8 +66,9 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Eddington, Arthur (1882–1944)](e/eddington) · astrophysicist<span class="kw">named "the arrow of time", confirmed general relativity, stellar structure, the mass-luminosity relation</span>
 - [Eilenberg, Samuel (1913–1998)](e/eilenberg) · mathematician<span class="kw">co-founder of category theory, Eilenberg-Steenrod axioms, homological algebra, automata theory</span>
 - [Einstein, Albert (1879–1955)](e/einstein) · physicist<span class="kw">special and general relativity, the photoelectric effect, Brownian motion, the EPR paradox, E = mc²</span>
-- [Eldredge, Niles (1943–)](e/eldredge)
-- [Everett, Hugh III (1930–1982)](e/everett) · physicist<span class="kw">the many-worlds interpretation, the relative-state formulation, the universal wave function</span> · paleontologist<span class="kw">punctuated equilibrium, hierarchy theory, genealogical-ecological duality, stasis, turnover pulse</span>
+- [Eldredge, Niles (1943–)](e/eldredge) · paleontologist<span class="kw">punctuated equilibrium, hierarchy theory, genealogical-ecological duality, stasis, turnover pulse</span>
+- [Empedocles (c. 494–c. 434 BCE)](e/empedocles) · philosopher<span class="kw">the four elements, love and strife, the cosmic cycle, the earliest pluralist cosmology</span>
+- [Everett, Hugh III (1930–1982)](e/everett) · physicist<span class="kw">the many-worlds interpretation, the relative-state formulation, the universal wave function</span>
 
 ## F
 
@@ -124,6 +127,7 @@ Individual thinkers referenced across the positioning section. Each page present
 
 - [Landauer, Rolf (1927–1999)](l/landauer) · physicist<span class="kw">Landauer's principle, the thermodynamics of computation, information as physical, Maxwell's demon resolved</span>
 - [Langton, Christopher (1948–)](l/langton) · computer scientist<span class="kw">artificial life, edge of chaos, self-reproducing loops, the SFI artificial life workshops</span>
+- [Laski, Harold (1893–1950)](l/laski) · political theorist<span class="kw">political pluralism, the sovereignty critique, the state as one association among many, democratic socialism</span>
 - [Latour, Bruno (1947–2022)](l/latour) · philosopher, sociologist of science<span class="kw">actor-network theory, We Have Never Been Modern, the Parliament of Things, cosmopolitics, modes of existence</span>
 - [Leibniz, Gottfried Wilhelm (1646–1716)](l/leibniz) · philosopher, mathematician<span class="kw">relational space, monads, pre-established harmony, the universal characteristic</span>
 - [Lewontin, Richard (1929–2021)](l/lewontin) · evolutionary biologist, geneticist<span class="kw">three-conditions formalisation, Spandrels critique, organism-environment dialectic, anti-reductionism</span>
