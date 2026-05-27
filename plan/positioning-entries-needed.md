@@ -4,9 +4,6 @@ Persons and subjects referenced on the site without their own entry. One list, d
 
 ## Persons
 
-- Wilson, David Sloan — multi-level selection, contemporary group selection; mechanism
-- Fodor, Jerry — modularity of mind, critique of adaptationism; cultural-extensions
-- Hull, David — Science as a Process, selection theory applied to science; cultural-extensions
 - Sperber, Dan — cultural transmission critique, epidemiology of representations; cultural-extensions
 - Eddington, Arthur — named "arrow of time"; arrow of time
 - Eilenberg, Samuel — category theory (with Mac Lane)
@@ -86,6 +83,13 @@ Persons and subjects referenced on the site without their own entry. One list, d
 - Foot, Philippa — neo-Aristotelian naturalism, natural goodness; load-bearing for Aristotle's modern reception
 - Williams, Bernard — moral philosophy, critique of the ergon claim; named on Aristotle
 - Bohm, David — Bohmian mechanics, hidden variables; named on Born; quantum-foundations alternative (also listed in main list under turn-in-science)
+
+### Surfaced from philosophy-of-biology reviews (2026-05-27)
+
+- Price, George — Price equation; structurally load-bearing for multilevel selection; named on Wilson (D.S.)
+- Kitcher, Philip — philosophy of science; credit-economy critic on Hull; would recur across philosophy-of-science pages
+- Sperber, Dan — cultural-replication critic; named on Hull; would recur on culture/cognition pages (also listed in main list under cultural-extensions)
+- Ghiselin, Michael — species-as-individuals co-developer with Hull
 
 ## Subjects — candidates
 

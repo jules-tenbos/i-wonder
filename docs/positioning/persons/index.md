@@ -58,6 +58,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Feyerabend, Paul (1924–1994)](f/feyerabend) · philosopher of science<span class="kw">against method, theoretical pluralism, incommensurability</span>
 - [Fichte, Johann Gottlieb (1762–1814)](f/fichte) · philosopher<span class="kw">self-positing I, the not-I, differentiation as origin</span>
 - [Fisher, R. A. (1890–1962)](f/fisher) · statistician, geneticist<span class="kw">population genetics, fundamental theorem of natural selection, ANOVA, experimental design, eugenics</span>
+- [Fodor, Jerry (1935–2017)](f/fodor) · philosopher of mind<span class="kw">the modularity of mind, the language of thought, the critique of adaptationism, computational cognitive science</span>
 - [Frege, Gottlob (1848–1925)](f/frege) · logician, philosopher<span class="kw">modern logic, sense and reference, the concept-script, anti-psychologism</span>
 
 ## G
@@ -73,6 +74,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Habermas, Jürgen (1929–2025)](h/habermas) · philosopher, social theorist<span class="kw">communicative action, discourse ethics, lifeworld and system</span>
 - [Haldane, J. B. S. (1892–1964)](h/haldane) · geneticist, polymath<span class="kw">population genetics, cost of natural selection, enzyme kinetics, origin of life, Marxism</span>
 - [Hamilton, W. D. (1936–2000)](h/hamilton) · evolutionary biologist<span class="kw">inclusive fitness, Hamilton's rule, kin selection, sex and parasites, gene's-eye view</span>
+- [Hull, David (1935–2010)](h/hull) · philosopher of biology<span class="kw">Science as a Process, the replicator-interactor framework, selection theory applied to science, species-as-individuals</span>
 - [Hawking, Stephen (1942–2018)](h/hawking) · theoretical physicist<span class="kw">singularity theorems, Hawking radiation, black hole information paradox, no-boundary proposal, three arrows of time</span>
 - [Hayek, Friedrich (1899–1992)](h/hayek) · economist, political philosopher<span class="kw">the knowledge problem, spontaneous order, the price mechanism, the critique of central planning</span>
 - [Hazen, Robert (1948–)](h/hazen) · mineralogist, astrobiologist<span class="kw">mineral evolution, evolutionary system of mineralogy, mineral ecology, assembly theory exchange</span>
@@ -192,6 +194,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Whitehead, Alfred North (1861–1947)](w/whitehead) · philosopher, mathematician<span class="kw">process, actual occasions, creativity, prehension</span>
 - [Wiener, Norbert (1894–1964)](w/wiener) · mathematician<span class="kw">cybernetics, feedback, communication and control, the Macy conferences, the human use of human beings</span>
 - [Williams, George C. (1926–2010)](w/williams) · evolutionary biologist<span class="kw">Adaptation and Natural Selection, gene-level critique of group selection, senescence, sex, Darwinian medicine</span>
+- [Wilson, David Sloan (1949–)](w/wilson-ds) · evolutionary biologist<span class="kw">multilevel selection, the revival of group selection, Unto Others, prosociality, the evolution of religion</span>
 - [Wilson, E. O. (1929–2021)](w/wilson) · biologist<span class="kw">Sociobiology, island biogeography, the ants, biodiversity, group selection turn</span>
 - [Wittgenstein, Ludwig (1889–1951)](w/wittgenstein) · philosopher<span class="kw">language games, forms of life, meaning as use</span>
 - [Woese, Carl (1928–2012)](w/woese) · microbiologist<span class="kw">the three domains of life, ribosomal RNA phylogenetics, the Archaea, the progenote</span>

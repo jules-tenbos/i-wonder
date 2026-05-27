@@ -113,4 +113,5 @@ Updated 2026-05-26. Tasks triggered by post publication and ongoing work.
 - [x] Person pages — Woese, Pearson, Maxwell (common-descent/integration/turn-in-science, 2026-05-27)
 - [x] Person pages — Heisenberg, Planck, Sober (turn-in-science/mechanism, 2026-05-27)
 - [x] Person pages — Einstein, Born, Aristotle, Aquinas (backbone figures, 2026-05-27)
+- [x] Person pages — D.S. Wilson, Fodor, Hull (mechanism/cultural-extensions, 2026-05-27)
 - [ ] Cross-page audit convention — when a controversy appears on multiple person pages, check both sides voice it consistently (learned from Wilson/Lewontin and Hamilton/Wilson reviews)
