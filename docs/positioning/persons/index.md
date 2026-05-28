@@ -98,6 +98,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Ghiselin, Michael (1939–)](g/ghiselin) · biologist, philosopher of biology<span class="kw">the species-as-individuals thesis, the evolution of sex, opisthobranch systematics</span>
 - [Gell-Mann, Murray (1929–2019)](g/gell-mann) · physicist<span class="kw">quarks, the Eightfold Way, effective complexity, Santa Fe Institute co-founder</span>
 - [Gibbs, Josiah Willard (1839–1903)](g/gibbs) · physicist, mathematician<span class="kw">statistical mechanics, chemical thermodynamics, Gibbs free energy, the phase rule, ensembles</span>
+- [Grothendieck, Alexander (1928–2014)](g/grothendieck) · mathematician<span class="kw">the refounding of algebraic geometry, schemes, topos theory, étale cohomology, the Grothendieck school</span>
 - [Goodman, Nelson (1906–1998)](g/goodman) · philosopher<span class="kw">ways of worldmaking, symbol systems, rightness over truth, irrealism</span>
 - [Gould, Stephen Jay (1941–2002)](g/gould) · paleontologist, evolutionary biologist<span class="kw">punctuated equilibrium, Spandrels critique, contingency, hierarchy theory, popular science</span>
 
@@ -145,6 +146,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Landauer, Rolf (1927–1999)](l/landauer) · physicist<span class="kw">Landauer's principle, the thermodynamics of computation, information as physical, Maxwell's demon resolved</span>
 - [Langton, Christopher (1948–)](l/langton) · computer scientist<span class="kw">artificial life, edge of chaos, self-reproducing loops, the SFI artificial life workshops</span>
 - [Laski, Harold (1893–1950)](l/laski) · political theorist<span class="kw">political pluralism, the sovereignty critique, the state as one association among many, democratic socialism</span>
+- [Lawvere, F. William (1937–2023)](l/lawvere) · mathematician<span class="kw">categorical foundations of mathematics, ETCS, elementary topos theory, categorical logic, adjointness</span>
 - [Latour, Bruno (1947–2022)](l/latour) · philosopher, sociologist of science<span class="kw">actor-network theory, We Have Never Been Modern, the Parliament of Things, cosmopolitics, modes of existence</span>
 - [Leibniz, Gottfried Wilhelm (1646–1716)](l/leibniz) · philosopher, mathematician<span class="kw">relational space, monads, pre-established harmony, the universal characteristic</span>
 - [Lewontin, Richard (1929–2021)](l/lewontin) · evolutionary biologist, geneticist<span class="kw">three-conditions formalisation, Spandrels critique, organism-environment dialectic, anti-reductionism</span>

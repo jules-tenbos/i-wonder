@@ -4,11 +4,6 @@ Persons and subjects referenced on the site without their own entry. One list, d
 
 ## Persons
 
-### Surfaced from CT/cultural-extensions reviews (2026-05-27)
-
-- Grothendieck, Alexander — refounding of algebraic geometry on categorical language; towering 20C mathematician; load-bearing on both Eilenberg and Mac Lane pages
-- Lawvere, F. William — categorical foundations programme, elementary topos theory; named on both CT pages; foundational for CT-as-foundation debate
-
 ### Surfaced from QM-foundations reviews (2026-05-27)
 
 - Wheeler, John Archibald — Everett's PhD advisor; "it from bit," delayed-choice experiments, geometrodynamics; central to GR, quantum gravity, and quantum cosmology

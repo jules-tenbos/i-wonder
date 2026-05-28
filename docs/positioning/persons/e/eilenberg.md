@@ -33,7 +33,7 @@ The founding papers — "General Theory of Natural Equivalences" (1945, with Mac
 
 **Natural transformations.** The concept that motivated the entire programme. A natural transformation is a systematic family of arrows relating one functor to another, coherent in the way they sit across the source category. Eilenberg and Mac Lane needed natural transformations to make precise a distinction that was felt but not formalised in algebraic topology: the difference between constructions that are "canonical" (natural — they arise from the structure) and constructions that depend on arbitrary choices. The naturality condition turned a vague intuition into a theorem-bearing concept.
 
-The programme was initially regarded by many mathematicians as "abstract nonsense" — a label that was sometimes affectionate and sometimes not. The abstract apparatus proved indispensable: by the 1960s, [Grothendieck](https://en.wikipedia.org/wiki/Alexander_Grothendieck)'s refounding of algebraic geometry was built on categorical language, and the framework had spread into algebra, logic, topology, and eventually into computer science and theoretical physics.
+The programme was initially regarded by many mathematicians as "abstract nonsense" — a label that was sometimes affectionate and sometimes not. The abstract apparatus proved indispensable: by the 1960s, [Grothendieck](/positioning/persons/g/grothendieck/)'s refounding of algebraic geometry was built on categorical language, and the framework had spread into algebra, logic, topology, and eventually into computer science and theoretical physics.
 
 ---
 
@@ -49,7 +49,7 @@ Category theory's power is its generality — the same language applies to algeb
 
 Eilenberg's later work in automata theory and formal languages — connecting algebraic structures (monoids, semigroups) to the classification of formal languages and computational processes — was technically substantial but less widely influential than the categorical work. The connection between algebra and computation that Eilenberg developed is now a specialised subfield (algebraic automata theory); whether it will prove as foundational as category theory is unclear.
 
-The foundational question — whether category theory can replace set theory as the foundation of mathematics — was raised by [Lawvere](https://en.wikipedia.org/wiki/William_Lawvere) in the 1960s and remains unresolved. Eilenberg himself was not primarily interested in foundations; his work was motivated by the need for good tools, not by the desire for a new foundation. Whether category theory is a language, a framework, or a foundation is debated among mathematicians and philosophers of mathematics, and the question does not have a consensus answer.
+The foundational question — whether category theory can replace set theory as the foundation of mathematics — was raised by [Lawvere](/positioning/persons/l/lawvere/) in the 1960s and remains unresolved. Eilenberg himself was not primarily interested in foundations; his work was motivated by the need for good tools, not by the desire for a new foundation. Whether category theory is a language, a framework, or a foundation is debated among mathematicians and philosophers of mathematics, and the question does not have a consensus answer.
 
 ---
 
