@@ -64,6 +64,8 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Dirac, Paul (1902–1984)](d/dirac) · physicist<span class="kw">the Dirac equation, quantum field theory, antimatter, bra-ket notation, the Principles of Quantum Mechanics</span>
 - [Deleuze, Gilles (1925–1995)](d/deleuze) · philosopher<span class="kw">difference and repetition, the rhizome, multiplicity, assemblages, the fold, immanence</span>
 - [Dennett, Daniel (1942–2024)](d/dennett) · philosopher<span class="kw">the intentional stance, Darwin's Dangerous Idea, consciousness explained, universal Darwinism, memes</span>
+- [Deutsch, David (1953–)](d/deutsch) · physicist<span class="kw">quantum computing, the universal quantum computer, the Church-Turing-Deutsch principle, constructor theory, many-worlds</span>
+- [DeWitt, Bryce (1923–2004)](d/dewitt) · physicist<span class="kw">the many-worlds revival, the Wheeler-DeWitt equation, quantum gravity, the effective-action method</span>
 - [Descartes, René (1596–1650)](d/descartes) · philosopher, mathematician<span class="kw">the cogito, the mirror, the mind-body split, method</span>
 - [Dewey, John (1859–1952)](d/dewey) · philosopher<span class="kw">pragmatism, democracy, inquiry as community problem-solving, experience as transaction</span>
 - [Dobzhansky, Theodosius (1900–1975)](d/dobzhansky) · geneticist, evolutionary biologist<span class="kw">Genetics and the Origin of Species, Modern Synthesis bridge, isolating mechanisms, nothing in biology</span>
@@ -254,6 +256,7 @@ Individual thinkers referenced across the positioning section. Each page present
 
 - [Walker, Sara Imari](w/walker) · theoretical physicist, astrobiologist<span class="kw">the physics of life, assembly theory, time as material property, astrobiology, Santa Fe Institute</span>
 - [Wallace, Alfred Russel (1823–1913)](w/wallace) · naturalist, geographer<span class="kw">co-discovery of natural selection, biogeography, the Wallace Line, spiritualism</span>
+- [Wheeler, John Archibald (1911–2008)](w/wheeler) · physicist<span class="kw">"it from bit", geometrodynamics, the delayed-choice experiment, the participatory universe, quantum gravity</span>
 - [Wheeler, David (1927–2004)](w/wheeler-d) · computer scientist<span class="kw">the first assembler, the invention of the subroutine, the Wheeler jump, the EDSAC</span>
 - [Whitehead, Alfred North (1861–1947)](w/whitehead) · philosopher, mathematician<span class="kw">process, actual occasions, creativity, prehension</span>
 - [Wiener, Norbert (1894–1964)](w/wiener) · mathematician<span class="kw">cybernetics, feedback, communication and control, the Macy conferences, the human use of human beings</span>

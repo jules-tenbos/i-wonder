@@ -2,14 +2,6 @@
 
 Persons and subjects referenced on the site without their own entry. One list, descending by site-wide importance: cross-section reach, link frequency, load-bearing weight on existing pages. Work down the list; flip external links to internal as each page is created.
 
-## Persons
-
-### Surfaced from QM-foundations reviews (2026-05-27)
-
-- Wheeler, John Archibald — Everett's PhD advisor; "it from bit," delayed-choice experiments, geometrodynamics; central to GR, quantum gravity, and quantum cosmology
-- Deutsch, David — quantum computing pioneer, Everett defender; named on Everett page; would recur on quantum-information pages
-- DeWitt, Bryce — coined "many-worlds" label, revived Everett; Wheeler-DeWitt equation; quantum cosmology
-
 ## Subjects — candidates
 
 - Loop quantum gravity — closely tied to RQM, Rovelli's other programme
