@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-18
+lastmod: 2026-05-28
 title: "Philosophy of organism"
 description: "Whitehead's speculative metaphysics — actual entities, prehension, creativity, God — built to heal the bifurcation of nature that modern science inherited from Galileo and Descartes."
 ---

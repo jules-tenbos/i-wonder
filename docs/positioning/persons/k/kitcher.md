@@ -63,4 +63,4 @@ The naturalistic ethics programme (*The Ethical Project*, 2011) argues that ethi
 
 ---
 
-See also: [Hull](/positioning/persons/h/hull/) · [Dawkins](/positioning/persons/d/dawkins/) · [Dewey](/positioning/persons/d/dewey/)
+See also: [Hull](/positioning/persons/h/hull/) · [Dawkins](/positioning/persons/d/dawkins/) · [Dewey](/positioning/persons/d/dewey/) · [Darwinism](/positioning/subjects/d/darwinism/)

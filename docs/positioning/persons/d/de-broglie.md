@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-27
+lastmod: 2026-05-28
 title: "Louis de Broglie (1892–1987)"
 description: "French physicist — wave-particle duality, the de Broglie hypothesis, matter waves, the pilot-wave theory, and the bridge between light quanta and quantum mechanics."
 ---
@@ -64,4 +64,4 @@ The aristocratic isolation — the financial independence, the distance from the
 
 ---
 
-See also: [Planck](/positioning/persons/p/planck/) · [Bohm](/positioning/persons/b/bohm/) · [Schrödinger](/positioning/persons/s/schrodinger/)
+See also: [Planck](/positioning/persons/p/planck/) · [Bohm](/positioning/persons/b/bohm/) · [Schrödinger](/positioning/persons/s/schrodinger/) · [Relational quantum mechanics](/positioning/subjects/r/relational-quantum-mechanics/)

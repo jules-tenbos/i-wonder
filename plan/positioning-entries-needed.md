@@ -1,11 +1,25 @@
 # Positioning entries needed
 
-Persons and subjects referenced on the site without their own entry. One list, descending by site-wide importance: cross-section reach, link frequency, load-bearing weight on existing pages. Work down the list; flip external links to internal as each page is created.
+Persons and subjects referenced on the site without their own entry. Two lists. Work down each; flip external links to internal as each page is created.
 
-Persons section cleared 2026-05-28 (84 person pages total across three sessions). Only subject candidates remain.
+Persons section cleared 2026-05-28 (84 person pages total across three sessions); gap audit 2026-05-28 identified new candidates below.
+
+## Persons — candidates
+
+Identified by positioning audit (2026-05-28). Ordered by proximity to the seed's territory.
+
+- **Nietzsche** — perspectivism, the critique of substance metaphysics, eternal recurrence. Direct predecessor for Heidegger, Deleuze, Rorty. The single most striking gap in the philosophy cluster given the anti-foundationalist, process-oriented territory.
+- **Quine** — "Two Dogmas of Empiricism," ontological relativity, the web of belief. Rorty's primary predecessor in dismantling the analytic/synthetic distinction. Missing link in the Frege → Russell → Carnap → Quine → Rorty spine.
+- **Derrida** — différance, deconstruction. Given Deleuze, Lyotard, Saussure are present and structuralism is a subject page. Central post-structuralist figure.
+- **Lévi-Strauss** — structural anthropology. The structuralism subject page names him. Founding figure of the tradition without a person page.
+- **Smolin** — loop quantum gravity (co-developer with Rovelli), cosmological natural selection, the reality of time. Mentioned in assembly-theory (TAP collaboration with Kauffman). Works in the same space as Rovelli plus adds evolutionary cosmology.
+- **Wolfram** — cellular automata, "A New Kind of Science", computational universe. Referenced in CAS adjacent-traditions but no person page.
 
 ## Subjects — candidates
 
+- Cybernetics — Ashby, Wiener, von Foerster, Bateson all have person pages. CAS adjacent-traditions treats it as precursor but no standalone subject page. Feedback, communication, self-regulation are structurally close to SPLectrum.
+- Enactivism — Varela has a page; autopoiesis subject page names the enactivist extension. Thompson, Noë, Di Paolo continuing Varela's work. Cognition as embodied, relational, world-constituting.
+- Information theory — Shannon, Landauer, Bennett all have person pages. The information-physics nexus (information as physical, thermodynamics of computation) is relevant to the engineering pillar.
 - Loop quantum gravity — closely tied to RQM, Rovelli's other programme
 - Semiotics — Peirce, biosemiotics post
 - Embodied cognition — Merleau-Ponty, enactivism

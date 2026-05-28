@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-15
+lastmod: 2026-05-28
 title: "Ricard Solé (1962–)"
 description: "Solé maps cognitive architectures from liquid to solid — phase transitions, criticality, and the general laws underlying complex adaptive systems."
 ---
@@ -44,4 +44,4 @@ Solé maps the architecture of cognition — but he stays with the physical and 
 
 ---
 
-See also: [Maturana](/positioning/persons/m/maturana/) · [Varela](/positioning/persons/v/varela/) · [Whitehead](/positioning/persons/w/whitehead/) · [Peirce](/positioning/persons/p/peirce/)
+See also: [Maturana](/positioning/persons/m/maturana/) · [Varela](/positioning/persons/v/varela/) · [Whitehead](/positioning/persons/w/whitehead/) · [Peirce](/positioning/persons/p/peirce/) · [Complex Adaptive Systems](/positioning/subjects/c/complex-adaptive-systems/)

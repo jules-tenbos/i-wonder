@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-27
+lastmod: 2026-05-28
 title: "Robert Boyd (1948–)"
 description: "American anthropologist — dual-inheritance theory (with Richerson), mathematical models of cultural evolution, transmission biases, cultural group selection."
 ---
@@ -52,4 +52,4 @@ The cultural-group-selection claim has faced sustained criticism. [Steven Pinker
 
 ---
 
-See also: [Richerson](/positioning/persons/r/richerson/) · [Sperber](/positioning/persons/s/sperber/) · [Wilson (D. S.)](/positioning/persons/w/wilson-ds/)
+See also: [Richerson](/positioning/persons/r/richerson/) · [Sperber](/positioning/persons/s/sperber/) · [Wilson (D. S.)](/positioning/persons/w/wilson-ds/) · [Darwinism](/positioning/subjects/d/darwinism/)

@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-27
+lastmod: 2026-05-28
 title: "David Bohm (1917–1992)"
 description: "American-British physicist — Bohmian mechanics, the pilot-wave interpretation of quantum mechanics, the implicate order, wholeness and fragmentation."
 ---
@@ -71,4 +71,4 @@ The implicate-order programme has not been formalised into a testable physical t
 
 ---
 
-See also: [Heisenberg](/positioning/persons/h/heisenberg/) · [Einstein](/positioning/persons/e/einstein/) · [Born](/positioning/persons/b/born/)
+See also: [Heisenberg](/positioning/persons/h/heisenberg/) · [Einstein](/positioning/persons/e/einstein/) · [Born](/positioning/persons/b/born/) · [Relational quantum mechanics](/positioning/subjects/r/relational-quantum-mechanics/)

@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-27
+lastmod: 2026-05-28
 title: "Elliott Sober (1948–)"
 description: "American philosopher of biology — multilevel selection theory, the units-of-selection debate, the nature of natural selection, parsimony and phylogenetic inference."
 ---
@@ -62,4 +62,4 @@ Sober's distinction between selection-of and selection-for clarifies adaptationi
 
 ---
 
-See also: [Williams](/positioning/persons/w/williams/) · [Dawkins](/positioning/persons/d/dawkins/) · [Hamilton](/positioning/persons/h/hamilton/) · [Wynne-Edwards](/positioning/persons/w/wynne-edwards/)
+See also: [Williams](/positioning/persons/w/williams/) · [Dawkins](/positioning/persons/d/dawkins/) · [Hamilton](/positioning/persons/h/hamilton/) · [Wynne-Edwards](/positioning/persons/w/wynne-edwards/) · [Darwinism](/positioning/subjects/d/darwinism/)

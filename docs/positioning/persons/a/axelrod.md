@@ -2,7 +2,7 @@
 layout: default
 title: "Robert Axelrod (1943–)"
 description: "American political scientist — the evolution of cooperation, iterated prisoner's dilemma tournaments, tit-for-tat, and the demonstration that cooperation can emerge among self-interested agents without central enforcement."
-lastmod: 2026-05-25
+lastmod: 2026-05-28
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Axelrod
@@ -61,4 +61,4 @@ Axelrod's agents are strategic but simple — they have fixed strategies (or str
 
 ---
 
-See also: [Holland](/positioning/persons/h/holland/) · [Schelling](/positioning/persons/s/schelling/) · [Complex Adaptive Systems](/positioning/subjects/c/complex-adaptive-systems/)
+See also: [Holland](/positioning/persons/h/holland/) · [Schelling](/positioning/persons/s/schelling/) · [Complex Adaptive Systems](/positioning/subjects/c/complex-adaptive-systems/) · [Mutualism](/positioning/subjects/m/mutualism/)

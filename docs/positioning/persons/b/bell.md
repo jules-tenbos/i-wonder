@@ -66,4 +66,4 @@ The experimental tests of Bell's inequality have been progressively refined — 
 
 ---
 
-See also: [Einstein](/positioning/persons/e/einstein/) · [Bohm](/positioning/persons/b/bohm/) · [Bohr](/positioning/persons/b/bohr/) · [Born](/positioning/persons/b/born/)
+See also: [Einstein](/positioning/persons/e/einstein/) · [Bohm](/positioning/persons/b/bohm/) · [Bohr](/positioning/persons/b/bohr/) · [Born](/positioning/persons/b/born/) · [Relational quantum mechanics](/positioning/subjects/r/relational-quantum-mechanics/)

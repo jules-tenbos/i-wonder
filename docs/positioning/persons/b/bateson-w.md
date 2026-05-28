@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-27
+lastmod: 2026-05-28
 title: "William Bateson (1861–1926)"
 description: "British biologist — coined 'genetics', Mendel's champion in England, the Mendelian-biometrician debate, discontinuous variation, Materials for the Study of Variation."
 ---
@@ -56,4 +56,4 @@ Bateson's emphasis on discontinuous variation was prescient in ways he could not
 
 ---
 
-See also: [Mendel](/positioning/persons/m/mendel/) · [Pearson](/positioning/persons/p/pearson/) · [Fisher](/positioning/persons/f/fisher/)
+See also: [Mendel](/positioning/persons/m/mendel/) · [Pearson](/positioning/persons/p/pearson/) · [Fisher](/positioning/persons/f/fisher/) · [Darwinism](/positioning/subjects/d/darwinism/)

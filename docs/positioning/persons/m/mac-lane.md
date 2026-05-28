@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-27
+lastmod: 2026-05-28
 title: "Saunders Mac Lane (1909–2005)"
 description: "American mathematician — co-founder of category theory (with Eilenberg), Categories for the Working Mathematician, mathematical structuralism."
 ---
@@ -63,4 +63,4 @@ Mac Lane's structuralism — the claim that mathematics studies patterns of rela
 
 ---
 
-See also: [Eilenberg](/positioning/persons/e/eilenberg/) · [Whitehead](/positioning/persons/w/whitehead/) · [Frege](/positioning/persons/f/frege/)
+See also: [Eilenberg](/positioning/persons/e/eilenberg/) · [Whitehead](/positioning/persons/w/whitehead/) · [Frege](/positioning/persons/f/frege/) · [Category theory](/positioning/subjects/c/ct/)

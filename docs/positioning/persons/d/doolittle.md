@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-27
+lastmod: 2026-05-28
 title: "W. Ford Doolittle (1941–)"
 description: "Canadian biochemist — the tree-of-life critique, horizontal gene transfer, the web of life, the challenge to universal-tree phylogenetics."
 ---
@@ -52,4 +52,4 @@ Doolittle's philosophical work — particularly his engagement with the question
 
 ---
 
-See also: [Woese](/positioning/persons/w/woese/) · [Margulis](/positioning/persons/m/margulis/) · [Darwin](/positioning/persons/d/darwin/)
+See also: [Woese](/positioning/persons/w/woese/) · [Margulis](/positioning/persons/m/margulis/) · [Darwin](/positioning/persons/d/darwin/) · [Darwinism](/positioning/subjects/d/darwinism/)

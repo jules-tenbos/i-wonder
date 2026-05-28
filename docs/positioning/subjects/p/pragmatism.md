@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-06
+lastmod: 2026-05-28
 title: "Pragmatism"
 description: "Meaning by practical consequence, truth by convergence of inquiry — the tradition that refuses the spectator theory of knowledge."
 ---
@@ -45,4 +45,4 @@ Pragmatism tears down the mirror but is deliberately agnostic about what replace
 
 [Peirce](/positioning/persons/p/peirce/) · [James](/positioning/persons/j/james/) · [Dewey](/positioning/persons/d/dewey/) · [Rorty](/positioning/persons/r/rorty/)
 
-See also: [The seed and Philosophy](/seed/philosophical/) · [The Turn in Western Philosophy](/positioning/seed/the-turn-in-western-philosophy/)
+See also: [Phenomenology](/positioning/subjects/p/phenomenology/) · [Process Philosophy](/positioning/subjects/p/process-philosophy/) · [The seed and Philosophy](/seed/philosophical/) · [The Turn in Western Philosophy](/positioning/seed/the-turn-in-western-philosophy/)

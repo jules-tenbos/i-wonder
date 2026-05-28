@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-26
+lastmod: 2026-05-28
 title: "E. O. Wilson (1929–2021)"
 description: "American biologist — Sociobiology, island biogeography, the ants, biodiversity advocacy, and a late-career turn to group selection."
 ---
@@ -84,4 +84,4 @@ Wilson's programme is biological and synthetic — it seeks to bring behaviour, 
 
 ---
 
-See also: [Darwinism](/positioning/subjects/d/darwinism/) · [Trivers](/positioning/persons/t/trivers/) · [Lewontin](/positioning/persons/l/lewontin/) · [Gould](/positioning/persons/g/gould/) · [Dawkins](/positioning/persons/d/dawkins/)
+See also: [Darwinism](/positioning/subjects/d/darwinism/) · [Trivers](/positioning/persons/t/trivers/) · [Lewontin](/positioning/persons/l/lewontin/) · [Gould](/positioning/persons/g/gould/) · [Dawkins](/positioning/persons/d/dawkins/) · [Mutualism](/positioning/subjects/m/mutualism/)

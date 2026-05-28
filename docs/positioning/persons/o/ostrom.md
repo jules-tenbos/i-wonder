@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-15
+lastmod: 2026-05-28
 title: "Elinor Ostrom (1933–2012)"
 description: "Ostrom showed that communities govern shared resources from within — polycentric, self-organised, no tragedy inevitable."
 ---
@@ -44,4 +44,4 @@ Ostrom showed that communities self-govern — but her analysis stays at the ins
 
 ---
 
-See also: [Connolly](/positioning/persons/c/connolly/) · [Habermas](/positioning/persons/h/habermas/) · [Dewey](/positioning/persons/d/dewey/)
+See also: [Connolly](/positioning/persons/c/connolly/) · [Habermas](/positioning/persons/h/habermas/) · [Dewey](/positioning/persons/d/dewey/) · [Mutualism](/positioning/subjects/m/mutualism/)

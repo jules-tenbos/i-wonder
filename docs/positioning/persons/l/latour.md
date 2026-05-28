@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-27
+lastmod: 2026-05-28
 title: "Bruno Latour (1947–2022)"
 description: "French philosopher and sociologist of science — actor-network theory, the Parliament of Things, cosmopolitics, modes of existence, the composition of the common world."
 ---
@@ -67,4 +67,4 @@ The relationship between Latour and [Stengers](/positioning/persons/s/stengers/)
 
 ---
 
-See also: [Stengers](/positioning/persons/s/stengers/) · [Whitehead](/positioning/persons/w/whitehead/) · [Connolly](/positioning/persons/c/connolly/)
+See also: [Stengers](/positioning/persons/s/stengers/) · [Whitehead](/positioning/persons/w/whitehead/) · [Connolly](/positioning/persons/c/connolly/) · [Cosmopolitics](/positioning/subjects/c/cosmopolitics/) · [Process philosophy](/positioning/subjects/p/process-philosophy/) · [Philosophy of organism](/positioning/subjects/p/philosophy-of-organism/)

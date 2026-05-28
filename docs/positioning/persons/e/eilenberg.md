@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-27
+lastmod: 2026-05-28
 title: "Samuel Eilenberg (1913–1998)"
 description: "Polish-American mathematician — co-founder of category theory (with Mac Lane), the Eilenberg-Steenrod axioms, homological algebra, automata theory."
 ---
@@ -62,4 +62,4 @@ The foundational question — whether category theory can replace set theory as 
 
 ---
 
-See also: [Mac Lane](/positioning/persons/m/mac-lane/) · [Frege](/positioning/persons/f/frege/) · [Russell](/positioning/persons/r/russell/)
+See also: [Mac Lane](/positioning/persons/m/mac-lane/) · [Frege](/positioning/persons/f/frege/) · [Russell](/positioning/persons/r/russell/) · [Category theory](/positioning/subjects/c/ct/)

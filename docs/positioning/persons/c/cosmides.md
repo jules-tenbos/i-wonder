@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-27
+lastmod: 2026-05-28
 title: "Leda Cosmides (1957–)"
 description: "American cognitive psychologist — the adapted mind, cheater-detection experiments, social-contract theory, evolutionary psychology's experimental programme."
 ---
@@ -48,4 +48,4 @@ The ancestral-environment inference is the deepest methodological challenge. The
 
 ---
 
-See also: [Tooby](/positioning/persons/t/tooby/) · [Pinker](/positioning/persons/p/pinker/) · [Fodor](/positioning/persons/f/fodor/)
+See also: [Tooby](/positioning/persons/t/tooby/) · [Pinker](/positioning/persons/p/pinker/) · [Fodor](/positioning/persons/f/fodor/) · [Darwinism](/positioning/subjects/d/darwinism/)

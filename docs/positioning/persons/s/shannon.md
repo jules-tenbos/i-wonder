@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-26
+lastmod: 2026-05-28
 title: "Claude Shannon (1916–2001)"
 description: "American mathematician and engineer — information theory, the bit, channel capacity, the mathematical theory of communication, and the demonstration that information and entropy share the same form."
 ---
@@ -65,4 +65,4 @@ Shannon's theory is a theory of information quantity, not information meaning. T
 
 ---
 
-See also: [Boltzmann](/positioning/persons/b/boltzmann/) · [Von Neumann](/positioning/persons/v/von-neumann/) · [Wiener](/positioning/persons/w/wiener/)
+See also: [Boltzmann](/positioning/persons/b/boltzmann/) · [Von Neumann](/positioning/persons/v/von-neumann/) · [Wiener](/positioning/persons/w/wiener/) · [Complex Adaptive Systems](/positioning/subjects/c/complex-adaptive-systems/)

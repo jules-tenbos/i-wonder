@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-27
+lastmod: 2026-05-28
 title: "Joseph Schumpeter (1883–1950)"
 description: "Austrian-American economist — creative destruction, the entrepreneur as innovator, business cycles, capitalism's self-undermining dynamics."
 ---
@@ -60,4 +60,4 @@ Schumpeter's entrepreneur is a heroic figure — the visionary who breaks the ex
 
 ---
 
-See also: [Arthur](/positioning/persons/a/arthur/) · [Spencer](/positioning/persons/s/spencer/) · [Marx](/positioning/persons/m/marx/)
+See also: [Arthur](/positioning/persons/a/arthur/) · [Spencer](/positioning/persons/s/spencer/) · [Marx](/positioning/persons/m/marx/) · [Darwinism](/positioning/subjects/d/darwinism/)

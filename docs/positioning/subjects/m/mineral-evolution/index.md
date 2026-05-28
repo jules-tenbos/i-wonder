@@ -2,7 +2,7 @@
 layout: default
 title: "Mineral evolution"
 description: "Mineral evolution — the framework proposing Earth's mineral diversity emerges from a coupled physical, chemical, and biological history through deep time."
-lastmod: 2026-05-26
+lastmod: 2026-05-28
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > Mineral evolution
@@ -35,4 +35,4 @@ The framework's centre is the [Carnegie Institution for Science](https://carnegi
 
 ---
 
-See also: [Hazen](/positioning/persons/h/hazen/) · [Assembly theory](/positioning/subjects/a/assembly-theory/)
+See also: [Assembly Theory](/positioning/subjects/a/assembly-theory/) · [Darwinism](/positioning/subjects/d/darwinism/) · [Hazen](/positioning/persons/h/hazen/)

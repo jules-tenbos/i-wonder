@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-27
+lastmod: 2026-05-28
 title: "Albert Einstein (1879–1955)"
 description: "German-born physicist — special and general relativity, the photoelectric effect, Brownian motion, the EPR paradox, and the debate over quantum mechanics."
 ---
@@ -65,4 +65,4 @@ The cosmological constant is Einstein's most instructive error. He introduced it
 
 ---
 
-See also: [Maxwell](/positioning/persons/m/maxwell/) · [Planck](/positioning/persons/p/planck/) · [Rovelli](/positioning/persons/r/rovelli/)
+See also: [Maxwell](/positioning/persons/m/maxwell/) · [Planck](/positioning/persons/p/planck/) · [Rovelli](/positioning/persons/r/rovelli/) · [Relational quantum mechanics](/positioning/subjects/r/relational-quantum-mechanics/)

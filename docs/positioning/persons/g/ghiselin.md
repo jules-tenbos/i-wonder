@@ -68,4 +68,4 @@ The relationship between the individuality thesis and the species concepts used 
 
 ---
 
-See also: [Hull](/positioning/persons/h/hull/) · [Mayr](/positioning/persons/m/mayr/) · [Darwin](/positioning/persons/d/darwin/)
+See also: [Hull](/positioning/persons/h/hull/) · [Mayr](/positioning/persons/m/mayr/) · [Darwin](/positioning/persons/d/darwin/) · [Darwinism](/positioning/subjects/d/darwinism/)

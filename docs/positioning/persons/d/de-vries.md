@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-27
+lastmod: 2026-05-28
 title: "Hugo de Vries (1848–1935)"
 description: "Dutch botanist — the rediscovery of Mendel, mutation theory, the concept of the gene as a discrete unit, intracellular pangenesis."
 ---
@@ -60,4 +60,4 @@ The Mendel-rediscovery priority dispute is a minor but persistent issue in de Vr
 
 ---
 
-See also: [Mendel](/positioning/persons/m/mendel/) · [Fisher](/positioning/persons/f/fisher/) · [Darwin](/positioning/persons/d/darwin/)
+See also: [Mendel](/positioning/persons/m/mendel/) · [Fisher](/positioning/persons/f/fisher/) · [Darwin](/positioning/persons/d/darwin/) · [Darwinism](/positioning/subjects/d/darwinism/)

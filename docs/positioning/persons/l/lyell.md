@@ -2,7 +2,7 @@
 layout: default
 title: "Charles Lyell (1797–1875)"
 description: "Scottish geologist who carried uniformitarianism into general scientific acceptance — deep time, the Tertiary classification, and the book Darwin took on the Beagle."
-lastmod: 2026-05-15
+lastmod: 2026-05-28
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Lyell
@@ -57,4 +57,4 @@ Lyell's uniformitarianism bundled four commitments: uniformity of natural law, o
 
 ---
 
-See also: [Darwin](/positioning/persons/d/darwin/) · [Philosophy of science](/positioning/subjects/p/philosophy-of-science/)
+See also: [Darwin](/positioning/persons/d/darwin/) · [Philosophy of science](/positioning/subjects/p/philosophy-of-science/) · [Darwinism](/positioning/subjects/d/darwinism/)

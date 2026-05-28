@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-15
+lastmod: 2026-05-28
 title: "Henri Bergson (1859–1941)"
 description: "Bergson put duration at the centre — lived time as continuous flow, creative evolution as genuine novelty, intuition against the spatialising intellect."
 ---
@@ -45,4 +45,4 @@ Bergson mistrusted language. The intellect spatialises; language is the intellec
 
 ---
 
-See also: [Process philosophy](/positioning/subjects/p/process-philosophy/) · [Whitehead](/positioning/persons/w/whitehead/) · [Merleau-Ponty](/positioning/persons/m/merleau-ponty/)
+See also: [Process philosophy](/positioning/subjects/p/process-philosophy/) · [Whitehead](/positioning/persons/w/whitehead/) · [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) · [Philosophy of organism](/positioning/subjects/p/philosophy-of-organism/)

@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-19
+lastmod: 2026-05-28
 title: "Cosmopolitics"
 description: "Stengers' cosmopolitics — the practice of holding together multiple worlds without a meta-frame to rank them. Not cosmopolitanism: the cosmos is not given but constructed."
 ---

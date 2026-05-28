@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-26
+lastmod: 2026-05-28
 title: "Erwin Schrödinger (1887–1961)"
 description: "Austrian physicist — the Schrödinger equation, wave mechanics, What is Life?, negative entropy, and the physicist's question that shaped molecular biology."
 ---
@@ -62,4 +62,4 @@ Schrödinger's question in *What is Life?* — how does an organism maintain its
 
 ---
 
-See also: [Boltzmann](/positioning/persons/b/boltzmann/) · [Prigogine](/positioning/persons/p/prigogine/) · [Rovelli](/positioning/persons/r/rovelli/) · [Von Neumann](/positioning/persons/v/von-neumann/)
+See also: [Boltzmann](/positioning/persons/b/boltzmann/) · [Prigogine](/positioning/persons/p/prigogine/) · [Rovelli](/positioning/persons/r/rovelli/) · [Von Neumann](/positioning/persons/v/von-neumann/) · [Relational quantum mechanics](/positioning/subjects/r/relational-quantum-mechanics/)

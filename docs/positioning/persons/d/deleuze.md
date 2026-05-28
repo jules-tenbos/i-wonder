@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-27
+lastmod: 2026-05-28
 title: "Gilles Deleuze (1925–1995)"
 description: "French philosopher — difference and repetition, the rhizome, multiplicity, the fold, assemblages, and the philosophy of immanence."
 ---
@@ -69,4 +69,4 @@ The reception has been split along disciplinary lines. In continental philosophy
 
 ---
 
-See also: [Bergson](/positioning/persons/b/bergson/) · [Whitehead](/positioning/persons/w/whitehead/) · [Connolly](/positioning/persons/c/connolly/)
+See also: [Bergson](/positioning/persons/b/bergson/) · [Whitehead](/positioning/persons/w/whitehead/) · [Connolly](/positioning/persons/c/connolly/) · [Process philosophy](/positioning/subjects/p/process-philosophy/) · [Structuralism](/positioning/subjects/s/structuralism/) · [Philosophy of organism](/positioning/subjects/p/philosophy-of-organism/)

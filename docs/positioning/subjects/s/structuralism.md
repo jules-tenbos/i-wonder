@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-06
+lastmod: 2026-05-28
 title: "Structuralism"
 description: "Meaning as difference, systems of relations — the movement that analysed culture, language and thought as structures, not collections of independent elements."
 ---
@@ -47,4 +47,4 @@ Structuralism found the relational — but locked it in a cage. The system is gi
 
 [Saussure](/positioning/persons/s/saussure/) · [Lyotard](/positioning/persons/l/lyotard/)
 
-See also: [The seed and Philosophy](/seed/philosophical/) · [Being as Tension](/positioning/seed/being-as-tension/)
+See also: [Phenomenology](/positioning/subjects/p/phenomenology/) · [The seed and Philosophy](/seed/philosophical/) · [Being as Tension](/positioning/seed/being-as-tension/)

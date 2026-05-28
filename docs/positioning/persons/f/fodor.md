@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-27
+lastmod: 2026-05-28
 title: "Jerry Fodor (1935–2017)"
 description: "American philosopher — the modularity of mind, the language of thought, the critique of adaptationism, the computational theory of mind."
 ---
@@ -73,4 +73,4 @@ The adaptationism critique in *What Darwin Got Wrong* was Fodor's least successf
 
 ---
 
-See also: [Putnam](/positioning/persons/p/putnam/) · [Dennett](/positioning/persons/d/dennett/) · [Sober](/positioning/persons/s/sober/)
+See also: [Putnam](/positioning/persons/p/putnam/) · [Dennett](/positioning/persons/d/dennett/) · [Sober](/positioning/persons/s/sober/) · [Darwinism](/positioning/subjects/d/darwinism/)

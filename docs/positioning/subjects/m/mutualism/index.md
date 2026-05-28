@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-17
+lastmod: 2026-05-28
 title: "Mutualism"
 description: "Mutualism — relationships of mutual benefit across two parallel traditions: ecological (interspecific interactions where both parties benefit) and socio-political (voluntary, reciprocal association based on mutual aid and shared benefit)."
 ---
@@ -36,4 +36,4 @@ The biological and socio-political traditions have continued to influence each o
 
 ---
 
-See also: [Darwin](/positioning/persons/d/darwin/) · [Kropotkin](/positioning/persons/k/kropotkin/) · [Proudhon](/positioning/persons/p/proudhon/) · [Ostrom](/positioning/persons/o/ostrom/) · [Trivers](/positioning/persons/t/trivers/) · [Kauffman](/positioning/persons/k/kauffman/) · [Darwinism](/positioning/subjects/d/darwinism/)
+See also: [Darwinism](/positioning/subjects/d/darwinism/) · [Complex Adaptive Systems](/positioning/subjects/c/complex-adaptive-systems/) · [Darwin](/positioning/persons/d/darwin/) · [Kropotkin](/positioning/persons/k/kropotkin/) · [Proudhon](/positioning/persons/p/proudhon/) · [Ostrom](/positioning/persons/o/ostrom/) · [Trivers](/positioning/persons/t/trivers/) · [Kauffman](/positioning/persons/k/kauffman/)

@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-15
+lastmod: 2026-05-28
 title: "Jean-François Lyotard (1924–1998)"
 description: "Lyotard diagnosed the collapse of grand narratives — what remains is a plurality of language games, each with its own rules, none entitled to subsume the others."
 ---
@@ -45,4 +45,4 @@ Lyotard diagnosed the collapse but refused to build on the ruins. The differend 
 
 ---
 
-See also: [Wittgenstein](/positioning/persons/w/wittgenstein/) · [Habermas](/positioning/persons/h/habermas/) · [Connolly](/positioning/persons/c/connolly/) · [Feyerabend](/positioning/persons/f/feyerabend/)
+See also: [Wittgenstein](/positioning/persons/w/wittgenstein/) · [Habermas](/positioning/persons/h/habermas/) · [Connolly](/positioning/persons/c/connolly/) · [Feyerabend](/positioning/persons/f/feyerabend/) · [Structuralism](/positioning/subjects/s/structuralism/)

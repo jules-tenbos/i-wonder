@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-27
+lastmod: 2026-05-28
 title: "Hugh Everett III (1930–1982)"
 description: "American physicist — the many-worlds interpretation of quantum mechanics, the relative-state formulation, the universal wave function."
 ---
@@ -66,4 +66,4 @@ Everett himself did not engage with these questions after 1957. His thesis was a
 
 ---
 
-See also: [Bohr](/positioning/persons/b/bohr/) · [Albert](/positioning/persons/a/albert/) · [Rovelli](/positioning/persons/r/rovelli/)
+See also: [Bohr](/positioning/persons/b/bohr/) · [Albert](/positioning/persons/a/albert/) · [Rovelli](/positioning/persons/r/rovelli/) · [Relational quantum mechanics](/positioning/subjects/r/relational-quantum-mechanics/)

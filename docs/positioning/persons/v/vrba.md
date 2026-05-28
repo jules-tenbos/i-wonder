@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-27
+lastmod: 2026-05-28
 title: "Elisabeth Vrba (1942–2015)"
 description: "South African-American paleontologist — the turnover pulse hypothesis, the effect hypothesis, exaptation (with Gould), habitat theory, African mammalian macroevolution."
 ---
@@ -73,4 +73,4 @@ The exaptation concept is widely accepted as a useful terminological distinction
 
 ---
 
-See also: [Eldredge](/positioning/persons/e/eldredge/) · [Gould](/positioning/persons/g/gould/) · [Mayr](/positioning/persons/m/mayr/) · [Darwin](/positioning/persons/d/darwin/)
+See also: [Eldredge](/positioning/persons/e/eldredge/) · [Gould](/positioning/persons/g/gould/) · [Mayr](/positioning/persons/m/mayr/) · [Darwin](/positioning/persons/d/darwin/) · [Darwinism](/positioning/subjects/d/darwinism/)

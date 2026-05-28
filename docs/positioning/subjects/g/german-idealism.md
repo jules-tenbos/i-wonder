@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-06
+lastmod: 2026-05-28
 title: "German idealism"
 description: "The movement that refused Kant's limits — Fichte, Schelling and Hegel overcoming the gap between subject and world, determination through negation."
 ---
@@ -45,4 +45,4 @@ The idealists overcame Kant's gap — but replaced it with systems that claim to
 
 [Kant](/positioning/persons/k/kant/) (origin) · [Fichte](/positioning/persons/f/fichte/) · [Hegel](/positioning/persons/h/hegel/) · [Spinoza](/positioning/persons/s/spinoza/) (precursor)
 
-See also: [The seed and Philosophy](/seed/philosophical/) · [Being as Tension](/positioning/seed/being-as-tension/) · [The Turn in Western Philosophy](/positioning/seed/the-turn-in-western-philosophy/)
+See also: [Phenomenology](/positioning/subjects/p/phenomenology/) · [Process Philosophy](/positioning/subjects/p/process-philosophy/) · [The seed and Philosophy](/seed/philosophical/) · [Being as Tension](/positioning/seed/being-as-tension/) · [The Turn in Western Philosophy](/positioning/seed/the-turn-in-western-philosophy/)

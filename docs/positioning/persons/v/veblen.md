@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-27
+lastmod: 2026-05-28
 title: "Thorstein Veblen (1857–1929)"
 description: "Norwegian-American economist and sociologist — institutional economics, conspicuous consumption, the leisure class, 'Why is economics not an evolutionary science?'"
 ---
@@ -65,4 +65,4 @@ Veblen's prose style — ironic, circuitous, mock-solemn — is itself a barrier
 
 ---
 
-See also: [Spencer](/positioning/persons/s/spencer/) · [Arthur](/positioning/persons/a/arthur/) · [Darwin](/positioning/persons/d/darwin/)
+See also: [Spencer](/positioning/persons/s/spencer/) · [Arthur](/positioning/persons/a/arthur/) · [Darwin](/positioning/persons/d/darwin/) · [Darwinism](/positioning/subjects/d/darwinism/)

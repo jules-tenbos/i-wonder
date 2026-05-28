@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-27
+lastmod: 2026-05-28
 title: "Karl Pearson (1857–1936)"
 description: "British statistician — the correlation coefficient, chi-squared test, the biometric programme, the Galton Laboratory, eugenics."
 ---
@@ -76,4 +76,4 @@ Pearson's philosophy of science — the strict positivism of *The Grammar of Sci
 
 ---
 
-See also: [Galton](/positioning/persons/g/galton/) · [Fisher](/positioning/persons/f/fisher/) · [Mendel](/positioning/persons/m/mendel/)
+See also: [Galton](/positioning/persons/g/galton/) · [Fisher](/positioning/persons/f/fisher/) · [Mendel](/positioning/persons/m/mendel/) · [Darwinism](/positioning/subjects/d/darwinism/)

@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-27
+lastmod: 2026-05-28
 title: "Suzanne Simard (1960–)"
 description: "Canadian forest ecologist — mycorrhizal networks, the wood wide web, mother trees, resource sharing between trees through fungal connections."
 ---
@@ -52,4 +52,4 @@ The forestry policy implications — that clear-cutting and monoculture plantati
 
 ---
 
-See also: [Margulis](/positioning/persons/m/margulis/) · [Darwin](/positioning/persons/d/darwin/) · [Kropotkin](/positioning/persons/k/kropotkin/)
+See also: [Margulis](/positioning/persons/m/margulis/) · [Darwin](/positioning/persons/d/darwin/) · [Kropotkin](/positioning/persons/k/kropotkin/) · [Complex Adaptive Systems](/positioning/subjects/c/complex-adaptive-systems/) · [Mutualism](/positioning/subjects/m/mutualism/)

@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-27
+lastmod: 2026-05-28
 title: "Georgy Gause (1910–1986)"
 description: "Soviet biologist — the competitive exclusion principle (Gause's law), experimental population ecology, The Struggle for Existence, antibiotic discovery."
 ---
@@ -55,4 +55,4 @@ Gause did not develop his ecological work into a sustained research programme. T
 
 ---
 
-See also: [Hutchinson](/positioning/persons/h/hutchinson/) · [MacArthur](/positioning/persons/m/macarthur/) · [Darwin](/positioning/persons/d/darwin/)
+See also: [Hutchinson](/positioning/persons/h/hutchinson/) · [MacArthur](/positioning/persons/m/macarthur/) · [Darwin](/positioning/persons/d/darwin/) · [Darwinism](/positioning/subjects/d/darwinism/)

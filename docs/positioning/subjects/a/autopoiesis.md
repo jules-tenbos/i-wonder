@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-11
+lastmod: 2026-05-28
 title: "Autopoiesis"
 description: "Self-making systems, operational closure, and structural coupling — how autonomous entities interact without merging or determining each other."
 ---
@@ -48,7 +48,7 @@ Autopoiesis gives a precise account of how autonomous systems maintain themselve
 ## Key works
 
 - [*Autopoiesis and Cognition: The Realization of the Living*](https://en.wikipedia.org/wiki/Autopoiesis_and_Cognition) (Maturana and Varela, 1980) — the foundational statement
-- [*The Tree of Knowledge*](https://en.wikipedia.org/wiki/The_Tree_of_Knowledge_(book)) (Maturana and Varela, 1987) — accessible presentation for a broader audience
+- [*The Tree of Knowledge*](https://en.wikipedia.org/wiki/The_Tree_of_Knowledge_%28book%29) (Maturana and Varela, 1987) — accessible presentation for a broader audience
 - *The Embodied Mind* (Varela, Thompson and Rosch, 1991) — the enactivist extension
 - *Social Systems* (Luhmann, 1984/1995) — the sociological import
 
@@ -58,4 +58,4 @@ Autopoiesis gives a precise account of how autonomous systems maintain themselve
 
 [Maturana](/positioning/persons/m/maturana/) · [Varela](/positioning/persons/v/varela/) · [Luhmann](/positioning/persons/l/luhmann/) · [Bateson](/positioning/persons/b/bateson/)
 
-See also: [Interrelational Pluralism — structural trajectory](/positioning/seed/interrelational-pluralism/) · [Pluralism](/positioning/close-affinity/pluralism/)
+See also: [Complex Adaptive Systems](/positioning/subjects/c/complex-adaptive-systems/) · [Process Philosophy](/positioning/subjects/p/process-philosophy/) · [Interrelational Pluralism — structural trajectory](/positioning/seed/interrelational-pluralism/) · [Pluralism](/positioning/close-affinity/pluralism/)

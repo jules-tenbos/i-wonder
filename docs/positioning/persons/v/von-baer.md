@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-27
+lastmod: 2026-05-28
 title: "Karl Ernst von Baer (1792–1876)"
 description: "Baltic German embryologist and naturalist — von Baer's laws of embryology, the discovery of the mammalian ovum, shared developmental patterns as evidence for common descent."
 ---
@@ -58,4 +58,4 @@ Von Baer's late-career shift from embryology to geography and anthropology refle
 
 ---
 
-See also: [Darwin](/positioning/persons/d/darwin/) · [Mendel](/positioning/persons/m/mendel/) · [Mayr](/positioning/persons/m/mayr/)
+See also: [Darwin](/positioning/persons/d/darwin/) · [Mendel](/positioning/persons/m/mendel/) · [Mayr](/positioning/persons/m/mayr/) · [Darwinism](/positioning/subjects/d/darwinism/)

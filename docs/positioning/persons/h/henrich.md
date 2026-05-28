@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-27
+lastmod: 2026-05-28
 title: "Joseph Henrich (1968–)"
 description: "Canadian-American anthropologist — cumulative culture, the WEIRDest people, cultural evolution applied to human cognition, gene-culture coevolution."
 ---
@@ -58,4 +58,4 @@ The cross-cultural experimental programme, while more extensive than any predece
 
 ---
 
-See also: [Boyd](/positioning/persons/b/boyd/) · [Richerson](/positioning/persons/r/richerson/) · [Pinker](/positioning/persons/p/pinker/)
+See also: [Boyd](/positioning/persons/b/boyd/) · [Richerson](/positioning/persons/r/richerson/) · [Pinker](/positioning/persons/p/pinker/) · [Darwinism](/positioning/subjects/d/darwinism/)

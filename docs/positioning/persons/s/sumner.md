@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-27
+lastmod: 2026-05-28
 title: "William Graham Sumner (1840–1910)"
 description: "American sociologist and political economist — Social Darwinism in its American form, laissez-faire, What Social Classes Owe to Each Other, Folkways."
 ---
@@ -61,4 +61,4 @@ The historical reputation is shaped by Hofstadter's framing, which placed Sumner
 
 ---
 
-See also: [Spencer](/positioning/persons/s/spencer/) · [Hofstadter](/positioning/persons/h/hofstadter/) · [Galton](/positioning/persons/g/galton/)
+See also: [Spencer](/positioning/persons/s/spencer/) · [Hofstadter](/positioning/persons/h/hofstadter/) · [Galton](/positioning/persons/g/galton/) · [Darwinism](/positioning/subjects/d/darwinism/)

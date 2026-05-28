@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-27
+lastmod: 2026-05-28
 title: "Dan Sperber (1942–)"
 description: "French cognitive scientist and anthropologist — the epidemiology of representations, relevance theory, the critique of memetics, cultural attraction."
 ---
@@ -61,4 +61,4 @@ Sperber's defence of massive modularity places him in an unusual position: he sh
 
 ---
 
-See also: [Dawkins](/positioning/persons/d/dawkins/) · [Hull](/positioning/persons/h/hull/) · [Fodor](/positioning/persons/f/fodor/)
+See also: [Dawkins](/positioning/persons/d/dawkins/) · [Hull](/positioning/persons/h/hull/) · [Fodor](/positioning/persons/f/fodor/) · [Darwinism](/positioning/subjects/d/darwinism/)

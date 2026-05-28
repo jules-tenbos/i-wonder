@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-27
+lastmod: 2026-05-28
 title: "Rudolf Carnap (1891–1970)"
 description: "German-American philosopher — logical empiricism, the logical construction of the world, verificationism, the Aufbau, the linguistic turn, probability and induction."
 ---
@@ -78,4 +78,4 @@ The tolerance principle anticipated later developments in philosophy of science 
 
 ---
 
-See also: [Mach](/positioning/persons/m/mach/) · [Reichenbach](/positioning/persons/r/reichenbach/) · [Frege](/positioning/persons/f/frege/) · [Russell](/positioning/persons/r/russell/) · [Popper](/positioning/persons/p/popper/)
+See also: [Mach](/positioning/persons/m/mach/) · [Reichenbach](/positioning/persons/r/reichenbach/) · [Frege](/positioning/persons/f/frege/) · [Russell](/positioning/persons/r/russell/) · [Popper](/positioning/persons/p/popper/) · [Philosophy of science](/positioning/subjects/p/philosophy-of-science/)

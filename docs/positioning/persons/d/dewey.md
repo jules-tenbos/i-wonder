@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-15
+lastmod: 2026-05-28
 title: "John Dewey (1859–1952)"
 description: "Dewey brought pragmatism into the social — inquiry as community problem-solving, experience as transaction, democracy as a way of life."
 ---
@@ -45,4 +45,4 @@ Dewey brought pragmatism into the social and the democratic, but he stayed at th
 
 ---
 
-See also: [Pragmatism](/positioning/subjects/p/pragmatism/) · [Peirce](/positioning/persons/p/peirce/) · [James](/positioning/persons/j/james/) · [Rorty](/positioning/persons/r/rorty/)
+See also: [Pragmatism](/positioning/subjects/p/pragmatism/) · [Peirce](/positioning/persons/p/peirce/) · [James](/positioning/persons/j/james/) · [Rorty](/positioning/persons/r/rorty/) · [Process philosophy](/positioning/subjects/p/process-philosophy/)

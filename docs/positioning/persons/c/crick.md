@@ -81,4 +81,4 @@ The consciousness programme identified plausible neural correlates but did not s
 
 ---
 
-See also: [Schrödinger](/positioning/persons/s/schrodinger/) · [Morgan](/positioning/persons/m/morgan/) · [Mendel](/positioning/persons/m/mendel/)
+See also: [Schrödinger](/positioning/persons/s/schrodinger/) · [Morgan](/positioning/persons/m/morgan/) · [Mendel](/positioning/persons/m/mendel/) · [Darwinism](/positioning/subjects/d/darwinism/)

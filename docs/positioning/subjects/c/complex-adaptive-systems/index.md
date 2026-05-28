@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-25
+lastmod: 2026-05-28
 title: "Complex Adaptive Systems"
 description: "Complex adaptive systems as a research tradition — formation at Santa Fe Institute, core concepts, key persons, methodologies, applications, contested receptions, adjacent traditions."
 ---
@@ -28,3 +28,5 @@ CAS vocabulary has been taken up across economics, biology, ecology, artificial 
 - [Applications](/positioning/subjects/c/complex-adaptive-systems/applications/) — economics, biology, artificial life, ecology, network science, organisational theory, climate and epidemiology.
 - [Contested receptions](/positioning/subjects/c/complex-adaptive-systems/contested-receptions/) — definitional disputes, Holland-Kauffman emphasis differences, the metaphor critique, management appropriation, the predictability debate.
 - [Adjacent traditions](/positioning/subjects/c/complex-adaptive-systems/adjacent-traditions/) — cybernetics, general systems theory, chaos and nonlinear dynamics, cellular automata, evolutionary theory.
+
+See also: [Autopoiesis](/positioning/subjects/a/autopoiesis/) · [Darwinism](/positioning/subjects/d/darwinism/) · [Assembly Theory](/positioning/subjects/a/assembly-theory/)

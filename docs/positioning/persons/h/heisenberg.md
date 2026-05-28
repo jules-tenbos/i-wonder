@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-27
+lastmod: 2026-05-28
 title: "Werner Heisenberg (1901–1976)"
 description: "German physicist — matrix mechanics, the uncertainty principle, the Copenhagen interpretation, nuclear physics, and the question of what quantum mechanics says about reality."
 ---
@@ -77,4 +77,4 @@ The wartime question — Heisenberg's role in the German nuclear programme — r
 
 ---
 
-See also: [Schrödinger](/positioning/persons/s/schrodinger/) · [Rovelli](/positioning/persons/r/rovelli/) · [Von Neumann](/positioning/persons/v/von-neumann/)
+See also: [Schrödinger](/positioning/persons/s/schrodinger/) · [Rovelli](/positioning/persons/r/rovelli/) · [Von Neumann](/positioning/persons/v/von-neumann/) · [Relational quantum mechanics](/positioning/subjects/r/relational-quantum-mechanics/)

@@ -68,4 +68,4 @@ The multilevel partition — decomposing selection into within-group and between
 
 ---
 
-See also: [Hamilton](/positioning/persons/h/hamilton/) · [Maynard Smith](/positioning/persons/m/maynard-smith/) · [Wilson (D.S.)](/positioning/persons/w/wilson-ds/) · [Sober](/positioning/persons/s/sober/)
+See also: [Hamilton](/positioning/persons/h/hamilton/) · [Maynard Smith](/positioning/persons/m/maynard-smith/) · [Wilson (D.S.)](/positioning/persons/w/wilson-ds/) · [Sober](/positioning/persons/s/sober/) · [Darwinism](/positioning/subjects/d/darwinism/)

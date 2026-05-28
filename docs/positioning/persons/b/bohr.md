@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-27
+lastmod: 2026-05-28
 title: "Niels Bohr (1885–1962)"
 description: "Danish physicist — the Bohr model of the atom, complementarity, the Copenhagen interpretation, the atomic-bomb project, and the philosophical implications of quantum mechanics."
 ---
@@ -75,4 +75,4 @@ The Bohr-Einstein debate fixed the terms in which the interpretation of quantum 
 
 ---
 
-See also: [Heisenberg](/positioning/persons/h/heisenberg/) · [Einstein](/positioning/persons/e/einstein/) · [Albert](/positioning/persons/a/albert/) · [Rovelli](/positioning/persons/r/rovelli/)
+See also: [Heisenberg](/positioning/persons/h/heisenberg/) · [Einstein](/positioning/persons/e/einstein/) · [Albert](/positioning/persons/a/albert/) · [Rovelli](/positioning/persons/r/rovelli/) · [Relational quantum mechanics](/positioning/subjects/r/relational-quantum-mechanics/)

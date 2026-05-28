@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-15
+lastmod: 2026-05-28
 title: "Charles Sanders Peirce (1839–1914)"
 description: "Peirce founded pragmatism and semiotics — meaning as practical consequence, truth as convergence of inquiry, signs as triadic."
 ---
@@ -47,4 +47,4 @@ Peirce built the most rigorous version of pragmatism — but rigour came at the 
 
 ---
 
-See also: [Pragmatism](/positioning/subjects/p/pragmatism/) · [James](/positioning/persons/j/james/) · [Dewey](/positioning/persons/d/dewey/) · [Brandom](/positioning/persons/b/brandom/)
+See also: [Pragmatism](/positioning/subjects/p/pragmatism/) · [James](/positioning/persons/j/james/) · [Dewey](/positioning/persons/d/dewey/) · [Brandom](/positioning/persons/b/brandom/) · [Process philosophy](/positioning/subjects/p/process-philosophy/)

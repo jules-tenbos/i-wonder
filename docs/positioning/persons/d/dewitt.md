@@ -64,4 +64,4 @@ DeWitt's role as the reviver and namer of many-worlds raises a question about th
 
 ---
 
-See also: [Everett](/positioning/persons/e/everett/) · [Wheeler (John Archibald)](/positioning/persons/w/wheeler/) · [Deutsch](/positioning/persons/d/deutsch/) · [Rovelli](/positioning/persons/r/rovelli/)
+See also: [Everett](/positioning/persons/e/everett/) · [Wheeler (John Archibald)](/positioning/persons/w/wheeler/) · [Deutsch](/positioning/persons/d/deutsch/) · [Rovelli](/positioning/persons/r/rovelli/) · [Relational quantum mechanics](/positioning/subjects/r/relational-quantum-mechanics/)

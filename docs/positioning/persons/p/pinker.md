@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-27
+lastmod: 2026-05-28
 title: "Steven Pinker (1954–)"
 description: "Canadian-American cognitive scientist — evolutionary psychology, language as instinct, the blank slate debate, the decline of violence, Enlightenment rationalism."
 ---
@@ -61,4 +61,4 @@ The Enlightenment advocacy of the later books has been pressed on its historiogr
 
 ---
 
-See also: [Dawkins](/positioning/persons/d/dawkins/) · [Lewontin](/positioning/persons/l/lewontin/) · [Dennett](/positioning/persons/d/dennett/)
+See also: [Dawkins](/positioning/persons/d/dawkins/) · [Lewontin](/positioning/persons/l/lewontin/) · [Dennett](/positioning/persons/d/dennett/) · [Darwinism](/positioning/subjects/d/darwinism/)

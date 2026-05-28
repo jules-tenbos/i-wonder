@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-26
+lastmod: 2026-05-28
 title: "Heraclitus (c. 535–c. 475 BCE)"
 description: "Heraclitus saw flux and constancy as inseparable — the river stays the same because the water flows. The logos holds."
 ---
@@ -47,4 +47,4 @@ The fragments point at the pattern but do not develop a systematic account of ho
 
 ---
 
-See also: [Hegel](/positioning/persons/h/hegel/) · [Heidegger](/positioning/persons/h/heidegger/) · [Bergson](/positioning/persons/b/bergson/) · [Whitehead](/positioning/persons/w/whitehead/)
+See also: [Hegel](/positioning/persons/h/hegel/) · [Heidegger](/positioning/persons/h/heidegger/) · [Bergson](/positioning/persons/b/bergson/) · [Whitehead](/positioning/persons/w/whitehead/) · [Process philosophy](/positioning/subjects/p/process-philosophy/)

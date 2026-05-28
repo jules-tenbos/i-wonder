@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-27
+lastmod: 2026-05-28
 title: "Gerald Edelman (1929–2014)"
 description: "American biologist — Neural Darwinism, the theory of neuronal group selection, reentrant signalling, the immunological Nobel, the biological basis of consciousness."
 ---
@@ -55,4 +55,4 @@ The immune-system analogy that grounds the entire programme is productive but ha
 
 ---
 
-See also: [Darwin](/positioning/persons/d/darwin/) · [Kauffman](/positioning/persons/k/kauffman/) · [Holland](/positioning/persons/h/holland/)
+See also: [Darwin](/positioning/persons/d/darwin/) · [Kauffman](/positioning/persons/k/kauffman/) · [Holland](/positioning/persons/h/holland/) · [Complex Adaptive Systems](/positioning/subjects/c/complex-adaptive-systems/) · [Autopoiesis](/positioning/subjects/a/autopoiesis/) · [Darwinism](/positioning/subjects/d/darwinism/)

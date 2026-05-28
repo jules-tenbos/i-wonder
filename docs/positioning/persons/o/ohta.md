@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-27
+lastmod: 2026-05-28
 title: "Tomoko Ohta (1933–)"
 description: "Japanese population geneticist — the nearly neutral theory of molecular evolution, slightly deleterious mutations, the interaction of drift and weak selection."
 ---
@@ -54,4 +54,4 @@ The interaction between effective population size and the efficacy of selection 
 
 ---
 
-See also: [Kimura](/positioning/persons/k/kimura/) · [Wright](/positioning/persons/w/wright/) · [Fisher](/positioning/persons/f/fisher/)
+See also: [Kimura](/positioning/persons/k/kimura/) · [Wright](/positioning/persons/w/wright/) · [Fisher](/positioning/persons/f/fisher/) · [Darwinism](/positioning/subjects/d/darwinism/)

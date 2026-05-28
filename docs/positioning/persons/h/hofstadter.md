@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-27
+lastmod: 2026-05-28
 title: "Richard Hofstadter (1916–1970)"
 description: "American historian — Social Darwinism in American Thought, the paranoid style, anti-intellectualism, the consensus school of American historiography."
 ---
@@ -63,4 +63,4 @@ The "status anxiety" and "paranoid style" analyses have been criticised as conde
 
 ---
 
-See also: [Spencer](/positioning/persons/s/spencer/) · [Darwin](/positioning/persons/d/darwin/) · [Galton](/positioning/persons/g/galton/)
+See also: [Spencer](/positioning/persons/s/spencer/) · [Darwin](/positioning/persons/d/darwin/) · [Galton](/positioning/persons/g/galton/) · [Darwinism](/positioning/subjects/d/darwinism/)

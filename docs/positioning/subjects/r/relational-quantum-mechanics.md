@@ -1,7 +1,8 @@
 ---
 layout: default
-lastmod: 2026-05-04
+lastmod: 2026-05-28
 title: "Relational quantum mechanics"
+description: "Properties through interaction, no absolute state — Rovelli's interpretation where the quantum state of a system is always relative to another physical system."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > Relational quantum mechanics
@@ -93,4 +94,4 @@ RQM is at a crossroads (Calosi and Riedel, 2024 — *Foundations of Physics* spe
 
 [Rovelli](/positioning/persons/r/rovelli/)
 
-See also: [The Turn in Science](/positioning/seed/the-turn-in-science/)
+See also: [Philosophy of Science](/positioning/subjects/p/philosophy-of-science/) · [The Turn in Science](/positioning/seed/the-turn-in-science/)

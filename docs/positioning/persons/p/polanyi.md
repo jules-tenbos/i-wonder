@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-15
+lastmod: 2026-05-28
 title: "Michael Polanyi (1891–1976)"
 description: "Polanyi showed that all knowledge rests on what cannot be fully articulated — tacit knowing, indwelling, the knower as participant not observer."
 ---
@@ -46,4 +46,4 @@ Polanyi showed that knowing is personal, tacit, embodied — but he kept the kno
 
 ---
 
-See also: [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) · [Ostrom](/positioning/persons/o/ostrom/) · [Gadamer](/positioning/persons/g/gadamer/)
+See also: [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) · [Ostrom](/positioning/persons/o/ostrom/) · [Gadamer](/positioning/persons/g/gadamer/) · [Philosophy of science](/positioning/subjects/p/philosophy-of-science/)

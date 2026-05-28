@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-15
+lastmod: 2026-05-28
 title: "Gregory Bateson (1904–1980)"
 description: "Bateson placed mind in the pattern, not in the head — differences propagating through circuits, connecting crab to lobster to primrose to us."
 ---
@@ -44,4 +44,4 @@ Bateson gives the grammar of connection — pattern, difference, circuit — but
 
 ---
 
-See also: [Autopoiesis](/positioning/subjects/a/autopoiesis/) · [Maturana](/positioning/persons/m/maturana/) · [Varela](/positioning/persons/v/varela/) · [Luhmann](/positioning/persons/l/luhmann/)
+See also: [Autopoiesis](/positioning/subjects/a/autopoiesis/) · [Maturana](/positioning/persons/m/maturana/) · [Varela](/positioning/persons/v/varela/) · [Luhmann](/positioning/persons/l/luhmann/) · [Complex Adaptive Systems](/positioning/subjects/c/complex-adaptive-systems/)

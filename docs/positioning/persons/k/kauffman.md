@@ -2,7 +2,7 @@
 layout: default
 title: "Stuart Kauffman (1939–)"
 description: "American theoretical biologist — self-organisation and 'order for free', autocatalytic sets, NK fitness landscapes, and the adjacent possible."
-lastmod: 2026-05-15
+lastmod: 2026-05-28
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Kauffman
@@ -73,4 +73,4 @@ Kauffman's programme describes the conditions under which order arises spontaneo
 
 ---
 
-See also: [Solé](/positioning/persons/s/sole/) · [Mutualism](/positioning/subjects/m/mutualism/) · [Maturana](/positioning/persons/m/maturana/)
+See also: [Solé](/positioning/persons/s/sole/) · [Mutualism](/positioning/subjects/m/mutualism/) · [Maturana](/positioning/persons/m/maturana/) · [Complex Adaptive Systems](/positioning/subjects/c/complex-adaptive-systems/) · [Assembly Theory](/positioning/subjects/a/assembly-theory/)

@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-26
+lastmod: 2026-05-28
 title: "Robert Hazen (1948–)"
 description: "American mineralogist and astrobiologist — mineral evolution, the evolutionary system of mineralogy, mineral ecology, and the mineral counterexample critique of assembly theory."
 ---
@@ -72,4 +72,4 @@ Hazen's programme stays with the geological and mineralogical layer. Mineral evo
 
 ---
 
-See also: [Assembly theory](/positioning/subjects/a/assembly-theory/) · [Cronin](/positioning/persons/c/cronin/) · [Walker](/positioning/persons/w/walker/)
+See also: [Assembly theory](/positioning/subjects/a/assembly-theory/) · [Cronin](/positioning/persons/c/cronin/) · [Walker](/positioning/persons/w/walker/) · [Mineral Evolution](/positioning/subjects/m/mineral-evolution/)

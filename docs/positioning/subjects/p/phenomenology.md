@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-06
+lastmod: 2026-05-28
 title: "Phenomenology"
 description: "The study of experience from the inside — how the world shows up for a subject. From Husserl's foundations through Heidegger, Merleau-Ponty and Jonas."
 ---
@@ -47,4 +47,4 @@ Phenomenology starts from the subject — and largely stays there. Even at its m
 
 [Husserl](/positioning/persons/h/husserl/) · [Heidegger](/positioning/persons/h/heidegger/) · [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) · [Sartre](/positioning/persons/s/sartre/) · [Jonas](/positioning/persons/j/jonas/)
 
-See also: [The seed and Philosophy](/seed/philosophical/) · [The seed and Historicity](/seed/historicity/) · [The Turn in Western Philosophy](/positioning/seed/the-turn-in-western-philosophy/)
+See also: [Process Philosophy](/positioning/subjects/p/process-philosophy/) · [Pragmatism](/positioning/subjects/p/pragmatism/) · [The seed and Philosophy](/seed/philosophical/) · [The seed and Historicity](/seed/historicity/) · [The Turn in Western Philosophy](/positioning/seed/the-turn-in-western-philosophy/)

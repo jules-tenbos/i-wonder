@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-14
+lastmod: 2026-05-28
 title: "Domain-Specific Languages (DSL)"
 description: "A domain-specific language is a programming or notation language designed for a particular problem area rather than for general-purpose use — SQL for databases, CSS for layout, regular expressions for pattern matching."
 ---
@@ -43,3 +43,5 @@ A non-exhaustive selection across domains:
 - Fowler, M. (2010). *[Domain-Specific Languages](https://martinfowler.com/dsl.html)*. Addison-Wesley.
 - Mernik, M., Heering, J., & Sloane, A. M. (2005). [When and how to develop domain-specific languages](https://doi.org/10.1145/1118890.1118892). *ACM Computing Surveys*, 37(4), 316–344.
 - Iverson, K. E. (1980). [Notation as a tool of thought](https://www.jsoftware.com/papers/tot.htm). *Communications of the ACM*, 23(8), 444–465.
+
+See also: [Category Theory](/positioning/subjects/c/ct/)

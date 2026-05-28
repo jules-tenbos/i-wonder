@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-15
+lastmod: 2026-05-28
 title: "William James (1842–1910)"
 description: "James made pragmatism public — truth is what works, experience is a stream, and the test of a philosophy is how it helps us live."
 ---
@@ -45,4 +45,4 @@ James kept pragmatism personal. Truth is what works *for me*, what helps *me* li
 
 ---
 
-See also: [Pragmatism](/positioning/subjects/p/pragmatism/) · [Peirce](/positioning/persons/p/peirce/) · [Dewey](/positioning/persons/d/dewey/) · [Connolly](/positioning/persons/c/connolly/)
+See also: [Pragmatism](/positioning/subjects/p/pragmatism/) · [Peirce](/positioning/persons/p/peirce/) · [Dewey](/positioning/persons/d/dewey/) · [Connolly](/positioning/persons/c/connolly/) · [Process philosophy](/positioning/subjects/p/process-philosophy/)

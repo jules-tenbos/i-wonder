@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-27
+lastmod: 2026-05-28
 title: "James Lovelock (1919–2022)"
 description: "British independent scientist — the Gaia hypothesis, Earth system science, the electron capture detector, atmospheric chemistry, planetary self-regulation."
 ---
@@ -56,4 +56,4 @@ Lovelock's later career included increasingly alarming public statements about c
 
 ---
 
-See also: [Margulis](/positioning/persons/m/margulis/) · [Dawkins](/positioning/persons/d/dawkins/) · [Doolittle](/positioning/persons/d/doolittle/)
+See also: [Margulis](/positioning/persons/m/margulis/) · [Dawkins](/positioning/persons/d/dawkins/) · [Doolittle](/positioning/persons/d/doolittle/) · [Complex Adaptive Systems](/positioning/subjects/c/complex-adaptive-systems/)

@@ -65,4 +65,4 @@ Constructor theory is ambitious but early-stage. The framework has produced resu
 
 ---
 
-See also: [Everett](/positioning/persons/e/everett/) · [DeWitt](/positioning/persons/d/dewitt/) · [Turing](/positioning/persons/t/turing/) · [Bell](/positioning/persons/b/bell/) · [Bennett](/positioning/persons/b/bennett/)
+See also: [Everett](/positioning/persons/e/everett/) · [DeWitt](/positioning/persons/d/dewitt/) · [Turing](/positioning/persons/t/turing/) · [Bell](/positioning/persons/b/bell/) · [Bennett](/positioning/persons/b/bennett/) · [Relational quantum mechanics](/positioning/subjects/r/relational-quantum-mechanics/)

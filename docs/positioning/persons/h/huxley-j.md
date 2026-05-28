@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-27
+lastmod: 2026-05-28
 title: "Julian Huxley (1887–1975)"
 description: "British biologist — coined 'the Modern Synthesis', first Director-General of UNESCO, ethology, allometry, clines, eugenics."
 ---
@@ -76,4 +76,4 @@ The eugenics advocacy remains the most contested element. Huxley's "reform eugen
 
 ---
 
-See also: [Huxley (T.H.)](/positioning/persons/h/huxley/) · [Dobzhansky](/positioning/persons/d/dobzhansky/) · [Mayr](/positioning/persons/m/mayr/)
+See also: [Huxley (T.H.)](/positioning/persons/h/huxley/) · [Dobzhansky](/positioning/persons/d/dobzhansky/) · [Mayr](/positioning/persons/m/mayr/) · [Darwinism](/positioning/subjects/d/darwinism/)

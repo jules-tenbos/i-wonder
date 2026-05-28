@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-26
+lastmod: 2026-05-28
 title: "Assembly Theory"
 description: "Assembly theory quantifies an object's complexity through its construction history — the minimum number of joining operations required to build it — and extends this into a metaphysical claim about time as a material property of objects. Developed by Lee Cronin and Sara Imari Walker from 2017 onward."
 ---
@@ -35,4 +35,4 @@ The theory is a recent proposal under active and unresolved debate. Its receptio
 
 ---
 
-See also: [Complex Adaptive Systems](/positioning/subjects/c/complex-adaptive-systems/) · [Autopoiesis](/positioning/subjects/a/autopoiesis/) · [Kauffman](/positioning/persons/k/kauffman/)
+See also: [Complex Adaptive Systems](/positioning/subjects/c/complex-adaptive-systems/) · [Mineral Evolution](/positioning/subjects/m/mineral-evolution/) · [Autopoiesis](/positioning/subjects/a/autopoiesis/) · [Kauffman](/positioning/persons/k/kauffman/)

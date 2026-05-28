@@ -2,7 +2,7 @@
 layout: default
 title: "Herbert Spencer (1820–1903)"
 description: "English polymath who built a synthetic philosophy around evolution as a universal principle — enormous fame in his lifetime, near-total eclipse after his death."
-lastmod: 2026-05-15
+lastmod: 2026-05-28
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Spencer
@@ -57,4 +57,4 @@ Spencer treated evolution as inherently progressive and directional — heteroge
 
 ---
 
-See also: [Darwin](/positioning/persons/d/darwin/) · [Malthus](/positioning/persons/m/malthus/) · [Mutualism](/positioning/subjects/m/mutualism/) · [Philosophy of science](/positioning/subjects/p/philosophy-of-science/)
+See also: [Darwin](/positioning/persons/d/darwin/) · [Malthus](/positioning/persons/m/malthus/) · [Mutualism](/positioning/subjects/m/mutualism/) · [Philosophy of science](/positioning/subjects/p/philosophy-of-science/) · [Darwinism](/positioning/subjects/d/darwinism/)

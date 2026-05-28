@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-27
+lastmod: 2026-05-28
 title: "Thomas Hunt Morgan (1866–1945)"
 description: "American geneticist — the chromosome theory of heredity, Drosophila genetics, sex-linked inheritance, chromosome mapping, the fly room, Nobel Prize 1933."
 ---
@@ -69,4 +69,4 @@ Morgan's personal credit for the Columbia school's results has been debated. Stu
 
 ---
 
-See also: [Mendel](/positioning/persons/m/mendel/) · [Bateson (William)](/positioning/persons/b/bateson-w/) · [Dobzhansky](/positioning/persons/d/dobzhansky/) · [Fisher](/positioning/persons/f/fisher/)
+See also: [Mendel](/positioning/persons/m/mendel/) · [Bateson (William)](/positioning/persons/b/bateson-w/) · [Dobzhansky](/positioning/persons/d/dobzhansky/) · [Fisher](/positioning/persons/f/fisher/) · [Darwinism](/positioning/subjects/d/darwinism/)

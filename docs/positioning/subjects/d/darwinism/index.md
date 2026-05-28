@@ -2,7 +2,7 @@
 layout: default
 title: "Darwinism"
 description: "Darwinism as a subject area — Darwin's theory of evolution by natural selection, its integration with genetics, its extensions and disputes, and the traditions that bear its name."
-lastmod: 2026-05-16
+lastmod: 2026-05-28
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > Darwinism
@@ -22,4 +22,4 @@ Darwinism names the body of theory originating with [Charles Darwin](/positionin
 
 ---
 
-See also: [Darwin](/positioning/persons/d/darwin/) · [Wallace](/positioning/persons/w/wallace/) · [Spencer](/positioning/persons/s/spencer/)
+See also: [Complex Adaptive Systems](/positioning/subjects/c/complex-adaptive-systems/) · [Mutualism](/positioning/subjects/m/mutualism/) · [Philosophy of Science](/positioning/subjects/p/philosophy-of-science/) · [Darwin](/positioning/persons/d/darwin/) · [Wallace](/positioning/persons/w/wallace/) · [Spencer](/positioning/persons/s/spencer/)

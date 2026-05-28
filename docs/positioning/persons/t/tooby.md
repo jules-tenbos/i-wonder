@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-27
+lastmod: 2026-05-28
 title: "John Tooby (1952–2023)"
 description: "American evolutionary psychologist — the adapted mind, the environment of evolutionary adaptedness, the critique of the Standard Social Science Model, the theoretical foundations of evolutionary psychology."
 ---
@@ -50,4 +50,4 @@ The massive-modularity thesis — the mind as a collection of domain-specific mo
 
 ---
 
-See also: [Cosmides](/positioning/persons/c/cosmides/) · [Pinker](/positioning/persons/p/pinker/) · [Sperber](/positioning/persons/s/sperber/)
+See also: [Cosmides](/positioning/persons/c/cosmides/) · [Pinker](/positioning/persons/p/pinker/) · [Sperber](/positioning/persons/s/sperber/) · [Darwinism](/positioning/subjects/d/darwinism/)

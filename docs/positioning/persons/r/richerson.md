@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-27
+lastmod: 2026-05-28
 title: "Peter Richerson (1943–)"
 description: "American evolutionary biologist — dual-inheritance theory (with Boyd), gene-culture coevolution, the ecological basis of cultural evolution."
 ---
@@ -50,4 +50,4 @@ Richerson's emphasis on ecological context distinguishes his approach from more 
 
 ---
 
-See also: [Boyd](/positioning/persons/b/boyd/) · [Dawkins](/positioning/persons/d/dawkins/) · [Sperber](/positioning/persons/s/sperber/)
+See also: [Boyd](/positioning/persons/b/boyd/) · [Dawkins](/positioning/persons/d/dawkins/) · [Sperber](/positioning/persons/s/sperber/) · [Darwinism](/positioning/subjects/d/darwinism/)

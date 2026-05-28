@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-27
+lastmod: 2026-05-28
 title: "David Sloan Wilson (1949–)"
 description: "American evolutionary biologist — multilevel selection theory, the revival of group selection, Unto Others (with Sober), prosociality, the evolution of religion."
 ---
@@ -65,4 +65,4 @@ Wilson's applied work — the Evolution Institute, the Prosocial project — rep
 
 ---
 
-See also: [Sober](/positioning/persons/s/sober/) · [Williams](/positioning/persons/w/williams/) · [Hamilton](/positioning/persons/h/hamilton/) · [Ostrom](/positioning/persons/o/ostrom/)
+See also: [Sober](/positioning/persons/s/sober/) · [Williams](/positioning/persons/w/williams/) · [Hamilton](/positioning/persons/h/hamilton/) · [Ostrom](/positioning/persons/o/ostrom/) · [Darwinism](/positioning/subjects/d/darwinism/)

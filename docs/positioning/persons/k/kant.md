@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-15
+lastmod: 2026-05-28
 title: "Immanuel Kant (1724–1804)"
 description: "Kant asked how the mind structures experience — the question that defined the turn, even as the outside view survived it."
 ---
@@ -44,4 +44,4 @@ Kant saved the outside view. The thing-in-itself persists — unknowable, but st
 
 ---
 
-See also: [Hegel](/positioning/persons/h/hegel/) · [Hume](/positioning/persons/h/hume/) · [Fichte](/positioning/persons/f/fichte/) · [Sellars](/positioning/persons/s/sellars/)
+See also: [Hegel](/positioning/persons/h/hegel/) · [Hume](/positioning/persons/h/hume/) · [Fichte](/positioning/persons/f/fichte/) · [Sellars](/positioning/persons/s/sellars/) · [German idealism](/positioning/subjects/g/german-idealism/)

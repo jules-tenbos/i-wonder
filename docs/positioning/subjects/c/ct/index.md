@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-12
+lastmod: 2026-05-28
 title: "Category Theory"
 description: "The branch of mathematics that studies structure through relationships rather than through internal composition — objects known entirely by their arrows."
 ---

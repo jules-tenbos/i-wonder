@@ -2,7 +2,7 @@
 layout: default
 title: "Thomas Henry Huxley (1825–1895)"
 description: "Victorian biologist, public defender of Darwinian evolution, coiner of 'agnostic' — comparative anatomist, education reformer, and author of Evolution and Ethics."
-lastmod: 2026-05-15
+lastmod: 2026-05-28
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Huxley
@@ -76,4 +76,4 @@ Huxley was a polemicist as much as a scientist — the public defence of Darwini
 
 ---
 
-See also: [Darwin](/positioning/persons/d/darwin/) · [Spencer](/positioning/persons/s/spencer/) · [Hume](/positioning/persons/h/hume/) · [Kant](/positioning/persons/k/kant/) · [Philosophy of science](/positioning/subjects/p/philosophy-of-science/)
+See also: [Darwin](/positioning/persons/d/darwin/) · [Spencer](/positioning/persons/s/spencer/) · [Hume](/positioning/persons/h/hume/) · [Kant](/positioning/persons/k/kant/) · [Philosophy of science](/positioning/subjects/p/philosophy-of-science/) · [Mutualism](/positioning/subjects/m/mutualism/)

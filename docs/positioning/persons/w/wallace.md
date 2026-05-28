@@ -2,7 +2,7 @@
 layout: default
 title: "Alfred Russel Wallace (1823–1913)"
 description: "British naturalist — co-discoverer of natural selection, founder of biogeography, the Wallace Line, and a public voice on land reform, spiritualism, and the limits of selection."
-lastmod: 2026-05-15
+lastmod: 2026-05-28
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Wallace
@@ -65,4 +65,4 @@ Wallace's contribution to natural selection was real and independent — but his
 
 ---
 
-See also: [Darwin](/positioning/persons/d/darwin/) · [Huxley](/positioning/persons/h/huxley/) · [Kropotkin](/positioning/persons/k/kropotkin/)
+See also: [Darwin](/positioning/persons/d/darwin/) · [Huxley](/positioning/persons/h/huxley/) · [Kropotkin](/positioning/persons/k/kropotkin/) · [Darwinism](/positioning/subjects/d/darwinism/)

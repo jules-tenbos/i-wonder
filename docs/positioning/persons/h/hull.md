@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-27
+lastmod: 2026-05-28
 title: "David Hull (1935–2010)"
 description: "American philosopher of biology — Science as a Process, the replicator-interactor framework, selection theory applied to science, the species-as-individuals thesis."
 ---
@@ -62,4 +62,4 @@ The species-as-individuals thesis is widely accepted but has consequences Hull d
 
 ---
 
-See also: [Dawkins](/positioning/persons/d/dawkins/) · [Sober](/positioning/persons/s/sober/) · [Kuhn](/positioning/persons/k/kuhn/)
+See also: [Dawkins](/positioning/persons/d/dawkins/) · [Sober](/positioning/persons/s/sober/) · [Kuhn](/positioning/persons/k/kuhn/) · [Darwinism](/positioning/subjects/d/darwinism/)
