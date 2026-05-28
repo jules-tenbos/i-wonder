@@ -25,7 +25,7 @@ Oakeshott published sparingly relative to his influence. *Experience and Its Mod
 
 ## Modes of experience
 
-*Experience and Its Modes* (1933) — written under the influence of [F. H. Bradley](https://en.wikipedia.org/wiki/F._H._Bradley) and British idealism — argues that experience is a whole but that human understanding always operates within a particular mode of abstraction. Oakeshott identifies three modes: history, science, and practice. Each is a self-contained way of engaging with experience, with its own internal coherence and its own criteria of relevance.
+*Experience and Its Modes* (1933) — written under the influence of [F. H. Bradley](/positioning/persons/b/bradley/) and British idealism — argues that experience is a whole but that human understanding always operates within a particular mode of abstraction. Oakeshott identifies three modes: history, science, and practice. Each is a self-contained way of engaging with experience, with its own internal coherence and its own criteria of relevance.
 
 History understands the past as past — it seeks to understand what happened on its own terms, not as a source of lessons or predictions. Science seeks to formulate general laws — it abstracts from the particular to the universal. Practice engages the world as something to be changed — it is concerned with what ought to be done.
 

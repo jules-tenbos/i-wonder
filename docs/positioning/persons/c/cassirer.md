@@ -15,7 +15,7 @@ Cassirer argued that the human mind does not encounter reality directly; it cons
 
 ## Life
 
-Born 28 July 1874 in Breslau, German Empire (now Wrocław, Poland), into a prosperous Jewish family. Studied at the universities of Berlin, Leipzig, Heidelberg, and Marburg. At Marburg he worked under [Hermann Cohen](https://en.wikipedia.org/wiki/Hermann_Cohen), the founder of the Marburg school of neo-Kantianism — the tradition that read Kant not as setting limits to knowledge but as revealing the constitutive role of thought in the formation of experience. PhD at Marburg (1899).
+Born 28 July 1874 in Breslau, German Empire (now Wrocław, Poland), into a prosperous Jewish family. Studied at the universities of Berlin, Leipzig, Heidelberg, and Marburg. At Marburg he worked under [Hermann Cohen](/positioning/persons/c/cohen/), the founder of the Marburg school of neo-Kantianism — the tradition that read Kant not as setting limits to knowledge but as revealing the constitutive role of thought in the formation of experience. PhD at Marburg (1899).
 
 Privatdozent at the University of Berlin (1906–19), where he produced the major study *Substance and Function* (1910) and the three-volume *The Problem of Knowledge* (1906–20), tracing the history of epistemology from the Renaissance through Kant. Appointed professor of philosophy at the newly founded University of Hamburg (1919), where he spent his most productive years. Elected rector of the University of Hamburg in 1929 — the first Jewish rector of a German university. The same year, he participated in the Davos disputation with [Heidegger](/positioning/persons/h/heidegger/).
 

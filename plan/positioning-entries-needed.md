@@ -4,14 +4,6 @@ Persons and subjects referenced on the site without their own entry. One list, d
 
 ## Persons
 
-### Surfaced from interrelational-pluralism reviews (2026-05-27)
-
-- Bradley, F. H. — British idealism; load-bearing for Oakeshott's Experience and Its Modes
-- Cohen, Hermann — founder of Marburg neo-Kantianism; Cassirer's teacher, foundational for the symbolic-forms framework
-- Śaṅkara — Advaita Vedānta, canonical Hindu critic of Mādhyamaka emptiness; non-Western coverage, interlocutor for Nāgārjuna
-- Candrakīrti — Prāsaṅgika Madhyamaka, Prasannapadā; most influential MMK commentator
-- Garfield, Jay — primary modern translator/commentator on Nāgārjuna; load-bearing for Western Madhyamaka reception
-
 ### Surfaced from physics/biology reviews (2026-05-27)
 
 - Faraday, Michael — experimental electromagnetism, the field concept; Maxwell's precursor, foundational independent of Maxwell page

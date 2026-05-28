@@ -37,13 +37,16 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Boltzmann, Ludwig (1844–1906)](b/boltzmann) · physicist<span class="kw">statistical mechanics, entropy, the H-theorem, the Boltzmann equation, the arrow of time</span>
 - [Born, Max (1882–1970)](b/born) · physicist<span class="kw">the probability interpretation of quantum mechanics (Born rule), matrix mechanics, lattice dynamics</span>
 - [Boyd, Robert (1948–)](b/boyd) · anthropologist<span class="kw">dual-inheritance theory (with Richerson), mathematical models of cultural evolution, transmission biases, cultural group selection</span>
+- [Bradley, F. H. (1846–1924)](b/bradley) · philosopher<span class="kw">absolute idealism, Appearance and Reality, the critique of relations, the Absolute, British idealism</span>
 - [Brandom, Robert (1950–)](b/brandom) · philosopher<span class="kw">inferentialism, deontic scorekeeping, commitment over representation, expressive rationality</span>
 
 ## C
 
 - [Carnap, Rudolf (1891–1970)](c/carnap) · philosopher<span class="kw">logical empiricism, the Aufbau, verificationism, the tolerance principle, probability and induction</span>
 - [Carroll, Sean (1966–)](c/carroll) · theoretical physicist<span class="kw">the arrow of time, the Past Hypothesis, many-worlds interpretation, the cosmological multiverse</span>
+- [Candrakīrti (c. 600–c. 650 CE)](c/candrakirti) · Buddhist philosopher<span class="kw">Prāsaṅgika Madhyamaka, the Prasannapadā, the Madhyamakāvatāra, reductio over independent argument</span>
 - [Cassirer, Ernst (1874–1945)](c/cassirer) · philosopher<span class="kw">the philosophy of symbolic forms, the animal symbolicum, neo-Kantianism, substance and function, the Davos debate</span>
+- [Cohen, Hermann (1842–1918)](c/cohen) · philosopher<span class="kw">Marburg neo-Kantianism, the logic of pure cognition, the productive role of thought, ethical socialism</span>
 - [Connolly, William E. (1938–)](c/connolly) · political theorist<span class="kw">deep pluralism, pluralisation, agonistic respect, politics of becoming, resonance machines</span>
 - [Cosmides, Leda (1957–)](c/cosmides) · cognitive psychologist<span class="kw">the adapted mind, cheater-detection experiments, social-contract theory, evolutionary psychology</span>
 - [Cronin, Lee (1973–)](c/cronin) · chemist<span class="kw">polyoxometalate chemistry, chemical robots, digitised chemistry, Chemify, assembly theory</span>
@@ -85,6 +88,7 @@ Individual thinkers referenced across the positioning section. Each page present
 ## G
 
 - [Gause, Georgy (1910–1986)](g/gause) · biologist<span class="kw">the competitive exclusion principle, experimental population ecology, The Struggle for Existence</span>
+- [Garfield, Jay (1955–)](g/garfield) · philosopher<span class="kw">Nāgārjuna translation and commentary, cross-cultural philosophy, Madhyamaka and Western philosophy</span>
 - [Gadamer, Hans-Georg (1900–2002)](g/gadamer) · philosopher<span class="kw">philosophical hermeneutics, prejudice, effective history, fusion of horizons</span>
 - [Galton, Francis (1822–1911)](g/galton) · polymath, statistician<span class="kw">eugenics, regression to the mean, correlation, the biometric programme, hereditary genius</span>
 - [Gell-Mann, Murray (1929–2019)](g/gell-mann) · physicist<span class="kw">quarks, the Eightfold Way, effective complexity, Santa Fe Institute co-founder</span>
@@ -200,6 +204,7 @@ Individual thinkers referenced across the positioning section. Each page present
 
 ## S
 
+- [Śaṅkara (c. 700–750 CE)](s/sankara) · philosopher<span class="kw">Advaita Vedānta, non-duality, Brahman, māyā, the critique of Buddhist emptiness</span>
 - [Sapolsky, Robert (1957–)](s/sapolsky/) · neuroscientist<span class="kw">human behavioural biology, integrative across layers</span>
 - [Sartre, Jean-Paul (1905–1980)](s/sartre) · philosopher<span class="kw">existentialism, radical freedom, consciousness as nothingness, engagement</span>
 - [Saussure, Ferdinand de (1857–1913)](s/saussure) · linguist<span class="kw">structural linguistics, the differential sign, langue and parole</span>
