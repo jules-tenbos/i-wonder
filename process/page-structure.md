@@ -39,6 +39,12 @@ Both persons and subjects have an A–Z index page.
 - **Subjects**: Name (abbreviation) link · field `<br>` keywords
 - Entries within a letter section get `li + li` spacing (handled by CSS)
 
+## Predecessors and provenance
+
+When a person page's central contribution built on, generalised, or reacted to an identifiable predecessor's work, name the predecessor — even if the predecessor does not yet have their own page. The page's instinct is to start the story at the named figure; full-breadth honesty usually wants it started one step earlier. Examples: Boveri-Sutton before Morgan's chromosome proof; Wiesner before Bennett's BB84; Robertson before Price's covariance equation; Anscombe's "Modern Moral Philosophy" before Foot's virtue ethics; Mayr's population thinking before Ghiselin's species-as-individuals.
+
+This is not a requirement to trace every intellectual lineage to its origin — touchstone over comprehensive still applies. Name the predecessor when the contribution is a proof, formalisation, development, or naming of something already in the air; omit when the contribution is genuinely novel.
+
 ## General
 
 - Descriptions go in front matter on every page
