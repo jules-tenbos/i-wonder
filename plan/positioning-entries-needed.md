@@ -4,12 +4,6 @@ Persons and subjects referenced on the site without their own entry. One list, d
 
 ## Persons
 
-### Surfaced from philosophy-of-biology reviews (2026-05-27)
-
-- Price, George — Price equation; structurally load-bearing for multilevel selection; named on Wilson (D.S.)
-- Kitcher, Philip — philosophy of science; credit-economy critic on Hull; would recur across philosophy-of-science pages
-- Ghiselin, Michael — species-as-individuals co-developer with Hull
-
 ### Surfaced from CT/cultural-extensions reviews (2026-05-27)
 
 - Grothendieck, Alexander — refounding of algebraic geometry on categorical language; towering 20C mathematician; load-bearing on both Eilenberg and Mac Lane pages

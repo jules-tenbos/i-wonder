@@ -27,7 +27,7 @@ Wilson's career has been devoted to a single programme: demonstrating that group
 
 The formal framework, developed with Sober in *Unto Others* (1998) and in Wilson's own work from the 1970s onward:
 
-**The Price equation.** [George Price](https://en.wikipedia.org/wiki/George_R._Price)'s equation (1970) provides the mathematical framework. It partitions evolutionary change into a between-group component and a within-group component. If groups vary in the frequency of a trait, and groups with more of the trait grow faster (or contribute more to the next generation), then between-group selection favours the trait — even if within-group selection works against it. The outcome depends on the relative magnitudes of the two components.
+**The Price equation.** [George Price](/positioning/persons/p/price/)'s equation (1970) provides the mathematical framework. It partitions evolutionary change into a between-group component and a within-group component. If groups vary in the frequency of a trait, and groups with more of the trait grow faster (or contribute more to the next generation), then between-group selection favours the trait — even if within-group selection works against it. The outcome depends on the relative magnitudes of the two components.
 
 **The conditions.** Group selection is effective when: groups differ in composition (variation between groups), the trait affects group-level outcomes (heritability at the group level, loosely speaking), and the between-group selection is strong enough to override the within-group disadvantage. These conditions are met when groups are relatively small, migration between groups is limited, and group-level competition is significant.
 

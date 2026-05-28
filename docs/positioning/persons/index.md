@@ -95,6 +95,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Garfield, Jay (1955–)](g/garfield) · philosopher<span class="kw">Nāgārjuna translation and commentary, cross-cultural philosophy, Madhyamaka and Western philosophy</span>
 - [Gadamer, Hans-Georg (1900–2002)](g/gadamer) · philosopher<span class="kw">philosophical hermeneutics, prejudice, effective history, fusion of horizons</span>
 - [Galton, Francis (1822–1911)](g/galton) · polymath, statistician<span class="kw">eugenics, regression to the mean, correlation, the biometric programme, hereditary genius</span>
+- [Ghiselin, Michael (1939–)](g/ghiselin) · biologist, philosopher of biology<span class="kw">the species-as-individuals thesis, the evolution of sex, opisthobranch systematics</span>
 - [Gell-Mann, Murray (1929–2019)](g/gell-mann) · physicist<span class="kw">quarks, the Eightfold Way, effective complexity, Santa Fe Institute co-founder</span>
 - [Gibbs, Josiah Willard (1839–1903)](g/gibbs) · physicist, mathematician<span class="kw">statistical mechanics, chemical thermodynamics, Gibbs free energy, the phase rule, ensembles</span>
 - [Goodman, Nelson (1906–1998)](g/goodman) · philosopher<span class="kw">ways of worldmaking, symbol systems, rightness over truth, irrealism</span>
@@ -134,6 +135,7 @@ Individual thinkers referenced across the positioning section. Each page present
 
 - [Kant, Immanuel (1724–1804)](k/kant) · philosopher<span class="kw">the Copernican revolution, phenomena and noumena, the categories, the moral law</span>
 - [Kauffman, Stuart (1939–)](k/kauffman) · theoretical biologist<span class="kw">self-organisation, autocatalytic sets, NK landscapes, the adjacent possible</span>
+- [Kitcher, Philip (1947–)](k/kitcher) · philosopher of science<span class="kw">the organisation of cognitive labour, the critique of sociobiology, mathematical naturalism, scientific progress</span>
 - [Kimura, Motoo (1924–1994)](k/kimura) · population geneticist<span class="kw">neutral theory of molecular evolution, diffusion equations, molecular clock, drift vs selection</span>
 - [Kropotkin, Peter (1842–1921)](k/kropotkin) · geographer, anarchist theorist<span class="kw">mutual aid, anarchist communism, decentralised production, cooperation as evolutionary factor</span>
 - [Kuhn, Thomas (1922–1996)](k/kuhn) · philosopher of science, historian<span class="kw">paradigms, normal science, revolutions, incommensurability</span>
@@ -188,6 +190,7 @@ Individual thinkers referenced across the positioning section. Each page present
 
 - [Pearson, Karl (1857–1936)](p/pearson) · statistician<span class="kw">the correlation coefficient, chi-squared test, the biometric programme, the Galton Laboratory, eugenics</span>
 - [Peirce, Charles Sanders (1839–1914)](p/peirce) · philosopher, logician<span class="kw">pragmatism, semiotics, the community of inquirers, fallibilism</span>
+- [Price, George (1922–1975)](p/price) · theoretical biologist<span class="kw">the Price equation, the covariance formulation of selection, evolutionary game theory, multilevel selection</span>
 - [Penrose, Roger (1931–)](r/penrose) · mathematician, physicist<span class="kw">singularity theorems, low-entropy beginning, Penrose diagrams, twistor theory, non-computability of consciousness</span>
 - [Pinker, Steven (1954–)](p/pinker) · cognitive scientist<span class="kw">evolutionary psychology, language as instinct, the blank slate, the decline of violence, Enlightenment rationalism</span>
 - [Planck, Max (1858–1947)](p/planck) · physicist<span class="kw">the quantum of action, the ultraviolet catastrophe, Planck's constant, Planck's law</span>
