@@ -15,7 +15,9 @@ Wheeler was one of the most influential physicists of the twentieth century — 
 
 ## Life
 
-Born 9 July 1911 in Jacksonville, Florida. His father was a librarian. Educated at Johns Hopkins University (PhD, 1933, at the age of twenty-one). Postdoctoral work with [Bohr](/positioning/persons/b/bohr/) in Copenhagen (1934–35), where they developed the liquid-drop model of nuclear fission — the theoretical framework that explained the 1938 discovery of fission by [Otto Hahn](https://en.wikipedia.org/wiki/Otto_Hahn) and [Lise Meitner](https://en.wikipedia.org/wiki/Lise_Meitner).
+Born 9 July 1911 in Jacksonville, Florida. His father was a librarian. Educated at Johns Hopkins University (PhD, 1933, at the age of twenty-one). Postdoctoral work with [Bohr](/positioning/persons/b/bohr/) in Copenhagen (1934–35), where they developed the liquid-drop model of nuclear fission — the theoretical framework that explained the experimental discovery of fission by [Otto Hahn](https://en.wikipedia.org/wiki/Otto_Hahn) and [Fritz Strassmann](https://en.wikipedia.org/wiki/Fritz_Strassmann) (1938), interpreted theoretically by [Lise Meitner](https://en.wikipedia.org/wiki/Lise_Meitner) and [Otto Frisch](https://en.wikipedia.org/wiki/Otto_Robert_Frisch) (1939), who also coined the term "fission."
+
+In 1937, Wheeler introduced the scattering matrix (S-matrix) — the mathematical object that encodes how particles interact in a collision, connecting initial and final states without tracking the intermediate dynamics. The S-matrix became a foundational tool in particle physics and quantum field theory. Wheeler and Feynman also developed the Wheeler-Feynman absorber theory (1945) — a time-symmetric formulation of electrodynamics in which both advanced and retarded waves contribute to electromagnetic interactions. The theory did not replace standard electrodynamics, but it fed directly into Feynman's development of the path-integral formulation of quantum mechanics.
 
 Professor of physics at Princeton University (1938–76). During the war, Wheeler worked on the Manhattan Project at the Metallurgical Laboratory in Chicago and at the Hanford Site, contributing to the design of the plutonium production reactors. After the war, he was involved in the development of the hydrogen bomb — a participation he later defended as a Cold War necessity while acknowledging its moral weight.
 
@@ -61,4 +63,4 @@ Wheeler's role as a supervisor and question-poser was his most consequential con
 
 ---
 
-See also: [Everett](/positioning/persons/e/everett/) · [Bohr](/positioning/persons/b/bohr/) · [Bell](/positioning/persons/b/bell/) · [Landauer](/positioning/persons/l/landauer/)
+See also: [Everett](/positioning/persons/e/everett/) · [DeWitt](/positioning/persons/d/dewitt/) · [Bohr](/positioning/persons/b/bohr/) · [Bell](/positioning/persons/b/bell/) · [Landauer](/positioning/persons/l/landauer/)
