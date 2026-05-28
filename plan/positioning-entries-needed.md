@@ -2,6 +2,8 @@
 
 Persons and subjects referenced on the site without their own entry. One list, descending by site-wide importance: cross-section reach, link frequency, load-bearing weight on existing pages. Work down the list; flip external links to internal as each page is created.
 
+Persons section cleared 2026-05-28 (84 person pages total across three sessions). Only subject candidates remain.
+
 ## Subjects — candidates
 
 - Loop quantum gravity — closely tied to RQM, Rovelli's other programme
