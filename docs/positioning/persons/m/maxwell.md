@@ -27,7 +27,7 @@ Married Katherine Mary Dewar in 1858; no children. Maxwell was deeply religious 
 
 Maxwell's central achievement, developed across a series of papers from 1855 to 1865 and systematised in the *Treatise on Electricity and Magnetism* (1873).
 
-The starting point was [Michael Faraday](https://en.wikipedia.org/wiki/Michael_Faraday)'s experimental discoveries: a changing magnetic field induces an electric current (electromagnetic induction, 1831), and electric and magnetic effects propagate through a medium (the "field") rather than acting at a distance. Faraday had the physical intuition but not the mathematics. Maxwell supplied the mathematics.
+The starting point was [Michael Faraday](/positioning/persons/f/faraday/)'s experimental discoveries: a changing magnetic field induces an electric current (electromagnetic induction, 1831), and electric and magnetic effects propagate through a medium (the "field") rather than acting at a distance. Faraday had the physical intuition but not the mathematics. Maxwell supplied the mathematics.
 
 "On Faraday's Lines of Force" (1855–56) translated Faraday's field concept into mathematical form. "On Physical Lines of Force" (1861–62) proposed a mechanical model of the electromagnetic field and derived the displacement current — the key addition to the equations of electromagnetism. "A Dynamical Theory of the Electromagnetic Field" (1865) abandoned the mechanical model and presented the field equations in their general form: four equations (later reformulated by [Oliver Heaviside](https://en.wikipedia.org/wiki/Oliver_Heaviside) into the modern vector notation) relating electric and magnetic fields to charges and currents.
 

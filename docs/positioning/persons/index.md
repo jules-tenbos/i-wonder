@@ -26,6 +26,7 @@ Individual thinkers referenced across the positioning section. Each page present
 
 - [Bak, Per (1948–2002)](b/bak) · physicist<span class="kw">self-organized criticality, power-law dynamics, the sand-pile model, How Nature Works</span>
 - [Barabási, Albert-László (1967–)](b/barabasi) · physicist, network scientist<span class="kw">scale-free networks, preferential attachment, network science, robustness and vulnerability</span>
+- [Bell, John (1928–1990)](b/bell) · physicist<span class="kw">Bell's theorem, Bell inequalities, the impossibility of local hidden variables, the measurement problem</span>
 - [Bateson, Gregory (1904–1980)](b/bateson) · anthropologist, cyberneticist<span class="kw">ecology of mind, difference that makes a difference, schismogenesis, the pattern which connects</span>
 - [Bateson, William (1861–1926)](b/bateson-w) · biologist<span class="kw">coined "genetics", Mendel's champion, the Mendelian-biometrician debate, discontinuous variation</span>
 - [Bennett, Charles (1943–)](b/bennett) · physicist<span class="kw">reversible computation, Maxwell's demon resolved via erasure, quantum teleportation, quantum key distribution</span>
@@ -49,6 +50,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Cohen, Hermann (1842–1918)](c/cohen) · philosopher<span class="kw">Marburg neo-Kantianism, the logic of pure cognition, the productive role of thought, ethical socialism</span>
 - [Connolly, William E. (1938–)](c/connolly) · political theorist<span class="kw">deep pluralism, pluralisation, agonistic respect, politics of becoming, resonance machines</span>
 - [Cosmides, Leda (1957–)](c/cosmides) · cognitive psychologist<span class="kw">the adapted mind, cheater-detection experiments, social-contract theory, evolutionary psychology</span>
+- [Crick, Francis (1916–2004)](c/crick) · molecular biologist<span class="kw">the structure of DNA, the central dogma, the genetic code, the frozen-accident hypothesis, consciousness</span>
 - [Cronin, Lee (1973–)](c/cronin) · chemist<span class="kw">polyoxometalate chemistry, chemical robots, digitised chemistry, Chemify, assembly theory</span>
 
 ## D
@@ -79,9 +81,11 @@ Individual thinkers referenced across the positioning section. Each page present
 
 ## F
 
+- [Faraday, Michael (1791–1867)](f/faraday) · physicist, chemist<span class="kw">electromagnetic induction, the field concept, lines of force, electrolysis, diamagnetism, the Faraday effect</span>
 - [Feyerabend, Paul (1924–1994)](f/feyerabend) · philosopher of science<span class="kw">against method, theoretical pluralism, incommensurability</span>
 - [Fichte, Johann Gottlieb (1762–1814)](f/fichte) · philosopher<span class="kw">self-positing I, the not-I, differentiation as origin</span>
 - [Fisher, R. A. (1890–1962)](f/fisher) · statistician, geneticist<span class="kw">population genetics, fundamental theorem of natural selection, ANOVA, experimental design, eugenics</span>
+- [Foot, Philippa (1920–2010)](f/foot) · philosopher<span class="kw">neo-Aristotelian naturalism, natural goodness, the trolley problem, virtue ethics revived</span>
 - [Fodor, Jerry (1935–2017)](f/fodor) · philosopher of mind<span class="kw">the modularity of mind, the language of thought, the critique of adaptationism, computational cognitive science</span>
 - [Frege, Gottlob (1848–1925)](f/frege) · logician, philosopher<span class="kw">modern logic, sense and reference, the concept-script, anti-psychologism</span>
 
@@ -249,6 +253,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Whitehead, Alfred North (1861–1947)](w/whitehead) · philosopher, mathematician<span class="kw">process, actual occasions, creativity, prehension</span>
 - [Wiener, Norbert (1894–1964)](w/wiener) · mathematician<span class="kw">cybernetics, feedback, communication and control, the Macy conferences, the human use of human beings</span>
 - [Williams, George C. (1926–2010)](w/williams) · evolutionary biologist<span class="kw">Adaptation and Natural Selection, gene-level critique of group selection, senescence, sex, Darwinian medicine</span>
+- [Williams, Bernard (1929–2003)](w/williams-b) · philosopher<span class="kw">the critique of moral theory, internal reasons, moral luck, Ethics and the Limits of Philosophy, the rejection of the ergon</span>
 - [Wilson, David Sloan (1949–)](w/wilson-ds) · evolutionary biologist<span class="kw">multilevel selection, the revival of group selection, Unto Others, prosociality, the evolution of religion</span>
 - [Wilson, E. O. (1929–2021)](w/wilson) · biologist<span class="kw">Sociobiology, island biogeography, the ants, biodiversity, group selection turn</span>
 - [Wittgenstein, Ludwig (1889–1951)](w/wittgenstein) · philosopher<span class="kw">language games, forms of life, meaning as use</span>

@@ -4,17 +4,6 @@ Persons and subjects referenced on the site without their own entry. One list, d
 
 ## Persons
 
-### Surfaced from physics/biology reviews (2026-05-27)
-
-- Faraday, Michael — experimental electromagnetism, the field concept; Maxwell's precursor, foundational independent of Maxwell page
-- Crick, Francis — DNA structure, central dogma, frozen-accident hypothesis; foundational biology figure
-
-### Surfaced from backbone reviews (2026-05-27)
-
-- Bell, John — Bell's theorem, Bell inequality; named on Einstein and Born; foundational for quantum foundations
-- Foot, Philippa — neo-Aristotelian naturalism, natural goodness; load-bearing for Aristotle's modern reception
-- Williams, Bernard — moral philosophy, critique of the ergon claim; named on Aristotle
-
 ### Surfaced from philosophy-of-biology reviews (2026-05-27)
 
 - Price, George — Price equation; structurally load-bearing for multilevel selection; named on Wilson (D.S.)
