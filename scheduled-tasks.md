@@ -1,6 +1,6 @@
 # Scheduled Tasks
 
-Updated 2026-05-28. Tasks triggered by post publication and ongoing work.
+Updated 2026-05-29. Tasks triggered by post publication and ongoing work.
 
 ## Standing tasks
 
