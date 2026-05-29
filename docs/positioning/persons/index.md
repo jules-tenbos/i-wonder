@@ -52,6 +52,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Cosmides, Leda (1957–)](c/cosmides) · cognitive psychologist<span class="kw">the adapted mind, cheater-detection experiments, social-contract theory, evolutionary psychology</span>
 - [Crick, Francis (1916–2004)](c/crick) · molecular biologist<span class="kw">the structure of DNA, the central dogma, the genetic code, the frozen-accident hypothesis, consciousness</span>
 - [Cronin, Lee (1973–)](c/cronin) · chemist<span class="kw">polyoxometalate chemistry, chemical robots, digitised chemistry, Chemify, assembly theory</span>
+- [Cutting, Doug (1961–)](c/cutting) · software engineer<span class="kw">Lucene, Nutch, Hadoop, Avro — open-source search and large-scale data infrastructure</span>
 
 ## D
 
@@ -138,8 +139,9 @@ Individual thinkers referenced across the positioning section. Each page present
 
 - [Kant, Immanuel (1724–1804)](k/kant) · philosopher<span class="kw">the Copernican revolution, phenomena and noumena, the categories, the moral law</span>
 - [Kauffman, Stuart (1939–)](k/kauffman) · theoretical biologist<span class="kw">self-organisation, autocatalytic sets, NK landscapes, the adjacent possible</span>
-- [Kitcher, Philip (1947–)](k/kitcher) · philosopher of science<span class="kw">the organisation of cognitive labour, the critique of sociobiology, mathematical naturalism, scientific progress</span>
 - [Kimura, Motoo (1924–1994)](k/kimura) · population geneticist<span class="kw">neutral theory of molecular evolution, diffusion equations, molecular clock, drift vs selection</span>
+- [Kitcher, Philip (1947–)](k/kitcher) · philosopher of science<span class="kw">the organisation of cognitive labour, the critique of sociobiology, mathematical naturalism, scientific progress</span>
+- [Kleppmann, Martin](k/kleppmann) · computer scientist<span class="kw">Designing Data-Intensive Applications, local-first software, CRDTs, Automerge, distributed data systems</span>
 - [Kropotkin, Peter (1842–1921)](k/kropotkin) · geographer, anarchist theorist<span class="kw">mutual aid, anarchist communism, decentralised production, cooperation as evolutionary factor</span>
 - [Kuhn, Thomas (1922–1996)](k/kuhn) · philosopher of science, historian<span class="kw">paradigms, normal science, revolutions, incommensurability</span>
 
