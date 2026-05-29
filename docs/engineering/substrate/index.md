@@ -12,4 +12,5 @@ The committed languages. Each is a language in its own right — with its own vo
 
 - **[AVRO](avro)** — language of structure. Schemas as carriers, namespaces as meaning contexts, conformance discovered through reader/writer resolution.
 - **[Git](git)** — language of historicity. Commits, refs, DAG, hard boundary, decentralised exchange.
+- **[Addressing](addressing)** — URI and XPath. URI identifies which resource; XPath navigates where within it; addresses composed at the point of use.
 - **[Kafka](kafka)** — language of mobility. Record envelope, context-in-transit, arrival order and timestamp.
