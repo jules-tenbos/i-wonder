@@ -46,4 +46,4 @@ Avro was created by [Doug Cutting](/positioning/persons/c/cutting/) — the crea
 
 ---
 
-See also: [Domain-Specific Languages](/positioning/subjects/d/domain-specific-languages/) · [Doug Cutting](/positioning/persons/c/cutting/)
+See also: [Domain-Specific Languages](/positioning/subjects/d/domain-specific-languages/) · [Apache Kafka](/positioning/subjects/k/kafka/) · [Doug Cutting](/positioning/persons/c/cutting/)

@@ -56,4 +56,4 @@ Kleppmann's contribution is engineering and exposition rather than a single theo
 
 ---
 
-See also: [Apache Avro](/positioning/subjects/a/avro/) · [Doug Cutting](/positioning/persons/c/cutting/)
+See also: [Apache Avro](/positioning/subjects/a/avro/) · [Apache Kafka](/positioning/subjects/k/kafka/) · [Doug Cutting](/positioning/persons/c/cutting/)

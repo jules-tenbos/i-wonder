@@ -33,6 +33,10 @@ These are subjects of importance to SPLectrum, referenced within the site.
 - [German idealism](g/german-idealism) · philosophy<span class="kw">Fichte, Schelling, Hegel: overcoming Kant's limits, the productivity of negation</span>
 - [Git](g/git/) · version control, software engineering<span class="kw">distributed version control: content-addressed snapshots, the commit DAG, integrity by hashing, Torvalds, the Linux kernel</span>
 
+## K
+
+- [Kafka](k/kafka/) · event streaming, software engineering<span class="kw">distributed event-streaming platform built on a durable append-only log: topics, partitions, offsets, replay, Kreps, Confluent</span>
+
 ## M
 
 - [Mineral evolution](m/mineral-evolution/) · geology, astrobiology<span class="kw">Earth's mineral diversity as coupled physical, chemical, and biological history: Hazen, the ten stages, co-evolution with life</span>
@@ -53,3 +57,7 @@ These are subjects of importance to SPLectrum, referenced within the site.
 ## S
 
 - [Structuralism](s/structuralism) · linguistics, philosophy<span class="kw">meaning as difference, systems of relations: Saussure, Lévi-Strauss, and beyond</span>
+
+## U
+
+- [URI](u/uri/) · web architecture, software engineering<span class="kw">uniform resource identification — the addressing layer of the Web: URL and URN, RFC 3986, Berners-Lee, Fielding</span>

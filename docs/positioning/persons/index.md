@@ -32,6 +32,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Bennett, Charles (1943–)](b/bennett) · physicist<span class="kw">reversible computation, Maxwell's demon resolved via erasure, quantum teleportation, quantum key distribution</span>
 - [Bergson, Henri (1859–1941)](b/bergson) · philosopher<span class="kw">duration, creative evolution, intuition, the élan vital</span>
 - [Berlin, Isaiah (1909–1997)](b/berlin) · philosopher, historian of ideas<span class="kw">value pluralism, incommensurability of values, two concepts of liberty, the Counter-Enlightenment</span>
+- [Berners-Lee, Tim (1955–)](b/berners-lee) · computer scientist<span class="kw">inventor of the World Wide Web, HTTP, HTML, the URL, the W3C, the open web</span>
 - [Bertalanffy, Ludwig von (1901–1972)](b/bertalanffy) · biologist, systems thinker<span class="kw">general system theory, open systems, organismic biology, equifinality</span>
 - [Bohm, David (1917–1992)](b/bohm) · physicist<span class="kw">Bohmian mechanics, the pilot-wave interpretation, hidden variables, the implicate order, wholeness</span>
 - [Bohr, Niels (1885–1962)](b/bohr) · physicist<span class="kw">the Bohr model, complementarity, the Copenhagen interpretation, the Bohr-Einstein debate</span>
@@ -87,6 +88,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Faraday, Michael (1791–1867)](f/faraday) · physicist, chemist<span class="kw">electromagnetic induction, the field concept, lines of force, electrolysis, diamagnetism, the Faraday effect</span>
 - [Feyerabend, Paul (1924–1994)](f/feyerabend) · philosopher of science<span class="kw">against method, theoretical pluralism, incommensurability</span>
 - [Fichte, Johann Gottlieb (1762–1814)](f/fichte) · philosopher<span class="kw">self-positing I, the not-I, differentiation as origin</span>
+- [Fielding, Roy (1965–)](f/fielding) · computer scientist<span class="kw">REST, HATEOAS, the HTTP and URI specifications, the Apache HTTP Server</span>
 - [Fisher, R. A. (1890–1962)](f/fisher) · statistician, geneticist<span class="kw">population genetics, fundamental theorem of natural selection, ANOVA, experimental design, eugenics</span>
 - [Foot, Philippa (1920–2010)](f/foot) · philosopher<span class="kw">neo-Aristotelian naturalism, natural goodness, the trolley problem, virtue ethics revived</span>
 - [Fodor, Jerry (1935–2017)](f/fodor) · philosopher of mind<span class="kw">the modularity of mind, the language of thought, the critique of adaptationism, computational cognitive science</span>
@@ -142,6 +144,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Kimura, Motoo (1924–1994)](k/kimura) · population geneticist<span class="kw">neutral theory of molecular evolution, diffusion equations, molecular clock, drift vs selection</span>
 - [Kitcher, Philip (1947–)](k/kitcher) · philosopher of science<span class="kw">the organisation of cognitive labour, the critique of sociobiology, mathematical naturalism, scientific progress</span>
 - [Kleppmann, Martin](k/kleppmann) · computer scientist<span class="kw">Designing Data-Intensive Applications, local-first software, CRDTs, Automerge, distributed data systems</span>
+- [Kreps, Jay](k/kreps) · software engineer<span class="kw">co-creator of Apache Kafka, "The Log" essay, co-founder and CEO of Confluent</span>
 - [Kropotkin, Peter (1842–1921)](k/kropotkin) · geographer, anarchist theorist<span class="kw">mutual aid, anarchist communism, decentralised production, cooperation as evolutionary factor</span>
 - [Kuhn, Thomas (1922–1996)](k/kuhn) · philosopher of science, historian<span class="kw">paradigms, normal science, revolutions, incommensurability</span>
 
