@@ -42,4 +42,4 @@ The URL was introduced by [Tim Berners-Lee](/positioning/persons/b/berners-lee/)
 
 ---
 
-See also: [Tim Berners-Lee](/positioning/persons/b/berners-lee/) · [Roy Fielding](/positioning/persons/f/fielding/)
+See also: [XPath](/positioning/subjects/x/xpath/) · [Tim Berners-Lee](/positioning/persons/b/berners-lee/) · [Roy Fielding](/positioning/persons/f/fielding/)

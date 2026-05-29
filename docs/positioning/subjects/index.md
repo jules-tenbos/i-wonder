@@ -61,3 +61,7 @@ These are subjects of importance to SPLectrum, referenced within the site.
 ## U
 
 - [URI](u/uri/) · web architecture, software engineering<span class="kw">uniform resource identification — the addressing layer of the Web: URL and URN, RFC 3986, Berners-Lee, Fielding</span>
+
+## X
+
+- [XPath](x/xpath/) · query language, software engineering<span class="kw">navigating and selecting in tree-structured documents: location paths, axes, node tests, predicates, James Clark, XSLT, XQuery</span>

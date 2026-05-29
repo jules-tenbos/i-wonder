@@ -48,6 +48,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Carroll, Sean (1966–)](c/carroll) · theoretical physicist<span class="kw">the arrow of time, the Past Hypothesis, many-worlds interpretation, the cosmological multiverse</span>
 - [Candrakīrti (c. 600–c. 650 CE)](c/candrakirti) · Buddhist philosopher<span class="kw">Prāsaṅgika Madhyamaka, the Prasannapadā, the Madhyamakāvatāra, reductio over independent argument</span>
 - [Cassirer, Ernst (1874–1945)](c/cassirer) · philosopher<span class="kw">the philosophy of symbolic forms, the animal symbolicum, neo-Kantianism, substance and function, the Davos debate</span>
+- [Clark, James (1964–)](c/clark) · software engineer<span class="kw">XML technical lead, editor of XSLT 1.0 and XPath 1.0, expat, RELAX NG, groff</span>
 - [Cohen, Hermann (1842–1918)](c/cohen) · philosopher<span class="kw">Marburg neo-Kantianism, the logic of pure cognition, the productive role of thought, ethical socialism</span>
 - [Connolly, William E. (1938–)](c/connolly) · political theorist<span class="kw">deep pluralism, pluralisation, agonistic respect, politics of becoming, resonance machines</span>
 - [Cosmides, Leda (1957–)](c/cosmides) · cognitive psychologist<span class="kw">the adapted mind, cheater-detection experiments, social-contract theory, evolutionary psychology</span>
