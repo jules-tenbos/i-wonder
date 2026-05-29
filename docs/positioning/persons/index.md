@@ -241,6 +241,7 @@ Individual thinkers referenced across the positioning section. Each page present
 ## T
 
 - [Tooby, John (1952–2023)](t/tooby) · evolutionary psychologist<span class="kw">the adapted mind, the environment of evolutionary adaptedness, the Standard Social Science Model critique</span>
+- [Torvalds, Linus (1969–)](t/torvalds) · software engineer<span class="kw">the Linux kernel, Git, Subsurface, open-source infrastructure and stewardship</span>
 - [Trivers, Robert (1943–2026)](t/trivers) · evolutionary biologist<span class="kw">reciprocal altruism, parental investment, parent-offspring conflict, self-deception</span>
 - [Turing, Alan (1912–1954)](t/turing) · mathematician<span class="kw">the Turing machine, computability, the Entscheidungsproblem, the Turing test, morphogenesis</span>
 

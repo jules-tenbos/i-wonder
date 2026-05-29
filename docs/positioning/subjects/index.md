@@ -31,6 +31,7 @@ These are subjects of importance to SPLectrum, referenced within the site.
 ## G
 
 - [German idealism](g/german-idealism) · philosophy<span class="kw">Fichte, Schelling, Hegel: overcoming Kant's limits, the productivity of negation</span>
+- [Git](g/git/) · version control, software engineering<span class="kw">distributed version control: content-addressed snapshots, the commit DAG, integrity by hashing, Torvalds, the Linux kernel</span>
 
 ## M
 
