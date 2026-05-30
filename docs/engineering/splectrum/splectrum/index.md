@@ -2,6 +2,7 @@
 layout: default
 lastmod: 2026-05-03
 title: "SPLectrum — the language fabric"
+description: "The language pillar of SPLectrum: metadata on the data fabric where protocols are composed into personas, and protocols are expressed as data transformations."
 ---
 
 [Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > SPLectrum

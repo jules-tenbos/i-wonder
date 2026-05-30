@@ -2,6 +2,7 @@
 layout: default
 lastmod: 2026-05-29
 title: "Kafka"
+description: "Kafka is the committed substrate language of mobility: its record is the envelope carrying a datum's identity, context, order and time out of the tree."
 ---
 
 [Home](/) > [Engineering](/engineering/) > [Substrate](/engineering/substrate/) > Kafka

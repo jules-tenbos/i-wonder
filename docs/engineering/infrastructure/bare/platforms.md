@@ -1,10 +1,11 @@
 ---
 layout: default
-lastmod: 2026-05-03
+lastmod: 2026-05-29
 title: "Bare Platform Support"
+description: "Bare platform support tiers with architectures and minimum versions, plus instructions for building from source and embedding via the C API."
 ---
 
-[Home](/) > [Engineering](/engineering/) > [Substrate](/engineering/substrate/) > [Bare Runtime](/engineering/infrastructure/bare/) > Platform Support
+[Home](/) > [Engineering](/engineering/) > [Infrastructure](/engineering/infrastructure/) > [Bare Runtime](/engineering/infrastructure/bare/) > Platform Support
 
 # Bare Platform Support
 
@@ -52,7 +53,7 @@ Output:
 - `build/(lib)bare.(dylib|dll|lib)`
 
 Compile options via `--define`:
-- `BARE_ENGINE` — JS engine (default: libjs/V8)
+- `BARE_ENGINE` — JS engine (default: libjs)
 - `BARE_PREBUILDS` — enable prebuilds (default: ON)
 - `BARE_MEMORY_LIMIT` — JS heap limit (default: 0,
   unlimited)
@@ -79,10 +80,10 @@ bare_teardown(bare, UV_RUN_DEFAULT, &exit_code);
 ```
 
 Mobile embedding examples:
-- https://github.com/holepunchto/bare-android
-- https://github.com/holepunchto/bare-ios
+- [github.com/holepunchto/bare-android](https://github.com/holepunchto/bare-android)
+- [github.com/holepunchto/bare-ios](https://github.com/holepunchto/bare-ios)
 
 ---
 
-**Source:** https://github.com/holepunchto/bare
+**Source:** [github.com/holepunchto/bare](https://github.com/holepunchto/bare)
 

@@ -1,10 +1,11 @@
 ---
 layout: default
-lastmod: 2026-05-03
+lastmod: 2026-05-29
 title: "Bare Module System"
+description: "Module resolution and loading in Bare via bare-module: supported types, package.json fields, conditional exports, the CJS/ESM API, and custom protocols."
 ---
 
-[Home](/) > [Engineering](/engineering/) > [Substrate](/engineering/substrate/) > [Bare Runtime](/engineering/infrastructure/bare/) > Module System
+[Home](/) > [Engineering](/engineering/) > [Infrastructure](/engineering/infrastructure/) > [Bare Runtime](/engineering/infrastructure/bare/) > Module System
 
 # Bare Module System
 
@@ -21,7 +22,7 @@ bare-module.
   `"type": "module"`)
 - JSON (`.json`)
 - Bundles (`.bundle` — bare-bundle format)
-- Addons (native, `.node`)
+- Addons (native, `.bare`)
 - Binary and text files
 
 CJS and ESM have bidirectional interoperability —
@@ -154,5 +155,5 @@ Methods: `preresolve`, `postresolve`, `resolve`,
 ---
 
 **Source:**
-https://github.com/holepunchto/bare-module
+[github.com/holepunchto/bare-module](https://github.com/holepunchto/bare-module)
 

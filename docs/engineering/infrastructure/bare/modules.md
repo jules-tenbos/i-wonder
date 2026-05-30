@@ -1,16 +1,16 @@
 ---
 layout: default
-lastmod: 2026-05-03
+lastmod: 2026-05-29
 title: "Bare Module Catalog"
+description: "Catalog of Bare ecosystem npm modules with Node.js equivalents and versions, covering filesystem, networking, core, process, and the module system."
 ---
 
-[Home](/) > [Engineering](/engineering/) > [Substrate](/engineering/substrate/) > [Bare Runtime](/engineering/infrastructure/bare/) > Module Catalog
+[Home](/) > [Engineering](/engineering/) > [Infrastructure](/engineering/infrastructure/) > [Bare Runtime](/engineering/infrastructure/bare/) > Module Catalog
 
 # Bare Module Catalog
 
 All modules available via npm. Streams throughout
-the ecosystem are streamx-based
-(https://github.com/mafintosh/streamx), not Node.js
+the ecosystem are [streamx](https://github.com/mafintosh/streamx)-based, not Node.js
 streams — this is the most significant API
 difference.
 
@@ -20,8 +20,8 @@ difference.
 
 | Module | Node.js equiv | npm | Source |
 |--------|--------------|-----|--------|
-| bare-fs | fs | 4.7.0 | [repo](https://github.com/holepunchto/bare-fs) |
-| bare-path | path | 3.0.0 | [repo](https://github.com/holepunchto/bare-path) |
+| bare-fs | fs | 4.7.0 | [holepunchto/bare-fs](https://github.com/holepunchto/bare-fs) |
+| bare-path | path | 3.0.0 | [holepunchto/bare-path](https://github.com/holepunchto/bare-path) |
 
 **bare-fs** closely follows Node.js `fs`. Supports
 async, callback, and sync variants. Core operations:
@@ -42,12 +42,12 @@ basename, dirname, extname, etc. Includes
 
 | Module | Node.js equiv | npm | Source |
 |--------|--------------|-----|--------|
-| bare-net | net | 2.3.1 | [repo](https://github.com/holepunchto/bare-net) |
-| bare-http1 | http | 4.5.6 | [repo](https://github.com/holepunchto/bare-http1) |
-| bare-https | https | — | [repo](https://github.com/holepunchto/bare-https) |
-| bare-dns | dns | 2.1.4 | [repo](https://github.com/holepunchto/bare-dns) |
-| bare-dgram | dgram | 1.0.1 | [repo](https://github.com/holepunchto/bare-dgram) |
-| bare-tls | tls | 2.2.3 | [repo](https://github.com/holepunchto/bare-tls) |
+| bare-net | net | 2.3.1 | [holepunchto/bare-net](https://github.com/holepunchto/bare-net) |
+| bare-http1 | http | 4.5.6 | [holepunchto/bare-http1](https://github.com/holepunchto/bare-http1) |
+| bare-https | https | — | [holepunchto/bare-https](https://github.com/holepunchto/bare-https) |
+| bare-dns | dns | 2.1.4 | [holepunchto/bare-dns](https://github.com/holepunchto/bare-dns) |
+| bare-dgram | dgram | 1.0.1 | [holepunchto/bare-dgram](https://github.com/holepunchto/bare-dgram) |
+| bare-tls | tls | 2.2.3 | [holepunchto/bare-tls](https://github.com/holepunchto/bare-tls) |
 
 **bare-net** mirrors Node.js `net` pattern:
 `net.createServer()`, `net.createConnection()`.
@@ -61,8 +61,7 @@ Only HTTP/1.x — no HTTP/2.
 using `tls.connect()` / `tls.createServer()`. Uses
 `new tls.Socket(stream, options)` pattern.
 
-**bare-dgram** built on UDX
-(https://github.com/holepunchto/udx-native) rather
+**bare-dgram** built on [UDX](https://github.com/holepunchto/udx-native) rather
 than raw libuv UDP.
 
 **bare-dns** provides `dns.lookup(hostname, cb)` and
@@ -74,11 +73,11 @@ than raw libuv UDP.
 
 | Module | Node.js equiv | npm | Source |
 |--------|--------------|-----|--------|
-| bare-buffer | buffer | 3.6.0 | [repo](https://github.com/holepunchto/bare-buffer) |
-| bare-events | events | 2.8.2 | [repo](https://github.com/holepunchto/bare-events) |
-| bare-stream | stream | 2.13.0 | [repo](https://github.com/holepunchto/bare-stream) |
-| bare-crypto | crypto | 1.13.4 | [repo](https://github.com/holepunchto/bare-crypto) |
-| bare-zlib | zlib | 1.3.3 | [repo](https://github.com/holepunchto/bare-zlib) |
+| bare-buffer | buffer | 3.6.0 | [holepunchto/bare-buffer](https://github.com/holepunchto/bare-buffer) |
+| bare-events | events | 2.8.2 | [holepunchto/bare-events](https://github.com/holepunchto/bare-events) |
+| bare-stream | stream | 2.13.0 | [holepunchto/bare-stream](https://github.com/holepunchto/bare-stream) |
+| bare-crypto | crypto | 1.13.4 | [holepunchto/bare-crypto](https://github.com/holepunchto/bare-crypto) |
+| bare-zlib | zlib | 1.3.3 | [holepunchto/bare-zlib](https://github.com/holepunchto/bare-zlib) |
 
 **bare-buffer** same API surface as Node.js Buffer:
 `Buffer.from()`, `Buffer.alloc()`,
@@ -112,11 +111,11 @@ Streamx-based.
 
 | Module | Node.js equiv | npm | Source |
 |--------|--------------|-----|--------|
-| bare-process | process | 4.4.1 | [repo](https://github.com/holepunchto/bare-process) |
-| bare-env | (process.env) | 3.0.0 | [repo](https://github.com/holepunchto/bare-env) |
-| bare-os | os | 3.8.7 | [repo](https://github.com/holepunchto/bare-os) |
-| bare-tty | tty | 5.1.0 | [repo](https://github.com/holepunchto/bare-tty) |
-| bare-readline | readline | 1.3.1 | [repo](https://github.com/holepunchto/bare-readline) |
+| bare-process | process | 4.4.1 | [holepunchto/bare-process](https://github.com/holepunchto/bare-process) |
+| bare-env | (process.env) | 3.0.0 | [holepunchto/bare-env](https://github.com/holepunchto/bare-env) |
+| bare-os | os | 3.8.7 | [holepunchto/bare-os](https://github.com/holepunchto/bare-os) |
+| bare-tty | tty | 5.1.0 | [holepunchto/bare-tty](https://github.com/holepunchto/bare-tty) |
+| bare-readline | readline | 1.3.1 | [holepunchto/bare-readline](https://github.com/holepunchto/bare-readline) |
 
 **bare-process** provides familiar `process` object.
 Not globally available. Use
@@ -143,11 +142,11 @@ Emits `data` events (not `line` events as Node.js).
 
 | Module | Purpose | npm | Source |
 |--------|---------|-----|--------|
-| bare-module | Module resolution | 6.1.3 | [repo](https://github.com/holepunchto/bare-module) |
-| bare-node-runtime | Node.js compat layer | 1.2.0 | [repo](https://github.com/holepunchto/bare-node-runtime) |
+| bare-module | Module resolution | 6.1.3 | [holepunchto/bare-module](https://github.com/holepunchto/bare-module) |
+| bare-node-runtime | Node.js compat layer | 1.2.0 | [holepunchto/bare-node-runtime](https://github.com/holepunchto/bare-node-runtime) |
 
 See [Module System](module-system.md) and
-[Dual-Runtime Code](dual-runtime.md) for details.
+[Dual-Runtime Config](dual-runtime.md) for details.
 
 ---
 
@@ -155,27 +154,27 @@ See [Module System](module-system.md) and
 
 | Module | Description | Source |
 |--------|-------------|--------|
-| bare-subprocess | Process spawning (child_process) | [repo](https://github.com/holepunchto/bare-subprocess) |
-| bare-timers | setTimeout, setInterval | [repo](https://github.com/holepunchto/bare-timers) |
-| bare-url | WHATWG URL | [repo](https://github.com/holepunchto/bare-url) |
-| bare-fetch | WHATWG Fetch | [repo](https://github.com/holepunchto/bare-fetch) |
-| bare-ws | WebSocket | [repo](https://github.com/holepunchto/bare-ws) |
-| bare-worker | Worker threads | [repo](https://github.com/holepunchto/bare-worker) |
-| bare-rpc | librpc-compatible RPC | [repo](https://github.com/holepunchto/bare-rpc) |
-| bare-bundle | Application bundles | [repo](https://github.com/holepunchto/bare-bundle) |
-| bare-console | WHATWG console | [repo](https://github.com/holepunchto/bare-console) |
-| bare-channel | Inter-thread messaging | [repo](https://github.com/holepunchto/bare-channel) |
-| bare-atomics | Synchronization primitives | [repo](https://github.com/holepunchto/bare-atomics) |
-| bare-daemon | Daemon process management | [repo](https://github.com/holepunchto/bare-daemon) |
-| bare-inspector | V8 inspector | [repo](https://github.com/holepunchto/bare-inspector) |
-| bare-repl | REPL environment | [repo](https://github.com/holepunchto/bare-repl) |
-| bare-signals | Signal handling | [repo](https://github.com/holepunchto/bare-signals) |
-| bare-encoding | TextEncoder/TextDecoder | [repo](https://github.com/holepunchto/bare-encoding) |
-| bare-structured-clone | Structured cloning | [repo](https://github.com/holepunchto/bare-structured-clone) |
-| bare-zmq | ZeroMQ bindings | [repo](https://github.com/holepunchto/bare-zmq) |
+| bare-subprocess | Process spawning (child_process) | [holepunchto/bare-subprocess](https://github.com/holepunchto/bare-subprocess) |
+| bare-timers | setTimeout, setInterval | [holepunchto/bare-timers](https://github.com/holepunchto/bare-timers) |
+| bare-url | WHATWG URL | [holepunchto/bare-url](https://github.com/holepunchto/bare-url) |
+| bare-fetch | WHATWG Fetch | [holepunchto/bare-fetch](https://github.com/holepunchto/bare-fetch) |
+| bare-ws | WebSocket | [holepunchto/bare-ws](https://github.com/holepunchto/bare-ws) |
+| bare-worker | Worker threads | [holepunchto/bare-worker](https://github.com/holepunchto/bare-worker) |
+| bare-rpc | librpc-compatible RPC | [holepunchto/bare-rpc](https://github.com/holepunchto/bare-rpc) |
+| bare-bundle | Application bundles | [holepunchto/bare-bundle](https://github.com/holepunchto/bare-bundle) |
+| bare-console | WHATWG console | [holepunchto/bare-console](https://github.com/holepunchto/bare-console) |
+| bare-channel | Inter-thread messaging | [holepunchto/bare-channel](https://github.com/holepunchto/bare-channel) |
+| bare-atomics | Synchronization primitives | [holepunchto/bare-atomics](https://github.com/holepunchto/bare-atomics) |
+| bare-daemon | Daemon process management | [holepunchto/bare-daemon](https://github.com/holepunchto/bare-daemon) |
+| bare-inspector | V8 inspector | [holepunchto/bare-inspector](https://github.com/holepunchto/bare-inspector) |
+| bare-repl | REPL environment | [holepunchto/bare-repl](https://github.com/holepunchto/bare-repl) |
+| bare-signals | Signal handling | [holepunchto/bare-signals](https://github.com/holepunchto/bare-signals) |
+| bare-encoding | TextEncoder/TextDecoder | [holepunchto/bare-encoding](https://github.com/holepunchto/bare-encoding) |
+| bare-structured-clone | Structured cloning | [holepunchto/bare-structured-clone](https://github.com/holepunchto/bare-structured-clone) |
+| bare-zmq | ZeroMQ bindings | [holepunchto/bare-zmq](https://github.com/holepunchto/bare-zmq) |
 
 ---
 
-Module npm versions verified April 2026. Check
-latest: `npm view <module> version`.
+Module npm versions change often — check the latest
+with `npm view <module> version`.
 

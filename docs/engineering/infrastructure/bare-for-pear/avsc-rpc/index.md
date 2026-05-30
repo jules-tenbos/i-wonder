@@ -2,6 +2,7 @@
 layout: default
 lastmod: 2026-05-03
 title: "avsc-rpc — Avro RPC Protocol"
+description: "avsc-rpc is the Avro RPC/IPC layer extracted from avsc v5 and maintained as a standalone library for the Bare runtime."
 ---
 
 [Home](/) > [Engineering](/engineering/) > [Infrastructure](/engineering/infrastructure/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > avsc-rpc

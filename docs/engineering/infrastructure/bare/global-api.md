@@ -1,10 +1,11 @@
 ---
 layout: default
-lastmod: 2026-05-03
+lastmod: 2026-05-29
 title: "Bare Global API"
+description: "The Bare global namespace: properties, methods, lifecycle events, and the Thread, Addon, and IPC sub-namespaces, available without import."
 ---
 
-[Home](/) > [Engineering](/engineering/) > [Substrate](/engineering/substrate/) > [Bare Runtime](/engineering/infrastructure/bare/) > Global API
+[Home](/) > [Engineering](/engineering/) > [Infrastructure](/engineering/infrastructure/) > [Bare Runtime](/engineering/infrastructure/bare/) > Global API
 
 # Bare Global API
 
@@ -85,6 +86,7 @@ Returns a Duplex stream or null if not embedded.
 
 ---
 
-**Source:** https://github.com/holepunchto/bare
-and https://docs.pears.com/reference/api.html
+**Source:**
+[github.com/holepunchto/bare](https://github.com/holepunchto/bare)
+and [docs.pears.com/reference/api](https://docs.pears.com/reference/api)
 

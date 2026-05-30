@@ -2,6 +2,7 @@
 layout: default
 lastmod: 2026-05-03
 title: "RPC Server — Lifecycle Module"
+description: "Server lifecycle management for the Bare runtime: TCP listener management, PID tracking, file-based command IPC, and request logging."
 ---
 
 [Home](/) > [Engineering](/engineering/) > [Infrastructure](/engineering/infrastructure/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > RPC Server

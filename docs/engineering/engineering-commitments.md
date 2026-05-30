@@ -2,6 +2,7 @@
 layout: default
 lastmod: 2026-05-03
 title: "Engineering Commitments"
+description: "The engineering commitments taken before the architecture is reached: data first, no hidden state, functionality as metadata, decentralisation as constitutive."
 ---
 
 [Home](/) > [Engineering](/engineering/) > Engineering Commitments

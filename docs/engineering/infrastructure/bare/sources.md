@@ -1,10 +1,11 @@
 ---
 layout: default
-lastmod: 2026-05-03
+lastmod: 2026-05-29
 title: "Documentation Sources"
+description: "External references for the Bare runtime ecosystem: primary repos, Pears docs, key dependencies, module repositories, and how to check for npm updates."
 ---
 
-[Home](/) > [Engineering](/engineering/) > [Substrate](/engineering/substrate/) > [Bare Runtime](/engineering/infrastructure/bare/) > Sources
+[Home](/) > [Engineering](/engineering/) > [Infrastructure](/engineering/infrastructure/) > [Bare Runtime](/engineering/infrastructure/bare/) > Sources
 
 # Documentation Sources
 
@@ -18,78 +19,74 @@ check for updates.
 
 | Resource | URL |
 |----------|-----|
-| Bare runtime | https://github.com/holepunchto/bare |
-| Module system | https://github.com/holepunchto/bare-module |
-| Node.js compat | https://github.com/holepunchto/bare-node-runtime |
+| Bare runtime | [github.com/holepunchto/bare](https://github.com/holepunchto/bare) |
+| Module system | [github.com/holepunchto/bare-module](https://github.com/holepunchto/bare-module) |
+| Node.js compat | [github.com/holepunchto/bare-node-runtime](https://github.com/holepunchto/bare-node-runtime) |
 
 ## Pears Documentation
 
 | Resource | URL |
 |----------|-----|
-| Bare overview | https://docs.pears.com/reference/bare-overview.html |
-| Node.js compat | https://docs.pears.com/reference/node-compat.html |
-| API reference | https://docs.pears.com/reference/api.html |
+| Bare overview | [docs.pears.com/reference/bare-overview](https://docs.pears.com/reference/bare-overview) |
+| Node.js compat | [docs.pears.com/reference/node-compat](https://docs.pears.com/reference/node-compat) |
+| API reference | [docs.pears.com/reference/api](https://docs.pears.com/reference/api) |
 
 ## Key Dependencies
 
 | Resource | URL |
 |----------|-----|
-| libjs (V8 bindings) | https://github.com/holepunchto/libjs |
-| libuv (event loop) | https://github.com/libuv/libuv |
-| streamx (streams) | https://github.com/mafintosh/streamx |
-| UDX (UDP) | https://github.com/holepunchto/udx-native |
+| libjs (engine-independent bindings) | [github.com/holepunchto/libjs](https://github.com/holepunchto/libjs) |
+| libuv (event loop) | [github.com/libuv/libuv](https://github.com/libuv/libuv) |
+| streamx (streams) | [github.com/mafintosh/streamx](https://github.com/mafintosh/streamx) |
+| UDX (UDP) | [github.com/holepunchto/udx-native](https://github.com/holepunchto/udx-native) |
 
 ## Module Repositories
 
 ### Filesystem and Paths
-- bare-fs: https://github.com/holepunchto/bare-fs
-- bare-path: https://github.com/holepunchto/bare-path
+- bare-fs: [github.com/holepunchto/bare-fs](https://github.com/holepunchto/bare-fs)
+- bare-path: [github.com/holepunchto/bare-path](https://github.com/holepunchto/bare-path)
 
 ### Networking
-- bare-net: https://github.com/holepunchto/bare-net
-- bare-http1: https://github.com/holepunchto/bare-http1
-- bare-https: https://github.com/holepunchto/bare-https
-- bare-dns: https://github.com/holepunchto/bare-dns
-- bare-dgram: https://github.com/holepunchto/bare-dgram
-- bare-tls: https://github.com/holepunchto/bare-tls
+- bare-net: [github.com/holepunchto/bare-net](https://github.com/holepunchto/bare-net)
+- bare-http1: [github.com/holepunchto/bare-http1](https://github.com/holepunchto/bare-http1)
+- bare-https: [github.com/holepunchto/bare-https](https://github.com/holepunchto/bare-https)
+- bare-dns: [github.com/holepunchto/bare-dns](https://github.com/holepunchto/bare-dns)
+- bare-dgram: [github.com/holepunchto/bare-dgram](https://github.com/holepunchto/bare-dgram)
+- bare-tls: [github.com/holepunchto/bare-tls](https://github.com/holepunchto/bare-tls)
 
 ### Core
-- bare-buffer: https://github.com/holepunchto/bare-buffer
-- bare-events: https://github.com/holepunchto/bare-events
-- bare-stream: https://github.com/holepunchto/bare-stream
-- bare-crypto: https://github.com/holepunchto/bare-crypto
-- bare-zlib: https://github.com/holepunchto/bare-zlib
+- bare-buffer: [github.com/holepunchto/bare-buffer](https://github.com/holepunchto/bare-buffer)
+- bare-events: [github.com/holepunchto/bare-events](https://github.com/holepunchto/bare-events)
+- bare-stream: [github.com/holepunchto/bare-stream](https://github.com/holepunchto/bare-stream)
+- bare-crypto: [github.com/holepunchto/bare-crypto](https://github.com/holepunchto/bare-crypto)
+- bare-zlib: [github.com/holepunchto/bare-zlib](https://github.com/holepunchto/bare-zlib)
 
 ### Process and System
-- bare-process: https://github.com/holepunchto/bare-process
-- bare-env: https://github.com/holepunchto/bare-env
-- bare-os: https://github.com/holepunchto/bare-os
-- bare-tty: https://github.com/holepunchto/bare-tty
-- bare-readline: https://github.com/holepunchto/bare-readline
+- bare-process: [github.com/holepunchto/bare-process](https://github.com/holepunchto/bare-process)
+- bare-env: [github.com/holepunchto/bare-env](https://github.com/holepunchto/bare-env)
+- bare-os: [github.com/holepunchto/bare-os](https://github.com/holepunchto/bare-os)
+- bare-tty: [github.com/holepunchto/bare-tty](https://github.com/holepunchto/bare-tty)
+- bare-readline: [github.com/holepunchto/bare-readline](https://github.com/holepunchto/bare-readline)
 
 ### Additional
-- bare-subprocess: https://github.com/holepunchto/bare-subprocess
-- bare-timers: https://github.com/holepunchto/bare-timers
-- bare-url: https://github.com/holepunchto/bare-url
-- bare-fetch: https://github.com/holepunchto/bare-fetch
-- bare-ws: https://github.com/holepunchto/bare-ws
-- bare-worker: https://github.com/holepunchto/bare-worker
-- bare-rpc: https://github.com/holepunchto/bare-rpc
-- bare-bundle: https://github.com/holepunchto/bare-bundle
-- bare-console: https://github.com/holepunchto/bare-console
-- bare-channel: https://github.com/holepunchto/bare-channel
-- bare-atomics: https://github.com/holepunchto/bare-atomics
-- bare-daemon: https://github.com/holepunchto/bare-daemon
-- bare-inspector: https://github.com/holepunchto/bare-inspector
-- bare-repl: https://github.com/holepunchto/bare-repl
-- bare-signals: https://github.com/holepunchto/bare-signals
-- bare-encoding: https://github.com/holepunchto/bare-encoding
-- bare-structured-clone: https://github.com/holepunchto/bare-structured-clone
-- bare-zmq: https://github.com/holepunchto/bare-zmq
-
-## SPLectrum Context
-- Holepunch proposal: projects/01-engineering-foundation/splectrum-holepunch-proposal.md
-- spl2 Bare exploration: spl2/projects/04-bare-runtime-hello-world/
+- bare-subprocess: [github.com/holepunchto/bare-subprocess](https://github.com/holepunchto/bare-subprocess)
+- bare-timers: [github.com/holepunchto/bare-timers](https://github.com/holepunchto/bare-timers)
+- bare-url: [github.com/holepunchto/bare-url](https://github.com/holepunchto/bare-url)
+- bare-fetch: [github.com/holepunchto/bare-fetch](https://github.com/holepunchto/bare-fetch)
+- bare-ws: [github.com/holepunchto/bare-ws](https://github.com/holepunchto/bare-ws)
+- bare-worker: [github.com/holepunchto/bare-worker](https://github.com/holepunchto/bare-worker)
+- bare-rpc: [github.com/holepunchto/bare-rpc](https://github.com/holepunchto/bare-rpc)
+- bare-bundle: [github.com/holepunchto/bare-bundle](https://github.com/holepunchto/bare-bundle)
+- bare-console: [github.com/holepunchto/bare-console](https://github.com/holepunchto/bare-console)
+- bare-channel: [github.com/holepunchto/bare-channel](https://github.com/holepunchto/bare-channel)
+- bare-atomics: [github.com/holepunchto/bare-atomics](https://github.com/holepunchto/bare-atomics)
+- bare-daemon: [github.com/holepunchto/bare-daemon](https://github.com/holepunchto/bare-daemon)
+- bare-inspector: [github.com/holepunchto/bare-inspector](https://github.com/holepunchto/bare-inspector)
+- bare-repl: [github.com/holepunchto/bare-repl](https://github.com/holepunchto/bare-repl)
+- bare-signals: [github.com/holepunchto/bare-signals](https://github.com/holepunchto/bare-signals)
+- bare-encoding: [github.com/holepunchto/bare-encoding](https://github.com/holepunchto/bare-encoding)
+- bare-structured-clone: [github.com/holepunchto/bare-structured-clone](https://github.com/holepunchto/bare-structured-clone)
+- bare-zmq: [github.com/holepunchto/bare-zmq](https://github.com/holepunchto/bare-zmq)
 
 ---
 
@@ -110,7 +107,3 @@ for mod in bare bare-fs bare-net bare-path \
   echo "$mod: $(npm view $mod version)"
 done
 ```
-
-Module npm versions in this reference verified
-April 2026.
-

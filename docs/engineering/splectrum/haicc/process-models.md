@@ -2,6 +2,7 @@
 layout: default
 lastmod: 2026-05-03
 title: "Process Models — Decentralised Evolutionary"
+description: "HAICC's decentralised evolutionary process model: scan, diversify, evolve waves triggered by data state changes, with no orchestration — inspired by neuroscience."
 ---
 
 [Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > [HAICC](/engineering/splectrum/haicc/) > Process Models

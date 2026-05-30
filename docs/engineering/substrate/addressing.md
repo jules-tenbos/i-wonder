@@ -2,6 +2,7 @@
 layout: default
 lastmod: 2026-05-29
 title: "Addressing"
+description: "Addressing is the committed substrate role for 'where', split across two languages: URI identifies which resource, XPath navigates where within it."
 ---
 
 [Home](/) > [Engineering](/engineering/) > [Substrate](/engineering/substrate/) > Addressing

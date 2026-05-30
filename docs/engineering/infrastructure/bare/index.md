@@ -1,7 +1,8 @@
 ---
 layout: default
-lastmod: 2026-05-03
+lastmod: 2026-05-29
 title: "Bare Runtime Reference"
+description: "Reference for the Holepunch Bare runtime: a small, modular JavaScript runtime for desktop and mobile, with no standard library, built on libuv."
 ---
 
 [Home](/) > [Engineering](/engineering/) > [Infrastructure](/engineering/infrastructure/) > Bare Runtime
@@ -9,6 +10,21 @@ title: "Bare Runtime Reference"
 # Bare Runtime Reference
 
 Reference for the Holepunch Bare runtime.
+
+**Source:** [github.com/holepunchto/bare](https://github.com/holepunchto/bare)
+
+## More Details
+
+- [Dual-Runtime Config](dual-runtime.md) — config
+  that runs the same code on both Bare and Node.js
+- [Global API](global-api.md) — the Bare global
+  namespace
+- [Module Catalog](modules.md) — all modules with
+  sources and version numbers
+- [Module System](module-system.md) — resolution,
+  conditions, protocols
+- [Platforms](platforms.md) — supported platforms
+- [Sources](sources.md) — all documentation links
 
 ---
 
@@ -22,8 +38,6 @@ library — everything is a userland module installed
 via npm. This makes it minimal by design: what you
 compose in is what exists.
 
-**Source:** https://github.com/holepunchto/bare
-
 ## Installation
 
 ```
@@ -35,10 +49,12 @@ Prebuilt binaries included for Tier 1 platforms.
 ## Architecture
 
 Bare is built on two dependencies:
-- **libjs** — low-level V8 bindings
-  (https://github.com/holepunchto/libjs)
+- **libjs** — low-level, engine-independent
+  JavaScript-engine bindings; abstracts over V8,
+  JavaScriptCore, and QuickJS
+  ([github.com/holepunchto/libjs](https://github.com/holepunchto/libjs))
 - **libuv** — asynchronous I/O event loop
-  (https://github.com/libuv/libuv)
+  ([github.com/libuv/libuv](https://github.com/libuv/libuv))
 
 The runtime itself provides only three things:
 1. A module system (CJS and ESM with bidirectional
@@ -69,28 +85,16 @@ bare [flags] [filename] [...args]
 
 | Flag | Description |
 |------|-------------|
-| `--version`, `-v` | Print version |
-| `--eval`, `-e <script>` | Evaluate inline |
-| `--print`, `-p <script>` | Eval and print |
-| `--inspect` | V8 inspector |
-| `--expose-gc` | GC APIs |
+| `--version`, `-v` | Print the Bare version |
+| `--eval`, `-e <script>` | Evaluate an inline script |
+| `--print`, `-p <script>` | Evaluate inline and print the result |
+| `--inspect` | Activate the inspector |
+| `--help`, `-h` | Show help |
 
 No script — starts REPL.
 
-## Reference Pages
-
-- [Dual-Runtime Code](dual-runtime.md) — writing
-  code that runs on both Bare and Node.js
-- [Global API](global-api.md) — the Bare global
-  namespace
-- [Module Catalog](modules.md) — all modules with
-  sources and version numbers
-- [Module System](module-system.md) — resolution,
-  conditions, protocols
-- [Platforms](platforms.md) — supported platforms
-- [Sources](sources.md) — all documentation links
-
 ---
 
-Module npm versions verified April 2026.
+Checked against bare 1.28.5. Module npm versions are
+tracked on the [Module Catalog](modules.md) page.
 

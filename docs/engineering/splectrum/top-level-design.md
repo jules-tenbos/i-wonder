@@ -2,6 +2,7 @@
 layout: default
 lastmod: 2026-05-03
 title: "SPLectrum Engineering — Top Level Design"
+description: "The three pillars of the SPLectrum platform — repository (mycelium), language (SPLectrum), process (HAICC) — and why each fabric is named what it is."
 ---
 
 [Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > Top Level Design

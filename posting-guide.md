@@ -328,6 +328,12 @@ All internal links must use trailing slashes. `/seed/` not `/seed`. No exception
 
 GitHub Pages serves everything at trailing-slash URLs. Non-slash URLs redirect. Google indexes the trailing-slash version and complains about the redirect. Sitemap entries, markdown links, HTML hrefs — always trailing slash.
 
+**Corollary — file↔directory moves need no redirect.** Because every internal link carries the trailing slash, converting a page file to a directory index (`pear.md` → `pear/index.md`) keeps the same URL (`/…/pear/`). Correctly-written links keep working unchanged, so no redirect stub is required for this kind of move. Only add a redirect when a non-slash path or an external URL was shared somewhere outside the repo.
+
+### Sources blocks & freshness
+
+Reference pages (e.g. the infrastructure hub) end with a **Sources** block pointing at where the material lives upstream — `Docs`, `Repo`, `npm` — so refreshes are cheap. Do **not** add a `Snapshot:` / `verified` / `reviewed` date line to the body: freshness is tracked by the `lastmod` frontmatter, which is machine-readable and updates whenever the page is touched. A hand-written body date only duplicates `lastmod` and rots independently. Keep substantive non-date facts (e.g. "checked against bare 1.28.5") if useful, but drop the date itself.
+
 ### General
 - Maximum 5 links per post (internal + external combined)
 - Link on first mention, not every mention

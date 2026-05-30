@@ -2,6 +2,7 @@
 layout: default
 lastmod: 2026-05-03
 title: "Language Substrate"
+description: "The committed languages of the architecture: AVRO for structure, Git for historicity, URI and XPath for addressing, Kafka for mobility."
 ---
 
 [Home](/) > [Engineering](/engineering/) > Language Substrate

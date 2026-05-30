@@ -2,6 +2,7 @@
 layout: default
 lastmod: 2026-05-03
 title: "git — Git CLI Wrapper"
+description: "A git CLI wrapper for the Bare runtime: structured output, subtree lifecycle management, a two-reality model, and hosted repo operations."
 ---
 
 [Home](/) > [Engineering](/engineering/) > [Infrastructure](/engineering/infrastructure/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > Git

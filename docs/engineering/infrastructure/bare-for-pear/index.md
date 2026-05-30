@@ -2,6 +2,7 @@
 layout: default
 lastmod: 2026-05-03
 title: "bare-for-pear"
+description: "Modules built for the Bare runtime: avsc, avsc-rpc, git, and rpc-server, mixing community forks with original infrastructure modules."
 ---
 
 [Home](/) > [Engineering](/engineering/) > [Infrastructure](/engineering/infrastructure/) > bare-for-pear

@@ -2,6 +2,7 @@
 layout: default
 lastmod: 2026-05-03
 title: "Identifier Grammar"
+description: "The structural primitives of mycelium identifiers: the dot for the namespace dimension and the underscore prefix for the metadata dimension, extendable over time."
 ---
 
 [Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > [Mycelium](/engineering/splectrum/mycelium/) > Identifier Grammar

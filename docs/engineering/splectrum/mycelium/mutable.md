@@ -2,6 +2,7 @@
 layout: default
 lastmod: 2026-05-03
 title: "Mycelium Mutable Protocol"
+description: "The mutable protocol manages living surfaces derived from immutable source queues — creating, syncing, rebuilding, and discarding expendable mutable resources."
 ---
 
 [Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > [Mycelium](/engineering/splectrum/mycelium/) > Mutable

@@ -2,6 +2,7 @@
 layout: default
 lastmod: 2026-05-29
 title: "AVRO"
+description: "AVRO is the committed substrate language of structure, articulating the shape of data with conformance discovered through reader/writer schema resolution."
 ---
 
 [Home](/) > [Engineering](/engineering/) > [Substrate](/engineering/substrate/) > AVRO

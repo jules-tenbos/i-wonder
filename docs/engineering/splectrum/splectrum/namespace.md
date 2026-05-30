@@ -2,6 +2,7 @@
 layout: default
 lastmod: 2026-05-03
 title: "Namespace"
+description: "The SPLectrum naming system: identifier grammar, how one identifier carries multiple dimensions, the namespace backbone, identifier mapping, and versioning."
 ---
 
 [Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > [SPLectrum](/engineering/splectrum/splectrum/) > Namespace

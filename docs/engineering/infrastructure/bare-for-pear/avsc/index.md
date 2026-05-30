@@ -2,6 +2,7 @@
 layout: default
 lastmod: 2026-05-03
 title: "avsc — Avro Type System"
+description: "avsc is a complete pure JavaScript implementation of the Apache Avro specification, forked and adapted for the Bare runtime."
 ---
 
 [Home](/) > [Engineering](/engineering/) > [Infrastructure](/engineering/infrastructure/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > avsc

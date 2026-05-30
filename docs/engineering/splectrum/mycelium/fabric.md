@@ -2,6 +2,7 @@
 layout: default
 lastmod: 2026-05-03
 title: "Mycelium Fabric"
+description: "The static architecture of the mycelium data fabric: identifier points, property bags, and contexts — process-colocated data structures held in git-constituted subject realities."
 ---
 
 [Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > [Mycelium](/engineering/splectrum/mycelium/) > Fabric

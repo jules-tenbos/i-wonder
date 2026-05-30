@@ -2,6 +2,7 @@
 layout: default
 lastmod: 2026-05-03
 title: "Mycelium"
+description: "Mycelium is SPLectrum's data fabric: a git-wrapped data tree where the repository is the subject's reality, at the intersection of AVRO, Git, and Kafka."
 ---
 
 [Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > Mycelium

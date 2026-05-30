@@ -15,6 +15,15 @@ Identified by positioning audit (2026-05-28). Ordered by proximity to the seed's
 - **Smolin** — loop quantum gravity (co-developer with Rovelli), cosmological natural selection, the reality of time. Mentioned in assembly-theory (TAP collaboration with Kauffman). Works in the same space as Rovelli plus adds evolutionary cosmology.
 - **Wolfram** — cellular automata, "A New Kind of Science", computational universe. Referenced in CAS adjacent-traditions but no person page.
 
+### Software-infrastructure cluster
+
+From the substrate-as-Subjects work (Avro, Git, Kafka, URI, XPath). Each is credited inline on an existing subject/person page but deferred — co-creators and co-authors rather than the lead figure, so lower priority than the lead figures already given pages (Cutting, Kreps, Berners-Lee, Fielding, Clark, Torvalds, Kleppmann).
+
+- **Neha Narkhede** — co-creator of Apache Kafka, co-founder and former CTO of Confluent. Credited on the Kafka subject.
+- **Jun Rao** — co-creator of Apache Kafka, co-founder of Confluent; distributed-systems engineer. Credited on the Kafka subject.
+- **Larry Masinter** — co-author of the URI RFCs (1738, 2396, 3986); internet standards at Xerox PARC and Adobe. Credited on the URI subject.
+- **Steven DeRose** — XPointer, XML/SGML, hypertext; computational linguistics background. Credited on the XPath subject as a related figure.
+
 ## Subjects — candidates
 
 - Cybernetics — Ashby, Wiener, von Foerster, Bateson all have person pages. CAS adjacent-traditions treats it as precursor but no standalone subject page. Feedback, communication, self-regulation are structurally close to SPLectrum.

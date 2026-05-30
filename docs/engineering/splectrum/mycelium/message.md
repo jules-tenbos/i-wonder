@@ -2,6 +2,7 @@
 layout: default
 lastmod: 2026-05-03
 title: "Mycelium Message"
+description: "The mycelium message is the tree in motion: a nested Kafka record with headers carrying intent and value carrying the result, dispatched by logical type."
 ---
 
 [Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > [Mycelium](/engineering/splectrum/mycelium/) > Message

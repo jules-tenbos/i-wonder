@@ -2,6 +2,7 @@
 layout: default
 lastmod: 2026-05-29
 title: "Git"
+description: "Git is the committed substrate language of historicity, recording time as a content-addressed DAG of commits for decentralised, verifiable exchange."
 ---
 
 [Home](/) > [Engineering](/engineering/) > [Substrate](/engineering/substrate/) > Git
