@@ -21,6 +21,8 @@ The Infrastructure layer is the software the SPLectrum Platform is built on. Thi
 - [bare-for-pear](bare-for-pear/) — modules we adapted to run on Bare, and what we learned doing it.
 - [pear-full-square](pear-full-square/) — our proof-of-concept repositories.
 
-## Other Third Parties
+## Wider P2P & Pear Ecosystem
 
-- [Wider p2p & Pear Ecosystem](ecosystem/) — projects and apps the wider community is building on the stack.
+**Flagship:** [Keet](https://keet.io/) — Holepunch's P2P chat, the marquee app built on the stack.
+
+- [Browse the ecosystem](ecosystem/) — projects built on the stack, graded established / active / further.

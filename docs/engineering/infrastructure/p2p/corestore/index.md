@@ -61,7 +61,7 @@ await main.ready()
 
 ## Version
 
-> **`npm i corestore` installs v7, not the newest major.** The `latest` dist-tag is deliberately kept on Corestore 7 (`7.10.0`) "to avoid too much disruption," with v11 to become `latest` "in a few weeks." A v11 exists but is not `latest` yet. **Pin deliberately and re-check `npm view corestore dist-tags` before depending.** (Corestore 7 onward is RocksDB-backed, matching Hypercore's `hypercore-storage` line.)
+> **`npm i corestore` installs v7, not the newest major.** The `latest` dist-tag is deliberately kept on Corestore 7 (`7.10.0`). The README states a v11 is planned "to avoid too much disruption" (upstream's wording at time of writing), but as of May 2026 no major above 7 has been published to npm. **Pin deliberately and re-check `npm view corestore dist-tags` before depending.** (Corestore 7 onward is RocksDB-backed, matching Hypercore's `hypercore-storage` line.)
 
 ## Sources
 - Docs: [docs.pears.com/how-tos/work-with-many-hypercores-using-corestore](https://docs.pears.com/how-tos/work-with-many-hypercores-using-corestore)
