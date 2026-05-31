@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-29
+lastmod: 2026-05-31
 title: "P2P building blocks"
 description: "The Hypercore storage family plus the networking, crypto, and availability primitives of the Holepunch peer-to-peer stack, usable on their own."
 ---
@@ -37,5 +37,5 @@ The distributed-data and networking primitives at the heart of the stack — the
 - [dht-relay](dht-relay/) — reach the DHT from environments that can't speak it directly.
 
 ## Sources
-- Docs: https://docs.pears.com/building-blocks/
-- Repo: https://github.com/holepunchto/
+- Docs: [docs.pears.com/building-blocks](https://docs.pears.com/building-blocks/)
+- Repo: [github.com/holepunchto](https://github.com/holepunchto/)
