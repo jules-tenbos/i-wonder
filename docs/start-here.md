@@ -20,6 +20,6 @@ Two blog series run through SPLectrum's development:
 
 The nine sections on the homepage each do different work. The one worth knowing about first is [Positioning](/positioning/) — the site's reference layer. It holds [persons](/positioning/persons/) and [subjects](/positioning/subjects/) A–Z that introduce figures and subjects of importance to SPLectrum, alongside topic-driven pieces that place SPLectrum in conversation with them.
 
-The other sections all contain SPLectrum's own work. For more detail on how they fit together, see [The 9-Box Homepage](/real-life/the-9-box-homepage/).
+The other sections all contain SPLectrum's own work. For more detail on how they fit together, see [The 9-Box Homepage](/real-life/spl/the-9-box-homepage/).
 
 Content is building up steadily, and sections are being populated — but don't expect a full house yet.
