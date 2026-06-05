@@ -1,15 +1,28 @@
 ---
 layout: default
-lastmod: 2026-05-29
+lastmod: 2026-06-05
 title: "pear-full-square"
-description: "pear-full-square is a collection of proof-of-concept repositories exploring the Bare, P2P, and Pear stack, each probing one focused question."
+description: "P2P application code built on the Bare + Holepunch stack — production modules and proof-of-concept work."
 ---
 
 [Home](/) > [Engineering](/engineering/) > [Infrastructure](/engineering/infrastructure/) > pear-full-square
 
 # pear-full-square
 
-pear-full-square is our collection of proof-of-concept repositories exploring the Bare + P2P + Pear stack. Each POC isolates one question — a runtime capability, an integration, a deployment path — and carries it far enough to learn something concrete.
+P2P application code built on the Bare + Holepunch stack. A mix of
+proof-of-concept work and production modules. Published under the
+[pear-full-square](https://github.com/pear-full-square) GitHub organisation.
 
-This is a holding page. As the POCs surface publicly, each will get an entry noting what it probes, its current status, and what it proved.
+## Modules
 
+- [hyperdrive-fuse](hyperdrive-fuse/) — read-only FUSE mount for Hyperdrive
+  v11. Mount a P2P drive as a local filesystem. The swarm as a drive.
+- [mycelium](mycelium/) — the Mycelium data fabric base layer. CRUD and XPath
+  navigation over git objects, with a Kafka record dispatch boundary.
+
+## POC work
+
+- [p2p-docker-dev](https://github.com/pear-full-square/p2p-docker-dev) —
+  containerised P2P dev cluster. Phases 0–6 exploring Hyperswarm, RPC,
+  pub/sub, managed code, reactive dataflow. The proving ground for the
+  building blocks.
