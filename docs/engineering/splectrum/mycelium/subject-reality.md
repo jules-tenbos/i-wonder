@@ -3,6 +3,7 @@ layout: default
 lastmod: 2026-05-03
 title: "Subject Reality"
 description: "What a subject sees in mycelium: the local view of data state bounded by visibility — the reality each owner holds and operates on as their own."
+sitemap: false
 ---
 
 [Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > [Mycelium](/engineering/splectrum/mycelium/) > Subject Reality

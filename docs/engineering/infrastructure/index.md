@@ -19,7 +19,6 @@ The Infrastructure layer is the software the SPLectrum Platform is built on. Thi
 ## In House
 
 - [bare-for-pear](bare-for-pear/) — modules we adapted to run on Bare, and what we learned doing it.
-- [pear-full-square](pear-full-square/) — our proof-of-concept repositories.
 
 ## Wider P2P & Pear Ecosystem
 

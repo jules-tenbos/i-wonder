@@ -3,6 +3,7 @@ layout: default
 lastmod: 2026-05-03
 title: "SPLectrum — logical design"
 description: "The logical side of SPLectrum's engineering: how the system must look and how its three pillars weave — mycelium (data), SPLectrum (language), and HAICC (cognition)."
+sitemap: false
 ---
 
 [Home](/) > [Engineering](/engineering/) > SPLectrum

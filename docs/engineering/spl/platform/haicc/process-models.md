@@ -1,12 +1,11 @@
 ---
 layout: default
-lastmod: 2026-05-03
+lastmod: 2026-06-06
 title: "Process Models — Decentralised Evolutionary"
 description: "HAICC's decentralised evolutionary process model: scan, diversify, evolve waves triggered by data state changes, with no orchestration — inspired by neuroscience."
-sitemap: false
 ---
 
-[Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > [HAICC](/engineering/splectrum/haicc/) > Process Models
+[Home](/) > [Engineering](/engineering/) > [SPL Platform](/engineering/spl/platform/) > [HAICC](/engineering/spl/platform/haicc/) > Process Models
 
 # Process Models — Decentralised Evolutionary
 
@@ -55,4 +54,3 @@ Processes get woven into the data landscape through variation and experiential s
 **Reentrant signalling** (Edelman). Brain areas signal bidirectionally, constantly, peers synchronising with peers. Coherence through mutual interaction, not hierarchy. Directly observed through tract tracing, EEG, and fMRI.
 
 Activity is triggered by data state — incoming signals, internal state changes, results from other processes. The triggering mechanism is the data, not a scheduler. Embedded processes wake up when their conditions are met.
-

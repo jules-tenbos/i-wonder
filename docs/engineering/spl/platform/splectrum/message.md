@@ -1,16 +1,15 @@
 ---
 layout: default
-lastmod: 2026-05-03
+lastmod: 2026-06-06
 title: "Mycelium Message"
 description: "The mycelium message is the tree in motion: a nested Kafka record with headers carrying intent and value carrying the result, dispatched by logical type."
-sitemap: false
 ---
 
-[Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > [Mycelium](/engineering/splectrum/mycelium/) > Message
+[Home](/) > [Engineering](/engineering/) > [SPL Platform](/engineering/spl/platform/) > [SPLectrum](/engineering/spl/platform/splectrum/) > Message
 
 # Mycelium Message
 
-The message is the tree in motion. When the identifier structure becomes active — when it travels — it goes into a [Kafka record](/engineering/substrate/kafka/). The Kafka record does not introduce new structure. It introduces *directionality*. The tree is symmetric. The Kafka record says: this part is the question, this part is the answer. Same structure, now polarised.
+The message is the tree in motion. When the identifier structure becomes active — when it travels — it goes into a Kafka record. The Kafka record does not introduce new structure. It introduces *directionality*. The tree is symmetric. The Kafka record says: this part is the question, this part is the answer. Same structure, now polarised.
 
 ## Headers and Value
 
@@ -127,4 +126,3 @@ The response returns the request enriched with the result. No separate response 
 **Same shape sync and async** — the echo-back pattern works whether response returns immediately or via a queue.
 
 **Uniform dispatch** — every message is an operator invocation. No branching on message category. The logical type in `headers.record` is the single dispatch mechanism.
-

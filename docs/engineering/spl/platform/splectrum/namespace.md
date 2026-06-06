@@ -1,12 +1,11 @@
 ---
 layout: default
-lastmod: 2026-05-03
+lastmod: 2026-06-06
 title: "Namespace"
 description: "The SPLectrum naming system: identifier grammar, how one identifier carries multiple dimensions, the namespace backbone, identifier mapping, and versioning."
-sitemap: false
 ---
 
-[Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > [SPLectrum](/engineering/splectrum/splectrum/) > Namespace
+[Home](/) > [Engineering](/engineering/) > [SPL Platform](/engineering/spl/platform/) > [SPLectrum](/engineering/spl/platform/splectrum/) > Namespace
 
 # Namespace
 
@@ -84,4 +83,3 @@ An optional domain prefix can be added for external identity. Not architecturall
 ## Versioning
 
 Versioning is metadata, not name. Version metadata is advisory to the compatibility unit of the functional resolution algorithm — it helps resolution select, but the actual compatibility test is "readable as." When something diverges beyond "readable as" the original, it becomes a new namespace node — a new concept, not a version increment.
-

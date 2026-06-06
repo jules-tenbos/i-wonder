@@ -3,6 +3,7 @@ layout: default
 lastmod: 2026-05-03
 title: "Mycelium XPath"
 description: "XPath is the addressing and query language over the mycelium fabric: traversal, point of view, data scope versus functional resolution, and the protocol namespace tree."
+sitemap: false
 ---
 
 [Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > [Mycelium](/engineering/splectrum/mycelium/) > XPath

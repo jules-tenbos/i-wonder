@@ -1,12 +1,11 @@
 ---
 layout: default
-lastmod: 2026-05-03
+lastmod: 2026-06-06
 title: "Mycelium Protocol"
 description: "Protocol is the meaning layer for fabric operations: it gives generic operators like get and put their specific meaning through the context they operate within."
-sitemap: false
 ---
 
-[Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > [Mycelium](/engineering/splectrum/mycelium/) > Protocol
+[Home](/) > [Engineering](/engineering/) > [SPL Platform](/engineering/spl/platform/) > [SPLectrum](/engineering/spl/platform/splectrum/) > Protocol
 
 # Mycelium Protocol
 
@@ -20,7 +19,7 @@ This is the carrier/meaning split expressed at the operational level. The operat
 
 ## Protocol Operations
 
-Protocol operations are of two kinds, distinguished by the [identifier grammar](identifier-grammar#defined-vs-applied-operators):
+Protocol operations are of two kinds:
 
 **Defined operators** — `get`, `put`, `delete` — are part of the protocol's identity. They belong in the tree, dot-navigated, namespaced by position. Without them, it is a different protocol. `xpath.data.uri.get` is a defined operator.
 
@@ -30,7 +29,7 @@ Defined operators have base meanings — get retrieves, put places, delete remov
 
 ## The Message
 
-Every protocol invocation produces a [message](message) — a nested Kafka record where headers carry intent and value carries the result. The message is the tree in motion.
+Every protocol invocation produces a message — a nested Kafka record where headers carry intent and value carries the result. The message is the tree in motion.
 
 Dispatch reads one path: `headers.record.logicalType`. That is the routing key. The handler receives the message and returns the same message enriched with the result. One shape for invocation and response.
 
@@ -57,4 +56,3 @@ A context can declare its default execution mode. A child context can override. 
 Debug is a context metadata fact. When present on the ancestor axis, execution wraps in the debug protocol found nearest on the path.
 
 The debug protocol itself is resolved on the ancestor axis — it can be a simple trace logger at one level, a full step-through inspector at another. Remove the debug metadata, normal execution resumes. No code change, no restart.
-

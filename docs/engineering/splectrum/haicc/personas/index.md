@@ -3,6 +3,7 @@ layout: default
 lastmod: 2026-05-03
 title: "Personas"
 description: "A persona is a structured set of behaviours covering an area of work, expressed as data transformations over its repository — listed here as each comes into operation."
+sitemap: false
 ---
 
 [Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > [HAICC](/engineering/splectrum/haicc/) > Personas

@@ -3,6 +3,7 @@ layout: default
 lastmod: 2026-05-03
 title: "HAICC — Human-AI Creative Collaboration"
 description: "HAICC is SPLectrum's cognition pillar: cognition distributed across human and AI agents as collaborative peers, decentralised with no central controller."
+sitemap: false
 ---
 
 [Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > HAICC

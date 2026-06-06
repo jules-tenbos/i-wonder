@@ -3,6 +3,7 @@ layout: default
 lastmod: 2026-05-03
 title: "Mycelium Fabric Layers"
 description: "Layered data access in the mycelium fabric: the physical layer, data access kinds, safe mode, read modes, synchronisation, and replication declared in context metadata."
+sitemap: false
 ---
 
 [Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > [Mycelium](/engineering/splectrum/mycelium/) > Layers
