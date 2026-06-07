@@ -1,19 +1,19 @@
 ---
 layout: default
-lastmod: 2026-06-06
+lastmod: 2026-06-07
 title: "SPL Platform"
-description: "The core SPL architecture — P2P substrate, Mycelium data fabric, and the committed languages that constitute the fabric."
+description: "The SPL platform — P2P swarm, local bridgehead, and SPL components. A solution is a federation of platform components."
 ---
 
 [Home](/) > [Engineering](/engineering/) > SPL Platform
 
 # SPL Platform
 
-The core architecture. P2P substrate, Mycelium, and the committed languages that constitute the fabric.
+The SPL platform consists of a P2P swarm with common structure, where node membership is managed through a local bridgehead. An SPL solution installed in the swarm consists of a federation of SPL components.
 
 **[P2P Swarm and Bridgehead](swarm/)** — the infrastructure for the swarm setup and the node bridgehead that runs locally.
 
-**[Language Substrate](substrate/)** — the four committed languages that constitute the fabric: AVRO, Git, URI/XPath, Kafka.
+**[Language Substrate](substrate/)** — the five committed languages that constitute the fabric: Git, Kafka, AVRO, URI, XPath.
 
 **[Mycelium](mycelium/)** — the data fabric. The substrate in which data state lives.
 
@@ -22,3 +22,7 @@ The core architecture. P2P substrate, Mycelium, and the committed languages that
 **[HAICC](haicc/)** — the cognition fabric. Human-AI creative collaboration — process, coordination, division of work.
 
 **[SPL Component Setup](setup/)** — how the three fabrics compose into a functional component.
+
+## Circles and actors
+
+A local context is not limited to a single swarm. It is envisaged that a local context will join multiple SPL swarms — each a specific SPL platform install — called **circles**. Each circle is its own swarm with its own concern and trust domain. The local context coordinates interaction between its circles and is, in that capacity, an **actor** on the platform.

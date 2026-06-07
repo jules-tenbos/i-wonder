@@ -4,7 +4,7 @@ title: "Wiring the Brain"
 date: 2026-06-08
 lastmod: 2026-07-08
 labels: [preamble]
-status: final review
+status: ready
 words: 540
 ---
 <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhpHT0SRjcTAsbkNennufJkJt6OZV6brkvLYIBeDcUG-t5pnh2BxD_fXpvLWPR0NVb5anySCYYEiZl7JjZMEvQnDS5uaHf_gDRYo2F_SMYEhH4RqflgrIGB04DIQocQJTK340_VzRLWf6r4UwO60mpZ8ZMNrE88FoSxFUE3pARg_R2KPzmn7M85btMg" alt="Wiring the Brain" />

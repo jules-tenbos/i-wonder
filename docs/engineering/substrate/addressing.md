@@ -1,5 +1,5 @@
 ---
 layout: redirect
-redirect_to: /engineering/spl/platform/substrate/addressing/
+redirect_to: /engineering/spl/platform/substrate/
 sitemap: false
 ---
