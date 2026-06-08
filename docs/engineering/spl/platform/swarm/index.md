@@ -42,3 +42,9 @@ Together with the container's own configuration within the local environment —
 ## Design status
 
 This is the beginning of the core design. The swarm structure, the bridgehead container, and the three integration modes are proven in a POC setup. The logical structure described here — platform nodes carrying the install, peer bridgeheads integrating locally — is the foundation for SPL components and solutions that build on it.
+
+## See also
+
+- **[Hyperdrive](/engineering/infrastructure/p2p/hyperdrive/)** — the distributed filesystem that carries the swarm's install and content.
+- **[HyperDHT](/engineering/infrastructure/p2p/hyperdht/)** — the distributed hash table for peer discovery and connectivity.
+- **[hyperdrive-fuse](/engineering/spl/software/hyperdrive-fuse/)** — the FUSE mount that exposes the replicated drive as a local filesystem.
