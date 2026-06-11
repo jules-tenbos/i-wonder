@@ -4,7 +4,30 @@ Persons and subjects referenced on the site without their own entry. Two lists. 
 
 Persons section cleared 2026-05-28 (84 person pages total across three sessions); gap audit 2026-05-28 identified new candidates below.
 
-## Persons — candidates
+## Persons — metaphysics cluster (2026-06-11)
+
+Identified by research into the core values (belonging, privacy, creativity), the four metaphysics pillars (epistemology, ontology, aesthetics, ethics), aesthetics-before-ethics, and disclosure method. Ordered by relevance to the metaphysics positions.
+
+- **Croce** — *Aesthetic as Science of Expression and General Linguistic* (1902). "Philosophy of language and philosophy of art are the same thing." Aesthetics as first form of knowledge, beauty as expressive precision. Closest single precedent for aesthetics-as-quality-of-language as foundational. Argues aesthetics is *independent* of ethics, not that ethics needs it.
+- **Levinas** — *Totality and Infinity* (1961), *Otherwise than Being* (1974). The Saying/Said distinction: quality of address ethically prior to propositional content. Positive account of interiority (dwelling, nourishment). Appears in both research tracks — closest to SPLectrum without being the same.
+- **Charles Taylor** — *Sources of the Self* (1989). Three axes of modern identity: inwardness (privacy), dialogical self through shared language (belonging), authenticity as self-creation (creativity). Closest single-thinker mapping onto the three values. Genealogical, not ontological.
+- **Schiller** (Friedrich) — *Letters on the Aesthetic Education of Man* (1795). Aesthetic education as precondition for moral and political freedom. Closest historical precedent for aesthetics-before-ethics ordering.
+- **Buber** — *I and Thou* (1923). "All real living is meeting." Relation as primary. Belonging as encounter, not absorption. Dyadic — doesn't scale easily to language-communities.
+- **Castoriadis** — *The Imaginary Institution of Society* (1975). Society creates rather than discovers its forms. Autonomy as conscious self-institution. Creativity as social and ontological.
+- **Nishida** (Kitaro) — *Logic of Basho* (1926-). Self-awareness (privacy), mutual determination (belonging), action-intuition (creativity) as co-original. Closest non-Western parallel. Resolves into non-duality where SPLectrum holds the tension.
+- **Collingwood** — *The Principles of Art* (1938). Art as expression, language and art interchangeable. Failed expression produces "corrupt consciousness." Expression fundamental to all conscious life.
+- **Murdoch** (Iris) — *The Sovereignty of Good* (1970). Moral life depends on quality of perception ("attention"). Art trains this capacity. Aesthetic/perceptual capacity precedes ethical.
+- **Rancière** — *The Politics of Aesthetics* (2000). The "distribution of the sensible" determines who can speak before any ethical/political claim. Aesthetics structurally prior to politics. Sociological, not qualitative.
+- **Ricoeur** — *The Rule of Metaphor* (1975), *Oneself as Another* (1990). Metaphor as "event of thought" that redescribes reality. Identity disclosed through narrative. All three values present in the hermeneutics of the self.
+- **Bakhtin** — *Art and Answerability* (1919). Aesthetic activity as intersubjective. The utterance as dialogic. "Outsideness" enables understanding that life alone cannot. Close to resonance-between-intent-and-interaction.
+- **Marcuse** — *The Aesthetic Dimension* (1978). Art preserves liberation goals when politics fails. Autonomous truth-disclosing capacity.
+- **Kenneth Burke** — *Language as Symbolic Action* (1966). Language as world-making. Quality of symbolic action determines what realities become possible.
+- **Sen** — *Development as Freedom* (1999). Freedom as multidimensional, emerging from plural capabilities. Structural parallel for freedom-as-compositional.
+- **Nussbaum** — *Creating Capabilities* (2011). Capabilities approach. Freedom requires plural functionings. Evaluative framework, not lived unity.
+- **Sandel** — *Liberalism and the Limits of Justice* (1982). The "encumbered" self constituted by attachments. Community prior to choosing individual. Belonging axis.
+- **Kierkegaard** — *Either/Or* (1843). Three stages: aesthetic, ethical, religious. Anti-precedent: the aesthetic as immature, to be overcome. Worth having for contrast.
+
+## Persons — candidates (2026-05-28)
 
 Identified by positioning audit (2026-05-28). Ordered by proximity to the seed's territory.
 
@@ -25,6 +48,21 @@ From the substrate-as-Subjects work (Avro, Git, Kafka, URI, XPath). Each is cred
 - **Steven DeRose** — XPointer, XML/SGML, hypertext; computational linguistics background. Credited on the XPath subject as a related figure.
 
 ## Subjects — candidates
+
+### Metaphysics cluster (2026-06-11)
+
+- **Aesthetics** — the discipline from Baumgarten through Kant, Schiller, Croce, Dewey to contemporary philosophy. Now a named metaphysics pillar. The single largest gap in the subjects section. Covers: aisthesis (sensation), judgment of taste, expressivist tradition, phenomenological aesthetics, quality-of-language readings.
+- **Ubuntu** — "A person is a person through other persons." Belonging as ontological ground. Non-Western tradition directly relevant to the belonging value.
+- **Rasa theory** — Indian aesthetic theory. The resonance between expression and response as central mechanism. Non-Western parallel for the aesthetics-as-resonance position.
+
+### Updates needed (2026-06-11)
+
+- **Phenomenology** — carries SPLectrum vocabulary (P2, P3) in opening. Predates current voice rules. Needs voice adjustment.
+- **Pragmatism** — same voice issue. Carries P2, P3, P4 in opening.
+- **Dewey** (person) — *Art as Experience* paragraph thin relative to aesthetics now being a pillar. Could expand on Dewey's own terms.
+- **Nagel** (person) — "Where stops" could sharpen: privacy as a value rather than a gap.
+
+### Earlier candidates (2026-05-28)
 
 - Cybernetics — Ashby, Wiener, von Foerster, Bateson all have person pages. CAS adjacent-traditions treats it as precursor but no standalone subject page. Feedback, communication, self-regulation are structurally close to SPLectrum.
 - Enactivism — Varela has a page; autopoiesis subject page names the enactivist extension. Thompson, Noë, Di Paolo continuing Varela's work. Cognition as embodied, relational, world-constituting.
