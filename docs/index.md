@@ -1,13 +1,17 @@
 ---
 layout: home
-lastmod: 2026-05-05
+lastmod: 2026-06-11
 title: "The World of SPLectrum"
-description: "SPLectrum is a foundational philosophy grown from seed, egalitarian towards all disciplines, the home of interrelational pluralism."
+description: "SPLectrum is a foundational philosophy grown from seed — the home of interrelational pluralism. A metaphysics from three core values: belonging, privacy, creativity."
 ---
 
 # The Home of Interrelational Pluralism
 
-A foundational philosophy grown from a seed of six principles — on language, subjects, and relation. No discipline privileged. No meta-language above the rest. In a world of centralisation, the case for healthy decentralisation: privacy, local practice, and the equal standing of many ways of knowing. <span style="float:right">[New here? Reading path →](/start-here/)</span>
+A [foundational philosophy](/seed/) about the structure of reality, grown from seed — six principles on language, subjects, and relation. No discipline privileged, no meta-language above the rest.
+
+A [metaphysics](/reality/) taking shape through disclosure, from three core values — belonging, privacy, creativity — with aesthetics in a leading place.
+
+In short, [interrelational pluralism](/blog/2026/05/from-seed-to-interrelational-pluralism/): many realities, related and in motion. An antidote to centralisation, mental and physical. <span style="float:right">[New here? Reading path →](/start-here/)</span>
 
 <div class="area-grid">
   <a class="area-box" href="/blog/">

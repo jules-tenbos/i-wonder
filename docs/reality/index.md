@@ -1,24 +1,39 @@
 ---
 layout: default
-lastmod: 2026-05-06
+lastmod: 2026-06-11
 title: "Reality"
-description: "Reality through the lens of interrelational pluralism — community-constituted, accessed from inside, language-held. A foundational approach."
+description: "Reality disclosed from the seat of the subject — belonging, privacy, creativity as core values, and a metaphysics that follows from them."
 ---
 
 [Home](/) > Reality
 
-# Reality - The Building
+# Reality
 
-This section is research vision — where the work is heading, framed by the one claim it stands on.
+This section contains SPLectrum's views on reality, one voice among many in the pluralistic landscape. It describes a reality disclosed from the seat of the subject driven by three values: belonging, privacy and creativity. The metaphysics it yields is one where aesthetics is in a leading place. And reality is dynamic, a process of evolution.
 
-The claim: reality is community-constituted, accessed from inside, language-held. See **[The seed and Human Reality](/seed/human-reality/)** for how this follows from the seed, and **[The relational reading](relational-reading)** for the claim developed in its own terms.
+## Core Values
 
-From that spine, several directions open. Each is a research direction, not a settled account.
+Three values lie at the heart of the disclosure of reality: belonging, privacy and creativity. They are instrumental in the development of SPLectrum's metaphysics.
 
-**[Discovery](discovery/)**<br>
-How creation conforms to discovery — the walking of relational paths that were available but unwalked. Diversified discovery, the multiplier, the process model.
+**[The three core values at the heart of SPLectrum's metaphysics](/reality/core-values/)**
 
-**[Evolution](evolution/)**<br>
-The major transitions and what drives them — thresholds in interaction density producing structurally new expression. The curve, the thresholds, the thinking side.
+- **Belonging** — what is mine living also in others. Experience shaped by shared language, the toolset given by species and community.
+- **Privacy** — what I experience is internal to me. Distinct interiors, so the realities are genuinely many.
+- **Creativity** — the tension between what is shared and what is privately mine. Reality is added to, not read out.
 
-More to come — *many realities* (multi-membership, communities human and non-human), *where realities meet* (translation, encounter, the question of ethics as insight rather than judgment). These will emerge as the work develops.
+Creation conforms to [discovery](/reality/discovery/) — the walking of paths that were available but unwalked.
+
+## Metaphysics
+
+The three core values yield four metaphysics pillars, with aesthetics in a place it is traditionally not given.
+
+- **Epistemology** — we learn from private experience and sharing. There is no absolute objectivity, only converged subjectivity.
+- **Ontology** — language concepts and reality are the same thing, created and shared within a community.
+- **Aesthetics** — there is no private experience without sensory experience, and sensory experience is mediated by language. This opens up a position of importance: the aesthetics of language, meaning. Aesthetics as the resonance between intent and interaction.
+- **Ethics** — how we hold the tension between the values so none swallows the others. Gets its strength from the other three.
+
+## Evolution
+
+Reality is not static — it is a process. Sharing creates complexity: the more that is shared, the richer the common ground, the more there is to differ from, the more creativity has to work with. This dynamic drives the evolution of reality across all scales.
+
+**[Evolution](/reality/evolution/)** — the major transitions and what drives them. Thresholds in interaction density producing structurally new expression. The curve, the thresholds, the thinking side.
