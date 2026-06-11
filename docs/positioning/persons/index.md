@@ -50,9 +50,11 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Cassirer, Ernst (1874–1945)](c/cassirer) · philosopher<span class="kw">the philosophy of symbolic forms, the animal symbolicum, neo-Kantianism, substance and function, the Davos debate</span>
 - [Clark, James (1964–)](c/clark) · software engineer<span class="kw">XML technical lead, editor of XSLT 1.0 and XPath 1.0, expat, RELAX NG, groff</span>
 - [Cohen, Hermann (1842–1918)](c/cohen) · philosopher<span class="kw">Marburg neo-Kantianism, the logic of pure cognition, the productive role of thought, ethical socialism</span>
+- [Collingwood, R. G. (1889–1943)](c/collingwood) · philosopher, historian, archaeologist<span class="kw">art as expression, corrupt consciousness, language and art interchangeable, re-enactment, absolute presuppositions</span>
 - [Connolly, William E. (1938–)](c/connolly) · political theorist<span class="kw">deep pluralism, pluralisation, agonistic respect, politics of becoming, resonance machines</span>
 - [Cosmides, Leda (1957–)](c/cosmides) · cognitive psychologist<span class="kw">the adapted mind, cheater-detection experiments, social-contract theory, evolutionary psychology</span>
 - [Crick, Francis (1916–2004)](c/crick) · molecular biologist<span class="kw">the structure of DNA, the central dogma, the genetic code, the frozen-accident hypothesis, consciousness</span>
+- [Croce, Benedetto (1866–1952)](c/croce) · philosopher<span class="kw">aesthetics as general linguistics, intuition-expression, beauty as precision, the Philosophy of Spirit, anti-fascism</span>
 - [Cronin, Lee (1973–)](c/cronin) · chemist<span class="kw">polyoxometalate chemistry, chemical robots, digitised chemistry, Chemify, assembly theory</span>
 - [Cutting, Doug (1961–)](c/cutting) · software engineer<span class="kw">Lucene, Nutch, Hadoop, Avro — open-source search and large-scale data infrastructure</span>
 
@@ -152,6 +154,7 @@ Individual thinkers referenced across the positioning section. Each page present
 ## L
 
 - [Landauer, Rolf (1927–1999)](l/landauer) · physicist<span class="kw">Landauer's principle, the thermodynamics of computation, information as physical, Maxwell's demon resolved</span>
+- [Levinas, Emmanuel (1906–1995)](l/levinas) · philosopher<span class="kw">ethics as first philosophy, the face of the Other, totality and infinity, the Saying and the Said, interiority</span>
 - [Langton, Christopher (1948–)](l/langton) · computer scientist<span class="kw">artificial life, edge of chaos, self-reproducing loops, the SFI artificial life workshops</span>
 - [Laski, Harold (1893–1950)](l/laski) · political theorist<span class="kw">political pluralism, the sovereignty critique, the state as one association among many, democratic socialism</span>
 - [Lawvere, F. William (1937–2023)](l/lawvere) · mathematician<span class="kw">categorical foundations of mathematics, ETCS, elementary topos theory, categorical logic, adjointness</span>
@@ -183,6 +186,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Mendel, Gregor (1822–1884)](m/mendel) · friar, naturalist<span class="kw">laws of inheritance, pea plant experiments, discrete hereditary factors, dominance and recessiveness</span>
 - [Merleau-Ponty, Maurice (1908–1961)](m/merleau-ponty) · philosopher<span class="kw">phenomenology of the body, perception, the habitual body, intercorporeality</span>
 - [Mitchell, Melanie (1969–)](m/mitchell)
+- [Murdoch, Iris (1919–1999)](m/murdoch) · philosopher, novelist<span class="kw">attention, unselfing, the sovereignty of Good, moral perception, art and morality</span>
 - [Morgan, Thomas Hunt (1866–1945)](m/morgan) · geneticist<span class="kw">the chromosome theory of heredity, Drosophila genetics, sex-linked inheritance, chromosome mapping, the fly room</span> · computer scientist, complexity researcher<span class="kw">genetic algorithms, analogy-making, the CAS synthesis, complexity's limits and achievements</span>
 
 ## N
@@ -215,6 +219,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Reichenbach, Hans (1891–1953)](r/reichenbach) · philosopher of science<span class="kw">the direction of time, branch systems, common cause principle, probability and induction</span>
 - [Reid, Thomas (1710–1796)](r/reid) · philosopher<span class="kw">common-sense philosophy, direct realism, the critique of Hume's skepticism, the rejection of the theory of ideas</span>
 - [Richerson, Peter (1943–)](r/richerson) · evolutionary biologist<span class="kw">dual-inheritance theory (with Boyd), gene-culture coevolution, the ecological basis of cultural evolution</span>
+- [Rancière, Jacques (b. 1940)](r/ranciere) · philosopher<span class="kw">the distribution of the sensible, aesthetics and politics, equality as presupposition, the ignorant schoolmaster, dissensus</span>
 - [Rorty, Richard (1931–2007)](r/rorty) · philosopher<span class="kw">pragmatism, conversation over correspondence, contingency, solidarity</span>
 - [Rovelli, Carlo (1956–)](r/rovelli) · theoretical physicist, philosopher<span class="kw">loop quantum gravity, relational QM, time, Nagarjuna</span>
 - [Russell, Bertrand (1872–1970)](r/russell) · logician, philosopher<span class="kw">Principia Mathematica, logical atomism, the theory of descriptions, Russell's paradox</span>
@@ -226,6 +231,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Sartre, Jean-Paul (1905–1980)](s/sartre) · philosopher<span class="kw">existentialism, radical freedom, consciousness as nothingness, engagement</span>
 - [Saussure, Ferdinand de (1857–1913)](s/saussure) · linguist<span class="kw">structural linguistics, the differential sign, langue and parole</span>
 - [Schelling, Thomas (1921–2016)](s/schelling) · economist, game theorist<span class="kw">focal points, the segregation model, micromotives and macrobehavior</span>
+- [Schiller, Friedrich (1759–1805)](s/schiller) · poet, dramatist, philosopher<span class="kw">aesthetic education, the play drive, beauty as freedom in appearance, grace and dignity, naive and sentimental</span>
 - [Schumpeter, Joseph (1883–1950)](s/schumpeter) · economist<span class="kw">creative destruction, the entrepreneur as innovator, business cycles, capitalism's self-undermining dynamics</span>
 - [Schrödinger, Erwin (1887–1961)](s/schrodinger) · physicist<span class="kw">wave mechanics, the Schrödinger equation, What is Life?, negative entropy, the cat</span>
 - [Sellars, Wilfrid (1912–1989)](s/sellars) · philosopher<span class="kw">the myth of the given, the space of reasons, psychological nominalism, the manifest and scientific images</span>

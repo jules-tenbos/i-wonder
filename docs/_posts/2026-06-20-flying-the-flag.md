@@ -3,7 +3,7 @@ layout: post
 title: "Flying the Flag of Belonging, Privacy and Creativity"
 date: 2026-06-20
 lastmod: 2026-06-10
-labels: [seed, philosophy]
+labels: [reality]
 description: "Three values that come with the grain of being a subject: belonging, privacy, creativity. The flag SPLectrum flies on the content side."
 status: draft
 words: 0
