@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Meaning Patterns Travel"
-date: 2026-08-20
+date: 2026-09-24
 lastmod: 2026-05-12
 labels: [category-theory, mathematics, language]
 status: mandatory review
