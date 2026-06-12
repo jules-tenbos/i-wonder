@@ -54,21 +54,56 @@ Values disclose a metaphysics rather than a metaphysics grounding values.
 
 ## Reality section candidates
 
-Pages within the reality section where SPLectrum is the main voice. These develop the positions sketched on the landing page and core-values page.
+Pages within the reality section where SPLectrum is the main voice. These develop the positions sketched on the landing page and core-values page. Future pages — created when content arrives, not as empty placeholders.
 
 1. **The disclosed world — thick, porous, unfinished.** What the values light up. The reference treatment beyond the blog series.
-2. **Objectivity as convergence.** Epistemology pillar applied. Breadth of belonging, not correspondence. Kuhn's paradigm shifts as the floor re-cohering.
-3. **The aesthetics of language.** Aesthetics pillar developed. Quality of expression as the medium ethics passes through. Examples of right intent / wrong language.
-4. **Ethics as tension-holding.** Each value maxed kills the rest. Suffocation/communion. The shock as ethical hinge.
-5. **IRP as the world the three disclose.** Reality-side companion to the structural IRP page on the seed side. Belonging → interrelational, privacy → plural, creativity → co-arising.
 
-These are future pages — created when content arrives, not as empty placeholders.
+2. **Objectivity as convergence.** Epistemology pillar applied. Breadth of belonging, not correspondence. Kuhn's paradigm shifts as the floor re-cohering. Source material: thick → no exhaustive outside knowledge, humility structural; porous → learning is uptake, objectivity as breadth of belonging, truth as the widely-held layer; unfinished → knowing is making, inquiry reorganises the field.
+
+3. **The decoherence dynamic.** What is shared disappears; what differs remains as tension at the interface. Salience tracks difference. Lived subject reality is mostly dark floor (vast invisible commonality) with a narrow bright rim of difference. Two sources of interface tension: standing difference, and the shock (collapsed sameness — taken as shared, then broke). Decoherence is a structural property of belonging, not of any one content language. Consequences for objectivity: science gets a solid reality without that reality being THE reality — stablest-and-most-shared, not truest.
+
+4. **The aesthetics of language.** Aesthetics pillar developed. Quality of expression as the medium ethics passes through. Examples of right intent / wrong language. Blog post (28 Jun) delivers the material first; page states it after.
+
+5. **Ethics as tension-holding.** Each value maxed kills the rest: belonging maxed suffocates (the cult); privacy maxed isolates; creativity maxed destabilises. Freedom is the resultant that appears when the tension is well-held and collapses when one value wins. The seductive failure has a clean criterion: communion and suffocation are the same decoherence at different totalities; the line is uptake. The shock — discovering a difference you had taken as shared — is the ethical hinge.
+
+6. **Ontology — being is concept.** The concept/being hinge: content-side, there is no hinge to narrate, only an identity to live. Language is the medium; there is no getting behind it. The gap between ontology and reality — what impacts me but is not mine — is the site of creativity. Reality always exceeds ontology, so the loop never closes. Overlap-but-not-equal: the shared/different cut runs through each item, not only between items.
+
+7. **Abstraction, creation, and the reflexive fold.** Creation (the fabric getting larger) and abstraction (lifting into conceptual hold) are one act under two names. Abstraction permeates the living and non-living — not the human differentia. Reflexivity is the fold, not a new faculty. The human is the deep-fold region, not where a new power switches on.
+
+8. **IRP as the world the three disclose.** Reality-side companion to the structural IRP page on the seed side. Belonging → interrelational (the coupling wherever subjects co-modulate, past the human), privacy → plural (distinct interiors, genuinely many), creativity → co-arising (plurality in motion).
+
+## Research needed: history of aesthetics' standing
+
+Not a flat history of aesthetics (theories of beauty from Plato to Danto) but the history of aesthetics' *standing* — the subordination-and-revolt story. How aesthetics got ranked low and the counter-current that kept trying to move it back up. This is the history that earns "aesthetics in a leading place" — the post can't elevate aesthetics convincingly without showing it knows why aesthetics normally sits where it sits.
+
+**The subordination arc:**
+- Baumgarten coining the word in 1750 for the science of sensory cognition — founded late, seated beneath logic and ethics
+- Kant's third Critique giving aesthetics philosophical dignity but keeping it regulative, not constitutive
+- Hegel's verdict that art in its highest vocation belongs to the past
+- The analytic tradition treating aesthetics as the soft corner — philosophy's least serious department
+
+**The counter-current (the close-affinity roster):**
+- Schiller — aesthetic education as precondition for freedom (1795)
+- Croce — aesthetics as first form of knowledge, general linguistics (1902)
+- Dewey — aesthetic experience as complete experience (1934)
+- Collingwood — expression as foundation of conscious life (1938)
+- Murdoch — attention as moral foundation (1970)
+- Rancière — distribution of the sensible prior to politics (2000)
+
+**Triple payoff:** feeds the aesthetics post (28 Jun) now, grounds the reality-side aesthetics page later, lays down the positioning-side depth the aesthetics pillar needs. One research effort, three uses. Research the standing-history, not the survey — bounded by the one claim the post makes.
+
+## Open / parked questions
+
+- **Pluralism's status.** Three-that-disclose plus pluralism-as-the-name-of-the-disclosed-world, or four co-equal peers. Parked.
+- **The gradient's lower limit.** Where the inside thins to a clean zero — does mineral evolution, crystal growth, complex chemistry qualify? Connects to the aliveness sketch.
+- **Vocabulary lock.** Subject reality = experience of reality within being. Ontology = the held-as-object layer. My reality = the field that impacts me, exceeding my ontology. Lock against the process-theory sketch vocabulary.
+- **Politics.** Ethics at community scale — the privacy-and-decentralisation thread. Named but not worked.
 
 ## Blog series — reality label
 
 The blog carries the working stream. Posts in the reality series:
 
-- **Building from the Seed** (12 Jun) — status: final review. The transition post (seed label — bridges to reality).
+- **Building from the Seed** (12 Jun) — published. The transition post (seed label — bridges to reality).
 - **Flying the Flag of Belonging, Privacy and Creativity** (20 Jun) — status: draft. Introduces core values against the metaphysics.
 - **SPLectrum's Kind of Aesthetics** (28 Jun) — status: draft (notes only). Earns the aesthetics-as-medium move through the resonance image. Post first, reality-section page after.
 - Further posts in the series: the world the values light up, the branches one at a time, the decoherence dynamic, IRP as disclosed world.
