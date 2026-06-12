@@ -1,86 +1,100 @@
 # Scheduled Tasks
 
-Updated 2026-05-29. Tasks triggered by post publication and ongoing work.
+Updated 2026-06-12. Active schedule and work tracking.
 
 ## Standing tasks
 
 - [ ] Tweet on each blog post publication
 - [ ] Review links in scheduled posts before publication
-- [ ] Post `status:` field convention — codify the set and what each means
-- [ ] Historical posts (Jul/Aug) need editorial notes — they will publish after interrelational pluralism has been named
+- [ ] Descriptions missing on 20 posts (Jun 8 onward) — add before each goes to `ready`
 
-## Schedule changes (2026-05-25)
+## Blog pipeline
 
-- Major reschedule: 4-day cadence filled through end of July
-- Three new posts added: Two-Pronged Anti-Representationalism (May 28), Whitehead's Process Theory (Jun 4), Building from the Seed (Jun 12)
-- Wiring the Brain moved from Jul 8 to Jun 8; No Life Without Death from Jul 16 to Jun 16
-- A View from the Perimeter moved from Jun 24 to Jun 20; Promises Made from Jul 24 to Jun 24
-- Four Aug posts moved to Jul; category theory series compressed to Jul 28–Aug 28
-- Discovery posts moved to Sep; Decentralised Cognition Revolution to Sep 4
-- Earlier changes: see git history
+### Published (through 12 Jun)
 
-## Post schedule
+All posts through 2026-06-12 are `ready` and live.
 
-### May
+| Date | Title | Tweet |
+|------|-------|-------|
+| 28 May | Two-Pronged Anti-Representationalism | pending |
+| 1 Jun | How a Crash Put Me on Course | pending |
+| 4 Jun | Whitehead's Process Theory | pending |
+| 8 Jun | Wiring the Brain | pending |
+| 12 Jun | Building from the Seed | drafted |
 
-| Date | Title | Status |
-|------|-------|--------|
-| May 28 | Two-Pronged Anti-Representationalism | published (description added, tweet pending) |
+### Next up (Jun–Jul)
 
-### June
+| Date | Title | Status | Notes |
+|------|-------|--------|-------|
+| 16 Jun | No Life Without Death | final review | needs description |
+| 20 Jun | Flying the Flag of Belonging, Privacy and Creativity | draft | brewing — revisit in a few days |
+| 24 Jun | Promises Made, Promises Broken | final review | needs description |
+| 28 Jun | SPLectrum's Kind of Aesthetics | draft (notes only) | needs aesthetics standing research first |
+| 1 Jul | Philosophy and the Brain | final review | needs description |
+| 8 Jul | Evolution and the Brain | final review | needs description |
 
-| Date | Title | Status |
-|------|-------|--------|
-| Jun 1 | How a Crash Put Me on Course | ready |
-| Jun 4 | Whitehead's Process Theory | draft |
-| Jun 8 | Wiring the Brain | final review |
-| Jun 12 | Building from the Seed | draft |
-| Jun 16 | No Life Without Death | final review |
-| Jun 20 | A View from the Perimeter | Mandatory review |
-| Jun 24 | Promises Made, Promises Broken | final review |
-| Jun 28 | A View from the Perimeter — The Thinking Side | Mandatory review |
-
-### July
+### Further out
 
 | Date | Title | Status |
 |------|-------|--------|
-| Jul 1 | Philosophy and the Brain | final review |
-| Jul 4 | Decentralised Process Models | Mandatory review |
-| Jul 8 | Evolution and the Brain | final review |
-| Jul 12 | I Know That I Don't Know | Mandatory review |
-| Jul 16 | Am I a Libertarian? | final review |
-| Jul 20 | Mutualism Without Intent | review |
-| Jul 24 | Embracing Anti-Foundationalism | final review |
-| Jul 28 | The Seed and Category Theory | mandatory review |
+| 12 Jul | I Know That I Don't Know | mandatory review |
+| 16 Jul | Am I a Libertarian? | final review |
+| 20 Jul | Mutualism Without Intent | review |
+| 24 Jul | Embracing Anti-Foundationalism | final review |
+| 1 Aug | A View from the Perimeter | mandatory review |
+| 8 Aug | A View from the Perimeter — The Thinking Side | mandatory review |
+| 16 Aug | Decentralised Process Models | mandatory review |
+| 1 Sep | The Seed and Category Theory | mandatory review |
+| 4 Sep | The Decentralised Cognition Revolution | mandatory review |
+| 8 Sep | The Wrapper | mandatory review |
+| 12 Sep | Creation and Discovery | mandatory review |
+| 16 Sep | Is Like, Is | mandatory review |
+| 20 Sep | Diversified Discovery | mandatory review |
+| 24 Sep | Meaning Patterns Travel | mandatory review |
+| 28 Sep | The Discovery Multiplier | mandatory review |
+| 1 Oct | The Friction with 1-Categorical Thinking | mandatory review |
 
-### August
+## Research
 
-| Date | Title | Status |
-|------|-------|--------|
-| Aug 4 | The Wrapper | mandatory review |
-| Aug 12 | Is Like, Is | mandatory review |
-| Aug 20 | Meaning Patterns Travel | mandatory review |
-| Aug 28 | The Friction with 1-Categorical Thinking | mandatory review |
+- [ ] **Aesthetics standing history** — subordination arc and counter-current. Feeds: 28 Jun post, reality-section aesthetics page, positioning depth. Scoped in `plan/metaphysics-build.md`. Not started.
+- [ ] **Realism research** — SPLectrum vs realism, nominalism, idealism. Scoped in `plan/realism-research.md`. Not started.
+- [ ] **AI information field** — long-running build. First decision open: thin hub subject or fence piece first. Scoped in `plan/ai-information-field.md`. Not started.
 
-### September
+## Positioning entries needed
 
-| Date | Title | Status |
-|------|-------|--------|
-| Sep 4 | The Decentralised Cognition Revolution | Mandatory review |
-| Sep 12 | Creation and Discovery | Mandatory review |
-| Sep 20 | Diversified Discovery | Mandatory review |
-| Sep 28 | The Discovery Multiplier | Mandatory review |
+Full list with research notes in `plan/positioning-entries-needed.md`.
+
+**Persons — metaphysics cluster (priority):**
+Charles Taylor, Buber, Castoriadis, Nishida, Ricoeur, Bakhtin, Marcuse, Kenneth Burke, Sen, Nussbaum, Sandel, Kierkegaard
+
+**Persons — earlier candidates:**
+Nietzsche, Quine, Derrida, Lévi-Strauss, Smolin, Wolfram
+
+**Subjects — metaphysics cluster:**
+Aesthetics (biggest gap), Ubuntu, Rasa theory
+
+**Voice updates:**
+Phenomenology, Pragmatism (carry old SPLectrum vocabulary in opening)
+
+**Sharpen:**
+Dewey (*Art as Experience* paragraph thin), Nagel (privacy as value not gap)
 
 ## Parked work
 
-- [ ] SPLectrum Engineering post (in `/drafts/`) — needs review before re-scheduling
-- [ ] Decentralised Process Models (Jul 4) — cohesion pass needed (broadened with neuroscience material)
-- [ ] Engineering ref lib (foundational-commitments, engineering-tracks, top-level-design) — cohesion review pending
-- [ ] 5 engineering drafts in `/drafts/` — each needs review/rework before re-scheduling (AVRO, Six Protocols, Floor Is Always Solid, Physical/Logical Pivot all mandatory review; SPLectrum Engineering review needed)
-- [ ] 1 non-engineering draft: Compiling in the Body (language/neuroscience, draft status)
-- [ ] 1 working-notes file: seed-and-category-theory-notes.md (thinking document, not a publishable draft)
-- [ ] Remaining descriptions: seed trajectories, language/reality sub-pages, scheduled blog posts
 - [ ] RQM post over word limit (1249 words)
-- [ ] Pluralism and Pruning — Real Life piece. Proposal in `submissions/pluralism-and-pruning.md`. Needs drafting.
-- [ ] Person page craft guidance — add "Where X stops" drafting process note to tone-of-voice/positioning-section.md § How to apply
-- [ ] Cross-page audit convention — when a controversy appears on multiple person pages, check both sides voice it consistently (learned from Wilson/Lewontin and Hamilton/Wilson reviews)
+- [ ] 5 engineering drafts in `/drafts/` — each needs review/rework before re-scheduling (Avro, Six Protocols, Floor Is Always Solid, Physical/Logical Pivot, SPLectrum Engineering)
+- [ ] 1 non-engineering draft: Compiling in the Body (language/neuroscience)
+- [ ] 1 working-notes file: seed-and-category-theory-notes.md
+- [ ] Cross-page audit convention — when a controversy appears on multiple person pages, check both sides voice it consistently. Not yet codified.
+- [ ] Person page craft guidance — "where X stops" drafting process. Guidance exists in `tone-of-voice/positioning-section.md` but not yet formalised as a standalone process note.
+- [ ] Blockchain history page (from `plan/my-notes.txt`)
+- [ ] Web 1 → Web 3 history page (from `plan/my-notes.txt`)
+
+## Submissions (unconsumed)
+
+- `submissions/seed-and-origin-of-life.md`
+- `submissions/seed-discovery-research.md`
+- `submissions/sketch-seed-native-definition-of-aliveness.md`
+- `submissions/semiotics.md`
+- `submissions/pluralism-and-pruning.md`
+- `submissions/mycelium-git.md`

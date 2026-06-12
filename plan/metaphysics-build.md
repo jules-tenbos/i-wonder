@@ -103,7 +103,7 @@ Not a flat history of aesthetics (theories of beauty from Plato to Danto) but th
 
 The blog carries the working stream. Posts in the reality series:
 
-- **Building from the Seed** (12 Jun) — published. The transition post (seed label — bridges to reality).
+- **Building from the Seed** (12 Jun) — published, tweet drafted. The transition post (seed label — bridges to reality).
 - **Flying the Flag of Belonging, Privacy and Creativity** (20 Jun) — status: draft. Introduces core values against the metaphysics.
 - **SPLectrum's Kind of Aesthetics** (28 Jun) — status: draft (notes only). Earns the aesthetics-as-medium move through the resonance image. Post first, reality-section page after.
 - Further posts in the series: the world the values light up, the branches one at a time, the decoherence dynamic, IRP as disclosed world.
