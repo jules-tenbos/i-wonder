@@ -8,16 +8,10 @@ Persons section cleared 2026-05-28 (84 person pages total across three sessions)
 
 Identified by research into the core values (belonging, privacy, creativity), the four metaphysics pillars (epistemology, ontology, aesthetics, ethics), aesthetics-before-ethics, and disclosure method. Ordered by relevance to the metaphysics positions.
 
-- **Croce** — *Aesthetic as Science of Expression and General Linguistic* (1902). "Philosophy of language and philosophy of art are the same thing." Aesthetics as first form of knowledge, beauty as expressive precision. Closest single precedent for aesthetics-as-quality-of-language as foundational. Argues aesthetics is *independent* of ethics, not that ethics needs it.
-- **Levinas** — *Totality and Infinity* (1961), *Otherwise than Being* (1974). The Saying/Said distinction: quality of address ethically prior to propositional content. Positive account of interiority (dwelling, nourishment). Appears in both research tracks — closest to SPLectrum without being the same.
 - **Charles Taylor** — *Sources of the Self* (1989). Three axes of modern identity: inwardness (privacy), dialogical self through shared language (belonging), authenticity as self-creation (creativity). Closest single-thinker mapping onto the three values. Genealogical, not ontological.
-- **Schiller** (Friedrich) — *Letters on the Aesthetic Education of Man* (1795). Aesthetic education as precondition for moral and political freedom. Closest historical precedent for aesthetics-before-ethics ordering.
 - **Buber** — *I and Thou* (1923). "All real living is meeting." Relation as primary. Belonging as encounter, not absorption. Dyadic — doesn't scale easily to language-communities.
 - **Castoriadis** — *The Imaginary Institution of Society* (1975). Society creates rather than discovers its forms. Autonomy as conscious self-institution. Creativity as social and ontological.
 - **Nishida** (Kitaro) — *Logic of Basho* (1926-). Self-awareness (privacy), mutual determination (belonging), action-intuition (creativity) as co-original. Closest non-Western parallel. Resolves into non-duality where SPLectrum holds the tension.
-- **Collingwood** — *The Principles of Art* (1938). Art as expression, language and art interchangeable. Failed expression produces "corrupt consciousness." Expression fundamental to all conscious life.
-- **Murdoch** (Iris) — *The Sovereignty of Good* (1970). Moral life depends on quality of perception ("attention"). Art trains this capacity. Aesthetic/perceptual capacity precedes ethical.
-- **Rancière** — *The Politics of Aesthetics* (2000). The "distribution of the sensible" determines who can speak before any ethical/political claim. Aesthetics structurally prior to politics. Sociological, not qualitative.
 - **Ricoeur** — *The Rule of Metaphor* (1975), *Oneself as Another* (1990). Metaphor as "event of thought" that redescribes reality. Identity disclosed through narrative. All three values present in the hermeneutics of the self.
 - **Bakhtin** — *Art and Answerability* (1919). Aesthetic activity as intersubjective. The utterance as dialogic. "Outsideness" enables understanding that life alone cannot. Close to resonance-between-intent-and-interaction.
 - **Marcuse** — *The Aesthetic Dimension* (1978). Art preserves liberation goals when politics fails. Autonomous truth-disclosing capacity.

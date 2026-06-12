@@ -29,7 +29,7 @@ The three core values yield four metaphysics pillars, with aesthetics in a place
 
 - **Epistemology** — we learn from private experience and sharing. There is no absolute objectivity, only converged subjectivity.
 - **Ontology** — language concepts and reality are the same thing, created and shared within a community.
-- **Aesthetics** — there is no private experience without sensory experience, and sensory experience is mediated by language. This opens up a position of importance: the aesthetics of language, meaning. Aesthetics as the resonance between intent and interaction.
+- **[Aesthetics](/positioning/close-affinity/aesthetics/)** — there is no private experience without sensory experience, and sensory experience is mediated by language. This opens up a position of importance: the aesthetics of language, meaning. Aesthetics as the resonance between intent and interaction.
 - **Ethics** — how we hold the tension between the values so none swallows the others. Gets its strength from the other three.
 
 ## Evolution

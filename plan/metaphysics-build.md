@@ -6,26 +6,6 @@ Working plan for the content build around the core values (belonging, privacy, c
 
 Affinity readings where the main voice is not SPLectrum. These sit in positioning (close-affinity or seed ring), not in the reality section. Each is a topic page that draws on multiple thinkers.
 
-### Aesthetics as precondition for ethics
-
-The distinctive SPLectrum ordering. Historical precedent and the landscape of positions.
-
-**Core argument:** Aesthetics is the medium everything passes through. An ethical intent poorly expressed diminishes to the point of non-existence. Aesthetics as the resonance between intent and interaction.
-
-**Key allies:**
-- Schiller — aesthetic education as precondition for moral/political freedom. Strongest historical precedent.
-- Croce — aesthetics as general linguistics, first form of knowledge. Aesthetics = expressive precision.
-- Levinas — the Saying (quality of address) ethically prior to the Said (propositional content). Would not call it aesthetics, but the structure matches.
-- Wittgenstein — "Ethics and aesthetics are one" (Tractatus 6.421). Collapses rather than orders them.
-- Dewey — aesthetic experience as precondition for moral deliberation (drawn out by later scholars).
-- Murdoch — moral life depends on quality of perception ("attention"). Art trains ethical capacity.
-- Rancière — the distribution of the sensible prior to political/ethical claims.
-
-**Contrast:** Kierkegaard — the aesthetic as immature, to be overcome. The direct opposite.
-
-**Non-Western resonances:** Chinese wen (aesthetic and moral quality inseparable), Indian rasa (resonance between expression and response), Japanese mono no aware (aesthetic experience as path to ethical understanding), Islamic i'jaz (language quality as proof of truth).
-
-**What's novel in SPLectrum:** No surveyed thinker simultaneously claims (a) aesthetics is quality of language, (b) aesthetics is precondition for ethics, (c) aesthetics is resonance between intent and interaction. Croce does (a)+(b) individually; Levinas does (c) under a different name.
 
 ### The three core values — belonging, privacy, creativity
 
@@ -71,15 +51,6 @@ Values disclose a metaphysics rather than a metaphysics grounding values.
 
 **What's novel:** Values themselves as the disclosive lens, revealing ontological features (thick, porous, unfinished), is without direct precedent.
 
-## Aesthetics subject page
-
-The most significant gap in the subjects section. Now a named metaphysics pillar — needs a subject page covering the landscape of what aesthetics has meant.
-
-**Scope:** From aisthesis (sensation, Baumgarten) through Kant's judgment of taste, the Romantic/expressivist tradition (Schiller, Croce, Collingwood), Dewey's art-as-experience, phenomenological aesthetics (Merleau-Ponty, Dufrenne), Rancière's distribution of the sensible. Also: non-Western traditions (wen, rasa, wabi, i'jaz) as parallel streams.
-
-**Structure question:** Standard subject page (on its own terms, no SPLectrum vocabulary) with a "where aesthetics reaches / where it stops" close. The stop would naturally point at quality-of-language as an underdeveloped thread within the tradition.
-
-**Key persons for the page:** Baumgarten (naming), Kant (judgment of taste), Schiller (aesthetic education), Hegel (art as spirit), Croce (expression), Collingwood (expression), Dewey (experience), Adorno (culture industry), Rancière (distribution of the sensible), Merleau-Ponty and Dufrenne (phenomenological).
 
 ## Reality section candidates
 
@@ -93,12 +64,13 @@ Pages within the reality section where SPLectrum is the main voice. These develo
 
 These are future pages — created when content arrives, not as empty placeholders.
 
-## Blog series
+## Blog series — reality label
 
-The blog carries the working stream. Posts already in progress or planned:
+The blog carries the working stream. Posts in the reality series:
 
-- **Building from the Seed** (12 Jun) — status: final review. The transition post.
-- **Flying the Flag** (20 Jun) — status: draft. Introduces core values against the metaphysics.
+- **Building from the Seed** (12 Jun) — status: final review. The transition post (seed label — bridges to reality).
+- **Flying the Flag of Belonging, Privacy and Creativity** (20 Jun) — status: draft. Introduces core values against the metaphysics.
+- **SPLectrum's Kind of Aesthetics** (28 Jun) — status: draft (notes only). Earns the aesthetics-as-medium move through the resonance image. Post first, reality-section page after.
 - Further posts in the series: the world the values light up, the branches one at a time, the decoherence dynamic, IRP as disclosed world.
 
 ## The number sequence (noted)
