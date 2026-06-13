@@ -13,6 +13,7 @@ These are subjects of importance to SPLectrum, referenced within the site.
 
 ## A
 
+- [Aesthetics in philosophy](a/aesthetics-in-philosophy/) · philosophy, history of ideas<span class="kw">how aesthetics came to rank last among philosophy's branches, and the counter-current from Schiller through Rancière that kept arguing it should rank first</span>
 - [Assembly theory](a/assembly-theory/) · complexity science, origin of life<span class="kw">complexity through construction history: Cronin, Walker, assembly index, biosignatures, time as object</span>
 - [Autopoiesis](a/autopoiesis) · biology, systems theory<span class="kw">self-making systems, operational closure, structural coupling: Maturana, Varela, Luhmann</span>
 - [Avro](a/avro/) · data serialization, software engineering<span class="kw">schema-based serialization with the schema carried alongside the data: JSON schemas, binary encoding, schema resolution, Cutting, Hadoop, Kafka</span>

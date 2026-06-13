@@ -43,6 +43,16 @@ The relationship between Aristotelian teleology and [Darwinian](/positioning/per
 
 ---
 
+## Metaphysics — substance, form, actuality
+
+The *Metaphysics* investigates "being qua being" — what it is for anything to be, regardless of what kind of thing it is. The central concept is *substance* (*ousia*): the primary kind of being, that which exists in its own right rather than as a property of something else. Particular substances (this horse, this table) are composites of matter (*hyle*) and form (*morphe*). Matter is what a thing is made of; form is what makes it the kind of thing it is. Neither exists independently — form without matter is an abstraction, matter without form is indeterminate potential.
+
+The distinction between potentiality (*dynamis*) and actuality (*energeia*) runs through the system. An acorn is potentially an oak; an oak is the acorn actualised. Change is the transition from potentiality to actuality. At the limit, the unmoved mover — pure actuality with no potentiality — is the ultimate cause of all motion in the cosmos, not by pushing or creating but by being the object of desire: all things move toward their own actualisation, and the unmoved mover is the fully actualised being toward which the cosmos tends.
+
+Aristotle rejects [Plato's](/positioning/persons/p/plato/) theory of separately existing Forms. Universals are real — horseness, justice — but they exist *in* particular horses and just acts, not in a separate realm. This disagreement with his teacher is the founding dispute of Western metaphysics: are universals transcendent (Plato) or immanent (Aristotle)?
+
+---
+
 ## Biology
 
 Aristotle was the first systematic biologist. His biological works — *Historia Animalium* ("Inquiry into Animals"), *De Partibus Animalium* ("On the Parts of Animals"), *De Generatione Animalium* ("On the Generation of Animals") — classify, describe, and explain the anatomy, physiology, reproduction, and behaviour of over 500 animal species. The observations are based on direct dissection and field study, much of it conducted on Lesbos. The scope and accuracy of the work were not surpassed for nearly two thousand years.
@@ -58,6 +68,16 @@ The classificatory scheme distinguishes animals by blood (roughly: vertebrates a
 The *Nicomachean Ethics* argues that the good for a human being is *eudaimonia* — variously translated as happiness, flourishing, or well-being. Eudaimonia is not a feeling but an activity: the activity of living well and doing well, in accordance with the virtues (excellences of character). The virtues — courage, temperance, justice, practical wisdom (*phronesis*), among others — are dispositions of character acquired through practice and habit, not through theoretical instruction. Virtue is a mean between extremes: courage is the mean between cowardice and recklessness; generosity is the mean between miserliness and extravagance. The mean is not a mathematical midpoint but the right response in the right circumstances, determined by practical wisdom.
 
 The framework is teleological: the virtues are the excellences needed to fulfil the human function (*ergon*). Just as the function of a knife is to cut and a good knife cuts well, the function of a human being is to live a life of rational activity, and a good human being lives it well. The claim depends on there being a determinate human function — a claim MacIntyre's *After Virtue* attempted to recover and that critics have challenged on both Darwinian and liberal-individualist grounds.
+
+---
+
+## The Poetics — mimesis, catharsis, and the standing of art
+
+The [*Poetics*](https://plato.stanford.edu/entries/aristotle-poetics/) (c. 335 BCE) is the first systematic work of literary and dramatic theory. It rehabilitates art against [Plato's](/positioning/persons/p/plato/) attack. Where Plato treats mimesis (imitation) as thrice removed from truth, Aristotle argues that mimesis is natural, pleasurable, and a source of learning. Poetry is "more philosophical and more serious than history" because history records what happened — particulars — while poetry represents what *could* happen — universals.
+
+Tragedy is the central case. A well-constructed tragedy produces *catharsis* — the purging or clarification of pity and fear through representation. The meaning of catharsis is among the most debated terms in the history of criticism: emotional release, intellectual clarification, or moral education. What is not in dispute is that Aristotle grants art a cognitive and therapeutic function Plato denied.
+
+But Aristotle's own classification keeps art subordinate. The sciences divide into theoretical (metaphysics, mathematics, physics — knowledge for its own sake), practical (ethics, politics — knowledge for action), and productive (poetics, rhetoric — knowledge for making). The productive sciences rank beneath both. Art has value, but its value is instrumental: it produces something for an end beyond itself. The theoretical life — contemplation of unchanging truths — remains the highest. The rehabilitation of art is real; the [hierarchy](/positioning/subjects/a/aesthetics-in-philosophy/the-subordination-arc/) persists.
 
 ---
 
@@ -84,4 +104,4 @@ The political and ethical framework excluded women, slaves, and non-Greeks from 
 
 ---
 
-See also: [MacIntyre](/positioning/persons/m/macintyre/) · [Darwin](/positioning/persons/d/darwin/) · [Frege](/positioning/persons/f/frege/)
+See also: [Plato](/positioning/persons/p/plato/) · [MacIntyre](/positioning/persons/m/macintyre/) · [Darwin](/positioning/persons/d/darwin/) · [Frege](/positioning/persons/f/frege/) · [The standing of aesthetics](/positioning/subjects/a/aesthetics-in-philosophy/)

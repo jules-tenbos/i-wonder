@@ -29,6 +29,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Bell, John (1928–1990)](b/bell) · physicist<span class="kw">Bell's theorem, Bell inequalities, the impossibility of local hidden variables, the measurement problem</span>
 - [Bateson, Gregory (1904–1980)](b/bateson) · anthropologist, cyberneticist<span class="kw">ecology of mind, difference that makes a difference, schismogenesis, the pattern which connects</span>
 - [Bateson, William (1861–1926)](b/bateson-w) · biologist<span class="kw">coined "genetics", Mendel's champion, the Mendelian-biometrician debate, discontinuous variation</span>
+- [Baumgarten, Alexander Gottlieb (1714–1762)](b/baumgarten) · philosopher<span class="kw">coined "aesthetics", the science of sensory cognition, gnoseologia inferior, beauty as perfection of sensible cognition</span>
 - [Bennett, Charles (1943–)](b/bennett) · physicist<span class="kw">reversible computation, Maxwell's demon resolved via erasure, quantum teleportation, quantum key distribution</span>
 - [Bergson, Henri (1859–1941)](b/bergson) · philosopher<span class="kw">duration, creative evolution, intuition, the élan vital</span>
 - [Berlin, Isaiah (1909–1997)](b/berlin) · philosopher, historian of ideas<span class="kw">value pluralism, incommensurability of values, two concepts of liberty, the Counter-Enlightenment</span>
@@ -193,6 +194,7 @@ Individual thinkers referenced across the positioning section. Each page present
 
 - [Nāgārjuna (c. 150–c. 250 CE)](n/nagarjuna) · Buddhist philosopher<span class="kw">śūnyatā (emptiness), dependent origination, the Mūlamadhyamakakārikā, Madhyamaka</span>
 - [Nagel, Thomas (1937–)](n/nagel) · philosopher<span class="kw">subjectivity, the view from nowhere, against reductionism</span>
+- [Nietzsche, Friedrich (1844–1900)](n/nietzsche) · philosopher<span class="kw">the death of God, the will to power, eternal recurrence, perspectivism, inverted Platonism, the revaluation of all values</span><span class="kw">subjectivity, the view from nowhere, against reductionism</span>
 
 ## O
 
@@ -208,6 +210,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Penrose, Roger (1931–)](r/penrose) · mathematician, physicist<span class="kw">singularity theorems, low-entropy beginning, Penrose diagrams, twistor theory, non-computability of consciousness</span>
 - [Pinker, Steven (1954–)](p/pinker) · cognitive scientist<span class="kw">evolutionary psychology, language as instinct, the blank slate, the decline of violence, Enlightenment rationalism</span>
 - [Planck, Max (1858–1947)](p/planck) · physicist<span class="kw">the quantum of action, the ultraviolet catastrophe, Planck's constant, Planck's law</span>
+- [Plato (c. 428–348 BCE)](p/plato) · philosopher<span class="kw">the theory of Forms, the Republic, the cave, the divided line, mimesis, the banishment of the poets, the Academy</span><span class="kw">the quantum of action, the ultraviolet catastrophe, Planck's constant, Planck's law</span>
 - [Polanyi, Michael (1891–1976)](p/polanyi) · chemist, philosopher<span class="kw">tacit knowledge, personal knowledge, indwelling, the republic of science</span>
 - [Popper, Karl (1902–1994)](p/popper) · philosopher of science<span class="kw">falsificationism, conjecture and refutation, the open society</span>
 - [Prigogine, Ilya (1917–2003)](p/prigogine) · physical chemist<span class="kw">dissipative structures, non-equilibrium thermodynamics, order far from equilibrium, the arrow of time</span>
@@ -232,6 +235,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Saussure, Ferdinand de (1857–1913)](s/saussure) · linguist<span class="kw">structural linguistics, the differential sign, langue and parole</span>
 - [Schelling, Thomas (1921–2016)](s/schelling) · economist, game theorist<span class="kw">focal points, the segregation model, micromotives and macrobehavior</span>
 - [Schiller, Friedrich (1759–1805)](s/schiller) · poet, dramatist, philosopher<span class="kw">aesthetic education, the play drive, beauty as freedom in appearance, grace and dignity, naive and sentimental</span>
+- [Schopenhauer, Arthur (1788–1860)](s/schopenhauer) · philosopher<span class="kw">the world as will and representation, aesthetic contemplation, the Ideas, music, compassion, pessimism</span>
 - [Schumpeter, Joseph (1883–1950)](s/schumpeter) · economist<span class="kw">creative destruction, the entrepreneur as innovator, business cycles, capitalism's self-undermining dynamics</span>
 - [Schrödinger, Erwin (1887–1961)](s/schrodinger) · physicist<span class="kw">wave mechanics, the Schrödinger equation, What is Life?, negative entropy, the cat</span>
 - [Sellars, Wilfrid (1912–1989)](s/sellars) · philosopher<span class="kw">the myth of the given, the space of reasons, psychological nominalism, the manifest and scientific images</span>

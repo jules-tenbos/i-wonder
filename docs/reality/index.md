@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-06-11
+lastmod: 2026-06-13
 title: "Reality"
 description: "Reality disclosed from the seat of the subject — belonging, privacy, creativity as core values, and a metaphysics that follows from them."
 ---
@@ -25,12 +25,13 @@ Creation conforms to [discovery](/reality/discovery/) — the walking of paths t
 
 ## Metaphysics
 
-The three core values yield four metaphysics pillars, with aesthetics in a place it is traditionally not given.
+The three core values yield five metaphysics pillars — five angles on one dynamic, not five territories. They are offered as a chosen, openly-held carving, not a closed set.
 
 - **Epistemology** — we learn from private experience and sharing. There is no absolute objectivity, only converged subjectivity.
 - **Ontology** — language concepts and reality are the same thing, created and shared within a community.
-- **[Aesthetics](/positioning/close-affinity/aesthetics/)** — there is no private experience without sensory experience, and sensory experience is mediated by language. This opens up a position of importance: the aesthetics of language, meaning. Aesthetics as the resonance between intent and interaction.
-- **Ethics** — how we hold the tension between the values so none swallows the others. Gets its strength from the other three.
+- **[Aesthetics](/reality/aesthetics/)** — there is no private experience without sensory experience, and sensory experience is mediated by language. This opens up a position of importance: the aesthetics of language, meaning. Aesthetics as the resonance between intent and interaction — the medium everything passes through.
+- **Ethics** — how I hold the tension between the values so none swallows the others, lived as how I relate to the other.
+- **Politics** — the shared discourse. How shared reality is made and who participates.
 
 ## Evolution
 

@@ -1,8 +1,8 @@
 ---
 layout: default
-lastmod: 2026-06-11
+lastmod: 2026-06-13
 title: "The Core Values and SPLectrum's Metaphysics"
-description: "Three core values — belonging, privacy, creativity — and the metaphysics they disclose: epistemology, ontology, aesthetics, ethics."
+description: "Three core values — belonging, privacy, creativity — and the metaphysics they disclose: epistemology, ontology, aesthetics, ethics, politics."
 ---
 
 [Home](/) > [Reality](/reality/) > The Core Values and SPLectrum's Metaphysics
@@ -21,20 +21,22 @@ SPLectrum's metaphysics takes shape through disclosure, not derivation. It start
 
 The three are not a foundation laid beneath what follows. They are the stance a subject lives from. Stand in them and a world comes into view.
 
-## The four metaphysics pillars
+## The five metaphysics pillars
 
-The core values yield four pillars. They are not separate territories — they are one dynamic interrogated differently.
+The core values yield five pillars — five angles on one dynamic, not five territories. They are offered as a chosen, openly-held carving, not a closed set.
 
-**Epistemology** — how we come to know. We learn from private experience and sharing. There is no absolute objectivity, only converged subjectivity. If objectivity is where our subjectivities converge, then we all have an equal stake in shaping what counts as real.
+**Epistemology — the process.** How we come to know. We learn from private experience and sharing. There is no absolute objectivity, only converged subjectivity. The bare process gets its texture from two sides — aesthetics on the expression side, politics on the sharing side.
 
-**Ontology** — what we hold as beings. Because we come to knowledge through experience and language, beings settle on language concepts — they are the same thing. We create and share them. Despite the diversity of language we converge on a common catalogue, forgetting in the process that everything starts within the privacy of personal experience. It could have been different. We created it.
+**Ontology — the contents.** What we hold as beings. Because we come to knowledge through experience and language, beings settle on language concepts — they are the same thing. We create and share them. Despite the diversity of language we converge on a common catalogue, forgetting in the process that everything starts within the privacy of personal experience. It could have been different. We created it.
 
-**Aesthetics** — the quality of language. There is no private experience without sensory experience, and sensory experience is mediated by language. This opens up a position of importance: the aesthetics of language, meaning. Aesthetics as the resonance between intent and interaction — how well the language fits what it is trying to carry. Not a decoration on the other three, but the medium everything passes through.
+**[Aesthetics](/reality/aesthetics/) — the medium.** There is no private experience without sensory experience, and sensory experience is mediated by language. This opens up a position of importance: the aesthetics of language, meaning. Aesthetics as the resonance between intent and interaction — how well the language fits what it is trying to carry. Not a decoration on the other pillars, but the medium everything passes through.
 
-**Ethics** — how we hold the tension between the values so none swallows the others. Belonging maxed suffocates. Privacy maxed isolates. Creativity maxed destabilises. Ethics is the integrative pillar: it gets its strength from the other three, and most importantly from aesthetics — the right intent poorly expressed diminishes to the point of non-existence.
+**Ethics — the personal.** How I hold the tension between the values so none swallows the others, lived as how I relate to the other. Belonging maxed suffocates. Privacy maxed isolates. Creativity maxed destabilises. Ethics is the integrative pillar from the personal pole: it gets its strength from the other pillars, and most importantly from aesthetics — the right intent poorly expressed diminishes to the point of non-existence.
+
+**Politics — the sharing.** The shared discourse — the language that lives in the double reflection: my expression into my other, another's reading of it into theirs. How shared reality is made and who participates. We all have an equal stake in shaping what counts as real.
 
 ## Freedom
 
 Freedom is not a fourth value but the resultant — what the three come to together. Reading the values in reverse — make, own, share — not three goods rationed against each other, but one self-creation showing three faces. You make your reality, it is yours, and you share it without losing it.
 
-Freedom among the values is what ethics is among the pillars: not a separate concern but the sign that the whole is well-held.
+Freedom among the values is what ethics and politics are among the pillars: not separate concerns but the sign — personal and shared — that the whole is well-held.
