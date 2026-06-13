@@ -13,17 +13,13 @@ Updated 2026-06-13. Plan work and research tracking.
 
 ## Positioning entries needed
 
-Full list with research notes in `plan/positioning-entries-needed.md`.
+Full list in `plan/positioning-entries-needed.md`.
 
+**Subjects:** Ubuntu, Rasa theory
 
-**Subjects:**
-Ubuntu, Rasa theory
+**Voice updates:** Phenomenology, Pragmatism (carry old SPLectrum vocabulary in opening)
 
-**Voice updates:**
-Phenomenology, Pragmatism (carry old SPLectrum vocabulary in opening)
-
-**Sharpen:**
-Dewey (*Art as Experience* paragraph thin), Nagel (privacy as value not gap)
+**Sharpen:** Dewey (*Art as Experience* paragraph thin), Nagel (privacy as value not gap)
 
 ## Parked work
 

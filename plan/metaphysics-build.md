@@ -57,6 +57,7 @@ Pages within the reality section where SPLectrum is the main voice. These develo
 - **Pluralism's status.** Three-that-disclose plus pluralism-as-the-name-of-the-disclosed-world, or four co-equal peers. Parked.
 - **The gradient's lower limit.** Where the inside thins to a clean zero — does mineral evolution, crystal growth, complex chemistry qualify? Connects to the aliveness sketch.
 - **Vocabulary lock.** Subject reality = experience of reality within being. Ontology = the held-as-object layer. My reality = the field that impacts me, exceeding my ontology. Lock against the process-theory sketch vocabulary.
+
 ## The number sequence (noted)
 
 One relational primitive. Two sides of the coin. Three core values. Four — . Five metaphysics pillars / five substrate languages.
