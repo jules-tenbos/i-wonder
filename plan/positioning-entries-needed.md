@@ -6,13 +6,7 @@ Persons section cleared 2026-05-28 (84 person pages total across three sessions)
 
 ## Persons — candidates (2026-05-28)
 
-Identified by positioning audit (2026-05-28). Ordered by proximity to the seed's territory.
-
-- **Quine** — "Two Dogmas of Empiricism," ontological relativity, the web of belief. Rorty's primary predecessor in dismantling the analytic/synthetic distinction. Missing link in the Frege → Russell → Carnap → Quine → Rorty spine.
-- **Derrida** — différance, deconstruction. Given Deleuze, Lyotard, Saussure are present and structuralism is a subject page. Central post-structuralist figure.
-- **Lévi-Strauss** — structural anthropology. The structuralism subject page names him. Founding figure of the tradition without a person page.
-- **Smolin** — loop quantum gravity (co-developer with Rovelli), cosmological natural selection, the reality of time. Mentioned in assembly-theory (TAP collaboration with Kauffman). Works in the same space as Rovelli plus adds evolutionary cosmology.
-- **Wolfram** — cellular automata, "A New Kind of Science", computational universe. Referenced in CAS adjacent-traditions but no person page.
+All candidates from the 2026-05-28 audit are now complete.
 
 ### Software-infrastructure cluster
 

@@ -15,8 +15,6 @@ Updated 2026-06-13. Plan work and research tracking.
 
 Full list with research notes in `plan/positioning-entries-needed.md`.
 
-**Persons — earlier candidates:**
-Quine, Derrida, Lévi-Strauss, Smolin, Wolfram
 
 **Subjects:**
 Ubuntu, Rasa theory
