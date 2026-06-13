@@ -62,36 +62,19 @@ Pages within the reality section where SPLectrum is the main voice. These develo
 
 3. **The decoherence dynamic.** What is shared disappears; what differs remains as tension at the interface. Salience tracks difference. Lived subject reality is mostly dark floor (vast invisible commonality) with a narrow bright rim of difference. Two sources of interface tension: standing difference, and the shock (collapsed sameness — taken as shared, then broke). Decoherence is a structural property of belonging, not of any one content language. Consequences for objectivity: science gets a solid reality without that reality being THE reality — stablest-and-most-shared, not truest.
 
-4. **The aesthetics of language.** Done. Created as `/reality/aesthetics/`. Supporting decisions in `plan/five-pillars-and-aesthetics-page.md`.
+4. **Ethics as tension-holding.** Now recast as personal (how I hold the value-tension). The collective dimension moved to politics. Each value maxed kills the rest: belonging maxed suffocates (the cult); privacy maxed isolates; creativity maxed destabilises. Freedom is the resultant that appears when the tension is well-held and collapses when one value wins. The seductive failure has a clean criterion: communion and suffocation are the same decoherence at different totalities; the line is uptake. The shock — discovering a difference you had taken as shared — is the ethical hinge.
 
-5. **Ethics as tension-holding.** Each value maxed kills the rest: belonging maxed suffocates (the cult); privacy maxed isolates; creativity maxed destabilises. Freedom is the resultant that appears when the tension is well-held and collapses when one value wins. The seductive failure has a clean criterion: communion and suffocation are the same decoherence at different totalities; the line is uptake. The shock — discovering a difference you had taken as shared — is the ethical hinge.
+5. **Ontology — being is concept.** The concept/being hinge: content-side, there is no hinge to narrate, only an identity to live. Language is the medium; there is no getting behind it. The gap between ontology and reality — what impacts me but is not mine — is the site of creativity. Reality always exceeds ontology, so the loop never closes. Overlap-but-not-equal: the shared/different cut runs through each item, not only between items.
 
-6. **Ontology — being is concept.** The concept/being hinge: content-side, there is no hinge to narrate, only an identity to live. Language is the medium; there is no getting behind it. The gap between ontology and reality — what impacts me but is not mine — is the site of creativity. Reality always exceeds ontology, so the loop never closes. Overlap-but-not-equal: the shared/different cut runs through each item, not only between items.
+6. **Abstraction, creation, and the reflexive fold.** Creation (the fabric getting larger) and abstraction (lifting into conceptual hold) are one act under two names. Abstraction permeates the living and non-living — not the human differentia. Reflexivity is the fold, not a new faculty. The human is the deep-fold region, not where a new power switches on.
 
-7. **Abstraction, creation, and the reflexive fold.** Creation (the fabric getting larger) and abstraction (lifting into conceptual hold) are one act under two names. Abstraction permeates the living and non-living — not the human differentia. Reflexivity is the fold, not a new faculty. The human is the deep-fold region, not where a new power switches on.
-
-8. **IRP as the world the three disclose.** Reality-side companion to the structural IRP page on the seed side. Belonging → interrelational (the coupling wherever subjects co-modulate, past the human), privacy → plural (distinct interiors, genuinely many), creativity → co-arising (plurality in motion).
-
-## Research: history of aesthetics' standing — done
-
-Delivered as [The standing of aesthetics in philosophy](/positioning/subjects/a/aesthetics-in-philosophy/) (landing + subordination arc + counter-current). Research doc at `plan/aesthetics-standing-research.md`.
+7. **IRP as the world the three disclose.** Reality-side companion to the structural IRP page on the seed side. Belonging → interrelational (the coupling wherever subjects co-modulate, past the human), privacy → plural (distinct interiors, genuinely many), creativity → co-arising (plurality in motion).
 
 ## Open / parked questions
 
 - **Pluralism's status.** Three-that-disclose plus pluralism-as-the-name-of-the-disclosed-world, or four co-equal peers. Parked.
 - **The gradient's lower limit.** Where the inside thins to a clean zero — does mineral evolution, crystal growth, complex chemistry qualify? Connects to the aliveness sketch.
 - **Vocabulary lock.** Subject reality = experience of reality within being. Ontology = the held-as-object layer. My reality = the field that impacts me, exceeding my ontology. Lock against the process-theory sketch vocabulary.
-- **Politics.** Now a pillar. The shared discourse, double reflection, who participates. Ethics recast as personal; politics carries the shared/collective. Needs positioning grounding pass (Arendt, Habermas, Rancière) before distinctive claims go live.
-
-## Blog series — reality label
-
-The blog carries the working stream. Posts in the reality series:
-
-- **Building from the Seed** (12 Jun) — published, tweet drafted. The transition post (seed label — bridges to reality).
-- **Flying the Flag of Belonging, Privacy and Creativity** (20 Jun) — status: draft. Introduces core values against the metaphysics.
-- **SPLectrum's Kind of Aesthetics** (28 Jun) — status: draft (notes only). Earns the aesthetics-as-medium move through the resonance image. Reality-section aesthetics page now exists (`/reality/aesthetics/`); post can reference it.
-- Further posts in the series: the world the values light up, the branches one at a time, the decoherence dynamic, IRP as disclosed world.
-
 ## The number sequence (noted)
 
 One relational primitive. Two sides of the coin. Three core values. Four — . Five metaphysics pillars / five substrate languages.

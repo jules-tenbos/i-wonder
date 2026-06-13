@@ -9,7 +9,7 @@ Updated 2026-06-13. Plan work and research tracking.
 
 ## Reality section
 
-- [ ] **Politics positioning grounding** — light pass needed before distinctive positioning claims go live. Arendt, Habermas, Rancière at minimum. Noted in `plan/five-pillars-and-aesthetics-page.md`.
+- [ ] **Politics positioning grounding** — light pass needed before distinctive positioning claims go live. Arendt, Habermas, Rancière at minimum.
 
 ## Positioning entries needed
 
