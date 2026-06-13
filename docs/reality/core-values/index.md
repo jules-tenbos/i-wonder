@@ -40,3 +40,7 @@ The core values yield five pillars — five angles on one dynamic, not five terr
 Freedom is not a fourth value but the resultant — what the three come to together. Reading the values in reverse — make, own, share — not three goods rationed against each other, but one self-creation showing three faces. You make your reality, it is yours, and you share it without losing it.
 
 Freedom among the values is what ethics and politics are among the pillars: not separate concerns but the sign — personal and shared — that the whole is well-held.
+
+---
+
+See also: [The three core values](/positioning/close-affinity/core-values/) (close affinity) · [Aesthetics — the medium](/reality/aesthetics/)
