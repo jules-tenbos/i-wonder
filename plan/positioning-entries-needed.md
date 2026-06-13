@@ -6,7 +6,7 @@ Persons section cleared 2026-05-28 (84 person pages total across three sessions)
 
 ## Persons — metaphysics cluster (2026-06-11)
 
-Identified by research into the core values (belonging, privacy, creativity), the four metaphysics pillars (epistemology, ontology, aesthetics, ethics), aesthetics-before-ethics, and disclosure method. Ordered by relevance to the metaphysics positions.
+Identified by research into the core values (belonging, privacy, creativity), the five metaphysics pillars (epistemology, ontology, aesthetics, ethics, politics), aesthetics-before-ethics, and disclosure method. Ordered by relevance to the metaphysics positions.
 
 - **Charles Taylor** — *Sources of the Self* (1989). Three axes of modern identity: inwardness (privacy), dialogical self through shared language (belonging), authenticity as self-creation (creativity). Closest single-thinker mapping onto the three values. Genealogical, not ontological.
 - **Buber** — *I and Thou* (1923). "All real living is meeting." Relation as primary. Belonging as encounter, not absorption. Dyadic — doesn't scale easily to language-communities.
@@ -25,11 +25,11 @@ Identified by research into the core values (belonging, privacy, creativity), th
 
 Identified by positioning audit (2026-05-28). Ordered by proximity to the seed's territory.
 
-- **Plato** — the Forms, mimesis, dialectic, the Republic. Origin of the subordination of aesthetics (art as thrice removed from truth). Foundation of the entire philosophical hierarchy the project engages with.
-- **Aristotle** — the Poetics, catharsis, the theoretical/practical/productive classification. Partial rehabilitation of art but the productive sciences still rank last. Foundation of biology, logic, ethics, metaphysics as named disciplines.
-- **Baumgarten** — coined "aesthetics" (1735/1750), *gnoseologia inferior*. Founded the discipline and seated it beneath logic in the same gesture. The naming act that made aesthetics both a recognised field and an explicitly subordinate one.
-- **Schopenhauer** — *The World as Will and Representation* (1818/1844). Aesthetic contemplation as access to Platonic Ideas; aesthetic experience as necessary precondition for ethics. Music as direct expression of the will. Counter-current voice between Kant and Nietzsche.
-- **Nietzsche** — perspectivism, the critique of substance metaphysics, eternal recurrence. "Only as an aesthetic phenomenon is existence and the world eternally justified." Inverted Platonism. Direct predecessor for Heidegger, Deleuze, Rorty. The single most striking gap in the philosophy cluster given the anti-foundationalist, process-oriented territory.
+- ~~**Plato**~~ — done 2026-06-13. Person page created.
+- ~~**Aristotle**~~ — expanded 2026-06-13. Metaphysics and Poetics sections added.
+- ~~**Baumgarten**~~ — done 2026-06-13. Person page created.
+- ~~**Schopenhauer**~~ — done 2026-06-13. Person page created.
+- ~~**Nietzsche**~~ — done 2026-06-13. Person page created.
 - **Quine** — "Two Dogmas of Empiricism," ontological relativity, the web of belief. Rorty's primary predecessor in dismantling the analytic/synthetic distinction. Missing link in the Frege → Russell → Carnap → Quine → Rorty spine.
 - **Derrida** — différance, deconstruction. Given Deleuze, Lyotard, Saussure are present and structuralism is a subject page. Central post-structuralist figure.
 - **Lévi-Strauss** — structural anthropology. The structuralism subject page names him. Founding figure of the tradition without a person page.

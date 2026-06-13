@@ -1,12 +1,18 @@
 # Scheduled Tasks
 
-Updated 2026-06-12. Plan work and research tracking.
+Updated 2026-06-13. Plan work and research tracking.
 
 ## Research
 
-- [ ] **Aesthetics standing history** — subordination arc and counter-current. Feeds: 28 Jun post, reality-section aesthetics page, positioning depth. Scoped in `plan/metaphysics-build.md`. Not started.
+- [x] **Aesthetics standing history** — done 2026-06-13. Subject page created: subordination arc + counter-current. Five person pages added (Plato, Aristotle expanded, Baumgarten, Schopenhauer, Nietzsche). Research doc at `plan/aesthetics-standing-research.md`.
 - [ ] **Realism research** — SPLectrum vs realism, nominalism, idealism. Scoped in `plan/realism-research.md`. Not started.
 - [ ] **AI information field** — long-running build. First decision open: thin hub subject or fence piece first. Scoped in `plan/ai-information-field.md`. Not started.
+
+## Reality section
+
+- [x] **Five-pillar update** — done 2026-06-13. Reality landing and core-values pages updated from four pillars to five (epistemology, ontology, aesthetics, ethics, politics). Supporting info at `plan/five-pillars-and-aesthetics-page.md`.
+- [x] **Aesthetics pillar page** — done 2026-06-13. New page at `/reality/aesthetics/`. Purity as fit, relocation into abstract thinking, where the values meet, prior to ethics and politics.
+- [ ] **Politics positioning grounding** — light pass needed before distinctive positioning claims go live. Arendt, Habermas, Rancière at minimum. Noted in `plan/five-pillars-and-aesthetics-page.md`.
 
 ## Positioning entries needed
 
@@ -15,11 +21,11 @@ Full list with research notes in `plan/positioning-entries-needed.md`.
 **Persons — metaphysics cluster (priority):**
 Charles Taylor, Buber, Castoriadis, Nishida, Ricoeur, Bakhtin, Marcuse, Kenneth Burke, Sen, Nussbaum, Sandel, Kierkegaard
 
-**Persons — earlier candidates:**
-Nietzsche, Quine, Derrida, Lévi-Strauss, Smolin, Wolfram
+**Persons — earlier candidates (Plato, Aristotle, Baumgarten, Schopenhauer, Nietzsche now done):**
+Quine, Derrida, Lévi-Strauss, Smolin, Wolfram
 
-**Subjects — metaphysics cluster:**
-Aesthetics (biggest gap), Ubuntu, Rasa theory
+**Subjects — metaphysics cluster (Aesthetics now done):**
+Ubuntu, Rasa theory
 
 **Voice updates:**
 Phenomenology, Pragmatism (carry old SPLectrum vocabulary in opening)
