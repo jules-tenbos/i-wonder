@@ -15,9 +15,6 @@ Updated 2026-06-13. Plan work and research tracking.
 
 Full list with research notes in `plan/positioning-entries-needed.md`.
 
-**Persons — metaphysics cluster (priority):**
-Charles Taylor, Buber, Castoriadis, Nishida, Ricoeur, Bakhtin, Marcuse, Kenneth Burke, Sen, Nussbaum, Sandel, Kierkegaard
-
 **Persons — earlier candidates:**
 Quine, Derrida, Lévi-Strauss, Smolin, Wolfram
 

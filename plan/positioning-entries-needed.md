@@ -4,23 +4,6 @@ Persons and subjects referenced on the site without their own entry. Two lists. 
 
 Persons section cleared 2026-05-28 (84 person pages total across three sessions); gap audit 2026-05-28 identified new candidates below.
 
-## Persons — metaphysics cluster (2026-06-11)
-
-Identified by research into the core values (belonging, privacy, creativity), the five metaphysics pillars (epistemology, ontology, aesthetics, ethics, politics), aesthetics-before-ethics, and disclosure method. Ordered by relevance to the metaphysics positions.
-
-- **Charles Taylor** — *Sources of the Self* (1989). Three axes of modern identity: inwardness (privacy), dialogical self through shared language (belonging), authenticity as self-creation (creativity). Closest single-thinker mapping onto the three values. Genealogical, not ontological.
-- **Buber** — *I and Thou* (1923). "All real living is meeting." Relation as primary. Belonging as encounter, not absorption. Dyadic — doesn't scale easily to language-communities.
-- **Castoriadis** — *The Imaginary Institution of Society* (1975). Society creates rather than discovers its forms. Autonomy as conscious self-institution. Creativity as social and ontological.
-- **Nishida** (Kitaro) — *Logic of Basho* (1926-). Self-awareness (privacy), mutual determination (belonging), action-intuition (creativity) as co-original. Closest non-Western parallel. Resolves into non-duality where SPLectrum holds the tension.
-- **Ricoeur** — *The Rule of Metaphor* (1975), *Oneself as Another* (1990). Metaphor as "event of thought" that redescribes reality. Identity disclosed through narrative. All three values present in the hermeneutics of the self.
-- **Bakhtin** — *Art and Answerability* (1919). Aesthetic activity as intersubjective. The utterance as dialogic. "Outsideness" enables understanding that life alone cannot. Close to resonance-between-intent-and-interaction.
-- **Marcuse** — *The Aesthetic Dimension* (1978). Art preserves liberation goals when politics fails. Autonomous truth-disclosing capacity.
-- **Kenneth Burke** — *Language as Symbolic Action* (1966). Language as world-making. Quality of symbolic action determines what realities become possible.
-- **Sen** — *Development as Freedom* (1999). Freedom as multidimensional, emerging from plural capabilities. Structural parallel for freedom-as-compositional.
-- **Nussbaum** — *Creating Capabilities* (2011). Capabilities approach. Freedom requires plural functionings. Evaluative framework, not lived unity.
-- **Sandel** — *Liberalism and the Limits of Justice* (1982). The "encumbered" self constituted by attachments. Community prior to choosing individual. Belonging axis.
-- **Kierkegaard** — *Either/Or* (1843). Three stages: aesthetic, ethical, religious. Anti-precedent: the aesthetic as immature, to be overcome. Worth having for contrast.
-
 ## Persons — candidates (2026-05-28)
 
 Identified by positioning audit (2026-05-28). Ordered by proximity to the seed's territory.

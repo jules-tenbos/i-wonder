@@ -7,24 +7,6 @@ Working plan for the content build around the core values (belonging, privacy, c
 Affinity readings where the main voice is not SPLectrum. These sit in positioning (close-affinity or seed ring), not in the reality section. Each is a topic page that draws on multiple thinkers.
 
 
-### The three core values — belonging, privacy, creativity
-
-The triad as a philosophical position. Who works with subsets, who comes close.
-
-**Core argument:** Three values disclosed from the subject's lived situation. Not a foundation but a stance. Stand in them and a world comes into view — thick (privacy), porous (belonging), unfinished (creativity).
-
-**Closest structural analogues:**
-- Charles Taylor — three axes of modern identity (inwardness, dialogical self, authenticity). Closest single-thinker mapping. Genealogical, not ontological.
-- Whitehead — Creativity/Many/One. Closest metaphysical analogue. Cosmological, not phenomenological.
-- Nishida — self-awareness, mutual determination, action-intuition as co-original. Closest non-Western parallel. Resolves into non-duality.
-
-**By value:**
-- Belonging: Buber (I-Thou), Levinas (the Other + interiority), Heidegger (Mitsein), MacIntyre/Sandel (communitarians), Ubuntu
-- Privacy: Nagel (irreducible subjectivity), Levinas (positive interiority), Arendt (private realm), Merleau-Ponty (lived body)
-- Creativity: Whitehead (creativity as ultimate), Bergson (élan vital), Castoriadis (social imaginary), Arendt (natality), James (unfinished universe), Deleuze (difference)
-
-**What's novel:** The specific triad as co-equal foundational values has no direct precedent. Taylor closest but narrates modernity rather than founding a metaphysics.
-
 ### Freedom as resultant
 
 Freedom as the name for the three values showing up together — not a fourth value, not a synthesis.
