@@ -25,11 +25,6 @@ Identified by research into the core values (belonging, privacy, creativity), th
 
 Identified by positioning audit (2026-05-28). Ordered by proximity to the seed's territory.
 
-- ~~**Plato**~~ — done 2026-06-13. Person page created.
-- ~~**Aristotle**~~ — expanded 2026-06-13. Metaphysics and Poetics sections added.
-- ~~**Baumgarten**~~ — done 2026-06-13. Person page created.
-- ~~**Schopenhauer**~~ — done 2026-06-13. Person page created.
-- ~~**Nietzsche**~~ — done 2026-06-13. Person page created.
 - **Quine** — "Two Dogmas of Empiricism," ontological relativity, the web of belief. Rorty's primary predecessor in dismantling the analytic/synthetic distinction. Missing link in the Frege → Russell → Carnap → Quine → Rorty spine.
 - **Derrida** — différance, deconstruction. Given Deleuze, Lyotard, Saussure are present and structuralism is a subject page. Central post-structuralist figure.
 - **Lévi-Strauss** — structural anthropology. The structuralism subject page names him. Founding figure of the tradition without a person page.
@@ -49,7 +44,6 @@ From the substrate-as-Subjects work (Avro, Git, Kafka, URI, XPath). Each is cred
 
 ### Metaphysics cluster (2026-06-11)
 
-- ~~**Aesthetics**~~ — now covered by [Aesthetics in philosophy](/positioning/subjects/a/aesthetics-in-philosophy/) (the standing of aesthetics: subordination arc + counter-current). Created 2026-06-13.
 - **Ubuntu** — "A person is a person through other persons." Belonging as ontological ground. Non-Western tradition directly relevant to the belonging value.
 - **Rasa theory** — Indian aesthetic theory. The resonance between expression and response as central mechanism. Non-Western parallel for the aesthetics-as-resonance position.
 

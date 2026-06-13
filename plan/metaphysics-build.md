@@ -62,7 +62,7 @@ Pages within the reality section where SPLectrum is the main voice. These develo
 
 3. **The decoherence dynamic.** What is shared disappears; what differs remains as tension at the interface. Salience tracks difference. Lived subject reality is mostly dark floor (vast invisible commonality) with a narrow bright rim of difference. Two sources of interface tension: standing difference, and the shock (collapsed sameness — taken as shared, then broke). Decoherence is a structural property of belonging, not of any one content language. Consequences for objectivity: science gets a solid reality without that reality being THE reality — stablest-and-most-shared, not truest.
 
-4. ~~**The aesthetics of language.**~~ Done 2026-06-13. Created as `/reality/aesthetics/` — purity as fit, relocation into abstract thinking, where the values meet, prior to ethics and politics. The blog post (28 Jun) can now reference the page rather than the page depending on the post. Supporting decisions in `plan/five-pillars-and-aesthetics-page.md`.
+4. **The aesthetics of language.** Done. Created as `/reality/aesthetics/`. Supporting decisions in `plan/five-pillars-and-aesthetics-page.md`.
 
 5. **Ethics as tension-holding.** Each value maxed kills the rest: belonging maxed suffocates (the cult); privacy maxed isolates; creativity maxed destabilises. Freedom is the resultant that appears when the tension is well-held and collapses when one value wins. The seductive failure has a clean criterion: communion and suffocation are the same decoherence at different totalities; the line is uptake. The shock — discovering a difference you had taken as shared — is the ethical hinge.
 
@@ -72,18 +72,16 @@ Pages within the reality section where SPLectrum is the main voice. These develo
 
 8. **IRP as the world the three disclose.** Reality-side companion to the structural IRP page on the seed side. Belonging → interrelational (the coupling wherever subjects co-modulate, past the human), privacy → plural (distinct interiors, genuinely many), creativity → co-arising (plurality in motion).
 
-## ~~Research needed: history of aesthetics' standing~~
+## Research: history of aesthetics' standing — done
 
-Done 2026-06-13. Research doc at `plan/aesthetics-standing-research.md`. Delivered as a three-page subject: [The standing of aesthetics in philosophy](/positioning/subjects/a/aesthetics-in-philosophy/) (landing + subordination arc + counter-current). Five person pages created or expanded: Plato, Aristotle (Metaphysics + Poetics sections), Baumgarten, Schopenhauer, Nietzsche. Close-affinity aesthetics page thinned and linked to subject page.
-
-**Triple payoff delivered:** feeds the aesthetics post (28 Jun), grounds the reality-side aesthetics page (now created), lays down the positioning-side depth.
+Delivered as [The standing of aesthetics in philosophy](/positioning/subjects/a/aesthetics-in-philosophy/) (landing + subordination arc + counter-current). Research doc at `plan/aesthetics-standing-research.md`.
 
 ## Open / parked questions
 
 - **Pluralism's status.** Three-that-disclose plus pluralism-as-the-name-of-the-disclosed-world, or four co-equal peers. Parked.
 - **The gradient's lower limit.** Where the inside thins to a clean zero — does mineral evolution, crystal growth, complex chemistry qualify? Connects to the aliveness sketch.
 - **Vocabulary lock.** Subject reality = experience of reality within being. Ontology = the held-as-object layer. My reality = the field that impacts me, exceeding my ontology. Lock against the process-theory sketch vocabulary.
-- ~~**Politics.**~~ Now a pillar (2026-06-13). The shared discourse, double reflection, who participates. Ethics recast as personal; politics carries the shared/collective. Needs positioning grounding pass (Arendt, Habermas, Rancière) before distinctive claims go live.
+- **Politics.** Now a pillar. The shared discourse, double reflection, who participates. Ethics recast as personal; politics carries the shared/collective. Needs positioning grounding pass (Arendt, Habermas, Rancière) before distinctive claims go live.
 
 ## Blog series — reality label
 
