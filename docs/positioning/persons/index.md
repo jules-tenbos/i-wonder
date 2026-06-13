@@ -44,7 +44,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Bradley, F. H. (1846–1924)](b/bradley) · philosopher<span class="kw">absolute idealism, Appearance and Reality, the critique of relations, the Absolute, British idealism</span>
 - [Brandom, Robert (1950–)](b/brandom) · philosopher<span class="kw">inferentialism, deontic scorekeeping, commitment over representation, expressive rationality</span>
 - [Buber, Martin (1878–1965)](b/buber) · philosopher<span class="kw">I and Thou, the dialogical principle, relation as primary, the between, Hasidism, encounter</span>
-- [Burke, Kenneth (1897–1993)](b/burke-k) · rhetorician, philosopher<span class="kw">language as symbolic action, dramatism, the pentad, identification, literature as equipment for living</span> · philosopher<span class="kw">I and Thou, the dialogical principle, relation as primary, the between, Hasidism, encounter</span>
+- [Burke, Kenneth (1897–1993)](b/burke-k) · rhetorician, philosopher<span class="kw">language as symbolic action, dramatism, the pentad, identification, literature as equipment for living</span>
 
 ## C
 
@@ -73,6 +73,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Deleuze, Gilles (1925–1995)](d/deleuze) · philosopher<span class="kw">difference and repetition, the rhizome, multiplicity, assemblages, the fold, immanence</span>
 - [Democritus (c. 460–c. 370 BCE)](d/democritus) · philosopher<span class="kw">atomism, the void, the earliest systematic materialism, plurality of being</span>
 - [Dennett, Daniel (1942–2024)](d/dennett) · philosopher<span class="kw">the intentional stance, Darwin's Dangerous Idea, consciousness explained, universal Darwinism, memes</span>
+- [Derrida, Jacques (1930–2004)](d/derrida) · philosopher<span class="kw">deconstruction, différance, the trace, the metaphysics of presence, writing and difference</span>
 - [Descartes, René (1596–1650)](d/descartes) · philosopher, mathematician<span class="kw">the cogito, the mirror, the mind-body split, method</span>
 - [Deutsch, David (1953–)](d/deutsch) · physicist<span class="kw">quantum computing, the universal quantum computer, the Church-Turing-Deutsch principle, constructor theory, many-worlds</span>
 - [Dewey, John (1859–1952)](d/dewey) · philosopher<span class="kw">pragmatism, democracy, inquiry as community problem-solving, experience as transaction</span>
@@ -149,7 +150,7 @@ Individual thinkers referenced across the positioning section. Each page present
 
 - [Kant, Immanuel (1724–1804)](k/kant) · philosopher<span class="kw">the Copernican revolution, phenomena and noumena, the categories, the moral law</span>
 - [Kauffman, Stuart (1939–)](k/kauffman) · theoretical biologist<span class="kw">self-organisation, autocatalytic sets, NK landscapes, the adjacent possible</span>
-- [Kierkegaard, Søren (1813–1855)](k/kierkegaard) · philosopher<span class="kw">the three stages of existence, the leap of faith, indirect communication, anxiety and despair, the individual</span> · theoretical biologist<span class="kw">self-organisation, autocatalytic sets, NK landscapes, the adjacent possible</span>
+- [Kierkegaard, Søren (1813–1855)](k/kierkegaard) · philosopher<span class="kw">the three stages of existence, the leap of faith, indirect communication, anxiety and despair, the individual</span>
 - [Kimura, Motoo (1924–1994)](k/kimura) · population geneticist<span class="kw">neutral theory of molecular evolution, diffusion equations, molecular clock, drift vs selection</span>
 - [Kitcher, Philip (1947–)](k/kitcher) · philosopher of science<span class="kw">the organisation of cognitive labour, the critique of sociobiology, mathematical naturalism, scientific progress</span>
 - [Kleppmann, Martin](k/kleppmann) · computer scientist<span class="kw">Designing Data-Intensive Applications, local-first software, CRDTs, Automerge, distributed data systems</span>
@@ -165,6 +166,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Latour, Bruno (1947–2022)](l/latour) · philosopher, sociologist of science<span class="kw">actor-network theory, We Have Never Been Modern, the Parliament of Things, cosmopolitics, modes of existence</span>
 - [Lawvere, F. William (1937–2023)](l/lawvere) · mathematician<span class="kw">categorical foundations of mathematics, ETCS, elementary topos theory, categorical logic, adjointness</span>
 - [Leibniz, Gottfried Wilhelm (1646–1716)](l/leibniz) · philosopher, mathematician<span class="kw">relational space, monads, pre-established harmony, the universal characteristic</span>
+- [Lévi-Strauss, Claude (1908–2009)](l/levi-strauss) · anthropologist<span class="kw">structural anthropology, binary oppositions, kinship structures, mythologiques, the science of the concrete</span>
 - [Levinas, Emmanuel (1906–1995)](l/levinas) · philosopher<span class="kw">ethics as first philosophy, the face of the Other, totality and infinity, the Saying and the Said, interiority</span>
 - [Lewontin, Richard (1929–2021)](l/lewontin) · evolutionary biologist, geneticist<span class="kw">three-conditions formalisation, Spandrels critique, organism-environment dialectic, anti-reductionism</span>
 - [Locke, John (1632–1704)](l/locke) · philosopher<span class="kw">empiricism, the Essay Concerning Human Understanding, the social contract, natural rights, the tabula rasa</span>
@@ -201,8 +203,8 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Nāgārjuna (c. 150–c. 250 CE)](n/nagarjuna) · Buddhist philosopher<span class="kw">śūnyatā (emptiness), dependent origination, the Mūlamadhyamakakārikā, Madhyamaka</span>
 - [Nagel, Thomas (1937–)](n/nagel) · philosopher<span class="kw">subjectivity, the view from nowhere, against reductionism</span>
 - [Nietzsche, Friedrich (1844–1900)](n/nietzsche) · philosopher<span class="kw">the death of God, the will to power, eternal recurrence, perspectivism, inverted Platonism, the revaluation of all values</span>
-- [Nussbaum, Martha (1947–)](n/nussbaum) · philosopher<span class="kw">the capabilities approach, central human capabilities, emotions as judgments, the fragility of goodness, human development</span> · philosopher<span class="kw">the death of God, the will to power, eternal recurrence, perspectivism, inverted Platonism, the revaluation of all values</span>
 - [Nishida, Kitarō (1870–1945)](n/nishida) · philosopher<span class="kw">pure experience, the logic of basho, absolute nothingness, action-intuition, the Kyoto School</span>
+- [Nussbaum, Martha (1947–)](n/nussbaum) · philosopher<span class="kw">the capabilities approach, central human capabilities, emotions as judgments, the fragility of goodness, human development</span>
 
 ## O
 
@@ -225,6 +227,10 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Proudhon, Pierre-Joseph (1809–1865)](p/proudhon) · social theorist<span class="kw">mutualism, federalism, property as relation, anarchism</span>
 - [Putnam, Hilary (1926–2016)](p/putnam) · philosopher<span class="kw">internal realism, conceptual relativity, the fact/value dichotomy, the brain in a vat, pragmatic realism</span>
 
+## Q
+
+- [Quine, Willard Van Orman (1908–2000)](q/quine) · philosopher<span class="kw">Two Dogmas of Empiricism, ontological relativity, the web of belief, naturalised epistemology, indeterminacy of translation</span>
+
 ## R
 
 - [Rancière, Jacques (b. 1940)](r/ranciere) · philosopher<span class="kw">the distribution of the sensible, aesthetics and politics, equality as presupposition, the ignorant schoolmaster, dissensus</span>
@@ -239,11 +245,11 @@ Individual thinkers referenced across the positioning section. Each page present
 
 ## S
 
-- [Śaṅkara (c. 700–750 CE)](s/sankara) · philosopher<span class="kw">Advaita Vedānta, non-duality, Brahman, māyā, the critique of Buddhist emptiness</span>
 - [Sandel, Michael (1953–)](s/sandel) · political philosopher<span class="kw">the encumbered self, the critique of liberal neutrality, civic republicanism, the moral limits of markets</span>
 - [Sapolsky, Robert (1957–)](s/sapolsky/) · neuroscientist<span class="kw">human behavioural biology, integrative across layers</span>
 - [Sartre, Jean-Paul (1905–1980)](s/sartre) · philosopher<span class="kw">existentialism, radical freedom, consciousness as nothingness, engagement</span>
 - [Saussure, Ferdinand de (1857–1913)](s/saussure) · linguist<span class="kw">structural linguistics, the differential sign, langue and parole</span>
+- [Śaṅkara (c. 700–750 CE)](s/sankara) · philosopher<span class="kw">Advaita Vedānta, non-duality, Brahman, māyā, the critique of Buddhist emptiness</span>
 - [Schelling, Thomas (1921–2016)](s/schelling) · economist, game theorist<span class="kw">focal points, the segregation model, micromotives and macrobehavior</span>
 - [Schiller, Friedrich (1759–1805)](s/schiller) · poet, dramatist, philosopher<span class="kw">aesthetic education, the play drive, beauty as freedom in appearance, grace and dignity, naive and sentimental</span>
 - [Schopenhauer, Arthur (1788–1860)](s/schopenhauer) · philosopher<span class="kw">the world as will and representation, aesthetic contemplation, the Ideas, music, compassion, pessimism</span>
@@ -255,6 +261,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Simard, Suzanne (1960–)](s/simard) · forest ecologist<span class="kw">mycorrhizal networks, the wood wide web, mother trees, resource sharing through fungal connections</span>
 - [Simpson, George Gaylord (1902–1984)](s/simpson) · paleontologist<span class="kw">Tempo and Mode in Evolution, adaptive zones, rates of evolution, quantum evolution, Modern Synthesis</span>
 - [Smith, Adam (1723–1790)](s/smith-adam) · philosopher, political economist<span class="kw">The Wealth of Nations, The Theory of Moral Sentiments, the invisible hand, the impartial spectator</span>
+- [Smolin, Lee (1955–)](s/smolin) · theoretical physicist<span class="kw">loop quantum gravity, cosmological natural selection, the reality of time, The Trouble with Physics</span>
 - [Sober, Elliott (1948–)](s/sober) · philosopher of biology<span class="kw">multilevel selection, units-of-selection debate, the nature of natural selection, parsimony, selection-of vs selection-for</span>
 - [Solé, Ricard (1962–)](s/sole) · complex systems scientist<span class="kw">liquid brains, solid brains, criticality, phase transitions</span>
 - [Spencer, Herbert (1820–1903)](s/spencer) · philosopher, sociologist<span class="kw">synthetic philosophy, survival of the fittest, social organism, evolution as universal principle</span>
@@ -296,10 +303,12 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Wilson, E. O. (1929–2021)](w/wilson) · biologist<span class="kw">Sociobiology, island biogeography, the ants, biodiversity, group selection turn</span>
 - [Wittgenstein, Ludwig (1889–1951)](w/wittgenstein) · philosopher<span class="kw">language games, forms of life, meaning as use</span>
 - [Woese, Carl (1928–2012)](w/woese) · microbiologist<span class="kw">the three domains of life, ribosomal RNA phylogenetics, the Archaea, the progenote</span>
+- [Wolfram, Stephen (1959–)](w/wolfram) · physicist, computer scientist<span class="kw">cellular automata, A New Kind of Science, computational irreducibility, the Wolfram model, Mathematica</span>
 - [Wright, Sewall (1889–1988)](w/wright) · geneticist<span class="kw">adaptive landscapes, genetic drift, shifting balance theory, path coefficients, population structure</span>
 - [Wynne-Edwards, V. C. (1906–1997)](w/wynne-edwards) · zoologist<span class="kw">group selection, Animal Dispersion, population self-regulation, epideictic displays</span>
 
 ## Z
 
-- [Zermelo, Ernst (1871–1953)](z/zermelo) · mathematician<span class="kw">the recurrence objection to Boltzmann, the axiom of choice, Zermelo-Fraenkel set theory, the well-ordering theorem</span>
 - [Zenil, Hector (1979–)](z/zenil) · computer scientist, complexity researcher<span class="kw">algorithmic information theory, Kolmogorov complexity, coding theorem method, assembly theory critique</span>
+- [Zermelo, Ernst (1871–1953)](z/zermelo) · mathematician<span class="kw">the recurrence objection to Boltzmann, the axiom of choice, Zermelo-Fraenkel set theory, the well-ordering theorem</span>
+
