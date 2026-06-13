@@ -35,7 +35,7 @@ The landscape below maps who makes this move, from what starting point, and wher
 
 **[Martin Heidegger](/positioning/persons/h/heidegger/)** — "Language is the house of Being." Language is not a tool for representation but the medium through which Being discloses itself. Poetry preserves language's disclosive capacity. The quality of language is ontologically fundamental — not an aesthetic preference but the condition for truth to show itself.
 
-**[Paul Ricoeur](https://plato.stanford.edu/entries/ricoeur/) (1975)** — metaphor is not decoration but "an event of thought." Through metaphor, "language rediscovers its creative capacity to redescribe reality." Quality of expression is quality of thought.
+**[Paul Ricoeur](/positioning/persons/r/ricoeur/) (1975)** — metaphor is not decoration but "an event of thought." Through metaphor, "language rediscovers its creative capacity to redescribe reality." Quality of expression is quality of thought.
 
 ---
 
