@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-28
+lastmod: 2026-06-14
 title: "Pragmatism"
 description: "Meaning by practical consequence, truth by convergence of inquiry — the tradition that refuses the spectator theory of knowledge."
 ---
@@ -8,8 +8,6 @@ description: "Meaning by practical consequence, truth by convergence of inquiry 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > Pragmatism
 
 # Pragmatism
-
-Pragmatism matters to SPLectrum because it refuses the mirror — the idea that knowledge is accurate representation of a ready-made world. That refusal runs through the [seed](/seed/): no outside view (P2), reality constituted through shared language (P3), no meta-vocabulary ranking languages from above (P4). Where [phenomenology](/positioning/subjects/p/phenomenology/) starts from lived experience and works outward, pragmatism starts from practice and works forward. Both arrive at a place where knowing is doing, not copying — and SPLectrum draws on both. [Rorty](/positioning/persons/r/rorty/)'s conversation over correspondence and [Peirce](/positioning/persons/p/peirce/)'s community of inquirers both resonate directly with how SPLectrum understands shared reality.
 
 The philosophical tradition that measures meaning by practical consequence and truth by what inquiry converges on. Pragmatism began in late nineteenth-century America with [Peirce](/positioning/persons/p/peirce/), was popularised by [William James](/positioning/persons/j/james/), developed into a philosophy of democracy and education by [Dewey](/positioning/persons/d/dewey/), and was revived in the late twentieth century by [Rorty](/positioning/persons/r/rorty/) as a thoroughgoing critique of representationalism.
 
@@ -37,7 +35,7 @@ Despite their differences, pragmatists share a refusal of the spectator theory o
 
 ## Where pragmatism stops
 
-Pragmatism tears down the mirror but is deliberately agnostic about what replaces it. "What works" is a powerful criterion, but it leaves open what counts as working and for whom. [Peirce](/positioning/persons/p/peirce/) anchored truth in the long-run convergence of inquiry — but that is an ideal, not a mechanism. [Rorty](/positioning/persons/r/rorty/) anchored it in conversation — but conversation without structure risks collapsing into persuasion. [Dewey](/positioning/persons/d/dewey/) came closest to a constructive account through democratic inquiry, but stayed at the social level without reaching into the structure of language itself. SPLectrum picks up where pragmatism leaves off: not just that knowing is doing, but that language is the medium through which doing constitutes reality — and that the structure of that medium (relational, interrelational, growing) can be made explicit through the [seed](/seed/).
+Pragmatism tears down the mirror but is deliberately agnostic about what replaces it. "What works" is a powerful criterion, but it leaves open what counts as working and for whom. [Peirce](/positioning/persons/p/peirce/) anchored truth in the long-run convergence of inquiry — but that is an ideal, not a mechanism. [Rorty](/positioning/persons/r/rorty/) anchored it in conversation — but conversation risks collapsing into persuasion. [Dewey](/positioning/persons/d/dewey/) came closest to a constructive account through democratic inquiry, but took communication as a given rather than a question.
 
 ---
 
@@ -45,4 +43,4 @@ Pragmatism tears down the mirror but is deliberately agnostic about what replace
 
 [Peirce](/positioning/persons/p/peirce/) · [James](/positioning/persons/j/james/) · [Dewey](/positioning/persons/d/dewey/) · [Rorty](/positioning/persons/r/rorty/)
 
-See also: [Phenomenology](/positioning/subjects/p/phenomenology/) · [Process Philosophy](/positioning/subjects/p/process-philosophy/) · [The seed and Philosophy](/seed/philosophical/) · [The Turn in Western Philosophy](/positioning/seed/the-turn-in-western-philosophy/)
+See also: [Phenomenology](/positioning/subjects/p/phenomenology/) · [Process Philosophy](/positioning/subjects/p/process-philosophy/)

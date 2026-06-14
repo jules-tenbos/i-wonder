@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-28
+lastmod: 2026-06-14
 title: "Phenomenology"
 description: "The study of experience from the inside — how the world shows up for a subject. From Husserl's foundations through Heidegger, Merleau-Ponty and Jonas."
 ---
@@ -8,8 +8,6 @@ description: "The study of experience from the inside — how the world shows up
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > Phenomenology
 
 # Phenomenology
-
-Phenomenology matters to SPLectrum because it insists that experience is where inquiry starts — not a distraction from the real, but the real itself. The [seed](/seed/)'s P2, where language is the medium through which a subject experiences reality, is a phenomenological claim. So is the insistence on no outside view: there is no reality to describe that is not already someone's experience. Phenomenology provides the philosophical ground for taking lived experience seriously, and its trajectory — from [Husserl](/positioning/persons/h/husserl/)'s consciousness through [Heidegger](/positioning/persons/h/heidegger/)'s being-in-the-world to [Merleau-Ponty](/positioning/persons/m/merleau-ponty/)'s body — traces a path that SPLectrum continues toward the relational and the shared.
 
 The study of experience from the inside. Phenomenology does not ask what the world is made of — it asks how the world shows up for a subject. Founded by [Husserl](/positioning/persons/h/husserl/) as a rigorous science of consciousness, it became one of the dominant movements of twentieth-century philosophy, branching into existentialism, hermeneutics, and the philosophy of embodiment.
 
@@ -39,7 +37,7 @@ Phenomenology is not a doctrine but a method — and the method has been taken i
 
 ## Where phenomenology stops
 
-Phenomenology starts from the subject — and largely stays there. Even at its most relational (Merleau-Ponty's intercorporeality, Husserl's intersubjectivity), the method works outward from one subject's experience. How a community constitutes shared reality, how languages evolve between subjects, how complexity grows from the grassroots — these are questions phenomenology opens but does not answer. SPLectrum takes the phenomenological insistence on lived experience and extends it through P3 (sharing), P4 (interrelation), and P5 (growing complexity) into territory that phenomenology pointed toward but left unexplored.
+Phenomenology starts from the subject — and largely stays there. Even at its most relational (Merleau-Ponty's intercorporeality, Husserl's intersubjectivity), the method works outward from one subject's experience. The intersubjective turn — how subjects constitute a shared world — is opened but not completed within the tradition.
 
 ---
 
@@ -47,4 +45,4 @@ Phenomenology starts from the subject — and largely stays there. Even at its m
 
 [Husserl](/positioning/persons/h/husserl/) · [Heidegger](/positioning/persons/h/heidegger/) · [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) · [Sartre](/positioning/persons/s/sartre/) · [Jonas](/positioning/persons/j/jonas/)
 
-See also: [Process Philosophy](/positioning/subjects/p/process-philosophy/) · [Pragmatism](/positioning/subjects/p/pragmatism/) · [The seed and Philosophy](/seed/philosophical/) · [The seed and Historicity](/seed/historicity/) · [The Turn in Western Philosophy](/positioning/seed/the-turn-in-western-philosophy/)
+See also: [Process Philosophy](/positioning/subjects/p/process-philosophy/) · [Pragmatism](/positioning/subjects/p/pragmatism/)

@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-15
+lastmod: 2026-06-14
 title: "Thomas Nagel (1937–)"
 description: "Nagel insisted that subjective experience is real and irreducible — there is something it is like to be a conscious subject, and no objective account captures it."
 ---
@@ -33,7 +33,7 @@ Nagel made the strongest case from within analytic philosophy that subjective ex
 
 ## Where Nagel stops
 
-Nagel showed that the subjective is irreducible — but he stayed with the gap. The view from nowhere cannot be reached; the subjective cannot be captured objectively; the tension is permanent. He holds both sides apart rather than asking how they are already woven together. Whether the gap is permanent or whether it looks different once the framing shifts — whether lived experience might be primary, and the "hard problem" an artifact of the objective-first assumption — is not a direction his programme pursues. He diagnosed the tension with exceptional clarity; whether the tension dissolves under a different starting point remains an open question.
+Nagel holds the subjective–objective tension as permanent. The view from nowhere cannot be reached, yet we cannot stop striving toward it; the subjective cannot be captured objectively, yet it cannot be dismissed. His programme stops at the holding — maintaining both sides of the tension in full force rather than resolving it in either direction.
 
 ---
 

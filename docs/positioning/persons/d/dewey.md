@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-28
+lastmod: 2026-06-14
 title: "John Dewey (1859–1952)"
 description: "Dewey brought pragmatism into the social — inquiry as community problem-solving, experience as transaction, democracy as a way of life."
 ---
@@ -25,13 +25,13 @@ Dewey moved pragmatism from the individual to the social. Inquiry is not a solit
 
 **The public and its problems.** Dewey's political philosophy centres on the public — the group of people affected by the indirect consequences of actions. The public is not given; it has to find and organise itself. Modern societies make this difficult: the scale and complexity of indirect consequences mean the public is "eclipsed," unable to identify itself. The task is not to impose solutions from above but to create the conditions in which publics can form and act.
 
-**Art as experience.** In *Art as Experience* (1934), Dewey argued that aesthetic experience is not separate from ordinary experience — it is ordinary experience at its most complete and integrated. The work of art is not the object but the experience of making and encountering it. This dissolves the boundary between art and life, consistent with his refusal of dualisms elsewhere.
+**Art as experience.** In *Art as Experience* (1934), Dewey argued that aesthetic experience is not separate from ordinary experience — it is ordinary experience at its most complete and integrated. Most experience is fragmented, interrupted, left unfinished; aesthetic experience is experience that runs its full course from inception through development to consummation. The rhythm of doing and undergoing — active engagement with a medium that resists and transforms the initial impulse — is what gives expression its form. The work of art is not the object on the museum wall but the experience of making and encountering it: perception is itself creative, the beholder reconstructing the work through their own engaged response. Fine art intensifies qualities present in all experience, from the satisfaction of a well-made meal to the shape of a conversation that reaches closure. The museum conception of art — art as isolated from ordinary life, housed in special institutions — is a cultural artifact, not an aesthetic truth.
 
 ---
 
 ## Where Dewey stops
 
-Dewey brought pragmatism into the social and the democratic, but he stayed at the level of practice and institution. The structure of language itself — how the medium of sharing constitutes what is shared — is not his question. He assumed communication as a given rather than asking what makes it possible. That inquiry is social he established; what the medium of sharing does to what is shared — how language constitutes, not just conveys — is not a question his framework asks.
+Dewey brought pragmatism into the social and the democratic, but he stayed at the level of practice and institution — taking communication as a given rather than a question.
 
 ---
 

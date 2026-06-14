@@ -34,7 +34,8 @@ From the substrate-as-Subjects work (Avro, Git, Kafka, URI, XPath). Co-creators 
 
 ## Updates needed
 
-- **Phenomenology** (subject) — carries SPLectrum vocabulary (P2, P3) in opening. Predates current voice rules. Needs voice adjustment.
-- **Pragmatism** (subject) — same voice issue. Carries P2, P3, P4 in opening.
-- **Dewey** (person) — *Art as Experience* paragraph thin relative to aesthetics now being a pillar. Could expand on Dewey's own terms.
-- **Nagel** (person) — "Where stops" could sharpen: privacy as a value rather than a gap.
+All complete (2026-06-14):
+- ~~**Phenomenology** (subject) — voice cleanup: removed SPLectrum vocabulary (P2, P3) from opening and closer.~~
+- ~~**Pragmatism** (subject) — voice cleanup: removed SPLectrum vocabulary (P2, P3, P4) from opening and closer.~~
+- ~~**Dewey** (person) — expanded *Art as Experience* section: consummation, doing-and-undergoing rhythm, medium-as-resistance, perception as creative.~~
+- ~~**Nagel** (person) — sharpened closer: irreducibility as constitutive rather than as epistemic gap.~~
