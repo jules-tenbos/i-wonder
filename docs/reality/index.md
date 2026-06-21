@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-06-13
+lastmod: 2026-06-21
 title: "Reality"
 description: "Reality disclosed from the seat of the subject — belonging, privacy, creativity as core values, and a metaphysics that follows from them."
 ---
@@ -9,7 +9,7 @@ description: "Reality disclosed from the seat of the subject — belonging, priv
 
 # Reality
 
-This section contains SPLectrum's views on reality, one voice among many in the pluralistic landscape. It describes a reality disclosed from the seat of the subject driven by three values: belonging, privacy and creativity. The metaphysics it yields is one where aesthetics is in a leading place. And reality is dynamic, a process of evolution.
+SPLectrum's philosophy develops from the subject's seat and the three core values. It does not replace other accounts but illustrates the meaningfulness of the pluralistic stance — one voice among many. The five pillars are framed here from the human subject, but their content does not depend on that frame: it holds across the wider gradient of subjects, preparing for that widening without discontinuity. It results in a reality that is dynamic, a process of evolution.
 
 ## Core Values
 
@@ -29,9 +29,9 @@ The three core values yield five metaphysics pillars — five angles on one dyna
 
 - **Epistemology** — we learn from private experience and sharing. There is no absolute objectivity, only converged subjectivity.
 - **Ontology** — language concepts and reality are the same thing, created and shared within a community.
-- **[Aesthetics](/reality/aesthetics/)** — there is no private experience without sensory experience, and sensory experience is mediated by language. This opens up a position of importance: the aesthetics of language, meaning. Aesthetics as the resonance between intent and interaction — the medium everything passes through.
-- **Ethics** — how I hold the tension between the values so none swallows the others, lived as how I relate to the other.
-- **Politics** — the shared discourse. How shared reality is made and who participates.
+- **[Aesthetics](/reality/aesthetics/)** — concerned with the dynamics of language, the interplay of (shared) registers and creative uniqueness.
+- **Ethics** — how a subject stacks the ethical values: a subject's relation with and attitude towards its reality.
+- **Politics** — the art of coexistence among diverse communities. The coexistence is built on what is held common in understanding, irrespective of diversities.
 
 ## Evolution
 

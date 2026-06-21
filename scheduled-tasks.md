@@ -1,6 +1,6 @@
 # Scheduled Tasks
 
-Updated 2026-06-13. Plan work and research tracking.
+Updated 2026-06-21. Plan work and research tracking.
 
 ## Research
 
@@ -17,16 +17,13 @@ Full list in `plan/positioning-entries-needed.md`.
 
 **Subjects:** Ubuntu, Rasa theory
 
-**Voice updates:** Phenomenology, Pragmatism (carry old SPLectrum vocabulary in opening)
-
-**Sharpen:** Dewey (*Art as Experience* paragraph thin), Nagel (privacy as value not gap)
+Voice updates and sharpening (Phenomenology, Pragmatism, Dewey, Nagel) — done 2026-06-21.
 
 ## Parked work
 
 - [ ] RQM post over word limit (1249 words)
-- [ ] 5 engineering drafts in `/drafts/` — each needs review/rework before re-scheduling (Avro, Six Protocols, Floor Is Always Solid, Physical/Logical Pivot, SPLectrum Engineering)
+- [ ] 1 engineering draft in `/drafts/` — needs review/rework before re-scheduling (SPLectrum Engineering)
 - [ ] 1 non-engineering draft: Compiling in the Body (language/neuroscience)
-- [ ] 1 working-notes file: seed-and-category-theory-notes.md
 - [ ] Cross-page audit convention — when a controversy appears on multiple person pages, check both sides voice it consistently. Not yet codified.
 - [ ] Person page craft guidance — "where X stops" drafting process. Guidance exists in `tone-of-voice/positioning-section.md` but not yet formalised as a standalone process note.
 - [ ] Blockchain history page (from `plan/my-notes.txt`)
@@ -39,4 +36,4 @@ Full list in `plan/positioning-entries-needed.md`.
 - `submissions/sketch-seed-native-definition-of-aliveness.md`
 - `submissions/semiotics.md`
 - `submissions/pluralism-and-pruning.md`
-- `submissions/mycelium-git.md`
+- `submissions/seed-and-category-theory-notes.md`

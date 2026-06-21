@@ -10,9 +10,10 @@ words: 0
 ---
 <img src="https://images.unsplash.com/photo-1530103043960-ef38714abb15?q=80&w=350&h=230&auto=format&fit=crop" alt="SPLectrum's Kind of Aesthetics" />
 
-# Notes — aesthetics blog post
+In Flying the [Flag of Belonging, Privacy and Creativity]() I explored how the core values shape SPLectrum's metaphysics.
 
-The post delivers the material for the reality-side aesthetics page (post first, page after). One argument: earn the move in the post; the page states it later. Reality side throughout — value-terms, no P-language.
+---
+<small>Photo: <a href="https://unsplash.com/@kxvn_lx">Kevin Laminto</a> / Unsplash</small>
 
 ## The one move
 
@@ -50,6 +51,3 @@ Way in: the lived version — the word that finally fits versus the one that's a
 - Persona: **thought** (personal, exploratory — fits disclosure) or SPLectrum-conversational. Lean: thought.
 - Label: metaphysics.
 - Sits with: the core-values/metaphysics page (its developed home), the close-affinity aesthetics piece (its positioning sibling, kept in its own register).
-
----
-<small>Photo: <a href="https://unsplash.com/@kxvn_lx">Kevin Laminto</a> / Unsplash</small>
