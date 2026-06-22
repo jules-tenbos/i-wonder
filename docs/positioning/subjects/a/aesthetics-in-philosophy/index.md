@@ -19,7 +19,7 @@ This subject traces the contest as two threads. The [subordination arc](/positio
 
 A large middle sits outside both threads: thinkers who treat aesthetics as neither foundational nor marginal but simply one department among several, and the plain indifference that is most of the discipline's actual stance toward the ranking question. The two threads traced here are the poles where the question is live — where something is being argued about what aesthetics is and where it belongs. The middle is not wrong; it is the ground the argument plays out against.
 
-The ranking is also specifically Western. Several traditions — the Chinese concept of *wen* (pattern, culture, literary refinement), the Indian theory of *rasa* (aesthetic experience as elevated consciousness), the Japanese *do* (way) traditions where aesthetic and moral cultivation are one practice — place the aesthetic centrally without having separated it from ethics or epistemology in the first place. The Western story traced here is the story of a separation and a contest over the separation's consequences.
+The ranking is also specifically Western. Several traditions — the Chinese concept of *wen* (pattern, culture, literary refinement), the Indian theory of [*rasa*](/positioning/subjects/r/rasa/) (aesthetic experience as elevated consciousness), the Japanese *do* (way) traditions where aesthetic and moral cultivation are one practice — place the aesthetic centrally without having separated it from ethics or epistemology in the first place. The Western story traced here is the story of a separation and a contest over the separation's consequences.
 
 ## Pages
 

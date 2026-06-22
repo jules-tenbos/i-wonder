@@ -42,4 +42,4 @@ Saussure's system is synchronic — a snapshot. It describes how signs relate at
 
 ---
 
-See also: [Structuralism](/positioning/subjects/s/structuralism/) · [Wittgenstein](/positioning/persons/w/wittgenstein/) · [Merleau-Ponty](/positioning/persons/m/merleau-ponty/)
+See also: [Structuralism](/positioning/subjects/s/structuralism/) · [Semiotics](/positioning/subjects/s/semiotics/) · [Wittgenstein](/positioning/persons/w/wittgenstein/) · [Merleau-Ponty](/positioning/persons/m/merleau-ponty/)

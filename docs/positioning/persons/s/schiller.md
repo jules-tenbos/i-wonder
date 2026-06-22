@@ -70,4 +70,4 @@ Schiller genuinely illuminates why moral programmes fail on unprepared ground, a
 
 ---
 
-See also: [Kant](/positioning/persons/k/kant/) · [Hegel](/positioning/persons/h/hegel/) · [Goethe](https://plato.stanford.edu/entries/goethe/) · [German Idealism](/positioning/subjects/g/german-idealism/)
+See also: [Kant](/positioning/persons/k/kant/) · [Hegel](/positioning/persons/h/hegel/) · [Goethe](/positioning/persons/g/goethe/) · [German Idealism](/positioning/subjects/g/german-idealism/)

@@ -14,7 +14,6 @@ From the substrate-as-Subjects work (Avro, Git, Kafka, URI, XPath). Co-creators 
 ## Subjects — metaphysics cluster
 
 - **Ubuntu** — "A person is a person through other persons." Belonging as ontological ground. Non-Western tradition directly relevant to the belonging value.
-- **Rasa theory** — Indian aesthetic theory. The resonance between expression and response as central mechanism. Non-Western parallel for the aesthetics-as-resonance position.
 
 ## Subjects — earlier candidates (2026-05-28)
 
@@ -22,7 +21,6 @@ From the substrate-as-Subjects work (Avro, Git, Kafka, URI, XPath). Co-creators 
 - Enactivism — standalone subject page. Varela has a page; autopoiesis subject page names the extension. Thompson, Noë, Di Paolo lack person pages.
 - Information theory — standalone subject page. Person pages exist (Shannon, Landauer, Bennett).
 - Loop quantum gravity — standalone subject page. Closely tied to RQM; Rovelli and Smolin have person pages.
-- Semiotics — standalone subject page. Peirce has a person page.
 - Embodied cognition — standalone subject page. Merleau-Ponty has a person page.
 - Thermodynamics / entropy — standalone subject page, distinct from the positioning arrow-of-time page.
 - Statistical mechanics — standalone subject page. Boltzmann, Gibbs have person pages.

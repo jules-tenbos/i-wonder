@@ -13,7 +13,7 @@ Bakhtin's work starts from a single conviction: meaning is never the product of 
 
 ## Life
 
-Born in Oryol, Russia, in 1895. He studied classics and philosophy at Petrograd (St Petersburg) University. In the years after the Revolution he was part of a circle of thinkers in Nevel and Vitebsk — the "Bakhtin Circle" — that included the linguist Valentin Voloshinov and the literary scholar Pavel Medvedev. The authorship of several works published under Voloshinov's and Medvedev's names (*Marxism and the Philosophy of Language*, *The Formal Method in Literary Scholarship*) remains debated: some scholars attribute them substantially to Bakhtin, others treat them as collaborative or as the named authors' own work.
+Born in Oryol, Russia, in 1895. He studied classics and philosophy at Petrograd (St Petersburg) University. In the years after the Revolution he was part of a circle of thinkers in Nevel and Vitebsk — the "Bakhtin Circle" — that included the linguist [Valentin Voloshinov](/positioning/persons/v/voloshinov/) and the literary scholar Pavel Medvedev. The authorship of several works published under Voloshinov's and Medvedev's names (*Marxism and the Philosophy of Language*, *The Formal Method in Literary Scholarship*) remains debated: some scholars attribute them substantially to Bakhtin, others treat them as collaborative or as the named authors' own work.
 
 He was arrested in 1929 during the Stalinist purges, probably for his involvement with an underground religious-philosophical group. His sentence was commuted from the camps to internal exile in Kazakhstan, where he spent six years. He lived in obscurity for decades, teaching at a provincial pedagogical institute in Saransk, in poor health (a bone disease led to the amputation of a leg in 1938). His doctoral dissertation on Rabelais was submitted in 1946 but denied the doctorate for its unorthodox content.
 
@@ -76,4 +76,4 @@ The "unfinalisability" of the self — the insistence that no person can be full
 
 ---
 
-See also: [Ricoeur](/positioning/persons/r/ricoeur/) · [Levinas](/positioning/persons/l/levinas/) · [Gadamer](/positioning/persons/g/gadamer/)
+See also: [Dialogism](/positioning/subjects/d/dialogism/) · [Ricoeur](/positioning/persons/r/ricoeur/) · [Levinas](/positioning/persons/l/levinas/) · [Gadamer](/positioning/persons/g/gadamer/)

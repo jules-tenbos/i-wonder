@@ -27,12 +27,18 @@ These are subjects of importance to SPLectrum, referenced within the site.
 ## D
 
 - [Darwinism](d/darwinism/) · biology, history of science<span class="kw">evolution by natural selection — Darwin's theory, its integration with genetics, its extensions and disputes, and the traditions that bear its name</span>
+- [Deconstruction](d/deconstruction/) · philosophy<span class="kw">Derrida's critique of the metaphysics of presence — différance, the trace, the speech/writing hierarchy, the Searle and de Man disputes, the turn to justice and hospitality</span>
+- [Dialogism](d/dialogism/) · philosophy, literary theory<span class="kw">Bakhtin and the Bakhtin Circle — the dialogic utterance, heteroglossia, polyphony, the chronotope and carnival, the authorship dispute, the literary-theory afterlife</span>
 - [Domain-specific languages (DSL)](d/domain-specific-languages/) · software engineering, notation<span class="kw">purpose-built vocabularies for specific problem areas — from SQL and regular expressions to musical notation and chemical nomenclature</span>
 
 ## G
 
 - [German idealism](g/german-idealism) · philosophy<span class="kw">Fichte, Schelling, Hegel: overcoming Kant's limits, the productivity of negation</span>
 - [Git](g/git/) · version control, software engineering<span class="kw">distributed version control: content-addressed snapshots, the commit DAG, integrity by hashing, Torvalds, the Linux kernel</span>
+
+## H
+
+- [Hermeneutics](h/hermeneutics/) · philosophy<span class="kw">the theory of interpretation and understanding — the hermeneutic circle, method versus truth, the ontological turn: Schleiermacher, Dilthey, Heidegger, Gadamer, Ricoeur</span>
 
 ## K
 
@@ -53,11 +59,14 @@ These are subjects of importance to SPLectrum, referenced within the site.
 
 ## R
 
+- [Rasa](r/rasa/) · philosophy, aesthetics<span class="kw">the Indian theory of aesthetic experience — Bharata's Natya Shastra and the rasa-sutra, the commentators' debate, dhvani, Abhinavagupta's account of relish, the nine rasas</span>
 - [Relational quantum mechanics](r/relational-quantum-mechanics) · theoretical physics<span class="kw">properties through interaction, no absolute state: Rovelli, van Fraassen, decoherence</span>
 
 ## S
 
+- [Semiotics](s/semiotics/) · philosophy, linguistics<span class="kw">the theory of signs — Peirce's triadic sign and Saussure's dyadic sign, the semiology of culture (Hjelmslev, Jakobson, Barthes, Eco, Lotman), and the biosemiotic extension into the living world</span>
 - [Structuralism](s/structuralism) · linguistics, philosophy<span class="kw">meaning as difference, systems of relations: Saussure, Lévi-Strauss, and beyond</span>
+- [Symbolic forms](s/symbolic-forms/) · philosophy<span class="kw">Cassirer's account of mind constituting its worlds through language, myth, art, religion, and science — the neo-Kantian background, the Davos debate, and the afterlife in Langer and Goodman</span>
 
 ## U
 

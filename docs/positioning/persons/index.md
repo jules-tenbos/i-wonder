@@ -13,6 +13,7 @@ Individual thinkers referenced across the positioning section. Each page present
 
 ## A
 
+- [Abhinavagupta (c. 950–1016)](a/abhinavagupta) · philosopher, aesthetician<span class="kw">rasa as aesthetic experience, sadharanikarana, dhvani and suggestion, non-dual Kashmir Shaivism, the Tantraloka, recognition</span>
 - [Albert, David (1954–)](a/albert) · philosopher of physics<span class="kw">the Past Hypothesis, foundations of statistical mechanics, the measurement problem, GRW</span>
 - [Anderson, Philip (1923–2020)](a/anderson) · physicist<span class="kw">"More is Different", emergence, Anderson localisation, symmetry breaking, Santa Fe Institute</span>
 - [Aquinas, Thomas (1225–1274)](a/aquinas) · theologian, philosopher<span class="kw">synthesis of Aristotle and Christian theology, the five ways, natural law, the Summa Theologiae</span>
@@ -30,6 +31,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Bateson, Gregory (1904–1980)](b/bateson) · anthropologist, cyberneticist<span class="kw">ecology of mind, difference that makes a difference, schismogenesis, the pattern which connects</span>
 - [Bateson, William (1861–1926)](b/bateson-w) · biologist<span class="kw">coined "genetics", Mendel's champion, the Mendelian-biometrician debate, discontinuous variation</span>
 - [Baumgarten, Alexander Gottlieb (1714–1762)](b/baumgarten) · philosopher<span class="kw">coined "aesthetics", the science of sensory cognition, gnoseologia inferior, beauty as perfection of sensible cognition</span>
+- [Beauvoir, Simone de (1908–1986)](b/beauvoir) · philosopher<span class="kw">existentialist ethics, the ethics of ambiguity, The Second Sex, woman as the Other, immanence and transcendence</span>
 - [Bell, John (1928–1990)](b/bell) · physicist<span class="kw">Bell's theorem, Bell inequalities, the impossibility of local hidden variables, the measurement problem</span>
 - [Bennett, Charles (1943–)](b/bennett) · physicist<span class="kw">reversible computation, Maxwell's demon resolved via erasure, quantum teleportation, quantum key distribution</span>
 - [Bergson, Henri (1859–1941)](b/bergson) · philosopher<span class="kw">duration, creative evolution, intuition, the élan vital</span>
@@ -78,6 +80,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Deutsch, David (1953–)](d/deutsch) · physicist<span class="kw">quantum computing, the universal quantum computer, the Church-Turing-Deutsch principle, constructor theory, many-worlds</span>
 - [Dewey, John (1859–1952)](d/dewey) · philosopher<span class="kw">pragmatism, democracy, inquiry as community problem-solving, experience as transaction</span>
 - [DeWitt, Bryce (1923–2004)](d/dewitt) · physicist<span class="kw">the many-worlds revival, the Wheeler-DeWitt equation, quantum gravity, the effective-action method</span>
+- [Dilthey, Wilhelm (1833–1911)](d/dilthey) · philosopher<span class="kw">the human sciences, Verstehen versus Erklären, lived experience and expression, the critique of historical reason, objective spirit</span>
 - [Dirac, Paul (1902–1984)](d/dirac) · physicist<span class="kw">the Dirac equation, quantum field theory, antimatter, bra-ket notation, the Principles of Quantum Mechanics</span>
 - [Dobzhansky, Theodosius (1900–1975)](d/dobzhansky) · geneticist, evolutionary biologist<span class="kw">Genetics and the Origin of Species, Modern Synthesis bridge, isolating mechanisms, nothing in biology</span>
 - [Doolittle, W. Ford (1941–)](d/doolittle) · biochemist<span class="kw">the tree-of-life critique, horizontal gene transfer, the web of life, pattern pluralism</span>
@@ -112,6 +115,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Gell-Mann, Murray (1929–2019)](g/gell-mann) · physicist<span class="kw">quarks, the Eightfold Way, effective complexity, Santa Fe Institute co-founder</span>
 - [Ghiselin, Michael (1939–)](g/ghiselin) · biologist, philosopher of biology<span class="kw">the species-as-individuals thesis, the evolution of sex, opisthobranch systematics</span>
 - [Gibbs, Josiah Willard (1839–1903)](g/gibbs) · physicist, mathematician<span class="kw">statistical mechanics, chemical thermodynamics, Gibbs free energy, the phase rule, ensembles</span>
+- [Goethe, Johann Wolfgang von (1749–1832)](g/goethe) · poet, dramatist, scientist, statesman<span class="kw">Weimar Classicism and Faust, the morphology of living form, the Urpflanze, the Theory of Colours, an influence on German idealism and Cassirer's symbolic forms</span>
 - [Goodman, Nelson (1906–1998)](g/goodman) · philosopher<span class="kw">ways of worldmaking, symbol systems, rightness over truth, irrealism</span>
 - [Gould, Stephen Jay (1941–2002)](g/gould) · paleontologist, evolutionary biologist<span class="kw">punctuated equilibrium, Spandrels critique, contingency, hierarchy theory, popular science</span>
 - [Grothendieck, Alexander (1928–2014)](g/grothendieck) · mathematician<span class="kw">the refounding of algebraic geometry, schemes, topos theory, étale cohomology, the Grothendieck school</span>
@@ -161,6 +165,7 @@ Individual thinkers referenced across the positioning section. Each page present
 ## L
 
 - [Landauer, Rolf (1927–1999)](l/landauer) · physicist<span class="kw">Landauer's principle, the thermodynamics of computation, information as physical, Maxwell's demon resolved</span>
+- [Langer, Susanne K. (1895–1985)](l/langer) · philosopher<span class="kw">discursive and presentational symbolism, art as the creation of forms symbolic of human feeling, the virtual and the primary illusion, the biology of mind</span>
 - [Langton, Christopher (1948–)](l/langton) · computer scientist<span class="kw">artificial life, edge of chaos, self-reproducing loops, the SFI artificial life workshops</span>
 - [Laski, Harold (1893–1950)](l/laski) · political theorist<span class="kw">political pluralism, the sovereignty critique, the state as one association among many, democratic socialism</span>
 - [Latour, Bruno (1947–2022)](l/latour) · philosopher, sociologist of science<span class="kw">actor-network theory, We Have Never Been Modern, the Parliament of Things, cosmopolitics, modes of existence</span>
@@ -252,6 +257,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Śaṅkara (c. 700–750 CE)](s/sankara) · philosopher<span class="kw">Advaita Vedānta, non-duality, Brahman, māyā, the critique of Buddhist emptiness</span>
 - [Schelling, Thomas (1921–2016)](s/schelling) · economist, game theorist<span class="kw">focal points, the segregation model, micromotives and macrobehavior</span>
 - [Schiller, Friedrich (1759–1805)](s/schiller) · poet, dramatist, philosopher<span class="kw">aesthetic education, the play drive, beauty as freedom in appearance, grace and dignity, naive and sentimental</span>
+- [Schleiermacher, Friedrich (1768–1834)](s/schleiermacher) · theologian, philosopher<span class="kw">general hermeneutics, grammatical and psychological interpretation, the hermeneutic circle, the feeling of absolute dependence, On Religion</span>
 - [Schopenhauer, Arthur (1788–1860)](s/schopenhauer) · philosopher<span class="kw">the world as will and representation, aesthetic contemplation, the Ideas, music, compassion, pessimism</span>
 - [Schrödinger, Erwin (1887–1961)](s/schrodinger) · physicist<span class="kw">wave mechanics, the Schrödinger equation, What is Life?, negative entropy, the cat</span>
 - [Schumpeter, Joseph (1883–1950)](s/schumpeter) · economist<span class="kw">creative destruction, the entrepreneur as innovator, business cycles, capitalism's self-undermining dynamics</span>
@@ -284,6 +290,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Van Beneden, Pierre-Joseph (1809–1894)](v/van-beneden) · zoologist, paleontologist<span class="kw">commensalism, mutualism, parasitology, interspecific relations as gradient</span>
 - [Varela, Francisco (1946–2001)](v/varela) · biologist, cognitive scientist<span class="kw">autopoiesis, enactivism, neurophenomenology, the embodied mind</span>
 - [Veblen, Thorstein (1857–1929)](v/veblen) · economist, sociologist<span class="kw">institutional economics, conspicuous consumption, the leisure class, "Why is economics not an evolutionary science?"</span>
+- [Voloshinov, Valentin (1895–1936)](v/voloshinov) · linguist, Marxist theorist<span class="kw">the sign as social and ideological, multiaccentuality, Marxism and the Philosophy of Language, the Bakhtin Circle and the authorship dispute</span>
 - [Von Baer, Karl Ernst (1792–1876)](v/von-baer) · embryologist, naturalist<span class="kw">laws of embryology, the mammalian ovum, shared developmental patterns, pre-Darwinian common-descent evidence</span>
 - [Von Foerster, Heinz (1911–2002)](v/von-foerster) · physicist, cyberneticist<span class="kw">second-order cybernetics, the observer in the system, eigenvalues of cognition, the Biological Computer Laboratory</span>
 - [Von Neumann, John (1903–1957)](v/von-neumann) · mathematician<span class="kw">game theory, von Neumann architecture, quantum mechanics, self-reproducing automata</span>

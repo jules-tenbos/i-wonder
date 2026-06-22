@@ -15,7 +15,7 @@ Updated 2026-06-21. Plan work and research tracking.
 
 Full list in `plan/positioning-entries-needed.md`.
 
-**Subjects:** Ubuntu, Rasa theory
+**Subjects:** Ubuntu
 
 Voice updates and sharpening (Phenomenology, Pragmatism, Dewey, Nagel) — done 2026-06-21.
 

@@ -67,4 +67,4 @@ The treatment of myth has drawn the sharpest criticism. Cassirer presents the th
 
 ---
 
-See also: [Goodman](/positioning/persons/g/goodman/) · [Kant](/positioning/persons/k/kant/) · [Heidegger](/positioning/persons/h/heidegger/)
+See also: [Symbolic forms](/positioning/subjects/s/symbolic-forms/) · [Langer](/positioning/persons/l/langer/) · [Goodman](/positioning/persons/g/goodman/) · [Kant](/positioning/persons/k/kant/) · [Heidegger](/positioning/persons/h/heidegger/)
