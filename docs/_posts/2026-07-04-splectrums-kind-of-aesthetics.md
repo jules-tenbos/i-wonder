@@ -10,7 +10,11 @@ words: 0
 ---
 <img src="https://images.unsplash.com/photo-1530103043960-ef38714abb15?q=80&w=350&h=230&auto=format&fit=crop" alt="SPLectrum's Kind of Aesthetics" />
 
-In Flying the [Flag of Belonging, Privacy and Creativity]() I explored how the core values shape SPLectrum's metaphysics.
+In Flying the [Flag of Belonging, Privacy and Creativity]() I made a start situating SPLectrum, exploring the type of inquiry that flows from the three core values. Epistemology - or how we come to knowledge - is all around the subject experience. Ontology is about the concepts used by the languages. And then came the third: what about the way concepts relate and express, about the 'dynamic' part of language? Aesthetics is about the sensory, we experience through the senses with language as medium - why not aesthetics about expression in general then, the dynamics of language. Isn't all language built up from sensory input as a base? Nice: epistemology, ontology and aesthetics as the initial trio within metaphysics! 
+
+And then came the headache ... Philosophy has a very fragmented view of what is essentially expression of meaning - aesthetics, hermeneutics, semiotics, ... 
+
+From a SPLectrum point of view it makes complete sense. Experience about the process, ontology about the 'static' entities(concepts) we use in language and aesthetics about the dynamic of language in the expression of meaning. Furthermore, a subject's language is nearly all shared - from belonging. But the dynamic, how to shape it is private, individual. The dynamic of tuning language registers in different ways creates a wide open door for creativity: creation of newness and uniqueness out of what is shared amongst all members that belong. 
 
 ---
 <small>Photo: <a href="https://unsplash.com/@kxvn_lx">Kevin Laminto</a> / Unsplash</small>
