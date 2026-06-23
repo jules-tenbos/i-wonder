@@ -1,6 +1,6 @@
 # Scheduled Tasks
 
-Updated 2026-06-21. Plan work and research tracking.
+Updated 2026-06-23. Plan work and research tracking.
 
 ## Research
 
@@ -10,12 +10,15 @@ Updated 2026-06-21. Plan work and research tracking.
 ## Reality section
 
 - [ ] **Politics positioning grounding** — light pass needed before distinctive positioning claims go live. Arendt, Habermas, Rancière at minimum.
+- [ ] **Core-values consistency** — bring `/reality/core-values/` in line with the reworked `/reality/aesthetics/` page, all at once: (1) the Aesthetics-pillar entry still reads "the quality of that expression is where all three values meet" — replace with the poles/motion structure (belonging + privacy as poles, creativity the motion between them, no meeting-point / no fourth thing at a seam — the same retired error already fixed on the close-affinity surface); (2) rename the pillar label and the see-also link text from "Aesthetics — the medium" to "Aesthetics — the dynamics of meaning" to match the page's new subtitle.
 
 ## Positioning entries needed
 
 Full list in `plan/positioning-entries-needed.md`.
 
-**Subjects:** Ubuntu
+**Subjects:** Ubuntu; **Music** (needed — aesthetics branch 5 leans on it, the Hanslick/formalism line has nowhere to delegate); **Biosemiotics** (decided 2026-06-23: a separate subject, not a semiotics sub-page; spine = the biosemiotic three).
+
+**Persons:** the meaning-territory / aesthetics external-citation cluster — priority order in the plan doc (biosemiotic three first, then de Man / Eco / Barthes / Jakobson, then the rest as-and-when).
 
 Voice updates and sharpening (Phenomenology, Pragmatism, Dewey, Nagel) — done 2026-06-21.
 

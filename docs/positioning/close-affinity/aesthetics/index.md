@@ -67,4 +67,4 @@ The surface gathers the scatter as five regions, cut by how far the dynamic trav
 
 ---
 
-See also: [Aesthetics — the medium](/reality/aesthetics/) (the pillar this develops) · [The core values](/reality/core-values/) · [The standing of aesthetics in philosophy](/positioning/subjects/a/aesthetics-in-philosophy/) · [Pluralism](/positioning/close-affinity/pluralism/)
+See also: [Aesthetics — the dynamics of meaning](/reality/aesthetics/) (the pillar this develops) · [The core values](/reality/core-values/) · [The standing of aesthetics in philosophy](/positioning/subjects/a/aesthetics-in-philosophy/) · [Pluralism](/positioning/close-affinity/pluralism/)

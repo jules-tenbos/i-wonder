@@ -1,6 +1,6 @@
 # Positioning entries needed
 
-Subjects referenced on the site without their own entry, and existing pages needing updates. Person pages are complete (all candidates from the 2026-05-28 and 2026-06-11 audits are done).
+Subjects referenced on the site without their own entry, and existing pages needing updates. (The 2026-05-28 / 2026-06-11 person audits are done; a new person/subject backlog from the meaning-territory subjects and the close-affinity aesthetics surface is below.)
 
 ## Persons — software-infrastructure cluster
 
@@ -10,6 +10,35 @@ From the substrate-as-Subjects work (Avro, Git, Kafka, URI, XPath). Co-creators 
 - **Jun Rao** — co-creator of Apache Kafka, co-founder of Confluent; distributed-systems engineer. Credited on the Kafka subject.
 - **Larry Masinter** — co-author of the URI RFCs (1738, 2396, 3986); internet standards at Xerox PARC and Adobe. Credited on the URI subject.
 - **Steven DeRose** — XPointer, XML/SGML, hypertext; computational linguistics background. Credited on the XPath subject as a related figure.
+
+## Persons — meaning territory / aesthetics cluster
+
+Figures named on the meaning-territory subjects and the aesthetics surface, currently handled as external citations (depth delegated to the subject page). Priority below is by where the pages strain without depth, not a build commitment — which become pages, and in what order, is the editor's sequencing call.
+
+**Priority 1 — the biosemiotic three (highest content-weight).** Aesthetics branch 4 ("below the human") rests on these: Peirce is the only seated thinker, and they carry the entire below-the-linguistic extension — the most load-bearing external citations on the whole surface. They become the spine of the new biosemiotics subject (see Subjects below).
+- **Thomas Sebeok** — broadened semiotics to the living world; coined *zoosemiotics*, architect of biosemiotics.
+- **Jakob von Uexküll** — the *Umwelt*, the functional circle; the seed of the field.
+- **Jesper Hoffmeyer** — signs from the cell upward; *Signs of Meaning in the Universe*.
+
+**Priority 2 — the briefs' flagged next builds.** Where the deconstruction and semiotics subject pages will feel the absence soonest — the depth those pages would normally delegate to, not passing mentions.
+- **Paul de Man** — Yale-school deconstruction; the wartime-writings affair. Deconstruction's "natural next person."
+- **Umberto Eco** — theory of codes, the open work, the limits of interpretation. Semiotics.
+- **Roland Barthes** — myth, connotation, the semiology of culture. Semiotics.
+- **Roman Jakobson** — the six functions, the poetic function, the Peirce/Saussure bridge. Semiotics.
+
+**Priority 3 — genuine context, can stay external indefinitely.** Named to make a tradition's depth concrete; citable externally without the page straining.
+- Hermeneutics: **Emilio Betti**, **E. D. Hirsch** (validity objectors); **Rudolf Bultmann** (the theology reach).
+- Deconstruction: **John Searle** (the speech-act dispute).
+- Dialogism: **Julia Kristeva** (intertextuality, the Western reception). (**Medvedev** named-bare as Circle depth on the dialogism page.)
+- Semiotics: **Louis Hjelmslev** (glossematics), **Juri Lotman** (the semiosphere), **Algirdas Julien Greimas** (the semiotic square, the Paris school).
+- Rasa lineage — the tradition's historical spine behind Abhinavagupta, correctly seated *as depth on the rasa subject*, not as pages: **Anandavardhana**, **Mammata**, **Vishvanatha Kaviraja** (plus the named-bare commentators Lollata, Shankuka, Nayaka, Udbhata, Bhoja, Jagannatha; Bharata folded into the subject).
+
+(**Habermas** already has a page; the hermeneutics external link was corrected to internal, 2026-06-23 — not a backlog item.)
+
+## Subjects — meaning territory / aesthetics
+
+- **Music** — NEEDED. Aesthetics branch 5 ("in practice") leans on "music" as a territory and points at "the long argument over musical meaning" (the Hanslick/formalism line) with nothing to delegate to. The first subject the surface actually needs (not would-be-nice). **Eduard Hanslick** (*On the Musically Beautiful*; music as "tonally moving forms") is its natural first person.
+- **Biosemiotics** — DECIDED (2026-06-23): a **separate subject**, not a sub-page under semiotics. Currently the biosemiotic line (the *Umwelt*, the cell-upward reading) sits inside the semiotics subject's "biosemiotic extension" section, and aesthetics branch 4 delegates to "the semiotics page" for depth it may not hold at biosemiotic specificity. Spine persons: the biosemiotic three (Priority 1). **On build:** thin the semiotics subject's biosemiotic-extension section to a brief mention pointing to the new biosemiotics subject, and repoint aesthetics branch 4's "the fuller account lives on the semiotics page" to the biosemiotics subject; the biosemiotic three's external citations become internal.
 
 ## Subjects — metaphysics cluster
 
