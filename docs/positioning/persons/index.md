@@ -134,6 +134,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Henrich, Joseph (1968–)](h/henrich) · anthropologist<span class="kw">cumulative culture, the WEIRDest people, cultural evolution, the cultural brain, gene-culture coevolution</span>
 - [Heraclitus (c. 535–c. 475 BCE)](h/heraclitus) · philosopher<span class="kw">flux and constancy, unity of opposites, logos, fire</span>
 - [Hobbes, Thomas (1588–1679)](h/hobbes) · philosopher<span class="kw">Leviathan, the social contract, the state of nature, mechanistic materialism, sovereignty</span>
+- [Hoffmeyer, Jesper (1942–2019)](h/hoffmeyer) · biochemist, biosemiotician<span class="kw">biosemiotics, signs from the cell upward, semiotic freedom, code-duality, semiotic scaffolding, life and semiosis coextensive</span>
 - [Hofstadter, Richard (1916–1970)](h/hofstadter) · historian<span class="kw">Social Darwinism in American Thought, the paranoid style, anti-intellectualism, the consensus school</span>
 - [Holland, John (1929–2015)](h/holland) · computer scientist, complex systems researcher<span class="kw">genetic algorithms, adaptive agents, internal models, emergence, the CAS primitive</span>
 - [Holling, C.S. (1930–2019)](h/holling) · ecologist<span class="kw">ecological resilience, the adaptive cycle, panarchy, resilience vs. stability</span>
@@ -261,6 +262,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Schopenhauer, Arthur (1788–1860)](s/schopenhauer) · philosopher<span class="kw">the world as will and representation, aesthetic contemplation, the Ideas, music, compassion, pessimism</span>
 - [Schrödinger, Erwin (1887–1961)](s/schrodinger) · physicist<span class="kw">wave mechanics, the Schrödinger equation, What is Life?, negative entropy, the cat</span>
 - [Schumpeter, Joseph (1883–1950)](s/schumpeter) · economist<span class="kw">creative destruction, the entrepreneur as innovator, business cycles, capitalism's self-undermining dynamics</span>
+- [Sebeok, Thomas A. (1920–2001)](s/sebeok) · linguist, semiotician<span class="kw">zoosemiotics, biosemiotics, the revival of Uexküll, Peirce over Saussure, modeling systems theory, the atomic priesthood</span>
 - [Sellars, Wilfrid (1912–1989)](s/sellars) · philosopher<span class="kw">the myth of the given, the space of reasons, psychological nominalism, the manifest and scientific images</span>
 - [Sen, Amartya (1933–)](s/sen) · economist, philosopher<span class="kw">the capability approach, development as freedom, social choice theory, famine and democracy, the idea of justice</span>
 - [Shannon, Claude (1916–2001)](s/shannon) · mathematician, engineer<span class="kw">information theory, the bit, channel capacity, information entropy, Boolean circuit design</span>
@@ -294,6 +296,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Von Baer, Karl Ernst (1792–1876)](v/von-baer) · embryologist, naturalist<span class="kw">laws of embryology, the mammalian ovum, shared developmental patterns, pre-Darwinian common-descent evidence</span>
 - [Von Foerster, Heinz (1911–2002)](v/von-foerster) · physicist, cyberneticist<span class="kw">second-order cybernetics, the observer in the system, eigenvalues of cognition, the Biological Computer Laboratory</span>
 - [Von Neumann, John (1903–1957)](v/von-neumann) · mathematician<span class="kw">game theory, von Neumann architecture, quantum mechanics, self-reproducing automata</span>
+- [Von Uexküll, Jakob (1864–1944)](v/von-uexkull) · biologist, theoretical biologist<span class="kw">the Umwelt, the functional circle, Merkwelt and Wirkwelt, the tick's world, the Bedeutungslehre, forerunner of biosemiotics</span>
 - [Vrba, Elisabeth (1942–2015)](v/vrba) · paleontologist<span class="kw">the turnover pulse hypothesis, the effect hypothesis, exaptation (with Gould), habitat theory, African mammalian macroevolution</span>
 
 ## W

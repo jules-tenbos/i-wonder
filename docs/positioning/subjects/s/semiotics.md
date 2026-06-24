@@ -39,9 +39,7 @@ From the 1950s the dyadic tradition expanded from language to the sign-life of w
 
 ## The biosemiotic extension
 
-The Peircean line opened a different frontier: signs in the living world. Its organiser was [Thomas Sebeok](https://en.wikipedia.org/wiki/Thomas_A._Sebeok), who argued that signification is not a human monopoly but a property of life as such. He coined *zoosemiotics* for the sign-behaviour of animals and became the chief architect of *biosemiotics*, the study of sign processes throughout the living world, championing both Peirce and a half-forgotten predecessor, the biologist [Jakob von Uexküll](https://en.wikipedia.org/wiki/Jakob_Johann_von_Uexküll).
-
-Uexküll's concept of the *Umwelt* (1934) is the seed of the field: every organism inhabits not the objective environment but its own *Umwelt*, the world as disclosed through its particular senses and needs — the tick's world of butyric acid, warmth, and hair; the sea-urchin's world of shadow. Perception and action form a closed *functional circle*, and meaning is what an object has *for* the organism within its Umwelt. On this basis [Jesper Hoffmeyer](https://en.wikipedia.org/wiki/Jesper_Hoffmeyer) and others have developed a thoroughgoing biosemiotics (*Signs of Meaning in the Universe*, 1996) in which sign-relations run from the cell upward, and life and semiosis are held to be coextensive — the most expansive claim the tradition has made, and its most contested.
+The Peircean sign — triadic, and needing no human in it — could be carried where Saussure's language-bound sign could not: into the living world. [Thomas Sebeok](/positioning/persons/s/sebeok/) took it there, coining *zoosemiotics* and reviving the biologist [Jakob von Uexküll](/positioning/persons/v/von-uexkull/), whose *Umwelt* — the world as disclosed to a creature through its own senses and needs — became the field's seed. [Jesper Hoffmeyer](/positioning/persons/h/hoffmeyer/) built it into a thoroughgoing biosemiotics in which sign-relations run from the cell upward and life and semiosis are held coextensive — the most expansive claim the tradition has made, and its most contested. The developed account is the [biosemiotics](/positioning/subjects/b/biosemiotics/) subject.
 
 ---
 
@@ -57,4 +55,4 @@ Its reach is also its difficulty. By taking signification itself as its object, 
 
 [Peirce](/positioning/persons/p/peirce/) · [Saussure](/positioning/persons/s/saussure/)
 
-See also: [Structuralism](/positioning/subjects/s/structuralism/) · [Pragmatism](/positioning/subjects/p/pragmatism/) · [Deconstruction](/positioning/subjects/d/deconstruction/)
+See also: [Structuralism](/positioning/subjects/s/structuralism/) · [Pragmatism](/positioning/subjects/p/pragmatism/) · [Deconstruction](/positioning/subjects/d/deconstruction/) · [Biosemiotics](/positioning/subjects/b/biosemiotics/)

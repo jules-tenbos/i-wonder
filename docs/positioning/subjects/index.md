@@ -18,6 +18,10 @@ These are subjects of importance to SPLectrum, referenced within the site.
 - [Autopoiesis](a/autopoiesis) · biology, systems theory<span class="kw">self-making systems, operational closure, structural coupling: Maturana, Varela, Luhmann</span>
 - [Avro](a/avro/) · data serialization, software engineering<span class="kw">schema-based serialization with the schema carried alongside the data: JSON schemas, binary encoding, schema resolution, Cutting, Hadoop, Kafka</span>
 
+## B
+
+- [Biosemiotics](b/biosemiotics/) · biology, semiotics<span class="kw">sign processes in living systems, semiosis and life coextensive: Peirce and Uexküll's foundations, Sebeok, the Copenhagen–Tartu school (Hoffmeyer, Kull), code-duality, the Barbieri code-biology split</span>
+
 ## C
 
 - [Complex adaptive systems](c/complex-adaptive-systems/) · cross-disciplinary<span class="kw">locally interacting agents producing global order: Holland, Kauffman, Gell-Mann, Santa Fe Institute</span>
