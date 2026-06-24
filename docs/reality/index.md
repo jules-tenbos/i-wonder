@@ -1,40 +1,42 @@
 ---
 layout: default
-lastmod: 2026-06-21
+lastmod: 2026-06-23
 title: "Reality"
-description: "Reality disclosed from the seat of the subject — belonging, privacy, creativity as core values, and a metaphysics that follows from them."
+description: "Reality disclosed from the seat of the subject — belonging, privacy, creativity as core values, and the five pillars they disclose."
 ---
 
 [Home](/) > Reality
 
 # Reality
 
-SPLectrum's philosophy develops from the subject's seat and the three core values. It does not replace other accounts but illustrates the meaningfulness of the pluralistic stance — one voice among many. The five pillars are framed here from the human subject, but their content does not depend on that frame: it holds across the wider gradient of subjects, preparing for that widening without discontinuity. It results in a reality that is dynamic, a process of evolution.
+SPLectrum's philosophy develops from the subject's seat with three values at its core: belonging, privacy and creativity. It does not aim to replace any other accounts, but to illustrate the meaningfulness of the pluralistic stance as one voice among many.
 
-## Core Values
+SPLectrum's metaphysics rests on five pillars. Here they are framed from the position of a human subject, but they do not depend on it. This will be illustrated by a subject widening at a later stage.
 
-Three values lie at the heart of the disclosure of reality: belonging, privacy and creativity. They are instrumental in the development of SPLectrum's metaphysics.
+SPLectrum's philosophy is democratic with regard to how subjects experience reality. There are no discontinuities across subject types. Their shared reality is inherently dynamic, in a continuous process of evolution.
 
-**[The three core values at the heart of SPLectrum's metaphysics](/reality/core-values/)**
+## Core values
 
-- **Belonging** — what is mine living also in others. Experience shaped by shared language, the toolset given by species and community.
-- **Privacy** — what I experience is internal to me. Distinct interiors, so the realities are genuinely many.
-- **Creativity** — the tension between what is shared and what is privately mine. Reality is added to, not read out.
+Belonging, privacy and creativity are the stance the subject lives from. The [core-values page](/reality/core-values/) gives the full account of how they, seen from the subject's seat, result in the five pillars.
+
+- **Belonging** — a subject always already belongs, always already part of a community, a grouping.
+- **Privacy** — a subject's experience of reality is always private, the interaction of being with the other.
+- **Creativity** — the interplay of belonging and privacy opens up a dynamic where newness is created.
 
 Creation conforms to [discovery](/reality/discovery/) — the walking of paths that were available but unwalked.
 
-## Metaphysics
+## The five pillars
 
-The three core values yield five metaphysics pillars — five angles on one dynamic, not five territories. They are offered as a chosen, openly-held carving, not a closed set.
+The pillars of SPLectrum's metaphysics show some substantial differences with regard to the more traditional picture.
 
 - **Epistemology** — we learn from private experience and sharing. There is no absolute objectivity, only converged subjectivity.
-- **Ontology** — language concepts and reality are the same thing, created and shared within a community.
-- **[Aesthetics](/reality/aesthetics/)** — concerned with the dynamics of language, the interplay of (shared) registers and creative uniqueness.
-- **Ethics** — how a subject stacks the ethical values: a subject's relation with and attitude towards its reality.
-- **Politics** — the art of coexistence among diverse communities. The coexistence is built on what is held common in understanding, irrespective of diversities.
+- **Ontology** — Reality discloses itself through the concepts of the language medium. There are no separate things.
+- **[Aesthetics](/reality/aesthetics/)** — About the dynamics of meaning and language, the relational interplay of concepts and concept sets.
+- **Ethics** — The values that emerge from a subject's language (game) medium, the subject's relation with and attitude towards its reality.
+- **Politics** — the art of coexistence of diverse communities, built on what is held common in understanding, aiming for a dynamic equilibrium across all differences.
 
 ## Evolution
 
-Reality is not static — it is a process. Sharing creates complexity: the more that is shared, the richer the common ground, the more there is to differ from, the more creativity has to work with. This dynamic drives the evolution of reality across all scales.
+Reality is a process, it is not static. The feedback from the subject's privacy into the shared state of belonging results in complexity: the more that is shared, the richer the common ground, the more there is to differ from, the more creativity has to work with. This dynamic drives the evolution of reality across all scales.
 
 **[Evolution](/reality/evolution/)** — the major transitions and what drives them. Thresholds in interaction density producing structurally new expression. The curve, the thresholds, the thinking side.

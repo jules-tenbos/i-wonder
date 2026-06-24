@@ -100,4 +100,4 @@ The [core values](/reality/core-values/) take these three strands — developed 
 
 ---
 
-See also: [Aesthetics](/positioning/close-affinity/aesthetics/) · [Pluralism](/positioning/close-affinity/pluralism/) · [The core values and SPLectrum's metaphysics](/reality/core-values/)
+See also: [Aesthetics](/positioning/close-affinity/aesthetics/) · [Pluralism](/positioning/close-affinity/pluralism/) · [The core values and the metaphysics they disclose](/reality/core-values/)

@@ -1,45 +1,37 @@
 ---
 layout: default
-lastmod: 2026-06-13
-title: "The Core Values and SPLectrum's Metaphysics"
+lastmod: 2026-06-23
+title: "The Core Values and the Metaphysics They Disclose"
 description: "Three core values — belonging, privacy, creativity — and the metaphysics they disclose: epistemology, ontology, aesthetics, ethics, politics."
 ---
 
-[Home](/) > [Reality](/reality/) > The Core Values and SPLectrum's Metaphysics
+[Home](/) > [Reality](/reality/) > The Core Values and the Metaphysics They Disclose
 
-# The Core Values and SPLectrum's Metaphysics
+# The Core Values and the Metaphysics They Disclose
 
 SPLectrum's metaphysics takes shape through disclosure, not derivation. It starts from the seat of the subject: whatever happens around us, whatever is claimed about it — it is always witnessed first and shared second. No stone tablets from outside. Reality discloses itself to us, and it does so through three core values.
 
 ## The three core values
 
-**Belonging.** Experience is shaped by shared language — the toolset of perception given to us by our species and community. What is mine living also in others. This is the first thing we find: we are not alone in our experience, we belong to communities that share how we perceive and understand.
+**Belonging.** Reality is experienced through a language medium that is shaped by shared language tools — the toolset of perception given to us by our species and community. We are already primed with specific language tools prior to experience. Belonging to a community means sharing how one perceives and understands.
 
-**Privacy.** What I experience is internal to me. I have no way to let others look through my eyes, hear through my ears, or feel through my skin. Everyone lives the same structural equality: privacy first, belonging second. The realities are genuinely many because the interiors are genuinely distinct.
+**Privacy.** The experience itself is private. There is no way I can let others look through my eyes, hear through my ears, or feel through my skin. Everyone lives the same structural equality: the privacy of experience first, sharing into belonging second. The realities are genuinely many, (re)created in private by each of us.
 
-**Creativity.** The tension between what is shared and what is privately mine. Where does change come from? From the lived difference between the common ground and the personal experience. Reality is added to, not read out. We create and share — and that is what makes diversity a strength.
+**Creativity.** Creativity lives in the tension between what is shared and what is privately mine. Although we share the same language tools — in private we can apply them differently, the lived difference between the common ground and the personal experience. Shared reality is added to, not read out. We create and share — and that is what makes diversity a strength.
 
-The three are not a foundation laid beneath what follows. They are the stance a subject lives from. Stand in them and a world comes into view.
+These values are sufficient to lay out the nature of the five pillars.
 
 ## The five metaphysics pillars
 
-The core values yield five pillars — five angles on one dynamic, not five territories. They are offered as a chosen, openly-held carving, not a closed set.
+**Epistemology — the process of experience and learning.** We learn from the feedback from our private experience into the (shared) language tools. It all starts with the individual and works its way into the community through sharing. Our shared language tools provide stability, a common understanding. But nothing is absolute: what we hold true is only achieved through converged subjectivity.
 
-**Epistemology — the process.** How we come to know. We learn from private experience and sharing. There is no absolute objectivity, only converged subjectivity. The bare process gets its texture from two sides — aesthetics on the expression side, politics on the sharing side.
+**Ontology — the concepts of the language tools.** Language is about relations between entities, the concepts. Language is our medium of experience so the beings of reality map to concepts of that language. This goes from concepts that are very specific to very general but are always already abstract to some extent. We experience them, we create them, we share them. Variations of the shared sets converge on a common catalogue. They shape the knowledge of the community. And it is easily forgotten in the process that everything started within the privacy of personal experience. It could have been different. We created it.
 
-**Ontology — the contents.** What we hold as beings. Because we come to knowledge through experience and language, beings settle on language concepts — they are the same thing. We create and share them. Despite the diversity of language we converge on a common catalogue, forgetting in the process that everything starts within the privacy of personal experience. It could have been different. We created it.
+**[Aesthetics](/reality/aesthetics/) — the dynamics of meaning and language.** There is no private experience without sensory experience, and sensory experience is mediated by language — and not only verbal language, but the many registers that work the senses. Where ontology holds the concepts at rest, aesthetics is the field of their motion: the dynamic in which they are worked. It is the painter's palette, where shared colours are mixed into newness and uniqueness — the pillar where reality is created. Here the shared register and the private charge are worked into a meaning that was not there before. This is the pillar of liveliness. The dynamic does not only express reality, it adds to it: what takes hold settles as new tooling in the shared store, and that accumulation — made in private, held in common — is how reality changes, and across scales, how it evolves.
 
-**[Aesthetics](/reality/aesthetics/) — the medium.** There is no private experience without sensory experience, and sensory experience is mediated by language. This opens up a position of importance: the aesthetics of language, meaning. Aesthetics as the resonance between intent and interaction — how well the language fits what it is trying to carry. Not a decoration on the other pillars, but the medium everything passes through.
+**Ethics — the values a language game holds.** It can be the ethics of the language game in its entirity, or of an actor within. Since agreement is based on convergent subjectivity, it is necessary to approach ethics from a common base of understanding - this can be in agreement or disagreement. So the same configuration of values stands differently depending on the frame: read from the inside, within the subject's own language game, it may be wholly coherent; read from the outside, from the community's shared game, it may not hold at all. The inclusion of a common base of understanding adds a richness - a whole new register to play in - and makes the ethics applicable in a wider scope of subjects and communities.
 
-**Ethics — the personal.** How I hold the tension between the values so none swallows the others, lived as how I relate to the other. Belonging maxed suffocates. Privacy maxed isolates. Creativity maxed destabilises. Ethics is the integrative pillar from the personal pole: it gets its strength from the other pillars, and most importantly from aesthetics — the right intent poorly expressed diminishes to the point of non-existence.
-
-**Politics — the sharing.** The shared discourse — the language that lives in the double reflection: my expression into my other, another's reading of it into theirs. How shared reality is made and who participates. We all have an equal stake in shaping what counts as real.
-
-## Freedom
-
-Freedom is not a fourth value but the resultant — what the three come to together. Reading the values in reverse — make, own, share — not three goods rationed against each other, but one self-creation showing three faces. You make your reality, it is yours, and you share it without losing it.
-
-Freedom among the values is what ethics and politics are among the pillars: not separate concerns but the sign — personal and shared — that the whole is well-held.
+**Politics — the art of coexistence of diverse communities.** Politics is concerned with the discourse between communities and this is built on what is held common in understanding, both in agreement and disagreement. These interactions typically aim for a dynamic equilibrium across all differences between the communities.
 
 ---
 

@@ -15,7 +15,7 @@ In SPLectrum's philosophy, aesthetics is the field concerned with the dynamics o
 
 ## One of three fields
 
-It is one of three fields working together. Epistemology is concerned with experience — what is learned from the private and the shared. Ontology is concerned with the concepts — the language tools, created and held in common within a community. Aesthetics is concerned with the dynamic — the relational motion in which a subject works those shared tools into expression.
+It is one of three fields working together. Epistemology is concerned with experience — what is learned from the private and the shared. Ontology is concerned with the concepts — the language tools a community creates and holds in common, the structure at rest. Aesthetics is concerned with the dynamic — those same concepts in motion, the relational working by which a subject turns the shared tools into expression.
 
 A subject's language tools come, very nearly all of them, from [belonging](/reality/core-values/): shared language, the store of concepts a species and a community hold in common. The dynamic of working them is the subject's own — the way it takes up the shared tooling and makes from it something carrying this, now, a meaning none of the shared concepts carried before. That forming of newness from the shared is [creativity](/reality/core-values/), and aesthetics is the field where it lives. The shared register and the private charge, and the motion between them: three values in play in any act of expression.
 
@@ -28,6 +28,8 @@ Because the dynamic runs everywhere meaning is worked, it turns up across philos
 ## Private and generative
 
 The dynamic is the subject's own, generative, and ever changing. It is this expression, here, working these concepts into this meaning; the next is another, on its own terms.
+
+Yet the singular act is not sealed off. What takes hold passes into the shared store as new tooling, available to others; and that accumulation — made in private, held in common — is how a shared reality changes, and across scales, how it [evolves](/reality/evolution/). The moment is the short loop, the building of the common store the long one — and aesthetics is the live edge of both: the pillar where reality is not only expressed but added to.
 
 ---
 
