@@ -35,4 +35,4 @@ These values are sufficient to lay out the nature of the five pillars.
 
 ---
 
-See also: [The three core values](/positioning/close-affinity/core-values/) (close affinity) · [Aesthetics — the medium](/reality/aesthetics/)
+See also: [The three core values](/positioning/close-affinity/core-values/) (close affinity) · [Aesthetics — the dynamics of meaning](/reality/aesthetics/)

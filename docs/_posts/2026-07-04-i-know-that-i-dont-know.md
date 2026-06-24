@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I Know That I Don't Know"
-date: 2026-06-28
+date: 2026-07-04
 lastmod: 2026-06-20
 labels: [philosophy]
 description: "The Socratic phrase became a badge of the thing it diagnosed. Carrier language vs meaning language — and why genuine wonder stays quiet."

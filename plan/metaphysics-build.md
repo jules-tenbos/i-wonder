@@ -52,15 +52,6 @@ Pages within the reality section where SPLectrum is the main voice. These develo
 
 7. **IRP as the world the three disclose.** Reality-side companion to the structural IRP page on the seed side. Belonging → interrelational (the coupling wherever subjects co-modulate, past the human), privacy → plural (distinct interiors, genuinely many), creativity → co-arising (plurality in motion).
 
-## Landing-page pillar wording (2026-06-21)
-
-Reality landing page and homepage intro tuned this session. Conservative flags, not theories — fuller ethics/politics development comes after the aesthetics post.
-
-- **Aesthetics levelled to peer.** Dropped "aesthetics in a leading place" from both the homepage and the reality intro/bullet; the five pillars now read as peers ("five angles on one dynamic"). The leading-role case, if kept, lives on the developed aesthetics page, not the landing flag.
-- **Ethics first-person.** "How a subject stacks the ethical values: a subject's relation with and attitude towards its reality." Deliberately points to a value-set within ethics not discussed on the page. The other-relation stays closed here (tied to aesthetics/language-register work in progress).
-- **Politics as coexistence.** "The art of coexistence among diverse communities, built on what is held common in understanding, irrespective of diversities." Moves politics to the inter-community level (vs ethics' first-person), dropping the single-shared-object/gatekeeping framing.
-- **Homepage reframed as process.** Intro now names the *site* as a process of disclosure ("documents SPLectrum as a process… diverse voices meet and mix, held in pluralism rather than resolved"), and sharpens the antidote clause (adversarialism as what centralisation breeds).
-
 ## Open / parked questions
 
 - **Pluralism's status.** Three-that-disclose plus pluralism-as-the-name-of-the-disclosed-world, or four co-equal peers. Parked.
