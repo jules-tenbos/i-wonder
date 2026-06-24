@@ -15,9 +15,9 @@ Updated 2026-06-24. Plan work and research tracking.
 
 Full list in `plan/positioning-entries-needed.md`.
 
-**Subjects:** Ubuntu; **Music** (needed — aesthetics branch 5 leans on it, the Hanslick/formalism line has nowhere to delegate). (Biosemiotics built 2026-06-24.)
+**Subjects:** Ubuntu. (Music and Biosemiotics built 2026-06-24.)
 
-**Persons:** the meaning-territory / aesthetics external-citation cluster — the biosemiotic three (von Uexküll, Sebeok, Hoffmeyer) now built; next in the plan doc are de Man / Eco / Barthes / Jakobson, then the rest as-and-when.
+**Persons:** the meaning-territory / aesthetics external-citation cluster — the biosemiotic three (von Uexküll, Sebeok, Hoffmeyer) and Hanslick now built; next in the plan doc are de Man / Eco / Barthes / Jakobson, then the rest as-and-when.
 
 ## Parked work
 

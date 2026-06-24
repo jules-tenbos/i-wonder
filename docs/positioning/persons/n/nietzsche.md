@@ -90,4 +90,4 @@ The Nazi appropriation, facilitated by Elisabeth Nietzsche's editorial distortio
 
 ---
 
-See also: [Plato](/positioning/persons/p/plato/) · [Schopenhauer](/positioning/persons/s/schopenhauer/) · [Heidegger](/positioning/persons/h/heidegger/) · [Deleuze](/positioning/persons/d/deleuze/) · [Rorty](/positioning/persons/r/rorty/) · [The standing of aesthetics](/positioning/subjects/a/aesthetics-in-philosophy/)
+See also: [Plato](/positioning/persons/p/plato/) · [Schopenhauer](/positioning/persons/s/schopenhauer/) · [Heidegger](/positioning/persons/h/heidegger/) · [Deleuze](/positioning/persons/d/deleuze/) · [Rorty](/positioning/persons/r/rorty/) · [Music and meaning](/positioning/subjects/m/music-and-meaning/) · [The standing of aesthetics](/positioning/subjects/a/aesthetics-in-philosophy/)

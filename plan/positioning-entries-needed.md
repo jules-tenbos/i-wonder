@@ -27,13 +27,10 @@ Figures named on the meaning-territory subjects and the aesthetics surface, curr
 - Dialogism: **Julia Kristeva** (intertextuality, the Western reception). (**Medvedev** named-bare as Circle depth on the dialogism page.)
 - Semiotics: **Louis Hjelmslev** (glossematics), **Juri Lotman** (the semiosphere), **Algirdas Julien Greimas** (the semiotic square, the Paris school).
 - Biosemiotics: **Claus Emmeche** (code-duality), **Kalevi Kull** (the Tartu side of the field), **Marcello Barbieri** (the code-biology rival programme; strongest candidate of the group), **John Deely** (physiosemiosis). Surfaced building the biosemiotics cluster; all external citations for now, person-page candidates later.
+- Music: **Peter Kivy** (formalism) and **Jerrold Levinson** (expressivism) — the contemporary fault line; **Leonard B. Meyer**, **Carl Dahlhaus**, **Deryck Cooke** behind. Surfaced building the music-and-meaning subject; external for now, page candidates later (Kivy and Levinson strongest).
 - Rasa lineage — the tradition's historical spine behind Abhinavagupta, correctly seated *as depth on the rasa subject*, not as pages: **Anandavardhana**, **Mammata**, **Vishvanatha Kaviraja** (plus the named-bare commentators Lollata, Shankuka, Nayaka, Udbhata, Bhoja, Jagannatha; Bharata folded into the subject).
 
 (**Habermas** already has a page; the hermeneutics external link was corrected to internal, 2026-06-23 — not a backlog item.)
-
-## Subjects — meaning territory / aesthetics
-
-- **Music** — NEEDED. Aesthetics branch 5 ("in practice") leans on "music" as a territory and points at "the long argument over musical meaning" (the Hanslick/formalism line) with nothing to delegate to. The first subject the surface actually needs (not would-be-nice). **Eduard Hanslick** (*On the Musically Beautiful*; music as "tonally moving forms") is its natural first person.
 
 ## Subjects — metaphysics cluster
 

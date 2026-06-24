@@ -28,4 +28,4 @@ The ranking is also specifically Western. Several traditions — the Chinese con
 
 ---
 
-See also: [Phenomenology](/positioning/subjects/p/phenomenology/) · [German idealism](/positioning/subjects/g/german-idealism/)
+See also: [Phenomenology](/positioning/subjects/p/phenomenology/) · [German idealism](/positioning/subjects/g/german-idealism/) · [Music and meaning](/positioning/subjects/m/music-and-meaning/)

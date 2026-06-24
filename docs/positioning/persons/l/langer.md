@@ -62,4 +62,4 @@ And it is a theory of feeling, not of the other things art carries. By making th
 
 ---
 
-See also: [Symbolic forms](/positioning/subjects/s/symbolic-forms/) · [Cassirer](/positioning/persons/c/cassirer/) · [Whitehead](/positioning/persons/w/whitehead/) · [Goodman](/positioning/persons/g/goodman/)
+See also: [Symbolic forms](/positioning/subjects/s/symbolic-forms/) · [Music and meaning](/positioning/subjects/m/music-and-meaning/) · [Cassirer](/positioning/persons/c/cassirer/) · [Whitehead](/positioning/persons/w/whitehead/) · [Goodman](/positioning/persons/g/goodman/)

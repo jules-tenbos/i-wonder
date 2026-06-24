@@ -51,6 +51,7 @@ These are subjects of importance to SPLectrum, referenced within the site.
 ## M
 
 - [Mineral evolution](m/mineral-evolution/) · geology, astrobiology<span class="kw">Earth's mineral diversity as coupled physical, chemical, and biological history: Hazen, the ten stages, co-evolution with life</span>
+- [Music and meaning](m/music-and-meaning/) · philosophy of music, aesthetics<span class="kw">the long argument over what music means — Hanslick's formalism, expression and emotion (Cooke, Meyer, Levinson), Langer's symbol, Schopenhauer's metaphysics, absolute versus programme music</span>
 - [Mutualism](m/mutualism/) · biology, social and economic thought<span class="kw">relationships of mutual benefit across two parallel traditions — ecological and socio-political — from their shared nineteenth century origins to the present</span>
 
 ## P

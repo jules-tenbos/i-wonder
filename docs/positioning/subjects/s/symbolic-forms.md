@@ -51,4 +51,4 @@ The deeper boundary is the framework itself. The symbolic forms are constitutive
 
 [Cassirer](/positioning/persons/c/cassirer/) · [Langer](/positioning/persons/l/langer/) · [Goodman](/positioning/persons/g/goodman/)
 
-See also: [Goethe](/positioning/persons/g/goethe/) · [German idealism](/positioning/subjects/g/german-idealism/) · [Phenomenology](/positioning/subjects/p/phenomenology/) · [The standing of aesthetics in philosophy](/positioning/subjects/a/aesthetics-in-philosophy/)
+See also: [Goethe](/positioning/persons/g/goethe/) · [German idealism](/positioning/subjects/g/german-idealism/) · [Phenomenology](/positioning/subjects/p/phenomenology/) · [Music and meaning](/positioning/subjects/m/music-and-meaning/) · [The standing of aesthetics in philosophy](/positioning/subjects/a/aesthetics-in-philosophy/)

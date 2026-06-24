@@ -19,7 +19,7 @@ Music is the sharpest case. Its tooling is wholly shared — scale, register, me
 
 That is what makes the arts the demonstration. The same three things are true of a philosophical argument — shared concepts, a unique combination, meaning made in the working — but there the reference to a world lets the activity pass for representation, for a pointing-at rather than a making. In music the reference is gone, so the playing shows plainly as playing. What the thinking branches gather under many names, this branch simply exhibits.
 
-Music is where the demonstration is clearest and most developed; the wider territory — abstract visual art, the other non-representational arts, the long argument over musical meaning — extends it. And what the arts show most vividly is the *generative* in the moment — the unique made from shared tooling, here and now. The longer loop, where the playing builds new tooling over time, runs through the gradient and [evolution reach](/positioning/close-affinity/aesthetics/semiotics/) of semiotics.
+Music is where the demonstration is clearest and most developed; the wider territory — abstract visual art, the other non-representational arts, the [long argument over musical meaning](/positioning/subjects/m/music-and-meaning/) — extends it. And what the arts show most vividly is the *generative* in the moment — the unique made from shared tooling, here and now. The longer loop, where the playing builds new tooling over time, runs through the gradient and [evolution reach](/positioning/close-affinity/aesthetics/semiotics/) of semiotics.
 
 ---
 
