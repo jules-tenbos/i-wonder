@@ -1,11 +1,11 @@
 ---
 layout: default
-lastmod: 2026-05-14
+lastmod: 2026-06-25
 title: "The 9-Box Homepage"
 description: "The SPLectrum homepage as a structural artifact — a 3×3 grid whose rows, columns, and centre reveal a coherence that fits the project's own commitments."
 ---
 
-[Home](/) > [Real Life](/real-life/) > [SPLectrum Practices](/real-life/spl/) > The 9-Box Homepage
+[Home](/) > [Real Life](/real-life/) > [SPLectrum](/real-life/spl/) > The 9-Box Homepage
 
 # The 9-Box Homepage
 
@@ -13,7 +13,7 @@ The SPLectrum homepage presents a 3×3 grid of nine boxes on a sufficiently larg
 
 ## The grid
 
-![The 9-box homepage grid](/assets/images/9-box-homepage.png)
+{% include area-grid.html %}
 
 ## Reading the rows
 

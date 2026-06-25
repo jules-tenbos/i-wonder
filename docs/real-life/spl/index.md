@@ -1,14 +1,14 @@
 ---
 layout: default
 lastmod: 2026-06-01
-title: "SPLectrum Practices"
-description: "How SPLectrum's own commitments show up in practice — the homepage grid, internal processes, and applied patterns."
+title: "SPLectrum in Real Life"
+description: "About SPLectrum in real life."
 ---
 
-[Home](/) > [Real Life](/real-life/) > SPLectrum Practices
+[Home](/) > [Real Life](/real-life/) > SPLectrum
 
-# SPLectrum Practices
+# SPLectrum in Real Life
 
-How SPLectrum's own commitments show up in practice.
+- [The 9-Box Homepage](/real-life/spl/the-9-box-homepage/) — the homepage as a structural artifact.
 
-- [The 9-Box Homepage](the-9-box-homepage/) — the homepage as a structural artifact.
+- [SPLectrum 101](/real-life/spl/splectrum-101/) — a layman's introduction to SPLectrum
