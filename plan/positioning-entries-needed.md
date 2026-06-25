@@ -21,17 +21,6 @@ Figures named on the meaning-territory subjects and the aesthetics surface, curr
 - **Roland Barthes** — myth, connotation, the semiology of culture. Semiotics.
 - **Roman Jakobson** — the six functions, the poetic function, the Peirce/Saussure bridge. Semiotics.
 
-**Priority 2 — genuine context, can stay external indefinitely.** Named to make a tradition's depth concrete; citable externally without the page straining.
-- Hermeneutics: **Emilio Betti**, **E. D. Hirsch** (validity objectors); **Rudolf Bultmann** (the theology reach).
-- Deconstruction: **John Searle** (the speech-act dispute).
-- Dialogism: **Julia Kristeva** (intertextuality, the Western reception). (**Medvedev** named-bare as Circle depth on the dialogism page.)
-- Semiotics: **Louis Hjelmslev** (glossematics), **Juri Lotman** (the semiosphere), **Algirdas Julien Greimas** (the semiotic square, the Paris school).
-- Biosemiotics: **Claus Emmeche** (code-duality), **Kalevi Kull** (the Tartu side of the field), **Marcello Barbieri** (the code-biology rival programme; strongest candidate of the group), **John Deely** (physiosemiosis). Surfaced building the biosemiotics cluster; all external citations for now, person-page candidates later.
-- Music: **Peter Kivy** (formalism) and **Jerrold Levinson** (expressivism) — the contemporary fault line; **Leonard B. Meyer**, **Carl Dahlhaus**, **Deryck Cooke** behind. Surfaced building the music-and-meaning subject; external for now, page candidates later (Kivy and Levinson strongest).
-- Rasa lineage — the tradition's historical spine behind Abhinavagupta, correctly seated *as depth on the rasa subject*, not as pages: **Anandavardhana**, **Mammata**, **Vishvanatha Kaviraja** (plus the named-bare commentators Lollata, Shankuka, Nayaka, Udbhata, Bhoja, Jagannatha; Bharata folded into the subject).
-
-(**Habermas** already has a page; the hermeneutics external link was corrected to internal, 2026-06-23 — not a backlog item.)
-
 ## Subjects — metaphysics cluster
 
 - **Ubuntu** — "A person is a person through other persons." Belonging as ontological ground. Non-Western tradition directly relevant to the belonging value.
