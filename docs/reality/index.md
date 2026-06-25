@@ -11,7 +11,7 @@ description: "Reality disclosed from the seat of the subject — belonging, priv
 
 SPLectrum's philosophy develops from the subject's seat with three values at its core: belonging, privacy and creativity. It does not aim to replace any other accounts, but to illustrate the meaningfulness of the pluralistic stance as one voice among many.
 
-SPLectrum's metaphysics rests on five pillars. Here they are framed from the position of a human subject, but they do not depend on it. This will be illustrated by a subject widening at a later stage.
+SPLectrum's metaphysics takes shape through disclosure: reality shows itself to the subject through the language medium, rather than being derived from first principles or mirrored from a world standing behind experience. What it discloses is not left as description but built into a positive account — a reality that is relational and in motion, made from the subject's seat rather than from any standpoint outside it. That account rests on five pillars: framed here from the position of a human subject, though they do not depend on it — a widening of the subject will illustrate this at a later stage.
 
 SPLectrum's philosophy is democratic with regard to how subjects experience reality. There are no discontinuities across subject types. Their shared reality is inherently dynamic, in a continuous process of evolution.
 
