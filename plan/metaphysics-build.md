@@ -36,7 +36,7 @@ Values disclose a metaphysics rather than a metaphysics grounding values.
 
 ## Reality section candidates
 
-Pages within the reality section where SPLectrum is the main voice. These develop the positions sketched on the landing page and core-values page. Future pages — created when content arrives, not as empty placeholders.
+Pages within the reality section where SPLectrum is the main voice. These develop the positions sketched on the landing page and core-values page. Future pages — created when content arrives, not as empty placeholders. (These are Phase 5 of `plan/pluralism-and-pillars.md`; coordinate the two.)
 
 1. **The disclosed world — thick, porous, unfinished.** What the values light up. The reference treatment beyond the blog series.
 

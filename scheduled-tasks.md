@@ -1,6 +1,6 @@
 # Scheduled Tasks
 
-Updated 2026-06-24. Plan work and research tracking.
+Updated 2026-06-25. Plan work and research tracking.
 
 ## Research
 
@@ -11,6 +11,10 @@ Updated 2026-06-24. Plan work and research tracking.
 
 - [ ] **Politics positioning grounding** — light pass needed before distinctive positioning claims go live. Arendt, Habermas, Rancière at minimum.
 
+## Pluralism + the metaphysics pillars
+
+- [ ] **Major multi-phase plan** in `plan/pluralism-and-pillars.md`: rework the pluralism close-affinity page into a subject + a real affinity reading (the mapping exercise), and stand up the missing pillar-field subjects (ontology, epistemology, ethics, politics), their affinity readings, and the reality-side pillar pages. Phase 5 (reality pillars) overlaps `plan/metaphysics-build.md`. Not started — aesthetics is the completed template.
+
 ## Positioning entries needed
 
 Full list in `plan/positioning-entries-needed.md`.
@@ -18,6 +22,10 @@ Full list in `plan/positioning-entries-needed.md`.
 **Subjects:** Ubuntu. (Music and Biosemiotics built 2026-06-24.)
 
 **Persons:** the meaning-territory / aesthetics external-citation cluster — the biosemiotic three (von Uexküll, Sebeok, Hoffmeyer) and Hanslick now built; next in the plan doc are de Man / Eco / Barthes / Jakobson, then the rest as-and-when.
+
+## Real Life
+
+- [ ] **SPLectrum 101** — page stub created at `/real-life/spl/splectrum-101/` (`[To be written.]`); needs writing — a layman's introduction to SPLectrum.
 
 ## Parked work
 
