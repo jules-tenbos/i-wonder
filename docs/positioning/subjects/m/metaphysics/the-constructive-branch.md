@@ -1,0 +1,36 @@
+---
+layout: default
+title: "The constructive branch"
+description: "Metaphysics taken at face value — the stance that reality has a fundamental structure and the task is to describe it. Aristotle and the rationalists, the analytic revival after positivism, and the substance-against-process dispute over the basic category."
+lastmod: 2026-06-25
+---
+
+[Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Metaphysics](/positioning/subjects/m/metaphysics/) > The constructive branch
+
+# The constructive branch
+
+The constructive stance takes the metaphysical questions at face value. Reality has a fundamental structure; some things are more basic than others; the task of metaphysics is to find out which and to set the structure out. This is the oldest of the stances and the most populated — for most of the tradition it simply *was* metaphysics. What divides the constructive metaphysicians among themselves is not whether reality can be described but two further questions: what the description should be drawn *from*, and what the most basic category *is*.
+
+---
+
+## Reason as the source
+
+The founding version draws the structure of reality from reason, prior to or independent of empirical inquiry. [Aristotle](/positioning/persons/a/aristotle/) called it *first philosophy*: the science of *being qua being* — not of any particular kind of thing but of what it is to be anything at all — and of the first principles and causes from which everything else follows. (The name *metaphysics* is an accident of editing: the treatises placed after the *Physics*, *ta meta ta physika*.) Substance — *ousia* — is its central category: the independently existing things of which everything else is a property or modification. The medieval [scholastics](https://en.wikipedia.org/wiki/Scholasticism), above all [Aquinas](/positioning/persons/a/aquinas/), carried the science of being forward and joined it to natural theology — being and essence, the distinction of existence from what a thing is, the analogy by which finite things and their ground are both said to *be*.
+
+The rationalists pressed the a priori claim to its limit. [Descartes](/positioning/persons/d/descartes/) sought an indubitable first truth on which the rest of knowledge could be rebuilt, and recovered from it a metaphysics of two substances, thinking and extended. [Spinoza](/positioning/persons/s/spinoza/) cast metaphysics in geometric form — definitions, axioms, demonstrations — and derived a single infinite substance, *God or Nature*, of which everything else is a mode. [Leibniz](/positioning/persons/l/leibniz/) built reality from simple, windowless substances, *monads*, coordinated by a pre-established harmony and governed by the principle of sufficient reason. The shared conviction is that the architecture of reality can be reached by demonstration: reality systematised from first principles, the system answerable to reason's own standards of coherence and necessity.
+
+## Science as the source
+
+After logical positivism had tried to clear metaphysics away, analytic philosophy readmitted the constructive stance but changed its source — from pure reason to the commitments of our best knowledge, science chief among them. [Quine](/positioning/persons/q/quine/)'s "On What There Is" supplied the hinge with a deflationary criterion of *ontological commitment*: to be is to be the value of a bound variable, so that what exists is whatever our most successful theories must quantify over to do their work. Ontology becomes a question about the indispensable furniture of our best science rather than a deliverance of reason alone.
+
+On that footing a full constructive programme returned. Modal metaphysics asks what grounds necessity and possibility: [Kripke](https://en.wikipedia.org/wiki/Saul_Kripke) argued for rigid designation and necessary truths known only a posteriori, and [David Lewis](https://en.wikipedia.org/wiki/David_Lewis_%28philosopher%29) defended a realism of concrete [possible worlds](https://en.wikipedia.org/wiki/Possible_world) as the truth-makers for modal claims. A neo-Aristotelian strand turned from what exists to what is *fundamental* — the relations of [grounding](https://en.wikipedia.org/wiki/Metaphysical_grounding) and ontological dependence by which some facts hold in virtue of others. The vocabulary is contemporary and the method is conceptual analysis braced against science, but the stance is the old one: there is a fundamental structure, and metaphysics describes it.
+
+## Substance and process
+
+Cutting across the question of source is a disagreement over the most basic category — and it is a disagreement *within* the constructive stance, between parties who both hold that reality has a describable fundamental structure. The mainstream answer, from Aristotle onward, is *substance*: reality is built from enduring things that persist through change and bear properties. Change is then something that happens to a prior substrate.
+
+A persistent counter-line reverses the priority and takes process as basic, with stable things as its temporary achievements. [Bergson](/positioning/persons/b/bergson/) set lived *duration* — continuous, indivisible becoming — against the spatialised, clock-measured time that physics and common sense project onto it. [Whitehead](/positioning/persons/w/whitehead/) built the most complete version: a speculative scheme ([process philosophy](/positioning/subjects/p/process-philosophy/), the [philosophy of organism](/positioning/subjects/p/philosophy-of-organism/)) in which the basic units of reality are not substances but momentary events — *actual occasions* of experience — and an enduring object is a route of inheritance across many such occasions. Whitehead turned the charge of *misplaced concreteness* back on the substance tradition: to treat the abstraction "enduring thing" as the concrete reality, he argued, is to mistake a stabilised pattern for a basic one. Process metaphysics is fully constructive — it builds a systematic account of what fundamentally is — but of becoming rather than being.
+
+## Where the constructive stance stops
+
+The constructive stance has always carried its difficulties inside it, and they are the ones its own practitioners argue over. The first is the standing of its starting points: a system derived from first principles is only as secure as the principles, and reason offers no further court in which to settle which axioms, which categories, or which fundamental posits are the right ones — the rationalist systems, each rigorous, reached incompatible results. The second is underdetermination: where science is made the source, the same body of evidence is consistent with rival metaphysical readings of it — realist and structuralist, substance-based and process-based — and the choice between them is not itself fixed by the science. The third is the substance-against-process dispute, which the branch has never resolved from within; each side can account for the other's data and redescribe it as derivative. These are not objections imported from outside the stance. They are the questions a constructive metaphysician inherits along with the project — the points at which describing what fundamentally exists turns out to depend on commitments the description cannot itself underwrite.

@@ -12,6 +12,7 @@ Thinkers and frameworks that share close structural affinity with SPLectrum — 
 
 - [Aesthetics](aesthetics/) — aesthetics as the dynamic that completes language-as-medium-of-expression: abstract thinking as that dynamic run in practice, the arts where it runs undisguised, and the scattered field the position gathers (a landing page plus five branch pieces)
 - [The three core values](core-values) — belonging, privacy, creativity as a philosophical triad: who works with subsets, who comes close, and where each account reaches and stops
+- [Metaphysics](metaphysics) — SPLectrum's metaphysics as disclosure from the subject's seat, relational and with the mirror set aside, and the aspects of that dynamic surfacing across the field's approaches
 - [Pluralism](pluralism) — the pluralist landscape across philosophy's dimensions, and where interrelational pluralism sits among them
 - [Wittgenstein](/positioning/persons/w/wittgenstein/) — language games, forms of life, meaning as use. The materials for a structural account, without the construction.
 
