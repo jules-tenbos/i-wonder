@@ -1,37 +1,45 @@
 ---
 layout: default
-lastmod: 2026-06-25
+lastmod: 2026-06-26
 title: "Metaphysics"
-description: "SPLectrum's metaphysics — disclosure from the subject's seat, relational and in motion, with the mirror set aside — and the aspects of that dynamic that surface across the long argument over how metaphysics is approached."
+description: "SPLectrum's metaphysics — disclosure from the subject's seat, built as becoming, the mirror set aside — read across the metaphysics subject's five branches: what resonates from each, and how the dynamic straddles them."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Close affinity](/positioning/close-affinity/) > Metaphysics
 
 # Metaphysics
 
-SPLectrum's metaphysics starts from the seat of the subject, and disclosure is its way in: reality shows itself through the language medium we are already inside, rather than being deduced from first principles or read off a world standing behind experience. But what is disclosed is not left as description — it is a positive account, *built*: a reality that is relational and in motion, the many producing more through their interaction. What sets it apart is not a refusal to construct but where the construction is done from — the subject's seat rather than a standpoint outside it — and that it claims no mirror, no vocabulary occupying a privileged outside from which the world is reported as it really is. The [five pillars](/reality/) are where that account is worked out.
+SPLectrum's metaphysics starts from the seat of the subject, and disclosure is its way in: reality shows itself through the language medium we are already inside, rather than being deduced from first principles or mirrored from a world standing behind experience. But what is disclosed is not left as description — it is a positive account, *built*: a reality that is relational and in motion, the many producing more through their interaction. What sets it apart is not a refusal to construct but where the construction is done from — the subject's seat rather than a standpoint outside it — and that it claims no mirror, no vocabulary occupying a privileged outside from which the world is reported as it really is. The [five pillars](/reality/) are where that account is worked out.
 
-The long argument over how metaphysics is approached — mapped in the [metaphysics subject](/positioning/subjects/m/metaphysics/) as a handful of recurring stances — is conducted in other vocabularies, from other starting points. But aspects of this dynamic surface within it, again and again. What follows points to where they show up: not the SPLectrum seed measured against the field, but the field voicing a movement the seed lives by.
-
----
-
-## Reality discloses
-
-The disclosure aspect — that reality is not constructed from outside but shows up to a subject already in the midst of it — is the whole point of departure of the [disclosive approach](/positioning/subjects/m/metaphysics/the-disclosive-branch/). [Husserl](/positioning/persons/h/husserl/) turns to what is given in experience before any theory is laid over it. [Heidegger](/positioning/persons/h/heidegger/) makes truth *aletheia*, unconcealment — reality coming into the open — and the one to whom it opens is not a detached spectator but a being always already in a world, involved before it theorises. [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) seats the disclosure in the body's lived engagement; [Gadamer](/positioning/persons/g/gadamer/) in the situated interpreter for whom there is no neutral vantage. Phenomenology arrives there from its own side and for its own reasons — the seat of the subject not as one claim it argues among others but as the ground a whole tradition finds it has to start from.
-
-## The many produce more
-
-The relational aspect — that reality is in motion, and that interaction across boundaries produces what was not there before — surfaces wherever metaphysics takes process as basic rather than substance. SPLectrum's [interrelational pluralism](/positioning/seed/interrelational-pluralism/) names this movement directly; it shows up across the [process line](/positioning/subjects/m/metaphysics/the-constructive-branch/) of the field. [Whitehead](/positioning/persons/w/whitehead/): "the many become one, and are increased by one" — each occasion a synthesis of what precedes it, adding to reality rather than rearranging it. [Bergson](/positioning/persons/b/bergson/): duration, a becoming that cannot be reassembled from static parts. And in the relational frameworks the same seed page gathers — [Bateson](/positioning/persons/b/bateson/)'s differences that propagate across a circuit, [Luhmann](/positioning/persons/l/luhmann/)'s communications that connect and form systems — the recurring recognition that interaction is itself productive, that what crosses a boundary changes what it meets.
-
-## The mirror set aside
-
-The anti-representational aspect — that knowing is not the copying of a world standing ready-made behind experience — surfaces in two places at once, which SPLectrum's [two-pronged anti-representationalism](/positioning/seed/two-pronged-anti-representationalism/) holds together as two sides of one thing. From the side of being, it shows up in Whitehead's refusal of the bifurcation of nature: no substrate of mind-independent qualities for thought to mirror, only occasions constituted by how they take account of each other. From the side of language, it shows up in the [deflationary line](/positioning/subjects/m/metaphysics/the-deflationary-branch/) — [Rorty](/positioning/persons/r/rorty/) setting aside the mirror of nature, no vocabulary occupying a privileged outside from which it reports the world as it really is, truth closer to what holds up in continued conversation than to correspondence. The mirror set down, recognised from both the being side and the language side of the same move.
+Set against the [metaphysics subject](/positioning/subjects/m/metaphysics/)'s map of that argument — five recurring stances toward the enterprise — this dynamic sits in no single one of them. What follows walks the branches and points to what, in each, resonates with it. The field voices a movement SPLectrum's metaphysics lives by; the spread of where it surfaces is the placement.
 
 ---
 
-## The dynamic whole
+## The constructive branch
 
-Disclosure, the relational movement, the mirror set aside: in SPLectrum's metaphysics these are not three positions but three faces of one dynamic, held together from the subject's seat — reality showing itself, in motion, to a knower who is part of what is disclosed rather than a mirror held up to it. Across the approaches they arrive apart: disclosure as one tradition's starting point, the productive many as another's basic category, the refusal of representation as a third's hard-won release. Recognising them as aspects of a single movement — and the SPLectrum seed as one place that movement is lived whole — is what this reading is for.
+SPLectrum builds a positive account — it neither only describes nor merely deflates — so the [constructive impulse](/positioning/subjects/m/metaphysics/the-constructive-branch/) is shared at the root. What resonates within it is the process-relational strand: reality taken as becoming rather than as standing substance. [Whitehead](/positioning/persons/w/whitehead/) — "the many become one, and are increased by one," each occasion adding to reality rather than rearranging it; [Bergson](/positioning/persons/b/bergson/) — duration, a becoming not reassembled from static parts; and the relational frameworks [interrelational pluralism](/positioning/seed/interrelational-pluralism/) gathers, [Bateson](/positioning/persons/b/bateson/) and [Luhmann](/positioning/persons/l/luhmann/), where interaction is itself productive. SPLectrum constructs, and constructs reality as motion.
+
+## The critical branch
+
+The [critical branch](/positioning/subjects/m/metaphysics/the-critical-branch/) holds that metaphysics cannot be worked from a standpoint outside the knower — Kant's Copernican turn, where what can be known answers to what the subject brings. What resonates is that turn itself: SPLectrum too discloses reality from the seat of the subject and refuses the view from nowhere. The seating is the shared move — metaphysics done from within the subject's situation rather than from above it.
+
+## The disclosive branch
+
+This is where the dynamic is most at home. The [disclosive branch](/positioning/subjects/m/metaphysics/the-disclosive-branch/) starts exactly where SPLectrum starts — reality showing itself to a subject already in the midst of it. [Husserl](/positioning/persons/h/husserl/) returns to the given before any theory is laid over it; [Heidegger](/positioning/persons/h/heidegger/) makes truth unconcealment, the one to whom it opens already involved; [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) seats it in the body; [Gadamer](/positioning/persons/g/gadamer/) in the situated interpreter for whom there is no neutral vantage. Disclosure is SPLectrum's way in, and here is a whole approach for which it is the way in too.
+
+## The deflationary branch
+
+What resonates is the mirror set aside. The [deflationary branch](/positioning/subjects/m/metaphysics/the-deflationary-branch/) refuses representation — [Rorty](/positioning/persons/r/rorty/) setting aside the mirror of nature, no vocabulary occupying a privileged outside from which the world is reported as it really is. SPLectrum holds the same, and its [two-pronged anti-representationalism](/positioning/seed/two-pronged-anti-representationalism/) finds the refusal voiced from two sides at once: from language here, and from being in Whitehead's refusal of the bifurcation of nature — no substrate of mind-independent qualities for thought to mirror. The mirror down, without dissolving the account that remains.
+
+## The genealogical branch
+
+What resonates is that the concepts of metaphysics are made, not found. The [genealogical branch](/positioning/subjects/m/metaphysics/the-genealogical-branch/) reads the tradition's distinctions as artifacts with a history — [Nietzsche](/positioning/persons/n/nietzsche/) on the made character of the true world, [Derrida](/positioning/persons/d/derrida/) on the inherited oppositions. SPLectrum holds the conceptual order of the language medium as created and shared, something that could have been otherwise — so the made-and-contingent character of concepts is the shared recognition. But the rhyme reaches only that far. Genealogy reads the made concept with suspicion — tracing it to a need, a resentment, a play of power, something to be diagnosed and undone; SPLectrum holds the made concept as a positive creation, built on rather than seen through. Concepts are made: that is shared; the genealogist's stance toward their being made is not.
+
+---
+
+## How it straddles
+
+The dynamic settles in no single branch. It is most at home in the disclosive — its way in; it builds, with the process-relational strand of the constructive — the account it makes; it sets the mirror aside, with the deflationary. And it touches the critical on the turn to the subject, and the genealogical on concepts as made. It takes none of the five whole — not substance, not fixed categories or a reserved thing-in-itself, not the dissolution of metaphysics, not suspicion as a method. What straddles them is one move: a reality disclosed from the subject's seat, built as becoming, its concepts made and held without a mirror.
 
 ---
 

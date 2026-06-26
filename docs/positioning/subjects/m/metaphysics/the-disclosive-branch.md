@@ -9,7 +9,7 @@ lastmod: 2026-06-25
 
 # The disclosive branch
 
-The disclosive stance neither builds metaphysical systems nor declares the questions illegitimate. It relocates them. The question is no longer *what is reality, constructed from outside* but *how does reality show up at all* — how the world is given to a subject who is already in the midst of it. Description replaces construction: the aim is to attend to what appears, and how it appears, before any theory is laid over it. This is the stance of [phenomenology](/positioning/subjects/p/phenomenology/), and of the hermeneutic tradition that grew out of it.
+The disclosive stance neither builds metaphysical systems nor declares the questions illegitimate. It relocates them. The question is no longer *what is reality, constructed from outside* but *how does reality show up at all* — how the world is given to a subject who is already in the midst of it. Description replaces construction: the aim is to attend to what appears, and how it appears, before any theory is laid over it. This is the stance of [phenomenology](/positioning/subjects/p/phenomenology/), and of the hermeneutic tradition that grew out of it. (Where a figure presses disclosure past description toward a positive ontology — late Merleau-Ponty's ontology of the flesh — the position becomes a straddle rather than a pure disclosure; see [Where the stances combine](/positioning/subjects/m/metaphysics/where-the-stances-combine/).)
 
 ---
 

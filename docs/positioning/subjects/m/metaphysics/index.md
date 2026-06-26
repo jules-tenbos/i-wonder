@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Metaphysics"
-description: "How metaphysics has been approached — not as one developing story but as a few recurring stances toward the enterprise itself: construction, critique, disclosure, deflation, and genealogy, with the Western tree set beside another inheritance."
+description: "How metaphysics has been approached — not as one developing story but as a few recurring stances toward the enterprise itself: construction, critique, disclosure, deflation, and genealogy — the positions that combine them, and the Western map set beside another inheritance."
 lastmod: 2026-06-25
 ---
 
@@ -25,7 +25,9 @@ Five recurring postures toward the metaphysical enterprise. They are not schools
 - **[Deflation](/positioning/subjects/m/metaphysics/the-deflationary-branch/)** — judge the questions ill-formed, idle, or merely verbal, and dissolve rather than answer them.
 - **[Genealogy](/positioning/subjects/m/metaphysics/the-genealogical-branch/)** — treat the questions themselves as artifacts with a history, to be diagnosed rather than asked.
 
-Sorting the field this way is a structural choice, not a neutral one — the field could as well be cut by its basic category (substance against process) or by the standpoint it claims (a view from nowhere against the seat of a subject). What the stance-cut buys is that it privileges no position: *construction* sits as one option among five, not as the default the others react against. A metaphysician working in the constructive stance does not experience their work as a reply to critique or deflation; they are describing what there is. The map holds the five flat, as moves that remain permanently available rather than steps in an arc. And the map is itself the structure of a single inheritance — a point the bundle's last page makes not by adding a sixth stance but by stepping outside the five.
+Sorting the field this way is a structural choice, not a neutral one — the field could as well be cut by its basic category (substance against process) or by the standpoint it claims (a view from nowhere against the seat of a subject). What the stance-cut buys is that it privileges no position: *construction* sits as one option among five, not as the default the others react against. A metaphysician working in the constructive stance does not experience their work as a reply to critique or deflation; they are describing what there is. The map holds the five flat, as moves that remain permanently available rather than steps in an arc.
+
+Two things the stance-cut does not show on its face, and two pages restore. First, the stances are analytically *pure*, but many of the field's most consequential positions *combine* them — and combining is a position in its own right, not fence-sitting, because the stances tend to pull against one another. [Where the stances combine](/positioning/subjects/m/metaphysics/where-the-stances-combine/) holds those straddles. Second, the map is one inheritance's; [Beyond the Western frame](/positioning/subjects/m/metaphysics/beyond-the-western-frame/) sets it beside another. Neither is a sixth stance — both step outside the five.
 
 ## Pages
 
@@ -34,6 +36,7 @@ Sorting the field this way is a structural choice, not a neutral one — the fie
 - [The disclosive branch](/positioning/subjects/m/metaphysics/the-disclosive-branch/) — phenomenology's relocation of the questions to how the world is given: Husserl, Heidegger, Merleau-Ponty, the hermeneutic extension.
 - [The deflationary branch](/positioning/subjects/m/metaphysics/the-deflationary-branch/) — the line that treats metaphysics as a disease of language or an idle dispute: Hume, logical positivism, pragmatism, the deflationary turn in metametaphysics.
 - [The genealogical branch](/positioning/subjects/m/metaphysics/the-genealogical-branch/) — metaphysics read against itself: Nietzsche's suspicion and Derrida's metaphysics of presence.
+- [Where the stances combine](/positioning/subjects/m/metaphysics/where-the-stances-combine/) — not a sixth stance but the positions that hold several together: process philosophy, radical empiricism and the constructive pragmatists, the constructive reach in phenomenology, enactivism, the Kyoto School — and why combining is a demanding position, not a midpoint.
 - [Beyond the Western frame](/positioning/subjects/m/metaphysics/beyond-the-western-frame/) — not a sixth stance but a step outside the map: why the five-stance structure belongs to one inheritance and not to metaphysics as such, with Nagarjuna's Madhyamaka as another tree.
 
 ## The field's own reckoning
