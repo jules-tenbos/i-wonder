@@ -15,7 +15,7 @@ The organising idea is the location path: navigation expressed as steps along **
 
 ## Origin
 
-XPath was defined by the [W3C](https://www.w3.org/) in 1999, with [James Clark](/positioning/persons/c/clark/) as editor, to serve two specifications at once: [XSLT](https://en.wikipedia.org/wiki/XSLT) (transforming XML) and [XPointer](https://en.wikipedia.org/wiki/XPointer) (addressing into XML). [XPath 1.0](https://www.w3.org/TR/1999/REC-xpath-19991116/) (1999) is still the most widely deployed; [2.0](https://www.w3.org/TR/xpath20/) (2007) realigned it onto a sequence-based data model shared with [XQuery](https://en.wikipedia.org/wiki/XQuery), and [3.0](https://www.w3.org/TR/xpath-30/) (2014) / [3.1](https://www.w3.org/TR/xpath-31/) (2017) extended it further — the arc from a compact path syntax to a full, typed query language.
+XPath was defined by the [W3C](https://www.w3.org/) in 1999, with [James Clark](/positioning/persons/c/clark/) and [Steven DeRose](/positioning/persons/d/derose/) as editors, to serve two specifications at once: [XSLT](https://en.wikipedia.org/wiki/XSLT) (transforming XML) and [XPointer](https://en.wikipedia.org/wiki/XPointer) (addressing into XML). [XPath 1.0](https://www.w3.org/TR/1999/REC-xpath-19991116/) (1999) is still the most widely deployed; [2.0](https://www.w3.org/TR/xpath20/) (2007) realigned it onto a sequence-based data model shared with [XQuery](https://en.wikipedia.org/wiki/XQuery), and [3.0](https://www.w3.org/TR/xpath-30/) (2014) / [3.1](https://www.w3.org/TR/xpath-31/) (2017) extended it further — the arc from a compact path syntax to a full, typed query language.
 
 ## Pages
 
@@ -24,7 +24,8 @@ XPath was defined by the [W3C](https://www.w3.org/) in 1999, with [James Clark](
 
 ## Persons
 
-- [James Clark](/positioning/persons/c/clark/) — editor of the XPath 1.0 specification, with Steven DeRose (of XPointer) as a related figure, no page yet.
+- [James Clark](/positioning/persons/c/clark/) — co-editor of the XPath 1.0 specification.
+- [Steven DeRose](/positioning/persons/d/derose/) — co-editor of XPath 1.0 and designer of XPointer; descriptive markup, XML, and hypertext.
 
 ## Sources
 
@@ -33,4 +34,4 @@ XPath was defined by the [W3C](https://www.w3.org/) in 1999, with [James Clark](
 
 ---
 
-See also: [James Clark](/positioning/persons/c/clark/) · [URI](/positioning/subjects/u/uri/) · [Domain-Specific Languages](/positioning/subjects/d/domain-specific-languages/)
+See also: [James Clark](/positioning/persons/c/clark/) · [Steven DeRose](/positioning/persons/d/derose/) · [URI](/positioning/subjects/u/uri/) · [Domain-Specific Languages](/positioning/subjects/d/domain-specific-languages/)

@@ -20,8 +20,8 @@ The organising idea is uniform identification: one syntax to identify any kind o
 The URL was introduced by [Tim Berners-Lee](/positioning/persons/b/berners-lee/) as part of the World Wide Web at [CERN](https://en.wikipedia.org/wiki/CERN) around 1990 — the addressing scheme that, with HTTP and HTML, made the Web work. The syntax was then standardised through a lineage of [IETF](https://www.ietf.org/) specifications:
 
 - [RFC 1630](https://datatracker.ietf.org/doc/html/rfc1630) (1994; Berners-Lee) — the first formal URI syntax.
-- [RFC 1738](https://datatracker.ietf.org/doc/html/rfc1738) (1994; Berners-Lee, Masinter, McCahill) — defined URLs.
-- [RFC 2396](https://datatracker.ietf.org/doc/html/rfc2396) (1998; Berners-Lee, [Fielding](/positioning/persons/f/fielding/), Masinter) — separated the generic URI syntax, and changed the "U" from "Universal" to "Uniform."
+- [RFC 1738](https://datatracker.ietf.org/doc/html/rfc1738) (1994; Berners-Lee, [Masinter](/positioning/persons/m/masinter/), McCahill) — defined URLs.
+- [RFC 2396](https://datatracker.ietf.org/doc/html/rfc2396) (1998; Berners-Lee, [Fielding](/positioning/persons/f/fielding/), [Masinter](/positioning/persons/m/masinter/)) — separated the generic URI syntax, and changed the "U" from "Universal" to "Uniform."
 - [RFC 3986 / STD 66](https://datatracker.ietf.org/doc/html/rfc3986) (2005; Berners-Lee, Fielding, Masinter) — the current standard.
 
 ## Pages
@@ -32,7 +32,8 @@ The URL was introduced by [Tim Berners-Lee](/positioning/persons/b/berners-lee/)
 ## Persons
 
 - [Tim Berners-Lee](/positioning/persons/b/berners-lee/) — introduced the URL as part of the World Wide Web.
-- [Roy Fielding](/positioning/persons/f/fielding/) — co-author of the URI generic-syntax RFCs, with Larry Masinter (co-author, no page yet).
+- [Roy Fielding](/positioning/persons/f/fielding/) — co-author of the URI generic-syntax RFCs.
+- [Larry Masinter](/positioning/persons/m/masinter/) — co-author of the URI RFCs; internet and web standards.
 
 ## Sources
 
@@ -42,4 +43,4 @@ The URL was introduced by [Tim Berners-Lee](/positioning/persons/b/berners-lee/)
 
 ---
 
-See also: [XPath](/positioning/subjects/x/xpath/) · [Tim Berners-Lee](/positioning/persons/b/berners-lee/) · [Roy Fielding](/positioning/persons/f/fielding/)
+See also: [XPath](/positioning/subjects/x/xpath/) · [Tim Berners-Lee](/positioning/persons/b/berners-lee/) · [Roy Fielding](/positioning/persons/f/fielding/) · [Larry Masinter](/positioning/persons/m/masinter/)

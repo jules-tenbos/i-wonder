@@ -15,7 +15,7 @@ Jay Kreps is an American software engineer, co-creator of [Apache Kafka](/positi
 
 ## Life and career
 
-Kreps studied computer science at the University of California, Santa Cruz (bachelor's and master's). As an engineer and later lead architect for data infrastructure at [LinkedIn](https://en.wikipedia.org/wiki/LinkedIn), he and his colleagues Neha Narkhede and Jun Rao built Kafka around 2010 to carry the company's event and operational data as a single pipeline; it was open-sourced in 2011.
+Kreps studied computer science at the University of California, Santa Cruz (bachelor's and master's). As an engineer and later lead architect for data infrastructure at [LinkedIn](https://en.wikipedia.org/wiki/LinkedIn), he and his colleagues [Neha Narkhede](/positioning/persons/n/narkhede/) and [Jun Rao](/positioning/persons/r/rao/) built Kafka around 2010 to carry the company's event and operational data as a single pipeline; it was open-sourced in 2011.
 
 In 2013 he wrote the influential essay "[The Log: what every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)," arguing that an ordered, append-only log is the structure common to database replication, messaging, and data integration; he expanded it into the short O'Reilly book *I ❤ Logs* (2014). In 2014 he co-founded Confluent with Narkhede and Rao and has led it as CEO, including through its 2021 public listing. He joined the board of directors of Anthropic in 2024.
 
@@ -41,4 +41,4 @@ Kreps's contribution is engineering and articulation together — building a pie
 
 ---
 
-See also: [Apache Kafka](/positioning/subjects/k/kafka/) · [Apache Avro](/positioning/subjects/a/avro/)
+See also: [Apache Kafka](/positioning/subjects/k/kafka/) · [Neha Narkhede](/positioning/persons/n/narkhede/) · [Jun Rao](/positioning/persons/r/rao/) · [Apache Avro](/positioning/subjects/a/avro/)

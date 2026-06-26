@@ -15,7 +15,7 @@ The organising idea is the log: an ordered, append-only sequence of records. Pro
 
 ## Origin
 
-Kafka was built at [LinkedIn](https://en.wikipedia.org/wiki/LinkedIn) around 2010 by [Jay Kreps](/positioning/persons/k/kreps/), Neha Narkhede, and Jun Rao, to carry the company's high-volume activity and operational data as a single pipeline where existing messaging systems did not scale. It was open-sourced in early 2011 and became a top-level [Apache](https://www.apache.org/) project in October 2012. Kreps named it after the writer [Franz Kafka](https://en.wikipedia.org/wiki/Franz_Kafka) — a system "optimised for writing," and he liked the author's work. In 2014 the three creators founded [Confluent](https://www.confluent.io/), the company built around Kafka. The conceptual case for the design was set out in Kreps' widely read 2013 essay, "[The Log: what every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)."
+Kafka was built at [LinkedIn](https://en.wikipedia.org/wiki/LinkedIn) around 2010 by [Jay Kreps](/positioning/persons/k/kreps/), [Neha Narkhede](/positioning/persons/n/narkhede/), and [Jun Rao](/positioning/persons/r/rao/), to carry the company's high-volume activity and operational data as a single pipeline where existing messaging systems did not scale. It was open-sourced in early 2011 and became a top-level [Apache](https://www.apache.org/) project in October 2012. Kreps named it after the writer [Franz Kafka](https://en.wikipedia.org/wiki/Franz_Kafka) — a system "optimised for writing," and he liked the author's work. In 2014 the three creators founded [Confluent](https://www.confluent.io/), the company built around Kafka. The conceptual case for the design was set out in Kreps' widely read 2013 essay, "[The Log: what every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)."
 
 ## Pages
 
@@ -25,7 +25,9 @@ Kafka was built at [LinkedIn](https://en.wikipedia.org/wiki/LinkedIn) around 201
 
 ## Persons
 
-- [Jay Kreps](/positioning/persons/k/kreps/) — co-creator of Kafka and co-founder of Confluent, with co-creators Neha Narkhede and Jun Rao.
+- [Jay Kreps](/positioning/persons/k/kreps/) — co-creator of Kafka and co-founder and CEO of Confluent.
+- [Neha Narkhede](/positioning/persons/n/narkhede/) — co-creator of Kafka and co-founder and former CTO of Confluent.
+- [Jun Rao](/positioning/persons/r/rao/) — co-creator of Kafka, the distributed-systems core, and co-founder of Confluent.
 
 ## Sources
 

@@ -9,9 +9,7 @@ description: "Meaning as difference, systems of relations — the movement that 
 
 # Structuralism
 
-Structuralism matters to SPLectrum because it established the relational view of meaning that the [seed](/seed/) builds on. [Saussure](/positioning/persons/s/saussure/)'s differential sign — meaning through difference, not content — is the linguistic ancestor of P1: language is relational. The structuralist method — study the system of relations, not the individual elements — prefigures SPLectrum's insistence that language is not a collection of labels but a web of relations. But structuralism froze the system: *langue* is static, synchronic, closed. SPLectrum's seed puts the system in motion — languages grow (P5), interrelate (P4), are lived (P2) and shared (P3). Post-structuralism saw the instability; SPLectrum sees the growth.
-
-The intellectual movement that analyses cultural and intellectual phenomena as systems of relations rather than collections of independent elements. Originating in [Saussure](/positioning/persons/s/saussure/)'s structural linguistics, structuralism spread across anthropology, literary theory, philosophy, and the human sciences in the mid-twentieth century. Its core insight: meaning is not in the element but in the difference between elements.
+Structuralism is the intellectual movement that analyses cultural and intellectual phenomena as systems of relations rather than collections of independent elements. Originating in [Saussure](/positioning/persons/s/saussure/)'s structural linguistics, it spread across anthropology, literary theory, philosophy, and the human sciences in the mid-twentieth century. Its core insight is that meaning is not in the element but in the difference between elements: a term means what it means by its place in a system, not by anything it carries in itself.
 
 ---
 
@@ -21,11 +19,11 @@ Study the system, not the parts. A sign has no intrinsic content — it means wh
 
 ## Key developments
 
-**Saussure** established the paradigm. The sign is the pairing of signifier and signified, and the relation is arbitrary. *Langue* (the system) is distinguished from *parole* (individual speech). Linguistics studies the system that makes utterances possible and intelligible. Meaning is differential.
+**[Saussure](/positioning/persons/s/saussure/)** established the paradigm. The sign is the pairing of signifier and signified, and the relation is arbitrary. *Langue* (the system) is distinguished from *parole* (individual speech). Linguistics studies the system that makes utterances possible and intelligible. Meaning is differential.
 
-**Claude Lévi-Strauss** applied structural analysis to anthropology. Myths across cultures share deep structures — binary oppositions (nature/culture, raw/cooked) that are transformed and recombined. Kinship systems follow structural rules beneath their surface variation. The human mind works in patterns.
+**[Claude Lévi-Strauss](/positioning/persons/l/levi-strauss/)** applied structural analysis to anthropology. Myths across cultures share deep structures — binary oppositions (nature/culture, raw/cooked) that are transformed and recombined. Kinship systems follow structural rules beneath their surface variation. The human mind works in patterns.
 
-**Roland Barthes** extended structuralism to cultural analysis — fashion, advertising, photography, narrative. Everything can be read as a sign system. *Mythologies* decoded the implicit meanings of everyday French culture.
+**[Roland Barthes](/positioning/persons/b/barthes/)** extended structuralism to cultural analysis — fashion, advertising, photography, narrative. Everything can be read as a sign system. *Mythologies* decoded the implicit meanings of everyday French culture.
 
 ## Post-structuralism
 
@@ -39,12 +37,14 @@ The commitment to relation over substance. Whether the structure is stable (clas
 
 ## Where structuralism stops
 
-Structuralism found the relational — but locked it in a cage. The system is given, stable, synchronic: a snapshot, not a process. There is no account of how structures arise, how they evolve, how one system gives birth to another. Post-structuralism saw the instability but responded with deconstruction — showing that the cage cannot hold, without building anything in its place. SPLectrum takes the relational insight and puts it in motion: languages are not static systems but living, growing, interrelating (P4, P5). They are constituted through sharing between subjects (P3), not given as abstract structures. And the subject — absent from structuralism, dissolved by post-structuralism — is where SPLectrum's P2 starts: the lived experience of the relational, from the inside.
+Structuralism found the relational but held it still. The system it studies is given, stable, synchronic — a snapshot, not a process — and the method that made it powerful, bracketing *parole* to describe *langue*, is also what fixes it: there is no account of how a structure arises, how it changes, or how one system gives way to another. The speaking subject, too, falls outside the frame, a position in the system rather than a source of it. Post-structuralism pressed exactly on this point — if meaning is pure difference then the system never finally settles — but its response was to displace the structure rather than to put it in motion, exposing the instability without building a successor account in its place. What structuralism leaves open is the dynamic and the diachronic: the relational caught as a system, but not yet as something that grows, is lived, and is shared over time.
 
 ---
 
 ## Persons
 
-[Saussure](/positioning/persons/s/saussure/) · [Lyotard](/positioning/persons/l/lyotard/)
+[Saussure](/positioning/persons/s/saussure/) · [Lévi-Strauss](/positioning/persons/l/levi-strauss/) · [Jakobson](/positioning/persons/j/jakobson/) · [Barthes](/positioning/persons/b/barthes/) · [Derrida](/positioning/persons/d/derrida/) · [Lyotard](/positioning/persons/l/lyotard/)
 
-See also: [Phenomenology](/positioning/subjects/p/phenomenology/) · [The seed and Philosophy](/seed/philosophical/) · [Being as Tension](/positioning/seed/being-as-tension/)
+See also: [Semiotics](/positioning/subjects/s/semiotics/) · [Deconstruction](/positioning/subjects/d/deconstruction/) · [Phenomenology](/positioning/subjects/p/phenomenology/)
+
+SPLectrum: [The seed and Philosophy](/seed/philosophical/) · [Being as Tension](/positioning/seed/being-as-tension/)

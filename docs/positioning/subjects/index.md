@@ -76,6 +76,7 @@ These are subjects of importance to SPLectrum, referenced within the site.
 
 ## U
 
+- [Ubuntu](u/ubuntu/) · philosophy, ethics<span class="kw">the southern African philosophy of personhood through relation — "a person is a person through other persons", umuntu ngumuntu ngabantu, Ramose, Tutu, the Truth and Reconciliation Commission, the communitarian critique</span>
 - [URI](u/uri/) · web architecture, software engineering<span class="kw">uniform resource identification — the addressing layer of the Web: URL and URN, RFC 3986, Berners-Lee, Fielding</span>
 
 ## X

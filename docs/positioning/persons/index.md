@@ -28,6 +28,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Bak, Per (1948–2002)](b/bak) · physicist<span class="kw">self-organized criticality, power-law dynamics, the sand-pile model, How Nature Works</span>
 - [Bakhtin, Mikhail (1895–1975)](b/bakhtin) · philosopher, literary theorist<span class="kw">dialogism, the utterance, polyphony, carnival, outsideness, the unfinalisability of the self</span>
 - [Barabási, Albert-László (1967–)](b/barabasi) · physicist, network scientist<span class="kw">scale-free networks, preferential attachment, network science, robustness and vulnerability</span>
+- [Barthes, Roland (1915–1980)](b/barthes) · literary theorist, critic<span class="kw">myth as second-order signification, connotation, the death of the author, S/Z, the pleasure of the text, the punctum</span>
 - [Bateson, Gregory (1904–1980)](b/bateson) · anthropologist, cyberneticist<span class="kw">ecology of mind, difference that makes a difference, schismogenesis, the pattern which connects</span>
 - [Bateson, William (1861–1926)](b/bateson-w) · biologist<span class="kw">coined "genetics", Mendel's champion, the Mendelian-biometrician debate, discontinuous variation</span>
 - [Baumgarten, Alexander Gottlieb (1714–1762)](b/baumgarten) · philosopher<span class="kw">coined "aesthetics", the science of sensory cognition, gnoseologia inferior, beauty as perfection of sensible cognition</span>
@@ -72,9 +73,11 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Dawkins, Richard (1941–)](d/dawkins) · evolutionary biologist<span class="kw">the selfish gene, gene-centric view, memes, the extended phenotype, universal Darwinism</span>
 - [De Broglie, Louis (1892–1987)](d/de-broglie) · physicist<span class="kw">wave-particle duality, the de Broglie hypothesis, matter waves, the pilot-wave theory</span>
 - [De Vries, Hugo (1848–1935)](d/de-vries) · botanist<span class="kw">the rediscovery of Mendel, mutation theory, intracellular pangenesis, the concept of the gene</span>
+- [de Man, Paul (1919–1983)](d/de-man) · literary theorist, critic<span class="kw">the Yale school, rhetoric over grammar, Allegories of Reading, the resistance to theory, the wartime-journalism affair</span>
 - [Deleuze, Gilles (1925–1995)](d/deleuze) · philosopher<span class="kw">difference and repetition, the rhizome, multiplicity, assemblages, the fold, immanence</span>
 - [Democritus (c. 460–c. 370 BCE)](d/democritus) · philosopher<span class="kw">atomism, the void, the earliest systematic materialism, plurality of being</span>
 - [Dennett, Daniel (1942–2024)](d/dennett) · philosopher<span class="kw">the intentional stance, Darwin's Dangerous Idea, consciousness explained, universal Darwinism, memes</span>
+- [DeRose, Steven](d/derose) · computer scientist<span class="kw">descriptive markup theory, the first SGML browser (DynaText), co-editor of XPath and XPointer, XML and hypertext, the Text Encoding Initiative</span>
 - [Derrida, Jacques (1930–2004)](d/derrida) · philosopher<span class="kw">deconstruction, différance, the trace, the metaphysics of presence, writing and difference</span>
 - [Descartes, René (1596–1650)](d/descartes) · philosopher, mathematician<span class="kw">the cogito, the mirror, the mind-body split, method</span>
 - [Deutsch, David (1953–)](d/deutsch) · physicist<span class="kw">quantum computing, the universal quantum computer, the Church-Turing-Deutsch principle, constructor theory, many-worlds</span>
@@ -87,6 +90,7 @@ Individual thinkers referenced across the positioning section. Each page present
 
 ## E
 
+- [Eco, Umberto (1932–2016)](e/eco) · semiotician, philosopher, novelist<span class="kw">a theory of codes, the open work, the limits of interpretation, the model reader, unlimited semiosis, The Name of the Rose</span>
 - [Eddington, Arthur (1882–1944)](e/eddington) · astrophysicist<span class="kw">named "the arrow of time", confirmed general relativity, stellar structure, the mass-luminosity relation</span>
 - [Edelman, Gerald (1929–2014)](e/edelman) · biologist<span class="kw">Neural Darwinism, neuronal group selection, reentrant signalling, the immunological Nobel, consciousness</span>
 - [Eilenberg, Samuel (1913–1998)](e/eilenberg) · mathematician<span class="kw">co-founder of category theory, Eilenberg-Steenrod axioms, homological algebra, automata theory</span>
@@ -149,6 +153,7 @@ Individual thinkers referenced across the positioning section. Each page present
 
 ## J
 
+- [Jakobson, Roman (1896–1982)](j/jakobson) · linguist, literary theorist<span class="kw">the six functions of language, the poetic function, metaphor and metonymy, the Prague School, the bridge from Saussure to Peirce</span>
 - [James, William (1842–1910)](j/james) · philosopher, psychologist<span class="kw">pragmatism, radical empiricism, stream of consciousness, pluralism</span>
 - [Jonas, Hans (1903–1993)](j/jonas) · philosopher<span class="kw">the phenomenon of life, metabolism as selfhood, inwardness, responsibility</span>
 
@@ -194,6 +199,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Marcuse, Herbert (1898–1979)](m/marcuse) · philosopher<span class="kw">one-dimensional man, the Great Refusal, the aesthetic dimension, Eros and civilisation, critical theory</span>
 - [Margulis, Lynn (1938–2011)](m/margulis) · biologist<span class="kw">endosymbiosis, serial endosymbiosis theory, symbiogenesis, Gaia hypothesis</span>
 - [Marx, Karl (1818–1883)](m/marx) · philosopher, political economist<span class="kw">critique of political economy, materialist conception of history, alienation, Capital</span>
+- [Masinter, Larry](m/masinter) · computer scientist<span class="kw">co-author of the URI RFCs, internet and web standards, Xerox PARC, Adobe</span>
 - [Maturana, Humberto (1928–2021)](m/maturana) · biologist, philosopher<span class="kw">autopoiesis, biology of cognition, the observer, structural determinism</span>
 - [Maxwell, James Clerk (1831–1879)](m/maxwell) · physicist<span class="kw">electromagnetic field equations, unification of electricity, magnetism, and light, kinetic theory of gases, Maxwell's demon</span>
 - [Maynard Smith, John (1920–2004)](m/maynard-smith) · evolutionary biologist<span class="kw">evolutionary game theory, ESS, major transitions in evolution, the evolution of sex</span>
@@ -209,6 +215,7 @@ Individual thinkers referenced across the positioning section. Each page present
 
 - [Nāgārjuna (c. 150–c. 250 CE)](n/nagarjuna) · Buddhist philosopher<span class="kw">śūnyatā (emptiness), dependent origination, the Mūlamadhyamakakārikā, Madhyamaka</span>
 - [Nagel, Thomas (1937–)](n/nagel) · philosopher<span class="kw">subjectivity, the view from nowhere, against reductionism</span>
+- [Narkhede, Neha](n/narkhede) · software engineer<span class="kw">co-creator of Apache Kafka, co-founder and former CTO of Confluent, data infrastructure at LinkedIn</span>
 - [Nietzsche, Friedrich (1844–1900)](n/nietzsche) · philosopher<span class="kw">the death of God, the will to power, eternal recurrence, perspectivism, inverted Platonism, the revaluation of all values</span>
 - [Nishida, Kitarō (1870–1945)](n/nishida) · philosopher<span class="kw">pure experience, the logic of basho, absolute nothingness, action-intuition, the Kyoto School</span>
 - [Nussbaum, Martha (1947–)](n/nussbaum) · philosopher<span class="kw">the capabilities approach, central human capabilities, emotions as judgments, the fragility of goodness, human development</span>
@@ -241,6 +248,7 @@ Individual thinkers referenced across the positioning section. Each page present
 ## R
 
 - [Rancière, Jacques (b. 1940)](r/ranciere) · philosopher<span class="kw">the distribution of the sensible, aesthetics and politics, equality as presupposition, the ignorant schoolmaster, dissensus</span>
+- [Rao, Jun](r/rao) · software engineer<span class="kw">co-creator of Apache Kafka, the distributed-systems core, co-founder of Confluent, Apache committer</span>
 - [Rawls, John (1921–2002)](r/rawls) · political philosopher<span class="kw">A Theory of Justice, the original position, the veil of ignorance, justice as fairness, the difference principle, political liberalism</span>
 - [Reichenbach, Hans (1891–1953)](r/reichenbach) · philosopher of science<span class="kw">the direction of time, branch systems, common cause principle, probability and induction</span>
 - [Reid, Thomas (1710–1796)](r/reid) · philosopher<span class="kw">common-sense philosophy, direct realism, the critique of Hume's skepticism, the rejection of the theory of ideas</span>
