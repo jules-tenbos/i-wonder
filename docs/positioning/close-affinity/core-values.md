@@ -96,8 +96,8 @@ Each value-strand, developed in its own tradition, reaches a characteristic boun
 - Whitehead's creativity stays cosmological. Castoriadis's radical imaginary develops creativity as social and ontological; the triad picks up the individual-social interaction his framework describes but does not fully specify. James holds the open universe; the triad picks up the mechanism of creative interaction his metaphysics leaves unnamed.
 - Levinas holds belonging and privacy together (interiority and the face of the Other), but his ethics demands asymmetry where the triad holds the values as co-equal.
 
-The [core values](/reality/core-values/) take these three strands — developed separately, each with its own depth — and hold them together as a stance: belonging gives shared language, privacy gives something to express, creativity is the act of expression. The world that comes into view — thick (privacy), porous (belonging), unfinished (creativity) — is a metaphysics disclosed from the subject, not a cosmology or a genealogy.
+SPLectrum's core values take these three strands — developed separately, each with its own depth — and hold them together as a stance: belonging gives shared language, privacy gives something to express, creativity is the act of expression. The world that comes into view — thick (privacy), porous (belonging), unfinished (creativity) — is a metaphysics disclosed from the subject, not a cosmology or a genealogy.
 
 ---
 
-See also: [Aesthetics](/positioning/close-affinity/aesthetics/) · [Pluralism](/positioning/close-affinity/pluralism/) · [The core values and the metaphysics they disclose](/reality/core-values/)
+See also: [Aesthetics](/positioning/close-affinity/aesthetics/) · [Pluralism](/positioning/close-affinity/pluralism/)

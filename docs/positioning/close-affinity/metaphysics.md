@@ -9,7 +9,7 @@ description: "SPLectrum's metaphysics — disclosure from the subject's seat, bu
 
 # Metaphysics
 
-SPLectrum's metaphysics starts from the seat of the subject, and disclosure is its way in: reality shows itself through the language medium we are already inside, rather than being deduced from first principles or mirrored from a world standing behind experience. But what is disclosed is not left as description — it is a positive account, *built*: a reality that is relational and in motion, the many producing more through their interaction. What sets it apart is not a refusal to construct but where the construction is done from — the subject's seat rather than a standpoint outside it — and that it claims no mirror, no vocabulary occupying a privileged outside from which the world is reported as it really is. The [five pillars](/reality/) are where that account is worked out.
+SPLectrum's metaphysics starts from the seat of the subject, and disclosure is its way in: reality shows itself through the language medium we are already inside, rather than being deduced from first principles or mirrored from a world standing behind experience. But what is disclosed is not left as description — it is a positive account, *built*: a reality that is relational and in motion, the many producing more through their interaction. What sets it apart is not a refusal to construct but where the construction is done from — the subject's seat rather than a standpoint outside it — and that it claims no mirror, no vocabulary occupying a privileged outside from which the world is reported as it really is. That account is worked out across the five pillars on the reality side; this surface points outward from it into the field.
 
 Set against the [metaphysics subject](/positioning/subjects/m/metaphysics/)'s map of that argument — five recurring stances toward the enterprise — this dynamic sits in no single one of them. What follows walks the branches and points to what, in each, resonates with it. The field voices a movement SPLectrum's metaphysics lives by; the spread of where it surfaces is the placement.
 
@@ -43,4 +43,4 @@ The dynamic settles in no single branch. It is most at home in the disclosive �
 
 ---
 
-See also: [Metaphysics](/positioning/subjects/m/metaphysics/) (subject) · [Pluralism](/positioning/close-affinity/pluralism/) · [Interrelational Pluralism](/positioning/seed/interrelational-pluralism/) · [Two-Pronged Anti-Representationalism](/positioning/seed/two-pronged-anti-representationalism/) · [The core values and the metaphysics they disclose](/reality/core-values/)
+See also: [Metaphysics](/positioning/subjects/m/metaphysics/) (subject) · [Pluralism](/positioning/close-affinity/pluralism/) · [Interrelational Pluralism](/positioning/seed/interrelational-pluralism/) · [Two-Pronged Anti-Representationalism](/positioning/seed/two-pronged-anti-representationalism/)

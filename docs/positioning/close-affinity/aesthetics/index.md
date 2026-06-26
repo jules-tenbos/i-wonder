@@ -9,7 +9,7 @@ description: "The close-affinity aesthetics surface: SPLectrum holds the dynamic
 
 # Aesthetics
 
-In SPLectrum's philosophy, aesthetics is the field concerned with the dynamics of meaning and language — how a subject turns shared language tools into a unique, private medium of experience. SPLectrum holds this field core; the [derivation is on the reality side](/reality/aesthetics/), and this surface points outward from it.
+In SPLectrum's philosophy, aesthetics is the field concerned with the dynamics of meaning and language — how a subject turns shared language tools into a unique, private medium of experience. SPLectrum holds this field core; the derivation is on the reality side, and this surface points outward from it into the field.
 
 For most of philosophy, aesthetics was held to the senses, and abstract thinking held itself detached from them — so the dynamics of meaning were never treated as a central concern. The dynamic was there throughout; it was simply picked up in disparate places, each time under the name of the domain it surfaced in.
 
@@ -27,4 +27,4 @@ The concern shows up across philosophy under other names. It is grouped here int
 
 ---
 
-See also: [Aesthetics — the dynamics of meaning](/reality/aesthetics/) (the pillar this develops) · [The core values](/reality/core-values/) · [The standing of aesthetics in philosophy](/positioning/subjects/a/aesthetics-in-philosophy/) · [Pluralism](/positioning/close-affinity/pluralism/)
+See also: [The standing of aesthetics in philosophy](/positioning/subjects/a/aesthetics-in-philosophy/) · [Pluralism](/positioning/close-affinity/pluralism/)

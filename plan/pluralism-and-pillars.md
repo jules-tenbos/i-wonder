@@ -2,19 +2,16 @@
 
 Working plan. Sequencing and scope subject to revision. Detailed research done as and when each artifact is reached, not upfront.
 
-## Progress
+## Status
 
-- **Aesthetics** — complete across all three layers (the template).
-- **Epistemology** — complete across all three layers (2026-06-26): subject (`subjects/e/epistemology/` — the naturalistic turn), affinity (`close-affinity/epistemology.md` — the two-pole loop), reality pillar (`reality/epistemology/` — learning and knowing). First pillar after aesthetics done end-to-end.
-- **Metaphysics** (the overarching map, not a pillar) — subject and affinity already live; affinity polished 2026-06-26 to the resonance register.
-- Remaining pillar verticals: ontology, ethics, politics. Pluralism rework (Phases 1–2) not started.
+Aesthetics, epistemology, and ontology complete end-to-end (the template; ontology has no subject page — metaphysics map is its territory). Metaphysics map (subject + affinity) live. Remaining: ethics, politics verticals; pluralism rework (Phases 1–2) not started.
 
 ## What this plans
 
 Two coupled threads that surfaced together:
 
 1. **Reworking the pluralism close-affinity page** into its proper architecture — a subject (territory) and a real affinity reading (the mapping exercise), instead of one page doing both jobs.
-2. **Standing up the missing pillar-field subjects** — ontology, epistemology, ethics, politics — as outside-context territory, so the affinity rings and eventually the reality-side pillar pages have ground to delegate to. (Aesthetics is already built across its six pages.)
+2. **Standing up the missing pillar-field subjects** — ethics and politics — as outside-context territory, so the affinity rings and eventually the reality-side pillar pages have ground to delegate to. (Aesthetics and epistemology are built; ontology needs no subject.)
 
 ## The three-layer pattern (applies to every pillar and to pluralism)
 
@@ -63,23 +60,23 @@ Convert the existing close-affinity page into the pluralism **subject**. Most of
 Build fresh around the mapping exercise. Takes the relocated seed-threads from Phase 1 plus the new exercise structure. May grow into a bundle with per-stream pages (Rorty as calibration corner first, then streams placed against it). Delegates breadth to the Phase 1 subject.
 
 ### Phase 3 — Pillar-field subjects (territory)
-Stand up the four missing pillar-field subjects as broad, externally-linked neutral territory. Adjacent subjects (phenomenology, philosophy of science, pragmatism, process philosophy, cosmopolitics) are cross-link targets. Sequence among them is open; ontology and epistemology are the machinery side and natural to do first.
+Stand up the missing pillar-field subjects as broad, externally-linked neutral territory. Adjacent subjects (phenomenology, philosophy of science, pragmatism, process philosophy, cosmopolitics) are cross-link targets. Sequence among them is open.
 
-- Ontology subject (likely a bundle — large field)
-- ~~Epistemology subject~~ — done 2026-06-26 (`subjects/e/epistemology/`, the naturalistic turn).
 - Ethics subject
 - Politics subject
 
+(Ontology needs no subject — the metaphysics map is its territory.)
+
 ### Phase 4 — Pillar-field affinity readings
-Where each pillar field resonates with SPLectrum, read across the Phase 3 territory. One per pillar, or folded as the material asks. Epistemology done 2026-06-26 (`close-affinity/epistemology.md`).
+Where each pillar field resonates with SPLectrum, read across the Phase 3 territory. One per pillar, or folded as the material asks.
 
 ### Phase 5 — Reality-side pillar pages (pure SPLectrum)
-The own-terms pillar pages, derived from the seed. Aesthetics and epistemology are done (epistemology 2026-06-26, `reality/epistemology/`). Ontology, ethics, politics to follow. The reality-side interrelational-pluralism work (structure/content two-face account, where the pillars and the two faces meet) lives here too — this is the furthest-out work and the one place where settled pillar derivations genuinely matter as a prerequisite. (This phase overlaps the reality-section candidates in `plan/metaphysics-build.md`; coordinate the two.)
+The own-terms pillar pages, derived from the seed. Ethics and politics to follow. The reality-side interrelational-pluralism work (structure/content two-face account, where the pillars and the two faces meet) lives here too — this is the furthest-out work and the one place where settled pillar derivations genuinely matter as a prerequisite. (This phase overlaps the reality-section candidates in `plan/metaphysics-build.md`; coordinate the two.)
 
 ## Open decisions to settle as phases are reached
 
 - Pluralism subject bundle shape (single landing + which branches).
 - Whether the pluralism affinity page is one piece or a per-stream bundle.
-- Ontology subject: one page or a bundle.
-- Sequence within Phase 3 (which pillar subject first).
-- Where the reality-side interrelational-pluralism piece sits relative to the four reality pillars (it may need them settled first).
+- Sequence within Phase 3 (ethics or politics first).
+- Where the reality-side interrelational-pluralism piece sits relative to the reality pillars (it may need them settled first).
+- Ontology affinity ↔ pluralism affinity: which page owns the vocabulary-is-language-specific reading, to avoid writing Goodman/Putnam twice (provisional: ontology affinity owns the entity angle, points to pluralism affinity for the general "many, none privileged").

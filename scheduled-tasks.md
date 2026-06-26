@@ -1,6 +1,6 @@
 # Scheduled Tasks
 
-Updated 2026-06-26 (epistemology vertical complete). Plan work and research tracking.
+Plan work and research tracking.
 
 ## Research
 
@@ -12,13 +12,9 @@ Updated 2026-06-26 (epistemology vertical complete). Plan work and research trac
 
 ## Pluralism + the metaphysics pillars
 
-- [ ] **Major multi-phase plan** in `plan/pluralism-and-pillars.md`: rework the pluralism close-affinity page into a subject + a real affinity reading (the mapping exercise), and stand up the missing pillar-field subjects (ontology, epistemology, ethics, politics), their affinity readings, and the reality-side pillar pages. **Epistemology vertical done 2026-06-26** (subject + affinity + reality pillar) — second pillar complete after aesthetics. Remaining: ontology, ethics, politics; pluralism rework (Phases 1–2) not started.
+- [ ] **Major multi-phase plan** in `plan/pluralism-and-pillars.md`: rework the pluralism close-affinity page into a subject + a real affinity reading (the mapping exercise), and stand up the remaining pillar verticals (ethics, politics) — subject + affinity + reality pillar each. Aesthetics, epistemology, ontology done. Pluralism rework (Phases 1–2) not started.
 
 ## Positioning entries needed
-
-The `plan/positioning-entries-needed.md` list is fully consumed and the file removed: software-infrastructure persons (Narkhede, Rao, Masinter, DeRose), aesthetics persons (de Man, Eco, Barthes, Jakobson), and the Ubuntu subject all built 2026-06-26.
-
-One entry remains, outside that list:
 
 - [ ] **Enactivism** (subject) — surfaced building the metaphysics straddles page; currently an external link. Varela has a person page; Thompson / Di Paolo / Noë do not.
 

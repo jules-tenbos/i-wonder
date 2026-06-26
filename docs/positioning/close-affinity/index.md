@@ -14,6 +14,7 @@ Thinkers and frameworks that share close structural affinity with SPLectrum — 
 - [The three core values](core-values) — belonging, privacy, creativity as a philosophical triad: who works with subsets, who comes close, and where each account reaches and stops
 - [Epistemology](epistemology) — SPLectrum's knowing as a two-pole loop: disclosed and private in its happening, stabilised by convergence in its holding, read across the disclosive and dissolving stances, the naturalistic turn, and where standpoint's grounding diverges
 - [Metaphysics](metaphysics) — SPLectrum's metaphysics as disclosure from the subject's seat, relational and with the mirror set aside, and the aspects of that dynamic surfacing across the field's approaches
+- [Ontology](ontology) — SPLectrum's entities as the concepts of the language medium, held at rest, read across the framework-relativity line, relations as what constitute an entity, and value-by-difference as the root of the relational
 - [Pluralism](pluralism) — the pluralist landscape across philosophy's dimensions, and where interrelational pluralism sits among them
 - [Wittgenstein](/positioning/persons/w/wittgenstein/) — language games, forms of life, meaning as use. The materials for a structural account, without the construction.
 
