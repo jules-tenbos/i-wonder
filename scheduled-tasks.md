@@ -24,5 +24,5 @@ One entry remains, outside that list:
 
 ## Real Life
 
-- [ ] **SPLectrum 101** — page stub created at `/real-life/spl/splectrum-101/` (`[To be written.]`); needs writing — a layman's introduction to SPLectrum.
+- [ ] **SPLectrum 101** — in progress at `/real-life/spl/splectrum-101/`. Uncommitted working draft: a diagram-style overview (top box "SPLectrum / Reality in Language"; second row Language + Reality; core values belonging/privacy/creativity; the five pillars as plain-language questions — how we learn, how we label, how we structure, our values, how we live together). Prose sketch only so far; needs shaping into the actual diagram + finished layman's intro.
 
