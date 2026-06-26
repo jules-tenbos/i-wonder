@@ -35,6 +35,10 @@ These are subjects of importance to SPLectrum, referenced within the site.
 - [Dialogism](d/dialogism/) · philosophy, literary theory<span class="kw">Bakhtin and the Bakhtin Circle — the dialogic utterance, heteroglossia, polyphony, the chronotope and carnival, the authorship dispute, the literary-theory afterlife</span>
 - [Domain-specific languages (DSL)](d/domain-specific-languages/) · software engineering, notation<span class="kw">purpose-built vocabularies for specific problem areas — from SQL and regular expressions to musical notation and chemical nomenclature</span>
 
+## E
+
+- [Epistemology — the naturalistic turn](e/epistemology/) · philosophy, history of ideas<span class="kw">the one move the metaphysics map has no slot for — epistemology renegotiating its border with empirical inquiry: the analysis of knowledge and its collapse after Gettier, Quine's naturalizing handover, the externalist turn hinged on reliabilism, the social turn, and Williamson's knowledge-first counter-move</span>
+
 ## G
 
 - [German idealism](g/german-idealism) · philosophy<span class="kw">Fichte, Schelling, Hegel: overcoming Kant's limits, the productivity of negation</span>

@@ -1,6 +1,6 @@
 # Scheduled Tasks
 
-Updated 2026-06-26. Plan work and research tracking.
+Updated 2026-06-26 (epistemology vertical complete). Plan work and research tracking.
 
 ## Research
 
@@ -12,7 +12,7 @@ Updated 2026-06-26. Plan work and research tracking.
 
 ## Pluralism + the metaphysics pillars
 
-- [ ] **Major multi-phase plan** in `plan/pluralism-and-pillars.md`: rework the pluralism close-affinity page into a subject + a real affinity reading (the mapping exercise), and stand up the missing pillar-field subjects (ontology, epistemology, ethics, politics), their affinity readings, and the reality-side pillar pages. Not started — aesthetics is the completed template.
+- [ ] **Major multi-phase plan** in `plan/pluralism-and-pillars.md`: rework the pluralism close-affinity page into a subject + a real affinity reading (the mapping exercise), and stand up the missing pillar-field subjects (ontology, epistemology, ethics, politics), their affinity readings, and the reality-side pillar pages. **Epistemology vertical done 2026-06-26** (subject + affinity + reality pillar) — second pillar complete after aesthetics. Remaining: ontology, ethics, politics; pluralism rework (Phases 1–2) not started.
 
 ## Positioning entries needed
 

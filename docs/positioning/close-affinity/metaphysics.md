@@ -33,13 +33,13 @@ What resonates is the mirror set aside. The [deflationary branch](/positioning/s
 
 ## The genealogical branch
 
-What resonates is that the concepts of metaphysics are made, not found. The [genealogical branch](/positioning/subjects/m/metaphysics/the-genealogical-branch/) reads the tradition's distinctions as artifacts with a history — [Nietzsche](/positioning/persons/n/nietzsche/) on the made character of the true world, [Derrida](/positioning/persons/d/derrida/) on the inherited oppositions. SPLectrum holds the conceptual order of the language medium as created and shared, something that could have been otherwise — so the made-and-contingent character of concepts is the shared recognition. But the rhyme reaches only that far. Genealogy reads the made concept with suspicion — tracing it to a need, a resentment, a play of power, something to be diagnosed and undone; SPLectrum holds the made concept as a positive creation, built on rather than seen through. Concepts are made: that is shared; the genealogist's stance toward their being made is not.
+What resonates is that the concepts of metaphysics are made, not found. The [genealogical branch](/positioning/subjects/m/metaphysics/the-genealogical-branch/) reads the tradition's distinctions as artifacts with a history — [Nietzsche](/positioning/persons/n/nietzsche/) on the made character of the true world, [Derrida](/positioning/persons/d/derrida/) on the inherited oppositions. SPLectrum holds the conceptual order of the language medium as created and shared, something that could have been otherwise — so the made-and-contingent character of concepts is the shared recognition, with SPLectrum holding the made concept as a positive creation, built on rather than only seen through.
 
 ---
 
 ## How it straddles
 
-The dynamic settles in no single branch. It is most at home in the disclosive — its way in; it builds, with the process-relational strand of the constructive — the account it makes; it sets the mirror aside, with the deflationary. And it touches the critical on the turn to the subject, and the genealogical on concepts as made. It takes none of the five whole — not substance, not fixed categories or a reserved thing-in-itself, not the dissolution of metaphysics, not suspicion as a method. What straddles them is one move: a reality disclosed from the subject's seat, built as becoming, its concepts made and held without a mirror.
+The dynamic settles in no single branch. It is most at home in the disclosive — its way in; it builds, with the process-relational strand of the constructive — the account it makes; it sets the mirror aside, with the deflationary. And it touches the critical on the turn to the subject, and the genealogical on concepts as made. What straddles them is one move: a reality disclosed from the subject's seat, built as becoming, its concepts made and held without a mirror.
 
 ---
 
