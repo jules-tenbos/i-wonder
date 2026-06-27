@@ -24,9 +24,9 @@ These are subjects of importance to SPLectrum, referenced within the site.
 
 ## C
 
+- [Category theory](c/ct/) · mathematics<span class="kw">structure through relationships rather than internal composition — objects known entirely by their arrows</span>
 - [Complex adaptive systems](c/complex-adaptive-systems/) · cross-disciplinary<span class="kw">locally interacting agents producing global order: Holland, Kauffman, Gell-Mann, Santa Fe Institute</span>
 - [Cosmopolitics](c/cosmopolitics) · philosophy of science, political ecology<span class="kw">Stengers: ecology of practices, reciprocal capture, the idiot, cosmos as constructed not given</span>
-- [Category theory](c/ct/) · mathematics<span class="kw">structure through relationships rather than internal composition — objects known entirely by their arrows</span>
 
 ## D
 
@@ -63,9 +63,10 @@ These are subjects of importance to SPLectrum, referenced within the site.
 ## P
 
 - [Phenomenology](p/phenomenology) · philosophy<span class="kw">the study of experience from the inside: Husserl, Heidegger, Merleau-Ponty, Jonas</span>
-- [Philosophy of science](p/philosophy-of-science) · philosophy<span class="kw">from logical positivism through falsification, paradigms, and methodological pluralism</span>
-- [Pragmatism](p/pragmatism) · philosophy<span class="kw">meaning as consequence, truth as convergence: Peirce, Dewey, Rorty</span>
 - [Philosophy of organism](p/philosophy-of-organism) · philosophy<span class="kw">Whitehead's speculative metaphysics: actual entities, prehension, creativity, God — the cure for the bifurcation of nature</span>
+- [Philosophy of science](p/philosophy-of-science) · philosophy<span class="kw">from logical positivism through falsification, paradigms, and methodological pluralism</span>
+- [Political philosophy](p/political-philosophy/) · philosophy<span class="kw">how people ought to live together — the recurring questions of authority, justice, liberty and the collective; the traditions that answer them differently; and the standing disputes (liberal–communitarian, the justice debates, legitimacy, value-pluralism) the field actually lives in</span>
+- [Pragmatism](p/pragmatism) · philosophy<span class="kw">meaning as consequence, truth as convergence: Peirce, Dewey, Rorty</span>
 - [Process philosophy](p/process-philosophy) · philosophy<span class="kw">becoming over being, events over substances: Bergson, Whitehead, Hegel</span>
 
 ## R

@@ -62,8 +62,11 @@ Build fresh around the mapping exercise. Takes the relocated seed-threads from P
 ### Phase 3 — Pillar-field subjects (territory)
 Stand up the missing pillar-field subjects as broad, externally-linked neutral territory. Adjacent subjects (phenomenology, philosophy of science, pragmatism, process philosophy, cosmopolitics) are cross-link targets. Sequence among them is open.
 
-- Ethics subject
-- Politics subject
+- Ethics subject — **built** (`/positioning/subjects/e/ethics/`, single page, metaethics-weighted). Affinity + reality also done.
+- Politics subject — **green-lit shape: landing + 4 branches.** Branches: (1) Authority, legitimacy, and justice; (2) Liberty and the self; (3) **The one and the many — coexistence of diverse communities** (the deepened branch, where the framework later reads across); (4) Power, critique, and the radical traditions. Guards on the build:
+  - **Berlin split (depth-delegation within the bundle):** value-pluralism has two homes by aspect. The *thesis* (irreducible, incommensurable conflicting values; vs monism and vs relativism) lives in Branch 2 / landing; the *political payoff* (coexistence arrangements that follow — Berlin → Galston) lives in Branch 3. Branch 3 references the thesis and points to it, never re-walks the whole Berlin story. Don't tell Berlin twice.
+  - **Branch 3 guard:** extra depth, **invisible motivation** — nothing on the page hints *why* it carries more, no lean toward what SPLectrum later uses (same lesson as the Foot/Hursthouse reread on the ethics subject). Full on its own terms.
+  - **Cross-link tension (tracked, non-blocking):** Branch 3 currently cross-links the value-pluralism strand on the pluralism *close-affinity* page (SPLectrum-side), because the pluralism *subject* rework is pending (Phases 1–2). When the pluralism subject lands, revisit Branch 3's cross-links so the within-positioning fabric points subject-to-subject (outside-context).
 
 (Ontology needs no subject — the metaphysics map is its territory.)
 
