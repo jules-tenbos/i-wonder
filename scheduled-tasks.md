@@ -10,7 +10,7 @@ Plan work and research tracking.
 
 ## Pluralism + the metaphysics pillars
 
-- [ ] **Pluralism rework** in `plan/pluralism-and-pillars.md`: rework the pluralism close-affinity page into a subject + a real affinity reading (the mapping exercise). Phases 1–2, not started. Plus the now-unblocked reality-side interrelational-pluralism piece. When the pluralism subject lands, revisit the politics Branch-3 cross-links (tracked in the plan).
+- [ ] **Pluralism rework** in `plan/pluralism-rework.md`: rework the pluralism close-affinity page into a subject + a real affinity reading (the mapping exercise). Phases 1–2, not started. Plus the now-unblocked reality-side interrelational-pluralism piece. When the pluralism subject lands, revisit the politics Branch-3 cross-links (tracked in the plan).
 
 ## Positioning entries needed
 
