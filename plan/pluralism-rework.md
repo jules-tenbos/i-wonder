@@ -7,7 +7,6 @@ Working plan. Sequencing and scope subject to revision. Detailed research done a
 All five pillar verticals are complete (aesthetics, epistemology, ontology, ethics, politics) — that thread of this plan is done and removed. What remains:
 
 - **Pluralism rework (Phases 1–2)** — not started. Rework the pluralism close-affinity page into its proper architecture: a subject (territory) and a real affinity reading (the mapping exercise), instead of one page doing both jobs.
-- **Reality-side interrelational-pluralism piece** — the structure/content two-face account, where the pillars and the two faces meet. Was waiting on the reality pillars; now unblocked.
 - **Tracked follow-on:** when the pluralism subject lands (Phase 1), revisit the politics **Branch-3 cross-links** (`/positioning/subjects/p/political-philosophy/the-one-and-the-many/`). They currently point at the value-pluralism strand on the pluralism *close-affinity* page (SPLectrum-side) because no pluralism *subject* existed; once it does, repoint them subject-to-subject so the within-positioning fabric stays outside-context.
 
 ## The three-layer pattern (governs the pluralism rework too)
@@ -56,5 +55,4 @@ Build fresh around the mapping exercise. Takes the relocated seed-threads from P
 
 - Pluralism subject bundle shape (single landing + which branches).
 - Whether the pluralism affinity page is one piece or a per-stream bundle.
-- Where the reality-side interrelational-pluralism piece sits relative to the (now-built) reality pillars.
 - Ontology affinity ↔ pluralism affinity: which page owns the vocabulary-is-language-specific reading, to avoid writing Goodman/Putnam twice (provisional: ontology affinity owns the entity angle, points to pluralism affinity for the general "many, none privileged").
