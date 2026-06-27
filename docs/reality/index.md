@@ -32,7 +32,7 @@ The pillars of SPLectrum's metaphysics show some substantial differences with re
 - **[Epistemology](/reality/epistemology/)** — we learn from private experience and sharing. There is no absolute objectivity, only converged subjectivity.
 - **[Ontology](/reality/ontology/)** — Reality discloses itself through the concepts of the language medium. There are no separate things.
 - **[Aesthetics](/reality/aesthetics/)** — About the dynamics of meaning and language, the relational interplay of concepts and concept sets.
-- **Ethics** — The values that emerge from a subject's language (game) medium, the subject's relation with and attitude towards its reality.
+- **[Ethics](/reality/ethics/)** — The values that emerge from a subject's language (game) medium, the subject's relation with and attitude towards its reality.
 - **Politics** — the art of coexistence of diverse communities, built on what is held common in understanding, aiming for a dynamic equilibrium across all differences.
 
 ## Evolution

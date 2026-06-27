@@ -45,4 +45,4 @@ The position settles in no single stance. Disclosure supplies the private pole �
 
 ---
 
-See also: [Epistemology — the naturalistic turn](/positioning/subjects/e/epistemology/) (subject) · [Metaphysics](/positioning/subjects/m/metaphysics/) (the perennial enterprise-stances) · [Pluralism](/positioning/close-affinity/pluralism/)
+See also: [Epistemology — the naturalistic turn](/positioning/subjects/e/epistemology/) (subject) · [Metaphysics](/positioning/subjects/m/metaphysics/) (the perennial enterprise-stances) · [Ethics (close affinity)](/positioning/close-affinity/ethics/) — the same convergence, read in the holding of values · [Pluralism](/positioning/close-affinity/pluralism/)

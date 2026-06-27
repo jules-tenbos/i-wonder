@@ -35,4 +35,4 @@ The root of "a being by its difference from the others" sits in the study of lan
 
 ---
 
-See also: [Metaphysics](/positioning/subjects/m/metaphysics/) (the territory this reads across) · [Epistemology (close affinity)](/positioning/close-affinity/epistemology/) — the same tooling in the learning loop · [Aesthetics (close affinity)](/positioning/close-affinity/aesthetics/) — the concepts in motion · [Pluralism](/positioning/close-affinity/pluralism/)
+See also: [Metaphysics](/positioning/subjects/m/metaphysics/) (the territory this reads across) · [Epistemology (close affinity)](/positioning/close-affinity/epistemology/) — the same tooling in the learning loop · [Aesthetics (close affinity)](/positioning/close-affinity/aesthetics/) — the concepts in motion · [Ethics (close affinity)](/positioning/close-affinity/ethics/) · [Pluralism](/positioning/close-affinity/pluralism/)

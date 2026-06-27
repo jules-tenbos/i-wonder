@@ -38,6 +38,7 @@ These are subjects of importance to SPLectrum, referenced within the site.
 ## E
 
 - [Epistemology — the naturalistic turn](e/epistemology/) · philosophy, history of ideas<span class="kw">the one move the metaphysics map has no slot for — epistemology renegotiating its border with empirical inquiry: the analysis of knowledge and its collapse after Gettier, Quine's naturalizing handover, the externalist turn hinged on reliabilism, the social turn, and Williamson's knowledge-first counter-move</span>
+- [Ethics](e/ethics/) · philosophy<span class="kw">how moral philosophy is structured — the normative theories of what to do, and beneath them the metaethical question of what a moral claim is: realism, error theory, expressivism, constructivism, relativism, and the form-of-life line that rejects the frame</span>
 
 ## G
 

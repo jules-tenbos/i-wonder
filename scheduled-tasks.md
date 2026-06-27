@@ -17,6 +17,12 @@ Plan work and research tracking.
 ## Positioning entries needed
 
 - [ ] **Enactivism** (subject) — surfaced building the metaphysics straddles page; currently an external link. Varela has a person page; Thompson / Di Paolo / Noë do not.
+- [ ] **Metaethics person pages** (persons) — the metaethical line the ethics close-affinity page (`/positioning/close-affinity/ethics/`) reads across; all currently external links. Pull internal:
+  - **Mackie** — error theory, "no objective values," argument from relativity. The anti-realist territory SPLectrum rhymes-and-parts-with. High value.
+  - **Blackburn** (load-bearing) and **Gibbard** — quasi-realism / expressivism, the closest-rhyme zone (ethics as the stance a form of life holds). At least Blackburn internal.
+  - **Ayer** — emotivism, the origin form of expressivism; likely already relevant via the logical-positivism thread on the epistemology side.
+  - **Harman** — moral relativism + the explanatory argument; the sharp modern relativist = the strong-but-partial pole (shares game-relativity; the common-base is where SPLectrum parts). High value for the where-it-stops.
+  - **Wong** — pluralistic/pragmatic relativism, the most SPLectrum-adjacent relativist (relativism with constraints, not anything-goes); the figure who most pre-figures the common-base move. Richest partial-rhyme.
 
 ## Real Life
 

@@ -47,19 +47,19 @@ Each ring holds **pieces** — topic-driven thematic arcs that walk through pers
 
 ### Format of a piece
 
-A piece typically names its angle in the opening, organises the walk-through by sub-dimensions where useful (e.g. metaphysical, epistemological, linguistic, value, political), gives each thinker a short paragraph stating what they contribute to the angle and where they stop, and closes with a synthesis section that shows what the seed assembles from the strands. Cross-links into person/subject pages do the situating work — the piece itself stays focused on its angle, not on full treatments of any individual thinker.
+A piece names the SPLectrum position once in the opening — in SPLectrum's own voice, that is the one place it speaks as itself — then walks the territory showing where that position's dynamic surfaces across the field, organised by sub-dimensions where useful (e.g. metaphysical, epistemological, linguistic, value, political). Each section takes a strand of the field and shows the dynamic turning up in it; cross-links into person/subject pages do the situating work — the piece stays on its angle, not on full treatments of any individual thinker. After the opening, SPLectrum disappears as a grammatical subject: the field is what the sentences are about, the dynamic is what they point to.
 
 ### Where SPLectrum sits in a piece
 
-Side-by-side, not above. SPLectrum appears as one voice within the piece's frame, in three main forms:
+Side-by-side, not above — and after the opening statement, **shown rather than spoken**. The mode is illustration: *look here, the dynamic shows up under this tradition's name, and again under that one.* The traditions illustrate that the move is a natural one, already half-made in the field; the resonance flows from the traditions to the move, never the reverse.
 
-- **Inline notes** where a thinker's move rhymes with a specific seed principle, named explicitly (e.g. "That rhymes with P4 — equal standing in potential, no privilege in principle").
-- **Picking up where a thinker stops** — "X did not pursue the other half: that incommensurable languages can still interact and produce new language" — describing what the seed takes further along the same line.
-- **A closing positioning or synthesis section** where the piece's reading is brought together, naming what each strand reaches from its own angle and what the seed assembles across them.
+The structural test is the grammatical subject of each section. **The field is the subject; the dynamic is shown surfacing in it** — "the dynamic shows up most plainly in…", "in Brandom's scorekeeping it shows undisguised", "the dynamic shows by where it is *not*." When SPLectrum becomes the subject running a comparison — *SPLectrum hooks on / reads it the same way / does not make that move / puts the values where X does not* — the piece has slipped into comparison, not resonance, even if every grading word is gone. This is the failure to catch at the section-shape level, before the prose: a section titled as a verdict (*The realist contrast*, *Where relativism stops*) instead of a phenomenon (*Values placed outside the game*, *Game-relativity with a shared base*) is the tell.
+
+Within that mode, a thinker's rhyme with a specific seed principle can be named inline ("that rhymes with P4 — equal standing in potential, no privilege in principle"). A light forward note is allowed *only where it earns its place* — "and the same reading carries on to X" — stated as continuation, never as the tradition's failure to cross a line. Often no forward note is needed; the illustration stands alone.
 
 ### Resonance only
 
-All three rings sit on the side of compatibility — the test being that the thinker's language and SPLectrum's can sit side by side. Limits and stopping points are named — that is part of mapping the territory honestly — but framed as additive ("Stays within human conversation — does not extend the gradient below the human") rather than adversarial. The shape is: here is what this thinker reaches; here is where they stop; here is where the seed picks up what they did not take further. Material whose vocabulary is in conflict — where the languages can't sit side by side — belongs on the fence.
+All three rings sit on the side of compatibility — the test being that the thinker's language and SPLectrum's can sit side by side. **Drop the "where it stops" grading.** A tradition's own boundaries belong on its person/subject page; pulled into a resonance walk they read as deficiency-scoring and tip the piece into verdict. No "closest," "near-miss," "still only," no scoring of how close a tradition got. Where a tradition's framing differs from the seed's, voice it as observation — a difference in reading, not a fault to fix. A contrast case is handled by letting the contrast **illuminate the position's own seat** ("same values, two seats — one outside the practice, one inside it"), never by the piece litigating which seat wins. Material whose vocabulary is genuinely in conflict — where the languages can't sit side by side, and the conflict has to be worked through — belongs on the fence, not here.
 
 ### Register
 
@@ -70,6 +70,8 @@ Matter-of-fact, structural, topical. Site register, not blog register. The same 
 ### Landing pages
 
 Brief framing of what the ring is for (one or two paragraphs at most), followed by an index of the pieces within with short descriptions. Matter-of-fact, same register as the pieces. No claims about what the ring "reveals" or "shows" — it holds pieces; the pieces do the work.
+
+Where a piece is a bundle — a landing/hub page plus branch pieces — a branch must not foreclose what the hub holds open. When the hub commits to keeping a question open (e.g. the aesthetics surface holds the meaning↔truth question open, "not foreclosed here"), the branches stay illustrative on it: state a thinker's position as theirs (Derrida's "never comes fully to rest"), and frame the contested matter as the open question, never as a settled verdict. A branch saying more than its hub does — watch flat clauses like "belonging is X rather than Y" — is the tell.
 
 ## On the fence
 
@@ -110,7 +112,7 @@ The reference function rests on the same discipline. A site whose person pages a
 - Person/subject pages: the entire page is outside voice — no SPLectrum vocabulary, no seed references, no quiet pointers. State what the thinker said and did. Don't reframe the thinker's concepts in SPLectrum terms.
 - The failure mode to watch for on person/subject pages: sentences that frame a thinker as confirming or leading to the seed, or that put SPLectrum and the thinker in a sentence together. Each is a signal that the SPLectrum-side reading is intruding where another bucket is built to hold it.
 - Person pages stay bounded to the person and their work. Where a thinker's work has given rise to a tradition under their name, the tradition's afterlife — schools, contested theory-receptions, appropriations, mutations — belongs on the subject page, not the person page.
-- Seed / close / wider: topic-driven pieces walking through thinkers and subjects under a chosen angle, with SPLectrum threaded alongside. Resonance only — limits noted as additive (where the seed picks up), not as dissonance. Landing pages frame the ring briefly and index the pieces.
+- Seed / close / wider: topic-driven pieces that state the SPLectrum position once in the opening, then show its dynamic surfacing across the field. Resonance only, shown not spoken — the field is the grammatical subject of each section, not SPLectrum running a comparison. Drop "where it stops" grading; let a contrast case illuminate the position's own seat rather than litigating it. Check the mode at the section-shape level (a section titled as a verdict is the tell), not only sentence by sentence. Landing pages frame the ring briefly and index the pieces.
 - Fence: the only surface where dissonance is engaged. Layered framing, equal standing, reasoning discipline, reference-not-re-walk, show-don't-tell, place grammar — see the On the fence subsection above for the full discipline.
 - See also on person/subject pages: within-positioning interlinking primary; SPLectrum-side links separate or omitted; empty is honest.
 - When creating a new person or subject page, add it to the landing page index (`/positioning/persons/` or `/positioning/subjects/`). The page does not exist for readers until it is linked from the index.
