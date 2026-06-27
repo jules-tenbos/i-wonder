@@ -2,7 +2,7 @@
 
 Working document. A map of candidate close affinities in linguistics, developmental psychology, and learning to the SPLectrum mechanics — the process-theory engine running under epistemology, ontology, and aesthetics. Organised by joint of the mechanics, not by discipline, so coverage and gaps are visible. Placement decisions (person / subject / close-affinity piece / reality-pillar feed) are deferred — this round maps the field so research can go deep and decide on evidence.
 
-> **Coverage claims verified against the repo 2026-06-27.** All "genuinely absent" candidates confirmed absent; all "on-site already" material confirmed present (Sapolsky is a bundle at `persons/s/sapolsky/`, not a flat file; von Uexküll at `persons/v/von-uexkull.md`). The AI information-field cross-bleed is real — `plan/ai-information-field.md` already names "the cauldron and the embedding space" / "embedding-space-as-language" as targets.
+> **Coverage claims verified against the repo 2026-06-27.** All "genuinely absent" candidates confirmed absent; all "on-site already" material confirmed present (Sapolsky is a bundle at `persons/s/sapolsky/`, not a flat file; von Uexküll at `persons/v/von-uexkull.md`). The AI information-field cross-bleed is real — `plan/submissions/ai-information-field.md` (in the submissions backlog) already names "the cauldron and the embedding space" / "embedding-space-as-language" as targets; pull it back toward active when this strand reaches the relational-primitive joint.
 
 ## What this is for
 

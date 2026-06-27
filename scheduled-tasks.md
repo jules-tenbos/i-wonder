@@ -2,18 +2,15 @@
 
 Plan work and research tracking.
 
+**Active sequence:** language-mechanics affinities next (it supports the core-metaphysics engine — strengthens the floor under epistemology/ontology/aesthetics, where the framework is most exposed at the mixing gap), then the pluralism rework (the capstone that matures the interrelational-pluralism stance on top of the now-settled pillars). Engine before capstone.
+
 ## Research
 
-- [ ] **AI information field** — long-running build. First decision open: thin hub subject or fence piece first. Scoped in `plan/ai-information-field.md`. Not started.
-- [ ] **Language-mechanics close affinities** — field map of linguistics / developmental-psychology / learning candidates touching the seed-side process engine (under epistemology/ontology/aesthetics). Scoped in `plan/language-mechanics-affinities.md`. Genuinely-absent constellation: Vygotsky, Tomasello, Thelen, Kelly, Di Paolo, Berger & Luckmann, plus cognitive-linguistics (Lakoff, Fauconnier, Bybee, Harris, Firth). Two flagged shapes: the *mixing gap* (combinatorial mixing least-companioned — where the framework is most exposed/original) and the *divergence↔convergence tension* (Kelly vs Vygotsky, meeting at coupling — likely the organising angle). Cross-bleeds with the AI information-field plan (embedding-space/cauldron). Berger-and-Luckmann subject promotion has **no territory clash** — no existing sociology-of-knowledge/social-construction subject. Not started; next: pressure-test the mixing gap, scope which candidates go deep first.
-
-## Reality section
-
-- [ ] **Politics positioning grounding** — light pass needed before distinctive positioning claims go live. Arendt, Habermas, Rancière at minimum.
+- [ ] **Language-mechanics close affinities** *(next)* — field map of linguistics / developmental-psychology / learning candidates touching the seed-side process engine (under epistemology/ontology/aesthetics). Scoped in `plan/language-mechanics-affinities.md`. Genuinely-absent constellation: Vygotsky, Tomasello, Thelen, Kelly, Di Paolo, Berger & Luckmann, plus cognitive-linguistics (Lakoff, Fauconnier, Bybee, Harris, Firth). Two flagged shapes: the *mixing gap* (combinatorial mixing least-companioned — where the framework is most exposed/original) and the *divergence↔convergence tension* (Kelly vs Vygotsky, meeting at coupling — likely the organising angle). Cross-bleeds with the AI information-field submission (embedding-space/cauldron). Berger-and-Luckmann subject promotion has **no territory clash** — no existing sociology-of-knowledge/social-construction subject. Not started; next: pressure-test the mixing gap, scope which candidates go deep first.
 
 ## Pluralism + the metaphysics pillars
 
-- [ ] **Major multi-phase plan** in `plan/pluralism-and-pillars.md`: rework the pluralism close-affinity page into a subject + a real affinity reading (the mapping exercise), and stand up the remaining pillar verticals (ethics, politics) — subject + affinity + reality pillar each. Aesthetics, epistemology, ontology done. Pluralism rework (Phases 1–2) not started.
+- [ ] **Pluralism rework** in `plan/pluralism-and-pillars.md`: rework the pluralism close-affinity page into a subject + a real affinity reading (the mapping exercise). Phases 1–2, not started. Plus the now-unblocked reality-side interrelational-pluralism piece. When the pluralism subject lands, revisit the politics Branch-3 cross-links (tracked in the plan).
 
 ## Positioning entries needed
 
@@ -28,4 +25,11 @@ Plan work and research tracking.
 ## Real Life
 
 - [ ] **SPLectrum 101** — in progress at `/real-life/spl/splectrum-101/`. Uncommitted working draft: a diagram-style overview (top box "SPLectrum / Reality in Language"; second row Language + Reality; core values belonging/privacy/creativity; the five pillars as plain-language questions — how we learn, how we label, how we structure, our values, how we live together). Prose sketch only so far; needs shaping into the actual diagram + finished layman's intro.
+
+## Submissions (scoped, not in the active plan yet)
+
+Backlog of scoped work awaiting its turn — kept in `plan/submissions/`, out of the active sequence above.
+
+- **AI information field** — long-running build; will come into focus as important, not yet. First decision open: thin hub subject or fence piece first. Scoped in `plan/submissions/ai-information-field.md`. Couples to the language-mechanics strand (embedding-space/cauldron) — likely pulled toward active when that strand reaches the relational-primitive joint.
+- **Time topic for the Reality section** — a piece on time (assembly theory, historicity) alongside discovery/evolution; explicitly not for the current launch window. Scoped in `plan/submissions/reality-time.md`.
 

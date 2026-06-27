@@ -1,36 +1,29 @@
-# Plan: Pluralism rework + pillar-field subjects
+# Plan: Pluralism rework
 
 Working plan. Sequencing and scope subject to revision. Detailed research done as and when each artifact is reached, not upfront.
 
 ## Status
 
-Aesthetics, epistemology, and ontology complete end-to-end (the template; ontology has no subject page — metaphysics map is its territory). Metaphysics map (subject + affinity) live. Remaining: ethics, politics verticals; pluralism rework (Phases 1–2) not started.
+All five pillar verticals are complete (aesthetics, epistemology, ontology, ethics, politics) — that thread of this plan is done and removed. What remains:
 
-## What this plans
+- **Pluralism rework (Phases 1–2)** — not started. Rework the pluralism close-affinity page into its proper architecture: a subject (territory) and a real affinity reading (the mapping exercise), instead of one page doing both jobs.
+- **Reality-side interrelational-pluralism piece** — the structure/content two-face account, where the pillars and the two faces meet. Was waiting on the reality pillars; now unblocked. Overlaps the reality-section candidates in `plan/metaphysics-build.md` — coordinate the two.
+- **Tracked follow-on:** when the pluralism subject lands (Phase 1), revisit the politics **Branch-3 cross-links** (`/positioning/subjects/p/political-philosophy/the-one-and-the-many/`). They currently point at the value-pluralism strand on the pluralism *close-affinity* page (SPLectrum-side) because no pluralism *subject* existed; once it does, repoint them subject-to-subject so the within-positioning fabric stays outside-context.
 
-Two coupled threads that surfaced together:
+## The three-layer pattern (governs the pluralism rework too)
 
-1. **Reworking the pluralism close-affinity page** into its proper architecture — a subject (territory) and a real affinity reading (the mapping exercise), instead of one page doing both jobs.
-2. **Standing up the missing pillar-field subjects** — ethics and politics — as outside-context territory, so the affinity rings and eventually the reality-side pillar pages have ground to delegate to. (Aesthetics and epistemology are built; ontology needs no subject.)
+The pluralism rework is itself a subject + affinity build, so the pillar pattern applies:
 
-## The three-layer pattern (applies to every pillar and to pluralism)
+- **Subject (neutral territory).** The field on its own terms, full breadth, no SPLectrum vocabulary. Broad coverage carried largely by external links. Touchstone over comprehensive.
+- **Affinity (reading across).** SPLectrum read alongside the field — where it resonates. The seed is one voice, side by side, not above. Resonance, not convergence-claim.
 
-The same arrangement repeats, and the build sequence follows it left to right:
-
-- **Subject (neutral territory).** The field on its own terms, full breadth, no SPLectrum vocabulary. Broad coverage carried largely by external links — the overlap with SPLectrum is small, so the page stays light and the link network does the depth work. Touchstone over comprehensive.
-- **Affinity (reading across).** SPLectrum read alongside the field — where it resonates, where each strand reaches and stops. The seed is one voice, side by side, not above. Resonance, not convergence-claim.
-- **Reality pillar (pure own-terms).** SPLectrum's own account, derived from the seed, no other framework in the room. Value-terms direct; P-language not routed through.
-
-**Dependency arrow runs subject → affinity → reality only loosely.** Build-order is not logical dependency. The reality pillar derives from the seed, *not* from the subject page. The subject page existing first is for orientation — walking the terrain before writing the own-terms account, and giving the affinity ring somewhere to hold resonance so it doesn't leak into the reality side. If a pillar can't be written without its subject page as content-support, the seed-derivation isn't settled yet, and that — not the subject page — is the thing to work on.
+(The reality pillar is the third layer of the pattern, but all five reality pillars are built; pluralism has no reality pillar of its own — it is read across, not a sixth pillar.)
 
 ## Settled notes from discussion
 
-- The five pillars are: aesthetics, ontology, epistemology, ethics, politics. The 3+2 structural split (aesthetics/ontology/epistemology as machinery, ethics/politics as derived) belongs to machinery exposition, not to reality-side pieces.
-- The pillar pages do **not** depend on the pluralism work, nor on each other's subject pages, as prerequisites.
-- The pillar *subjects* are broad-but-externally-linked: small SPLectrum overlap, so most breadth is external citation.
 - The pluralism subject is likely a **bundle** (landing + branches), like aesthetics and CAS.
 - The pluralism affinity page is built around the **mapping exercise** (below) and may itself grow into a bundle with per-stream analysis pages.
-- The mapping exercise is **affinity material, not reality-side.** Even though it is SPLectrum-heavy, the presence of other streams being read keeps it affinity-side. The reality section is pure SPLectrum work.
+- The mapping exercise is **affinity material, not reality-side.** Even though it is SPLectrum-heavy, the presence of other streams being read keeps it affinity-side.
 
 ## The mapping exercise (affinity-ring method)
 
@@ -59,27 +52,9 @@ Convert the existing close-affinity page into the pluralism **subject**. Most of
 ### Phase 2 — Pluralism affinity page (real affinity, built on the exercise)
 Build fresh around the mapping exercise. Takes the relocated seed-threads from Phase 1 plus the new exercise structure. May grow into a bundle with per-stream pages (Rorty as calibration corner first, then streams placed against it). Delegates breadth to the Phase 1 subject.
 
-### Phase 3 — Pillar-field subjects (territory)
-Stand up the missing pillar-field subjects as broad, externally-linked neutral territory. Adjacent subjects (phenomenology, philosophy of science, pragmatism, process philosophy, cosmopolitics) are cross-link targets. Sequence among them is open.
-
-- Ethics subject — **built** (`/positioning/subjects/e/ethics/`, single page, metaethics-weighted). Affinity + reality also done.
-- Politics subject — **green-lit shape: landing + 4 branches.** Branches: (1) Authority, legitimacy, and justice; (2) Liberty and the self; (3) **The one and the many — coexistence of diverse communities** (the deepened branch, where the framework later reads across); (4) Power, critique, and the radical traditions. Guards on the build:
-  - **Berlin split (depth-delegation within the bundle):** value-pluralism has two homes by aspect. The *thesis* (irreducible, incommensurable conflicting values; vs monism and vs relativism) lives in Branch 2 / landing; the *political payoff* (coexistence arrangements that follow — Berlin → Galston) lives in Branch 3. Branch 3 references the thesis and points to it, never re-walks the whole Berlin story. Don't tell Berlin twice.
-  - **Branch 3 guard:** extra depth, **invisible motivation** — nothing on the page hints *why* it carries more, no lean toward what SPLectrum later uses (same lesson as the Foot/Hursthouse reread on the ethics subject). Full on its own terms.
-  - **Cross-link tension (tracked, non-blocking):** Branch 3 currently cross-links the value-pluralism strand on the pluralism *close-affinity* page (SPLectrum-side), because the pluralism *subject* rework is pending (Phases 1–2). When the pluralism subject lands, revisit Branch 3's cross-links so the within-positioning fabric points subject-to-subject (outside-context).
-
-(Ontology needs no subject — the metaphysics map is its territory.)
-
-### Phase 4 — Pillar-field affinity readings
-Where each pillar field resonates with SPLectrum, read across the Phase 3 territory. One per pillar, or folded as the material asks.
-
-### Phase 5 — Reality-side pillar pages (pure SPLectrum)
-The own-terms pillar pages, derived from the seed. Ethics and politics to follow. The reality-side interrelational-pluralism work (structure/content two-face account, where the pillars and the two faces meet) lives here too — this is the furthest-out work and the one place where settled pillar derivations genuinely matter as a prerequisite. (This phase overlaps the reality-section candidates in `plan/metaphysics-build.md`; coordinate the two.)
-
 ## Open decisions to settle as phases are reached
 
 - Pluralism subject bundle shape (single landing + which branches).
 - Whether the pluralism affinity page is one piece or a per-stream bundle.
-- Sequence within Phase 3 (ethics or politics first).
-- Where the reality-side interrelational-pluralism piece sits relative to the reality pillars (it may need them settled first).
+- Where the reality-side interrelational-pluralism piece sits relative to the (now-built) reality pillars.
 - Ontology affinity ↔ pluralism affinity: which page owns the vocabulary-is-language-specific reading, to avoid writing Goodman/Putnam twice (provisional: ontology affinity owns the entity angle, points to pluralism affinity for the general "many, none privileged").
