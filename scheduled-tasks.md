@@ -5,6 +5,7 @@ Plan work and research tracking.
 ## Research
 
 - [ ] **AI information field** — long-running build. First decision open: thin hub subject or fence piece first. Scoped in `plan/ai-information-field.md`. Not started.
+- [ ] **Language-mechanics close affinities** — field map of linguistics / developmental-psychology / learning candidates touching the seed-side process engine (under epistemology/ontology/aesthetics). Scoped in `plan/language-mechanics-affinities.md`. Genuinely-absent constellation: Vygotsky, Tomasello, Thelen, Kelly, Di Paolo, Berger & Luckmann, plus cognitive-linguistics (Lakoff, Fauconnier, Bybee, Harris, Firth). Two flagged shapes: the *mixing gap* (combinatorial mixing least-companioned — where the framework is most exposed/original) and the *divergence↔convergence tension* (Kelly vs Vygotsky, meeting at coupling — likely the organising angle). Cross-bleeds with the AI information-field plan (embedding-space/cauldron). Berger-and-Luckmann subject promotion has **no territory clash** — no existing sociology-of-knowledge/social-construction subject. Not started; next: pressure-test the mixing gap, scope which candidates go deep first.
 
 ## Reality section
 

@@ -33,4 +33,4 @@ Surfacing the collisions is as far as ethics reaches. *Managing* them — the st
 
 ---
 
-See also: [The core values and the metaphysics they disclose](/reality/core-values/) · [Epistemology — learning and knowing](/reality/epistemology/) · [Aesthetics — the dynamics of meaning](/reality/aesthetics/) · [Ethics (close affinity)](/positioning/close-affinity/ethics/) — where this account is read across the field
+See also: [The core values and the metaphysics they disclose](/reality/core-values/) · [Politics — the dynamic of coexistence](/reality/politics/) — where the surfaced collisions are lived out · [Epistemology — learning and knowing](/reality/epistemology/) · [Aesthetics — the dynamics of meaning](/reality/aesthetics/) · [Ethics (close affinity)](/positioning/close-affinity/ethics/) — where this account is read across the field

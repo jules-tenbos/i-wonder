@@ -17,6 +17,7 @@ Thinkers and frameworks that share close structural affinity with SPLectrum — 
 - [Metaphysics](metaphysics) — SPLectrum's metaphysics as disclosure from the subject's seat, relational and with the mirror set aside, and the aspects of that dynamic surfacing across the field's approaches
 - [Ontology](ontology) — SPLectrum's entities as the concepts of the language medium, held at rest, read across the framework-relativity line, relations as what constitute an entity, and value-by-difference as the root of the relational
 - [Pluralism](pluralism) — the pluralist landscape across philosophy's dimensions, and where interrelational pluralism sits among them
+- [Politics](politics) — SPLectrum's politics as the dynamic of coexistence among diverse actors, read off the configuration at every scale and worked from what is held in common: the one-and-the-many as the field's standing concern, arrangements built from the shared, coexistence as ongoing contest, and the single actor as a political site
 - [Wittgenstein](/positioning/persons/w/wittgenstein/) — language games, forms of life, meaning as use. The materials for a structural account, without the construction.
 
 See also: [Seed trajectories](/positioning/seed/) — the historical paths leading to the seed.

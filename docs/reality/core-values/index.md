@@ -31,7 +31,7 @@ These values are sufficient to lay out the nature of the five pillars.
 
 **[Ethics](/reality/ethics/) — the values a language game holds.** It can be the ethics of the language game in its entirity, or of an actor within. Since agreement is based on convergent subjectivity, it is necessary to approach ethics from a common base of understanding - this can be in agreement or disagreement. So the same configuration of values stands differently depending on the frame: read from the inside, within the subject's own language game, it may be wholly coherent; read from the outside, from the community's shared game, it may not hold at all. The inclusion of a common base of understanding adds a richness - a whole new register to play in - and makes the ethics applicable in a wider scope of subjects and communities.
 
-**Politics — the art of coexistence of diverse communities.** Politics is concerned with the discourse between communities and this is built on what is held common in understanding, both in agreement and disagreement. These interactions typically aim for a dynamic equilibrium across all differences between the communities.
+**[Politics](/reality/politics/) — the dynamic of coexistence.** Where ethics reads the values an actor holds toward the other, politics is the dynamic of living-together among diverse actors who each hold their own — run at every scale, from a single subject reconciling its own colliding memberships to communities sharing a world. It is named as a field of concern, the whole range of living-together from deep common ground to its breakdown, not by any one successful state.
 
 ---
 

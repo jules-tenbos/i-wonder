@@ -33,7 +33,7 @@ The pillars of SPLectrum's metaphysics show some substantial differences with re
 - **[Ontology](/reality/ontology/)** — Reality discloses itself through the concepts of the language medium. There are no separate things.
 - **[Aesthetics](/reality/aesthetics/)** — About the dynamics of meaning and language, the relational interplay of concepts and concept sets.
 - **[Ethics](/reality/ethics/)** — The values that emerge from a subject's language (game) medium, the subject's relation with and attitude towards its reality.
-- **Politics** — the art of coexistence of diverse communities, built on what is held common in understanding, aiming for a dynamic equilibrium across all differences.
+- **[Politics](/reality/politics/)** — the dynamic of coexistence among diverse actors who each hold their own values, at every scale from the single subject's colliding memberships to communities in contact.
 
 ## Evolution
 
