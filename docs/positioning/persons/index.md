@@ -161,6 +161,7 @@ Individual thinkers referenced across the positioning section. Each page present
 
 - [Kant, Immanuel (1724–1804)](k/kant) · philosopher<span class="kw">the Copernican revolution, phenomena and noumena, the categories, the moral law</span>
 - [Kauffman, Stuart (1939–)](k/kauffman) · theoretical biologist<span class="kw">self-organisation, autocatalytic sets, NK landscapes, the adjacent possible</span>
+- [Kelly, George (1905–1967)](k/kelly) · psychologist<span class="kw">personal construct psychology, constructive alternativism, the person as anticipator, bipolar constructs, the Repertory Grid, fixed-role therapy</span>
 - [Kierkegaard, Søren (1813–1855)](k/kierkegaard) · philosopher<span class="kw">the three stages of existence, the leap of faith, indirect communication, anxiety and despair, the individual</span>
 - [Kimura, Motoo (1924–1994)](k/kimura) · population geneticist<span class="kw">neutral theory of molecular evolution, diffusion equations, molecular clock, drift vs selection</span>
 - [Kitcher, Philip (1947–)](k/kitcher) · philosopher of science<span class="kw">the organisation of cognitive labour, the critique of sociobiology, mathematical naturalism, scientific progress</span>
