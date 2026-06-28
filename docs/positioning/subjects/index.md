@@ -68,6 +68,7 @@ These are subjects of importance to SPLectrum, referenced within the site.
 - [Political philosophy](p/political-philosophy/) · philosophy<span class="kw">how people ought to live together — the recurring questions of authority, justice, liberty and the collective; the traditions that answer them differently; and the standing disputes (liberal–communitarian, the justice debates, legitimacy, value-pluralism) the field actually lives in</span>
 - [Pragmatism](p/pragmatism) · philosophy<span class="kw">meaning as consequence, truth as convergence: Peirce, Dewey, Rorty</span>
 - [Process philosophy](p/process-philosophy) · philosophy<span class="kw">becoming over being, events over substances: Bergson, Whitehead, Hegel</span>
+- [Psychoanalysis](p/psychoanalysis) · psychology<span class="kw">Freud's theory of the unconscious and the schools that followed: ego psychology, object relations, self psychology, Lacan, attachment, the relational turn; its contested science and its humanities afterlife</span>
 
 ## R
 

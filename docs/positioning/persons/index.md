@@ -109,6 +109,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Fodor, Jerry (1935–2017)](f/fodor) · philosopher of mind<span class="kw">the modularity of mind, the language of thought, the critique of adaptationism, computational cognitive science</span>
 - [Foot, Philippa (1920–2010)](f/foot) · philosopher<span class="kw">neo-Aristotelian naturalism, natural goodness, the trolley problem, virtue ethics revived</span>
 - [Frege, Gottlob (1848–1925)](f/frege) · logician, philosopher<span class="kw">modern logic, sense and reference, the concept-script, anti-psychologism</span>
+- [Freud, Sigmund (1856–1939)](f/freud) · founder of psychoanalysis<span class="kw">the dynamic unconscious, repression, dreams, the Oedipus complex, transference, the id/ego/superego</span>
 
 ## G
 
@@ -156,6 +157,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Jakobson, Roman (1896–1982)](j/jakobson) · linguist, literary theorist<span class="kw">the six functions of language, the poetic function, metaphor and metonymy, the Prague School, the bridge from Saussure to Peirce</span>
 - [James, William (1842–1910)](j/james) · philosopher, psychologist<span class="kw">pragmatism, radical empiricism, stream of consciousness, pluralism</span>
 - [Jonas, Hans (1903–1993)](j/jonas) · philosopher<span class="kw">the phenomenon of life, metabolism as selfhood, inwardness, responsibility</span>
+- [Jung, Carl Gustav (1875–1961)](j/jung) · psychiatrist, founder of analytical psychology<span class="kw">the collective unconscious, archetypes, individuation, the Self and the shadow, psychological types, synchronicity</span>
 
 ## K
 
@@ -229,6 +231,7 @@ Individual thinkers referenced across the positioning section. Each page present
 
 ## P
 
+- [Pauli, Wolfgang (1900–1958)](p/pauli) · physicist<span class="kw">the exclusion principle, electron spin and the Pauli matrices, the neutrino, the spin–statistics theorem, "not even wrong", the Jung collaboration</span>
 - [Pearson, Karl (1857–1936)](p/pearson) · statistician<span class="kw">the correlation coefficient, chi-squared test, the biometric programme, the Galton Laboratory, eugenics</span>
 - [Peirce, Charles Sanders (1839–1914)](p/peirce) · philosopher, logician<span class="kw">pragmatism, semiotics, the community of inquirers, fallibilism</span>
 - [Penrose, Roger (1931–)](r/penrose) · mathematician, physicist<span class="kw">singularity theorems, low-entropy beginning, Penrose diagrams, twistor theory, non-computability of consciousness</span>
