@@ -2,7 +2,7 @@
 
 Field-mapping output. One pass per joint of the seed-side mechanics, each surveyed wide (well beyond the named candidates) to establish what company the position keeps and where it stands alone. **No organising spine, no placement/coordination decisions here** — this is the field, on the field's own terms, so those decisions can be made later on evidence.
 
-The headline: of the seven joints, **six are heavily populated** (the position has serious, named, cross-disciplinary, cross-cultural company); **one — combinatorial mixing — is genuinely sparse**, and the sparseness survived a wide search. That asymmetry is the most important single finding and it confirms the *mixing gap* flagged in the scoping doc.
+The headline: **all seven joints are heavily populated** — the position keeps serious, named, cross-disciplinary, cross-cultural company at every joint. Combinatorial mixing looked sparse on a first pass, but only under a too-narrow test ("multiplicative combination of the inputs themselves"); read as a *family* (mixing, blending, layering, projection, fusion, recombination), it is as densely companioned as the rest. So the *mixing gap* flagged in the scoping doc **dissolves** — and the most important single finding relocates with it: the framework's original edge is not the mixing operation (which is borrowed and well-attested) but the *conjunction of three moves the field makes separately and never together* — mixing of whole **language-sets**, as a **repeatable primitive**, that is **constitutive and ungrounded**. See Joint 3 and the Shape-of-the-field section.
 
 ---
 

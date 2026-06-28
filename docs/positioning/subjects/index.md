@@ -20,6 +20,7 @@ These are subjects of importance to SPLectrum, referenced within the site.
 
 ## B
 
+- [Behaviourism](b/behaviourism/) · psychology<span class="kw">psychology as the objective science of behaviour: Watson's manifesto, Pavlov's conditioning, Skinner's operant conditioning and radical behaviourism, the applied analysis of behaviour, and the cognitive revolution that displaced it</span>
 - [Biosemiotics](b/biosemiotics/) · biology, semiotics<span class="kw">sign processes in living systems, semiosis and life coextensive: Peirce and Uexküll's foundations, Sebeok, the Copenhagen–Tartu school (Hoffmeyer, Kull), code-duality, the Barbieri code-biology split</span>
 
 ## C

@@ -56,6 +56,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Carroll, Sean (1966–)](c/carroll) · theoretical physicist<span class="kw">the arrow of time, the Past Hypothesis, many-worlds interpretation, the cosmological multiverse</span>
 - [Cassirer, Ernst (1874–1945)](c/cassirer) · philosopher<span class="kw">the philosophy of symbolic forms, the animal symbolicum, neo-Kantianism, substance and function, the Davos debate</span>
 - [Castoriadis, Cornelius (1922–1997)](c/castoriadis) · philosopher<span class="kw">the imaginary institution of society, radical imagination, autonomy as conscious self-institution, the social imaginary</span>
+- [Chomsky, Noam (1928–)](c/chomsky) · linguist, cognitive scientist<span class="kw">generative grammar, universal grammar, the poverty of the stimulus, the cognitive revolution, the Chomsky hierarchy, Manufacturing Consent</span>
 - [Clark, James (1964–)](c/clark) · software engineer<span class="kw">XML technical lead, editor of XSLT 1.0 and XPath 1.0, expat, RELAX NG, groff</span>
 - [Cohen, Hermann (1842–1918)](c/cohen) · philosopher<span class="kw">Marburg neo-Kantianism, the logic of pure cognition, the productive role of thought, ethical socialism</span>
 - [Collingwood, R. G. (1889–1943)](c/collingwood) · philosopher, historian, archaeologist<span class="kw">art as expression, corrupt consciousness, language and art interchangeable, re-enactment, absolute presuppositions</span>
@@ -232,6 +233,7 @@ Individual thinkers referenced across the positioning section. Each page present
 ## P
 
 - [Pauli, Wolfgang (1900–1958)](p/pauli) · physicist<span class="kw">the exclusion principle, electron spin and the Pauli matrices, the neutrino, the spin–statistics theorem, "not even wrong", the Jung collaboration</span>
+- [Pavlov, Ivan (1849–1936)](p/pavlov) · physiologist<span class="kw">the conditioned reflex, classical conditioning, the physiology of digestion, higher nervous activity, excitation and inhibition</span>
 - [Pearson, Karl (1857–1936)](p/pearson) · statistician<span class="kw">the correlation coefficient, chi-squared test, the biometric programme, the Galton Laboratory, eugenics</span>
 - [Peirce, Charles Sanders (1839–1914)](p/peirce) · philosopher, logician<span class="kw">pragmatism, semiotics, the community of inquirers, fallibilism</span>
 - [Penrose, Roger (1931–)](r/penrose) · mathematician, physicist<span class="kw">singularity theorems, low-entropy beginning, Penrose diagrams, twistor theory, non-computability of consciousness</span>
@@ -261,6 +263,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Rorty, Richard (1931–2007)](r/rorty) · philosopher<span class="kw">pragmatism, conversation over correspondence, contingency, solidarity</span>
 - [Rovelli, Carlo (1956–)](r/rovelli) · theoretical physicist, philosopher<span class="kw">loop quantum gravity, relational QM, time, Nagarjuna</span>
 - [Russell, Bertrand (1872–1970)](r/russell) · logician, philosopher<span class="kw">Principia Mathematica, logical atomism, the theory of descriptions, Russell's paradox</span>
+- [Ryle, Gilbert (1900–1976)](r/ryle) · philosopher<span class="kw">The Concept of Mind, the ghost in the machine, the category mistake, knowing-how vs knowing-that, ordinary-language philosophy, logical behaviourism</span>
 
 ## S
 
@@ -281,6 +284,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Shannon, Claude (1916–2001)](s/shannon) · mathematician, engineer<span class="kw">information theory, the bit, channel capacity, information entropy, Boolean circuit design</span>
 - [Simard, Suzanne (1960–)](s/simard) · forest ecologist<span class="kw">mycorrhizal networks, the wood wide web, mother trees, resource sharing through fungal connections</span>
 - [Simpson, George Gaylord (1902–1984)](s/simpson) · paleontologist<span class="kw">Tempo and Mode in Evolution, adaptive zones, rates of evolution, quantum evolution, Modern Synthesis</span>
+- [Skinner, B.F. (1904–1990)](s/skinner) · psychologist<span class="kw">operant conditioning, radical behaviourism, schedules of reinforcement, selection by consequences, Verbal Behavior, Walden Two, Beyond Freedom and Dignity</span>
 - [Smith, Adam (1723–1790)](s/smith-adam) · philosopher, political economist<span class="kw">The Wealth of Nations, The Theory of Moral Sentiments, the invisible hand, the impartial spectator</span>
 - [Smolin, Lee (1955–)](s/smolin) · theoretical physicist<span class="kw">loop quantum gravity, cosmological natural selection, the reality of time, The Trouble with Physics</span>
 - [Sober, Elliott (1948–)](s/sober) · philosopher of biology<span class="kw">multilevel selection, units-of-selection debate, the nature of natural selection, parsimony, selection-of vs selection-for</span>
@@ -316,6 +320,7 @@ Individual thinkers referenced across the positioning section. Each page present
 
 - [Walker, Sara Imari](w/walker) · theoretical physicist, astrobiologist<span class="kw">the physics of life, assembly theory, time as material property, astrobiology, Santa Fe Institute</span>
 - [Wallace, Alfred Russel (1823–1913)](w/wallace) · naturalist, geographer<span class="kw">co-discovery of natural selection, biogeography, the Wallace Line, spiritualism</span>
+- [Watson, John B. (1878–1958)](w/watson) · psychologist, founder of behaviourism<span class="kw">the behaviourist manifesto, methodological behaviourism, classical conditioning in humans, Little Albert, radical environmentalism</span>
 - [Wheeler, David (1927–2004)](w/wheeler-d) · computer scientist<span class="kw">the first assembler, the invention of the subroutine, the Wheeler jump, the EDSAC</span>
 - [Wheeler, John Archibald (1911–2008)](w/wheeler) · physicist<span class="kw">"it from bit", geometrodynamics, the delayed-choice experiment, the participatory universe, quantum gravity</span>
 - [Whitehead, Alfred North (1861–1947)](w/whitehead) · philosopher, mathematician<span class="kw">process, actual occasions, creativity, prehension</span>

@@ -3,6 +3,8 @@
 Working document. A map of candidate close affinities in linguistics, developmental psychology, and learning to the SPLectrum mechanics — the process-theory engine running under epistemology, ontology, and aesthetics. Organised by joint of the mechanics, not by discipline, so coverage and gaps are visible. Placement decisions (person / subject / close-affinity piece / reality-pillar feed) are deferred — this round maps the field so research can go deep and decide on evidence.
 
 > **Coverage claims verified against the repo 2026-06-27.** All "genuinely absent" candidates confirmed absent; all "on-site already" material confirmed present (Sapolsky is a bundle at `persons/s/sapolsky/`, not a flat file; von Uexküll at `persons/v/von-uexkull.md`). The AI information-field cross-bleed is real — `submissions/ai-information-field.md` (in the submissions backlog) already names "the cauldron and the embedding space" / "embedding-space-as-language" as targets; pull it back toward active when this strand reaches the relational-primitive joint.
+>
+> **UPDATE 2026-06-28 — field research complete.** The wide field survey is done (`plan/language-mechanics-field-research.md`). Two things this scoping doc flagged are now resolved: (1) the **mixing gap dissolves** — read as a *family* (mixing, blending, layering, projection, fusion, recombination), Joint 3 is as densely companioned as the rest; the framework's original edge relocates from the operation to the *conjunction* of three moves (whole language-sets + repeatable primitive + constitutive-and-ungrounded); (2) **Kelly is built** (`persons/k/kelly.md`) and the wider psychology cluster is now on-site (psychoanalysis, behaviourism subjects + Freud/Jung/Pauli/Pavlov/Watson/Skinner/Ryle/Chomsky persons), so this strand couples to more than it did. The candidate/placement sections below are now read against that completed map, not the pre-research guesses. Stale "most exposed / most original" framing is corrected inline.
 
 ## What this is for
 
@@ -32,7 +34,7 @@ Personal construct psychology (George Kelly). The construct system as the subjec
 
 Conceptual blending (Fauconnier and Turner): two mental spaces combine to yield emergent structure present in neither input — the most direct linguistics parallel to the mixing event. Conceptual metaphor (Lakoff and Johnson) sits one step back: mapping rather than multiplicative combination, same family.
 
-*Thinnest coverage in the field.* The multiplicative, genuinely-novel-states claim that gives the framework its combinatorial richness has the least external company — blending is emergence-in-a-blend, not quite the multiplicative cauldron. Either the seed reaches furthest past its neighbours here, or the research most needs to dig here. To be established, not assumed.
+*~~Thinnest coverage in the field.~~ — Resolved by the field research (2026-06-28).* The first-pass "thinnest coverage" read was an artifact of too narrow a test. Mixing is a **family** — mixing, blending, layering, projection/mapping, fusion, recombination, superposition, montage — unified by one signature: start with more than one held unit, get something out that exceeds the parts. On that boundary the joint is heavily populated (Fauconnier & Turner, Koestler's bisociation, Bakhtin/Barthes/Goffman on layering, recombination in genetics and combinatorics, montage in film). The originality is not the operation but its **scope** (whole language-sets, not just concepts) and **status** (a repeatable, constitutive, ungrounded primitive — no external engine). That conjunction is what the broad family, granted in full, still does not collectively assert.
 
 ### Historicity and path-landscape — the past shaping possible futures
 
@@ -52,7 +54,7 @@ Berger and Luckmann (subject candidate). The shared reality as stabilised settle
 
 ## Two observations on the shape of the field
 
-**The mixing gap.** Coverage across joints is uneven. Combinatorial mixing is the least-companioned. Worth knowing before research is scoped — it sets where the framework is most exposed and most original.
+**~~The mixing gap.~~ — Closed.** The field research found coverage *even* across all seven joints once mixing is read as a family rather than one narrow "multiplicative" form. The framework's exposed-and-original edge is no longer "nobody mixes" but the *conjunction* the field never makes: mixing of whole **language-sets** + as a **repeatable primitive** + **constitutive and ungrounded**. That conjunction, not the operation, is the original move — and it is the sharper, more defensible edge to write from.
 
 **The divergence/convergence tension.** Kelly (divergence — subject realities genuinely differ) and Vygotsky (convergence — the shared comes in and constitutes the private) pull opposite ways. Every developmental thinker leans one way; the framework needs both, and the meeting point is the coupling account. This tension is the likely organising angle for whatever close-affinity piece gets written — not a tidy thinker-by-thinker walk.
 
@@ -65,6 +67,7 @@ Berger and Luckmann (subject candidate). The shared reality as stabilised settle
 
 ## Next decisions
 
-- Pressure-test the coverage map: is the mixing gap real, or is a candidate missing?
-- Scope which candidates the research goes deep on first.
-- Confirm the Berger-and-Luckmann subject promotion against existing sociology-of-knowledge territory.
+- ~~Pressure-test the coverage map: is the mixing gap real, or is a candidate missing?~~ **Done** — coverage even across all seven joints; mixing gap dissolved; originality relocated to the scope-and-status conjunction.
+- Scope which candidates the research goes deep on first — now an evidence-based call against the completed map, not the pre-research guess. Kelly already built; the divergence/convergence thread (Kelly ↔ Vygotsky, meeting at coupling) remains the likely organising angle for the close-affinity piece.
+- Confirm the Berger-and-Luckmann subject promotion against existing sociology-of-knowledge territory — the research re-confirmed **no territory clash** (no sociology-of-knowledge / social-construction subject on-site).
+- Decide the home(s): close-affinity piece(s) organised on the divergence/convergence tension, plus the subject promotions (Berger-and-Luckmann; possibly usage-based/developmental linguistics). Build round still to come.
