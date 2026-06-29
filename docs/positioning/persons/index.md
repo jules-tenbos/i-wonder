@@ -85,6 +85,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Dewey, John (1859–1952)](d/dewey) · philosopher<span class="kw">pragmatism, democracy, inquiry as community problem-solving, experience as transaction</span>
 - [DeWitt, Bryce (1923–2004)](d/dewitt) · physicist<span class="kw">the many-worlds revival, the Wheeler-DeWitt equation, quantum gravity, the effective-action method</span>
 - [Dilthey, Wilhelm (1833–1911)](d/dilthey) · philosopher<span class="kw">the human sciences, Verstehen versus Erklären, lived experience and expression, the critique of historical reason, objective spirit</span>
+- [Di Paolo, Ezequiel (b. 1970)](d/di-paolo) · cognitive scientist, philosopher<span class="kw">the enactive approach to mind and life, autonomy and sense-making, adaptivity as the addition to autopoiesis, participatory sense-making and interactional autonomy, the linguistic body and the life–language continuity</span>
 - [Dirac, Paul (1902–1984)](d/dirac) · physicist<span class="kw">the Dirac equation, quantum field theory, antimatter, bra-ket notation, the Principles of Quantum Mechanics</span>
 - [Dobzhansky, Theodosius (1900–1975)](d/dobzhansky) · geneticist, evolutionary biologist<span class="kw">Genetics and the Origin of Species, Modern Synthesis bridge, isolating mechanisms, nothing in biology</span>
 - [Doolittle, W. Ford (1941–)](d/doolittle) · biochemist<span class="kw">the tree-of-life critique, horizontal gene transfer, the web of life, pattern pluralism</span>
@@ -237,6 +238,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Pearson, Karl (1857–1936)](p/pearson) · statistician<span class="kw">the correlation coefficient, chi-squared test, the biometric programme, the Galton Laboratory, eugenics</span>
 - [Peirce, Charles Sanders (1839–1914)](p/peirce) · philosopher, logician<span class="kw">pragmatism, semiotics, the community of inquirers, fallibilism</span>
 - [Penrose, Roger (1931–)](r/penrose) · mathematician, physicist<span class="kw">singularity theorems, low-entropy beginning, Penrose diagrams, twistor theory, non-computability of consciousness</span>
+- [Piaget, Jean (1896–1980)](p/piaget) · psychologist, genetic epistemologist<span class="kw">genetic epistemology — the developmental origins of knowledge, constructivism between nativism and empiricism, assimilation and accommodation, equilibration, the four stages, conservation and object permanence, the méthode clinique</span>
 - [Pinker, Steven (1954–)](p/pinker) · cognitive scientist<span class="kw">evolutionary psychology, language as instinct, the blank slate, the decline of violence, Enlightenment rationalism</span>
 - [Planck, Max (1858–1947)](p/planck) · physicist<span class="kw">the quantum of action, the ultraviolet catastrophe, Planck's constant, Planck's law</span>
 - [Plato (c. 428–348 BCE)](p/plato) · philosopher<span class="kw">the theory of Forms, the Republic, the cave, the divided line, mimesis, the banishment of the poets, the Academy</span>
@@ -299,6 +301,7 @@ Individual thinkers referenced across the positioning section. Each page present
 ## T
 
 - [Taylor, Charles (1931–)](t/taylor) · philosopher<span class="kw">Sources of the Self, inwardness, the dialogical self, authenticity, A Secular Age, language as constitutive expression</span>
+- [Tomasello, Michael (1950–)](t/tomasello) · psychologist<span class="kw">shared intentionality and the human-unique "we" mode, joint attention, the usage-based theory of language acquisition against universal grammar, intention-reading and pattern-finding, cultural learning and the ratchet effect, the great-ape comparison</span>
 - [Tooby, John (1952–2023)](t/tooby) · evolutionary psychologist<span class="kw">the adapted mind, the environment of evolutionary adaptedness, the Standard Social Science Model critique</span>
 - [Torvalds, Linus (1969–)](t/torvalds) · software engineer<span class="kw">the Linux kernel, Git, Subsurface, open-source infrastructure and stewardship</span>
 - [Trivers, Robert (1943–2026)](t/trivers) · evolutionary biologist<span class="kw">reciprocal altruism, parental investment, parent-offspring conflict, self-deception</span>
@@ -314,6 +317,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Von Foerster, Heinz (1911–2002)](v/von-foerster) · physicist, cyberneticist<span class="kw">second-order cybernetics, the observer in the system, eigenvalues of cognition, the Biological Computer Laboratory</span>
 - [Von Neumann, John (1903–1957)](v/von-neumann) · mathematician<span class="kw">game theory, von Neumann architecture, quantum mechanics, self-reproducing automata</span>
 - [Von Uexküll, Jakob (1864–1944)](v/von-uexkull) · biologist, theoretical biologist<span class="kw">the Umwelt, the functional circle, Merkwelt and Wirkwelt, the tick's world, the Bedeutungslehre, forerunner of biosemiotics</span>
+- [Vygotsky, Lev (1896–1934)](v/vygotsky) · psychologist<span class="kw">cultural-historical psychology, the higher mind formed from the outside in, internalisation and the general genetic law, mediation by signs, the zone of proximal development, inner speech and the dispute with Piaget</span>
 - [Vrba, Elisabeth (1942–2015)](v/vrba) · paleontologist<span class="kw">the turnover pulse hypothesis, the effect hypothesis, exaptation (with Gould), habitat theory, African mammalian macroevolution</span>
 
 ## W
