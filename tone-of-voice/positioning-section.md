@@ -67,6 +67,16 @@ Matter-of-fact, structural, topical. Site register, not blog register. The same 
 
 "Resonance with" is a pointer. "Converges with" is a claim. The piece does the structural reading without claiming the thinkers for the project — the seed is one voice the piece holds alongside the others, not the speaker holding court.
 
+### Linking
+
+The affinity ring is the seam between the field and SPLectrum — the one surface that links both ways, and the only doorway between the two bodies.
+
+- **Down into the field.** A piece links to the person and subject pages it walks — that is where the situating work happens (see *Format of a piece*). These are the ring's outward links.
+- **Up to SPLectrum.** A piece may link to SPLectrum-side surfaces (reality, the seed proper, other sections) for the positioning reading — this is the one positioning surface where that is allowed, because the ring is where SPLectrum legitimately appears.
+- **The ring is the entry point from the SPLectrum side.** A pure SPLectrum page reaching into positioning links to an **affinity ring**, never straight to a subject or person page; the ring then fans out into the field. So the field stays reachable only *through* a ring, and SPLectrum never reaches past the ring into the raw A–Z. A SPLectrum page may name a thinker in prose, but the link goes to the ring that covers them, not to `/positioning/persons/…` or `/positioning/subjects/…`.
+
+The counterpart rule — person/subject pages carry no upward links at all — is under *See also on person/subject pages*. Together: the field is sealed at the top, SPLectrum enters only at the ring, and the ring is the sole two-way chokepoint.
+
 ### Landing pages
 
 Brief framing of what the ring is for (one or two paragraphs at most), followed by an index of the pieces within with short descriptions. Matter-of-fact, same register as the pieces. No claims about what the ring "reveals" or "shows" — it holds pieces; the pieces do the work.
@@ -93,13 +103,13 @@ The only positioning surface where dissonance is engaged. Fence pages are partic
 
 Primarily within-positioning interlinking — other persons in the same intellectual neighbourhood, the subject pages that touch this person's territory. These are the natural neighbours when the page is held as outside context.
 
-SPLectrum-side links (pieces from the resonance rings that take the thinker up, any fence treatment, blog posts in conversation with the thinker) belong on the page too, but as a clearly distinct surface — a separate sub-block, or left to section navigation and breadcrumbs to do that work. The aim is that the within-positioning See also reads as part of the outside-context fabric, not as a mixed bag.
+Links flow one way only: reality → affinity rings → subjects → persons, never up. A person or subject page links **only** to other persons, subjects, or external references — never to the seed, the close-affinity or wider-landscape rings, a fence page, or any other SPLectrum-side surface. Not woven into the See also, not as a separate sub-block, not as a quiet pointer. An upward link is a link-direction breach, not a formatting question — the same intrusion as SPLectrum vocabulary in the body, just wearing a hyperlink. The resonance rings link *down* to the person; the person does not link back up. Readers reach the SPLectrum-side reading from those rings, not from here.
 
 Empty See also is acceptable when neighbour pages or subject pages don't yet exist. Honest beats filler.
 
 ## Naming
 
-Use "SPLectrum" when the project is the actor. Use "SPLectrum seed" or "the SPLectrum seed" when referring specifically to the six principles or their conditions. Do not use bare "the seed" — it needs the SPLectrum qualifier to be clear to outside readers. This naming applies wherever SPLectrum legitimately appears in the section (resonance pieces, fence pages, the SPLectrum-side block on a person page if present). It does not apply on person/subject page bodies, since SPLectrum doesn't appear there.
+Use "SPLectrum" when the project is the actor. Use "SPLectrum seed" or "the SPLectrum seed" when referring specifically to the six principles or their conditions. Do not use bare "the seed" — it needs the SPLectrum qualifier to be clear to outside readers. This naming applies wherever SPLectrum legitimately appears in the section (resonance pieces, fence pages). It does not apply on person/subject pages at all — SPLectrum doesn't appear there, in the body or the links.
 
 ## Why
 
@@ -114,5 +124,6 @@ The reference function rests on the same discipline. A site whose person pages a
 - Person pages stay bounded to the person and their work. Where a thinker's work has given rise to a tradition under their name, the tradition's afterlife — schools, contested theory-receptions, appropriations, mutations — belongs on the subject page, not the person page.
 - Seed / close / wider: topic-driven pieces that state the SPLectrum position once in the opening, then show its dynamic surfacing across the field. Resonance only, shown not spoken — the field is the grammatical subject of each section, not SPLectrum running a comparison. Drop "where it stops" grading; let a contrast case illuminate the position's own seat rather than litigating it. Check the mode at the section-shape level (a section titled as a verdict is the tell), not only sentence by sentence. Landing pages frame the ring briefly and index the pieces.
 - Fence: the only surface where dissonance is engaged. Layered framing, equal standing, reasoning discipline, reference-not-re-walk, show-don't-tell, place grammar — see the On the fence subsection above for the full discipline.
-- See also on person/subject pages: within-positioning interlinking primary; SPLectrum-side links separate or omitted; empty is honest.
+- See also on person/subject pages: within-positioning interlinking only — other persons, subjects, or external. No upward links to the seed / affinity rings / fence / any SPLectrum-side surface, not even in a separate block (link direction flows down only, never up). Empty is honest.
+- Affinity rings are the seam: they link *down* to persons/subjects and *up* to SPLectrum. A pure SPLectrum page reaches into positioning **only via a ring**, never straight to a subject/person page — the ring then fans out into the field. Name a thinker in prose if needed, but link to the ring, not the person/subject page.
 - When creating a new person or subject page, add it to the landing page index (`/positioning/persons/` or `/positioning/subjects/`). The page does not exist for readers until it is linked from the index.
