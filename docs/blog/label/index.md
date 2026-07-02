@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-04-24
+lastmod: 2026-07-02
 title: "Labels"
 description: "Browse blog posts by label on The World of SPLectrum."
 ---
@@ -14,10 +14,11 @@ description: "Browse blog posts by label on The World of SPLectrum."
     <h3>Series</h3>
     <ul>
       <li><a href="category-theory">category-theory</a> ({{ site.posts | where_exp: "p", "p.labels contains 'category-theory'" | size }})</li>
-      <li><a href="evolution">evolution</a> ({{ site.posts | where_exp: "p", "p.labels contains 'evolution'" | size }})</li>
+      <li><a href="creativity">creativity</a> ({{ site.posts | where_exp: "p", "p.labels contains 'creativity'" | size }})</li>
       <li><a href="language">language</a> ({{ site.posts | where_exp: "p", "p.labels contains 'language'" | size }})</li>
       <li><a href="positioning">positioning</a> ({{ site.posts | where_exp: "p", "p.labels contains 'positioning'" | size }})</li>
       <li><a href="preamble">preamble</a> ({{ site.posts | where_exp: "p", "p.labels contains 'preamble'" | size }})</li>
+      <li><a href="reality">reality</a> ({{ site.posts | where_exp: "p", "p.labels contains 'reality'" | size }})</li>
       <li><a href="seed">seed</a> ({{ site.posts | where_exp: "p", "p.labels contains 'seed'" | size }})</li>
     </ul>
   </div>
