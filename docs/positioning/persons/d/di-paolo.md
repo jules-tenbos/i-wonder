@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-06-29
+lastmod: 2026-07-03
 title: "Ezequiel Di Paolo (b. 1970)"
 description: "Di Paolo develops the enactive approach to mind and life — adding adaptivity to autopoiesis, and, with Hanne De Jaegher, the theory of participatory sense-making, in which social meaning is generated in the interaction itself rather than in either head."
 ---
@@ -9,7 +9,7 @@ description: "Di Paolo develops the enactive approach to mind and life — addin
 
 # Ezequiel Di Paolo (b. 1970)
 
-Di Paolo is one of the leading developers of the *enactive approach* to cognition — the view, founded by [Varela](/positioning/persons/v/varela/), Thompson, and Rosch, that the mind is not a representation of a pre-given world but the sense-making activity of an autonomous, living, embodied agent in dynamic coupling with its environment. He did not found the tradition; he deepened it, in three directions that have become reference points. He argued that the self-production of life (autopoiesis) is not by itself enough to ground meaning, and added *adaptivity*. With Hanne De Jaegher he developed *participatory sense-making*, the claim that social understanding is generated in the interaction between agents rather than inside either of their heads. And with De Jaegher and Elena Cuffari he extended the same continuum up into language, the *linguistic body*.
+Di Paolo is one of the leading developers of the [enactive approach](/positioning/subjects/e/enactivism/) to cognition — the view, founded by [Varela](/positioning/persons/v/varela/), Thompson, and Rosch, that the mind is not a representation of a pre-given world but the sense-making activity of an autonomous, living, embodied agent in dynamic coupling with its environment. He did not found the tradition; he deepened it, in three directions that have become reference points. He argued that the self-production of life (autopoiesis) is not by itself enough to ground meaning, and added *adaptivity*. With Hanne De Jaegher he developed *participatory sense-making*, the claim that social understanding is generated in the interaction between agents rather than inside either of their heads. And with De Jaegher and Elena Cuffari he extended the same continuum up into language, the *linguistic body*.
 
 [Ezequiel Di Paolo](https://en.wikipedia.org/wiki/Ezequiel_Di_Paolo) is an Argentine cognitive scientist and philosopher. (His birth year is usually given as 1970 and his birthplace as Buenos Aires, though he does not record either in his own curriculum vitae.) He came to the study of mind from the physical sciences — studies in physics and mathematics at the University of Buenos Aires, then a master's in nuclear engineering at the Instituto Balseiro — before a doctorate at the University of Sussex (1999) in the evolutionary-and-adaptive-systems tradition, on the dynamics of social coordination. Sussex, with its evolutionary-robotics and artificial-life group, was where his approach formed: cognition modelled as a brain–body–environment coupled dynamical system rather than as computation over representations. He taught there for a decade and remains a visiting professor, and since 2010 has been an Ikerbasque Research Professor at the IAS-Research Centre for Life, Mind and Society at the University of the Basque Country, in San Sebastián.
 
@@ -67,4 +67,4 @@ As a working researcher Di Paolo's account is not a closed system but a programm
 
 ---
 
-See also: [Varela](/positioning/persons/v/varela/) · [Maturana](/positioning/persons/m/maturana/) · [Autopoiesis](/positioning/subjects/a/autopoiesis/) · [Phenomenology](/positioning/subjects/p/phenomenology/)
+See also: [Enactivism](/positioning/subjects/e/enactivism/) · [Varela](/positioning/persons/v/varela/) · [Maturana](/positioning/persons/m/maturana/) · [Autopoiesis](/positioning/subjects/a/autopoiesis/) · [Phenomenology](/positioning/subjects/p/phenomenology/)

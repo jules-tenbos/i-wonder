@@ -27,6 +27,7 @@ These are subjects of importance to SPLectrum, referenced within the site.
 
 - [Category theory](c/ct/) · mathematics<span class="kw">structure through relationships rather than internal composition — objects known entirely by their arrows</span>
 - [Complex adaptive systems](c/complex-adaptive-systems/) · cross-disciplinary<span class="kw">locally interacting agents producing global order: Holland, Kauffman, Gell-Mann, Santa Fe Institute</span>
+- [Constructivism](c/constructivism/) · epistemology, psychology of learning<span class="kw">knowledge built by the knower to fit experience, not to mirror reality — Piaget's genetic epistemology, von Glasersfeld's radical version, viability not truth, the trivial and social variants, the solipsism charge</span>
 - [Cosmopolitics](c/cosmopolitics) · philosophy of science, political ecology<span class="kw">Stengers: ecology of practices, reciprocal capture, the idiot, cosmos as constructed not given</span>
 
 ## D
@@ -38,6 +39,7 @@ These are subjects of importance to SPLectrum, referenced within the site.
 
 ## E
 
+- [Enactivism](e/enactivism/) · philosophy of mind, cognitive science<span class="kw">cognition as the enactment of a world through embodied action, not representation of a pre-given one — The Embodied Mind, sense-making, the three strands (autopoietic, sensorimotor, radical), the scaling-up problem</span>
 - [Epistemology — the naturalistic turn](e/epistemology/) · philosophy, history of ideas<span class="kw">the one move the metaphysics map has no slot for — epistemology renegotiating its border with empirical inquiry: the analysis of knowledge and its collapse after Gettier, Quine's naturalizing handover, the externalist turn hinged on reliabilism, the social turn, and Williamson's knowledge-first counter-move</span>
 - [Ethics](e/ethics/) · philosophy<span class="kw">how moral philosophy is structured — the normative theories of what to do, and beneath them the metaethical question of what a moral claim is: realism, error theory, expressivism, constructivism, relativism, and the form-of-life line that rejects the frame</span>
 

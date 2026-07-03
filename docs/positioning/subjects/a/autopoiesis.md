@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-07-02
+lastmod: 2026-07-03
 title: "Autopoiesis"
 description: "Self-making systems, operational closure, and structural coupling — how autonomous entities interact without merging or determining each other."
 ---
@@ -60,4 +60,4 @@ Autopoiesis gives a precise account of how autonomous systems maintain themselve
 
 [Maturana](/positioning/persons/m/maturana/) · [Varela](/positioning/persons/v/varela/) · [Luhmann](/positioning/persons/l/luhmann/) · [Bateson](/positioning/persons/b/bateson/)
 
-See also: [Complex Adaptive Systems](/positioning/subjects/c/complex-adaptive-systems/) · [Process Philosophy](/positioning/subjects/p/process-philosophy/) · [Biosemiotics](/positioning/subjects/b/biosemiotics/)
+See also: [Complex Adaptive Systems](/positioning/subjects/c/complex-adaptive-systems/) · [Process Philosophy](/positioning/subjects/p/process-philosophy/) · [Biosemiotics](/positioning/subjects/b/biosemiotics/) · [Enactivism](/positioning/subjects/e/enactivism/)

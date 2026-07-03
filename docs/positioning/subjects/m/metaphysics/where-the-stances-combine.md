@@ -27,7 +27,7 @@ The constructive wing of [pragmatism](/positioning/subjects/p/pragmatism/) build
 
 ## Enactivism — the thoroughgoing modern combination
 
-[Enactivism](https://en.wikipedia.org/wiki/Enactivism) holds all three of the building-side turns together. It builds a positive account — living systems as self-producing ([autopoiesis](/positioning/subjects/a/autopoiesis/)) and cognition as sense-making — grounded in lived experience and the disciplined study of it ([Varela](/positioning/persons/v/varela/)'s neurophenomenology, with [Maturana](/positioning/persons/m/maturana/) and [Evan Thompson](https://en.wikipedia.org/wiki/Evan_Thompson)), with anti-representationalism as its founding polemic against the computational theory of mind. Construction, disclosure, and the refusal of the mirror are carried together rather than traded off — the most fully worked combination in the contemporary field.
+[Enactivism](/positioning/subjects/e/enactivism/) holds all three of the building-side turns together. It builds a positive account — living systems as self-producing ([autopoiesis](/positioning/subjects/a/autopoiesis/)) and cognition as sense-making — grounded in lived experience and the disciplined study of it ([Varela](/positioning/persons/v/varela/)'s neurophenomenology, with [Maturana](/positioning/persons/m/maturana/) and [Evan Thompson](https://en.wikipedia.org/wiki/Evan_Thompson)), with anti-representationalism as its founding polemic against the computational theory of mind. Construction, disclosure, and the refusal of the mirror are carried together rather than traded off — the most fully worked combination in the contemporary field.
 
 ## The Kyoto School — construction from prior-to-subject experience
 
