@@ -23,11 +23,6 @@ Plan work and research tracking.
 ## Positioning entries needed
 
 - [ ] **Enactivism** (subject) — surfaced building the metaphysics straddles page; currently an external link. **The Di Paolo page (2026-06-29) already lays the map a subject would delegate to** — names the three strands (autopoietic/life–mind: Di Paolo, Thompson; sensorimotor: O'Regan, Noë; radical: Hutto, Myin) and places Di Paolo, the same disambiguation discipline Ryle's page used for the three behaviourisms. So a subject page has its internal structure pre-sketched: hold the strand-rivalry as the tradition's structure, point onward to the persons. On-site now: Varela, Maturana, **Di Paolo** (paged); autopoiesis + phenomenology (subjects). Still external: Thompson (threshold-batch candidate), Noë, O'Regan, Hutto, Myin. Conscious call on whether this subject is coming — the Di Paolo page is implicitly pointing at it.
-- [ ] **Metaethics person pages** (persons) — the figures the ethics close-affinity page (`/positioning/close-affinity/ethics/`) references, currently external/plaintext. Pull internal (each page backfills its mentions on both the close-affinity and the ethics **subject** page). Rule: person pages only for figures the **close-affinity** page references; figures cited only on the subject page stay external. The batch is therefore four:
-  - **Blackburn** (load-bearing) and **Gibbard** — quasi-realism / norm-expressivism, the "norms instituted in a practice" strand. Cited on both close-affinity and subject pages.
-  - **Harman** — moral relativism, "ought" indexed to shared agreement; the game-relativity strand. Close-affinity only.
-  - **Wong** — pluralistic/pragmatic relativism, the shared-base thread; the richest partial-rhyme. Currently plaintext (unlinked) on the close-affinity page — needs at least a link now, page when built.
-  - **Stay external, removed from this list** (subject-page only, not on close-affinity): Mackie (error theory), Ayer (emotivism), Hare (prescriptivism).
 
 ## Real Life
 
