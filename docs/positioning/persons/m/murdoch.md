@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-06-11
+lastmod: 2026-07-03
 title: "Iris Murdoch (1919–1999)"
 description: "Murdoch argued that moral life depends on quality of perception — attention, a just and loving gaze, is the foundation of ethics, not choice or principle."
 ---
@@ -45,7 +45,7 @@ The novels embody a tension her philosophy does not fully resolve. Murdoch's phi
 
 **The feminist critique.** Lovibond argued that unselfing — with its emphasis on humility, receptiveness, and suppression of the impulse to act — reproduces precisely the qualities historically imposed on women: "selfless attention, attendance, and suppression of the impulse to act are precisely what has traditionally been expected of women." Murdoch's preference for writing "where it doesn't matter whether you're male or female" has been read as evasion rather than universalism.
 
-**Bernard Williams** gave Murdoch's "secondary moral words" the name "thick concepts" — simultaneously descriptive and evaluative — and the terminology became standard philosophical vocabulary. Williams shared her scepticism about utilitarian and Kantian moral theories but not her Platonic commitments.
+[Bernard Williams](/positioning/persons/w/williams-b/) gave Murdoch's "secondary moral words" the name "thick concepts" — simultaneously descriptive and evaluative — and the terminology became standard philosophical vocabulary. Williams shared her scepticism about utilitarian and Kantian moral theories but not her Platonic commitments.
 
 **Analytic philosophy** was slow to take Murdoch seriously. Her insistence on metaphysics, her Platonic commitments, and her reliance on literary and religious categories placed her outside the mainstream. *Metaphysics as a Guide to Morals* (1992), based on her Gifford Lectures, received remarkably little sustained philosophical engagement despite its summative ambitions.
 

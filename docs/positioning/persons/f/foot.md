@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-28
+lastmod: 2026-07-03
 title: "Philippa Foot (1920–2010)"
 description: "British philosopher — neo-Aristotelian naturalism, natural goodness, the trolley problem, moral realism grounded in human nature, virtue ethics revived."
 ---
@@ -47,7 +47,7 @@ Foot proposed that the distinction tracks the doctrine of double effect: diverti
 
 ## Where Foot stops
 
-The natural-goodness argument depends on the claim that there is a determinate human life-form — a set of characteristic human needs, activities, and excellences — that grounds moral evaluation. [Bernard Williams](https://en.wikipedia.org/wiki/Bernard_Williams) objected that the human case is disanalogous to the plant and animal cases: plants and wolves have narrowly specified life-forms, but human beings are characterised by cultural variability, self-interpretation, and the capacity to choose among radically different ways of life. There is no single human *ergon* that plays the role the root system plays for the plant. Whether the variability undermines the natural-goodness framework or is accommodated by it — whether "human flourishing" is specific enough to ground moral evaluation or so broad as to be empty — is the central dispute in Foot's reception.
+The natural-goodness argument depends on the claim that there is a determinate human life-form — a set of characteristic human needs, activities, and excellences — that grounds moral evaluation. [Bernard Williams](/positioning/persons/w/williams-b/) objected that the human case is disanalogous to the plant and animal cases: plants and wolves have narrowly specified life-forms, but human beings are characterised by cultural variability, self-interpretation, and the capacity to choose among radically different ways of life. There is no single human *ergon* that plays the role the root system plays for the plant. Whether the variability undermines the natural-goodness framework or is accommodated by it — whether "human flourishing" is specific enough to ground moral evaluation or so broad as to be empty — is the central dispute in Foot's reception.
 
 The framework is naturalistic in a specific sense: it grounds moral evaluation in facts about the human life-form. But the kind of facts it appeals to — "humans characteristically live in communities, use language, raise children, reason about means and ends" — are natural-historical generics, not empirical generalisations. The generic "wolves hunt in packs" is true even though many individual wolves do not. Whether natural-historical generics have the evaluative force Foot claims — whether "humans characteristically do X" supports "a human who fails to do X is defective" — is contested. Critics argue that the inference from generic to evaluative is an instance of the naturalistic fallacy; Foot argues that the inference is constitutive of how evaluation works for living things and that the "fallacy" is a prejudice of Humean meta-ethics, not a real logical error.
 

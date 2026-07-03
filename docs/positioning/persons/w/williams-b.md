@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-28
+lastmod: 2026-07-03
 title: "Bernard Williams (1929–2003)"
 description: "British philosopher — the critique of moral theory, internal reasons, moral luck, Ethics and the Limits of Philosophy, the rejection of the Aristotelian ergon."
 ---
@@ -85,4 +85,4 @@ The critique of the ergon argument — that there is no human function — is th
 
 ---
 
-See also: [Aristotle](/positioning/persons/a/aristotle/) · [Foot](/positioning/persons/f/foot/) · [Nagel](/positioning/persons/n/nagel/) · [MacIntyre](/positioning/persons/m/macintyre/)
+See also: [Aristotle](/positioning/persons/a/aristotle/) · [Foot](/positioning/persons/f/foot/) · [Nagel](/positioning/persons/n/nagel/) · [MacIntyre](/positioning/persons/m/macintyre/) · [Blackburn](/positioning/persons/b/blackburn/)
