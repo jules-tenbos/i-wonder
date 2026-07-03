@@ -2,7 +2,7 @@
 layout: default
 title: "Heinz von Foerster (1911–2002)"
 description: "Austrian-American physicist and philosopher — second-order cybernetics, the observer in the system, self-organisation, eigenvalues of cognitive operations, and the ethical imperative to act so as to increase choices."
-lastmod: 2026-05-25
+lastmod: 2026-07-03
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Von Foerster
@@ -65,4 +65,4 @@ Von Foerster's second-order cybernetics is a framework for understanding observa
 
 ---
 
-See also: [Wiener](/positioning/persons/w/wiener/) · [Ashby](/positioning/persons/a/ashby/) · [Maturana](/positioning/persons/m/maturana/) · [Varela](/positioning/persons/v/varela/) · [Complex Adaptive Systems](/positioning/subjects/c/complex-adaptive-systems/)
+See also: [Wiener](/positioning/persons/w/wiener/) · [Ashby](/positioning/persons/a/ashby/) · [Maturana](/positioning/persons/m/maturana/) · [Varela](/positioning/persons/v/varela/) · [Von Glasersfeld](/positioning/persons/v/von-glasersfeld/) · [Complex Adaptive Systems](/positioning/subjects/c/complex-adaptive-systems/)
