@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-26
+lastmod: 2026-07-03
 title: "Daniel Dennett (1942–2024)"
 description: "American philosopher — the intentional stance, Darwin's Dangerous Idea, consciousness explained, universal Darwinism, memes, and the deflationary programme in philosophy of mind."
 ---
@@ -39,7 +39,7 @@ The position is instrumentalist about mental states, in a carefully qualified se
 
 Dennett's alternative: the multiple drafts model. There is no central observer and no single stream of consciousness. The brain produces multiple parallel "drafts" of perceptual narrative, none of which is the canonical version. What we experience as a unified stream of consciousness is a retrospective construction — an edited narrative assembled after the fact, not a live broadcast witnessed by an inner audience.
 
-The theory was widely discussed and widely contested. Critics — including [Thomas Nagel](/positioning/persons/n/nagel/), David Chalmers, and John Searle — argued that Dennett's account explains the functional and behavioural aspects of consciousness but fails to address subjective experience itself: what it is like to be conscious, the "hard problem" (Chalmers' term). Dennett regarded the hard problem as itself a confusion — an artefact of the Cartesian picture rather than a genuine explanatory gap. The dispute remains one of the central divisions in philosophy of mind.
+The theory was widely discussed and widely contested. Critics — including [Thomas Nagel](/positioning/persons/n/nagel/), David Chalmers, and [John Searle](/positioning/persons/s/searle/) — argued that Dennett's account explains the functional and behavioural aspects of consciousness but fails to address subjective experience itself: what it is like to be conscious, the "hard problem" (Chalmers' term). Dennett regarded the hard problem as itself a confusion — an artefact of the Cartesian picture rather than a genuine explanatory gap. The dispute remains one of the central divisions in philosophy of mind.
 
 ---
 

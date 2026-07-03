@@ -21,6 +21,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Aristotle (384–322 BCE)](a/aristotle) · philosopher<span class="kw">teleology, the four causes, virtue ethics, the first systematic biology, the syllogism, substance and form</span>
 - [Arthur, W. Brian (1945–)](a/arthur) · economist<span class="kw">increasing returns, path dependence, complexity economics, technological evolution</span>
 - [Ashby, W. Ross (1903–1972)](a/ashby) · psychiatrist, cyberneticist<span class="kw">the homeostat, requisite variety, the good regulator theorem, ultrastability</span>
+- [Austin, J. L. (1911–1960)](a/austin-jl) · philosopher<span class="kw">speech act theory, performatives and constatives, locutionary/illocutionary/perlocutionary, ordinary-language philosophy, A Plea for Excuses, the critique of sense-data</span>
 - [Axelrod, Robert (1943–)](a/axelrod) · political scientist<span class="kw">evolution of cooperation, iterated prisoner's dilemma, tit-for-tat, the BACH group</span>
 
 ## B
@@ -284,6 +285,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Schrödinger, Erwin (1887–1961)](s/schrodinger) · physicist<span class="kw">wave mechanics, the Schrödinger equation, What is Life?, negative entropy, the cat</span>
 - [Schumpeter, Joseph (1883–1950)](s/schumpeter) · economist<span class="kw">creative destruction, the entrepreneur as innovator, business cycles, capitalism's self-undermining dynamics</span>
 - [Sebeok, Thomas A. (1920–2001)](s/sebeok) · linguist, semiotician<span class="kw">zoosemiotics, biosemiotics, the revival of Uexküll, Peirce over Saussure, modeling systems theory, the atomic priesthood</span>
+- [Searle, John (1932–)](s/searle) · philosopher<span class="kw">speech act theory, the Chinese Room, intentionality, biological naturalism, collective intentionality, the construction of social reality, status functions</span>
 - [Sellars, Wilfrid (1912–1989)](s/sellars) · philosopher<span class="kw">the myth of the given, the space of reasons, psychological nominalism, the manifest and scientific images</span>
 - [Sen, Amartya (1933–)](s/sen) · economist, philosopher<span class="kw">the capability approach, development as freedom, social choice theory, famine and democracy, the idea of justice</span>
 - [Shannon, Claude (1916–2001)](s/shannon) · mathematician, engineer<span class="kw">information theory, the bit, channel capacity, information entropy, Boolean circuit design</span>

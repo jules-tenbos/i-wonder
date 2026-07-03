@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-06-13
+lastmod: 2026-07-03
 title: "Jacques Derrida (1930–2004)"
 description: "French philosopher — deconstruction, différance, the trace, the metaphysics of presence, writing and difference, the supplement."
 ---
@@ -68,7 +68,7 @@ The relationship to politics is the other persistent question. Deconstruction ca
 - [*Speech and Phenomena*](https://en.wikipedia.org/wiki/Speech_and_Phenomena) (*La voix et le phénomène*, 1967) — the deconstruction of Husserl's theory of signs
 - [*Dissemination*](https://en.wikipedia.org/wiki/Dissemination_(Derrida)) (*La dissémination*, 1972) — Plato's Pharmacy, the double session
 - *Margins of Philosophy* (*Marges de la philosophie*, 1972) — "Différance," "Signature Event Context," "White Mythology"
-- *Limited Inc* (1988) — the debate with Searle over Austin, iterability, context
+- *Limited Inc* (1988) — the debate with [Searle](/positioning/persons/s/searle/) over Austin, iterability, context
 - [*Specters of Marx*](https://en.wikipedia.org/wiki/Specters_of_Marx) (*Spectres de Marx*, 1993) — hauntology, the inheritance of Marx, justice and deconstruction
 
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-06-28
+lastmod: 2026-07-03
 title: "Gilbert Ryle (1900–1976)"
 description: "Ryle reshaped the philosophy of mind in The Concept of Mind — diagnosing Cartesian dualism as a category mistake, analysing mental concepts as dispositions, and distinguishing knowing-how from knowing-that. A central figure of Oxford ordinary-language philosophy."
 ---
@@ -11,7 +11,7 @@ description: "Ryle reshaped the philosophy of mind in The Concept of Mind — di
 
 Ryle was a central figure of mid-twentieth-century Oxford philosophy, best known for *The Concept of Mind* (1949), which reshaped the philosophy of mind by diagnosing Cartesian dualism not as a false theory but as a *category mistake* — a confusion about the logic of mental language. He analysed mental concepts as dispositions to behave rather than reports of an inner theatre, drew the lasting distinction between knowing-how and knowing-that, and practised philosophy as the mapping of the "logical geography" of concepts.
 
-[Gilbert Ryle](https://plato.stanford.edu/entries/ryle/) (1900–1976) was born in Brighton and read Classics and then philosophy at Queen's College, Oxford, spending his career at the university and holding the Waynflete Professorship of Metaphysical Philosophy from 1945. His early work was unusual in Anglophone philosophy for taking Continental thought seriously: he reviewed [Heidegger](/positioning/persons/h/heidegger/)'s *Being and Time* and lectured on [Husserl](/positioning/persons/h/husserl/), Bolzano, and Meinong, before the analytic turn that came to define him. He served in intelligence during the war. As editor of *Mind* from 1947 to 1971 he held a powerful gatekeeping role in British philosophy, and with [J.L. Austin](https://plato.stanford.edu/entries/austin-jl/) he was central to the Oxford "ordinary-language" school. He taught and supervised widely — Daniel [Dennett](/positioning/persons/d/dennett/) among his students — and died in 1976.
+[Gilbert Ryle](https://plato.stanford.edu/entries/ryle/) (1900–1976) was born in Brighton and read Classics and then philosophy at Queen's College, Oxford, spending his career at the university and holding the Waynflete Professorship of Metaphysical Philosophy from 1945. His early work was unusual in Anglophone philosophy for taking Continental thought seriously: he reviewed [Heidegger](/positioning/persons/h/heidegger/)'s *Being and Time* and lectured on [Husserl](/positioning/persons/h/husserl/), Bolzano, and Meinong, before the analytic turn that came to define him. He served in intelligence during the war. As editor of *Mind* from 1947 to 1971 he held a powerful gatekeeping role in British philosophy, and with [J.L. Austin](/positioning/persons/a/austin-jl/) he was central to the Oxford "ordinary-language" school. He taught and supervised widely — Daniel [Dennett](/positioning/persons/d/dennett/) among his students — and died in 1976.
 
 ---
 
@@ -57,4 +57,4 @@ Ryle's standing rests on several things at once: the reshaping of philosophy of 
 
 ---
 
-See also: [Descartes](/positioning/persons/d/descartes/) · [Wittgenstein](/positioning/persons/w/wittgenstein/) · [Dennett](/positioning/persons/d/dennett/) · [Carnap](/positioning/persons/c/carnap/) · [Putnam](/positioning/persons/p/putnam/) · [Behaviourism](/positioning/subjects/b/behaviourism/)
+See also: [Descartes](/positioning/persons/d/descartes/) · [Wittgenstein](/positioning/persons/w/wittgenstein/) · [Austin](/positioning/persons/a/austin-jl/) · [Dennett](/positioning/persons/d/dennett/) · [Carnap](/positioning/persons/c/carnap/) · [Putnam](/positioning/persons/p/putnam/) · [Behaviourism](/positioning/subjects/b/behaviourism/)

@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-27
+lastmod: 2026-07-03
 title: "Alan Turing (1912–1954)"
 description: "British mathematician — the Turing machine, computability, the Entscheidungsproblem, the Turing test, codebreaking, morphogenesis."
 ---
@@ -47,7 +47,7 @@ Turing was prosecuted for homosexuality in 1952 under British law — homosexual
 
 ## Where Turing stops
 
-The Turing test has been criticised from multiple directions. [John Searle](https://en.wikipedia.org/wiki/John_Searle)'s Chinese Room argument (1980) claims that passing the Turing test does not demonstrate understanding — a system can manipulate symbols according to rules without comprehending their meaning. [Ned Block](https://en.wikipedia.org/wiki/Ned_Block)'s Blockhead thought experiment argues that a sufficiently large lookup table could pass the test without any intelligence at all. Whether the test captures what matters about intelligence — or whether it captures only the ability to simulate human conversation — is debated. The emergence of large language models, which can produce human-like text without anything resembling human understanding, has sharpened the question: if a system can pass the Turing test, does that settle the question of machine intelligence, or does it show that the test is too easy?
+The Turing test has been criticised from multiple directions. [John Searle](/positioning/persons/s/searle/)'s Chinese Room argument (1980) claims that passing the Turing test does not demonstrate understanding — a system can manipulate symbols according to rules without comprehending their meaning. [Ned Block](https://en.wikipedia.org/wiki/Ned_Block)'s Blockhead thought experiment argues that a sufficiently large lookup table could pass the test without any intelligence at all. Whether the test captures what matters about intelligence — or whether it captures only the ability to simulate human conversation — is debated. The emergence of large language models, which can produce human-like text without anything resembling human understanding, has sharpened the question: if a system can pass the Turing test, does that settle the question of machine intelligence, or does it show that the test is too easy?
 
 The Church-Turing thesis defines the boundary of the computable, but the boundary itself has been challenged. [Roger Penrose](/positioning/persons/r/penrose/) has argued that human mathematical understanding exceeds what any Turing machine can do — that the mind is non-computational (a claim disputed by most computer scientists and logicians). Quantum computing extends the range of practically feasible computation but does not extend the range of computability in the Church-Turing sense — a quantum computer can solve certain problems faster than a classical computer, but it cannot solve problems that a Turing machine cannot solve in principle. Whether there exist physical processes that compute functions beyond the Turing-computable remains an open question at the boundary of physics and computer science.
 

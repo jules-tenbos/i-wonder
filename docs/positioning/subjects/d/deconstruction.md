@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-06-22
+lastmod: 2026-07-03
 title: "Deconstruction"
 description: "Derrida's movement and its afterlife — the critique of the metaphysics of presence, différance and the trace, the speech/writing hierarchy, the great disputes (Searle, Cambridge, the de Man affair), and the later turn to justice and hospitality."
 ---
@@ -41,9 +41,9 @@ From this book comes the most quoted and most misread phrase in deconstruction: 
 
 ## The dispute over speech acts: Searle
 
-The first major confrontation came over the theory of speech acts. In "Signature Event Context" (delivered 1971, published in *Margins of Philosophy*, 1972) Derrida read J. L. Austin's *How to Do Things with Words*, fastening on Austin's exclusion of "non-serious" or "parasitic" utterances — words spoken on a stage, in a poem, in jest, in quotation — as *etiolations* not proper to the theory of ordinary performatives. Derrida argued the reverse: that the citationality Austin brackets as anomalous is the general condition of every utterance, since any performative works only by repeating an iterable, coded model. The supposedly parasitic case is the law of the host.
+The first major confrontation came over the theory of speech acts. In "Signature Event Context" (delivered 1971, published in *Margins of Philosophy*, 1972) Derrida read [J. L. Austin](/positioning/persons/a/austin-jl/)'s *How to Do Things with Words*, fastening on Austin's exclusion of "non-serious" or "parasitic" utterances — words spoken on a stage, in a poem, in jest, in quotation — as *etiolations* not proper to the theory of ordinary performatives. Derrida argued the reverse: that the citationality Austin brackets as anomalous is the general condition of every utterance, since any performative works only by repeating an iterable, coded model. The supposedly parasitic case is the law of the host.
 
-[John Searle](https://en.wikipedia.org/wiki/John_Searle) replied in 1977 with "Reiterating the Differences: A Reply to Derrida" (*Glyph* 1), defending Austin and charging Derrida with elementary confusions. Derrida answered the same year, at length and with mocking relish, in "Limited Inc a b c..." (*Glyph* 2), and the texts were later collected as *Limited Inc* (1988), whose afterword sets out his clearest statements that deconstruction leads neither to relativism nor to indeterminism. The exchange — and Searle's later flat dismissals of deconstruction as obscurantism — became emblematic of the gulf between the analytic and continental traditions, two philosophical cultures unable to recognise each other's idea of an argument.
+[John Searle](/positioning/persons/s/searle/) replied in 1977 with "Reiterating the Differences: A Reply to Derrida" (*Glyph* 1), defending Austin and charging Derrida with elementary confusions. Derrida answered the same year, at length and with mocking relish, in "Limited Inc a b c..." (*Glyph* 2), and the texts were later collected as *Limited Inc* (1988), whose afterword sets out his clearest statements that deconstruction leads neither to relativism nor to indeterminism. The exchange — and Searle's later flat dismissals of deconstruction as obscurantism — became emblematic of the gulf between the analytic and continental traditions, two philosophical cultures unable to recognise each other's idea of an argument.
 
 ## The analytic reception and the Cambridge affair
 
