@@ -46,4 +46,4 @@ The companion worry is *creeping minimalism*. To earn back moral truth, knowledg
 
 ---
 
-See also: [Ethics](/positioning/subjects/e/ethics/) · [Hume](/positioning/persons/h/hume/) · [Bernard Williams](/positioning/persons/w/williams-b/)
+See also: [Ethics](/positioning/subjects/e/ethics/) · [Hume](/positioning/persons/h/hume/) · [Bernard Williams](/positioning/persons/w/williams-b/) · [Gibbard](/positioning/persons/g/gibbard/)

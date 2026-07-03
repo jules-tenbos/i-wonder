@@ -122,6 +122,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Gause, Georgy (1910–1986)](g/gause) · biologist<span class="kw">the competitive exclusion principle, experimental population ecology, The Struggle for Existence</span>
 - [Gell-Mann, Murray (1929–2019)](g/gell-mann) · physicist<span class="kw">quarks, the Eightfold Way, effective complexity, Santa Fe Institute co-founder</span>
 - [Ghiselin, Michael (1939–)](g/ghiselin) · biologist, philosopher of biology<span class="kw">the species-as-individuals thesis, the evolution of sex, opisthobranch systematics</span>
+- [Gibbard, Allan (1942–)](g/gibbard) · philosopher<span class="kw">norm-expressivism, Wise Choices Apt Feelings, thinking how to live, planning and normative judgement, the Gibbard–Satterthwaite theorem</span>
 - [Gibbs, Josiah Willard (1839–1903)](g/gibbs) · physicist, mathematician<span class="kw">statistical mechanics, chemical thermodynamics, Gibbs free energy, the phase rule, ensembles</span>
 - [Goethe, Johann Wolfgang von (1749–1832)](g/goethe) · poet, dramatist, scientist, statesman<span class="kw">Weimar Classicism and Faust, the morphology of living form, the Urpflanze, the Theory of Colours, an influence on German idealism and Cassirer's symbolic forms</span>
 - [Goodman, Nelson (1906–1998)](g/goodman) · philosopher<span class="kw">ways of worldmaking, symbol systems, rightness over truth, irrealism</span>
