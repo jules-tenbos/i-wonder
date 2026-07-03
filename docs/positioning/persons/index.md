@@ -135,6 +135,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Haldane, J. B. S. (1892–1964)](h/haldane) · geneticist, polymath<span class="kw">population genetics, cost of natural selection, enzyme kinetics, origin of life, Marxism</span>
 - [Hamilton, W. D. (1936–2000)](h/hamilton) · evolutionary biologist<span class="kw">inclusive fitness, Hamilton's rule, kin selection, sex and parasites, gene's-eye view</span>
 - [Hanslick, Eduard (1825–1904)](h/hanslick) · music critic, aesthetician<span class="kw">musical formalism, On the Musically Beautiful, "tonally moving forms", absolute music, the Wagner feud, the War of the Romantics</span>
+- [Harman, Gilbert (1938–2021)](h/harman) · philosopher<span class="kw">moral relativism as a semantic thesis, the explanatory argument against moral facts, inference to the best explanation, situationism and character</span>
 - [Hawking, Stephen (1942–2018)](h/hawking) · theoretical physicist<span class="kw">singularity theorems, Hawking radiation, black hole information paradox, no-boundary proposal, three arrows of time</span>
 - [Hayek, Friedrich (1899–1992)](h/hayek) · economist, political philosopher<span class="kw">the knowledge problem, spontaneous order, the price mechanism, the critique of central planning</span>
 - [Hazen, Robert (1948–)](h/hazen) · mineralogist, astrobiologist<span class="kw">mineral evolution, evolutionary system of mineralogy, mineral ecology, assembly theory exchange</span>
