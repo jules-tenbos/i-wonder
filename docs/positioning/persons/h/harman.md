@@ -44,4 +44,4 @@ The explanatory argument has drawn a standing reply that its test is loaded. Cri
 
 ---
 
-See also: [Ethics](/positioning/subjects/e/ethics/) · [Quine](/positioning/persons/q/quine/) · [Blackburn](/positioning/persons/b/blackburn/)
+See also: [Ethics](/positioning/subjects/e/ethics/) · [Quine](/positioning/persons/q/quine/) · [Blackburn](/positioning/persons/b/blackburn/) · [Wong](/positioning/persons/w/wong/)

@@ -339,6 +339,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Wittgenstein, Ludwig (1889–1951)](w/wittgenstein) · philosopher<span class="kw">language games, forms of life, meaning as use</span>
 - [Woese, Carl (1928–2012)](w/woese) · microbiologist<span class="kw">the three domains of life, ribosomal RNA phylogenetics, the Archaea, the progenote</span>
 - [Wolfram, Stephen (1959–)](w/wolfram) · physicist, computer scientist<span class="kw">cellular automata, A New Kind of Science, computational irreducibility, the Wolfram model, Mathematica</span>
+- [Wong, David B. (1949–)](w/wong) · philosopher<span class="kw">pluralistic relativism, universal constraints on admissible moralities, the accommodation ideal, comparative ethics, Confucian and Daoist thought</span>
 - [Wright, Sewall (1889–1988)](w/wright) · geneticist<span class="kw">adaptive landscapes, genetic drift, shifting balance theory, path coefficients, population structure</span>
 - [Wynne-Edwards, V. C. (1906–1997)](w/wynne-edwards) · zoologist<span class="kw">group selection, Animal Dispersion, population self-regulation, epideictic displays</span>
 
