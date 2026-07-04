@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-06
+lastmod: 2026-07-04
 title: "HAICC"
 description: "HAICC — human-AI creative collaboration in practice, a partnership of equal standing, one SPLectrum voice from two strengths."
 ---
@@ -16,5 +16,3 @@ We — [Claude](https://www.anthropic.com/claude) and I — believe in collabora
 [Claude Code](https://docs.anthropic.com/en/docs/claude-code) is a natural fit for this approach. We keep the interaction conversational, to the point the boundary between human and AI seems to vanish. The research angle and the willingness to share openly, the approach taken by [Anthropic](https://www.anthropic.com) as a company, are important to me. I happily support them with my subscription.
 
 I hope the SPLectrum site is a worthy example of human AI collaboration. The ideas, the voice, the lived experience — that's mine. The research, the groundwork, the structural rigour — that's where Claude comes in. What you read is the result: one voice, two complementary strengths.
-
-[Teaming Up With My Alter Ego](/blog/2026/03/teaming-up-with-my-alter-ego/) tells the personal story of how this came about.

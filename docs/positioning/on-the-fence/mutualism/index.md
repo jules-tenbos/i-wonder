@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-17
+lastmod: 2026-07-04
 title: "Mutualism — On the fence"
 description: "Where mutualism's empirical observations resonate with the SPLectrum seed, where the intent and ethics colouring misnarrates the pathway, and what fits the common dynamic when the colouring is set aside."
 ---
@@ -37,7 +37,7 @@ Below mutualism's language game, the dynamic is-like CAS-type emergence from div
 
 [Biological mutualism](/positioning/subjects/m/mutualism/biology/), together with the empirical and anthropological strands within the [social tradition](/positioning/subjects/m/mutualism/social-and-economic-thought/) — Ostrom's commons work, the reciprocity tradition from Mauss through Graeber — reaches toward this dynamic more directly than the prescriptive socio-political strands do. The intent/ethics colouring is most pronounced in the prescriptive strands: Proudhon's federated mutualism, distributism, the Owenite-Rochdale programme. CAS approaches reach for pattern, emergence, local interaction without strategic actor. The game-theoretic vocabulary formalises productively but still borrows from intent language — strategies, payoffs, cooperation — narrating at the agent layer whereas the dynamic operates at the relational layer.
 
-Beneficial balances are reached through paths that include negative impact — not despite the impact, but through it. Configurations shift because conditions produce the shift, not because someone identified the right arrangement. For a socio-political example of this dynamic in motion, see the accompanying blog post [Mutualism Without Intent](/blog/2026/07/mutualism-without-intent/).
+Beneficial balances are reached through paths that include negative impact — not despite the impact, but through it. Configurations shift because conditions produce the shift, not because someone identified the right arrangement.
 
 ## Pluralistic enacting
 

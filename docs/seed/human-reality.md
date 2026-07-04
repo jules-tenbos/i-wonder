@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-08
+lastmod: 2026-07-04
 title: "The seed and Human Reality"
 description: "The SPLectrum seed and human reality — we experience individually but live collectively, reality community-constituted through shared language."
 ---
@@ -28,7 +28,5 @@ P4 is where P0 fires again — at the scale of language itself. Where languages 
 
 **P5 — Together they form a web of growing complexity.**<br>
 We synchronise, knowledge deepens, new languages emerge from the overlap, and those in turn synchronise with others. The complexity is in the relating, not in any single community.
-
-{% include pending-link.html date="2026-05-16T00:00:00Z" text="See [The Seed and Human Reality](/blog/2026/05/seed-and-human-reality/) for the blog conversation." %}
 
 See the [seed series](/blog/label/seed/) for the conversation around these principles.

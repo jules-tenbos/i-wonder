@@ -178,33 +178,13 @@ The draft produces its outputs and is then deleted:
 8. Delete submission from `submissions/` (if not already deleted)
 9. Commit and push
 
-### Pending ref lib → blog links
+### Link direction: blog → site only, never site → blog
 
-Ref lib pages can point into the blog, but only once the post is published. Pre-wire pending links now using the `pending-link` include — they emit the sentence only after the publish date has passed, as evaluated at build time.
+**Links run one way: a blog post may link into the reference library; a reference-library page must not link into a blog post.** The blog is the moving, time-ordered layer — posts are scheduled, rescheduled, and their URLs are derived from their date. The ref lib is the stable layer. A stable page must not point into a moving one: the moment a post is rescheduled its URL changes and the link breaks, and a link to a future-dated post is dead on the live site until the post publishes. Both failures are structural, not accidental — so the rule removes the whole class.
 
-Syntax:
-
-```
-{% include pending-link.html date="YYYY-MM-DDT00:00:00Z" text="See [Title](/blog/YYYY/MM/slug/) for the blog conversation." %}
-```
-
-The include compares `site.time` (build time) against the `date` parameter. If the build is on or after the publish date, the sentence is emitted into the page; otherwise, nothing. This guarantees the link can only appear in a build that also includes the target post.
-
-A daily rebuild runs at 02:00 UTC via `.github/workflows/daily-rebuild.yml`, re-evaluating all pending links against the current date.
-
-**Local preview of pending links.** The include honours Jekyll's `--future` flag — when set, all pending links emit regardless of date (same flag that exposes future-dated posts). To preview everything as it will eventually look:
-
-```
-jekyll serve --watch --host 0.0.0.0 --future
-```
-
-Without the flag, local behaviour matches production: pending links and future-dated posts stay hidden until their date.
-
-When scheduling a post, scan ref lib pages for ones that would benefit from a pointer to it and add the include. Common targets:
-
-- The relevant area's index.
-- Seed incarnation pages if the post unpacks a principle.
-- Touchstone pages adjacent to the post's topic.
+- **From a blog post:** link out to the ref lib freely for depth — the post tells the story, the library holds the reference. This is the encouraged direction.
+- **From a ref lib page:** do **not** link into the blog. If a ref lib page wants to gesture at "the story behind this," state it as plain text without a link, or leave the connection to the reader — the blog post itself carries the link back to the library. Never a markdown link, never an include, into `/blog/…`.
+- **The old `pending-link` include is retired.** It existed only to let ref lib pages point at not-yet-published posts by emitting the link after the publish date. Under the one-way rule there is no such link to emit, so the mechanism is unnecessary. Do not add new `pending-link` includes; existing ones are being removed.
 
 ### Blog post review checklist
 
@@ -282,7 +262,7 @@ The reference library lives in `docs/` and is served at `splectrum.world/`. Cont
 - **Blog** — the conversation. Happenings, events, the stories behind how things evolved.
 - **Documentation** — depth material, downloadable when needed (not on the live site).
 
-Keep each surface doing its own job. If a page starts telling a story, that material belongs in a blog post; link from the ref lib to it. If a ref lib page needs depth beyond reference style, the depth belongs in a separate document.
+Keep each surface doing its own job. If a page starts telling a story, that material belongs in a blog post — and the *blog post* links back to the ref lib page, not the other way around (see "Link direction" above). If a ref lib page needs depth beyond reference style, the depth belongs in a separate document.
 
 ### Sitemap lastmod
 
@@ -311,7 +291,7 @@ Content...
 
 - **Breadcrumb** at the top — absolute links. Root `index.md` has no breadcrumb.
 - **Footer** — handled by template (footer.html). No inline footer in pages.
-- **Links to blog** — allowed, and encouraged when a blog post tells the story behind a concept, event, or historical note. Keep them functional (not promotional): "For the story of how P0 joined the seed, see [And Then There Were Six](/blog/...)." Blog posts also link back into the ref lib for depth — both directions are fine. For pending links to scheduled future posts, use the `pending-link` include (see "Pending ref lib → blog links" above) — it only emits the sentence after the publish date has passed.
+- **Links to blog** — **not allowed.** A ref lib page must not link into a blog post (see "Link direction: blog → site only" above). The blog is the moving layer; linking a stable page into it breaks when posts are rescheduled and dangles when they are future-dated. The blog post carries the link *to* the ref lib page; the ref lib page does not link back. If a ref lib page wants to gesture at the story, do it as plain text without a link.
 - **External links** — SEP, Wikipedia for stable references.
 
 ### Linking from blog posts
