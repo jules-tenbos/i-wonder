@@ -2,10 +2,10 @@
 layout: post
 title: "SPLectrum's Kind of Aesthetics"
 date: 2026-06-28
-lastmod: 2026-06-26
+lastmod: 2026-06-27
 labels: [reality]
 description: "Aesthetics is not the philosophy-of-art appendix — it is the dynamics of meaning, the third field beside epistemology and ontology. Why expression of meaning, from the sensory upward, belongs under one umbrella rather than scattered across philosophy."
-status: review needed
+status: ready
 words: 584
 ---
 <img src="https://images.unsplash.com/photo-1530103043960-ef38714abb15?q=80&w=350&h=230&auto=format&fit=crop" alt="SPLectrum's Kind of Aesthetics" />
@@ -15,7 +15,7 @@ In [Flying the Flag of Belonging, Privacy and Creativity](/blog/2026/06/flying-t
 It sort of struck me: 'isn't this like aesthetics, how it is put together?'. The expression of language as a form of art — the chosen concepts and how they relate. An aesthetics concerned with meaning in general rather than just the sensory. It may not be a mainstream view of aesthetics, but so what? So I set about positioning it, looking around the philosophical neighbourhood.
 
 And then came the headache ... Philosophy has a very fragmented view of what is essentially expression of meaning.
-On the periphery there is aesthetics concerned with the sensory, poetics about the made work, rhetoric concerned with persuasive expression. Within the core of philosophy, hermeneutics has made interpretation its own, semiotics took the sign, and structuralism read meaning off a system of differences. Philosophy of language about sense and reference, meaning pinned down to the last bolt. Seven serious fields — not even all of them — each tending its own patch and each dealing with expression of meaning within their specific context.
+On the periphery there is aesthetics concerned with the sensory, poetics about the made work, rhetoric concerned with persuasive expression. Within the core of philosophy, hermeneutics has made interpretation its own, semiotics took the sign, and structuralism read meaning off a system of differences. Philosophy of language about sense and reference, meaning pinned down to the last bolt. Six serious fields — not even all of them — each tending its own patch and each dealing with expression of meaning within their specific context.
 
 I see SPLectrum not as being out on a limb, going down avenues blindly. Pluralism is ingrained in its core — together we know more than alone. A different approach has to make sense in the wider scheme of things. So, is my gut feeling the right way to go? Yes, go! Expression of meaning is a core activity, it evolves and diversifies — it's a process, not static. Can we rewind a bit, how did we get here?
 
