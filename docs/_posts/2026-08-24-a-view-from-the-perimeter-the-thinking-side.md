@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A View from the Perimeter — The Thinking Side"
-date: 2026-08-08
+date: 2026-08-24
 lastmod: 2026-06-28
 labels: [creativity, philosophy]
 status: Mandatory review

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Decentralised Process Models"
-date: 2026-08-16
+date: 2026-10-16
 lastmod: 2026-07-04
 labels: [positioning, engineering]
 status: Mandatory review
