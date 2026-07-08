@@ -203,11 +203,11 @@ When reviewing existing or new posts, check:
 
 Each post gets a tweet on publication. Draft alongside the post, tracked in `scheduled-tasks.md`.
 
-- Max 280 characters total (text + URL + hashtags)
-- Always include the post URL: `splectrum.world/blog/YYYY/MM/slug/`
-- 3–4 hashtags, always including `#SPLectrum`
-- Always state the character count when drafting
-- Offer 2–3 options with different angles
+- **URL format — `splectrum.world/blog/YYYY/MM/slug/`. Year and month only, NEVER the day.** The permalink (`_config.yml`) is `/blog/:year/:month/:title/`. A tweet like `/blog/2026/07/08/evolution-and-brain/` is a **broken link** — the correct URL is `/blog/2026/07/evolution-and-brain/`. Get the slug from the filename (strip the date prefix), not by guessing.
+- **Length — target ≤ 270 characters total, hard max 280** (text + URL + hashtags). Leave a margin; do not sail up to 280. Count the URL as its literal character length (≈40–50 chars for these), not a t.co estimate.
+- **State the real character count for each option**, and if unsure, count conservatively — an option that "reads short" is not the same as one that is short. Better a genuinely tight tweet than a padded one at the limit.
+- 3–4 hashtags, always including `#SPLectrum`.
+- Offer 2–3 options with different angles.
 
 ## Images
 
