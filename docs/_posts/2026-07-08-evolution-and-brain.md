@@ -3,8 +3,8 @@ layout: post
 title: "Evolution and the Brain"
 date: 2026-07-08
 lastmod: 2026-08-08
-labels: [science]
-status: final review
+labels: [preamble,science]
+status: ready
 words: 564
 ---
 <img src="https://images.unsplash.com/flagged/photo-1552863473-6e5ffe5e052f?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Evolution"/>
