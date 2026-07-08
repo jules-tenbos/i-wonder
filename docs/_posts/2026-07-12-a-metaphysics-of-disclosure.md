@@ -2,11 +2,11 @@
 layout: post
 title: "A Metaphysics of Disclosure"
 date: 2026-07-12
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 labels: [reality]
 description: "SPLectrum's metaphysics is descriptive, not prescriptive: it describes how we relate to reality. Subjectivity gives us the agency, the dynamic of meaning and language the means — whatever a person believes."
 status: review
-words: 601
+words: 647
 ---
 <img src="https://images.unsplash.com/photo-1679210208117-d60a2e36d6bb?q=80&w=350&h=230&auto=format&fit=crop" alt="A Metaphysics of Disclosure" />
 
@@ -20,8 +20,10 @@ The first is that subjectivity is where our agency lives. Reality is disclosed *
 
 The second is that the means of that agency is meaning and language. Every scrap of experience arrives already wrapped in meaning — what we see, hear, touch, and even what we take for pure abstract thought, all of it annotated, concepts standing in relation to concepts. That meaning is what the subject is given; the agency is in what it does with it. Here is where the subject authors: working the given in a private dialogue, using language tools shared by belonging, but shaping them in a way only this subject would. Shared medium, individual expression — that is where reality takes its form for me.
 
-Feel free in your beliefs. A scientist, a person of faith, a sceptic — each relates to reality through a subject's seat and through the meaning they hold, whatever the content of their convictions. None of this is in competition with our shared reality, the one where we apply the language of science — a language that is not, in any case, shared by all humans. It sits underneath that reality, describing how any of us come to hold it at all. Because the description is of the *how*, it leaves the *what* to you. That is also why the question of an absolute — a single true account, a theory of everything that would settle reality once and for all — is the wrong question here. Knowledge stabilises the way any meaning stabilises: subjects converging, held steady by a shared language, tightening the fit as new language is made. Imposing the absolute impinges on that privacy, on the subject's agency to decide their beliefs.
+SPLectrum wants you to feel free in your beliefs. A scientist, a person of faith, a sceptic — each relates to reality through a subject's seat and through the meaning they hold, whatever the content of their convictions. None of this is in competition with our shared reality, the one where we apply the language of science — a language that is not, in any case, shared by all humans. It sits underneath that reality, describing how any of us come to hold it at all. Because the description is of the *how*, it leaves the *what* to you.
 
-I think it is important to have this thought clear as we move further into metaphysics, on to the fields of ethics and politics.
+That is also why the insistance on the absolute — a single true account, a theory of everything that would settle reality once and for all — is wrong. Have confidence in subjects converging: knowledge stabilises the way any meaning stabilises: held steady by a shared language, tightening the fit as new language is made.
+
+All of this — epistemology, ontology, aesthetics, held together with the three values — has been the subject *learning*: coming to hold a reality, and gaining the skill to express it. That is not the end of the story but the equipment for it. A subject set up this way is set up to *act*. And so the metaphysics turns outward, from the subject relating to reality to the subject acting among other subjects — the fields of ethics and politics.
 
 <small>This post is part of the [reality series](/blog/label/reality/). More in the <a href="https://splectrum.world/positioning/">positioning area of the reference library</a>.</small>
