@@ -8,7 +8,7 @@ description: "SPLectrum's descriptive ethics — values scoped to the language g
 status: storyline
 words: 666
 ---
-<img src="IMAGE_URL" alt="The Ethics of Language Games" />
+<img src="https://images.unsplash.com/photo-1474631245212-32dc3c8310c6?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="The Ethics of Language Games" />
 
 In the previous post I took time out from our journey into metaphysics to make an important point: each of us has the agency to shape their own reality, to fill it with their beliefs and convictions. This is of no less importance when dealing with ethics, which deals with the values a subject or community holds towards other subjects or communties. 
 
@@ -29,4 +29,4 @@ The still picture of ethics is there for a better understanding of values and la
 <small>This post is part of the [reality series](/blog/label/reality/). More in the <a href="https://splectrum.world/reality/ethics/">ethics area of the reference library</a>.</small>
 
 ---
-<small>Photo: PHOTO_CREDIT</small>
+<small>Photo: <a href="https://unsplash.com/@pavement_special">Riccardo Annandale</a> / Unsplash</small>
