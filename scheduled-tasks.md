@@ -19,6 +19,8 @@ Plan work and research tracking.
 
 - [ ] **Pluralism rework** in `plan/pluralism-rework.md`: rework the pluralism close-affinity page into a subject + a real affinity reading (the mapping exercise). Phases 1–2, not started. When the pluralism subject lands, revisit the politics Branch-3 cross-links (tracked in the plan).
 
+- [ ] **"Two sides of one coin" — integrate the host self-description** (scoped in `plan/two-sides-of-one-coin.md`, captured 2026-07-13). SPLectrum is not only cosmologically consistent but a *frame that hosts diverse content-languages* — "not 'this is wrong' but 'it makes sense read this way'." The two faces (how to approach reality / attitude toward other subjects) are one refusal of the view-from-above. Foundational self-description; already enacted across the built posts, not a bolt-on; kept honest by soundness-of-reading (not "anything goes"). **Task: decide its home(s) deliberately and write it in** — candidates: seed pages (strongest, it follows from P4), reality landing page, SPLectrum 101 (the "what is it *for*" answer), the pluralism capstone. Do NOT force-place; siting deserves its own considered pass. Couples to the pluralism rework above (the host stance *is* pluralism-read-from-a-position).
+
 ## Positioning entries needed
 
 *(Enactivism + Constructivism subjects — built as two sibling pages 2026-07-03; entry cleared. One residue held for future work: the deferred **Kelly ↔ von Glasersfeld** PCP/constructivism close-affinity tie now has a home — the `subjects/c/constructivism/` page exists — so it lands there when that close-affinity work is taken up, not on the person pages.)*
