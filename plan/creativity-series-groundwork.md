@@ -27,7 +27,7 @@ Evolution was too narrow a name: it named one expression of the value, not the v
 
 **Three seam edits owed, inside the Mandatory reviews:** (1) perimeter's "previous posts" line softens to creation-conforms-to-discovery only; (2) multiplier's "the perimeter — is where this leads" becomes a callback; (3) light bridge from Thinking Side into Creation and Discovery. Plectrum dedup (Unwalked vs Creation-deep) is now optional — a month apart, not a week; decide at review.
 
-Around the series: Decentralised Cognition Revolution **09-20** (track B interleave); CT series **10-01, 10-08, 10-16, 10-24, 11-01**; Mutualism Without Intent **11-08**, Decentralised Process Models **11-16**. Cadence grid (tracks A/B) now recorded in `posting-guide.md` § Cadence.
+Around the series: CT series **10-01, 10-08, 10-16, 10-24, 11-01**; Mutualism Without Intent **11-08**, Decentralised Process Models **11-16**, Decentralised Cognition Revolution **11-24** (moved to the back of the list 2026-07-13 — the creativity finale fortnight runs clear). Cadence grid (tracks A/B) now recorded in `posting-guide.md` § Cadence.
 
 ## The plan: a few initial posts leading up to the perimeter pair
 
