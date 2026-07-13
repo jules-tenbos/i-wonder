@@ -2,7 +2,9 @@
 
 Plan work and research tracking.
 
-**Active sequence:** language-mechanics affinities — field research done; build round **in progress**. The divergence↔convergence axis is now fully anchored on built neutral territory (Kelly · Vygotsky · Tomasello · Piaget · Di Paolo). **Next: write the close-affinity piece** on the divergence↔convergence tension — the first SPLectrum-side surface of this strand. Then the pluralism rework (the capstone that matures the interrelational-pluralism stance on top of the now-settled pillars). Engine before capstone.
+**Active sequence (updated 2026-07-13):** the **reality-series metaphysics posts** have been the live thread. The five-pillar metaphysics cycle is now written as blog posts: *A Metaphysics of Disclosure* (the three learning pillars, **published 2026-07-12**), *The Ethics of Language Games* (2026-07-20, self-contained draft), *The Politics of Coexistence* (2026-07-28, storyline complete, resting — closes the cycle and names its two-layer shape). **SPLectrum 101** (`/real-life/spl/splectrum-101/`) is unblocked and drafted in plain-language bullets; **next pass there: shape into prose + the diagram** (layout deferred). Plan docs live in `plan/`: ethics + politics groundwork, the "two-sides-of-one-coin" host self-description (integration scheduled below), and the Kolchinsky research survey (physics-of-meaning — big future build, scoped-not-active).
+
+**Queued behind the reality series:** the **language-mechanics** close-affinity piece (divergence↔convergence — see Research below, axis fully anchored, still owed) and the **pluralism rework** (the capstone; couples to the two-sides-of-one-coin integration). Engine before capstone.
 
 ## Research
 
@@ -27,7 +29,7 @@ Plan work and research tracking.
 
 ## Real Life
 
-- [ ] **SPLectrum 101** — in progress at `/real-life/spl/splectrum-101/`. Uncommitted working draft: a diagram-style overview (top box "SPLectrum / Reality in Language"; second row Language + Reality; core values belonging/privacy/creativity; the five pillars as plain-language questions — how we learn, how we label, how we structure, our values, how we live together). Prose sketch only so far; needs shaping into the actual diagram + finished layman's intro.
+- [ ] **SPLectrum 101** — at `/real-life/spl/splectrum-101/`. **Unblocked and drafted 2026-07-13** (the pillar work that gated it is done): a plain-language bullet version explaining SPLectrum-so-far in two parts — the seed (reality in language, the *how* of language, the three core values belonging/privacy/creativity) and the metaphysics in two layers (subject-with-reality: learn/name/express; subject-with-other-subjects: values/living-together). Committed. **Next pass: shape the bullets into finished prose + the diagram the page always wanted** (layout deliberately deferred). Register is layman — plain question first, pillar names secondary. Consider folding in the "two-sides-of-one-coin" host self-description here (the "what is SPLectrum *for*" answer) — but that's tracked as its own integration task, decide deliberately.
 
 ## Submissions (scoped, not in the active plan yet)
 
