@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Discovery Multiplier"
-date: 2026-09-28
+date: 2026-08-29
 lastmod: 2026-08-28
 labels: [creativity, engineering]
 status: Mandatory review

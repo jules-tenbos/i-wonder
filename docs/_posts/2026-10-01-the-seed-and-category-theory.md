@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Seed and Category Theory"
-date: 2026-09-01
+date: 2026-10-01
 lastmod: 2026-05-12
 labels: [category-theory, seed, mathematics, philosophy]
 status: mandatory review

@@ -12,17 +12,19 @@ Evolution was too narrow a name: it named one expression of the value, not the v
 
 ## Current state (2026-07-13)
 
-Five posts drafted, all at **Mandatory review**:
+**Reordered and rescheduled 2026-07-13 — all seven run weekly, openers → discovery arc → perimeter destination:**
 
-| Date | Post | Thesis |
-|---|---|---|
-| 2026-08-16 | A View from the Perimeter | the full physical curve — thresholds in interaction density, quantum → chemistry → life → culture; P4 across all levels, no hierarchy; growth in expression, not power |
-| 2026-08-24 | — The Thinking Side | the same curve through thought media (oral → writing → print → electronic → AI); AI as horizontal interrelation made operational; closes on spectrum/plectrum |
-| 2026-09-12 | Creation and Discovery | creation conforms to discovery (P5 + P2); Whitehead, Rorty; the plectrum-discovers-a-note argument |
-| 2026-09-20 | Diversified Discovery | diversification is how discovery works; P4 as operating condition; decentralisation as discovery-architecture, not politics |
-| 2026-09-28 | The Discovery Multiplier | the human/AI pairing (grounding × breadth); scan–diversify–evolve; Edelman, selection by the relational space |
+| Date | Post | Status | Thesis |
+|---|---|---|---|
+| 2026-08-01 | The Generative Value | draft | creativity as the generative core value — the motion between belonging and privacy; the forms (seeing-differently, making-different, discovery, evolution); series manifesto |
+| 2026-08-08 | The Unwalked Path | draft | creation conforms to discovery, first pass; the from-nothing picture dissolved; diversification gesture pocketed |
+| 2026-08-15 | Creation and Discovery | Mandatory review | the full argument (P5 + P2); Whitehead, Rorty; the plectrum-discovers-a-note |
+| 2026-08-22 | Diversified Discovery | Mandatory review | diversification is how discovery works; P4 as operating condition; decentralisation as discovery-architecture |
+| 2026-08-29 | The Discovery Multiplier | Mandatory review | the human/AI pairing (grounding × breadth); scan–diversify–evolve; Edelman |
+| 2026-09-05 | A View from the Perimeter | Mandatory review | the full physical curve — thresholds in interaction density; P4 across all levels; growth in expression, not power |
+| 2026-09-12 | — The Thinking Side | Mandatory review | the same curve through thought media; AI as horizontal interrelation made operational; closes the series on spectrum/plectrum |
 
-**Two slots are reserved for the series openers: Aug 1 and Aug 8.** The perimeter pair was moved back from those dates on 2026-07-04 (`0c8ef7e`) explicitly to free them — "Frees Aug 1 and Aug 8 to open the creativity series." (Mutualism Without Intent → Oct 08 and Decentralised Process Models → Oct 16 were pushed back in the same move, clearing the runway behind the series.)
+Every existing seam holds in this order with no rewrites — the perimeter's "previous posts" line is now exactly true. Knock-on moves (same 2026-07-13 reshuffle): Decentralised Cognition Revolution 09-04 → **09-20** (out of the series climax, into the quiet zone); the five CT posts one month back → **10-01, 10-08, 10-16, 10-24, 11-01**; Mutualism Without Intent → **11-08**, Decentralised Process Models → **11-15** (weekly continues behind the CT run).
 
 ## The plan: a few initial posts leading up to the perimeter pair
 
@@ -31,16 +33,13 @@ The openers (Aug 1, Aug 8 — possibly more; "a few") lead up to the perimeter p
 - **Opener 1 — creativity as the generative core value.** The rename rationale is nearly the storyline: creativity as the value, with evolution, discovery, making-different, seeing-differently as its forms. Introduces the series and roots it in the core-values triad (belonging · privacy · creativity — creativity as the motion between the two poles).
 - **Opener 2 — creation conforms to discovery, first pass.** Lays the ground the perimeter post stands on, in lead-up form; the Sep post then elaborates it after the curve has been shown.
 
-## The ordering constraint (must be resolved by the openers)
+## The ordering constraint — RESOLVED by the 2026-07-13 reorder
 
-The perimeter post opens: *"The previous posts in this series established the ground: creation conforms to discovery, diversification is how discovery works, and the AI pairing makes it multiplicative."* Those are the theses of the **September trio** — which publishes *after* it. As scheduled, that line references posts that don't exist yet.
+The perimeter post's opening line (*"The previous posts in this series established the ground: creation conforms to discovery, diversification is how discovery works, and the AI pairing makes it multiplicative"*) described the trio, which was scheduled after it. The reorder puts the trio before the perimeter pair, so the line is now exactly true — no softening needed. All seams verified against the new order; they hold verbatim (unwalked→creation-deep is even the promised "own post later in this series").
 
-Resolution options:
-1. **The openers establish that ground in lead-up form** (the freed slots say this was the intent) — then the perimeter line stands, reading "previous posts" as the openers, and the Sep trio becomes the elaboration arc after the curve. Check each opener actually covers what the line claims — three theses is a lot for two posts; either add a third opener or soften the line.
-2. **Rewrite the perimeter line** to promise forward instead of pointing back.
-3. **Reorder the trio ahead of the pair** — rejected implicitly by the 07-04 reschedule, which kept the trio in Sep.
-
-Whichever way, do a **cross-reference pass over all five posts** once the openers are storylined: the multiplier's close ("the evolutionary curve seen from the perimeter — is where this leads") points forward to posts that will then be a month published; the creation post's close hands to diversified-discovery; check every seam against the final order.
+Two small review tweaks remain (on the openers, not the five):
+- **Plectrum dedup** — The Unwalked Path uses the plectrum-note image; Creation and Discovery (now 7 days later) carries the full version. Swap the opener's paragraph to walking/path imagery (its title already carries it); the plectrum stays with the posts that own it.
+- The Unwalked Path's "has its own post later in this series" can tighten to "the next post."
 
 ## Connections
 
@@ -53,7 +52,9 @@ Whichever way, do a **cross-reference pass over all five posts** once the opener
 
 ## Status
 
-- [ ] Storyline the openers (discussion first; this doc holds the candidates)
-- [ ] Cross-reference pass over the five drafted posts against the final order
-- [ ] Mandatory review passes on the five (after the openers settle what they can lean on)
+- [x] Storyline the openers *(agreed 2026-07-13: opener 1 = the value, opener 2 = creation-conforms-to-discovery first pass)*
+- [x] Draft the openers *(2026-07-13)* — **The Generative Value** (2026-08-01) and **The Unwalked Path** (2026-08-08), both `status: draft` in `docs/_posts/`
+- [ ] Review the openers to ready (user review first — drafts not yet read back)
+- [ ] Cross-reference pass over the five earlier posts against the final order — incl. softening the perimeter post's "previous posts" line to what the openers actually establish (creation conforms to discovery + the diversification gesture; the AI pairing stays a forward promise)
+- [ ] Mandatory review passes on the five
 - [ ] Reading path: add the series (trigger already tracked in scheduled-tasks)
