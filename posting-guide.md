@@ -15,6 +15,7 @@ Posts live in `docs/_posts/` as Jekyll markdown with front matter. Future-dated 
 
 Blog cadence is layered: roughly weekly as a minimum schedule looking four months ahead, every four days as a target schedule with a two-month ahead window, and when there is additional material posts slot in between — creating a local two-day cadence. Posts are rescheduled as needed so the storyline makes sense.
 
+- **The day-number grid.** Posts sit on two monthly tracks so day numbers repeat every month: **track A — 1, 8, 16, 24**; **track B — 4, 12, 20, 28**. One track alone is the weekly minimum; both tracks interleaved give the four-day target. When scheduling or rescheduling, place posts on grid days — a series runs down one track; the other track carries the interleave.
 - Schedule time: 02:00 UTC.
 - Active schedule tracked in `scheduled-tasks.md`.
 - Main and topnav update as the work evolves, not on a cadence.

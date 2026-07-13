@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Creation and Discovery"
-date: 2026-08-15
+date: 2026-09-08
 lastmod: 2026-08-12
 labels: [creativity, philosophy]
 status: Mandatory review

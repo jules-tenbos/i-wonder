@@ -12,19 +12,22 @@ Evolution was too narrow a name: it named one expression of the value, not the v
 
 ## Current state (2026-07-13)
 
-**Reordered and rescheduled 2026-07-13 — all seven run weekly, openers → discovery arc → perimeter destination:**
+**Final order (2nd reorder, 2026-07-13) — eight posts on grid track A (1-8-16-24), vista early, working-out after:**
 
-| Date | Post | Status | Thesis |
+| Date | Post | Status | Role |
 |---|---|---|---|
-| 2026-08-01 | The Generative Value | draft | creativity as the generative core value — the motion between belonging and privacy; the forms (seeing-differently, making-different, discovery, evolution); series manifesto |
-| 2026-08-08 | The Unwalked Path | draft | creation conforms to discovery, first pass; the from-nothing picture dissolved; diversification gesture pocketed |
-| 2026-08-15 | Creation and Discovery | Mandatory review | the full argument (P5 + P2); Whitehead, Rorty; the plectrum-discovers-a-note |
-| 2026-08-22 | Diversified Discovery | Mandatory review | diversification is how discovery works; P4 as operating condition; decentralisation as discovery-architecture |
-| 2026-08-29 | The Discovery Multiplier | Mandatory review | the human/AI pairing (grounding × breadth); scan–diversify–evolve; Edelman |
-| 2026-09-05 | A View from the Perimeter | Mandatory review | the full physical curve — thresholds in interaction density; P4 across all levels; growth in expression, not power |
-| 2026-09-12 | — The Thinking Side | Mandatory review | the same curve through thought media; AI as horizontal interrelation made operational; closes the series on spectrum/plectrum |
+| 2026-08-01 | The Generative Value | draft | the value — motion between belonging and privacy; workshop; structural-not-special; the loop |
+| 2026-08-08 | The Faces of Creativity | draft | the map — discovered/invented/evolved as three SEATS on one motion (walker's seat / structural / no-seat-at-scale); evolution released from its three jobs (Darwinian/cultural/cosmological = watching distances); rename owned; list open; self-realisation seeded |
+| 2026-08-16 | The Unwalked Path | draft | the walker's seat — creation conforms to discovery, first pass; closes "next two posts scale up… view from the perimeter" (seam holds verbatim) |
+| 2026-08-24 | A View from the Perimeter | Mandatory review | the vista — the physical curve |
+| 2026-09-01 | — The Thinking Side | Mandatory review | the vista, thinking side; spectrum/plectrum passage (now mid-series) |
+| 2026-09-08 | Creation and Discovery | Mandatory review | back down to the act — the full argument (Whitehead, Rorty); close hands to Diversified (seam holds) |
+| 2026-09-16 | Diversified Discovery | Mandatory review | how discovery is organised |
+| 2026-09-24 | The Discovery Multiplier | Mandatory review | the AI pairing — series close, forward-looking |
 
-Every existing seam holds in this order with no rewrites — the perimeter's "previous posts" line is now exactly true. Knock-on moves (same 2026-07-13 reshuffle): Decentralised Cognition Revolution 09-04 → **09-20** (out of the series climax, into the quiet zone); the five CT posts one month back → **10-01, 10-08, 10-16, 10-24, 11-01**; Mutualism Without Intent → **11-08**, Decentralised Process Models → **11-15** (weekly continues behind the CT run).
+**Three seam edits owed, inside the Mandatory reviews:** (1) perimeter's "previous posts" line softens to creation-conforms-to-discovery only; (2) multiplier's "the perimeter — is where this leads" becomes a callback; (3) light bridge from Thinking Side into Creation and Discovery. Plectrum dedup (Unwalked vs Creation-deep) is now optional — a month apart, not a week; decide at review.
+
+Around the series: Decentralised Cognition Revolution **09-20** (track B interleave); CT series **10-01, 10-08, 10-16, 10-24, 11-01**; Mutualism Without Intent **11-08**, Decentralised Process Models **11-16**. Cadence grid (tracks A/B) now recorded in `posting-guide.md` § Cadence.
 
 ## The plan: a few initial posts leading up to the perimeter pair
 
@@ -33,13 +36,11 @@ The openers (Aug 1, Aug 8 — possibly more; "a few") lead up to the perimeter p
 - **Opener 1 — creativity as the generative core value.** The rename rationale is nearly the storyline: creativity as the value, with evolution, discovery, making-different, seeing-differently as its forms. Introduces the series and roots it in the core-values triad (belonging · privacy · creativity — creativity as the motion between the two poles).
 - **Opener 2 — creation conforms to discovery, first pass.** Lays the ground the perimeter post stands on, in lead-up form; the Sep post then elaborates it after the curve has been shown.
 
-## The ordering constraint — RESOLVED by the 2026-07-13 reorder
+## The faces decision (2026-07-13)
 
-The perimeter post's opening line (*"The previous posts in this series established the ground: creation conforms to discovery, diversification is how discovery works, and the AI pairing makes it multiplicative"*) described the trio, which was scheduled after it. The reorder puts the trio before the perimeter pair, so the line is now exactly true — no softening needed. All seams verified against the new order; they hold verbatim (unwalked→creation-deep is even the promised "own post later in this series").
+The umbrella point — the rename brought all agency/change activity under one value — gets its own post, **The Faces of Creativity** (08-08), not a clause in opener 1. Settled shape: **three faces walked — discovery, invention, evolution — as three seats on one motion** (walker's seat = invention, real as experience, empty as from-nothing mechanism; structural = discovery, "we only ever stumble across"; no-seat-at-scale = evolution). Because creativity carries the width now, **evolution stays narrow** — Darwinian/cultural/cosmological are watching distances, not senses to adjudicate. List explicitly open (down to re-choosing what you belong to); self-realisation seeded in one line (the face turned inward, its own story later). Rejected along the way: the -differently triple (seeing/making/belonging-differently) as face names — native vocabulary the reader hasn't earned by post two; the everyday triad is the shared language.
 
-Two small review tweaks remain (on the openers, not the five):
-- **Plectrum dedup** — The Unwalked Path uses the plectrum-note image; Creation and Discovery (now 7 days later) carries the full version. Swap the opener's paragraph to walking/path imagery (its title already carries it); the plectrum stays with the posts that own it.
-- The Unwalked Path's "has its own post later in this series" can tighten to "the next post."
+Opener 1's forms paragraph still owed its trim: the seeing-differently/making-different/discovery/evolution list should become a gesture to the faces post ("one value, many faces — next week") so the two posts don't run competing vocabularies.
 
 ## Connections
 
@@ -52,9 +53,9 @@ Two small review tweaks remain (on the openers, not the five):
 
 ## Status
 
-- [x] Storyline the openers *(agreed 2026-07-13: opener 1 = the value, opener 2 = creation-conforms-to-discovery first pass)*
-- [x] Draft the openers *(2026-07-13)* — **The Generative Value** (2026-08-01) and **The Unwalked Path** (2026-08-08), both `status: draft` in `docs/_posts/`
-- [ ] Review the openers to ready (user review first — drafts not yet read back)
-- [ ] Cross-reference pass over the five earlier posts against the final order — incl. softening the perimeter post's "previous posts" line to what the openers actually establish (creation conforms to discovery + the diversification gesture; the AI pairing stays a forward promise)
-- [ ] Mandatory review passes on the five
+- [x] Storyline + draft the three lead posts *(2026-07-13)* — **The Generative Value** (08-01), **The Faces of Creativity** (08-08), **The Unwalked Path** (08-16), all `status: draft`
+- [x] Reorder + regrid the full run *(2026-07-13, final order above)*
+- [ ] Opener 1 trim: forms paragraph → gesture to the faces post
+- [ ] Review the three drafts to ready (user review first)
+- [ ] Mandatory review passes on the five, carrying the three seam edits above
 - [ ] Reading path: add the series (trigger already tracked in scheduled-tasks)
