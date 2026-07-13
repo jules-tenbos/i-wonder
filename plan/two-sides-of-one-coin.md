@@ -37,13 +37,13 @@ Host ≠ "anything goes." The frame still discriminates — but on **soundness o
 - A reading is *sound* where anchored in what is genuinely shared between the reading context and the view read; *unsound* where it imports non-shared content as though shared. (The ethics page's soundness condition already states this.)
 - So SPLectrum can say when a content-move is made illegitimately — without ever ruling on the content itself. It hosts diverse contents *and* can mark an unsound reading. That is what stops the host stance dissolving into limitless relativism / "everyone is right."
 
-## Where it might live (to be decided in the integration pass — do NOT force-place now)
+## Where it lives (siting decided 2026-07-13)
 
-Candidates, in rough order of fit:
+Placed as an aspirational statement of approach — motivated by the observation that the natural modus operandi is "this is wrong and here is something better," so the stance must be *stated*, not just enacted:
 
-- **The seed pages** — this is arguably a seed-level self-description (it follows from P4 equal-standing and the no-privileged-language discipline). Strongest structural home.
-- **The reality landing page** — where the pillars are related to each other; the "two faces of one refusal" belongs where the whole is framed.
-- **SPLectrum 101** — the layman's intro should answer "what is SPLectrum *for*," and this is the clearest answer. The 101 draft currently explains the *structure*; this gives it the *purpose*. Good secondary home, likely a plain-language line.
-- **The pluralism capstone** — "reading pluralism from a position" *is* the host stance turned on the many-views question. It may anchor there, or the capstone may assume it as already-stated.
-
-The placement decision deserves its own considered pass — it is a foundational statement and siting it wrong (or in one place only when it wants to be in the frame) would undersell it. Decide the home(s) deliberately; the wording adapts to the surface (seed register vs. layman vs. capstone).
+- **Home page** (`docs/index.md`) — the sharp one-line form, woven into the "in short" paragraph. Contrast structure kept (the reader needs the foil): the adversarial habit says *"this is wrong,"* SPLectrum asks: *where does it make sense?* Ends on the offer (frame that hosts), not the enemy.
+- **Reality landing** (`docs/reality/index.md`) — the fuller two-faces version in the opening paragraph, replacing "one voice among many" (the modest form the host statement supersedes). Joins the host face to the disclosure paragraph below it, plus the soundness-of-reading fence in one sentence.
+- **SPLectrum 101** — still owed: the plain-language echo, at the 101 prose pass ("what is SPLectrum *for*").
+- **The pluralism capstone** — assumes the stance as already-stated; does not re-anchor it.
+- **The seed pages** — deliberately NOT placed there: the seed pages disclose what the principles say; this is a self-description of SPLectrum's own posture — different register. The seed (P4) stays the structural *root*, not the home.
+- **Real-life landing** — held off; section is finding its feet, and 101 (in that section) carries the layman form.
