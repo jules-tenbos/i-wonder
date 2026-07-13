@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-06-23
+lastmod: 2026-07-13
 title: "The Core Values and the Metaphysics They Disclose"
 description: "Three core values — belonging, privacy, creativity — and the metaphysics they disclose: epistemology, ontology, aesthetics, ethics, politics."
 ---
@@ -19,7 +19,7 @@ SPLectrum's metaphysics takes shape through disclosure, not derivation. It start
 
 **Creativity.** Creativity lives in the tension between what is shared and what is privately mine. Although we share the same language tools — in private we can apply them differently, the lived difference between the common ground and the personal experience. Shared reality is added to, not read out. We create and share — and that is what makes diversity a strength.
 
-These values are sufficient to lay out the nature of the five pillars.
+These values are sufficient to lay out the nature of the five pillars. The five fall into two realms of relation. Epistemology, ontology and aesthetics form the realm of **realisation**: the subject with reality, disclosed to it and enacted by it in the same movement. Ethics and politics form the realm of **coexistence**: the subject among other agents, who play their own games and make their own choices.
 
 ## The five metaphysics pillars
 

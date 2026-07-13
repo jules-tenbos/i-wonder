@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-06-26
+lastmod: 2026-07-13
 title: "Ethics — the values a language game holds"
 description: "SPLectrum's ethics pillar — values read off an actor's language game as the relational face of belonging, and the same reading at the scale of the shared community game, where those values are mandatory for members because membership is constituted by holding them."
 ---
@@ -11,7 +11,7 @@ description: "SPLectrum's ethics pillar — values read off an actor's language 
 
 Reality is disclosed in language. A subject's values are not a separate faculty laid over that disclosure but the shape it takes when the subject is read *in relation to the other*: how an actor — a subject, or a whole community — labels, structures and acts is already a stance toward what it shares its world with. Ethics reads that stance off the language game. It does not measure the values against a standard set outside the game, because there is no seat outside from which such a standard could be issued; it reads what the actor's values *are*, enacted in the game the actor plays.
 
-This is the outward turn of [belonging](/reality/core-values/). The subject always already belongs — never a blank slate, never alone — and ethics is what that belonging looks like turned toward the other: the subject's relation with, and attitude toward, the reality it shares. Where [epistemology](/reality/epistemology/) reads the convergence by which we come to know in common, ethics reads the values by which we stand in relation. It is one operation — reading the values a game holds — run at two scales: the actor's own game, and the wider game a community of actors co-inhabits. Where each of these turns up across philosophy, and where SPLectrum carries it, is read across the field in [close affinity](/positioning/close-affinity/ethics/).
+This is the outward turn of [belonging](/reality/core-values/). The subject always already belongs — never a blank slate, never alone — and ethics is what that belonging looks like turned toward the other: the subject's relation with, and attitude toward, those it shares its world with. Where [epistemology](/reality/epistemology/) reads the convergence by which we come to know in common, ethics reads the values by which we stand in relation. It is one operation — reading the values a game holds — run at two scales: the actor's own game, and the wider game a community of actors co-inhabits. Where each of these turns up across philosophy, and where SPLectrum carries it, is read across the field in [close affinity](/positioning/close-affinity/ethics/).
 
 ---
 

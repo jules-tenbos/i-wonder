@@ -6,7 +6,7 @@ lastmod: 2026-07-13
 labels: [reality]
 description: "SPLectrum's politics — the still picture of ethics set in motion: a balance among language games that establishes itself through common understanding, not agreement, as the games are played."
 status: storyline
-words: 604
+words: 635
 ---
 <img src="https://images.unsplash.com/photo-1516880711640-ef7db81be3e1?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="The Politics of Coexistence" />
 
@@ -22,7 +22,7 @@ Coexistence, then, is the dynamic of playing one's roles across a whole web of l
 
 Out of all this playing, a balance establishes itself. Not decreed from above, not handed down by anyone with the authority to say how the games should sit together — there is no such seat. The balance is simply what the games playing alongside one another settle into, and it shifts as the play shifts.
 
-With politics set down, the metaphysics is complete — and it has a clear shape. Epistemology, ontology and aesthetics are one layer: the subject acquiring meaning, holding it as concepts, and expressing it in language — the subject's relation to reality in general. Ethics and politics are the second layer: the subject's standing and its ongoing interactions with *other* subjects and communities — others who have agency of their own, who play their own games and make their own choices. Two layers of relation, reality then other agents, and across both the same refusal holds: no universal good handed down from above, no one seated above the games to decide how they should coexist.
+With politics set down, the metaphysics is complete — and it has a clear shape. Epistemology, ontology and aesthetics are one realm — call it the realm of *realisation*: the subject acquiring meaning, holding it as concepts, and expressing it in language. Reality is disclosed to the subject and enacted by it in the same movement, and realisation carries both senses at once — coming to see, and making real. Ethics and politics are the second — the realm of *coexistence*: the subject's standing and its ongoing interactions with *other* subjects and communities — others who have agency of their own, who play their own games and make their own choices. Two realms of relation, realisation then coexistence, and across both the same refusal holds: no universal good handed down from above, no one seated above the games to decide how they should coexist.
 
 I think this is a sound approach to metaphysics — not a finished system, but a solid place to build from. What is left is not a verdict but a position to read from. From here the question of how many realities can genuinely stand alongside one another — pluralism — can be taken up not as an argument to win but as a landscape to read. And that is where this series goes next.
 
