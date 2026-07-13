@@ -2,7 +2,13 @@
 
 Plan work and research tracking.
 
-**Active sequence (updated 2026-07-13):** the **reality-series metaphysics posts** have been the live thread. The five-pillar metaphysics cycle is now written as blog posts: *A Metaphysics of Disclosure* (the three learning pillars, **published 2026-07-12**), *The Ethics of Language Games* (2026-07-20, self-contained draft), *The Politics of Coexistence* (2026-07-28, storyline complete, resting — closes the cycle and names its two-layer shape). **SPLectrum 101** (`/real-life/spl/splectrum-101/`) is unblocked and drafted in plain-language bullets; **next pass there: shape into prose + the diagram** (layout deferred). Plan docs live in `plan/`: ethics + politics groundwork, the "two-sides-of-one-coin" host self-description (integration scheduled below), and the Kolchinsky research survey (physics-of-meaning — big future build, scoped-not-active).
+## Recurring reviews
+
+Pages that go stale as the site grows — check them whenever their trigger fires, not on a calendar.
+
+- **Reading path** (`docs/start-here.md`) — lists the blog series and orients new readers. **Trigger: a new blog series starts, or a section materially changes shape.** Reality series added 2026-07-13. **Next known trigger: the creativity series** (starting soon — add it to the series list when the first post is scheduled).
+
+**Active sequence (updated 2026-07-13):** the **reality-series metaphysics posts** have been the live thread. The five-pillar metaphysics cycle is now written as blog posts: *A Metaphysics of Disclosure* (the three learning pillars, **published 2026-07-12**), *The Ethics of Language Games* (2026-07-20, self-contained draft), *The Politics of Coexistence* (2026-07-28, storyline complete, resting — closes the cycle and names its two-layer shape). **SPLectrum 101** (`/real-life/spl/splectrum-101/`) is unblocked and drafted in plain-language bullets; **next pass there: shape into prose + the diagram** (layout deferred). Plan docs live in `plan/`: ethics + politics groundwork, the "two-sides-of-one-coin" host self-description (sited + written in 2026-07-13; the 101 plain-language echo remains), and the Kolchinsky research survey (physics-of-meaning — big future build, scoped-not-active).
 
 **Queued behind the reality series:** the **language-mechanics** close-affinity piece (divergence↔convergence — see Research below, axis fully anchored, still owed) and the **pluralism rework** (the capstone; couples to the two-sides-of-one-coin integration). Engine before capstone.
 
@@ -21,7 +27,7 @@ Plan work and research tracking.
 
 - [ ] **Pluralism rework** in `plan/pluralism-rework.md`: rework the pluralism close-affinity page into a subject + a real affinity reading (the mapping exercise). Phases 1–2, not started. When the pluralism subject lands, revisit the politics Branch-3 cross-links (tracked in the plan).
 
-- [ ] **"Two sides of one coin" — integrate the host self-description** (scoped in `plan/two-sides-of-one-coin.md`, captured 2026-07-13). SPLectrum is not only cosmologically consistent but a *frame that hosts diverse content-languages* — "not 'this is wrong' but 'it makes sense read this way'." The two faces (how to approach reality / attitude toward other subjects) are one refusal of the view-from-above. Foundational self-description; already enacted across the built posts, not a bolt-on; kept honest by soundness-of-reading (not "anything goes"). **Task: decide its home(s) deliberately and write it in** — candidates: seed pages (strongest, it follows from P4), reality landing page, SPLectrum 101 (the "what is it *for*" answer), the pluralism capstone. Do NOT force-place; siting deserves its own considered pass. Couples to the pluralism rework above (the host stance *is* pluralism-read-from-a-position).
+- [x] **"Two sides of one coin" — integrate the host self-description** *(sited and written in 2026-07-13)* — placed on the **home page** (sharp contrast form: the adversarial habit says "this is wrong," SPLectrum asks *where does it make sense?*) and the **reality landing** (fuller two-faces version + soundness-of-reading fence, replacing "one voice among many"). Seed pages deliberately not used (root, not home); real-life landing held off. Decision record in `plan/two-sides-of-one-coin.md`. **Residue: the plain-language echo in SPLectrum 101** — folded into the 101 prose-pass task below. The pluralism capstone assumes the stance as already-stated.
 
 ## Positioning entries needed
 
@@ -29,7 +35,7 @@ Plan work and research tracking.
 
 ## Real Life
 
-- [ ] **SPLectrum 101** — at `/real-life/spl/splectrum-101/`. **Unblocked and drafted 2026-07-13** (the pillar work that gated it is done): a plain-language bullet version explaining SPLectrum-so-far in two parts — the seed (reality in language, the *how* of language, the three core values belonging/privacy/creativity) and the metaphysics in two layers (subject-with-reality: learn/name/express; subject-with-other-subjects: values/living-together). Committed. **Next pass: shape the bullets into finished prose + the diagram the page always wanted** (layout deliberately deferred). Register is layman — plain question first, pillar names secondary. Consider folding in the "two-sides-of-one-coin" host self-description here (the "what is SPLectrum *for*" answer) — but that's tracked as its own integration task, decide deliberately.
+- [ ] **SPLectrum 101** — at `/real-life/spl/splectrum-101/`. **Unblocked and drafted 2026-07-13** (the pillar work that gated it is done): a plain-language bullet version explaining SPLectrum-so-far in two parts — the seed (reality in language, the *how* of language, the three core values belonging/privacy/creativity) and the metaphysics in two layers (subject-with-reality: learn/name/express; subject-with-other-subjects: values/living-together). Committed. **Next pass: shape the bullets into finished prose + the diagram the page always wanted** (layout deliberately deferred). Register is layman — plain question first, pillar names secondary. The prose pass also owes the plain-language echo of the "two-sides-of-one-coin" host stance (the "what is SPLectrum *for*" answer) — siting decided 2026-07-13, home + reality landing done, 101 echo is the residue.
 
 ## Submissions (scoped, not in the active plan yet)
 
