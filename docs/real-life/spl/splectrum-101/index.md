@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-06-25
+lastmod: 2026-07-13
 title: "SPLectrum 101"
 description: "A layman's introduction to SPLectrum."
 ---
@@ -13,9 +13,10 @@ description: "A layman's introduction to SPLectrum."
      WORKING DRAFT — plain-language bullet points, 2026-07-13.
      Goal: explain SPLectrum-so-far in simple common language.
      Two parts: (1) THE SEED — reality disclosed in language, the
-     structural "how" of language; (2) THE METAPHYSICS — the
-     subject in relation to reality, and to other subjects (who
-     have agency). Layout / diagram comes LATER — content first.
+     structural "how" of language; (2) THE METAPHYSICS — the two
+     realms (named 2026-07-13): REALISATION (subject with reality)
+     and COEXISTENCE (subject among other subjects, who have
+     agency). Layout / diagram comes LATER — content first.
      Register: LAYMAN. Plain question first; pillar names
      (epistemology etc.) secondary or in brackets, never leading.
      Draws on the seed pages + the five pillar posts (disclosure,
@@ -46,24 +47,24 @@ description: "A layman's introduction to SPLectrum."
 
 ## Part 2 — The metaphysics: the subject in relation
 
-*Built on the seed. Once you have a subject making sense of reality through language, two kinds of relationship open up — first with reality itself, then with other subjects who have agency of their own.*
+*Built on the seed. Once you have a subject making sense of reality through language, two kinds of relationship open up — first with reality itself, then with other subjects who have agency of their own. SPLectrum calls them the realm of realisation and the realm of coexistence.*
 
-### Layer 1 — the subject and reality (making and holding meaning)
+### The first realm — the subject and reality *(realisation)*
 
 - **How we learn** *(epistemology)* — turning private experience into clearer language, and steadying it by sharing with others.
 - **How we name things** *(ontology)* — the concepts themselves, the settled units of meaning: the "what things are" side.
 - **How we express meaning** *(aesthetics)* — not art-for-galleries, but the living craft of putting meaning into language: the moving, expressive side.
 
-*These three are the subject relating to reality in general — acquiring meaning, holding it, expressing it.*
+*These three are the subject relating to reality in general — acquiring meaning, holding it, expressing it. That is why SPLectrum calls it realisation: the word carries both movements at once — coming to see, and making real.*
 
-### Layer 2 — the subject and other subjects (living among others who also choose)
+### The second realm — the subject and other subjects *(coexistence)*
 
 - **What I value toward others** *(ethics)* — values are held inside the games we play (family, work, community). Not one rule for everything, but a spread, tied to the roles we take on.
 - **How we live together** *(politics)* — the ongoing play of those games alongside one another. A workable balance settles between people and communities through common understanding — not by anyone deciding it from above.
 
-*These two are the subject relating to other subjects and communities — others who have their own agency, who play their own games and make their own choices.*
+*These two are the subject relating to other subjects and communities — others who have their own agency, who play their own games and make their own choices. Living together among free players: coexistence.*
 
 ## The shape, in one breath
 
-- SPLectrum starts from **reality in language** (the seed), and builds a metaphysics in **two layers**: the subject making sense of **reality** (learning, naming, expressing), and the subject living among **other subjects** (values, and living together).
+- SPLectrum starts from **reality in language** (the seed), and builds a metaphysics in **two realms**: **realisation** — the subject making sense of reality (learning, naming, expressing) — and **coexistence** — the subject living among other subjects (values, and living together).
 - Throughout, it describes **how** we relate to reality, not **what** to believe — and it holds that **you have far more say over your reality than you may realise.**
