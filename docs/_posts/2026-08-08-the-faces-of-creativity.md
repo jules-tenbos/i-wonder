@@ -8,7 +8,7 @@ description: "Discovered, invented, evolved — the three drawers we file newnes
 status: draft
 words: 550
 ---
-<img src="https://images.unsplash.com/photo-1559523527-b05d4e6775f8?q=80&w=350&h=230&auto=format&fit=crop" alt="The Faces of Creativity" />
+<img src="https://images.unsplash.com/photo-1659136039077-0fa504a96237?q=80&w=350&h=230&auto=format&fit=crop" alt="The Faces of Creativity" />
 
 When something new shows up, we file it. Three drawers, and everyone knows the labels. *Discovered* — it was there all along, and someone finally found it: a continent, a comet, penicillin. *Invented* — it was not there, and someone made it: the telephone, the sonnet, the wheel. *Evolved* — nobody made it, it grew on its own: the eye, the market, the language you are reading. The filing system is so familiar it does not feel like a system. It feels like a fact about the world.
 
@@ -25,4 +25,4 @@ So: one value, one motion, three familiar faces, and an open door. What the seri
 <small>This post is part of the [creativity series](/blog/label/creativity/). See also <a href="/reality/core-values/">The Core Values and the Metaphysics They Disclose</a>.</small>
 
 ---
-<small>Photo: <a href="https://unsplash.com/@jaydenyoonzk">Jayden Yoon ZK</a> / Unsplash</small>
+<small>Photo: <a href="https://unsplash.com/@travelalphawolf">Julio Wolf</a> / Unsplash</small>

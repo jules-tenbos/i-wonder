@@ -7,7 +7,7 @@ labels: [creativity, engineering]
 status: Mandatory review
 words: 421
 ---
-<img src="https://images.unsplash.com/photo-1559523527-b05d4e6775f8?q=80&w=350&h=230&auto=format&fit=crop" alt="The Discovery Multiplier" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://images.unsplash.com/photo-1716817276052-f3030c20c117?q=80&w=350&h=230&auto=format&fit=crop" alt="The Discovery Multiplier" />
 
 Diversified discovery says: multiple paths through the same relational space discover more than any single path. That is the structural argument. But there is a specific pairing that makes it concrete — human and AI walking different paths through the same space simultaneously.
 
@@ -22,4 +22,4 @@ This shape recurs at every scale where discoverers multiply. Not progress toward
 <small>This post is part of the [creativity series](/blog/label/creativity/). See also <a href="/engineering/">Engineering</a>.</small>
 
 ---
-<small>Photo: <a href="https://unsplash.com/@jaydenyoonzk">Jayden Yoon ZK</a> / Unsplash</small>
+<small>Photo: <a href="https://unsplash.com/@coldfield">Alexander Lyashkov</a> / Unsplash</small>

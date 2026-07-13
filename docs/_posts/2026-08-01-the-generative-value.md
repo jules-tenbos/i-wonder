@@ -8,7 +8,7 @@ description: "The creativity series opens with the generative core value: creati
 status: draft
 words: 539
 ---
-<img src="https://images.unsplash.com/photo-1559523527-b05d4e6775f8?q=80&w=350&h=230&auto=format&fit=crop" alt="The Generative Value" />
+<img src="https://images.unsplash.com/photo-1717501218347-64853a917fd8?q=80&w=350&h=230&auto=format&fit=crop" alt="The Generative Value" />
 
 A new series begins here, and it begins with a value. SPLectrum holds [three values at its core](/reality/core-values/) — belonging, privacy, creativity. The first two are the poles of being a subject: we are always already part of communities, their language ours before we could have refused it; and what we experience is ours alone — no one else sits in my seat. This series is about the third, and the third is not a third thing standing beside the other two. Creativity is the motion between them.
 
@@ -25,4 +25,4 @@ That is the ground this series walks from. The posts ahead follow the generative
 <small>This post is part of the [creativity series](/blog/label/creativity/). See also <a href="/reality/core-values/">The Core Values and the Metaphysics They Disclose</a>.</small>
 
 ---
-<small>Photo: <a href="https://unsplash.com/@jaydenyoonzk">Jayden Yoon ZK</a> / Unsplash</small>
+<small>Photo: <a href="https://unsplash.com/@googledeepmind">Google DeepMind</a> / Unsplash</small>

@@ -8,7 +8,7 @@ description: "Creation conforms to discovery — what we call creating is the wa
 status: draft
 words: 496
 ---
-<img src="https://images.unsplash.com/photo-1559523527-b05d4e6775f8?q=80&w=350&h=230&auto=format&fit=crop" alt="The Unwalked Path" />
+<img src="https://images.unsplash.com/photo-1590705429014-8c191dc581fc?q=80&w=350&h=230&auto=format&fit=crop" alt="The Unwalked Path" />
 
 Where does the new come from? The picture most of us carry is creation as conjuring: the blank page, the empty room, and then — from somewhere outside everything that already exists — something that was not there before. The genius pulls it out of nothing. The picture is so familiar it does not look like a picture.
 
@@ -25,4 +25,4 @@ Two observations are now on the table. Creativity is the generative motion of be
 <small>This post is part of the [creativity series](/blog/label/creativity/). See also <a href="/reality/discovery/">Discovery</a>.</small>
 
 ---
-<small>Photo: <a href="https://unsplash.com/@jaydenyoonzk">Jayden Yoon ZK</a> / Unsplash</small>
+<small>Photo: <a href="https://unsplash.com/@joshua_hoehne">Joshua Hoehne</a> / Unsplash</small>

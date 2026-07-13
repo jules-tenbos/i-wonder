@@ -7,7 +7,7 @@ labels: [creativity, philosophy]
 status: Mandatory review
 words: 525
 ---
-<img src="https://images.unsplash.com/photo-1559523527-b05d4e6775f8?q=80&w=350&h=230&auto=format&fit=crop" alt="Creation and Discovery" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://images.unsplash.com/photo-1780951920331-6900f33478c7?q=80&w=350&h=230&auto=format&fit=crop" alt="Creation and Discovery" />
 
 The SPLectrum [seed](/seed/) principle P5 says complexity grows in expression, not in power — the full relational power was always there. In [category theory](/positioning/subjects/c/ct/), a functor cannot create morphisms with no structural basis in the source — higher categories add expression about relations already present, not new relational power. And in engineering, the full power of a programming environment sits in the base language. Assembly, substrate operations, raw instruction set. Everything built above it is articulation. The same observation, in different domains: the relational power is already there.
 
@@ -22,4 +22,4 @@ A plectrum discovers a note. The note was always available. The discovery is the
 <small>This post is part of the [creativity series](/blog/label/creativity/). See also <a href="/seed/">the seed</a>.</small>
 
 ---
-<small>Photo: <a href="https://unsplash.com/@jaydenyoonzk">Jayden Yoon ZK</a> / Unsplash</small>
+<small>Photo: <a href="https://unsplash.com/@brechtcorbeel">Brecht Corbeel</a> / Unsplash</small>
