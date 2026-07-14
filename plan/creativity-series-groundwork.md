@@ -16,8 +16,8 @@ Evolution was too narrow a name: it named one expression of the value, not the v
 
 | Date | Post | Status | Role |
 |---|---|---|---|
-| 2026-08-01 | The Generative Value | draft | the value — motion between belonging and privacy; workshop; structural-not-special; the loop |
-| 2026-08-08 | The Faces of Creativity | draft | the map — discovered/invented/evolved as three SEATS on one motion (walker's seat / structural / no-seat-at-scale); evolution released from its three jobs (Darwinian/cultural/cosmological = watching distances); rename owned; list open; self-realisation seeded |
+| 2026-08-01 | The Generative Value | draft | solely the value, human case — motion between belonging and privacy; workshop; structural-not-special; incorporate-or-share fork; cook example walks the whole loop; sheet-music paragraph (bracketed passage to rework); no forward look — only the quiet scale hint (reorganised 2026-07-14; faces teaser + prospectus removed, non-human paragraph moved to faces) |
+| 2026-08-08 | The Faces of Creativity | draft | the map — discovered/invented/evolved as three SEATS on one motion (walker's seat / structural / no-seat-at-scale); evolution released from its three jobs (Darwinian/cultural/cosmological = watching distances); rename owned; list open; self-realisation seeded; **now also the scope-widening** (2026-07-14): subject-not-person, human first then other life — whoever-or-whatever in the evolution seat, claim in the open-door paragraph; the mammals→cells walk stays with the perimeter pair |
 | 2026-08-16 | The Unwalked Path | draft | the walker's seat — creation conforms to discovery, first pass; closes "next two posts scale up… view from the perimeter" (seam holds verbatim) |
 | 2026-08-24 | A View from the Perimeter | Mandatory review | the vista — the physical curve |
 | 2026-09-01 | — The Thinking Side | Mandatory review | the vista, thinking side; spectrum/plectrum passage (now mid-series) |
@@ -55,7 +55,7 @@ Opener 1's forms paragraph still owed its trim: the seeing-differently/making-di
 
 - [x] Storyline + draft the three lead posts *(2026-07-13)* — **The Generative Value** (08-01), **The Faces of Creativity** (08-08), **The Unwalked Path** (08-16), all `status: draft`
 - [x] Reorder + regrid the full run *(2026-07-13, final order above)*
-- [ ] Opener 1 trim: forms paragraph → gesture to the faces post
+- [x] Opener 1 trim: forms paragraph → gesture to the faces post *(2026-07-13; superseded by the 2026-07-14 reorganisation — the gesture paragraph itself later removed, opener now solely the value)*
 - [ ] Review the three drafts to ready (user review first)
-- [ ] Mandatory review passes on the five, carrying the three seam edits above
+- [ ] Mandatory review passes on the five, carrying the four seam edits above
 - [ ] Reading path: add the series (trigger already tracked in scheduled-tasks)
