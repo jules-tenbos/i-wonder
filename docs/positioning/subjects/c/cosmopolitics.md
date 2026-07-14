@@ -51,4 +51,4 @@ Stengers' cosmopolitics draws on her sustained reading of [Whitehead](/positioni
 
 [Stengers](/positioning/persons/s/stengers/) · [Whitehead](/positioning/persons/w/whitehead/)
 
-See also: [Philosophy of organism](/positioning/subjects/p/philosophy-of-organism/) · [Pluralism](/positioning/close-affinity/pluralism/) · [Process philosophy](/positioning/subjects/p/process-philosophy/)
+See also: [Philosophy of organism](/positioning/subjects/p/philosophy-of-organism/) · [Pluralism](/positioning/subjects/p/pluralism/) · [Process philosophy](/positioning/subjects/p/process-philosophy/)
