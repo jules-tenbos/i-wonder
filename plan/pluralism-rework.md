@@ -73,6 +73,19 @@ Stripped from the page when it converted to the subject (Phase 1, 2026-07-14). R
 - **Connolly:** "This is the closest existing move to what 'interrelational' adds." → hub (the pluralisation point is the dynamic-vs-static hinge).
 - **"The positioning" closer, whole** (mechanism-cost comparison with Whitehead; P0/P1-derivation claim; the seed-assembles bullets — James's open-endedness with the mechanism, Whitehead's engine diverging on the source, no-privilege extended across reality, Berlin's values interacting, Connolly's pluralisation grounded): → hub, position's chair; the per-stream bullets seed their items.
 
+## Post candidates from the pluralism work (validated 2026-07-15)
+
+Planning input only — scheduling and the blog pipeline stay user-managed. Person-centred, **positioning series** register: mainly the person and their work, author voice, NOT the SPLectrum voice; the pluralism relevance is the selection logic and stays behind the curtain. Each post converses where the person page states — no compressing the page into a post (watch the Feyerabend page's closer, "what happens when the gate is open and the garden grows": post-shaped, avoid copying). Lighter posts front-loaded (user's call).
+
+0. **Landscape opener** *(reality label, ahead of the run)* — slim post keeping the politics post's promise ("pluralism… is where this series goes next"): the scattered arrivals across five dimensions, pluralism as a landscape to read; built from the close-affinity hub. The person posts then run under positioning without owing the frame.
+1. **James** — the man who refused a finished world: willed his way out of depression by deciding to believe his choices were real; the metaphysics that followed is an unfinished universe ("ever not quite", reality still in the making, against the block universe). First self-avowed pluralist; warmest opener.
+2. **Feyerabend** — the student who dismantled his teacher's programme: wounded on the Eastern Front, studied under Popper, spent the career showing every method rule was productively broken (Galileo won by breaking them); "anything goes" as history's verdict, not his advice; "worst enemy of science" worn lightly. The fun one.
+3. **Berlin** — the biography as the argument: the eight-year-old watching the mob in the Revolution, the lifelong horror of the single-truth society; All Souls at 23, the Akhmatova night; value pluralism — genuine goods conflict, no formula resolves them, and that is not relativism. Graver, very tellable.
+4. **Stengers** — practices without a referee: chemist on Prigogine's team before philosophy; cosmopolitics vs cosmopolitanism; *reciprocal capture* (conflicting practices changing each other while remaining distinct) and *the idiot* (slowing the consensus — "there is something more important"). Contemporary, denser — placed late. Also quietly carries the process-relational line (no second Whitehead post — existing 06-04 post + the process-theory bog).
+5. **Putnam** — the capstone; groundwork is `plan/putnam-working-sketch.md` (matures meanwhile). Rorty appears inside as the antagonist at the fork (no second Rorty post — "Philosophy as Conversation" 03-27 covers the core; ironism/solidarity unspent but thin as person-and-work; revisit only on pull). Goodman appears inside as the contrast ("took the steps and kept nothing").
+
+Cut from the slate: Whitehead (existing post; Stengers carries the line), a second Rorty post (above), Goodman standalone (strand inside Putnam), Wittgenstein (the ethics post owns his spotlight). Later options: Arendt (plurality as the human condition), Connolly (pluralisation).
+
 ## Open decisions to settle as phases are reached
 
 - Pluralism subject bundle shape (single landing + which branches).
