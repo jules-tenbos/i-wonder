@@ -16,7 +16,7 @@ Thinkers and frameworks that share close structural affinity with SPLectrum — 
 - [Ethics](ethics) — SPLectrum's ethics as values read off a language game, mandatory for members at the scale of the common, with the shared base between games as the reference for any reading: the form-of-life rhyme, norms instituted in practice, where relativism stops, and the realist contrast
 - [Metaphysics](metaphysics) — SPLectrum's metaphysics as disclosure from the subject's seat, relational and with the mirror set aside, and the aspects of that dynamic surfacing across the field's approaches
 - [Ontology](ontology) — SPLectrum's entities as the concepts of the language medium, held at rest, read across the framework-relativity line, relations as what constitute an entity, and value-by-difference as the root of the relational
-- [Pluralism](pluralism) — the pluralist landscape across philosophy's dimensions, and where interrelational pluralism sits among them
+- [Pluralism](/positioning/close-affinity/pluralism/) — the pluralism family engaged from the interrelational position: the count set in motion, the two borders held, and the family's disputes answered from inside
 - [Politics](politics) — SPLectrum's politics as the dynamic of coexistence among diverse actors, read off the configuration at every scale and worked from what is held in common: the one-and-the-many as the field's standing concern, arrangements built from the shared, coexistence as ongoing contest, and the single actor as a political site
 - [Wittgenstein](/positioning/persons/w/wittgenstein/) — language games, forms of life, meaning as use. The materials for a structural account, without the construction.
 
