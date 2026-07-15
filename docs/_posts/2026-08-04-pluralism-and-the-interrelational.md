@@ -8,6 +8,7 @@ description: "Interrelational pluralism restated on the reality side: the scatte
 status: storyline
 words: 710
 ---
+<img src="https://images.unsplash.com/photo-1611220086980-1617d5f18082?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Pluralism and the Interrelational" />
 
 Interrelational pluralism has been on this blog before, told from the structural side — [From Seed to Interrelational Pluralism](/blog/2026/05/from-seed-to-interrelational-pluralism/) walked the mechanism. This post tells the same position from the other side: as metaphysics. That is not a repetition, because pluralism only lives on this side. The structure does not hold a position about the many — it simply is many-shaped, equal standing baked in before any claim is made. A position, something you can state, defend and have disputes about, needs realities to be about. Realities are metaphysics territory. So here is the position, stated where it lives.
 
@@ -24,4 +25,4 @@ That is the position, restated where it lives. It does not ask to be won as an a
 <small>This post is part of the [reality series](/blog/label/reality/). More at the <a href="/positioning/close-affinity/pluralism/">pluralism page of the close-affinity ring</a>.</small>
 
 ---
-<small>Photo: — image to be chosen.</small>
+<small>Photo: <a href="https://unsplash.com/@tudor_photography">Tudor Photography</a> / Unsplash</small>
