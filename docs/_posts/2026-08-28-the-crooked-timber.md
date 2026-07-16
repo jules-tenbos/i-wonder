@@ -8,7 +8,7 @@ description: "Isaiah Berlin — the boy who watched the Revolution and never for
 status: storyline
 words: 690
 ---
-<img src="" alt="Isaiah Berlin" />
+<img src="https://images.unsplash.com/photo-1653322462059-605b749a16e1?q=80&w=350&h=230&auto=format&fit=crop" alt="Isaiah Berlin" />
 
 Petrograd, February 1917. In the first days of the Revolution, a seven-year-old boy saw a man dragged away by a mob, pale and struggling, to what the boy understood was his death. Isaiah Berlin said later that the sight left him with a lifelong horror of political violence. The family — Jewish, in the Riga timber trade — went back to Latvia and then, in 1921, to England. Most philosophies are argued into; Berlin's was witnessed first and argued afterwards. The whole of it is already in that street scene: what happens to actual human beings when somebody is certain enough.
 
@@ -25,4 +25,4 @@ Where does he stop? At the question he is always asked: if goods genuinely confl
 <small>This post is part of the [positioning series](/blog/label/positioning/). See also the reference entry on <a href="/positioning/persons/b/berlin/">Isaiah Berlin</a>.</small>
 
 ---
-<small>Photo: — image to be chosen.</small>
+<small>Photo: <a href="https://unsplash.com/@duvlady">Darla Bethea</a> / Unsplash</small>
