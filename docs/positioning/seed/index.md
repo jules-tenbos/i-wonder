@@ -8,7 +8,7 @@ title: "Seed"
 
 # Seed
 
-Trajectory pieces that trace the historical and intellectual paths leading to the seed's structural territory.
+Pieces in close affinity with the seed principles themselves — the trajectories that lead to the seed's structural territory, and the principles read across the fields that study them.
 
 - [The Turn in Western Philosophy](the-turn-in-western-philosophy) — from Descartes to the relational turn
 - [The Turn in Science](the-turn-in-science) — from classical physics to relational quantum mechanics
@@ -17,3 +17,4 @@ Trajectory pieces that trace the historical and intellectual paths leading to th
 - [From Arrow to Historicity](from-arrow-to-historicity) — how irreversibility, traces, and retention connect across thermodynamics, biology, and philosophy
 - [Interrelational Pluralism](interrelational-pluralism) — the structural mechanism of creative interaction across frameworks
 - [Two-Pronged Anti-Representationalism](two-pronged-anti-representationalism) — Whitehead from nature, Rorty from language: two halves of one gesture against the mirror
+- [Sharing Knowledge](/positioning/seed/sharing-knowledge/) — P3 read across the mechanisms of sharing; its first piece, [Human ways of sharing](/positioning/seed/sharing-knowledge/human-ways-of-sharing/), takes developmental psychology and language acquisition on convergence, divergence, and coupling
