@@ -10,6 +10,8 @@ words: 641
 ---
 <img src="https://images.unsplash.com/photo-1659136039077-0fa504a96237?q=80&w=350&h=230&auto=format&fit=crop" alt="The Faces of Creativity" />
 
+[Don't forget to deal with error, parallelism and contingency here — each as much a face as any other]
+
 When something new shows up, we file it. Three drawers, and everyone knows the labels. *Discovered* — it was there all along, and someone finally found it: a continent, a comet, penicillin. *Invented* — it was not there, and someone made it: the telephone, the sonnet, the wheel. *Evolved* — nobody made it, it grew on its own: the eye, the market, the language you are reading. The filing system is so familiar it does not feel like a system. It feels like a fact about the world.
 
 Then you look closer, and the drawers leak. Calculus: did Newton discover it or invent it? Mathematicians have argued both sides for three centuries, which is a long time for a filing question. Penicillin was discovered — but the systematic method that found it was invented, so what exactly happened in that petri dish? A new word is invented by no one in particular and evolves through everyone in general. The longer you look, the more the drawers turn out to hold each other's contents.
