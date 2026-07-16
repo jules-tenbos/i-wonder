@@ -2,13 +2,13 @@
 layout: post
 title: "The Man Who Refused a Finished World"
 date: 2026-08-12
-lastmod: 2026-07-15
+lastmod: 2026-07-16
 labels: [positioning, philosophy]
 description: "William James — the first self-avowed pluralist. A stalled young man who willed himself back to life, and built from it a philosophy of a universe still in the making, never fully given, 'ever not quite'."
 status: storyline
 words: 600
 ---
-<img src="" alt="William James" />
+<img src="https://images.unsplash.com/photo-1616990600736-cab58155552a?q=80&w=350&h=230&auto=format&fit=crop" alt="William James" />
 
 In the winter of his late twenties, William James could barely get out of bed. He had trained as a doctor, drifted, sunk into a depression heavy enough that he questioned whether a human life was anything more than a machine running out its causes. What pulled him clear was not an argument but a decision. Reading the French philosopher Charles Renouvier on free will, he resolved to *believe* his choices were real — to act as if the future were open — and to treat that belief itself as his first free act. He came back to life through a wager. The philosophy he spent the next forty years building has the shape of that wager: a universe that is not finished, and a self entitled, where the evidence runs out and a decision cannot wait, to lean.
 
@@ -23,4 +23,4 @@ Where does he stop? He kept pragmatism personal — truth is what works *for me*
 <small>This post is part of the [positioning series](/blog/label/positioning/). See also the reference entry on <a href="/positioning/persons/j/james/">William James</a>.</small>
 
 ---
-<small>Photo: — image to be chosen.</small>
+<small>Photo: <a href="https://unsplash.com/@gmalhotra">Gayatri Malhotra</a> / Unsplash</small>
