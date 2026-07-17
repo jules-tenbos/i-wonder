@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mutualism Without Intent"
-date: 2026-11-08
+date: 2026-09-28
 lastmod: 2026-07-17
 labels: [positioning, philosophy]
 description: "Decentralisation conversations reach for mutualism vocabulary — but the path is a command chain even when the destination is named decentralised. The colouring runs deeper than the words. What changes when it is set aside?"
