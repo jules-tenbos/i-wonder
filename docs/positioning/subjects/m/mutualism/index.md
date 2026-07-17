@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-28
+lastmod: 2026-07-17
 title: "Mutualism"
 description: "Mutualism — relationships of mutual benefit across two parallel traditions: ecological (interspecific interactions where both parties benefit) and socio-political (voluntary, reciprocal association based on mutual aid and shared benefit)."
 ---
@@ -25,10 +25,12 @@ Between these two coinages, [Charles Darwin](/positioning/persons/d/darwin/)'s *
 
 The biology/economics traffic runs both ways through the period. Darwin reads Malthus. [Karl Marx](/positioning/persons/m/marx/) reads Darwin. Spencer reads each into the other. Kropotkin reads Huxley and Darwin against Huxley. Across very different political loyalties and methods, a shared instinct runs through these figures: that there is a pattern in nature, and the right arrangement of society can be grounded in it. Which pattern is contested. The commitment to grounding politics in nature is largely shared.
 
+That shared instinct did not produce agreement. The socio-political tradition divided sharply over which arrangement follows: Marx's rupture with Proudhon (1847) separated the emerging Marxist current from mutualism, and the division hardened through the International Workingmen's Association into distinct Marxist and anarchist lineages. Within anarchism, mutualism is the founding term of a sequence running on through collectivism and communism. Its later reception is contested to the present.
+
 ## In more detail
 
 - [Mutualism in biology](/positioning/subjects/m/mutualism/biology/) — the ecological concept, game theory and evolutionary biology, complex adaptive systems, current research.
-- [Mutualism in social and economic thought](/positioning/subjects/m/mutualism/social-and-economic-thought/) — the American individualist tradition, the cooperative movement, twentieth and twenty-first century developments, anthropological perspectives.
+- [Mutualism in social and economic thought](/positioning/subjects/m/mutualism/social-and-economic-thought/) — the European reception and the Marxist/anarchist split, the American individualist tradition and its contested reception, the cooperative movement, twentieth and twenty-first century developments, anthropological perspectives.
 
 ## The appeal to nature
 
