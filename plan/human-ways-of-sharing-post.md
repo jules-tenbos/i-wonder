@@ -1,5 +1,7 @@
 # Blog post storylines — the acquisition family (Post A) + the wider field (Post B)
 
+**STATUS 2026-07-17: both drafted.** Post A = `docs/_posts/2026-09-12-human-ways-of-sharing.md` (existed pre-split carrying the foils; **cut back to the family**, gained statistical learning + natural pedagogy + the both-ways shape). Post B = `docs/_posts/2026-09-20-the-box-the-basement-and-the-factory-setting.md` (20/09, track B, slot was free). Both `status: draft`, awaiting review. The storyline below is the spec they were built to — keep for review reference.
+
 Storyline workspace for two posts built off the seed affinity page `/positioning/seed/sharing-knowledge/human-ways-of-sharing/`. Blog register, looser and more personal than the page. Not tracked in `scheduled-tasks.md` (blog pipeline is user-managed); this doc is the workspace only.
 
 **History (2026-07-17):** started as one post — the family, with behaviourism and psychoanalysis as foils. Adding nativism as a third foil tipped it past what its own discipline allows (three foils is a survey; the family stops being the subject), so it split into A and B. The nativism research then ran (`plan/chomsky-nativism-dossier.md`), and a *third* post on nativism was briefly on the table — **collapsed back into Post B, 2026-07-17.** The nativism material feeds Post B; it does not get its own post. A nativism **subject page** is separately decided (no affinity — see the dossier §9).
