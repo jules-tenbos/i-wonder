@@ -63,6 +63,10 @@ These are subjects of importance to SPLectrum, referenced within the site.
 - [Music and meaning](m/music-and-meaning/) · philosophy of music, aesthetics<span class="kw">the long argument over what music means — Hanslick's formalism, expression and emotion (Cooke, Meyer, Levinson), Langer's symbol, Schopenhauer's metaphysics, absolute versus programme music</span>
 - [Mutualism](m/mutualism/) · biology, social and economic thought<span class="kw">relationships of mutual benefit across two parallel traditions — ecological and socio-political — from their shared nineteenth century origins to the present</span>
 
+## N
+
+- [Nativism](n/nativism/) · linguistics, cognitive science, philosophy of mind<span class="kw">the mind brings more than experience could have given it — the rationalist lineage from Plato and Leibniz, and its modern form: poverty of the stimulus, the emergence cases (creoles, Nicaraguan Sign Language, homesign), universal grammar and the retreat to Merge, the disputes over concepts (Fodor's Mentalese, Spelke's core knowledge) and evolution (saltation versus adaptation), and the typological, usage-based and empiricist challenges</span>
+
 ## P
 
 - [Phenomenology](p/phenomenology) · philosophy<span class="kw">the study of experience from the inside: Husserl, Heidegger, Merleau-Ponty, Jonas</span>

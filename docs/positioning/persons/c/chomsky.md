@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-06-28
+lastmod: 2026-07-17
 title: "Noam Chomsky (1928–)"
 description: "Chomsky founded generative linguistics and helped lead the cognitive revolution — reconceiving language as a biological property of the mind, with universal grammar, the poverty-of-the-stimulus argument, and a parallel, deliberately separate career as a political dissident."
 ---
@@ -23,11 +23,13 @@ Chomsky founded generative linguistics and was a principal architect of the cogn
 
 **Competence and performance.** Chomsky distinguished *competence* — the speaker's systematic, idealised knowledge of the language — from *performance*, actual use with its hesitations and errors. Linguistics, on his account, studies competence.
 
-**The poverty of the stimulus.** His central argument for innateness: the language a child hears is fragmentary and contains no grammar lessons, yet every normal child acquires a complex, productive grammar in a few years. The gap between the thin input and the rich result implies that much of the language faculty is **innate** — the child comes equipped with a species-specific endowment that constrains and guides acquisition. This was the decisive break with the empiricist and behaviourist account of language as conditioned habit.
+**The poverty of the stimulus.** His central argument for innateness: the language a child hears is fragmentary and contains no grammar lessons, yet every normal child acquires a complex, productive grammar in a few years. The gap between the thin input and the rich result implies that much of the language faculty is **innate** — the child comes equipped with a species-specific endowment that constrains and guides acquisition. This was the decisive break with the empiricist and behaviourist account of language as conditioned habit, and it founded the research programme of [nativism](/positioning/subjects/n/nativism/), where the argument's cases, its critics, and the disputes among nativists themselves are set out.
 
 **Universal grammar.** From this follows *universal grammar* — the innate faculty common to the species, the initial state of the language organ. Its mature form, the *Principles and Parameters* model of the 1980s, holds that all languages obey deep universal principles while differing in the settings of a limited set of *parameters* fixed by exposure — explaining cross-linguistic variation within a single universal frame.
 
 **The changing frameworks.** Chomsky has revised his theory repeatedly: the Standard Theory of *Aspects of the Theory of Syntax* (1965), *Government and Binding* (1981), and from the 1990s the **Minimalist Program**, which seeks the sparest possible account of the language faculty, built on the single combinatorial operation *Merge* and the conjecture that language is a near-optimal solution to the conditions imposed by the systems it interfaces with.
+
+**The lexicon and the origin of the faculty.** Two positions of his later work sit apart from the syntactic theory. He holds that lexical concepts are too complex to have been drawn from experience and so must in substance already be present, triggered rather than learned — extending the claim even to words like *carburetor* — a view that goes further than most nativists follow. And with Robert Berwick (*Why Only Us*, 2016) he argues that the faculty arose suddenly rather than gradually, through a chance rewiring, and that language is primarily an instrument of thought with communication a secondary use — a position contested by nativists who hold grammar to be a gradual adaptation for communication. Both disputes are taken up on the [nativism](/positioning/subjects/n/nativism/) page.
 
 **The Chomsky hierarchy.** His work in formal language theory — the *Chomsky hierarchy* classifying formal languages (regular, context-free, context-sensitive, recursively enumerable) by generative power — became foundational to theoretical computer science and the theory of computation, a reach well beyond linguistics.
 
@@ -49,7 +51,7 @@ For six decades Chomsky has pursued a serious anarchist and libertarian-socialis
 
 ## Contested questions
 
-Chomsky is foundational and contested in equal measure. Within linguistics, the *generative-semantics* wars of the 1960s–70s split his own movement; usage-based, cognitive, and construction approaches ([Tomasello](/positioning/persons/t/tomasello/), Goldberg, Langacker, Lakoff) challenge the autonomy of syntax and argue that grammar emerges from use and conceptual structure; connectionism questions whether discrete symbolic rules are the right level of description; and [Daniel Everett](https://en.wikipedia.org/wiki/Daniel_Everett) has argued from the Pirahã language that recursion is not universal, against Chomsky's claim that it is. The empirical status of universal grammar is itself disputed — critics charge that it is hard to falsify and that functional and learning pressures explain much of what it attributes to innate principle — and the Minimalist Program has its own critics. In politics he is both celebrated and reviled: his defence of Robert Faurisson's free-speech rights (while repudiating Faurisson's Holocaust denial) drew intense criticism, and his accounts of US foreign policy are rejected by opponents as one-sided. The foundational influence and the sustained controversy both belong to any honest account.
+Chomsky is foundational and contested in equal measure. Within linguistics, the *generative-semantics* wars of the 1960s–70s split his own movement; [Daniel Everett](https://en.wikipedia.org/wiki/Daniel_Everett) has argued from the Pirahã language that recursion is not universal, against Chomsky's claim that it is; and the Minimalist Program has its own critics. The wider argument his work provoked — the usage-based and construction challenges to the autonomy of syntax, the connectionist objection to symbolic rules, the disputed empirical status of universal grammar, and the disagreements among nativists over concepts and evolution — is the subject of [nativism](/positioning/subjects/n/nativism/), the research programme he founded, and is set out there rather than here. In politics he is both celebrated and reviled: his defence of Robert Faurisson's free-speech rights (while repudiating Faurisson's Holocaust denial) drew intense criticism, and his accounts of US foreign policy are rejected by opponents as one-sided. The foundational influence and the sustained controversy both belong to any honest account.
 
 ---
 
@@ -66,4 +68,4 @@ Chomsky is foundational and contested in equal measure. Within linguistics, the 
 
 ---
 
-See also: [Skinner](/positioning/persons/s/skinner/) · [Behaviourism](/positioning/subjects/b/behaviourism/) · [Quine](/positioning/persons/q/quine/) · [Descartes](/positioning/persons/d/descartes/) · [Dennett](/positioning/persons/d/dennett/)
+See also: [Nativism](/positioning/subjects/n/nativism/) · [Skinner](/positioning/persons/s/skinner/) · [Behaviourism](/positioning/subjects/b/behaviourism/) · [Tomasello](/positioning/persons/t/tomasello/) · [Quine](/positioning/persons/q/quine/) · [Descartes](/positioning/persons/d/descartes/) · [Dennett](/positioning/persons/d/dennett/)
