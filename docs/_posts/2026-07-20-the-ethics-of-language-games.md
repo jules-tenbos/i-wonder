@@ -3,7 +3,7 @@ layout: post
 title: "The Ethics of Language Games"
 date: 2026-07-20
 lastmod: 2026-07-17
-labels: [reality]
+labels: [reality, philosophy]
 description: "SPLectrum's descriptive ethics — values scoped to the language game in play, why there is no single good across them, and the three options every ethical decision actually holds."
 status: ready
 words: 624
