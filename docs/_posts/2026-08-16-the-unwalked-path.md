@@ -2,7 +2,7 @@
 layout: post
 title: "The Unwalked Path"
 date: 2026-08-16
-lastmod: 2026-07-13
+lastmod: 2026-07-18
 labels: [creativity, philosophy]
 description: "Creation conforms to discovery — what we call creating is the walking of a relational path that was available but unwalked. The newness is real; the from-nothing picture is what has to go."
 status: draft

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Creation and Discovery"
-date: 2026-09-08
-lastmod: 2026-08-12
+date: 2026-08-24
+lastmod: 2026-07-18
 labels: [creativity, philosophy]
 status: Mandatory review
 words: 525

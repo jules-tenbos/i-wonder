@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "A View from the Perimeter"
-date: 2026-08-24
-lastmod: 2026-06-24
+date: 2026-09-08
+lastmod: 2026-07-18
 labels: [creativity, science]
 status: Mandatory review
 words: 653
 ---
 <img src="https://images.unsplash.com/photo-1772413438851-f6dd22c7ebe1?q=80&w=350&h=230&auto=format&fit=crop" alt="A View from the Perimeter" />
 
-The basic structural principles of reality should apply everywhere. There are too many discontinuities across domains — non-living, living, conscious, symbolic — treated as if each operates on fundamentally different laws. Physics has its principles, biology its own, culture its own. The boundaries between non-living and living, between living and conscious, between concrete and abstract — treated as fundamental breaks. They shouldn't be. Not that everything is the same — but the structural principles should be continuous. The previous posts in this series established the ground: creation conforms to discovery, diversification is how discovery works, and the AI pairing makes it multiplicative. The evolutionary transitions were sketched. Now the full curve.
+The basic structural principles of reality should apply everywhere. There are too many discontinuities across domains — non-living, living, conscious, symbolic — treated as if each operates on fundamentally different laws. Physics has its principles, biology its own, culture its own. The boundaries between non-living and living, between living and conscious, between concrete and abstract — treated as fundamental breaks. They shouldn't be. Not that everything is the same — but the structural principles should be continuous. The previous posts in this series established the ground: creation conforms to discovery, and diversification is how discovery works. The evolutionary transitions were sketched. Now the full curve.
 
 The SPLectrum seed says it in six lines. P0: being comes into existence through differentiation. P1: being implies language. P2: language is the means through which the subject accesses reality — always partial, always relational. P3: language is interrelational. P4: languages have equal standing in potential. P5: complexity grows in expression, not in power. That last line — growth in expression, not in power — is where this begins. Working with programming languages across decades, the same observation repeats: the full power of a programming environment sits in the base language. Assembly, substrate operations, raw instruction set. Everything built above is articulation. The power does not increase. The base carries the full load. Observed across eighteen projects and multiple technology generations. Not a theory — a finding.
 
