@@ -11,7 +11,7 @@ description: "One fact — the tools of language are held in common, their use a
 
 A subject takes the tools of language from belonging — the words, the distinctions, the ways of going on are held in common, arriving from the shared side. But the use of those tools, and the understanding built with them, is private: each subject applies what it received slightly differently, from its own position, and ends with a reality that is genuinely its own. **The tools are shared; the use is private.** That is one fact, not two, and the SPLectrum seed states it whole — P3, that language is where subjects share, and P4, that each source stands equally and unprivileged in what it makes of the shared.
 
-Developmental psychology and the study of language acquisition have circled this fact for a century, and its major figures divide by which end of it they took hold of. Some followed the tools inward, tracing how the common becomes the subject's own — the *convergence* direction. Others held onto the privacy of the result, insisting that what each subject builds is irreducibly its own — the *divergence* direction. Read as rival theories they look like opponents in a long dispute over whether the decisive thing happens between people or inside the person. Read against the seed, they stop being rivals: they are the same fact approached from its two ends, and the place they meet is the coupling of minds.
+Developmental psychology and the study of language acquisition have circled this fact for a century, and its major figures divide by which end of it they took hold of. Some followed the tools inward, tracing how the common becomes the subject's own — the *convergence* direction. Others held onto the privacy of the result, insisting that what each subject builds is irreducibly its own — the *divergence* direction. And where two minds engage, a third account finds the shared and the private happening at once — the coupling of minds. The same dynamic surfaces at each of these ends and in the meeting between them.
 
 ---
 
@@ -21,7 +21,7 @@ Developmental psychology and the study of language acquisition have circled this
 
 [Tomasello](/positioning/persons/t/tomasello/) supplies the mechanism at the scale of a whole language. Grammar is not switched on from within but built from use — extracted from encountered speech through the reading of others' intentions and the finding of patterns, assembled piecemeal from concrete instances toward abstract schemas. And the high-fidelity forms of cultural learning are what let a stock of tools *accumulate* across generations, each cohort inheriting and adding to what the last built — the ratchet that keeps the common stocked. Here the shared is not a backdrop but the very material the subject is made from.
 
-This is the direction the field supplies most readily, and most one-directionally: a crowded, well-attested account of how the common gets into the private. Seen from the seed, it is the *sharing* face of the one fact — the tools arriving from belonging, becoming the subject's own without ceasing to be held in common.
+This is the direction the field supplies most readily, and most one-directionally: a crowded, well-attested account of how the common gets into the private. It is the *sharing* face of the one fact — the tools arriving from belonging, becoming the subject's own without ceasing to be held in common.
 
 ---
 
@@ -45,9 +45,7 @@ This is the meeting point because it is where the shared and the private stop be
 
 ## One fact, both ends
 
-Set the four side by side and the long dispute over "inside the person or between people" reads differently. It was never a choice. The tools of language are held in common and their use is private — and a field that studies the coming-in will foreground convergence, a field that studies the result will foreground divergence, and a field that studies the live exchange will foreground coupling, each of them true, each of them partial, each with hold of one end of a single thing.
-
-The seed is where that single thing is stated whole. P3 gives the sharing; P4 gives the equal, unprivileged standing of each subject's own use, so that the private result is not a deviation from a correct shared version but the ordinary form the shared always takes in a particular subject. Convergence and divergence are not forces to be balanced against each other. They are the one fact — *tools shared, use private* — seen coming and going.
+Set the four side by side and the question of whether the decisive thing happens inside the person or between people stops looking like a choice. A field that studies the coming-in foregrounds convergence; a field that studies the result foregrounds divergence; a field that studies the live exchange foregrounds coupling. Each has hold of the same thing from where it stands: the tools of language are held in common, and their use is private. The private result is not a deviation from a correct shared version but the ordinary form the shared always takes in a particular subject — which is why the same dynamic reads, without strain, as convergence from one end, divergence from the other, and coupling in the meeting between. Tools shared, use private, seen coming and going.
 
 ---
 
