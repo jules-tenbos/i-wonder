@@ -18,6 +18,8 @@ Time as material and/or relational rather than backdrop or illusion. SPLectrum's
 
 The two diverge on what replaces the Newtonian/Einsteinian conception — Rovelli: relational/emergent; assembly theory: material in objects. SPLectrum's historicity sits between them productively.
 
+**Developmental-historicity thread (migrated from the language-mechanics field map, 2026-07-19; that map is retired).** The path-landscape reading of historicity has a developmental-biology wing worth considering as a third register alongside assembly theory and Rovelli: **Thelen & Smith's dynamic systems theory of development** — development as a landscape of attractors shaped by the system's *own activity history*, no pre-laid program (Waddington's epigenetic landscape is the ancestor image; Esther Thelen's infant motor-development work the empirical base), and broader **path-dependence** (Arthur, David — "history matters," lock-in, increasing returns; Gould & Lewontin on contingency; niche construction; Bergson's *durée*). **Caution carried over:** Thelen is a *near-peer* to the SPLectrum process sketch, so a resonance reading risks shading toward convergence rather than resonance-across-a-gap — handle in the reality-position outward register if used. Not committed to this piece; noted so the candidate isn't lost with the field map.
+
 ## What this piece is not
 
 Not a /seed/ parallel expression. Assembly theory is too narrow in vocabulary scope for that; Rovelli's work on time isn't a vocabulary but a treatment of a specific aspect.
