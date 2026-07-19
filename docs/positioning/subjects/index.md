@@ -86,6 +86,7 @@ These are subjects of importance to SPLectrum, referenced within the site.
 ## S
 
 - [Semiotics](s/semiotics/) · philosophy, linguistics<span class="kw">the theory of signs — Peirce's triadic sign and Saussure's dyadic sign, the semiology of culture (Hjelmslev, Jakobson, Barthes, Eco, Lotman), and the biosemiotic extension into the living world</span>
+- [The Social Construction of Reality](s/social-construction-of-reality/) · sociology, philosophy<span class="kw">the everyday world as a human product held in place by shared practice — Berger and Luckmann's externalisation–objectivation–internalisation dialectic, the sociology of everyday knowledge, its Schutz/Durkheim/Mead lineage, Searle's institutional facts, Hacking's looping kinds, and the realism and relativism disputes</span>
 - [Structuralism](s/structuralism) · linguistics, philosophy<span class="kw">meaning as difference, systems of relations: Saussure, Lévi-Strauss, and beyond</span>
 - [Symbolic forms](s/symbolic-forms/) · philosophy<span class="kw">Cassirer's account of mind constituting its worlds through language, myth, art, religion, and science — the neo-Kantian background, the Davos debate, and the afterlife in Langer and Goodman</span>
 

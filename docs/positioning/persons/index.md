@@ -36,6 +36,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Beauvoir, Simone de (1908–1986)](b/beauvoir) · philosopher<span class="kw">existentialist ethics, the ethics of ambiguity, The Second Sex, woman as the Other, immanence and transcendence</span>
 - [Bell, John (1928–1990)](b/bell) · physicist<span class="kw">Bell's theorem, Bell inequalities, the impossibility of local hidden variables, the measurement problem</span>
 - [Bennett, Charles (1943–)](b/bennett) · physicist<span class="kw">reversible computation, Maxwell's demon resolved via erasure, quantum teleportation, quantum key distribution</span>
+- [Berger, Peter L. (1929–2017)](b/berger) · sociologist<span class="kw">The Social Construction of Reality, the sociology of everyday knowledge, the sacred canopy and sociology of religion, the recanted secularisation thesis, pluralisation</span>
 - [Bergson, Henri (1859–1941)](b/bergson) · philosopher<span class="kw">duration, creative evolution, intuition, the élan vital</span>
 - [Berlin, Isaiah (1909–1997)](b/berlin) · philosopher, historian of ideas<span class="kw">value pluralism, incommensurability of values, two concepts of liberty, the Counter-Enlightenment</span>
 - [Berners-Lee, Tim (1955–)](b/berners-lee) · computer scientist<span class="kw">inventor of the World Wide Web, HTTP, HTML, the URL, the W3C, the open web</span>
@@ -194,6 +195,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Lorenz, Edward (1917–2008)](l/lorenz) · mathematician, meteorologist<span class="kw">deterministic chaos, sensitive dependence, the Lorenz attractor, the butterfly effect</span>
 - [Loschmidt, Josef (1821–1895)](l/loschmidt) · physicist, chemist<span class="kw">the reversibility objection to Boltzmann, Loschmidt's number, molecular size estimation</span>
 - [Lovelock, James (1919–2022)](l/lovelock) · independent scientist<span class="kw">the Gaia hypothesis, Earth system science, the electron capture detector, Daisyworld, planetary self-regulation</span>
+- [Luckmann, Thomas (1927–2016)](l/luckmann) · sociologist<span class="kw">The Social Construction of Reality, the phenomenological sociology of the lifeworld, completing Schutz's Structures of the Life-World, the invisible religion, communicative genres</span>
 - [Luhmann, Niklas (1927–1998)](l/luhmann) · sociologist<span class="kw">social systems, functional differentiation, communication, autopoiesis, structural coupling</span>
 - [Lyell, Charles (1797–1875)](l/lyell) · geologist<span class="kw">uniformitarianism, Principles of Geology, Tertiary classification, deep time</span>
 - [Lyotard, Jean-François (1924–1998)](l/lyotard) · philosopher<span class="kw">the postmodern condition, the differend, language games, metanarratives</span>

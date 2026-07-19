@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-07-03
+lastmod: 2026-07-19
 title: "Constructivism"
 description: "The epistemology that knowledge is built by the knower to fit experience, not to mirror an independent reality — from Piaget and von Glasersfeld's radical version to the trivial and social variants, and the solipsism charge that shadows them."
 ---
@@ -25,7 +25,7 @@ The modern source is [Jean Piaget](/positioning/persons/p/piaget/), whose *genet
 
 ## Radical, trivial, and social
 
-The tradition sorts itself by how much of the construction it insists on. Von Glasersfeld coined *trivial constructivism* as a foil: the concession, which almost everyone grants, that learners actively build their own understanding — but build it *toward* a knowledge that is itself taken as given and mind-independent. Radical constructivism refuses that residue of correspondence; trivial constructivism keeps it. Between and beside them sits *social constructivism*, which locates the building not in the individual knower but in the community: knowledge is constructed through language, negotiation, and shared practice. In the psychology of learning this is the line associated with [Vygotsky](/positioning/persons/v/vygotsky/), whose emphasis on the social formation of mind is often set against Piaget's more individual-developmental picture — the two poles of a long dispute over whether the decisive construction happens inside the child or between the child and others. Social constructivism shades into the sociology of scientific knowledge and the wider *social construction* of reality, where the constructed thing is not private understanding but the shared categories a community treats as objective.
+The tradition sorts itself by how much of the construction it insists on. Von Glasersfeld coined *trivial constructivism* as a foil: the concession, which almost everyone grants, that learners actively build their own understanding — but build it *toward* a knowledge that is itself taken as given and mind-independent. Radical constructivism refuses that residue of correspondence; trivial constructivism keeps it. Between and beside them sits *social constructivism*, which locates the building not in the individual knower but in the community: knowledge is constructed through language, negotiation, and shared practice. In the psychology of learning this is the line associated with [Vygotsky](/positioning/persons/v/vygotsky/), whose emphasis on the social formation of mind is often set against Piaget's more individual-developmental picture — the two poles of a long dispute over whether the decisive construction happens inside the child or between the child and others. Social constructivism shades into the sociology of scientific knowledge and the wider [social construction of reality](/positioning/subjects/s/social-construction-of-reality/), where the constructed thing is not private understanding but the shared categories a community treats as objective.
 
 ## Constructivism in education
 
@@ -43,4 +43,4 @@ A second difficulty is reflexive. If no account can claim to mirror reality, con
 
 [Piaget](/positioning/persons/p/piaget/) · [Von Glasersfeld](/positioning/persons/v/von-glasersfeld/) · [Von Foerster](/positioning/persons/v/von-foerster/) · [Vygotsky](/positioning/persons/v/vygotsky/)
 
-See also: [Enactivism](/positioning/subjects/e/enactivism/) · [Autopoiesis](/positioning/subjects/a/autopoiesis/) · [Pragmatism](/positioning/subjects/p/pragmatism/)
+See also: [Enactivism](/positioning/subjects/e/enactivism/) · [Autopoiesis](/positioning/subjects/a/autopoiesis/) · [Pragmatism](/positioning/subjects/p/pragmatism/) · [The Social Construction of Reality](/positioning/subjects/s/social-construction-of-reality/)
