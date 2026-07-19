@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-04
+lastmod: 2026-07-19
 title: "Seed"
 ---
 
@@ -17,4 +17,4 @@ Pieces in close affinity with the seed principles themselves — the trajectorie
 - [From Arrow to Historicity](from-arrow-to-historicity) — how irreversibility, traces, and retention connect across thermodynamics, biology, and philosophy
 - [Interrelational Pluralism](interrelational-pluralism) — the structural mechanism of creative interaction across frameworks
 - [Two-Pronged Anti-Representationalism](two-pronged-anti-representationalism) — Whitehead from nature, Rorty from language: two halves of one gesture against the mirror
-- [Sharing Knowledge](/positioning/seed/sharing-knowledge/) — P3 read across the mechanisms of sharing; its first piece, [Human ways of sharing](/positioning/seed/sharing-knowledge/human-ways-of-sharing/), takes developmental psychology and language acquisition on convergence, divergence, and coupling
+- [Sharing Knowledge](/positioning/seed/sharing-knowledge/) — P3 read across the mechanisms of sharing: [Human ways of sharing](/positioning/seed/sharing-knowledge/human-ways-of-sharing/) takes developmental psychology and language acquisition on convergence, divergence, and coupling, and [Tools shared, use private](/positioning/seed/sharing-knowledge/tools-shared-use-private/) reads convergence and divergence as two directions of one fact across Kelly, Vygotsky, Tomasello, Piaget and Di Paolo
