@@ -11,7 +11,7 @@ description: "Austrian-born American sociologist, co-author with Thomas Luckmann
 
 Peter Ludwig Berger was an Austrian-born American sociologist, best known as co-author with Thomas [Luckmann](/positioning/persons/l/luckmann/) of *The Social Construction of Reality* (1966), one of the most influential works of twentieth-century sociology. Across a long career he worked chiefly in two areas — the sociology of knowledge and the sociology of religion — and was, for the general reader, among the most widely read sociologists of his generation, writing with a clarity and wit unusual in the discipline. He is also notable for having publicly reversed one of his own central theses, abandoning the secularisation theory he had helped make standard.
 
-[Peter Ludwig Berger](https://en.wikipedia.org/wiki/Peter_L._Berger) (17 March 1929 – 27 June 2017) was born in Vienna and emigrated to the United States shortly after the Second World War. He studied at Wagner College and then at the New School for Social Research in New York, where he came under the decisive influence of the phenomenologist Alfred Schutz. He taught at several institutions, including Rutgers and Boston College, and from 1981 until his retirement in 2009 at Boston University, where he founded and directed the Institute on Culture, Religion and World Affairs.
+[Peter Ludwig Berger](https://en.wikipedia.org/wiki/Peter_L._Berger) (17 March 1929 – 27 June 2017) was born in Vienna and emigrated to the United States shortly after the Second World War. He studied at Wagner College and then at the New School for Social Research in New York, where he came under the decisive influence of the phenomenologist [Alfred Schutz](https://plato.stanford.edu/entries/schutz/). He taught at several institutions, including Rutgers and Boston College, and from 1981 until his retirement in 2009 at Boston University, where he founded and directed the Institute on Culture, Religion and World Affairs.
 
 ---
 
@@ -37,7 +37,7 @@ His related books include *A Rumor of Angels* (1969), which sought "signals of t
 
 ## Politics and stance
 
-Berger described his own temperament as conservative in sympathy but committed above all to even-handed description over advocacy — wary of a sociology that dissolves into political programme. He engaged questions of modernisation and economic development (including a qualified defence of capitalism's role in development) and directed research institutes concerned with the relation of culture, religion, and economic life. Throughout, his methodological instinct was the one *Invitation to Sociology* announced: to hold the describer's distance, and to treat the actor's own understanding of their world as the thing to be understood rather than explained away.
+Berger described his own temperament as conservative in sympathy but committed above all to even-handed description over advocacy — wary of a sociology that dissolves into political programme. He engaged questions of modernisation and economic development (including a qualified defence of capitalism's role in development) and directed research institutes concerned with the relation of culture, religion, and economic life. From the late 1970s into the 1980s he also worked as a consultant to the tobacco industry, contributing to its social-science defence against public-health critics of environmental tobacco smoke — an association documented in the industry papers and treated as a serious mark against him in later assessments of his career. Throughout, his methodological instinct was the one *Invitation to Sociology* announced: to hold the describer's distance, and to treat the actor's own understanding of their world as the thing to be understood rather than explained away.
 
 ---
 
@@ -52,4 +52,4 @@ Berger described his own temperament as conservative in sympathy but committed a
 
 ---
 
-See also: [Luckmann](/positioning/persons/l/luckmann/) · [The Social Construction of Reality](/positioning/subjects/s/social-construction-of-reality/) · [Marx](/positioning/persons/m/marx/) · [Hegel](/positioning/persons/h/hegel/)
+See also: [Luckmann](/positioning/persons/l/luckmann/) · [The Social Construction of Reality](/positioning/subjects/s/social-construction-of-reality/)

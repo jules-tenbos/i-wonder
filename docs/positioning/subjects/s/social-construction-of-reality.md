@@ -37,7 +37,7 @@ Berger and Luckmann also redefined the **sociology of knowledge** itself. Where 
 
 The account is a synthesis, and its architects were explicit about the debts.
 
-**Alfred Schutz** is the most direct. Berger and Luckmann both studied under him at the New School, and the book's phenomenological foundation — the lifeworld, the natural attitude, typifications, the stock of knowledge at hand, the structure of the everyday world as intersubjectively given — is Schutz's, applied to the sociology of knowledge. Schutz in turn had married Husserl's phenomenology of the lifeworld to Weber's interpretive sociology of meaningful action.
+**[Alfred Schutz](https://plato.stanford.edu/entries/schutz/)** is the most direct. Berger and Luckmann both studied under him at the New School, and the book's phenomenological foundation — the lifeworld, the natural attitude, typifications, the stock of knowledge at hand, the structure of the everyday world as intersubjectively given — is Schutz's, applied to the sociology of knowledge. Schutz in turn had married Husserl's phenomenology of the lifeworld to Weber's interpretive sociology of meaningful action.
 
 **Émile [Durkheim](https://en.wikipedia.org/wiki/%C3%89mile_Durkheim)** supplies the objectivity side: social facts as "exterior and constraining," collective representations, the reality of society *sui generis*. **George Herbert Mead** and symbolic interactionism supply the internalisation side: the self arising through social interaction, the "generalised other" taken inward. The book is in part an attempt to hold Durkheim's "society as objective reality" and Weber's and Mead's "society as subjective meaning" together in a single frame — which is what the externalisation/internalisation dialectic is built to do.
 
