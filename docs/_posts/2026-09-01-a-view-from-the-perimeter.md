@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "A View from the Perimeter"
-date: 2026-09-08
-lastmod: 2026-07-18
+date: 2026-09-01
+lastmod: 2026-07-20
 labels: [creativity, science]
 status: Mandatory review
 words: 653
