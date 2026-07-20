@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Decentralised Process Models"
-date: 2026-10-04
-lastmod: 2026-07-04
+date: 2026-09-16
+lastmod: 2026-07-20
 labels: [positioning, engineering]
 status: Mandatory review
 words: 664

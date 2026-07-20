@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "The Decentralised Cognition Revolution"
-date: 2026-10-12
-lastmod: 2026-08-04
+date: 2026-09-24
+lastmod: 2026-07-20
 labels: [engineering]
 status: Mandatory review
 words: 599
