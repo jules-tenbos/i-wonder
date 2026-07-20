@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-03
+lastmod: 2026-07-20
 title: "Discovery"
 ---
 
@@ -16,9 +16,9 @@ If creation conforms to discovery, how discovery is organised matters. This page
 
 Three independent languages arrive at the same observation. P5: complexity grows in expression, not in power — the full relational power was always there. Category theory: functors cannot create morphisms with no structural basis in the source. Engineering practice: the full power of a programming environment sits in the base language.
 
-Combine with P2: the subject accesses reality only through the relational. Partial access. No outside view. The full power is already there, but access is always partial. What follows: what we call creation conforms to the discovery of a relational path that was available but hadn't been walked yet.
+Combine with P2: the subject accesses reality only through the relational. Partial access. No outside view. The power is there in full; access is always partial. What follows: what we call creation is the walking of a relational path the medium held as possible but no one had walked yet.
 
-Both characters hold simultaneously. From outside — if you could stand there — nothing was added. From inside — the subject's experience — something genuinely new has come into being. The newness is real. The power is not new.
+The distinction the account turns on: the *possibility* pre-exists — the path available, the medium ready — but the walked path is not a finished thing waiting to be found. It comes into reality in the walking, not before it. Both characters hold at once. From the side of what was possible, nothing was conjured from outside; from the side of the subject, something genuinely new has come into being. The newness is real. The power it draws on is not new.
 
 ## Diversified discovery
 
