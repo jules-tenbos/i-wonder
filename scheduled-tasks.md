@@ -15,7 +15,7 @@ Pages that go stale as the site grows — check them whenever their trigger fire
 
 **Now active: the Putnam individual treatment** (`plan/putnam-working-sketch.md`) — predates the language-mechanics/nativism/emergence work of 17–19 July; still the standing next item. The **emergence** research (opened 2026-07-19) is the other live candidate.
 
-**⚠ Uncommitted working-tree edits (2026-07-20):** four future-dated creativity posts have in-progress Jules edits *not committed* — `2026-08-01-the-generative-value`, `2026-08-04-pluralism-and-the-interrelational`, `2026-08-08-the-faces-of-creativity`, `2026-08-16-the-unwalked-path`. These were deliberately kept out of all agent commits this session. Resume by finishing/committing them.
+*(Future-dated posts are all works in progress by definition — committed and pushed as they evolve, no special WIP tracking needed.)*
 
 ## Research
 
