@@ -2,30 +2,25 @@
 layout: post
 title: "The Unwalked Path"
 date: 2026-08-16
-lastmod: 2026-07-18
+lastmod: 2026-07-20
 labels: [creativity, philosophy]
-description: "Creation conforms to discovery — what we call creating is the walking of a relational path that was available but unwalked. The newness is real; the from-nothing picture is what has to go."
+description: "What we call creating is the walking of a relational path the medium held in potential but no one had walked — potential made real in the walking, not a thing found already finished nor conjured from nothing."
 status: draft
-words: 496
+words: 599
 ---
-<img src="https://images.unsplash.com/photo-1590705429014-8c191dc581fc?q=80&w=350&h=230&auto=format&fit=crop" alt="The Unwalked Path" />
+<img src="https://images.unsplash.com/photo-1780951920331-6900f33478c7?q=80&w=350&h=230&auto=format&fit=crop" alt="The Unwalked Path" />
 
-Where does the new come from? The picture most of us carry is creation as conjuring: the blank page, the empty room, and then — from somewhere outside everything that already exists — something that was not there before. The genius pulls it out of nothing. The picture is so familiar it does not look like a picture.
+The SPLectrum [seed](/seed/) principle P5 says complexity grows in expression, not in power — the full relational power was always there. In [category theory](/positioning/subjects/c/ct/), a functor cannot create morphisms with no structural basis in the source — higher categories add expression about relations already present, not new relational power. And in engineering, the full power of a programming environment sits in the base language. Assembly, substrate operations, raw instruction set. Everything built above it is articulation. The same observation, in different domains: the relational *power* is there from the start — what grows is what gets expressed with it.
 
-SPLectrum reads it differently: **creation conforms to [discovery](/reality/discovery/)**. What we call creating is the walking of a relational path that was available but unwalked. The connections were structurally there — in the language, in the material, in the space of what can relate to what. Nobody had walked them. The walk is the creation.
+Combine that with P2: the subject accesses reality only through the relational. Partial access, no outside view. The power is there in full, but our access is always partial. What follows: what we call creation is the walking of a relational path the medium held as possible but no one had walked yet. And here is the distinction everything turns on. The *possibility* was there — the path available, the medium ready — but the path walked was not there, not as a finished thing waiting to be found. It comes into reality in the walking, not before it. From the side of what was possible, nothing was conjured from outside; from the side of the subject, something genuinely new has come into being. Both hold at once. The newness is real — real for the subject, real in that it was not expressed before — while the power it draws on is not new.
 
-[this post should include the parallellism, and how subjects experience in a dynamic reality]
+The resistance is immediate. "You're saying we don't really create? We just find?" The discovery is genuine. The newness is real — for the subject, for the web of shared reality it enters. What is not real is the idea that creation adds something to reality from outside. There is no outside. P2 denies it. The creation-from-outside model is the [view from nowhere](/positioning/persons/n/nagel/) — a standpoint that does not exist. [Rorty](/positioning/persons/r/rorty/) saw this clearly: the question "is it really creation or really discovery" assumes exactly that standpoint. Drop the assumption, and the question dissolves. What remains is the act, and the act has both characters simultaneously.
 
-A plectrum discovers a note. The note was always available — the string could always have sounded it. And yet before the pluck there is no music, and after it there is. The discovery is the creation of music. Nothing arrived from outside the string, and something genuinely new is in the room. Both of those sentences are true at once, and neither cancels the other.
+The observation is not new. [Whitehead's](/positioning/persons/w/whitehead/) actual entities prehend the entire past — they do not create from nothing, they create by synthesising what is available into a novel unity. The novelty is real. The material is not new. And the evolutionary transitions point in the same direction: the conditions for chemistry were present in the physical substrate, the conditions for life were present in chemistry, the conditions for abstract thought were present in biology. Each transition: not creating new power, but walking a relational possibility the level below held open. Unimaginable from below, because the path had not been walked yet. Recognisable in hindsight, because the possibility had been there to walk all along.
 
-[this paragraph is incorrect]
-The resistance comes quickly: "So we don't really create — we just find?" Both halves of that sentence miss. The newness is real. It was not expressed before; once expressed, it enters shared reality and changes what everyone else has to work with. A walked path stays walked. What is not real is the *outside* — the place the from-nothing picture needs, where the creator supposedly stands to add something to reality from beyond it. There is no such place to stand. The act has both characters at once: discovery, seen from the side of what was always possible; creation, seen from the seat of the subject doing the walking. Give up the outside, and nothing about the act is diminished — only the picture of it. The full argument, and the company it keeps, has its own post later in this series.
+A plectrum sounds a note. The string could always have sounded it — the note was possible — but before the pluck there is no music, and after it there is. The sounding is the creation of the music, and nothing arrived from outside the string. The spectrum of possible notes is what the string holds; the plectrum brings one after another into reality by touching it. Different plectrums, different paths through the spectrum, different music. Same range of the possible. SPLectrum: the full range of what a medium holds open, made real through the act of contact. The name already carries the argument. And if creating is walking the possible, a question follows: what does that mean for how we organise the walking?
 
-One consequence is worth pocketing now. If creation is the walking of available paths, then *how the walking is organised* matters. One walker walks one path, and one path lights up certain possibilities while leaving the rest in the dark. Walkers starting from different positions walk different paths — and because a walked path makes adjacent paths visible, they discover more together than the sum of what each finds alone. More positions, more paths; more paths, more newness. Hold that thought. It does a great deal of work later in the series.
-
-Two observations are now on the table. Creativity is the generative motion of being a subject — the previous post. And creation conforms to discovery — this one. Small claims, sized to a person and a plectrum. The next two posts scale them all the way up: the whole history of reality — quantum to chemistry to life to thought — read as one long sequence of walks onto paths that were always available and never yet taken. The view from the perimeter.
-
-<small>This post is part of the [creativity series](/blog/label/creativity/). See also <a href="/reality/discovery/">Discovery</a>.</small>
+<small>This post is part of the [creativity series](/blog/label/creativity/). See also <a href="/seed/">the seed</a>.</small>
 
 ---
-<small>Photo: <a href="https://unsplash.com/@joshua_hoehne">Joshua Hoehne</a> / Unsplash</small>
+<small>Photo: <a href="https://unsplash.com/@brechtcorbeel">Brecht Corbeel</a> / Unsplash</small>

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Diversified Discovery"
-date: 2026-09-01
-lastmod: 2026-07-18
+date: 2026-08-24
+lastmod: 2026-07-20
 labels: [creativity, philosophy]
 status: Mandatory review
 words: 441
