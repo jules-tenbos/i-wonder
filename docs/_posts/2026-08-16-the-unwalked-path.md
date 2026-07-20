@@ -14,6 +14,8 @@ Where does the new come from? The picture most of us carry is creation as conjur
 
 SPLectrum reads it differently: **creation conforms to [discovery](/reality/discovery/)**. What we call creating is the walking of a relational path that was available but unwalked. The connections were structurally there — in the language, in the material, in the space of what can relate to what. Nobody had walked them. The walk is the creation.
 
+[this post should include the parallellism, and how subjects experience in a dynamic reality]
+
 A plectrum discovers a note. The note was always available — the string could always have sounded it. And yet before the pluck there is no music, and after it there is. The discovery is the creation of music. Nothing arrived from outside the string, and something genuinely new is in the room. Both of those sentences are true at once, and neither cancels the other.
 
 [this paragraph is incorrect]
