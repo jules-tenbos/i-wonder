@@ -22,6 +22,16 @@ Reached in discussion, held provisionally. The research must test it, not assume
 
 - **Emergence as derived, not primitive.** The position treats emergence as what the existing seed apparatus already produces — mixing generating new relational handles; sharing (P4/P5) yielding group-level language; the being-side/other-side cut relocating the consciousness case. So the seed-side treatment is a *consequence* page, not a candidate sixth principle. Whether emergence could instead earn primitive standing is left open (see open questions).
 
+## Carried in from the creativity series (2026-07-21)
+
+Discussion findings around the Unwalked Path post (08-16). Provisional like everything here — the survey tests them, not assumes them.
+
+- **The formulation now has a creativity-side twin.** The Unwalked Path post (08-16) states the composition point: a relational path held in potential is composed of constituent paths already walked, in a different configuration — creation as recombination of already-experienced reality, with W. Brian Arthur's combinatorial account of technology (every new technology is a combination of existing technologies) as the outside corroboration. That is the carried position approached from the act side: creativity names the act, emergence names the result — a new configuration *is* new relational connection among relata already in play. The coupling creates a dependency: if the survey revises "new relational connection among existing relata," the post's paragraph inherits the revision.
+
+- **Where "already in play" bottoms out — the constitution/expression floor.** The recombination reading invites a regress (what were the *first* walks composed of?), and three registers terminate it the same way. Arthur: combinations bottom out in captured natural phenomena, which are not themselves technologies. The software-languages post (*Let's Talk Software Languages*, 2026-04-11): languages bottom out in the hardwired instruction set — not itself spawned, but still a language ("a language spawning a language"). The seed: walks bottom out in the medium's relational power (P5). Same shape in all three: the recursion has a floor, the floor belongs to a different game, and the floor is still relational — relations held as *constitution* rather than as *expression*. This says where "relata already in play" ultimately cashes out without leaving language, and it touches both the relation-versus-relatum open question and the being-side/other-side cut.
+
+- **Arthur as a survey candidate.** *The Nature of Technology* (combinatorial evolution — recombination plus capture of natural phenomena) is an emergence account in the technology register; it belongs alongside the complexity-science material.
+
 ## What the research must cover
 
 Emergence in its widest sense, on its own terms, conflicts intact. The survey is genuine — not a queue of positions for the seed to knock down. The counter-source discipline applies throughout: a source giving only the tidy arc (the progress-ladder, the settled-consensus version) is incomplete; the debate's live conflicts are part of the subject.
