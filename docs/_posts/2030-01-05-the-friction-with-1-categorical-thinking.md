@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Friction with 1-Categorical Thinking"
-date: 2026-11-01
+date: 2030-01-05
 lastmod: 2026-05-12
 labels: [category-theory, philosophy, mathematics]
 status: mandatory review

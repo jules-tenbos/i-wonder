@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Generative Value"
-date: 2026-08-01
+date: 2030-01-21
 lastmod: 2026-07-17
 labels: [creativity, philosophy]
 description: "The creativity series opens with the generative core value: the dynamic of change traced back to the subject — a musician's difference made in private, travelling out to countless many."

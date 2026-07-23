@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Worst Enemy of Science"
-date: 2026-08-20
+date: 2030-01-13
 lastmod: 2026-07-16
 labels: [positioning, philosophy]
 description: "Paul Feyerabend — the student who dismantled his teacher's programme. A wounded soldier who wanted to sing opera, and the philosopher who showed that science's greatest moves broke every rule: 'anything goes' as history's verdict, not his advice."

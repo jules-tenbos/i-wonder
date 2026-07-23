@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pluralism and the Interrelational"
-date: 2026-08-04
+date: 2030-01-11
 lastmod: 2026-07-21
 labels: [reality, philosophy]
 description: "Approaching interrelational pluralism from the pluralism side: a family of tracks that rightly never joined up in content, joined in the medium of expression — the envelope that carries pluralism's borders, its disputes, and the realism question."

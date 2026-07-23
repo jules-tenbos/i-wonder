@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Decentralised Cognition Revolution"
-date: 2026-09-24
+date: 2030-02-07
 lastmod: 2026-07-20
 labels: [engineering]
 status: Mandatory review

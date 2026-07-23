@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Box, the Basement, and the Factory Setting"
-date: 2026-09-20
+date: 2030-02-02
 lastmod: 2026-07-17
 labels: [seed, philosophy]
 description: "Three schools drew the inside of the subject three ways — empty, split, and pre-filled — and each spent its best effort defending the drawing. Beside them, the acquisition mechanisms never had a position to defend."

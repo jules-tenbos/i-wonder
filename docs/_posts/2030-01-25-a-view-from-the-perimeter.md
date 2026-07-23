@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A View from the Perimeter"
-date: 2026-09-01
+date: 2030-01-25
 lastmod: 2026-07-20
 labels: [creativity, science]
 status: Mandatory review

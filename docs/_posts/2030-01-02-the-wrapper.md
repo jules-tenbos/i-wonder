@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Wrapper"
-date: 2026-10-08
+date: 2030-01-02
 lastmod: 2026-05-12
 labels: [category-theory, seed, mathematics, philosophy]
 status: mandatory review

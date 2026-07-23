@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Faces of Creativity"
-date: 2026-08-08
+date: 2030-01-22
 lastmod: 2026-07-14
 labels: [creativity, philosophy]
 description: "Discovered, invented, evolved — the three drawers we file newness into. They leak, because they are not three mechanisms: they are three seats on one motion, and the value behind them is creativity."
@@ -9,6 +9,14 @@ status: draft
 words: 1090
 ---
 <img src="https://images.unsplash.com/photo-1659136039077-0fa504a96237?q=80&w=350&h=230&auto=format&fit=crop" alt="The Faces of Creativity" />
+
+In the [previous post in this series]() I called creativity the generative value and I illustrated it with an example that is typically seen as artistic creation. However as a subject value within SPLectrum its meaning goes much wider, and without judgment: creativity within the privacy of the subject is anything that results in an experience of reality that differs from the shared. So how many faces of creativity are there? 
+
+I am not going to try to nor pretend I can name them all, how many words are there to express the unexpected for the know? The importance of creativity - difference within the privacy of the subject - is how it can echo back into belonging, how the difference experienced at the individual  level becomes a shared good. However, this sharing only happens occasionally and it is contingent. But some acts of creativity may set a whole avalanche in motion and often have an individual name attached - rightly or wrongly. This leaves many with the impression that it is driven by individual through actions of a causal nature rather than opportunities that arise from what lives and wells up within a community.
+
+From a SPLectrum point of view artistic creation, scientific discovery, technological invention and darwinian evolution to name a few all exists within their own cultural language but are in fact expressions of the same kind of undercurrent - creativity at the level of the individual.
+
+In the generative value post I gave an example of an artistic creation - one type of creativity. In the next few post we are going to expand on two in par
 
 When something new shows up, we file it. Three drawers, and everyone knows the labels. *Discovered* — it was there all along, and someone finally found it: a continent, a comet, penicillin. *Invented* — it was not there, and someone made it: the telephone, the sonnet, the wheel. *Evolved* — nobody made it, it grew on its own: the eye, the market, the language you are reading. The filing system is so familiar it does not feel like a system. It feels like a fact about the world.
 
