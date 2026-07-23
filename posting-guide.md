@@ -16,6 +16,8 @@ Posts live in `docs/_posts/` as Jekyll markdown with front matter. Future-dated 
 Blog cadence is layered: roughly weekly as a minimum schedule looking four months ahead, every four days as a target schedule with a two-month ahead window, and when there is additional material posts slot in between — creating a local two-day cadence. Posts are rescheduled as needed so the storyline makes sense.
 
 - **The day-number grid.** Posts sit on two monthly tracks so day numbers repeat every month: **track A — 1, 8, 16, 24**; **track B — 4, 12, 20, 28**. One track alone is the weekly minimum; both tracks interleaved give the four-day target. When scheduling or rescheduling, place posts on grid days — a series runs down one track; the other track carries the interleave.
+- **Current operation (2026-07-23).** Reduced availability: the schedule runs track A only — one post per week. Track B is dormant until time allows.
+- **Parking.** Posts not yet scheduled are parked on fictitious 2030 dates, grouped in series blocks, and brought back when ready. On unparking: rename the file to the real date, set the frontmatter `date:` to match (it overrides the filename), and re-point any internal cross-links to the post's new URL.
 - Schedule time: 02:00 UTC.
 - Active schedule tracked in `scheduled-tasks.md`.
 - Main and topnav update as the work evolves, not on a cadence.
@@ -89,7 +91,7 @@ Submissions stay in `submissions/` during this process; frontmatter tracks statu
 
 ### Scheduling strategy
 
-**Cadence.** Roughly weekly as a minimum looking four months ahead. Every four days as target with a two-month window. When there is additional material, posts slot in between — creating a local two-day cadence.
+**Cadence.** Roughly weekly as a minimum looking four months ahead. Every four days as target with a two-month window. When there is additional material, posts slot in between — creating a local two-day cadence. Currently running the weekly minimum only (track A — see § Cadence).
 
 **Composition.** Alternate categories for variety, or cluster the same topic for depth. Not too many heavy core posts in a row. Engineering posts spaced out. Thinking posts as breathers. Topical bunching when posts build on each other.
 
