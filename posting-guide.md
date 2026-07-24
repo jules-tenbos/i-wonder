@@ -41,6 +41,13 @@ words: NNN
 - **description** — one sentence, used in meta tags and blog listings
 - **status** — `storyline`, `draft`, `review needed`, `Mandatory review`, `final revision`, `final review`, `ready`
 - **words** — body word count (target 600 average, range 300–900). Update after edits.
+- **labels** — 1–2 category labels, 0–1 series label, max 3 total. What each series is for (2026-07-24):
+  - **positioning** — high impact only: the load-bearing engagements where SPLectrum places itself against existing thought (e.g. Whitehead — process and anti-representationalism).
+  - **conversations** — lighter meetings with thinkers and traditions: portraits, one-off engagements that accompany the main storylines without carrying them.
+  - **formalisation** — formal approaches to the seed as an umbrella: category theory first, physics-of-meaning and kin later.
+  - **seed** / **reality** / **creativity** / **language** — the core storylines: the principles, the metaphysics, the generative value, the language work.
+  - **preamble** — posts from before SPLectrum; closed, do not add.
+  - A new series must earn its place — prefer an existing series or no series over minting one. The registration points are the label page, the label index, and the two hardcoded series lists (`blog-entries.html`, `post.html`).
 
 Filename: `YYYY-MM-DD-slug.md` in `docs/_posts/`.
 
