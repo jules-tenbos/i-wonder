@@ -98,7 +98,7 @@ Almost the entire cast is already built — this is a *linking* opportunity, not
 **Late-Putnam / natural-realism neighbourhood (already on-site):** James, Dewey, Wittgenstein, Sellars, and the enactive cluster (Varela, Merleau-Ponty, autopoiesis).
 
 **The one genuine gap — new-page candidate:**
-- **Bas van Fraassen** — constructive empiricism, "empirical adequacy" instead of truth, the explicit refusal to be answerable to the unobservable structure behind the phenomena. The sharpest statement of "stop paying the bill Putnam kept paying," and a missing seat at the QM-interpretation / scientific-realism seam. If any new person page comes out of this, he is first candidate. (Whether he earns a page turns on whether a close-affinity ring piece references him — per the person-page trigger.)
+- **Bas van Fraassen** — constructive empiricism, "empirical adequacy" instead of truth, the explicit refusal to be answerable to the unobservable structure behind the phenomena. The sharpest statement of "stop paying the bill Putnam kept paying," and a missing seat at the QM-interpretation / scientific-realism seam. If any new person page comes out of this, he is first candidate. (Settled 2026-07-24: he earns a page on his own standing — constructive empiricism as the main body, the "Rovelli's World" consistency-plus-gap role as the RQM-relevant contribution.)
 
 ## Placement notes (content-level; implementation is yours)
 
@@ -113,7 +113,7 @@ Almost the entire cast is already built — this is a *linking* opportunity, not
 - **The externalism ambivalence.** Does the division of linguistic labour read as reference-fixing-from-outside (friction with meaning-subject-tied) or as coupled-cauldrons (resonance)? This decides whether the strand is fence or ring, and it may genuinely be fence *because* it is ambivalent.
 - **Fact/value vs. the values-side separation.** Putnam's entanglement thesis and the seed's values-on-the-reality-side are *different cuts*. Whether they inform each other or merely look alike wants working out before either is placed near the ethics work.
 - **Preferred basis and P4.** The potential/actual reading resolves the tension for now (equal in coherence, selected in decoherence). Worth stress-testing against the ethics graded-belonging account, where "which game" and "which basis" may be the same question.
-- **Whether van Fraassen earns a page.** Turns on whether a close-affinity piece actually references him as load-bearing, not on his intrinsic interest.
+- **Whether van Fraassen earns a page.** Settled 2026-07-24 — yes, on his own standing. No longer open here.
 
 ---
 
