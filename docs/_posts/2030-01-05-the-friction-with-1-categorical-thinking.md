@@ -2,12 +2,12 @@
 layout: post
 title: "The Friction with 1-Categorical Thinking"
 date: 2030-01-05
-lastmod: 2026-05-12
+lastmod: 2026-07-24
 labels: [formalisation, philosophy, mathematics]
 status: mandatory review
 words: 600
 ---
-<img src="IMAGE_TBD" alt="The Friction with 1-Categorical Thinking" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://images.unsplash.com/photo-1533582437341-dfdc01630b05?q=80&w=350&h=230&auto=format&fit=crop" alt="The Friction with 1-Categorical Thinking" />
 
 In a meeting, someone asks: "Is X equal to Y?" The answer wants to be: "Well, it depends what you mean by equal — they cohere up to a certain transformation, but the transformation is non-trivial and the choice of it matters for the question you're really asking..." And the asker is already irritated. "Just tell me yes or no."
 
@@ -28,4 +28,4 @@ The friction is real. It's not a failure of communication. It's the working-thro
 <small>This post is part of the [formalisation series](/blog/label/formalisation/).</small>
 
 ---
-<small>Photo: TBD / Unsplash</small>
+<small>Photo: <a href="https://unsplash.com/@funjabi">Sandeep Singh</a> / Unsplash</small>

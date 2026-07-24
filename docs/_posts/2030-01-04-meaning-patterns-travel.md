@@ -2,12 +2,12 @@
 layout: post
 title: "Meaning Patterns Travel"
 date: 2030-01-04
-lastmod: 2026-05-12
+lastmod: 2026-07-24
 labels: [formalisation, mathematics, language]
 status: mandatory review
 words: 540
 ---
-<img src="IMAGE_TBD" alt="Meaning Patterns Travel" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://images.unsplash.com/photo-1776056693062-f36abae66bbf?q=80&w=350&h=230&auto=format&fit=crop" alt="Meaning Patterns Travel" />
 
 The two-body problem in physics: two entities, exerting mutual influence, evolving together. Newton solved it analytically — given the positions and velocities of two gravitating masses, the future and past trajectories can be computed exactly. The problem has a name because it is a specific shape — a structural pattern, not a particular pair of planets.
 
@@ -28,4 +28,4 @@ The world is full of these patterns. Once we learn to see them, the question sto
 <small>This post is part of the [formalisation series](/blog/label/formalisation/).</small>
 
 ---
-<small>Photo: TBD / Unsplash</small>
+<small>Photo: <a href="https://unsplash.com/@tylersphotographyus">Tyler Hardie</a> / Unsplash</small>
