@@ -11,7 +11,7 @@ layout: default
         {{ page.date | date: "%B %-d, %Y" }}
       </time>
       {% if page.labels %}
-        {% assign series = "category-theory,creativity,language,positioning,preamble,reality,seed" | split: "," %}
+        {% assign series = "conversations,creativity,formalisation,language,positioning,preamble,reality,seed" | split: "," %}
         {% for label in page.labels %}
           {% if series contains label %}
             · <a href="/blog/label/{{ label }}/">{{ label }} series</a>

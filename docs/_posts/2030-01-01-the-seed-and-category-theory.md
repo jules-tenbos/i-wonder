@@ -3,7 +3,7 @@ layout: post
 title: "The Seed and Category Theory"
 date: 2030-01-01
 lastmod: 2026-05-12
-labels: [category-theory, seed, mathematics, philosophy]
+labels: [formalisation, mathematics, philosophy]
 status: mandatory review
 words: 760
 ---
@@ -33,7 +33,7 @@ What opens up from there is substantial. The 1-categorical level doesn't disappe
 
 The journey begins here.
 
-<small>This post is part of the [category-theory series](/blog/label/category-theory/). More on category theory in the [seed section](/seed/category-theory/) and the [tools](/tools/) reference.</small>
+<small>This post is part of the [formalisation series](/blog/label/formalisation/). More on category theory in the [seed section](/seed/category-theory/) and the [tools](/tools/) reference.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@anniespratt">Annie Spratt</a> / Unsplash</small>

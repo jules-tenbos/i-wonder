@@ -3,7 +3,7 @@ layout: post
 title: "Practices Without a Referee"
 date: 2030-01-15
 lastmod: 2026-07-16
-labels: [positioning, philosophy]
+labels: [conversations, philosophy]
 description: "Isabelle Stengers — from Prigogine's laboratory, where time's arrow became real, to cosmopolitics: an ecology of practices with no transcendent arbiter, reciprocal capture, the idiot, and thinking with Whitehead."
 status: storyline
 words: 705
@@ -22,7 +22,7 @@ The process flavour of all this is no accident. In 2002 she published the book o
 
 Where does she stop? She would refuse the question's premise — arriving is not the point. But the late work says where the stakes are: catastrophe. Infernal alternatives, fast science, a planet in trouble — the moment when the single urgent answer bids hardest for the whole field and slowing down looks like betrayal. Exactly there she plants the idiot. Her philosophy practices what it describes: situated, obligated, slow, one practice among the many it studies. In a century rushing to verdicts, hers is a wager that the cosmos is still under construction — and that holding the many together, without a referee, is the construction site itself.
 
-<small>This post is part of the [positioning series](/blog/label/positioning/). See also the reference entry on <a href="/positioning/persons/s/stengers/">Isabelle Stengers</a>.</small>
+<small>This post is part of the [conversations series](/blog/label/conversations/). See also the reference entry on <a href="/positioning/persons/s/stengers/">Isabelle Stengers</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@uxindo">UX Indonesia</a> / Unsplash</small>

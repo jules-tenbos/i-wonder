@@ -3,7 +3,7 @@ layout: post
 title: "Meaning Patterns Travel"
 date: 2030-01-04
 lastmod: 2026-05-12
-labels: [category-theory, mathematics, language]
+labels: [formalisation, mathematics, language]
 status: mandatory review
 words: 540
 ---
@@ -25,7 +25,7 @@ The seed is structurally relational throughout. Meaning patterns are not excepti
 
 The world is full of these patterns. Once we learn to see them, the question stops being "is this like that?" and starts being "what shape are they both?" The shape is what travels.
 
-<small>This post is part of the [category-theory series](/blog/label/category-theory/).</small>
+<small>This post is part of the [formalisation series](/blog/label/formalisation/).</small>
 
 ---
 <small>Photo: TBD / Unsplash</small>

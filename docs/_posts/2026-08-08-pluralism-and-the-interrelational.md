@@ -2,10 +2,10 @@
 layout: post
 title: "Pluralism and the Interrelational"
 date: 2026-08-08
-lastmod: 2026-07-23
-labels: [reality, philosophy]
+lastmod: 2026-07-24
+labels: [conversations, philosophy]
 description: "Approaching interrelational pluralism from the pluralism side: a family of tracks that rightly never joined up in content, joined in the medium of expression — pluralist voices within envelopes of common understanding, a better position on pluralism's borders, disputes, and the realism question."
-status: final review
+status: ready
 words: 675
 ---
 <img src="https://images.unsplash.com/photo-1611220086980-1617d5f18082?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Pluralism and the Interrelational" />
@@ -26,9 +26,9 @@ I like to finish this post on the realism question within pluralism: if there ar
 
 To begin with, a few questions: what is a valid account? what does really true mean? Doesn't that depend on the language one speaks, how meaning is expressed? What is the standard for an absolute viewpoint apart from "because I say so"? I say: have confidence in the many and value the creativity of each — there is power in subjective convergence, in the strength of identity and belonging.
 
-So how many realities are genuinely held? SPLectrum has a simple answer: as many realities as there are subjects. How many shared realities are being held? A lot less; subject realities are strongly clustered around these shared realities: all subjects belong. Will it eventually converge into one, to reflect a world that might be out there independently? I don't know, and I don't think it matters. Why should our accounts have to be answerable to something that is not known?
+So how many realities are genuinely held? SPLectrum's answer is simple: as many realities as there are subjects. How many shared realities are being held? A lot less; subject realities are strongly clustered around these shared realities: all subjects belong. Will it eventually converge into one, to reflect a world that might be out there independently? I don't know, and I don't think it matters. Why should our accounts have to be answerable to something that is not known?
 
-<small>This post is part of the [reality series](/blog/label/reality/). See also <a href="/positioning/close-affinity/pluralism/">Pluralism</a>.</small>
+<small>This post is part of the [conversations series](/blog/label/conversations/). See also <a href="/positioning/close-affinity/pluralism/">Pluralism</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@tudor_photography">Tudor Photography</a> / Unsplash</small>

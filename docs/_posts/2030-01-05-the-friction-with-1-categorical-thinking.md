@@ -3,7 +3,7 @@ layout: post
 title: "The Friction with 1-Categorical Thinking"
 date: 2030-01-05
 lastmod: 2026-05-12
-labels: [category-theory, philosophy, mathematics]
+labels: [formalisation, philosophy, mathematics]
 status: mandatory review
 words: 600
 ---
@@ -25,7 +25,7 @@ The deeper observation is that 1-categorical insistence is often also a metaphys
 
 The friction is real. It's not a failure of communication. It's the working-through of a tool upgrade — from 1-categorical to higher-dimensional — happening in slow motion across a culture. Each conversation where someone surfaces the mismatch is one step in that working-through.
 
-<small>This post is part of the [category-theory series](/blog/label/category-theory/).</small>
+<small>This post is part of the [formalisation series](/blog/label/formalisation/).</small>
 
 ---
 <small>Photo: TBD / Unsplash</small>

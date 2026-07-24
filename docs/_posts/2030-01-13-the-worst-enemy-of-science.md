@@ -3,7 +3,7 @@ layout: post
 title: "The Worst Enemy of Science"
 date: 2030-01-13
 lastmod: 2026-07-16
-labels: [positioning, philosophy]
+labels: [conversations, philosophy]
 description: "Paul Feyerabend — the student who dismantled his teacher's programme. A wounded soldier who wanted to sing opera, and the philosopher who showed that science's greatest moves broke every rule: 'anything goes' as history's verdict, not his advice."
 status: storyline
 words: 655
@@ -22,7 +22,7 @@ Late in the career he pushed further: science is one tradition among many, with 
 
 Where does he stop? Deliberately, at the demolition line. He refused to put a new method where the old one fell — building a replacement, he suspected, is how monopolies restart — and what to make of the opened ground he left to others. The better ending is the one his life wrote: fifty years of pain, and the funniest, most alive philosophy of his century; a demolisher whose unfinished last book, *Conquest of Abundance*, defends the sheer richness of the world against every abstraction that would thin it. He tore down the rules for the same reason he sang. Reality, he thought, is bigger than any score.
 
-<small>This post is part of the [positioning series](/blog/label/positioning/). See also the reference entry on <a href="/positioning/persons/f/feyerabend/">Paul Feyerabend</a>.</small>
+<small>This post is part of the [conversations series](/blog/label/conversations/). See also the reference entry on <a href="/positioning/persons/f/feyerabend/">Paul Feyerabend</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@erwinbosman">Erwin Bosman</a> / Unsplash</small>

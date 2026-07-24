@@ -2,7 +2,7 @@
 layout: default
 title: "Reading Path"
 description: "New to SPLectrum? A short orientation — what SPLectrum is, where to start reading, and how the site is organised."
-lastmod: 2026-07-13
+lastmod: 2026-07-24
 ---
 
 # Reading Path
@@ -11,11 +11,12 @@ SPLectrum is a philosophical project built from a small set of principles about 
 
 ## Where to start reading
 
-Three blog series run through SPLectrum's development:
+Four blog series run through SPLectrum's development:
 
-- **[The positioning series](/blog/label/positioning/)** — where SPLectrum sits in relation to existing thought. Figures and traditions SPLectrum draws on, engages with, and distinguishes itself from.
+- **[The positioning series](/blog/label/positioning/)** — where SPLectrum sits in relation to existing thought: the load-bearing engagements with the figures and traditions it draws on and distinguishes itself from.
 - **[The seed series](/blog/label/seed/)** — the six foundational principles, unpacked one at a time. What the principles are, how they fit together, and what they produce.
 - **[The reality series](/blog/label/reality/)** — the metaphysics built in the open. The five pillars from the subject's seat: how reality is disclosed, what values emerge, how diverse subjects live together.
+- **[The conversations series](/blog/label/conversations/)** — lighter meetings with thinkers and traditions: portraits and one-off engagements that accompany the main storylines without carrying them.
 
 ## How the site is organised
 

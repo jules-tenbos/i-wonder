@@ -3,7 +3,7 @@ layout: post
 title: "The Wrapper"
 date: 2030-01-02
 lastmod: 2026-05-12
-labels: [category-theory, seed, mathematics, philosophy]
+labels: [formalisation, mathematics, philosophy]
 status: mandatory review
 words: 610
 ---
@@ -27,7 +27,7 @@ The practical consequence is liberating. We don't have to abandon 1-categorical 
 
 That distinction — between the wrapper and the wrapped — also reframes another question that comes up immediately when the foldback is taken seriously. If literal identity is unavailable as a primary operation, what takes its place? An everyday answer is closer to hand than the abstract framing suggests.
 
-<small>This post is part of the [category-theory series](/blog/label/category-theory/).</small>
+<small>This post is part of the [formalisation series](/blog/label/formalisation/).</small>
 
 ---
 <small>Photo: TBD / Unsplash</small>

@@ -3,7 +3,7 @@ layout: post
 title: "Mutualism Without Intent"
 date: 2030-01-31
 lastmod: 2026-07-17
-labels: [positioning, philosophy]
+labels: [conversations, philosophy]
 description: "Decentralisation conversations reach for mutualism vocabulary — but the path is a command chain even when the destination is named decentralised. The colouring runs deeper than the words. What changes when it is set aside?"
 words: 965
 status: review
@@ -64,7 +64,7 @@ The mutualism vocabulary wants to make the case — cooperation is natural, cent
 
 ---
 
-<small>This post is part of the [positioning series](/blog/label/positioning/). See also <a href="/positioning/on-the-fence/mutualism/">Mutualism — On the fence</a>.</small>
+<small>This post is part of the [conversations series](/blog/label/conversations/). See also <a href="/positioning/on-the-fence/mutualism/">Mutualism — On the fence</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@bekkybekks">Bekky Bekks</a> / Unsplash</small>
