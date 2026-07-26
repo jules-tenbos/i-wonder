@@ -5,7 +5,7 @@ date: 2030-01-12
 lastmod: 2026-07-16
 labels: [conversations, philosophy]
 description: "William James — the first self-avowed pluralist. A stalled young man who willed himself back to life, and built from it a philosophy of a universe still in the making, never fully given, 'ever not quite'."
-status: storyline
+status: ready
 words: 600
 ---
 <img src="https://images.unsplash.com/photo-1616990600736-cab58155552a?q=80&w=350&h=230&auto=format&fit=crop" alt="William James" />

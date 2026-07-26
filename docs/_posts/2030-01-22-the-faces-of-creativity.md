@@ -12,6 +12,9 @@ words: 1090
 
 In the [previous post in this series]() I called creativity the generative value and I illustrated it with an example that is typically seen as artistic creation. However as a subject value within SPLectrum its meaning goes much wider, and without judgment: creativity within the privacy of the subject is anything that results in an experience of reality that differs from the shared. So how many faces of creativity are there? 
 
+the faces of creativity, perspectives, how change is perceived.
+Although I am using creativity at the subject level, it is in fact a perspective on change that is stripped of value - contingent, not the same. That is because when the values of belonging, privay and creativity are associated with the subject it is recognised the subject has a 'home context' (belonging) however its ability to be different from that home context is left neutral (i.e. not judged by any standards, most importantly of its home context).
+
 I am not going to try to nor pretend I can name them all, how many words are there to express the unexpected for the know? The importance of creativity - difference within the privacy of the subject - is how it can echo back into belonging, how the difference experienced at the individual  level becomes a shared good. However, this sharing only happens occasionally and it is contingent. But some acts of creativity may set a whole avalanche in motion and often have an individual name attached - rightly or wrongly. This leaves many with the impression that it is driven by individual through actions of a causal nature rather than opportunities that arise from what lives and wells up within a community.
 
 From a SPLectrum point of view artistic creation, scientific discovery, technological invention and darwinian evolution to name a few all exists within their own cultural language but are in fact expressions of the same kind of undercurrent - creativity at the level of the individual.

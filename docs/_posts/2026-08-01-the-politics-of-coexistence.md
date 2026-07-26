@@ -2,11 +2,11 @@
 layout: post
 title: "The Politics of Coexistence"
 date: 2026-08-01
-lastmod: 2026-07-24
+lastmod: 2026-07-27
 labels: [reality, philosophy]
 description: "SPLectrum's politics — the still picture of ethics set in motion: a balance among language games that establishes itself through common understanding, not agreement, as the games are played."
 status: ready
-words: 624
+words: 608
 ---
 <img src="https://images.unsplash.com/photo-1516880711640-ef7db81be3e1?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="The Politics of Coexistence" />
 
@@ -24,9 +24,9 @@ Out of all this playing, a dynamic balance establishes itself. Not decreed from 
 
 With politics set down, the metaphysics is complete — and it has a clear shape. Epistemology, ontology and aesthetics are one realm — call it the realm of *realisation*: the subject acquiring meaning, holding it as concepts, and expressing it in language. Reality is disclosed to the subject and enacted by it in the same movement, and realisation carries both senses at once — coming to see, and making real. Ethics and politics are the second — the realm of *coexistence*: the subject's standing and its ongoing interactions with *other* subjects and communities — others who have agency of their own, who play their own games and make their own choices. Two realms of relation, realisation then coexistence, and across both the same refusal holds: no universal good handed down from above, no one seated above the games to decide how they should coexist.
 
-I think this is a sound approach to metaphysics — laid out in principle, not a finished system — a solid ground to build on. As a next step I would like to bring in various figure heads of the different streams of pluralism and explore how SPLectrum's metaphysics fits alongside — taken up not as an argument to win but as a landscape to read. These blog posts will be under [the conversations series](/blog/label/conversations/).
+I think this is a sound approach to metaphysics, a beginning where positions are laid out in principle. Not a finished system by any means — that will take time to build out. To me it feels like solid ground to build on.
 
-<small>This post is part of the [reality series](/blog/label/reality/). More in the <a href="https://splectrum.world/reality/politics/">politics area of the reference library</a>.</small>
+<small>This post is part of the [reality series](/blog/label/reality/). See also <a href="/reality/politics/">Politics — the dynamic of coexistence</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@randyfath">Randy Fath</a> / Unsplash</small>
