@@ -266,6 +266,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Rawls, John (1921–2002)](r/rawls) · political philosopher<span class="kw">A Theory of Justice, the original position, the veil of ignorance, justice as fairness, the difference principle, political liberalism</span>
 - [Reichenbach, Hans (1891–1953)](r/reichenbach) · philosopher of science<span class="kw">the direction of time, branch systems, common cause principle, probability and induction</span>
 - [Reid, Thomas (1710–1796)](r/reid) · philosopher<span class="kw">common-sense philosophy, direct realism, the critique of Hume's skepticism, the rejection of the theory of ideas</span>
+- [Renouvier, Charles (1815–1903)](r/renouvier) · philosopher<span class="kw">néo-criticisme, relation as the master category, freedom as the sustaining of a thought, the law of number, Uchronie, personalism, the definition that turned William James</span>
 - [Richerson, Peter (1943–)](r/richerson) · evolutionary biologist<span class="kw">dual-inheritance theory (with Boyd), gene-culture coevolution, the ecological basis of cultural evolution</span>
 - [Ricoeur, Paul (1913–2005)](r/ricoeur) · philosopher<span class="kw">hermeneutics of the self, the rule of metaphor, narrative identity, the capable human being, time and narrative</span>
 - [Rorty, Richard (1931–2007)](r/rorty) · philosopher<span class="kw">pragmatism, conversation over correspondence, contingency, solidarity</span>
