@@ -10,16 +10,16 @@ words: 1090
 ---
 <img src="https://images.unsplash.com/photo-1659136039077-0fa504a96237?q=80&w=350&h=230&auto=format&fit=crop" alt="The Faces of Creativity" />
 
-In the [previous post in this series]() I called creativity the generative value and I illustrated it with an example that is typically seen as artistic creation. However as a subject value within SPLectrum its meaning goes much wider, and without judgment: creativity within the privacy of the subject is anything that results in an experience of reality that differs from the shared. So how many faces of creativity are there? 
+In the [previous post in this series]() I called creativity the generative value. I illustrated it with an example that is typically seen as artistic creation. However its meaning goes much wider, and without judgment: creativity within the privacy of the subject is anything that results in an experience of reality that differs from the shared.
+
+Creativity in that sense is known under many names - creation, invention, discovery to name a few. Each name carries with it a perspective on the act of creativity. Creation tends to be associated with artistic expression, invention on the other hand with technology. Both point to something that is perceived as new, that didn't exist yet. Discovery on the other hand is about that already exists but was unknown or invisible. These different face of creativity are plentiful, I only named a few here. 
+
+From a SPLectrum perspective creativity is far more general. It is any kind of change. And it comes without colour. Where the faces named above would be seen as constructive, creativity within SPLectrum can as well be a change that is negative (if adopted) or just neutral. And most change goes nowhere, it remains within the private realm of the subject.
+
+Creativity at the subject level is raw material, it is a candidate for sharing, for polishing, for adaption. It is the driver of process, reality in motion.
 
 the faces of creativity, perspectives, how change is perceived.
 Although I am using creativity at the subject level, it is in fact a perspective on change that is stripped of value - contingent, not the same. That is because when the values of belonging, privay and creativity are associated with the subject it is recognised the subject has a 'home context' (belonging) however its ability to be different from that home context is left neutral (i.e. not judged by any standards, most importantly of its home context).
-
-I am not going to try to nor pretend I can name them all, how many words are there to express the unexpected for the know? The importance of creativity - difference within the privacy of the subject - is how it can echo back into belonging, how the difference experienced at the individual  level becomes a shared good. However, this sharing only happens occasionally and it is contingent. But some acts of creativity may set a whole avalanche in motion and often have an individual name attached - rightly or wrongly. This leaves many with the impression that it is driven by individual through actions of a causal nature rather than opportunities that arise from what lives and wells up within a community.
-
-From a SPLectrum point of view artistic creation, scientific discovery, technological invention and darwinian evolution to name a few all exists within their own cultural language but are in fact expressions of the same kind of undercurrent - creativity at the level of the individual.
-
-In the generative value post I gave an example of an artistic creation - one type of creativity. In the next few post we are going to expand on two in par
 
 When something new shows up, we file it. Three drawers, and everyone knows the labels. *Discovered* — it was there all along, and someone finally found it: a continent, a comet, penicillin. *Invented* — it was not there, and someone made it: the telephone, the sonnet, the wheel. *Evolved* — nobody made it, it grew on its own: the eye, the market, the language you are reading. The filing system is so familiar it does not feel like a system. It feels like a fact about the world.
 
