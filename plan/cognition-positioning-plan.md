@@ -12,6 +12,8 @@ This is the Oxford entry with two restrictions lifted. "Mental" is dropped — i
 
 "Through experience" is not a channel qualification. Experience is a position on the axis, so the definition already carries the axis inside it.
 
+**Knowledge and understanding (added 2026-08-10).** The definition's two nouns are not a redundancy — the seed already holds them apart. Knowledge is *the held*: what the subject comes to recognise within the accumulation (P2's gloss; the vocabulary's "insight factor of a subject's reality"). Understanding is *the operative*: having created a language for something, the relations in place to work with it (the language page). Acquiring both through experience means the process delivers operability, not just items. And both require something active — which the dictionary concedes itself: the entry opens "the *action or process* of." What the entry fenced was the location of the activity (mental), never the activity; passive acquisition would be the mirror picture, so the activity requirement is the anti-spectator commitment surfacing inside the definition itself. Two guards on "active": no operator — the activity is the running of the making-sense, not a workman inside the subject operating on experience from above (the sandwich; always-already-a-running-system); and no threshold — at the elementary end the activity is the bare act of holding (hysteresis as the minimal act), with knowledge and understanding present in degenerate degree: the held state, and the operative relation between state and response.
+
 ## The language dynamic axis
 
 The seed principles leave the dynamic on the language side largely unsaid. P2 names the medium and names experience; it says nothing about what happens to what arrives, and so nothing about how the medium comes to be *this* medium rather than another. The static reading of P2 is complete. The dynamic reading has a gap exactly where cognition sits.
@@ -57,6 +59,22 @@ The structural form of the answer is the no-first-lap point. A subject is always
 
 **Collision to hold.** A Heideggerian reader hears "cognition" as the founded mode and will read the position as promoting exactly what Heidegger demoted. The response is decline-and-redescribe: what he rejected was the narrow word; the widened word is on his side of the argument. Fence or subject-page material, and good material — not for the position pieces.
 
+## Elementary cognition and the reach downward (added 2026-08-10)
+
+Discussion capture, thinking phase. Provisional throughout; all of it passes the sorting test (structural side — no particular account of cognition presupposed).
+
+**The cell.** A cell that senses a specific molecule in its environment and reacts to it has elementary cognition — it experiences reality. What qualifies it is not the reacting but the loop: its responding leaves traces that reshape future responding (adaptation, receptor up- and down-regulation, habituation in unicellular organisms). That is P2's accumulation at small reach. A free extra from P0: the membrane is differentiation made flesh — one cut creating an inside, an other, and a language of exchange across the boundary.
+
+**No complexity threshold.** The definition does not say "sufficiently complex knowledge." Elementary constructs represent elementary cognition. The criterion that does the sorting is history-dependence, not complexity: a thermostat with hysteresis gives a different response to the same input depending on where it has been — P2's accumulation at degree-elementary. Implementation is indifferent — an analog computing circuit and its equivalent digital implementation qualify or not together; the shape decides, not the substrate or the resolution. "Mechanical" is simply what making-sense looks like at small reach (P1: a language's reach is the relations it holds); a thin reality is still a reality, and our own heat-withdrawal runs at that grade inside a subject that also holds more.
+
+**The processor illustration stays, made precise.** The processor is not excluded for being simple — it is excluded because it is history-independent by design: same instruction, same result, every time; nothing of its past enters its response, and the medium ends the day as it began. The fence is structural (no history in the response), never a complexity threshold. Post A's image survives the no-threshold reading unchanged.
+
+**A gradation, not thresholds.** State-retention (hysteresis-grade) → repertoire-reshaping (the cell: the responding adjusts the responder's own repertoire) → language-creation (rich subjects: new language deposited into the shared store). Degrees of one thing under one definition.
+
+**The pre-boot state.** We are always already a running system, with no idea what the pre-boot state is — an epistemic upgrade of the no-first-lap point. Inquiry into the before is conducted by the running system in its own language, so what inquiry finds is always more content (the epistemology landing makes the same move about the senses); one cannot remember one's way back before memory. Watch on the metaphor: "boot" implies a startup sequence, and from outside there is one — development, a real and gradual coming-into-subjecthood described in biology's shared language. The two-language resolution: first-person, experience has no edge; third-person, a described process; the outside answer never delivers the inside of the before, because there was no inside yet. The position denies an experiential first moment, not development.
+
+**Content-language neighbours waiting.** Basal cognition (already on the subject page's cutting-in list — the field exists because biologists needed cognition vocabulary below nervous systems) and the built biosemiotics subject page (cell-level sign processes) both hold this territory on the content side. The disciplines phase meets them; the position arrived here from the seed's own premises, not from those fields.
+
 ## Relation to the pillars (added 2026-08-10)
 
 Findings from reading the position against the built metaphysics. Provisional, like everything here.
@@ -95,7 +113,7 @@ Discipline: written tight enough not to leak content-side material. No examples 
 
 **Drafting brief (simplified 2026-08-10 — one point, page-sized):**
 
-- **The point: cognition is a subject prerequisite — P2 cannot stand without it.** The medium delivering a subject's reality presupposes that something is made of what arrives; no making-sense, no experience, no subject's reality — a medium executing flawlessly and going nowhere. P2's gloss supplies the one-line evidence: it already ends on *recognise* (*re-cognoscere*).
+- **The point: cognition is essential to being a subject — P2 cannot stand without it.** *(Phrasing note 2026-08-10: "subject prerequisite" retired — before-flavoured, it invites the sequence reading the position rejects; the carried phrasing is constitutive: essential to / part of what being a subject is.)* The medium delivering a subject's reality presupposes that something is made of what arrives; no making-sense, no experience, no subject's reality — a medium executing flawlessly and going nowhere. P2's gloss supplies the one-line evidence: it already ends on *recognise* (*re-cognoscere*).
 - **Heidegger enters as the source of the question, not as an account of cognition:** we are always already in a meaningful world — *how?* This passes the sorting test (the question is structural), follows the family precedent (the historicity page's cast arrives at the structure), and his person page fully supports the always-already.
 - **The demotion in the page's own voice:** cognition answers the how as something internal to the language game dynamics — extracting from the medium and feeding it, furnishing rather than founding; being-in-language is P2's fact. Stated as the seed's own move, so the unverified founded-mode claim is never needed on this surface.
 - **Hint, no specifics:** one signpost sentence that how the making-sense runs is contested territory (brains, machines, traditions) — no process models engaged.
@@ -104,13 +122,13 @@ Discipline: written tight enough not to leak content-side material. No examples 
 
 ### 3. Post B — *Always Already* (reshaped 2026-08-10)
 
-Companion to the seed page in conversational register — the same shape as the page, narrated as arrival: the Heidegger phrase and its question, P2's gloss quietly demanding the answer, the prerequisite named, the demotion in the same breath, the hint at the contested field as backward narration. The post narrates, the page states (the non-contradiction division). Publishes 09-01 with the seed page live — **the page-by-09-01 dependency is back**. *(Replaced the earlier axis-reveal draft, The Unnamed Station, whose material is held in reserve with the axis.)*
+Companion to the seed page in conversational register — the same shape as the page, narrated as arrival: the Heidegger phrase and its question, P2's gloss quietly demanding the answer, the essential-to-subject point named, the demotion in the same breath, the hint at the contested field as backward narration. The post narrates, the page states (the non-contradiction division). Publishes 09-01 with the seed page live — **the page-by-09-01 dependency is back**. *(Replaced the earlier axis-reveal draft, The Unnamed Station, whose material is held in reserve with the axis.)*
 
 **Both posts carry the arc behind them** — the process-models and AI readings that forced the question — as open thinking-in-motion. **Neither post promises what is ahead**: no announcement of the subject page or the pillar work (the pluralism cluster's forward promise was removed on the same lesson; later work arrives unannounced).
 
 ### The third post — cognition in the SPLectrum metaphysics (confirmed 2026-08-10 as the content-side surface)
 
-The two-sides coin mapped onto surfaces: the seed page and Post B carry the structural side (prerequisite, the how-question, demoted-internal); this post carries the content side — the docking at epistemology (the landing already describes cognition's work unnamed), the capacity/exercise relation to aesthetics, not-a-sixth-pillar. It is also the surface that can name the Heidegger demotion properly once the founded-mode check is done. Unscheduled, thinking phase; it stays away from the untested symmetry; the backward-narration discipline applies here as everywhere.
+The two-sides coin mapped onto surfaces: the seed page and Post B carry the structural side (essential-to-subject, the how-question, demoted-internal); this post carries the content side — the docking at epistemology (the landing already describes cognition's work unnamed), the capacity/exercise relation to aesthetics, not-a-sixth-pillar. It is also the surface that can name the Heidegger demotion properly once the founded-mode check is done. Unscheduled, thinking phase; it stays away from the untested symmetry; the backward-narration discipline applies here as everywhere.
 
 ### 4. Cognition subject page
 

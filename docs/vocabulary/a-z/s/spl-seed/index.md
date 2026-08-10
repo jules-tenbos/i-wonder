@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-12
+lastmod: 2026-08-10
 title: "SPL Seed"
 description: "The seed vocabulary — original terms, philosophical page vocabulary, and engineering variant."
 ---
@@ -9,13 +9,15 @@ description: "The seed vocabulary — original terms, philosophical page vocabul
 
 # SPL Seed
 
-The vocabulary of the [seed](/seed/). Three layers: the original terms as they appear in the principles, a page vocabulary drawn from the philosophical seed page, and an engineering variant that translates seed terms into software.
+The vocabulary of the [seed](/seed/). Three layers: the seed's own terms — from the principles and the seed pages that extend them — a page vocabulary drawn from the philosophical seed page, and an engineering variant that translates seed terms into software.
 
 ## Original
 
-The seed vocabulary as it appears in [the original principles](/seed/original/).
+The seed's own vocabulary — terms as they appear in [the original principles](/seed/original/) and the seed pages that extend them.
 
 <span id="being">**Being**</span> — That which is different from *the other* — a unit of difference.
+
+<span id="cognition">**Cognition**</span> (P2) — The process of acquiring knowledge and understanding through experience. Essential to being a subject: for P2 to stand, some making-sense must be running — internal to the language game dynamics, extracting from the medium and feeding it. See [the seed and Cognition](/seed/cognition/).
 
 <span id="convergence">**Convergence**</span> (P3) — Reaching a highly similar state of language across subjects — creates shared reality, the source of subjective objectivity.
 

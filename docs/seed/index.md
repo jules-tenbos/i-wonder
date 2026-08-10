@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-07
+lastmod: 2026-08-10
 title: "The SPLectrum Seed"
 description: "The SPLectrum seed and its many facets — six principles on language and relation, articulated across philosophy, science, engineering and beyond."
 ---
@@ -22,6 +22,9 @@ What language is in the seed's terms — P0 and P1 as the structural base, conti
 
 **[The seed and Historicity](historicity)**<br>
 An experiencing subject requires historicity — why historicity is an essential part of the seed.
+
+**[The seed and Cognition](/seed/cognition/)**<br>
+Cognition as essential to being a subject — the making-sense P2 quietly presupposes, internal to the language game.
 
 **[The seed and Human Reality](human-reality)**<br>
 Human reality as community-constituted — how subjects share, synchronise, and form shared reality.
