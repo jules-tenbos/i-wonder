@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Becoming Acquainted"
+title: "The Dawn of Cognition"
 date: 2026-08-24
 lastmod: 2026-08-09
 labels: [seed, philosophy]
@@ -8,6 +8,25 @@ description: "The dictionary's entry for cognition carries two quiet restriction
 status: draft
 words: 647
 ---
+
+I have been chewing a lot on what it takes to come to meaning in language, and how our experience is always already fully loaded with meaning. I wanted to do a post on the process models of the brain, but then also at the same time draw the parallels with the current AI developments. And then there are the philosophical areas of interest - enactivism etc. In the end I found myself surrounded by many things that seemed to point overall in the same direction but were not organised that way. How to deal with this?
+
+I am already sitting strongly on expression of meaning with the language medium. But what is the process that deals with this? And out dropped the word cognition: what is it?
+
+From the Oxford dictionnary: Cognition, the entry says: *the mental action or process of acquiring knowledge and understanding through thought, experience, and the senses.*
+
+What is its relation to meaning? And here it becomes interesting, because it twofold. Because meaning is at the same time what cognition works in and what cognition produces. Where we use languages for the expression of meaning, this becomes simply that cognition is the process that creates languages from languages. From a SPLectrum point of view, very satisfactory.
+
+The means that cognition can become a well-defined pillar of SPLectrum, with the following amended definition:
+*Cognition is the process of acquiring knowledge and understanding through experience.*
+
+-------------------------------------
+
+Meaning as what cognition produces. Cognition makes sense of what came in; meaning is that sense. Fits the making-sense position directly, and fits extraction-as-reduction — a distinction held rather than everything held is what having a meaning amounts to.
+
+Meaning as what cognition works in. The medium is already meaning-bearing before any particular extraction. Cognition doesn't confer meaning, it operates where meaning already is. Fits the sandwich better: you can't extract from an unmeaning substrate, since there'd be nothing there to extract.
+
+-------------------------------
 
 For a while now the reading here has circled process — models of how a brain keeps going, and alongside them the machine-learning systems that have lately made those models interesting again. Two literatures, little traffic between them, and yet they keep asking versions of one question: something engages a medium, something is made of what arrives. I kept needing a word for that making-sense, one word that could stretch across both shelves. There is an obvious candidate. The trouble is what the dictionary has done to it.
 

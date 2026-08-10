@@ -43,6 +43,34 @@ This cut also places the existing accounts without adjudicating them: cognitivis
 
 **Register note (corrected 2026-08-09):** the three stations are held descriptively, is-like — this is how the site consistently describes the making-sense position, not a universal thesis about all languages to be defended against counter-cases. A case where a station is hard to read (the processor illustration is already one) marks the limits of the likeness; it does not put the heading on trial. SPLectrum is descriptive in a consistent way, not normative. *(An earlier version framed this as a "claim to be prepared to defend" — that framing is retired.)*
 
+**A sorting test for the two sides (added 2026-08-10).** Cognition will live strongly on both sides; exactly how is not yet clear — thinking phase. In the meantime, a workable test for any given aspect: if it can be stated without presupposing any particular subject's cognition — the axis, the no-first-lap point, sandwiched, extraction-as-reduction, the always-already (below) — it is structural, common-language-side. If it is an account of what the making-sense *consists in* — convergence-and-shared-tools, prediction-error, enactment, information processing — it is a content language on cognition, one voice among the cuts. Psychology's cognition is one such content language, not the owner of the word. The Heidegger question below splits cleanly on this test: the question is structural; answers come in both registers.
+
+## The Heidegger anchor (added 2026-08-10)
+
+"We are always already in the world" states a fact and declines to explain it: no moment before immersion, no subject that first exists and then acquires a world. The position's proposal: **cognition answers the *how*** of the always-already.
+
+The structural form of the answer is the no-first-lap point. A subject is always already in a meaningful world because the stations are aspects, not steps — there was never a neutral input awaiting sense, because the making-sense never wasn't running, and the medium it deposits into was never empty. The sandwich says the same from the other side: nothing can be extracted from an unmeaning substrate, so wherever there is a subject at all, meaning is already underway.
+
+**The recovered word.** Heidegger himself demoted cognition — *Erkennen* as a founded, derivative mode, and treating it as the primary relation to the world as the mistake that generates the pseudo-problem of the external world. But the word he demoted was the fenced word: mental, theoretical, representational, a detached subject contemplating objects. That word could not name the always-already, so he had to invent vocabulary for it — understanding, attunement, disclosedness. The widened word can name what that vocabulary named.
+
+**The demotion is partly right, and stays.** Cognition is not promoted to the primary relation. It is a process that is a prerequisite — how one comes to the language one is in, furnishing rather than founding. Being-in itself is P2's fact; cognition answers *how*, it does not replace the being-in. This keeps the position consistent with the prerequisite reading of the aesthetics relation (below): demoted in rank, load-bearing in function.
+
+**Collision to hold.** A Heideggerian reader hears "cognition" as the founded mode and will read the position as promoting exactly what Heidegger demoted. The response is decline-and-redescribe: what he rejected was the narrow word; the widened word is on his side of the argument. Fence or subject-page material, and good material — not for the position pieces.
+
+## Relation to the pillars (added 2026-08-10)
+
+Findings from reading the position against the built metaphysics. Provisional, like everything here.
+
+**Not a sixth pillar.** The pillars stay five; what is being established is a position on the language side. Earlier phrasing ("cognition as a pillar") is retired for this reason — "pillar" collides with the architecture.
+
+**The content side docks at epistemology.** The epistemology landing already describes cognition's work without using the word — "private experience is the use of common tools to deliver content... the content is expressed, taken up by others, and fed back into the shared tools." The same pattern as P2's *recognise* at the seed level: the site already does cognition, unnamed, at the pillar level too. SPLectrum's epistemology is its content language on cognition.
+
+**The aesthetics relation is prerequisite, capacity/exercise.** Cognition is how one comes to language; aesthetics is how one goes about using what one holds. Prerequisite in the order of presupposition, not of time: there is no stage where cognition finishes and use begins — one comes to language largely *by* using it, and every act of use deposits back. No working without holdings; the working is itself one of the ways more comes to be held. Standing condition, live loop.
+
+**A symmetry to test, not assume.** The three realisation pillars — learn, name, express — may be the three stations of the axis viewed from the content side: epistemology watching the inward face of the traffic, ontology the holdings at rest, aesthetics the outward face, with cognition the station both faces share. Elegant enough to be suspicious of; held is-like, to be tested when the seed page and subject page are drafted. Note the axis as captured never names *expression* — if experience is interaction with the medium running inward or outward, expression may be the outward direction of the experience station. Seed-page material at most; not for the posts.
+
+**The two-departments picture.** Mainstream philosophy keeps epistemology (normative: justification, warrant) and cognition (descriptive: the process) in separate departments. The position never had that line — descriptive in a consistent way — which is why here epistemology just is the account of cognition at work. Readers arrive carrying the two-departments picture; the subject page will need to meet it.
+
 ## Why cognition earns the position
 
 - It gives a non-anthropocentric term for the making-sense position, with no need to open the how-far-does-it-stretch question. Cognition reaches as far as subjecthood reaches, which is settled elsewhere. Every definition in the literature has to legislate its own boundary because it defines cognition first and discovers its extension second.
@@ -65,20 +93,24 @@ Content: the gap in P2, then the axis — substrate, engagement, sense-making, w
 
 Discipline: written tight enough not to leak content-side material. No examples that presuppose a particular subject's cognition.
 
-**Drafting brief (added 2026-08-09, from site-state reading):**
+**Drafting brief (simplified 2026-08-10 — one point, page-sized):**
 
-- Genre: committed expression (the historicity/language family), not a mapping page (the CAS/category-theory family). "The seed and Cognition" fits the family naming.
-- The gap, restated precisely: the accumulation side of P2's dynamic is already developed (the historicity page: retention becomes memory, memory enables interpretation, interpretation builds reality). What is genuinely unsaid is the deposit-back — what is made of the accumulation, and that the making creates more language. Argue from *naming what the seed already does in fragments*, which is stronger than a bare gap and natively is-like: P2's own gloss ends "knowledge is what the subject comes to *recognise* within that accumulation" — the station sits in the principle's wording, unnamed (*re-cognoscere*); and the language page already says "to understand something is to have created a language for it" — the recursion, stated in passing.
-- Structure: modelled on the historicity page's shape — centred on P2, essay under it, brief deferrals for the other principles; close with the family's onward pointers (historicity for the experience station, human-reality for what sharing does with the deposit).
-- Castless, unlike the historicity page. "Retention" was not a contested word; "cognition" is — any named account imports its cut and leaks content-side, and the Dewey/James-vs-phenomenology docking is open and must not be decided by casting drift. Bare-spine register (the original-principles page), names arriving later if the docking resolves.
-- Vocabulary: "mixing" is not site vocabulary (nowhere in the seed or reality pages). State extraction-as-reduction positively — holds some of what is in play, drops the rest, purifies — without the mixing contrast, which waits for wherever mixing gets its own introduction.
-- The processor image stays in Post A.
+- **The point: cognition is a subject prerequisite — P2 cannot stand without it.** The medium delivering a subject's reality presupposes that something is made of what arrives; no making-sense, no experience, no subject's reality — a medium executing flawlessly and going nowhere. P2's gloss supplies the one-line evidence: it already ends on *recognise* (*re-cognoscere*).
+- **Heidegger enters as the source of the question, not as an account of cognition:** we are always already in a meaningful world — *how?* This passes the sorting test (the question is structural), follows the family precedent (the historicity page's cast arrives at the structure), and his person page fully supports the always-already.
+- **The demotion in the page's own voice:** cognition answers the how as something internal to the language game dynamics — extracting from the medium and feeding it, furnishing rather than founding; being-in-language is P2's fact. Stated as the seed's own move, so the unverified founded-mode claim is never needed on this surface.
+- **Hint, no specifics:** one signpost sentence that how the making-sense runs is contested territory (brains, machines, traditions) — no process models engaged.
+- Genre and discipline unchanged: committed expression in the historicity/language family; castless with respect to accounts of cognition; no examples presupposing a particular subject's cognition; no "mixing" vocabulary; the processor image stays in Post A. Family furniture: onward pointers to historicity (the experience side) and human-reality (what sharing does with the deposit).
+- **Held in reserve, not discarded** (for a later deepening of the page or the subject-page phase): the full axis exposition (three stations, aspects-not-steps as its own section), extraction-as-reduction, the full naming-what's-already-there argument (the language page's "to understand something is to have created a language for it").
 
-### 3. Seed-and-cognition post (Post B)
+### 3. Post B — *Always Already* (reshaped 2026-08-10)
 
-Companion to the seed page, in post register — the axis narrated as thinking-in-motion. The naming-what's-already-there material (the "recognise" anchor, understanding-as-creation) is a post moment as much as a page argument. Publishes with or after the seed page so internal links resolve.
+Companion to the seed page in conversational register — the same shape as the page, narrated as arrival: the Heidegger phrase and its question, P2's gloss quietly demanding the answer, the prerequisite named, the demotion in the same breath, the hint at the contested field as backward narration. The post narrates, the page states (the non-contradiction division). Publishes 09-01 with the seed page live — **the page-by-09-01 dependency is back**. *(Replaced the earlier axis-reveal draft, The Unnamed Station, whose material is held in reserve with the axis.)*
 
 **Both posts carry the arc behind them** — the process-models and AI readings that forced the question — as open thinking-in-motion. **Neither post promises what is ahead**: no announcement of the subject page or the pillar work (the pluralism cluster's forward promise was removed on the same lesson; later work arrives unannounced).
+
+### The third post — cognition in the SPLectrum metaphysics (confirmed 2026-08-10 as the content-side surface)
+
+The two-sides coin mapped onto surfaces: the seed page and Post B carry the structural side (prerequisite, the how-question, demoted-internal); this post carries the content side — the docking at epistemology (the landing already describes cognition's work unnamed), the capacity/exercise relation to aesthetics, not-a-sixth-pillar. It is also the surface that can name the Heidegger demotion properly once the founded-mode check is done. Unscheduled, thinking phase; it stays away from the untested symmetry; the backward-narration discipline applies here as everywhere.
 
 ### 4. Cognition subject page
 
@@ -98,9 +130,16 @@ The payoff is assembly: these live in separate literatures with little traffic b
 
 Not yet. What is on the table is a positioning, and the research question depends on what the pillar turns out to require. Research now would be research into the disciplines, which is the next phase, and would pull the positioning toward whatever the literature makes salient.
 
+**Verification checks, distinct from the deferred research (added 2026-08-10)** — fact-checks the position pieces need before publishing, not discipline research:
+
+- **The Heidegger demotion claim** — knowing (*Erkennen*) as a founded mode of being-in (*Being and Time* §13 territory). Currently carried from discussion memory and load-bearing in the anchor section above. Verify against the text or solid secondary literature before any surface states it. Site-state: the Heidegger person page supports the always-already and being-in-the-world fully, but does not carry the founded-mode point — if verified and used, the page eventually wants a sentence.
+- **Post A's quoted facts at review** — the exact dictionary wording quoted, and *cognoscere* as "become acquainted / get to know."
+
+**Noted for the disciplines phase (not now):** the two-departments picture (normative epistemology vs descriptive cognition) is leaky where a careful reader will push — naturalized epistemology (Quine) collapsed the line; cognitive science claims epistemic territory. The subject page needs that survey behind it. And the Heidegger anchor pulls the phenomenological docking line back into contention — the position takes its question from Heidegger while suspecting its answer docks pragmatist (coherent under the sorting test: questions structural, dockings content-side), so the disciplines phase tests both lines with equal seriousness.
+
 ## Sequence
 
-Position pieces first — none need territory: Post A, then the seed page with Post B alongside or just after it.
+Position pieces first — none need territory: Post A, then the seed page with Post B alongside it (the page live by Post B's publish date). The third post (the metaphysics context, content side) follows unscheduled as the thinking settles.
 
 Then the disciplines phase: **brain process models and AI as the first material in**. That phase tells the subject page what it has to hold, and whether it is one subject or a cluster. The subject page is the frame that work delivers into, which gives the disciplines phase somewhere to accumulate rather than needing a verdict each time.
 
