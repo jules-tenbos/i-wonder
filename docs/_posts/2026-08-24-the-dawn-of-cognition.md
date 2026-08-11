@@ -3,11 +3,12 @@ layout: post
 title: "The Dawn of Cognition"
 date: 2026-08-24
 lastmod: 2026-08-11
-labels: [seed, philosophy]
-description: "Months of reading — brain process models, AI, enactivism — kept pointing one way until a word dropped out: cognition. Meaning as what it works in and what it produces, and the dictionary definition widened for SPLectrum's use."
+labels: [conversations, philosophy]
+description: "What does it take to come to meaning in language? The trail runs from the seed principles through brain process models and AI until a word drops out: cognition — twofold in its relation to meaning, and widened into SPLectrum's definition: the process of acquiring knowledge and understanding through experience."
 status: draft
-words: 635
+words: 632
 ---
+<img src="https://images.unsplash.com/photo-1759513332708-6e0aa2364095?q=80&w=350&h=230&auto=format&fit=crop" alt="Sunrise over the horizon at dawn" />
 
 Meaning expressed in language, I have been chewing a lot on this lately. What does it take to come to meaning in language? And how come our experience seems always already fully loaded with meaning? How are we able to create such a complex web of meanings that at the same time adds richness to the reality we experience individually?
 
@@ -29,6 +30,9 @@ Firstly, the definition talks about acquiring knowledge and understanding throug
 
 Secondly, why define cognition as a mental action or process? Yes, the brain is where we first encountered it and where the main focus of study has been. But that is in my opinion not a good reason to constrain it. At this moment this has become a barrier to recognising and dealing with other expressions of cognition — e.g. distributed cognition in ant colonies or behaviours exhibited by AI. Maybe more correct would be: an action or process, in language, of acquiring. For SPLectrum's definition, mental can simply be dropped.
 
-That leaves us with: *Cognition is the process of acquiring knowledge and understanding through experience.* The next post in this series will focus on cognition and the seed principles.
+That leaves us with: *Cognition is the process of acquiring knowledge and understanding through experience.* The next post will focus on cognition and the seed principles.
 
-<small>This post is part of the [seed series](/blog/label/seed/). See also <a href="/seed/cognition/">The seed and Cognition</a>.</small>
+<small>This post is part of the [conversations series](/blog/label/conversations/). See also <a href="/seed/cognition/">The seed and Cognition</a>.</small>
+
+---
+<small>Photo: <a href="https://unsplash.com/@konevi">ekrem osmanoglu</a> / Unsplash</small>

@@ -6,10 +6,12 @@ lastmod: 2026-08-10
 labels: [seed, philosophy]
 description: "Heidegger's fact — we are always already in the world — carries a question: how? The seed's answer names cognition essential to being a subject, and demotes it in the same breath: internal to the language game, furnishing rather than founding."
 status: draft
-words: 602
+words: 600
 ---
 
-The previous post in this series widened a word. Cognition, freed of two quiet restrictions, came out as the making-sense a subject does — wherever there is a subject to do it. What I did not say is what the widened word is *for*. That surfaced later, through a phrase that would not leave me alone.
+Recently a new core word was added to SPLectrum: cognition. It got its own definition: *Cognition is the process of acquiring knowledge and understanding through experience*.
+
+The previous post here widened a word. Cognition, freed of two quiet restrictions, came out as the making-sense a subject does — wherever there is a subject to do it. What I did not say is what the widened word is *for*. That surfaced later, through a phrase that would not leave me alone.
 
 The phrase is [Heidegger](/positioning/persons/h/heidegger/)'s, and it is deceptively simple: *we are always already in the world.* There is no starting line. No moment at which a subject stands outside meaning, surveys it, and steps in. Wherever you catch yourself, the world is already meaningful — and the catching happens in meaning too. He stated it as a fact, and the fact holds. But state a fact this large and a question comes with it. *How?* What keeps it so?
 
