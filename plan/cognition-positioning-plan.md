@@ -95,6 +95,16 @@ Findings from reading the position against the built metaphysics. Provisional, l
 - It becomes the heading under which brain process models, AI developments, animal signalling and institutional sense-making are read. Material that currently arrives through whatever door its own discipline came in by arrives through one door instead. The SPLectrum reading is stated once; each new area is read through it rather than re-arguing it.
 - It is a comparative instrument, not a unification claim. One set of questions asked of each case — what is the substrate, what is the engagement, what is the sense-making — with different answers each time.
 
+## The position consolidated (added 2026-08-11)
+
+Discussion capture. The advance from the abstract (language as medium → expression of meaning) to a *process* — disclosure — has a clean three-part shape, each part guarding the others:
+
+- **The brain demoted from definition-owner to first implementation.** "Mental" made the brain the owner of cognition and every other candidate a metaphor; the widened definition makes it the first solid implementing candidate — best-studied, no special standing. Admission of others (distributed cognition in ant colonies, AI aspects) then costs nothing: same terms, same three questions (substrate, engagement, sense-making). The disciplines phase is thereby shaped: not "does X really cognise?" (boundary dispute) but "what does X's implementation look like?" (comparative reading). The brain-process-models rounds become the first implementation's candidate accounts; the Moffett dossier already holds ant-colony material.
+- **The meaning-binding is the guard against functionalist drift.** The process-plus-implementations architecture rhymes with functionalism and multiple realizability (Putnam's), and the subject page must meet that rhyme. The difference is the tightness: functionalism defines the process as a substrate-neutral causal role (whence "cognition is computation"); SPLectrum's process is defined in the language medium, bound to meaning on both faces (works in, produces). An implementation qualifies by participating in a meaning-bearing medium with history in its responses, not by realizing a causal diagram — the processor stays out, hysteresis gets in, and "AI aspects" is precise (the qualifying aspect is where it works in meaning, not that it computes). Without the binding the position collapses into functionalism's orbit; with it, it has its own centre. Subject-page material of the first rank; makes Putnam adjacent to this strand from a second direction.
+- **Disclosure names what the process is for.** Language-as-medium said where; expression-of-meaning said what gets done; cognition-as-disclosure says what the traffic amounts to. The abstract-to-process move was made by naming a position, not picking a model — which is why it cost nothing.
+
+Vocabulary watch: "implementation" is engineering-flavoured and fine for planning; public-surface phrasing to be chosen when the disciplines material lands (candidate, expression, implementation — decide then, not by drift).
+
 ## What to build
 
 ### 1. Cognition post (Post A)
@@ -130,6 +140,8 @@ Companion to the seed page in conversational register — the same shape as the 
 
 The two-sides coin mapped onto surfaces: the seed page and Post B carry the structural side (essential-to-subject, the how-question, demoted-internal); this post carries the content side — the docking at epistemology (the landing already describes cognition's work unnamed), the capacity/exercise relation to aesthetics, not-a-sixth-pillar. It is also the surface that can name the Heidegger demotion properly once the founded-mode check is done. Unscheduled, thinking phase; it stays away from the untested symmetry; the backward-narration discipline applies here as everywhere.
 
+**Centrepiece found (2026-08-11): within SPLectrum, cognition is the process of disclosure of reality.** Content-side by the sorting test — disclosure is the epistemology landing's own frame ("reality is disclosed in language") and the July metaphysics-of-disclosure post's "single movement" across the three realisation pillars. This is the naming pattern's third instance: the seed level (P2's *recognise*), the pillar level (the epistemology landing's unnamed description of cognition's work), and now the disclosure movement itself — the process has a name. It also closes the Heidegger circle from the anchor section: *disclosure* is his vocabulary for what the fenced word could not name; identifying cognition as the disclosure process is the recovered word arriving home. And it fixes the relation to the June aesthetics naming: expression of meaning named the field of *using*; cognition goes a step further — the process of *coming-to* that discloses. Held is-like and to be tested alongside the symmetry, not assumed.
+
 ### 4. Cognition subject page
 
 Substantial build, not a stub — it has to stand next to the pillar such that the pillar is answering something.
@@ -151,7 +163,7 @@ Not yet. What is on the table is a positioning, and the research question depend
 **Verification checks, distinct from the deferred research (added 2026-08-10)** — fact-checks the position pieces need before publishing, not discipline research:
 
 - **The Heidegger demotion claim** — knowing (*Erkennen*) as a founded mode of being-in (*Being and Time* §13 territory). Currently carried from discussion memory and load-bearing in the anchor section above. Verify against the text or solid secondary literature before any surface states it. Site-state: the Heidegger person page supports the always-already and being-in-the-world fully, but does not carry the founded-mode point — if verified and used, the page eventually wants a sentence.
-- **Post A's quoted facts at review** — the exact dictionary wording quoted, and *cognoscere* as "become acquainted / get to know."
+- **Post A's quoted facts at review** — the exact dictionary wording quoted, and *cognoscere* as "become acquainted / get to know." *(Done 2026-08-11: the wording is the Oxford Languages definition, verified — the post's earlier "Cambridge Cognition" attribution was that company's page quoting Oxford, now corrected. The etymology check is moot: the cognoscere material was dropped in the rework.)*
 
 **Noted for the disciplines phase (not now):** the two-departments picture (normative epistemology vs descriptive cognition) is leaky where a careful reader will push — naturalized epistemology (Quine) collapsed the line; cognitive science claims epistemic territory. The subject page needs that survey behind it. And the Heidegger anchor pulls the phenomenological docking line back into contention — the position takes its question from Heidegger while suspecting its answer docks pragmatist (coherent under the sorting test: questions structural, dockings content-side), so the disciplines phase tests both lines with equal seriousness.
 
