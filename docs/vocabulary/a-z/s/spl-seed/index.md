@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-08-10
+lastmod: 2026-08-12
 title: "SPL Seed"
 description: "The seed vocabulary — original terms, philosophical page vocabulary, and engineering variant."
 ---
@@ -17,7 +17,7 @@ The seed's own vocabulary — terms as they appear in [the original principles](
 
 <span id="being">**Being**</span> — That which is different from *the other* — a unit of difference.
 
-<span id="cognition">**Cognition**</span> (P2) — The process of acquiring knowledge and understanding through experience. Essential to being a subject: for P2 to stand, some making-sense must be running — internal to the language game dynamics, extracting from the medium and feeding it. See [the seed and Cognition](/seed/cognition/).
+<span id="cognition">**Cognition**</span> (P2) — The process of acquiring knowledge and understanding through experience. The process within P2: always already running — no separation between being in language, experiencing reality, and making sense of it; each subject runs its own. See [the seed and Cognition](/seed/cognition/).
 
 <span id="convergence">**Convergence**</span> (P3) — Reaching a highly similar state of language across subjects — creates shared reality, the source of subjective objectivity.
 
