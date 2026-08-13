@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-06
+lastmod: 2026-08-12
 title: "Subjects A–Z"
 description: "Movements, theories and themes of importance to SPLectrum — from domain specific languages and phenomenology to relational quantum mechanics"
 ---
@@ -26,6 +26,7 @@ These are subjects of importance to SPLectrum, referenced within the site.
 ## C
 
 - [Category theory](c/ct/) · mathematics<span class="kw">structure through relationships rather than internal composition — objects known entirely by their arrows</span>
+- [Cognition](c/cognition/) · philosophy, cognitive science, biology<span class="kw">the word every discipline needs and none owns — psychology's information processing, Kant's constitutive synthesis, the experience-first objections (phenomenology, pragmatism, Ryle and Wittgenstein, process philosophy), life's claim (Umwelt, the Santiago theory, basal cognition), and the widening front: 4E, extended and distributed, predictive processing, machines, collectives</span>
 - [Complex adaptive systems](c/complex-adaptive-systems/) · cross-disciplinary<span class="kw">locally interacting agents producing global order: Holland, Kauffman, Gell-Mann, Santa Fe Institute</span>
 - [Constructivism](c/constructivism/) · epistemology, psychology of learning<span class="kw">knowledge built by the knower to fit experience, not to mirror reality — Piaget's genetic epistemology, von Glasersfeld's radical version, viability not truth, the trivial and social variants, the solipsism charge</span>
 - [Cosmopolitics](c/cosmopolitics) · philosophy of science, political ecology<span class="kw">Stengers: ecology of practices, reciprocal capture, the idiot, cosmos as constructed not given</span>

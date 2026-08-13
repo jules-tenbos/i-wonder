@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-15
+lastmod: 2026-08-13
 title: "Ludwig Wittgenstein (1889–1951)"
 description: "Wittgenstein turned from logical structure to language games and forms of life — meaning is use, not representation."
 ---
@@ -30,6 +30,8 @@ The *Tractatus Logico-Philosophicus* (1921) proposed that language mirrors reali
 **Family resemblance.** §66–67: "Consider for example the proceedings that we call 'games'. ... What is common to them all? — Don't say: 'There must be something common' ... but look and see." What emerges is "a complicated network of similarities overlapping and criss-crossing: sometimes overall similarities, sometimes similarities of detail. I can think of no better expression to characterize these similarities than 'family resemblances'."
 
 **Forms of life.** "What has to be accepted, the given, is — so one could say — forms of life" (*Philosophical Investigations*, p. 226). The concept has both a biological reading — rooted in human natural history — and a cultural reading — variable across human communities. P.M.S. Hacker emphasises the biological: forms of life as the shared natural reactions and capacities that make language possible. Others read them as culturally constituted practices.
+
+**Understanding is not a mental process.** §154: "Try not to think of understanding as a 'mental process' at all. — For that is the expression which confuses you." Understanding shows itself in what one can do — go on with the series, apply the word, follow the rule — not in an inner event accompanying the doing. The grammar of "understanding" is the grammar of an ability, not of a process; the point is of a piece with rule-following and meaning-as-use.
 
 **Rule-following.** "To follow a rule, to make a report, to give an order, to play a game of chess, are customs (uses, institutions)" (§199). "There is a way of grasping a rule which is not an interpretation, but which is exhibited in what we call 'obeying the rule' and 'going against it' in actual cases" (§202).
 
