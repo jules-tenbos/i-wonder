@@ -9,6 +9,8 @@ status: draft
 words: 569
 ---
 
+<img src="https://images.unsplash.com/photo-1663054888819-b3c61c2996fd?q=80&w=350&h=230&auto=format&fit=crop" alt="Concentric spiral of layered pale blue-green forms curving into a centre" />
+
 Two posts ago a new core word entered SPLectrum: cognition, widened and given its definition. The post after placed it within the seed: the process that runs as a subject experiences reality. Beneath both sat a claim that deserves its own ground, and it is the point of this post: *cognition is not a secondary process.* Nothing is received first and made sense of after. The making-sense is fused with the experiencing itself — core, not add-on.
 
 The picture being declined deserves a fair statement, because it is the intuitive one. The world delivers raw material through the senses; cognition then works it up — sorts it, interprets it, adds the meaning. A receiver, then a processor. Most textbook diagrams of perception have this shape, and if it were right, cognition would indeed be secondary: important, but downstream.
@@ -19,8 +21,10 @@ A third current carried the fusion the whole way. Bergson: there is no perceptio
 
 Nor is the refusal a Western possession. Yogācāra Buddhism analysed experience as arising with no split between grasper and grasped, every perception conditioned by the seeds of past experience. Abhinavagupta's school held manifestation and awareness strictly inseparable — and named itself, a thousand years ago, the school of recognition. Zhuangzi's cook cuts the ox with nothing deliberative running behind the knife: the knowing is in the doing. The fusion has been stated in every register philosophy possesses.
 
-SPLectrum stands inside this family by construction. In the seed there is no pipeline for a secondary process to be a stage of: language, experience and cognition are aspects of one running, and the process runs within the experiencing — no separation, no before. What each member of the family holds, where the resonances lie and where the seed goes further, is gathered member by member in the close-affinity piece on [cognition and core philosophy](/positioning/seed/cognition/cognition-and-core-philosophy/); this post is the view from above.
+SPLectrum stands inside this family by construction. In the seed there is no pipeline for a secondary process to be a stage of: language, experience and cognition are aspects of one running, and the process runs within the experiencing — no separation, no before. What the family holds, where the resonances lie and where the seed goes further, is gathered point by point in the close-affinity piece on [cognition and core philosophy](/positioning/seed/cognition/); this post is the view from above.
 
 Core, then — not crown. Cognition does not rule experience from somewhere upstream; it runs within it, and was never anywhere else. That is what the widened word was always naming.
 
 <small>This post is part of the [positioning series](/blog/label/positioning/). See also <a href="/seed/cognition/">The seed and Cognition</a>.</small>
+
+<small>Photo: <a href="https://unsplash.com/@pawel_czerwinski">Pawel Czerwinski</a> / Unsplash</small>
