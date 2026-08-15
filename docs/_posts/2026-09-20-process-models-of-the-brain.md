@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Process Models of the Brain"
-date: 2030-02-06
-lastmod: 2026-08-08
+date: 2026-09-20
+lastmod: 2026-08-15
 labels: [conversations, engineering]
 status: draft
 words: 741

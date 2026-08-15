@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Hierarchy Without Orchestration"
-date: 2030-02-08
-lastmod: 2026-08-05
+date: 2026-09-28
+lastmod: 2026-08-15
 labels: [conversations, engineering]
 status: draft
 words: 620
 ---
 <img src="IMAGE_TBD" alt="Hierarchy Without Orchestration" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
-The brain organises itself out of its parts — three process frameworks describe how, from three angles: Edelman's selection among neuronal groups, the global workspace's igniting coalitions, Friston's error-minimising models. A [companion post](/blog/2030/02/process-models-of-the-brain/) walks them. What none of that settles is the question underneath: the brain is ranked, layered, nested through and through — so where is the conductor? The answer is that there isn't one, and the brain is the case that shows a hierarchy can run without a seat at the top.
+The brain organises itself out of its parts — three process frameworks describe how, from three angles: Edelman's selection among neuronal groups, the global workspace's igniting coalitions, Friston's error-minimising models. A [companion post](/blog/2026/09/process-models-of-the-brain/) walks them. What none of that settles is the question underneath: the brain is ranked, layered, nested through and through — so where is the conductor? The answer is that there isn't one, and the brain is the case that shows a hierarchy can run without a seat at the top.
 
 Start with the principle the fabric is built on. If languages have equal standing in potential — P4 — then nothing is ranked in advance: no privilege in principle. That is not the claim that no rankings ever form. Rankings form all the time; what P4 rules out is a permanent one, and a controller above the rest to enforce it. Orchestration is exactly that — something with a vantage on the whole, directing what's below. The brain has been avoiding it all along: ranked, and with no one in charge.
 
