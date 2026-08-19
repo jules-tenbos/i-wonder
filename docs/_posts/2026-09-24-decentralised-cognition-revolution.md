@@ -29,7 +29,7 @@ Cognition, as seen from our vantage point, will decentralise because of us becom
 
 Evolution has always been revelationary — bringing out new ways of life, new languages, making latent potential real. A nervous system makes fast coordination possible. Symbolic language makes abstract reasoning shareable. Each one opening up a new domain that was there in potential but had no medium to express itself through. AI conforms to the same pattern. Not replacing the earlier languages — extending reach into territory they couldn't access.
 
-The Decentralised Cognition Revolution. That's the name I find myself using. Not the cognitive revolution, becoming aware of our capability of abstract thinking, or the cognition revolution - there is nothing new there. The awareness of decentralisation, putting it everywhere, being aware it is everywhere. Exciting times ahead!
+If there is a revolution I think we should have then it is the Decentralised Cognition Revolution. That's the name I find myself using. Not the cognitive revolution, becoming aware of our capability of abstract thinking, or the cognition revolution - there is nothing new there. The awareness of decentralisation, putting it everywhere, being aware it is everywhere. Exciting times ahead!
 
 <small>More on HAICC — Human-AI Creative Collaboration — in the <a href="/engineering/">engineering section of the reference library</a>.</small>
 
