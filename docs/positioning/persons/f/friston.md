@@ -51,4 +51,4 @@ That is where the principle stops. It specifies a dynamic — minimise the bound
 
 ---
 
-See also: [Edelman](/positioning/persons/e/edelman/) · [Baars](/positioning/persons/b/baars/) · [Di Paolo](/positioning/persons/d/di-paolo/) · [Enactivism](/positioning/subjects/e/enactivism/) · [Cognition](/positioning/subjects/c/cognition/)
+See also: [Edelman](/positioning/persons/e/edelman/) · [Baars](/positioning/persons/b/baars/) · [Di Paolo](/positioning/persons/d/di-paolo/) · [Enactivism](/positioning/subjects/e/enactivism/) · [Process models of the brain](/positioning/subjects/c/cognition/neuroscience/process-models/)

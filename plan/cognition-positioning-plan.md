@@ -134,7 +134,7 @@ Drafted 2026-08-15 as *The Craft of Cognition — A Journey into Aesthetics*, sc
 
 The cognition meta subject grows by facet: sections on the landing hold direct external entries until internal links or the amount of material require a subsection page. Pending:
 
-- **Psychology** — the cognitive-revolution material (Neisser, cognitivism/Fodor, the cognitive-science umbrella) rehomes when the process/brain trio posts are picked up; until then it sits in the unlinked holding pen `docs/positioning/subjects/c/cognition/sciences.md`, to be deleted once emptied.
+- **Psychology** — DONE 2026-08-20: facet page built at `docs/positioning/subjects/c/cognition/psychology.md` (cognitive revolution + cognitivism + cognitive science, ecological psychology as the counter-tradition); the holding pen `sciences.md` emptied and deleted (its life's-claim half went to the biology facet page, `biology.md`, with the philosophical statement staying at `philosophy/biology.md`). The meta subject now has four local facet pages: biology, neuroscience, philosophy (core + property-of-life), psychology — externals live inside facet pages as markers, none bare on the index.
 - **The sciences positioning post** (Santiago, Umwelt, genetic epistemology, affordances, basal) — parked until a slot opens.
 - **The non-life door stays open:** in its simplest form a cognition process can run in a chemical or physical system — the elementary-cognition capture's history-dependence criterion already admits this; no drafting may close it (e.g. no "life at the widest" phrasing), though it needn't be featured yet.
 

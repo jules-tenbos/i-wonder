@@ -53,4 +53,4 @@ The boundary is real either way: what the workspace framework can specify is the
 
 ---
 
-See also: [Edelman](/positioning/persons/e/edelman/) · [Friston](/positioning/persons/f/friston/) · [Dennett](/positioning/persons/d/dennett/) · [Cognition](/positioning/subjects/c/cognition/)
+See also: [Edelman](/positioning/persons/e/edelman/) · [Friston](/positioning/persons/f/friston/) · [Dennett](/positioning/persons/d/dennett/) · [Process models of the brain](/positioning/subjects/c/cognition/neuroscience/process-models/)
