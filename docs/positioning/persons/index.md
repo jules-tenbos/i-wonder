@@ -26,6 +26,7 @@ Individual thinkers referenced across the positioning section. Each page present
 
 ## B
 
+- [Baars, Bernard (1946–)](b/baars) · cognitive scientist<span class="kw">Global Workspace Theory, the theatre metaphor, consciousness as global availability, conscious access</span>
 - [Bak, Per (1948–2002)](b/bak) · physicist<span class="kw">self-organized criticality, power-law dynamics, the sand-pile model, How Nature Works</span>
 - [Bakhtin, Mikhail (1895–1975)](b/bakhtin) · philosopher, literary theorist<span class="kw">dialogism, the utterance, polyphony, carnival, outsideness, the unfinalisability of the self</span>
 - [Barabási, Albert-László (1967–)](b/barabasi) · physicist, network scientist<span class="kw">scale-free networks, preferential attachment, network science, robustness and vulnerability</span>
@@ -77,8 +78,8 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Dawkins, Richard (1941–)](d/dawkins) · evolutionary biologist<span class="kw">the selfish gene, gene-centric view, memes, the extended phenotype, universal Darwinism</span>
 - [De Broglie, Louis (1892–1987)](d/de-broglie) · physicist<span class="kw">wave-particle duality, the de Broglie hypothesis, matter waves, the pilot-wave theory</span>
 - [De Vries, Hugo (1848–1935)](d/de-vries) · botanist<span class="kw">the rediscovery of Mendel, mutation theory, intracellular pangenesis, the concept of the gene</span>
-- [de Man, Paul (1919–1983)](d/de-man) · literary theorist, critic<span class="kw">the Yale school, rhetoric over grammar, Allegories of Reading, the resistance to theory, the wartime-journalism affair</span>
 - [Deleuze, Gilles (1925–1995)](d/deleuze) · philosopher<span class="kw">difference and repetition, the rhizome, multiplicity, assemblages, the fold, immanence</span>
+- [de Man, Paul (1919–1983)](d/de-man) · literary theorist, critic<span class="kw">the Yale school, rhetoric over grammar, Allegories of Reading, the resistance to theory, the wartime-journalism affair</span>
 - [Democritus (c. 460–c. 370 BCE)](d/democritus) · philosopher<span class="kw">atomism, the void, the earliest systematic materialism, plurality of being</span>
 - [Dennett, Daniel (1942–2024)](d/dennett) · philosopher<span class="kw">the intentional stance, Darwin's Dangerous Idea, consciousness explained, universal Darwinism, memes</span>
 - [DeRose, Steven](d/derose) · computer scientist<span class="kw">descriptive markup theory, the first SGML browser (DynaText), co-editor of XPath and XPointer, XML and hypertext, the Text Encoding Initiative</span>
@@ -115,6 +116,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Foot, Philippa (1920–2010)](f/foot) · philosopher<span class="kw">neo-Aristotelian naturalism, natural goodness, the trolley problem, virtue ethics revived</span>
 - [Frege, Gottlob (1848–1925)](f/frege) · logician, philosopher<span class="kw">modern logic, sense and reference, the concept-script, anti-psychologism</span>
 - [Freud, Sigmund (1856–1939)](f/freud) · founder of psychoanalysis<span class="kw">the dynamic unconscious, repression, dreams, the Oedipus complex, transference, the id/ego/superego</span>
+- [Friston, Karl (1959–)](f/friston) · neuroscientist<span class="kw">the free energy principle, active inference, predictive coding, generative models, SPM and brain-imaging statistics</span>
 
 ## G
 
@@ -188,8 +190,8 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Latour, Bruno (1947–2022)](l/latour) · philosopher, sociologist of science<span class="kw">actor-network theory, We Have Never Been Modern, the Parliament of Things, cosmopolitics, modes of existence</span>
 - [Lawvere, F. William (1937–2023)](l/lawvere) · mathematician<span class="kw">categorical foundations of mathematics, ETCS, elementary topos theory, categorical logic, adjointness</span>
 - [Leibniz, Gottfried Wilhelm (1646–1716)](l/leibniz) · philosopher, mathematician<span class="kw">relational space, monads, pre-established harmony, the universal characteristic</span>
-- [Lévi-Strauss, Claude (1908–2009)](l/levi-strauss) · anthropologist<span class="kw">structural anthropology, binary oppositions, kinship structures, mythologiques, the science of the concrete</span>
 - [Levinas, Emmanuel (1906–1995)](l/levinas) · philosopher<span class="kw">ethics as first philosophy, the face of the Other, totality and infinity, the Saying and the Said, interiority</span>
+- [Lévi-Strauss, Claude (1908–2009)](l/levi-strauss) · anthropologist<span class="kw">structural anthropology, binary oppositions, kinship structures, mythologiques, the science of the concrete</span>
 - [Lewontin, Richard (1929–2021)](l/lewontin) · evolutionary biologist, geneticist<span class="kw">three-conditions formalisation, Spandrels critique, organism-environment dialectic, anti-reductionism</span>
 - [Locke, John (1632–1704)](l/locke) · philosopher<span class="kw">empiricism, the Essay Concerning Human Understanding, the social contract, natural rights, the tabula rasa</span>
 - [Lorenz, Edward (1917–2008)](l/lorenz) · mathematician, meteorologist<span class="kw">deterministic chaos, sensitive dependence, the Lorenz attractor, the butterfly effect</span>
@@ -287,8 +289,8 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Schopenhauer, Arthur (1788–1860)](s/schopenhauer) · philosopher<span class="kw">the world as will and representation, aesthetic contemplation, the Ideas, music, compassion, pessimism</span>
 - [Schrödinger, Erwin (1887–1961)](s/schrodinger) · physicist<span class="kw">wave mechanics, the Schrödinger equation, What is Life?, negative entropy, the cat</span>
 - [Schumpeter, Joseph (1883–1950)](s/schumpeter) · economist<span class="kw">creative destruction, the entrepreneur as innovator, business cycles, capitalism's self-undermining dynamics</span>
-- [Sebeok, Thomas A. (1920–2001)](s/sebeok) · linguist, semiotician<span class="kw">zoosemiotics, biosemiotics, the revival of Uexküll, Peirce over Saussure, modeling systems theory, the atomic priesthood</span>
 - [Searle, John (1932–)](s/searle) · philosopher<span class="kw">speech act theory, the Chinese Room, intentionality, biological naturalism, collective intentionality, the construction of social reality, status functions</span>
+- [Sebeok, Thomas A. (1920–2001)](s/sebeok) · linguist, semiotician<span class="kw">zoosemiotics, biosemiotics, the revival of Uexküll, Peirce over Saussure, modeling systems theory, the atomic priesthood</span>
 - [Sellars, Wilfrid (1912–1989)](s/sellars) · philosopher<span class="kw">the myth of the given, the space of reasons, psychological nominalism, the manifest and scientific images</span>
 - [Sen, Amartya (1933–)](s/sen) · economist, philosopher<span class="kw">the capability approach, development as freedom, social choice theory, famine and democracy, the idea of justice</span>
 - [Shannon, Claude (1916–2001)](s/shannon) · mathematician, engineer<span class="kw">information theory, the bit, channel capacity, information entropy, Boolean circuit design</span>
@@ -326,8 +328,8 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Von Glasersfeld, Ernst (1917–2010)](v/von-glasersfeld) · philosopher, cyberneticist<span class="kw">radical constructivism, viability not truth, knowledge as construction, the interpretation of Piaget, constructivism in education</span>
 - [Von Neumann, John (1903–1957)](v/von-neumann) · mathematician<span class="kw">game theory, von Neumann architecture, quantum mechanics, self-reproducing automata</span>
 - [Von Uexküll, Jakob (1864–1944)](v/von-uexkull) · biologist, theoretical biologist<span class="kw">the Umwelt, the functional circle, Merkwelt and Wirkwelt, the tick's world, the Bedeutungslehre, forerunner of biosemiotics</span>
-- [Vygotsky, Lev (1896–1934)](v/vygotsky) · psychologist<span class="kw">cultural-historical psychology, the higher mind formed from the outside in, internalisation and the general genetic law, mediation by signs, the zone of proximal development, inner speech and the dispute with Piaget</span>
 - [Vrba, Elisabeth (1942–2015)](v/vrba) · paleontologist<span class="kw">the turnover pulse hypothesis, the effect hypothesis, exaptation (with Gould), habitat theory, African mammalian macroevolution</span>
+- [Vygotsky, Lev (1896–1934)](v/vygotsky) · psychologist<span class="kw">cultural-historical psychology, the higher mind formed from the outside in, internalisation and the general genetic law, mediation by signs, the zone of proximal development, inner speech and the dispute with Piaget</span>
 
 ## W
 

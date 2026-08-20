@@ -4,7 +4,7 @@ Working document. Provisional throughout — page decisions, subject decisions, 
 
 ## What this plans
 
-Reference-library backing for the process/brain trio of posts (the survey *Process Models of the Brain*, parked 2030-02-06; the argument *Hierarchy Without Orchestration*, parked 2030-02-08; *Decentralised Cognition Revolution* between them). The survey takes three frameworks — Edelman's Neural Darwinism, Global Workspace Theory (Baars, Dehaene), and Friston's free energy principle — and of the three, only Edelman has any backing on-site. Two load-bearing frameworks stand on nothing, and neither principal is even mentioned anywhere in positioning.
+Reference-library backing for the process/brain posts (the survey *Process Models of the Brain*, scheduled 2026-09-20; *Decentralised Cognition Revolution*, scheduled 2026-09-24; the third post, *Hierarchy Without Orchestration*, was deleted 2026-08-20 — no independent point; rerun its research if it ever becomes of value). The survey takes three frameworks — Edelman's Neural Darwinism, Global Workspace Theory (Baars, Dehaene), and Friston's free energy principle — and of the three, only Edelman has any backing on-site. Two load-bearing frameworks stand on nothing, and neither principal is even mentioned anywhere in positioning.
 
 Two moves, kept separate: (1) research the unbacked frameworks to page grade — the two from the post's slate, plus one further candidate the post's own admission criterion admits (complementary learning systems, below); (2) the surface decisions that follow — which persons earn pages (collaborative calls, per the standing rule), whether any subject holds territory, and the link wiring for the trio once pages exist.
 
