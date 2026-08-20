@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-28
+lastmod: 2026-08-20
 title: "Henri Bergson (1859–1941)"
 description: "Bergson put duration at the centre — lived time as continuous flow, creative evolution as genuine novelty, intuition against the spatialising intellect."
 ---
@@ -25,7 +25,7 @@ Bergson insisted that reality is continuous, creative, and irreducible to static
 
 **The two sources.** In *The Two Sources of Morality and Religion* (1932), Bergson distinguishes closed societies — held together by obligation, habit, and static religion — from open societies, driven by aspiration, creative moral energy, and dynamic religion. The closed preserves; the open creates.
 
-**Memory and matter.** In *Matter and Memory*, Bergson argues that perception is not a picture of reality — it is a selection from it, shaped by the body's needs. Memory is not stored in the brain like files in a cabinet; it survives in duration itself. The past is not gone — it is preserved whole, pressing into the present.
+**Memory and matter.** In *Matter and Memory*, Bergson argues that perception is not a picture of reality — it is a selection from it, shaped by the body's needs: perception selects what is relevant to action out of a richer whole. And it is never pure: "there is no perception which is not full of memories" — the unloaded percept, experience before memory has coloured it, never actually occurs. Memory is not stored in the brain like files in a cabinet; it survives in duration itself. The past is not gone — it is preserved whole, pressing into the present.
 
 ---
 

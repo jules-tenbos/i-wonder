@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-15
+lastmod: 2026-08-20
 title: "Alfred North Whitehead (1861–1947)"
 description: "Whitehead built reality from events, not substances — every actual entity constituted by its relations, creativity the universal of universals."
 ---
@@ -19,7 +19,7 @@ Whitehead built the most thorough relational ontology in Western philosophy. Not
 
 **Actual occasions.** The basic units of reality — not things but happenings. Each actual occasion arises through *concrescence*: the process of drawing together past occasions, unifying them into a new moment of experience. When concrescence is complete, the occasion becomes a datum for future occasions.
 
-**Prehension.** How one actual occasion takes account of another. A prehension is not perception in the human sense — it is any mode of grasping, incorporating, or being affected by what has already occurred. Positive prehensions include; negative prehensions exclude. Together they shape what the new occasion becomes.
+**Prehension.** How one actual occasion takes account of another. A prehension is not perception in the human sense — it is any mode of grasping, incorporating, or being affected by what has already occurred. Positive prehensions include; negative prehensions exclude. Together they shape what the new occasion becomes. Because every actual entity prehends its world, experience-like taking-up goes all the way down — nothing in reality is a mere passive object — and human cognition is a highly elaborated case of something utterly general, not an exception to nature.
 
 **Creativity.** The ultimate category — "the universal of universals." Creativity is the principle by which the many become one and are increased by one. Every new actual occasion is a creative act: something genuinely new arising from what was given. Not repetition but advance.
 

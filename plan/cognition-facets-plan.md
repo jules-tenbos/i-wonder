@@ -6,6 +6,7 @@
 - *Importance decides inclusion; inclusion creates the obligation to build the backing — never the reverse (unbacked is not a reason to keep something out).*
 - *No claim-framing (disciplines are angles, not claimants); no labelled "insight" sections — the entry as a whole is the insight; page titles say what the page is about.*
 - *Each discipline has an intermediate landing directory that exists unlinked; it is "activated" (linked from the cognition landing) when the facet has enough entries. Psychology will reach that threshold with this plan (three pages).*
+- *Way of working: every research round in this plan also checks for engaging storylines — post candidates are a deliverable of the research, not an afterthought. Surface them with the round's notes; the blog pipeline decision stays with Jules.*
 
 ## Psychology facet — three pages
 
@@ -52,7 +53,7 @@ With all three pages built, the psychology facet reaches the volume where the in
 
 ## Biology facet — basal cognition done properly
 
-**State: live but thin.** The current page (`biology/basal-cognition.md`) names the programme without a single concrete result and has no primary source behind it anywhere on the site.
+**State: hidden.** The biology section on the cognition landing is commented out until this facet's round is done. The current page (`biology/basal-cognition.md`) exists unlinked — it names the programme without a single concrete result and has no primary source behind it anywhere on the site.
 
 Scope for doing it right (entry depth, one research round — comparable to the brain-process-models round):
 
@@ -60,6 +61,6 @@ Scope for doing it right (entry depth, one research round — comparable to the 
 - **Person-page calls (collaborative, open):** Levin is the strong candidate (major living researcher, own standing); Lyon possible as the programme's framer.
 - **Placement question:** whether basal cognition also earns a subject page outside the meta subject (the territory test), or the facet page plus person pages suffice.
 - **Existing backing to lean on:** the conceptual side is already built — the property-of-life philosophy page (Uexküll, Santiago), Maturana/Varela pages, autopoiesis and enactivism subjects. What's missing is only the empirical programme's coverage.
-- Post candidate: cognition without a brain (conversations register) — candidate only.
+- **Post candidate — important (Jules, 2026-08-20):** *cognition without a brain*. Storyline sketch: the definition's quiet dare (nothing in it mentions a brain), then the descent — bacterium comparing now with a moment ago; slime mould solving a maze, arriving on time for an expected event; *Mimosa* learning a drop is harmless and retaining it; tissues holding an anatomical target and navigating to it — each rung down, the capacities the word was built for still there in working form. Reader's point left open honestly: the word reaches further than assumed, or an account is owed of why not — the field itself hasn't settled it. Insight-per-case genre, no verdict owed. The research round checks the cases (replication status on the plant work especially) and hunts for further storyline material as it goes.
 
 **Estimate:** one research round plus one build pass — roughly the shape of the brain-process-models item (research notes doc → one or two person pages → facet page rework). Distinctly smaller than the psychology facet, because the philosophical backing already exists.

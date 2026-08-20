@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-28
+lastmod: 2026-08-20
 title: "Charles Sanders Peirce (1839–1914)"
 description: "Peirce founded pragmatism and semiotics — meaning as practical consequence, truth as convergence of inquiry, signs as triadic."
 ---
@@ -25,7 +25,7 @@ Peirce founded both [pragmatism](/positioning/subjects/p/pragmatism/) and modern
 
 **The categories: Firstness, Secondness, Thirdness.** Firstness is quality, pure possibility — what something is in itself. Secondness is brute fact, resistance, encounter — what something is in relation to another. Thirdness is mediation, law, habit — what brings Firstness and Secondness into intelligible relation. Thought, language, and inquiry operate in Thirdness.
 
-**Abduction.** Peirce distinguished three forms of reasoning: deduction (necessary conclusions from premises), induction (generalising from observations), and abduction (inference to the best explanation). Abduction is the creative leap that generates hypotheses — the moment where a surprising fact meets a possible explanation. Scientists don't deduce or induce their theories; they abduct them — guess, then test. This is Peirce's most distinctive logical contribution.
+**Abduction.** Peirce distinguished three forms of reasoning: deduction (necessary conclusions from premises), induction (generalising from observations), and abduction (inference to the best explanation). Abduction is the creative leap that generates hypotheses — the moment where a surprising fact meets a possible explanation. Scientists don't deduce or induce their theories; they abduct them — guess, then test. This is Peirce's most distinctive logical contribution. And he ran it all the way down into perception: in the 1903 Harvard lectures he held that the perceptual judgment is an extreme case of abductive inference — an interpretation so fast and so beyond criticism that it does not feel like inference at all. Perceiving and inferring differ in degree, not kind; there is no line where reasoning stops and mere seeing begins.
 
 **Fallibilism.** Any belief, however well-established, could turn out to be wrong. This is not scepticism — it is the condition that makes inquiry possible. Without fallibilism, there is no reason to keep inquiring.
 

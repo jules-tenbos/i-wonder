@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-06-22
+lastmod: 2026-08-20
 title: "Abhinavagupta (c. 950 – c. 1016)"
 description: "Kashmiri Shaiva philosopher and aesthetician — the rasa theory of aesthetic experience, sadharanikarana, the Tantraloka, and the non-dual metaphysics of recognition."
 ---
@@ -23,7 +23,7 @@ Of his death nothing is documented. Tradition holds that he walked into a cave n
 
 ## Non-dual Kashmir Shaivism
 
-Abhinavagupta's metaphysics belongs to the monistic Shaiva traditions that flourished in Kashmir after the ninth century. Unlike the non-dualism of Advaita Vedanta, which treats the manifest world as *maya*, an appearance to be seen through, this tradition affirms the world as real — as the genuine self-expression of consciousness rather than a veil over it.
+Abhinavagupta's metaphysics belongs to the monistic Shaiva traditions that flourished in Kashmir after the ninth century. The tradition defined itself against Advaita Vedanta as it read it — the manifest world as *maya*, an appearance to be seen through — by affirming the world as real: the genuine self-expression of consciousness rather than a veil over it. (Advaita's own account of *maya* is more layered than the Shaiva polemic allows — see [Śaṅkara](/positioning/persons/s/sankara/).)
 
 **Trika and Pratyabhijna.** The *Tantraloka* synthesises the Trika, the "triadic" system named for the three powers (supreme, intermediate, and individual) through which the one consciousness articulates itself. Its philosophical spine is the *Pratyabhijna*, the doctrine of "recognition," founded by Somananda and systematised by Utpaladeva: bondage is the soul's forgetting of its identity with Shiva, universal consciousness, and liberation is the sudden *recognition* — "I am Shiva" — of what was always the case. Running through it is the *Spanda* or "vibration" doctrine, which conceives consciousness as a dynamic pulsation rather than an inert ground.
 
@@ -64,4 +64,4 @@ His axis runs inward. Generalisation lifts the spectator out of private circumst
 
 ---
 
-See also: [Rasa](/positioning/subjects/r/rasa/) · [Shankara](/positioning/persons/s/sankara/)
+See also: [Rasa](/positioning/subjects/r/rasa/) · [Śaṅkara](/positioning/persons/s/sankara/) · [Yogācāra](/positioning/subjects/y/yogacara/)

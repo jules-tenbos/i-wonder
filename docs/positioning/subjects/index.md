@@ -59,6 +59,7 @@ These are subjects of importance to SPLectrum, referenced within the site.
 
 ## M
 
+- [Madhyamaka](m/madhyamaka/) · Buddhist philosophy<span class="kw">the Middle Way school — emptiness as dependent origination, the two truths, Prāsaṅgika vs Svātantrika, Nāgārjuna, Candrakīrti, the Śaṅkara nihilism exchange, transmission to Tibet and East Asia</span>
 - [Metaphysics](m/metaphysics/) · philosophy, history of ideas<span class="kw">how metaphysics has been approached — five recurring stances toward the enterprise itself: construction, critique, disclosure, deflation, genealogy, with the Western tree set beside Nagarjuna's Madhyamaka as another inheritance</span>
 - [Mineral evolution](m/mineral-evolution/) · geology, astrobiology<span class="kw">Earth's mineral diversity as coupled physical, chemical, and biological history: Hazen, the ten stages, co-evolution with life</span>
 - [Music and meaning](m/music-and-meaning/) · philosophy of music, aesthetics<span class="kw">the long argument over what music means — Hanslick's formalism, expression and emotion (Cooke, Meyer, Levinson), Langer's symbol, Schopenhauer's metaphysics, absolute versus programme music</span>
@@ -99,3 +100,7 @@ These are subjects of importance to SPLectrum, referenced within the site.
 ## X
 
 - [XPath](x/xpath/) · query language, software engineering<span class="kw">navigating and selecting in tree-structured documents: location paths, axes, node tests, predicates, James Clark, XSLT, XQuery</span>
+
+## Y
+
+- [Yogācāra](y/yogacara/) · Buddhist philosophy<span class="kw">representation-only (vijñapti-mātra), the eight consciousnesses, the ālaya-vijñāna storehouse, seeds and perfuming, the three natures, grasper-grasped non-duality, Asaṅga and Vasubandhu</span>

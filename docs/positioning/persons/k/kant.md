@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-28
+lastmod: 2026-08-20
 title: "Immanuel Kant (1724–1804)"
 description: "Kant asked how the mind structures experience — the question that defined the turn, even as the outside view survived it."
 ---
@@ -18,6 +18,8 @@ Kant is the hinge. His question — how does the mind structure experience? — 
 ## Key concepts
 
 **The Copernican revolution in philosophy.** Kant reversed the question: instead of asking how our knowledge conforms to objects, ask how objects conform to our knowledge. The mind does not passively receive reality — it actively structures experience through its own categories. This is the turn.
+
+**The synthesis of the understanding.** "Thoughts without content are empty, intuitions without concepts are blind." Knowledge requires both faculties working together: sensibility supplies intuitions, the understanding supplies concepts, and the understanding's synthesis — its active combining of the sensory manifold under the categories — runs in all experience. There is no experiencing first and cognising after: what arrives as experience is already the product of the mind's activity.
 
 **Phenomena and noumena.** We know things as they appear to us (phenomena), structured by the mind's categories of space, time, causality. The thing-in-itself (noumenon) — reality as it is independent of our experience — remains unknowable. We can think it but never know it. This boundary defines the limits of human knowledge.
 

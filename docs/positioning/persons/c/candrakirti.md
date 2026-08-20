@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-27
+lastmod: 2026-08-20
 title: "Candrakīrti (c. 600–c. 650 CE)"
 description: "Indian Buddhist philosopher — the Prāsaṅgika Madhyamaka, the Prasannapadā commentary on Nāgārjuna, the Madhyamakāvatāra, the defence of reductio over independent argument."
 ---
@@ -37,9 +37,9 @@ Candrakīrti defended Buddhapālita's approach in detail in the *Prasannapadā*,
 
 The *Madhyamakāvatāra* ("Entering the Middle Way") is Candrakīrti's independent treatise — not a commentary but an original exposition of the Madhyamaka path structured around the ten stages (*bhūmi*) of the bodhisattva's spiritual development. The sixth chapter, on the perfection of wisdom (*prajñāpāramitā*), contains the philosophical core: a systematic presentation of emptiness, the two truths, the critique of Yogācāra idealism, and the positive account of conventional reality.
 
-**Against Yogācāra.** Candrakīrti argues at length that the Yogācāra position — that external objects do not exist and that consciousness alone is real — cannot be sustained. If there are no external objects, there is no basis for distinguishing veridical from non-veridical consciousness; the distinction collapses. Candrakīrti defends the conventional reality of external objects — not as ultimately real (everything is empty) but as conventionally functional. The empirical world, including external objects and other minds, is real at the conventional level and provides the context for the Buddhist path.
+**Against Yogācāra.** Candrakīrti argues at length that the position he attributes to [Yogācāra](/positioning/subjects/y/yogacara/) — that external objects do not exist and that consciousness alone is real — cannot be sustained. Whether Yogācāra's representation-only doctrine is that idealism is itself a contested question, then and now; Candrakīrti's target is the idealist reading. If there are no external objects, there is no basis for distinguishing veridical from non-veridical consciousness; the distinction collapses. Candrakīrti defends the conventional reality of external objects — not as ultimately real (everything is empty) but as conventionally functional. The empirical world, including external objects and other minds, is real at the conventional level and provides the context for the Buddhist path.
 
-**The two truths.** Candrakīrti's account of the two truths (conventional and ultimate) is more developed than Nāgārjuna's. Conventional truth is not merely "what ordinary people believe" but what is established by the *conventions* (*saṃvṛti*) of ordinary, undistorted cognition. Ultimate truth is the emptiness of self-nature. The two are not independent realities but two modes of understanding the same dependently originated world. Candrakīrti insists that the Mādhyamika must accept and operate within conventional truth — the rejection of conventional reality is nihilism, which Nāgārjuna explicitly disavowed.
+**The two truths.** Candrakīrti's account of the two truths (conventional and ultimate) is more developed than Nāgārjuna's. Conventional truth is not merely "what ordinary people believe" but what is established by the *conventions* (*saṃvṛti*) of ordinary, undistorted cognition. Ultimate truth is the emptiness of self-nature. The two are not independent realities but two modes of understanding the same dependently originated world. Dependent origination reaches into cognition itself: knower, known, and knowing arise together, each dependent on the others and on its conditions, none standing on its own essence — the analysis of perception and its objects in the *Madhyamakāvatāra*'s sixth chapter runs the emptiness of self-nature through all three at once. Candrakīrti insists that the Mādhyamika must accept and operate within conventional truth — the rejection of conventional reality is nihilism, which Nāgārjuna explicitly disavowed.
 
 ---
 
@@ -47,7 +47,7 @@ The *Madhyamakāvatāra* ("Entering the Middle Way") is Candrakīrti's independe
 
 The Prāsaṅgika method raises a structural question: if the Mādhyamika has no thesis of their own, how is the Madhyamaka position communicated? Candrakīrti's answer — that emptiness is arrived at through the dissolution of all positions rather than through the assertion of a new one — is elegant but invites the objection that it is parasitic: it can only operate against an opponent who holds a thesis and has nothing to say in the absence of opposition. The Svātantrika response — that a Madhyamaka *can* make positive conventional-level arguments without compromising the ultimate emptiness of all things — may be less pure but is arguably more philosophically productive. Whether the Prāsaṅgika commitment to thesis-lessness is the strength or the weakness of Candrakīrti's reading is the central question in Madhyamaka methodology.
 
-Candrakīrti's dominance in the Tibetan tradition has been so complete that it has sometimes obscured the diversity of Indian Madhyamaka. Bhāviveka's Svātantrika position, Śāntarakṣita's synthesis of Madhyamaka and Yogācāra (*Yogācāra-Svātantrika-Madhyamaka*), and other interpretive currents are largely studied through the lens of their disagreement with Candrakīrti rather than on their own terms. Whether the Prāsaṅgika-Svātantrika distinction reflects a genuine difference in Indian Madhyamaka philosophy or is a Tibetan interpretive construct imposed on the Indian material is debated in modern scholarship — [David Seyfort Ruegg](https://en.wikipedia.org/wiki/David_Seyfort_Ruegg) and others have argued that the distinction is sharper in the Tibetan reception than in the Indian sources.
+His dominance in the Tibetan tradition — and the question of whether the Prāsaṅgika-Svātantrika distinction is a genuine Indian difference or a Tibetan interpretive construct — belongs to the school's reception and is treated on the [Madhyamaka](/positioning/subjects/m/madhyamaka/) page.
 
 ---
 
@@ -60,4 +60,4 @@ Candrakīrti's dominance in the Tibetan tradition has been so complete that it h
 
 ---
 
-See also: [Nāgārjuna](/positioning/persons/n/nagarjuna/) · [Śaṅkara](/positioning/persons/s/sankara/) · [Garfield](/positioning/persons/g/garfield/)
+See also: [Madhyamaka](/positioning/subjects/m/madhyamaka/) · [Nāgārjuna](/positioning/persons/n/nagarjuna/) · [Śaṅkara](/positioning/persons/s/sankara/) · [Garfield](/positioning/persons/g/garfield/)

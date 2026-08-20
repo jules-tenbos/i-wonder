@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-27
+lastmod: 2026-08-20
 title: "Nāgārjuna (c. 150–c. 250 CE)"
 description: "Indian Buddhist philosopher — śūnyatā (emptiness), dependent origination, the Mūlamadhyamakakārikā, the founding of the Madhyamaka school."
 ---
@@ -15,7 +15,7 @@ Nāgārjuna argued that nothing possesses inherent self-nature (*svabhāva*) —
 
 ## Life
 
-Almost nothing is known with certainty. The traditional accounts place Nāgārjuna in southern India, probably in the Satavahana kingdom (present-day Andhra Pradesh), in the second or early third century CE. He is associated with [Nālandā](https://en.wikipedia.org/wiki/Nalanda), the Buddhist monastic university, though the historical connection is uncertain. The Tibetan and Chinese biographical traditions are rich but late and legendary — they attribute miracles, longevity, and alchemical powers. What can be established from the texts themselves is that Nāgārjuna was a Buddhist monk and philosopher, working within the [Mahāyāna](https://en.wikipedia.org/wiki/Mahayana) tradition, who founded the [Madhyamaka](https://en.wikipedia.org/wiki/Madhyamaka) ("Middle Way") school of Buddhist philosophy — the most influential philosophical tradition within Indian Buddhism and, through its transmission to Tibet, China, Korea, and Japan, across the Buddhist world.
+Almost nothing is known with certainty. The traditional accounts place Nāgārjuna in southern India, probably in the Satavahana kingdom (present-day Andhra Pradesh), in the second or early third century CE. He is associated with [Nālandā](https://en.wikipedia.org/wiki/Nalanda), the Buddhist monastic university, though the historical connection is uncertain. The Tibetan and Chinese biographical traditions are rich but late and legendary — they attribute miracles, longevity, and alchemical powers. What can be established from the texts themselves is that Nāgārjuna was a Buddhist monk and philosopher, working within the [Mahāyāna](https://en.wikipedia.org/wiki/Mahayana) tradition, who founded the [Madhyamaka](/positioning/subjects/m/madhyamaka/) ("Middle Way") school of Buddhist philosophy — the most influential philosophical tradition within Indian Buddhism and, through its transmission to Tibet, China, Korea, and Japan, across the Buddhist world.
 
 The attribution of texts is contested. The *Mūlamadhyamakakārikā* is universally attributed to Nāgārjuna. The *Vigrahavyāvartanī* ("Refutation of Objections") and the *Vaidalyaprakaraṇa* ("Treatise for Pulverising the Categories") are widely accepted. The *Yuktiṣaṣṭikā* and *Śūnyatāsaptati* are probably his. The devotional and tantric works attributed to him in the Tibetan canon are likely by later authors of the same name. The philosophical core is secure.
 
@@ -35,11 +35,7 @@ The *Mūlamadhyamakakārikā* (MMK), composed in verse, is Nāgārjuna's central
 
 ## The Madhyamaka tradition
 
-Nāgārjuna's successors developed the Madhyamaka school into one of the two major philosophical traditions of Indian Mahāyāna Buddhism (the other being [Yogācāra](https://en.wikipedia.org/wiki/Yogacara), the "mind-only" school). The tradition split into two sub-schools:
-
-[Buddhapālita](https://en.wikipedia.org/wiki/Buddhapalita) (c. 470–540) maintained that Nāgārjuna's method is purely negative — *prasaṅga* (reductio) only, with no counter-thesis. [Bhāviveka](https://en.wikipedia.org/wiki/Bhavaviveka) (c. 500–570) argued that the Madhyamaka must advance independent arguments (*svātantra*) to establish emptiness, not merely refute opponents. [Candrakīrti](/positioning/persons/c/candrakirti/) (c. 600–650) sided with Buddhapālita and produced the *Prasannapadā* ("Clear Words"), the most influential commentary on the MMK. In the Tibetan tradition, Candrakīrti's Prāsaṅgika reading became dominant and remains the standard interpretation in [Gelug](https://en.wikipedia.org/wiki/Gelug) and most Tibetan scholastic philosophy.
-
-The tradition was transmitted to China (as [Sānlùn](https://en.wikipedia.org/wiki/East_Asian_Madhyamaka), the "Three Treatise" school), to Korea, to Japan (where it influenced Zen), and to Tibet, where it became the philosophical mainstream. Nāgārjuna is revered across the Mahāyāna world as a "second Buddha."
+Nāgārjuna's successors developed his analysis into the [Madhyamaka](/positioning/subjects/m/madhyamaka/) school — one of the two major philosophical traditions of Indian Mahāyāna Buddhism, transmitted across East Asia and into Tibet, where it became the philosophical mainstream. The school's formation, its methodological split, its debates and its reception are treated on the subject's own page. Nāgārjuna himself is revered across the Mahāyāna world as a "second Buddha."
 
 ---
 
@@ -62,4 +58,4 @@ The modern reception of Nāgārjuna in Western philosophy and physics — throug
 
 ---
 
-See also: [Rovelli](/positioning/persons/r/rovelli/) · [Wittgenstein](/positioning/persons/w/wittgenstein/) · [Heraclitus](/positioning/persons/h/heraclitus/)
+See also: [Madhyamaka](/positioning/subjects/m/madhyamaka/) · [Candrakīrti](/positioning/persons/c/candrakirti/) · [Rovelli](/positioning/persons/r/rovelli/) · [Wittgenstein](/positioning/persons/w/wittgenstein/) · [Heraclitus](/positioning/persons/h/heraclitus/)

@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-15
+lastmod: 2026-08-20
 title: "Georg Wilhelm Friedrich Hegel (1770–1831)"
 description: "Hegel put the limits of knowledge in motion — determination through negation, history as development, nothing simply left behind."
 ---
@@ -22,6 +22,8 @@ Hegel put process at the centre. Where [Kant](/positioning/persons/k/kant/) drew
 **Sublation (*Aufhebung*).** To sublate is to cancel, preserve, and elevate at once. Each new stage of the dialectic negates what came before while retaining it as a moment within itself. Nothing is simply left behind — the history of the process is carried forward in every determination.
 
 **Determinate negation.** Negation is not emptiness — it is specific. "The rose is not red" says nothing; "the rose is white" says something determinate. Every negation produces content. This is what makes the dialectic productive rather than destructive. Hegel takes Spinoza's principle — *omnis determinatio est negatio* — and makes it the engine: determination through negation is not a static observation but a driving force.
+
+**Experience (*Erfahrung*).** In the *Phenomenology*'s introduction, Hegel names the dialectical movement that consciousness exercises on itself — on its knowledge and on its object — *experience*. Experience is not the passive receipt of impressions but a self-transforming process: in testing its knowledge against its object, consciousness finds both changed, and finds itself changed with them. The experiencing reshapes the experiencer — the *Phenomenology* as a whole is consciousness educated through its own experience.
 
 **Recognition and the master-slave dialectic.** Self-consciousness achieves itself only through recognition by another self-consciousness. In the *Phenomenology*'s most famous passage, two self-consciousnesses struggle for recognition. The master wins through risking death; the slave submits. But the dialectic reverses: the slave, through labour — transforming the world — achieves an independence the master, dependent on the slave's recognition, cannot. The passage generated Marx (labour as self-creation), Kojève (desire for recognition as the engine of history), and Fanon (the colonised subject's struggle).
 

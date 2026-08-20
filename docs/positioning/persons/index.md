@@ -227,6 +227,7 @@ Individual thinkers referenced across the positioning section. Each page present
 ## N
 
 - [Nāgārjuna (c. 150–c. 250 CE)](n/nagarjuna) · Buddhist philosopher<span class="kw">śūnyatā (emptiness), dependent origination, the Mūlamadhyamakakārikā, Madhyamaka</span>
+- [Nishida, Kitarō (1870–1945)](n/nishida) · philosopher<span class="kw">pure experience, the logic of place (basho), absolute nothingness, action-intuition, the Kyoto School, Zen and Western philosophy</span>
 - [Nagel, Thomas (1937–)](n/nagel) · philosopher<span class="kw">subjectivity, the view from nowhere, against reductionism</span>
 - [Narkhede, Neha](n/narkhede) · software engineer<span class="kw">co-creator of Apache Kafka, co-founder and former CTO of Confluent, data infrastructure at LinkedIn</span>
 - [Nietzsche, Friedrich (1844–1900)](n/nietzsche) · philosopher<span class="kw">the death of God, the will to power, eternal recurrence, perspectivism, inverted Platonism, the revaluation of all values</span>
@@ -355,4 +356,5 @@ Individual thinkers referenced across the positioning section. Each page present
 
 - [Zenil, Hector (1979–)](z/zenil) · computer scientist, complexity researcher<span class="kw">algorithmic information theory, Kolmogorov complexity, coding theorem method, assembly theory critique</span>
 - [Zermelo, Ernst (1871–1953)](z/zermelo) · mathematician<span class="kw">the recurrence objection to Boltzmann, the axiom of choice, Zermelo-Fraenkel set theory, the well-ordering theorem</span>
+- [Zhuangzi (c. 369–286 BCE)](z/zhuangzi) · Daoist philosopher<span class="kw">knowing in skilled doing, Cook Ding, wu-wei, the equality of things, the butterfly dream, words as fish traps</span>
 

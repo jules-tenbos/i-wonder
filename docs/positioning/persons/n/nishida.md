@@ -1,78 +1,59 @@
 ---
 layout: default
-lastmod: 2026-06-13
+lastmod: 2026-08-20
 title: "Nishida Kitarō (1870–1945)"
-description: "Japanese philosopher — pure experience, the logic of basho, absolute nothingness, action-intuition, the Kyoto School."
+description: "Founder of the Kyoto School — pure experience prior to the subject-object split, the logic of place, absolute nothingness, action-intuition; Zen practice meeting Western philosophy."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Nishida
 
 # Nishida Kitarō (1870–1945)
 
-Nishida is the first modern Japanese philosopher to build a system that engages Western philosophy on its own terms while drawing on a fundamentally different starting point. Where the Western tradition since [Descartes](/positioning/persons/d/descartes/) begins with a subject confronting objects, Nishida begins with pure experience — a field of awareness prior to the subject-object split. Self-awareness, mutual determination, and creative action are co-original in this field, not capacities possessed by a prior subject. The result is a philosophy in which inwardness, relation, and creation arise together from a shared ground — what Nishida calls absolute nothingness (*zettai mu*). He founded the [Kyoto School](https://plato.stanford.edu/entries/kyoto-school/), the most significant philosophical tradition in modern Japan, whose members (Tanabe Hajime, Nishitani Keiji, Watsuji Tetsurō) continued and contested his work.
+Nishida began where the split has not yet happened. Pure experience — *junsui keiken*, the opening move of *An Inquiry into the Good* (1911) — is experience prior to any subject–object split: not a subject receiving a world but the undivided happening from which self and world are later differentiated, with knowing, willing, and feeling still unified inside it. He took the term from William James's writings and radicalised it: where James's pure experience was a neutral stuff, plural and fragmentary, Nishida made it a unifying, systematically developing whole with metaphysical priority. The book made him Japan's first original modern philosopher, and the chair he held at Kyoto became the founding seat of the Kyoto School — the tradition that brought Zen and Mahāyāna thought into rigorous engagement with Western philosophy.
+
+---
 
 ## Life
 
-Born in 1870 near Kanazawa in Ishikawa Prefecture, during the early Meiji period — Japan's rapid modernisation and encounter with Western thought. He studied philosophy at Tokyo Imperial University, where he was exposed to both Western philosophy (particularly [Kant](/positioning/persons/k/kant/), [Hegel](/positioning/persons/h/hegel/), [James](/positioning/persons/j/james/), and [Bergson](/positioning/persons/b/bergson/)) and Zen Buddhist practice, which he pursued seriously throughout his life. After years of schoolteaching, he was appointed professor of philosophy at Kyoto Imperial University in 1910, where he remained until his retirement in 1928. He continued writing prolifically through the 1930s and into the war years.
+Born 19 May 1870 near Kanazawa, Ishikawa Prefecture, to a samurai-descended family in post-Restoration decline. At the Fourth Higher School his classmate and lifelong friend was D. T. Suzuki; at Tokyo Imperial University he studied philosophy as a "special student," a lower status he felt keenly. Then roughly a decade of intense lay Zen practice (c. 1897–1906) alongside provincial teaching jobs — under Setsumon in Kanazawa, who gave him the lay name Sunshin, and Kōjū in Kyoto, under whom he passed the kōan *mu* in 1903. He never became a monk; the discipline was lay, and his diaries record it. The philosophy came after the practice and out of it.
 
-His personal life was marked by loss — the deaths of several children and his first wife. His philosophical engagement with suffering and nothingness is not merely theoretical. His relationship to Japanese wartime nationalism is a contested question: some of his later writings, particularly on Japanese culture and "the world-historical mission of the Japanese people," have been read as complicit with imperial ideology, though others (notably Nishitani and later commentators) argue the texts were deliberately oblique and resistant. The question is not settled. He died in 1945, months before the end of the war.
-
----
-
-## Pure experience
-
-Nishida's first major work, [*An Inquiry into the Good*](https://plato.stanford.edu/entries/nishida-kitaro/) (*Zen no Kenkyū*, 1911), begins with the concept of pure experience (*junsui keiken*) — experience prior to the distinction between subject and object, knower and known. The term is borrowed from [William James](/positioning/persons/j/james/), but Nishida takes it in a different direction. For James, pure experience is the raw material that is subsequently sorted into "mind" and "matter." For Nishida, it is the fundamental reality from which the subject-object distinction emerges as a secondary development.
-
-In pure experience, there is awareness but no separate "I" who is aware. The colour of the sky, the sound of a bell, the feeling of sadness — these are experienced as events, not as properties of an object perceived by a subject. The distinction between "I see the colour" and "the colour is seen" has not yet been made. Nishida argues that this is not a primitive or confused state to be overcome by analysis, but the more fundamental reality that analysis breaks apart.
+Appointed to Kyoto Imperial University in 1910, full professor from 1914, retired 1928 to Kamakura, where the most productive late period followed. The personal life was heavy with loss: his first wife Kotomi suffered a cerebral haemorrhage in 1919 and lay paralysed until her death in 1925; he outlived four of his eight children. He died in Kamakura on 7 June 1945, weeks before the war's end.
 
 ---
 
-## The logic of basho (place)
+## Key ideas
 
-Nishida's middle period develops the concept of *basho* (場所, place or topos) — the logical framework that supersedes subject-predicate logic. Western logic, Nishida argues, is built on the structure of subject and predicate: a substance to which properties are attributed. This works for objects but fails for self-awareness, because self-awareness is not a substance with the property of knowing itself — it is the act of self-reflection, which cannot be located in either the subject or the predicate position.
+**Pure experience (*junsui keiken*).** Experience prior to the subject–object split, "the one and only reality" from which self and world differentiate. The engagement with James is documented and textual — Nishida read the *Principles*, the radical-empiricism essays, and the *Varieties*; there was no correspondence, and James died before the *Inquiry* appeared. The divergence is the point: James left pure experience plural and neutral; Nishida made it the systematically self-developing ground.
 
-*Basho* is the "place" in which things are determined — not a container but a field of determination. Nishida distinguishes three levels: the basho of being (the physical world, where objects are located), the basho of relative nothingness (consciousness, where objects are known), and the basho of absolute nothingness (the ultimate place in which even consciousness is located, but which is itself no thing — it is the nothing that lets everything be).
+**Self-awareness (*jikaku*).** *Intuition and Reflection in Self-Consciousness* (1917): consciousness mirroring itself within itself, uniting intuition and reflection, worked through Fichte and the neo-Kantians. Nishida's own verdict on the book was that it ended in impasse — "the sword broken, the quiver empty" — and the honesty of that verdict drove the next move.
 
-The logic of basho is Nishida's alternative to the Western logical tradition from [Aristotle](/positioning/persons/a/aristotle/) to Hegel. Where Aristotle's logic is a logic of substances, and Hegel's dialectic is a logic of self-determining spirit, Nishida's is a logic of place — determination through the field in which things appear, not through the things themselves.
+**The logic of place (*basho*).** The 1926 essay that re-founded the system: whatever is, is *in* a place. Nested topoi — the place of being, holding nature and objects; the place of relative nothingness, consciousness, which is never itself an object; and the place of absolute nothingness, the final unobjectifiable field in which all the others are located. The move turns the psychology of pure experience into a topological logic.
 
----
+**Absolute nothingness (*zettai mu*).** Not absence but the formless, self-determining ground beyond both being and non-being — Mahāyāna śūnyatā and Zen *mu* brought into philosophical form, and a deliberate counter to what Nishida saw as the West's ontology of being.
 
-## Absolute nothingness
+**Action-intuition (*kōiteki chokkan*).** Knowing is not spectating: we grasp things by acting on them and are formed by them in turn — "from the made to the making," with the artist forming the work and being formed by it as the paradigm.
 
-Absolute nothingness (*zettai mu*) is the central concept of Nishida's mature philosophy. It is not the negation of being (that would be relative nothingness — the absence of something). It is the groundless ground from which both being and relative nothingness arise. It is "absolute" because it is not relative to being — it is not the other side of a binary.
-
-The concept draws on the Buddhist tradition of *śūnyatā* (emptiness), particularly as developed in [Mādhyamaka](https://plato.stanford.edu/entries/madhyamaka/) philosophy by [Nāgārjuna](/positioning/persons/n/nagarjuna/), but Nishida gives it a distinctive philosophical articulation. Absolute nothingness is not a void — it is the self-determining field within which all determination takes place. It "has" nothing, but everything takes place within it. The metaphor is the mirror: the mirror is nothing (it has no image of its own), but all images appear in it.
-
-The relationship to Western negative theology (Meister Eckhart's *Gottheit*, the "God beyond God") is real but should not be overstated. Nishida is doing philosophy, not mysticism — the concepts are argued for, not invoked.
-
----
-
-## Action-intuition
-
-Nishida's later philosophy centres on *kōiteki chokkan* (行為的直観, action-intuition) — the unity of acting and knowing in a single movement. We do not first know the world and then act on it; knowing and acting are aspects of one engagement. The artisan shaping wood, the painter moving the brush, the thinker working through a problem — in each case, the doing is the knowing and the knowing is the doing. Action-intuition is not a theory about a special kind of experience; it is a claim about the structure of all experience that has not been artificially split into subject and object, theory and practice.
-
-This connects to the concept of the "historical world" — a world that is not a static backdrop but is itself in creative process. The individual does not stand outside history and act upon it; the individual's action is history making itself. Self-awareness (what I know of myself), mutual determination (how I am shaped by and shape my world), and creative action (what comes into being through the engagement) are co-original — three faces of one act, not three separate capacities.
+**Absolutely contradictory self-identity.** The late formula: world and self as unities of irreducibly opposed terms — one and many, subject and object, past and future — held together without Hegelian sublation. Developed partly in answer to Tanabe Hajime's charge that the logic of place was mystical intuition rather than logic.
 
 ---
 
 ## Where Nishida stops
 
-Nishida's philosophy resolves the tensions it identifies — subject and object, self and other, acting and knowing — into a unity at the level of absolute nothingness. The resolution is the system's power and its limit. Tanabe Hajime, Nishida's most important student, broke with the logic of basho on substantially this charge: that absolute nothingness leans toward an identity-philosophy and gives too little to mediation and the particular. If all determination takes place within the same groundless ground, the question is whether that ground can do justice to difference that does not reconcile — to the particular that resists absorption into the universal.
+The system's ground is an unobjectifiable place — absolute nothingness — and the standing question, pressed first by Tanabe from inside the school, is whether a philosophy grounded there is logic or religious intuition wearing logic's clothes. Nishida kept answering with more logic — the dialectical universal, the historical world — and the dispute has never closed.
 
-The wartime question surfaces the same tension internally. The concept of a world-historical mission for a particular culture sits uncomfortably with a philosophy of absolute nothingness in which no particular standpoint is absolute. Whether Nishida's later cultural writings betray his philosophy or apply it at a level his philosophy cannot sustain is debated — but the structural difficulty Tanabe named is the same one: how a philosophy of nothingness handles the claims of the particular.
-
-The East-West engagement is foundational but asymmetric. Nishida reads Western philosophy extensively (Kant, Hegel, James, Bergson, [Husserl](/positioning/persons/h/husserl/), [Heidegger](/positioning/persons/h/heidegger/)) and positions his work in dialogue with it. The reverse engagement has been slower — Nishida's work remains less known in Western philosophy than its ambition and depth warrant, partly because of translation difficulty, partly because of the wartime association, and partly because the philosophical traditions it draws on (Zen, Mādhyamaka) are not part of the standard Western curriculum.
+The school's history carries a harder question. The Kyoto School's wartime "world-historical" symposia were used to rationalise the Greater East Asia Co-Prosperity Sphere, and Nishida's own position is disputed: his 1938 lectures "The Problem of Japanese Culture" and the 1943 draft "Principles of a New World Order" used the regime's vocabulary — defenders read them as arguing against ethnocentrism and for a plurality of cultures under censorship, critics as lending the state legitimacy. The dispute belongs to any honest account of him and remains live in the scholarship.
 
 ---
 
 ## Key works
 
-- [*An Inquiry into the Good*](https://en.wikipedia.org/wiki/An_Inquiry_into_the_Good) (*Zen no Kenkyū*, 1911) — pure experience as the fundamental reality; the starting point
-- *From the Acting to the Seeing* (*Hataraku mono kara miru mono e*, 1927) — the logic of basho, absolute nothingness
-- *The Self-Aware Determination of Nothingness* (*Mu no jikakuteki gentei*, 1932) — the mature theory of self-awareness within absolute nothingness
-- *Fundamental Problems of Philosophy* (*Tetsugaku no konpon mondai*, 1933–34) — the world of action, the dialectic of the historical world
-- *The Logic of Place and the Religious Worldview* (*Bashoteki ronri to shūkyōteki sekaikan*, 1945) — the final essay; absolute nothingness and religious consciousness
+- *An Inquiry into the Good* (*Zen no kenkyū*, 1911) — pure experience; the founding work
+- *Intuition and Reflection in Self-Consciousness* (1917) — self-awareness; the acknowledged impasse
+- *From the Acting to the Seeing* (1927) — contains "Basho" (1926), the logic of place
+- *Fundamental Problems of Philosophy* (1933–34) and the *Philosophical Essays* (1935–46) — the historical world, action-intuition, contradictory self-identity
+- "The Logic of Place and the Religious Worldview" (1945) — the final essay
+- Michiko Yusa, *Zen and Philosophy* (2002) — the standard intellectual biography
 
 ---
 
-See also: [Nāgārjuna](/positioning/persons/n/nagarjuna/) · [James](/positioning/persons/j/james/) · [Bergson](/positioning/persons/b/bergson/) · [Heidegger](/positioning/persons/h/heidegger/) · [Husserl](/positioning/persons/h/husserl/)
+See also: [James](/positioning/persons/j/james/) · [Hegel](/positioning/persons/h/hegel/) · [Fichte](/positioning/persons/f/fichte/) · [Yogācāra](/positioning/subjects/y/yogacara/)
