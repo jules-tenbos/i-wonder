@@ -13,17 +13,17 @@ The cognition subject groups resources that address the process of cognition as 
 
 ## Biology
 
-- **[Basal cognition](/positioning/subjects/b/basal-cognition/)** — the research field studying cognition below the nervous system: the biogenic approach, the cognitive toolkit, and the cases from bacteria to slime moulds and cell collectives.
+- **[Basal cognition](/positioning/subjects/b/basal-cognition/)** — the research field studying cognition below the nervous system; what it brings to cognition is the spread of cases — acquisition through experience readable at every scale of life, from bacterium to cell collective, with no complexity threshold.
 
 
 ## Neuroscience
 
-- **[Process models of the brain](/positioning/subjects/c/cognition/neuroscience/process-models/)** — three frameworks read for the insight each brings to cognition.
+- **[Process models of the brain](/positioning/subjects/c/cognition/neuroscience/process-models/)** — what it brings to cognition is insight per aspect: three models, each a different kind of thing — structure built over time, activation in the moment, a world model corrected against arrival.
 
 ## Philosophy
 
-- **[Cognition in core philosophy](/positioning/subjects/c/cognition/philosophy/core/)** — the approaches that hold cognising as running within experience, not operating on it after.
-- **[Cognition as a property of life](/positioning/subjects/c/cognition/philosophy/biology/)** — cognition reaching as far as life itself, stated philosophically.
+- **[Cognition in core philosophy](/positioning/subjects/c/cognition/philosophy/core/)** — what it brings to cognition is convergence: independent traditions, Western and Eastern, arriving at the same refusal — no experiencing first and cognising after.
+- **[Cognition as a property of life](/positioning/subjects/c/cognition/philosophy/biology/)** — what it brings to cognition is reach: the philosophical case that the process extends as far as life itself, stated long before the empirical field existed.
 
 <!--
 ## Psychology
