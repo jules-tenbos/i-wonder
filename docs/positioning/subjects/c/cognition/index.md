@@ -14,7 +14,7 @@ The cognition subject groups resources that address the process of cognition as 
 <!--
 ## Biology
 
-- **[Basal cognition](/positioning/subjects/c/cognition/biology/basal-cognition/)** — the research programme studying cognition below the nervous system: sensing, memory, valence and problem-solving in cells, plants and tissues.
+- **[Basal cognition](/positioning/subjects/b/basal-cognition/)** — the research field studying cognition below the nervous system: the biogenic approach, the cognitive toolkit, and the cases from bacteria to slime moulds and cell collectives.
 -->
 
 

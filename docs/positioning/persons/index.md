@@ -190,6 +190,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Latour, Bruno (1947–2022)](l/latour) · philosopher, sociologist of science<span class="kw">actor-network theory, We Have Never Been Modern, the Parliament of Things, cosmopolitics, modes of existence</span>
 - [Lawvere, F. William (1937–2023)](l/lawvere) · mathematician<span class="kw">categorical foundations of mathematics, ETCS, elementary topos theory, categorical logic, adjointness</span>
 - [Leibniz, Gottfried Wilhelm (1646–1716)](l/leibniz) · philosopher, mathematician<span class="kw">relational space, monads, pre-established harmony, the universal characteristic</span>
+- [Levin, Michael (1969–)](l/levin) · developmental biologist<span class="kw">the bioelectric code, pattern memory, two-headed planaria, xenobots, anthrobots, TAME, the cognitive light cone</span>
 - [Levinas, Emmanuel (1906–1995)](l/levinas) · philosopher<span class="kw">ethics as first philosophy, the face of the Other, totality and infinity, the Saying and the Said, interiority</span>
 - [Lévi-Strauss, Claude (1908–2009)](l/levi-strauss) · anthropologist<span class="kw">structural anthropology, binary oppositions, kinship structures, mythologiques, the science of the concrete</span>
 - [Lewontin, Richard (1929–2021)](l/lewontin) · evolutionary biologist, geneticist<span class="kw">three-conditions formalisation, Spandrels critique, organism-environment dialectic, anti-reductionism</span>
@@ -200,6 +201,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Luckmann, Thomas (1927–2016)](l/luckmann) · sociologist<span class="kw">The Social Construction of Reality, the phenomenological sociology of the lifeworld, completing Schutz's Structures of the Life-World, the invisible religion, communicative genres</span>
 - [Luhmann, Niklas (1927–1998)](l/luhmann) · sociologist<span class="kw">social systems, functional differentiation, communication, autopoiesis, structural coupling</span>
 - [Lyell, Charles (1797–1875)](l/lyell) · geologist<span class="kw">uniformitarianism, Principles of Geology, Tertiary classification, deep time</span>
+- [Lyon, Pamela](l/lyon) · philosopher of biology<span class="kw">the biogenic approach, the cognitive cell, basal cognition framed as a field, the cognitive toolkit, valence</span>
 - [Lyotard, Jean-François (1924–1998)](l/lyotard) · philosopher<span class="kw">the postmodern condition, the differend, language games, metanarratives</span>
 
 ## M
