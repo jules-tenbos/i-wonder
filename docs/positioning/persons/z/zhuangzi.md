@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-08-20
+lastmod: 2026-08-22
 title: "Zhuangzi (c. 369–286 BCE)"
 description: "Daoist philosopher — the craftsman stories and knowing in skilled doing, wu-wei, the equality of things, the butterfly dream, words as fish traps."
 ---
@@ -15,7 +15,7 @@ Zhuangzi located knowing in skilled doing. His craftsman stories — the cook wh
 
 ## Life
 
-Zhuang Zhou, "Master Zhuang." The traditional dates — c. 369–286 BCE, the Warring States period — are genuinely uncertain; the only anchor is Sima Qian's note that he was contemporary with King Hui of Liang and King Xuan of Qi. Sima Qian's *Shiji* (c. 100 BCE) gives the only biography, a few lines: a native of Meng in the state of Song, a minor official in the lacquer garden there. Its one anecdote is in character: offered the premiership of Chu by King Wei, he refused — better to drag his tail in the mud like a live turtle than be a venerated dead one.
+Zhuang Zhou, "Master Zhuang." The traditional dates — c. 369–286 BCE, the Warring States period — are genuinely uncertain; the only anchor is Sima Qian's note that he was contemporary with King Hui of Liang and King Xuan of Qi. Sima Qian's *Shiji* (c. 100 BCE) gives the only biography, a few lines: a native of Meng in the state of Song, a minor official in the lacquer garden there. Its one anecdote is in character, and the *Zhuangzi* itself tells the fuller version: the king of Chu sent two officials to offer him the government while he was fishing on the Pu river. Zhuangzi kept hold of his rod and did not turn his head — asking only whether the sacred tortoise in the king's shrine, dead three thousand years and venerated in a box of silk, would rather be so honoured or be alive dragging its tail in the mud. The officials allowed that it would rather be alive. Then go away, said Zhuangzi; I mean to keep dragging mine.
 
 The man and the text need separating. The received *Zhuangzi* has thirty-three chapters, redacted from a longer version by Guo Xiang (d. 312 CE), whose commentary became the standard. Scholarly consensus holds the seven Inner Chapters to be substantially Zhuang Zhou's own; the Outer and Miscellaneous chapters are composite, the work of later strands of his school.
 
@@ -23,7 +23,7 @@ The man and the text need separating. The received *Zhuangzi* has thirty-three c
 
 ## Key ideas
 
-**The skill stories.** Cook Ding carves an ox in a dance-like flow. By his own account he no longer follows the ox with his eyes: perception and analysis have fallen away, and something deeper — he calls it spirit — moves the knife along the animal's natural pattern, which is why the blade stays sharp for nineteen years. Wheelwright Bian tells his duke that the knack of wheel-making cannot be put into words — he cannot teach it even to his own son — and that the books of dead sages are therefore only their leavings. The knowing is in the doing; what can be told is not the knack. At the complicated joints Cook Ding slows, takes stock, and proceeds with care — attention persists in the flow, but it is not discursive deliberation.
+**The skill stories.** Cook Ding carves an ox for Lord Wenhui in a dance-like flow. By his own account what he cares for is the Way, which goes beyond skill; he no longer follows the ox with his eyes — perception and analysis have fallen away, and something deeper, he calls it spirit, moves the knife along the animal's natural pattern. An ordinary cook hacks and changes his knife monthly; a good cook cuts and changes it yearly; Ding's blade is nineteen years old and fresh from the whetstone, because at the joints there are spaces, and a blade honed to no thickness enters where there is room. At the complicated tangles he slows, takes stock, and proceeds with care — attention persists in the flow, but it is not discursive deliberation — until the work falls apart like a clod of earth and he stands, looks around, and wipes the blade. Lord Wenhui's response gives the story its turn: from watching his cook carve an ox, he says, he has learned how to nourish life. Wheelwright Bian, interrupting his duke's reading and challenged to justify the insolence on pain of death, answers from his own craft: the knack of wheel-making — not too slow, not too hurried — cannot be put into words; he cannot give it even to his own son, which is why he is still cutting wheels at seventy; the books of dead sages are therefore only their leavings. The knowing is in the doing; what can be told is not the knack.
 
 **Wu-wei.** Effortless action — not inaction but action without forcing, the responsive, unselfconscious attunement the skill masters exemplify. Zhuangzi does not argue it as doctrine; he shows it in the performances.
 
@@ -33,7 +33,7 @@ The man and the text need separating. The received *Zhuangzi* has thirty-three c
 
 **Words as fish traps.** A fish trap matters because of the fish, and once the fish is caught the trap can be forgotten; words matter because of their meaning, and once the meaning is grasped the words can be forgotten. Language is an instrument, not a repository — hence the goblet words, parables, and humour in place of treatise. Zhuangzi's closing wish in the passage is for someone who has forgotten words, to have a word with.
 
-**Huizi.** The logician Hui Shi is the recurring sparring partner — the big gourd, the useless tree, the fish-happiness debate on the Hao bridge. At Huizi's grave, Zhuangzi mourned losing the one person worth talking to. And at his own wife's death he was found drumming on a tub and singing: grief had given way to seeing her death as one more transformation, like the turning of the seasons.
+**Huizi.** The logician Hui Shi is the recurring sparring partner — the big gourd, the useless tree, the fish-happiness debate on the Hao bridge. Passing Huizi's tomb, Zhuangzi told his followers of a plasterer who could let a partner swing an axe at a speck of mud on his nose and take the speck off without breaking skin — a feat possible with that one partner only, and never performed again after he died; since Huizi's death, Zhuangzi said, he had no one to work against, no one left worth talking to. And at his own wife's death Huizi arrived to condole and found him sitting with his legs sprawled, drumming on a tub and singing. To Huizi's rebuke — you lived with her, she raised your children, singing is too much — Zhuangzi answered that he had grieved like anyone at first, until he looked back past her life to the time before she had form, and saw the change that had brought her the way the seasons turn; to wail at this transformation would be to misunderstand it.
 
 ---
 
