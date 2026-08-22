@@ -11,11 +11,9 @@ description: "Groups the resources that address cognition as per the site's defi
 
 The cognition subject groups resources that address the process of cognition as per [the definition this site carries](/seed/cognition/): *cognition is the process of acquiring knowledge and understanding through experience*. Everything that falls within that scope and is actively considered by this site belongs here — across disciplines and sources. It is a bundle that will grow over time as more facets are taken up.
 
-<!--
 ## Biology
 
 - **[Basal cognition](/positioning/subjects/b/basal-cognition/)** — the research field studying cognition below the nervous system: the biogenic approach, the cognitive toolkit, and the cases from bacteria to slime moulds and cell collectives.
--->
 
 
 ## Neuroscience
