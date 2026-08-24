@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "The Field That Waited a Century"
-date: 2030-02-10
-lastmod: 2026-08-22
+date: 2026-09-24
+lastmod: 2026-08-24
 labels: [conversations, philosophy]
 description: "The story of basal cognition's beginning: a century of orphaned results — Jennings's trumpet cell, Gelber's erased experiments, an Ig Nobel slime mould — until Pamela Lyon inverted the question and gave the evidence a home."
 status: draft
 words: 746
 ---
-<img src="IMAGE_TBD" alt="The Field That Waited a Century" />
+<img src="https://plus.unsplash.com/premium_photo-1747905993650-e130159b201b?q=80&w=1946&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="The Field That Waited a Century" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
 In 1906 the American zoologist Herbert Spencer Jennings spent long hours watching a single-celled organism shaped like a trumpet. *Stentor roeselii* is attached to its perch by a holdfast, and Jennings irritated it — gently, repeatedly — to see what it would do. It did not do one thing. It bent away; if that failed it reversed its cilia; if that failed it contracted; and if all else failed it let go and swam off to start life somewhere else. A repertoire, worked through in order, in an organism with no nervous system to hold one. Jennings published, the century turned — and his observation was dismissed for fifty years on the strength of a replication attempt that, it later emerged, had used the wrong species and the wrong stimulus.
 
@@ -20,7 +20,7 @@ The name came around 2018 — *basal* cognition, chosen with care, sidestepping 
 
 The field is young and its potential is not small: rewritable anatomy on the engineering side and, on the larger side, something no one has had before — a spread of experimental cases at every scale of life, against which any future answer to what cognition is will have to be tested.
 
-<small>This post is part of the [conversations series](/blog/label/conversations/). See also the reference entry on <a href="/positioning/subjects/b/basal-cognition/">Basal cognition</a>.</small>
+<small>This post is part of the [positioning series](/blog/label/positioning/). See also the reference entry on <a href="/positioning/subjects/b/basal-cognition/">Basal cognition</a>.</small>
 
 ---
-<small>Photo: TBD / Unsplash</small>
+<small>Photo: <a href="https://unsplash.com/@allisonsaeng">allisonsaeng</a> / Unsplash</small>
