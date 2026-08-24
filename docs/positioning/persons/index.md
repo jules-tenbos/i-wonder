@@ -31,6 +31,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Bakhtin, Mikhail (1895–1975)](b/bakhtin) · philosopher, literary theorist<span class="kw">dialogism, the utterance, polyphony, carnival, outsideness, the unfinalisability of the self</span>
 - [Barabási, Albert-László (1967–)](b/barabasi) · physicist, network scientist<span class="kw">scale-free networks, preferential attachment, network science, robustness and vulnerability</span>
 - [Barthes, Roland (1915–1980)](b/barthes) · literary theorist, critic<span class="kw">myth as second-order signification, connotation, the death of the author, S/Z, the pleasure of the text, the punctum</span>
+- [Bartlett, Frederic (1886–1969)](b/bartlett) · psychologist<span class="kw">remembering as reconstruction, schema, effort after meaning, the War of the Ghosts, serial reproduction, conventionalisation</span>
 - [Bateson, Gregory (1904–1980)](b/bateson) · anthropologist, cyberneticist<span class="kw">ecology of mind, difference that makes a difference, schismogenesis, the pattern which connects</span>
 - [Bateson, William (1861–1926)](b/bateson-w) · biologist<span class="kw">coined "genetics", Mendel's champion, the Mendelian-biometrician debate, discontinuous variation</span>
 - [Baumgarten, Alexander Gottlieb (1714–1762)](b/baumgarten) · philosopher<span class="kw">coined "aesthetics", the science of sensory cognition, gnoseologia inferior, beauty as perfection of sensible cognition</span>
@@ -320,6 +321,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Tooby, John (1952–2023)](t/tooby) · evolutionary psychologist<span class="kw">the adapted mind, the environment of evolutionary adaptedness, the Standard Social Science Model critique</span>
 - [Torvalds, Linus (1969–)](t/torvalds) · software engineer<span class="kw">the Linux kernel, Git, Subsurface, open-source infrastructure and stewardship</span>
 - [Trivers, Robert (1943–2026)](t/trivers) · evolutionary biologist<span class="kw">reciprocal altruism, parental investment, parent-offspring conflict, self-deception</span>
+- [Tulving, Endel (1927–2023)](t/tulving) · psychologist<span class="kw">episodic and semantic memory, encoding specificity, autonoetic consciousness, mental time travel, remember/know</span>
 - [Turing, Alan (1912–1954)](t/turing) · mathematician<span class="kw">the Turing machine, computability, the Entscheidungsproblem, the Turing test, morphogenesis</span>
 
 ## V
