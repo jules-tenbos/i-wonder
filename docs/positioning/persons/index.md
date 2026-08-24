@@ -128,6 +128,8 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Ghiselin, Michael (1939–)](g/ghiselin) · biologist, philosopher of biology<span class="kw">the species-as-individuals thesis, the evolution of sex, opisthobranch systematics</span>
 - [Gibbard, Allan (1942–)](g/gibbard) · philosopher<span class="kw">norm-expressivism, Wise Choices Apt Feelings, thinking how to live, planning and normative judgement, the Gibbard–Satterthwaite theorem</span>
 - [Gibbs, Josiah Willard (1839–1903)](g/gibbs) · physicist, mathematician<span class="kw">statistical mechanics, chemical thermodynamics, Gibbs free energy, the phase rule, ensembles</span>
+- [Gibson, Eleanor J. (1910–2002)](g/gibson-e) · psychologist<span class="kw">perceptual learning as differentiation, the visual cliff, the psychology of reading, ecological account of development, National Medal of Science</span>
+- [Gibson, James J. (1904–1979)](g/gibson-j) · psychologist<span class="kw">ecological psychology, direct perception, the ambient optic array, invariants, affordances, perception-action coupling</span>
 - [Goethe, Johann Wolfgang von (1749–1832)](g/goethe) · poet, dramatist, scientist, statesman<span class="kw">Weimar Classicism and Faust, the morphology of living form, the Urpflanze, the Theory of Colours, an influence on German idealism and Cassirer's symbolic forms</span>
 - [Goodman, Nelson (1906–1998)](g/goodman) · philosopher<span class="kw">ways of worldmaking, symbol systems, rightness over truth, irrealism</span>
 - [Gould, Stephen Jay (1941–2002)](g/gould) · paleontologist, evolutionary biologist<span class="kw">punctuated equilibrium, Spandrels critique, contingency, hierarchy theory, popular science</span>

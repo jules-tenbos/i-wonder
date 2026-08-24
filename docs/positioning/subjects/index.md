@@ -41,6 +41,7 @@ These are subjects of importance to SPLectrum, referenced within the site.
 
 ## E
 
+- [Ecological psychology](e/ecological-psychology/) · perceptual psychology<span class="kw">the animal–environment relation as unit of analysis — direct perception from the ambient array, affordances as relational properties, perception-action coupling, learning as differentiation, the dispute with the computational mainstream</span>
 - [Enactivism](e/enactivism/) · philosophy of mind, cognitive science<span class="kw">cognition as the enactment of a world through embodied action, not representation of a pre-given one — The Embodied Mind, sense-making, the three strands (autopoietic, sensorimotor, radical), the scaling-up problem</span>
 - [Epistemology — the naturalistic turn](e/epistemology/) · philosophy, history of ideas<span class="kw">the one move the metaphysics map has no slot for — epistemology renegotiating its border with empirical inquiry: the analysis of knowledge and its collapse after Gettier, Quine's naturalizing handover, the externalist turn hinged on reliabilism, the social turn, and Williamson's knowledge-first counter-move</span>
 - [Ethics](e/ethics/) · philosophy<span class="kw">how moral philosophy is structured — the normative theories of what to do, and beneath them the metaethical question of what a moral claim is: realism, error theory, expressivism, constructivism, relativism, and the form-of-life line that rejects the frame</span>

@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-08-20
+lastmod: 2026-08-24
 title: "Cognition"
 description: "Groups the resources that address cognition as per the site's definition — the process of acquiring knowledge and understanding through experience. The bundle grows as facets are taken up."
 ---
@@ -25,9 +25,4 @@ The cognition subject groups resources that address the process of cognition as 
 - **[Cognition in core philosophy](/positioning/subjects/c/cognition/philosophy/core/)** — what it brings to cognition is convergence: independent traditions, Western and Eastern, arriving at the same refusal — no experiencing first and cognising after.
 - **[Cognition as a property of life](/positioning/subjects/c/cognition/philosophy/biology/)** — what it brings to cognition is reach: the philosophical case that the process extends as far as life itself, stated long before the empirical field existed.
 
-<!--
-## Psychology
-
-- **[Developmental psychology](/positioning/subjects/c/cognition/psychology/developmental-psychology/)** — the psychology that studies the acquiring itself: Piaget's constructed structures of understanding, Vygotsky's acquisition through the shared.
--->
 
