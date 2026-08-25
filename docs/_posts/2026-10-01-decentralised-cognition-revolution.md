@@ -33,7 +33,7 @@ Extended capabilities reaching into territories that were always there, but not 
 
 Cognition, as seen from our vantage point, will decentralise because of us becoming aware it is decentralised, already.
 
-If there is a revolution I think we should have then it is this Decentralised Cognition Revolution, both in insight and expression. It should be exciting times ahead!
+If there is a revolution I think we should have then it is this Decentralised Cognition Revolution, both in insight and expression. It is technology somehow going full circle: how the artificial draws us in to go back to our roots. It should be exciting times ahead!
 
 ---
 <small>Photo: <a href="https://unsplash.com/@stbuccia">stbuccia</a> / Unsplash</small>
