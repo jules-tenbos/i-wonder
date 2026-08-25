@@ -1,5 +1,7 @@
 # Cognition meta subject — facet build-out plan
 
+**STATUS 2026-08-25: RESOLVED — both facets closed, this plan is historical.** The biology facet was delivered 2026-08-22 (basal cognition as a full subject page + Levin/Lyon person pages; Biology section live on the cognition landing). The psychology facet was **removed from the cognition subject 2026-08-24** (Jules: not ready to make it strong enough; may be picked up later) — the backing was built outside it instead: the ecological-psychology subject page + J.J./Eleanor Gibson person pages, and the Bartlett + Tulving person pages (no memory subject). The three-streams developmental page and `psychology/index.md` remain on disk unlinked. The basal close-affinity page + its 10-04 post were delivered 2026-08-25. The plan below is kept as the record of the original scoping.
+
 *Opened 2026-08-20 from the facet-consolidation discussion. Scope: the psychology facet (three pages) and the biology facet (basal cognition done properly). The governing principles, settled in that discussion:*
 
 - *The meta subject is a pointer layer with an insight overlay — never the primary source, no external links. Content pages answer to the definition (cognition = the process of acquiring knowledge and understanding through experience) and rest on primary sources elsewhere on the site.*
