@@ -48,6 +48,24 @@ Australian; former investigative and science journalist; came to academia late �
 
 ---
 
+## Gap-closing round (2026-08-25) — quorum sensing + pre-neural bioelectricity
+
+Two targeted additions for the close-affinity work's meaning-in-the-non-neural angle.
+
+### Quorum sensing — the bacterial interaction language
+
+- **The mechanism (textbook-solid).** Bacteria synthesise, release, and detect small signal molecules (autoinducers); above a threshold concentration — i.e., above a population density — reception flips gene expression population-wide, synchronously. Founding line: Nealson & Hastings's *Vibrio fischeri* luminescence work (1970); the term "quorum sensing" coined by Fuqua, Winans & Greenberg (1994); the standard reviews are Miller & Bassler, "Quorum sensing in bacteria" (*Annu Rev Microbiol* 2001) and Waters & Bassler (*Annu Rev Cell Dev Biol* 2005).
+- **Dialects and a common language — the field's own vocabulary.** Species-specific autoinducers (the AHL family in Gram-negatives, oligopeptides in Gram-positives) function as intraspecies signals; **AI-2** (discovered in *Vibrio harveyi*, Bassler et al. 1994) is produced and detected across a large cohort of Gram-negative AND Gram-positive species and is standardly described in the literature as a "universal" interspecies signal — "a common language for bacterial interaction" is the field's phrase, not ours. Receptor diversity (LuxP, LsrB, and a third dCACHE-domain family) means different species read the same molecule through different receptors — the meaning of the signal is fixed on the reception side.
+- **What it regulates:** bioluminescence, virulence, competence, motility, antibiotic production, and **biofilm formation** — the last being collectively created structure: population-level meaning-work whose sediment is a shared physical form.
+- **Bassler's combinatorial point:** *V. harveyi* runs multiple autoinducer circuits in parallel and integrates them — the cell distinguishes "how many of us" from "how many of them," a genuinely relational readout of social context.
+- **For the CA angle:** quorum sensing is the being↔being side at the bacterial scale — signal production, threshold reception, population-wide coordinated response; dialects, a lingua franca, and meaning fixed by the receiver. It slots directly into the "language of interaction" column.
+
+### Pre-neural bioelectricity — the sourcing
+
+- **The claim to source:** neurons are specialised users of an older signalling medium. **Primary backing: Keijzer, van Duijn & Lyon, "What nervous systems do: early evolution, input–output, and the skin brain thesis," *Adaptive Behavior* 21(2), 2013** — excitable epithelia using chemical/electrical signalling as the nervous-system precursor; note **Lyon is a co-author**, so the pre-neural line runs through the field's own conceptual architect, an on-site tie.
+- **Levin's statement of it:** "The computational boundary of a 'self'" (*Front Psychol* 2019) — all cells are electrically active; modern neurons evolved from pre-neural precursors already using ion-based signalling for coordination; developmental bioelectricity as the ancestral medium, speed-optimised by nervous systems.
+- **Honest breadth:** that neural signalling descends from pre-existing cellular bioelectricity is mainstream; *why* nervous systems arose is disputed — the skin brain thesis (coordination of whole-body movement, not input–output processing) is one proposal in an acknowledged option space (Jékely, Keijzer & Godfrey-Smith, "An option space for early neural evolution," *Phil Trans R Soc B* 2015). The CA piece needs only the descent claim, which is safe; it should not lean on the skin brain thesis specifically.
+
 ## Storyline check (for the "cognition without a brain" post)
 
 - **Best safe stories:** Tokyo rail (oat flakes as stations, the mould re-drawing the commuter map overnight, engineers vs a yellow blob, the Ig Nobel); **Stentor** (the best narrative arc in the field: Jennings 1906 → a century of dismissal on a botched non-replication → Harvard 2019, carmine powder fails, plastic beads work — "a single cell has a repertoire, and works through it"); E. coli (the now-vs-three-seconds-ago hook, told as delay-chemistry, honestly).
