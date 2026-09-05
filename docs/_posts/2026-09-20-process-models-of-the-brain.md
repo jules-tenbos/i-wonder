@@ -2,15 +2,15 @@
 layout: post
 title: "Process Models of the Brain"
 date: 2026-09-20
-lastmod: 2026-08-23
+lastmod: 2026-09-04
 labels: [conversations, engineering]
 description: "Three process models of the brain, presented purely for the insight each brings: evolution, competition, error correction — our keywords; the field's own are selection, workspace competition, prediction-error minimisation."
 status: ready
-words: 710
+words: 695
 ---
 <img src="https://images.unsplash.com/photo-1664447990726-355422d41054?q=80&w=350&h=230&auto=format&fit=crop" alt="Process Models of the Brain" />
 
-In this post I am showcasing three process models of the brain. None of them tell us how it works but each tells us something about it. Each gives us insight into a specific aspect: evolution, competition, error correction. I present them here purely for the insight while staying away from domain-related discussions.
+In this post I am showcasing three process models of the brain. None of them tell us all but each gives us insight into a specific aspect: evolution, competition, error correction. I present them here purely for the insight while staying away from domain-related discussions.
 
 [Edelman](/positioning/persons/e/edelman/)'s theory of neuronal group selection (1987) — his own name for it; *Neural Darwinism* is the book title the field adopted — describes how capability gets embedded, and its shape is borrowed on purpose. Edelman had already won a Nobel for the chemical structure of antibodies — work that helped confirm the immune system meets a novel antigen not by templating an antibody to fit it but by selecting from a pre-existing repertoire of variants: selection, not instruction. He ported the argument to the brain. It stands on three legs: development throws up a vast variety of neuronal *groups* — the unit is the group, not the synapse — the primary repertoire; experience selects among them, strengthening some and weakening others, the secondary repertoire; and reentry — recursive, bidirectional signalling that correlates activity across mapped groups — ties the selected groups into coherent function. Edelman was explicit that without the third leg the first two give only a heap of independently tuned groups. This is the facet our keyword evolution names: plasticity — the brain's structure shaped over time by experience, run on selection's logic. Selection settles the standing repertoire, and what wins is retained. New groups keep forming and entering the running, and nothing gates their entry — but the selection leaves a residue, a capability that persists. Edelman himself was careful with the borrowed word: somatic selection within one lifetime, not evolution across generations — nothing is inherited.
 
@@ -18,7 +18,7 @@ Global Workspace Theory ([Baars](/positioning/persons/b/baars/), 1988; Dehaene's
 
 [Friston](/positioning/persons/f/friston/)'s free energy principle (2006) describes how fit is determined, and the reading it sits on is measurable. The field's central term is the *generative model*: a model of the world the brain maintains, projecting predictions of incoming signals; predictions descend and prediction errors ascend, and the system works to minimise the errors — *prediction-error minimisation*, in the literature's own vocabulary. Repetition suppression shows responses falling as a stimulus becomes predictable; the mismatch negativity shows the reverse, a signal thrown up precisely when a prediction fails; and laminar recordings have begun to look for the descending predictions and ascending errors in separate cortical layers — with suggestive but still contested results. This is the facet our keyword error correction names: a world model, its future built from the past and corrected against what actually arrives. A brain forever anticipating and revising, its errors and predictions running in opposite directions through the sheet.
 
-Evolution, competition, error correction — our keywords; the field's own are selection, workspace competition, prediction-error minimisation. Capability retained by selection, dominance settled by contest, fit maintained by prediction: three models approaching aspects of the same problem — how a brain keeps going — and each aspect is a different kind of thing: structure built over time, activation in the moment, a world model projecting a future from the past and correcting it against what arrives. Holding several models at once, each for the insight it brings, without forcing them into one — building an understanding of the brain.
+Evolution, competition, error correction — our keywords; the field's own are selection, workspace competition, prediction-error minimisation. Capability retained by selection, dominance settled by contest, fit maintained by prediction: three models approaching aspects of the same problem — how a brain keeps going — and each aspect is a different kind of thing: structure built over time, activation in the moment, a world model projecting a future from the past and correcting it against what arrives. Holding several models at once, each for the insight it brings, building an understanding of the brain.
 
 <small>This post is part of the [conversations series](/blog/label/conversations/). See also <a href="/positioning/subjects/c/cognition/neuroscience/process-models/">Process Models of the Brain</a> in the reference library.</small>
 

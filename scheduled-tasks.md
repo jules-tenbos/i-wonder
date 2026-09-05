@@ -67,6 +67,7 @@ Build history (creativity merge/reorder/potential-vs-actual correction; the proc
 
 Backlog of scoped work awaiting its turn — kept in `submissions/`, out of the active sequence above.
 
+- **Vervaeke decision record** — considered and declined 2026-09-05 (baggage, contemporary); fence line + "the static mind" observation captured in `submissions/vervaeke-decision.md` if ever revisited.
 - **AI information field** — long-running build; will come into focus as important, not yet. First decision open: thin hub subject or fence piece first. Scoped in `submissions/ai-information-field.md`. Couples to the language-mechanics strand (embedding-space/cauldron) — likely pulled toward active when that strand reaches the relational-primitive joint.
 - **Time topic for the Reality section** — a piece on time (assembly theory, historicity) alongside discovery/evolution; explicitly not for the current launch window. Scoped in `submissions/reality-time.md`.
 - **Generative aesthetics** — discussion findings: self-realisation as generative aesthetics turned on the subject's own reality; the generative/receptive cut, the articulate/disclose verb split, and a parallels field (construction-positive Eastern traditions, the Western will-band, the shaping-arrow psychology incl. motor imagery). On-site tags verified. Scoped in `submissions/generative-aesthetics.md`. Shares candidates with the language-mechanics strand (Kelly, Varela, von Glasersfeld, Piaget) — coordinate.
