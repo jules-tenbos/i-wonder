@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-08-13
+lastmod: 2026-09-06
 title: "Seed"
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-08-12
+lastmod: 2026-09-06
 title: "The SPLectrum Seed"
 description: "The SPLectrum seed and its many facets — six principles on language and relation, articulated across philosophy, science, engineering and beyond."
 ---
@@ -31,6 +31,9 @@ Human reality as community-constituted — how subjects share, synchronise, and 
 
 **[The seed and Interrelational Pluralism](interrelational-pluralism)**<br>
 The full dynamic of the seed — where SPLectrum gets its philosophical name.
+
+**[The Seed, Pluralism and the Coin](pluralism-and-the-coin)**<br>
+The seed as a metalanguage of common principles: one approach on the how, equal standing on the what — and the perimeter as the place this can be said from.
 
 **[The seed, Privacy and Decentralisation](privacy-and-decentralisation)**<br>
 Privacy as the essence of subject experience, and decentralisation as how communities naturally form.
