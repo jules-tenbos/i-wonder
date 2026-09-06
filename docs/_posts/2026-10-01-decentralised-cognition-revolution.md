@@ -2,41 +2,28 @@
 layout: post
 title: "The Decentralised Cognition Revolution"
 date: 2026-10-01
-lastmod: 2026-08-24
+lastmod: 2026-09-06
 labels: [engineering]
 status: Mandatory review
-words: 599
+words: 818
 ---
 <img src="https://images.unsplash.com/photo-1650648065204-0b8d52b18447?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="The Decentralised Cognition Revolution" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
-It is said that we live in the period of the Fourth Industrial Revolution, a period where there is fusion of technologies across domains - digital, physical, and biological, and where the boundary between tool and agent starts dissolving. I think that we are seeing the start of a revolution that goes beyond the tools and agents, and that shifts towards the driver: cognition.
+It is said that we live in the period of the Fourth Industrial Revolution, a period where there is fusion of technologies across domains — digital, physical, and biological — and where the boundary between tool and agent starts dissolving. I think we are seeing the start of a revolution that goes beyond the tools and agents, and that shifts towards the driver: cognition.
 
-The industrial revolution came in waves. Mechanisation took over from muscle — the loom, the engine, the assembly line. Electrification changed the reach — power no longer needed to stay local. The information cycle transformed how we handle data — store it, move it, process it at scale. Each wave found its battleground. The factory floor. The grid. The network.
+The industrial revolutions have been, at heart, a story of extension — and extension is not a human invention but life's oldest habit: living things extend their capabilities through artefacts, non-living and living alike — shells and webs and dams, domesticated species, each other. [Sara Walker](/positioning/persons/w/walker/) makes the point at full depth: life is the process that constructs such objects, and our technology is not outside that process but its continuation. Seen that way, mechanisation extended us past muscle — the loom, the engine, the assembly line. Electrification extended the reach — power no longer needed to stay local. The information cycle extended our handling of data — storing it, moving it, processing it at scale. And alongside the physical runs a much older mental thread: our brain is an ingenious unit, but severely resource-constrained, and over the centuries we have extended its reach through artefact after artefact — writing, printing, recording, calculators, computers.
 
-With the Fourth Industrial Revolution came artificial intelligence. More accurately, it brought us the physical tools to create embryonic artificial intelligence, good enough to give us the ability to start developing it meaningfully.
+The latest wave brings something different in kind. Neural networks give us the ability to process information the way no rule-book ever could, and with that comes the ability to hand our artefacts not calculation but substantial amounts of *thinking* — the lighter, but often very time-consuming, forms of mental activity. This is a paradigm shift.
 
-Where can this be expected to take us?
+I mean that in a precise sense. The shift is, in my opinion, of the same magnitude as the move from classical physics into quantum mechanics and relativity — and comparable in nature, not just in size. Then, a physics built on a determinate, observer-independent picture met phenomena that refused to fit it, and what counted as understanding had to change. Now, centuries of science and philosophy built on rational, logical thinking — explicit rules, transparent chains of reasoning — meet the fact that the machines that finally work at thinking are not logic engines at all. They are associative. The paradigm shift forces our attention towards an associative way of processing information, and away from the assumption that the rational-logical way is what thinking *is*.
 
-We have always extended our reach by building on top of what we know already. This applies equally to building in the physical and mental. Building on top of the previous has allowed us to overcome limitations. In the physical we have been able to move away from needing humans (and animals) for physical labour. 
-The same applies to mental activity. Our brain is a very ingenious complicated unit, but its main constraint is that it is severely resource constraint. We have only capacity for so much. 
-Ovr the centuries we already have worked hard in offloading tasks - extending our reach. This includes writing, printing, communication, recording, calculators, computers. 
-But where calculators allowed our brains to stop having to do numerical calculations, AI as it evolves will allow our brains to do less of the lighter - but often very time consuming - forms of thinking. They can then concentrate on tasks that are more suited for the higher level of sophistication of our brain in comparison with 'brains' of AI. Doors will be opened that we didn't know even existed, in the same way the industrial revolution opened the doors to new technologies, new ways of understanding, all the gadgetry we live with.
+That's self-evident I hear you say, how else? However with AI there is a difference from the earlier waves. Here we are trying to build the simpler components of something we already possess and use with high sophistication — we are building in the image of our brain.
 
-And the arrival in its current guise is a game changer, a paradigm shift. In my opinion of the same magnitude as moving from classical physics into QM and general relativity. 
+That has two consequences. Firstly, we think we know already, and imagine we are building higher sophistication than what really takes place — hence all the chatter about AGI, superintelligence, and AI taking over the world. Secondly, and the more interesting one for me: it should force us to try to understand the simple before attempting the sophisticated. And that should open our eyes to the abundance of intelligence present in life all around us. And I am not only talking about brains here.
 
-That's self-evident I hear you say, how else? However with AI there is a difference. Here we are trying to build the simpler components of something we already possess and use with high sophistication, we are trying to build in the image of our brain.
+So I read the paradigm shift as an opportunity to extend cognition in two directions at once. Upward: our own mental capabilities extended, freed for the tasks our brains are actually suited for — a subject with enough in it to deserve its own post, another time. But notice how all our extending has been done so far: inside a cocoon, myopic and strongly anthropocentric. Extensions as inert instruments, the [Cartesian subject](/positioning/persons/d/descartes/) at the centre, capability radiating outward, and the assumption sealed in: that cognition is what *we* do. What breaks the cocoon open is our extensions themselves, as they begin to act with more and more autonomy — the boundary between tool and agent dissolving. And with the break comes a whole paradigm shift in the mental landscape: time to turn the attention onto the giant on whose shoulders we stand — life itself, and the cognitive capabilities present in it, there to be understood and used.
 
-That has two consequences: 
-Firstly we think we know already and are building higher sophistication than what really takes place. Hence all the chatter about AGI, superintelligence and AI taking over the world.
-Secondly, and the more interesting one for me, it should force us to try to understand the simple first before attempting the sophisticated. And that should open our eyes to the abundance of intelligence present in life all around us. And I am not only talking about brains here.
-
-The paradigm shift of current AI should push our drive to understand cognition into an extension into our technologies but at the same time a reevaluation of cognition of living creatures in general - an simultaneous upward and downward movement.
-
-Extended cognition — AI that makes *me* think further, deeper — conforms to the anthropocentric starting point. The [Cartesian subject](/positioning/persons/d/descartes/) preserved at the centre, capability radiating outward. Useful geometry. But if the earlier revolutions are any guide, it's not where this stays.
-
-The more interesting move is not extension but decentralisation. Not only our mental capabilities spreading outward across tools and agents, but our cognition of what is widening — giving deserved attention to the giant on whose shoulders we stand: life itself.
-
-Extended capabilities reaching into territories that were always there, but not easily accessible. Animal cognition. Collective intelligence across ecosystems. The coordination running through microbial networks. [Maturana](/positioning/persons/m/maturana/) described cognition as coextensive with life itself — and the question doesn't have to stop at life. Structure, pattern, adaptation, response run through systems we don't usually think of as cognitive. Will this cognitive revolution open the door to alien cognition?
+Territories that were always there, but not easily accessible. Animal cognition. Collective intelligence across ecosystems. The coordination running through microbial networks. [Maturana](/positioning/persons/m/maturana/) described cognition as coextensive with life itself — and the question doesn't have to stop at life. Structure, pattern, adaptation, response run through systems we don't usually think of as cognitive. Will this cognitive revolution open the door to alien cognition?
 
 Cognition, as seen from our vantage point, will decentralise because of us becoming aware it is decentralised, already.
 

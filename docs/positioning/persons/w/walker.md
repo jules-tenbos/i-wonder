@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-26
+lastmod: 2026-09-06
 title: "Sara Imari Walker"
 description: "American theoretical physicist and astrobiologist — the physics of life, assembly theory with Lee Cronin, time as a material property of objects, and the question of what life is."
 ---
@@ -46,6 +46,8 @@ The 2023 Aeon essay "Time is an object" (with Cronin) and her book *Life As No O
 ## Life As No One Knows It
 
 Walker's book-length popular treatment (Riverhead, 2024). The book develops the argument that existing physics lacks an account of what makes life distinctive; proposes assembly theory as the framework that fills the gap; and extends the claims into cosmology, arguing that the universe's complexity grows through accumulated construction history.
+
+Among the book's arguments is a relocation of what "life" names. For Walker, being alive is not a property that individual objects have or lack: life is the lineage-spanning process of construction and selection, and individual objects — organisms included — are what the process passes through. One consequence she draws explicitly: our technological constructs belong to that process. A phone is an object only a four-billion-year selection lineage could produce, and is in that sense part of our lifeform — of the living process running through us — while not being individually alive. The technosphere, on this account, is not an analogue of the biosphere but its continuation.
 
 The book is accessible rather than technical. It brought assembly theory's claims — particularly the metaphysical claims about time — to a broader audience and generated substantial discussion in popular science and philosophy circles.
 

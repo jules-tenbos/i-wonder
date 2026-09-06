@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-26
+lastmod: 2026-09-06
 title: "Assembly Theory — Extensions"
 description: "Proposed applications of assembly theory beyond molecular biology: language, technology, music, cultural evolution, cosmology, and the TAP collaboration with Kauffman and Smolin."
 ---
@@ -26,6 +26,8 @@ The formal apparatus has not been worked out for these domains as it has for mol
 The "technosphere" framing. Computers, cities, and other complex technological objects require prior stack — earlier objects must exist before later objects can be constructed. The early universe could not have produced computers because not enough history had accumulated yet. A semiconductor fab requires metallurgy, optics, chemistry, clean-room engineering, each of which requires its own accumulated history.
 
 This connects to evolutionary considerations about the path from cells to civilisations: the assembly index of a technological object measures how much prior construction history the object presupposes.
+
+The framing carries a claim about the boundary of life itself, made most explicitly in [Walker](/positioning/persons/w/walker/)'s *Life As No One Knows It* (2024). High-assembly objects exist only where selection has operated, and on assembly theory's account that makes technological artefacts products of the same construction lineage as organisms: a phone or a city is, on this view, part of the living process that built it — an output of four billion years of accumulated selection — while not being individually alive. The apparent paradox dissolves because the theory relocates what "life" names: not a property of individual objects but the lineage-spanning process of construction and selection. Individual objects, organisms included, are instances the process passes through; the technosphere is that process continuing, not something standing outside it.
 
 ---
 
