@@ -17,13 +17,20 @@ With the Fourth Industrial Revolution came artificial intelligence. More accurat
 
 Where can this be expected to take us?
 
-We have always extended our reach by building on top of what we know already. Likewise for the mental. But where calculators allowed our brains to stop having to do numerical calculations, AI as it evolves will allow our brains to do less of the lighter - but often very time consuming - forms of thinking. They can then concentrate on tasks that are more suited for the higher level of sophistication of our brain in comparison with 'brains' of AI. Doors will be opened that we didn't know even existed, in the same way the industrial revolution opened the doors to new technologies, new ways of understanding, all the gadgetry we live with.
+We have always extended our reach by building on top of what we know already. This applies equally to building in the physical and mental. Building on top of the previous has allowed us to overcome limitations. In the physical we have been able to move away from needing humans (and animals) for physical labour. 
+The same applies to mental activity. Our brain is a very ingenious complicated unit, but its main constraint is that it is severely resource constraint. We have only capacity for so much. 
+Ovr the centuries we already have worked hard in offloading tasks - extending our reach. This includes writing, printing, communication, recording, calculators, computers. 
+But where calculators allowed our brains to stop having to do numerical calculations, AI as it evolves will allow our brains to do less of the lighter - but often very time consuming - forms of thinking. They can then concentrate on tasks that are more suited for the higher level of sophistication of our brain in comparison with 'brains' of AI. Doors will be opened that we didn't know even existed, in the same way the industrial revolution opened the doors to new technologies, new ways of understanding, all the gadgetry we live with.
+
+And the arrival in its current guise is a game changer, a paradigm shift. In my opinion of the same magnitude as moving from classical physics into QM and general relativity. 
 
 That's self-evident I hear you say, how else? However with AI there is a difference. Here we are trying to build the simpler components of something we already possess and use with high sophistication, we are trying to build in the image of our brain.
 
 That has two consequences: 
 Firstly we think we know already and are building higher sophistication than what really takes place. Hence all the chatter about AGI, superintelligence and AI taking over the world.
 Secondly, and the more interesting one for me, it should force us to try to understand the simple first before attempting the sophisticated. And that should open our eyes to the abundance of intelligence present in life all around us. And I am not only talking about brains here.
+
+The paradigm shift of current AI should push our drive to understand cognition into an extension into our technologies but at the same time a reevaluation of cognition of living creatures in general - an simultaneous upward and downward movement.
 
 Extended cognition — AI that makes *me* think further, deeper — conforms to the anthropocentric starting point. The [Cartesian subject](/positioning/persons/d/descartes/) preserved at the centre, capability radiating outward. Useful geometry. But if the earlier revolutions are any guide, it's not where this stays.
 
